@@ -1,17 +1,18 @@
 flags: 01010
-blocks: <h3>Мобильная версия</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Возможность сравнения двух учебный программ</h3><p>&#x2013; AlexDaniel 2014-07-28 15:16:19</p>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----</p></div>
+blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Возможность сравнения двух учебный программ</h3><p>&#x2013; AlexDaniel 2014-07-28 15:16:19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">Мобильная версия</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">Адаптировать сайт под мобильные телефоны</strong></p></div>
 ip: 84.52.39.59
-ts: 1406549788
+ts: 1407600999
 minor: 
-host: sa-84-52-39-59.saturn.infonet.ee
+host: 89.235.245.14
 username: AlexDaniel
-revision: 13
+revision: 14
 diff-major: 1
-summary: === Возможность сравнения двух учебный программ
+summary: 
 languages: 
-text: === Мобильная версия
+text: === Адаптировать сайт под мобильные телефоны
 	Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?
 	
 	-- AlexDaniel 2014-03-17 23:59 UTC
@@ -21,5 +22,5 @@ text: === Мобильная версия
 	-- AlexDaniel 2014-07-28 15:16:19
 	
 	
-lastmajor: 13
-keep-ts: 1406549788
+lastmajor: 14
+keep-ts: 1407600999
