@@ -1,0 +1,25 @@
+flags: 0101010
+blocks: <p>Поступил в 2013-ом на ÄriIT.</p><h2>Интересные статьи:</h2><h3>Использование <a class="url http outside" href="https://en.wikipedia.org/wiki/Free_software">free software</a> в ТТУ:</h3><ul><li>[[IAF0041|Arvutid]] - как делать лабораторные работы в <a class="url http outside" href="http://www.geda-project.org/">gEDA</a>.</li><li>[[ISS0010|Süsteemiteooria]] - как делать лабы в <a class="url http outside" href="http://www.scilab.org/">Scilab</a>, а также немного про <a class="url http outside" href="http://www.sagemath.org/">Sage</a> и <a class="url http outside" href="http://sourceforge.net/projects/python-control/">python-control</a>.</li><li>[[IDK0015|Andmetöötlus]] - практика в <a class="url http outside" href="http://www.libreoffice.org/">LibreOffice</a>.</li></ul>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;  * [[IAF0041|Arvutid]] - как делать лабораторные работы в gEDA<strong class="changes">?.</strong><br />&lt;  * [[ISS0010|Süsteemiteooria]] - как делать лабы в Scilab<strong class="changes">?,</strong> а также немного про Sage и python-control<strong class="changes">.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  * [[IAF0041|Arvutid]] - как делать лабораторные работы в <strong class="changes">[[http://www.geda-project.org/</strong> gEDA<strong class="changes">]].</strong><br />&gt;  * [[ISS0010|Süsteemiteooria]] - как делать лабы в <strong class="changes">[[http://www.scilab.org/</strong> Scilab<strong class="changes">]],</strong> а также немного про <strong class="changes">[[http://www.sagemath.org/</strong> Sage<strong class="changes">]]</strong> и <strong class="changes">[[http://sourceforge.net/projects/</strong>python-control<strong class="changes">/ python-control]].</strong></p></div>
+ip: 89.235.239.240
+ts: 1402678754
+minor: 
+host: 89-235-239-240.saturn.infonet.ee
+username: AlexDaniel
+revision: 3
+diff-major: 1
+summary: 
+languages: 
+text: Поступил в 2013-ом на ÄriIT.
+	
+	==Интересные статьи:
+	
+	===Использование [[https://en.wikipedia.org/wiki/Free_software free software]] в ТТУ:
+	 * [[IAF0041|Arvutid]] - как делать лабораторные работы в [[http://www.geda-project.org/ gEDA]].
+	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
+	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
+	
+lastmajor: 3
+keep-ts: 1402678754

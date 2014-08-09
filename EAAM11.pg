@@ -1,0 +1,40 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h3>EAAM11/11 - Hoonete energiatõhusus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50153&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[ISS0090]] Arukad hooned<br />[[ISS0120]] Automaatika alused<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EEA0031]] Ehitusfüüsika<br />[[AME0510]] Elektrienergia säästlik kasutamine hoonetes<br />[[AME3130]] Elektrotehnika<br />[[EKK0300]] Energiatehnika<br />[[EKK0250]] Energiatõhusus ja selle majanduslik hindamine<br />[[EEA0012]] Hooned<br />[[EKK0240]] Hoonete planeerimine ja fassaadide kujundamine<br />[[EKK0051]] Hoonete sisekliima<br />[[EKK0270]] Hoonete soojusliku käitumise modelleerimine ja analüüs<br />[[EKK0230]] Hoonete soojusvarustus<br />[[EKV0031]] Hoone veevärk ja kanalisatsioon I<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EKK0090]] Keskkonnasäästlik energeetika<br />[[EKV0090]] Korrosioonitõrje<br />[[EKK0200]] Küte<br />[[MSE0200]] Lokaalkatlamajad<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[EKK0260]] Õhu konditsioneerimine ja jahutus<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[EKK0080]] Soojustehnika<br />[[HLX8040]] Teadusvõõrkeel<br />[[EKK0310]] Tööpraktika<br />[[EKK0280]] Ventilatsioon<br /></p>
+ip: 89.235.235.166
+ts: 1391203589
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 1
+summary: AutomaticUpdate
+languages: 
+text: === EAAM11/11 - Hoonete energiatõhusus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50153&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[ISS0090]] Arukad hooned\\
+	[[ISS0120]] Automaatika alused\\
+	[[HLE6060]] Eesti keele väljendusõpetus\\
+	[[EEA0013]] Ehitiste renoveerimine\\
+	[[EEA0031]] Ehitusfüüsika\\
+	[[AME0510]] Elektrienergia säästlik kasutamine hoonetes\\
+	[[AME3130]] Elektrotehnika\\
+	[[EKK0300]] Energiatehnika\\
+	[[EKK0250]] Energiatõhusus ja selle majanduslik hindamine\\
+	[[EEA0012]] Hooned\\
+	[[EKK0240]] Hoonete planeerimine ja fassaadide kujundamine\\
+	[[EKK0051]] Hoonete sisekliima\\
+	[[EKK0270]] Hoonete soojusliku käitumise modelleerimine ja analüüs\\
+	[[EKK0230]] Hoonete soojusvarustus\\
+	[[EKV0031]] Hoone veevärk ja kanalisatsioon I\\
+	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
+	[[EKK0090]] Keskkonnasäästlik energeetika\\
+	[[EKV0090]] Korrosioonitõrje\\
+	[[EKK0200]] Küte\\
+	[[MSE0200]] Lokaalkatlamajad\\
+	[[MHT0010]] Metroloogia ja mõõtetehnika\\
+	[[EKK0260]] Õhu konditsioneerimine ja jahutus\\
+	[[EMH0040]] Pumbad ja ventilaatorid\\
+	[[EKK0080]] Soojustehnika\\
+	[[HLX8040]] Teadusvõõrkeel\\
+	[[EKK0310]] Tööpraktika\\
+	[[EKK0280]] Ventilatsioon\\
+	
+lastmajor: 1

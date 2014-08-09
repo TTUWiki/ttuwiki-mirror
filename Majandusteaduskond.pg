@@ -1,0 +1,38 @@
+flags: 010101010101010101010101010
+blocks: <p>[[TACB08]] Ärikorraldus<br />[[TABB02]] Ärindus<br />[[TAAB02]] Avaliku sektori majandus<br />[[TVTB12]] Rahvusvaheline ärikorraldus<br />[[TASB08]] Rahvusvahelised suhted<br /><br />[[TAKM02]] Ärikorraldus<br />[[TARM02]] Ärirahandus ja majandusarvestus<br />[[TAAM02]] Avaliku sektori majandus<br />[[TATM02]] Juhtimine ja turundus<br />[[TVRM12]] Rahandus ja majandusanalüüs<br />[[TVTM03]] Rahvusvaheline ärikorraldus<br />[[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud<br /><br />[[TADD02]] Majandus<br /><br /></p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TAAB02]] Avaliku sektori majandus\\<br />&lt; [[TAAM02]] Avaliku sektori majandus\\<br />&lt; [[TABB02]] Ärindus\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">TADD02</strong>]] <strong class="changes">Majandus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">TABB02</strong>]] <strong class="changes">Ärindus\\<br />&gt; [[TAAB02]] Avaliku sektori majandus\\<br />&gt; [[TVTB12]] Rahvusvaheline ärikorraldus\\<br />&gt; [[TASB08]] Rahvusvahelised suhted\\</strong><br />&gt; \\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">TASB08</strong>]] <strong class="changes">Rahvusvahelised suhted\\<br />&lt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">TAAM02</strong>]] <strong class="changes">Avaliku sektori majandus</strong>\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TVTB03]] Rahvusvaheline ärikorraldus\\<br />&lt; [[TVTB12]] Rahvusvaheline ärikorraldus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud\\<br />&gt; \\<br />&gt; [[TADD02]] Majandus\\<br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265079
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[TACB08]] Ärikorraldus\\
+	[[TABB02]] Ärindus\\
+	[[TAAB02]] Avaliku sektori majandus\\
+	[[TVTB12]] Rahvusvaheline ärikorraldus\\
+	[[TASB08]] Rahvusvahelised suhted\\
+	\\
+	[[TAKM02]] Ärikorraldus\\
+	[[TARM02]] Ärirahandus ja majandusarvestus\\
+	[[TAAM02]] Avaliku sektori majandus\\
+	[[TATM02]] Juhtimine ja turundus\\
+	[[TVRM12]] Rahandus ja majandusanalüüs\\
+	[[TVTM03]] Rahvusvaheline ärikorraldus\\
+	[[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud\\
+	\\
+	[[TADD02]] Majandus\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265079

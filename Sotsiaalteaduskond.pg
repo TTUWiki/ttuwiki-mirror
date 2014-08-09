@@ -1,0 +1,36 @@
+flags: 01010101010101010101010
+blocks: <p>[[HAAB02]] Avalik haldus<br />[[HAKB02]] Halduskorraldus<br />[[HAJB08]] Õigusteadus<br /><br />[[HAAM02]] Avalik haldus<br />[[HAHM03]] Haldusjuhtimine<br />[[HAJM08]] Õigusteadus<br />[[HAPM10]] Personalitöö ja -arendus<br />[[HVJM12]] Tehnoloogiaõigus<br />[[HAGM09]] Tehnoloogia valitsemine<br />[[HVWM11]] Töö- ja organisatsioonipsühholoogia<br /><br />[[HAAD06]] Avalik haldus<br /><br /></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">HAAD06</strong>]] <strong class="changes">Avalik haldus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">HAKB02</strong>]] <strong class="changes">Halduskorraldus\\<br />&gt; [[HAJB08]] Õigusteadus\\</strong><br />&gt; \\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[HAGM09]] Tehnoloogia valitsemine\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[HAIM08]] Õigusteadus\\<br />&lt; [[HAJB08]] Õigusteadus\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[HAKB02]] Halduskorraldus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[HAGM09]] Tehnoloogia valitsemine\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\<br />&gt; [[HAAD06]] Avalik haldus\\<br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265092
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[HAAB02]] Avalik haldus\\
+	[[HAKB02]] Halduskorraldus\\
+	[[HAJB08]] Õigusteadus\\
+	\\
+	[[HAAM02]] Avalik haldus\\
+	[[HAHM03]] Haldusjuhtimine\\
+	[[HAJM08]] Õigusteadus\\
+	[[HAPM10]] Personalitöö ja -arendus\\
+	[[HVJM12]] Tehnoloogiaõigus\\
+	[[HAGM09]] Tehnoloogia valitsemine\\
+	[[HVWM11]] Töö- ja organisatsioonipsühholoogia\\
+	\\
+	[[HAAD06]] Avalik haldus\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265092

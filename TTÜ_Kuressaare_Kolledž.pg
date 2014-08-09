@@ -1,0 +1,25 @@
+flags: 01010101010
+blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika<br /><br />[[SDER02]] Elektroonsed süsteemid<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus<br />[[SDSR10]] Väikelaevaehitus<br /><br /></p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265097
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[MATB02]] Tootearendus ja tootmistehnika\\
+	\\
+	[[SDER02]] Elektroonsed süsteemid\\
+	[[SDTR02]] Turismi- ja toitlustuskorraldus\\
+	[[SDVR04]] Väikeettevõtlus\\
+	[[SDSR10]] Väikelaevaehitus\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265097

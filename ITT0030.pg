@@ -1,0 +1,26 @@
+flags: 01010
+blocks: <h2>Diskreetne matemaatika II [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100804&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><hr /><p><a class="url http" href="http://www.cs.ioc.ee/DM2/">http://www.cs.ioc.ee/DM2/</a> - страница курса<br /><a class="url http" href="http://cs.ioc.ee/~margo/dm2/">http://cs.ioc.ee/~margo/dm2/</a> - на русском</p><p>&#x2013; AlexDaniel 2014-02-26 19:52 UTC</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; http://www.cs.ioc.ee/DM2/ - страница курса<br />&gt; http://cs.ioc.ee/~margo/dm2/ - на русском<br />&gt; -- AlexDaniel 2014-02-26 19:52 UTC</p></div>
+ip: 84.52.48.194
+ts: 1393444361
+minor: 
+host: sa-84-52-48-194.saturn.infonet.ee
+username: AlexDaniel
+revision: 3
+diff-major: 1
+summary: http://www.cs.ioc.ee/DM2/ - страница курса http://cs.ioc.ee/~margo/dm2/ - на русском
+languages: 
+text: ==Diskreetne matemaatika II [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=100804&p_public=1&p_mode=1]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	----
+	
+	http://www.cs.ioc.ee/DM2/ - страница курса
+	http://cs.ioc.ee/~margo/dm2/ - на русском
+	
+	-- AlexDaniel 2014-02-26 19:52 UTC
+	
+	
+lastmajor: 3
+keep-ts: 1393444361

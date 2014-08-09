@@ -1,0 +1,36 @@
+flags: 01010101010
+blocks: <h3>Поддерживается большая часть из этого:</h3><p><img class="url http" src="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" alt="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" /><br /><br /></p><h3>И <a class="url http outside" href="http://www.wikicreole.org/wiki/CreoleAdditions/">дополнительно</a> еще это:</h3><ul><li><code>; Definition : lists.</code></li><li><code>"""Blockquotes."""</code></li><li><code>''Inline quotes.''</code></li><li><code>^^Superscripted text.^^</code></li><li><code>,,Subscripted text.,,</code></li><li><code>##Monospaced text.##</code></li><li><code>%%Small caps text.%%</code></li></ul><h3>Ссылки:</h3><table class="user"><tr><th>Pattern </th><th>Result</th></tr><tr><td><code>http://www.ttu.ee/</code></td><td><a class="url http" href="http://www.ttu.ee/">http://www.ttu.ee/</a></td></tr><tr><td><code>[http://www.ttu.ee/]</code></td><td>[http://www.ttu.ee/]</td></tr><tr><td><code>[http://www.ttu.ee/ text]</code></td><td><a class="url http outside" href="http://www.ttu.ee/">text</a></td></tr><tr><td><code>[[Главная]]</code></td><td>[[Главная]]</td></tr><tr><td><code>[[[Главная]]]</code></td><td>[[[Главная]]]</td></tr><tr><td><code>[[Главная|text]]</code></td><td>[[Главная|text]]</td></tr></table><p><br />Опробовать возможности можно [[Scratch|здесь]].</p>
+ip: 89.235.231.110
+ts: 1391357281
+minor: 
+host: 89-235-231-110.saturn.infonet.ee
+username: AlexDaniel
+revision: 1
+summary: ===Поддерживается большая часть из этого: http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png \\ ===И . . .
+languages: 
+text: ===Поддерживается большая часть из этого:
+	
+	http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png
+	\\
+	===И [http://www.wikicreole.org/wiki/CreoleAdditions/ дополнительно] еще это:
+	* {{{; Definition : lists.}}}
+	* {{{"""Blockquotes."""}}}
+	* {{{''Inline quotes.''}}}
+	* {{{^^Superscripted text.^^}}}
+	* {{{,,Subscripted text.,,}}}
+	* {{{##Monospaced text.##}}}
+	* {{{%%Small caps text.%%}}}
+	
+	===Ссылки:
+	|=Pattern |=Result|
+	|{{{http://www.ttu.ee/}}} |http://www.ttu.ee/ |
+	|{{{[http://www.ttu.ee/]}}} |[http://www.ttu.ee/] |
+	|{{{[http://www.ttu.ee/ text]}}} |[http://www.ttu.ee/ text] |
+	|{{{[[Главная]]}}} |[[Главная]] |
+	|{{{[[[Главная]]]}}} |[[[Главная]]] |
+	|{{{[[Главная|text]]}}} |[[Главная|text]] |
+	
+	\\
+	Опробовать возможности можно [[Scratch|здесь]].
+	
+lastmajor: 1

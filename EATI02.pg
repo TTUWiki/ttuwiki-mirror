@@ -1,0 +1,468 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h3>EATI02/09 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50003&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YGI3201]] Arvutigraafika I<br />[[YGI3202]] Arvutigraafika II<br />[[ETT0150]] Arvutikasutus teedeasjanduses<br />[[ETG0170]] Deformatsioonide uurimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[ETG0114]] Digitaalne fotogramm-meetria<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[ETG0081]] Ehitusgeodeesia I<br />[[ETG0082]] Ehitusgeodeesia II<br />[[ETG0141]] Ehitusgeodeesia praktika I<br />[[ETG0142]] Ehitusgeodeesia praktika II<br />[[YGK0031]] Ehitusgraafika I<br />[[YGK0032]] Ehitusgraafika II<br />[[EPT0120]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EMD0021]] Ehitusmehaanika I<br />[[EMD0022]] Ehitusmehaanika II<br />[[AME3130]] Elektrotehnika<br />[[HHF3080]] Filosoofia<br />[[ETG0113]] Fotogramm-meetria<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0121]] Füüsikaline geodeesia<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[ETG0030]] Geodeetilised instrumendid<br />[[ETG0041]] Geodeetiliste mõõtmiste andmetöötluse teooria<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[ETG3512]] Geograafiline infosüsteem GIS II<br />[[ETG8441]] Gravimeetria<br />[[EEA0012]] Hooned<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[ETG3730]] Kaevandusgeodeesia<br />[[ETG0100]] Kartograafia<br />[[ETG3470]] Katastrimõõdistamine<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[ETG3440]] Kinnisvaraõiguse alused<br />[[ETG0051]] Kõrgem geodeesia I<br />[[ETG0053]] Kõrgem geodeesia II<br />[[YGK0010]] Kujutav geomeetria<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETT0101]] Liiklussõlmede projekteerimine<br />[[ETT0102]] Liiklussõlmede projekteerimine - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[ETT0090]] Linnaliiklus<br />[[ETG0020]] Maamõõdupraktikum<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EPJ0100]] Mikro- ja makroökonoomika<br />[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus<br />[[ETG0131]] Mõõtmissüsteemide programmeerimine I<br />[[ETG0132]] Mõõtmissüsteemide programmeerimine II<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused<br />[[ETS0050]] Puitsillad<br />[[ETS0051]] Puitsillad - projekt<br />[[ETS0040]] Raudbetoonsillad<br />[[ETS0041]] Raudbetoonsillad - projekt<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[ETG0071]] Satelliidigeodeesia<br />[[ETG0072]] Satelliidigeodeesia - projekt<br />[[ETS0070]] Sildade erikursus<br />[[ETS0030]] Sildade hooldus<br />[[ETS0010]] Sillad<br />[[ETS0080]] Sillaehituse arvutusmeetodid<br />[[ETS0060]] Sillasambad<br />[[ETS0061]] Sillasambad - projekt<br />[[ETG0090]] Tasandamise alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0030]] Tee-ehituse ökonoomika<br />[[ETT0061]] Tee-ehitus I<br />[[ETT0065]] Tee-ehitus II<br />[[EPT3420]] Tee-ehitusmasinad<br />[[ETT0041]] Tee-ehitusmaterjalid I<br />[[ETT0042]] Tee-ehitusmaterjalid II<br />[[ETT0131]] Tee-ehituspraktika I<br />[[ETT0132]] Tee-ehituspraktika II<br />[[ETT0011]] Tee-ehitustööde korraldus<br />[[ETT0012]] Tee-ehitustööde korraldus - projekt<br />[[ETG0150]] Teegeodeesia<br />[[ETT0161]] Teekonstruktsioonid<br />[[ETT0162]] Teekonstruktsioonid - projekt<br />[[ETT0051]] Tee korrashoid I<br />[[ETT0052]] Tee korrashoid II<br />[[ETT0020]] Teemajandi juhtimine<br />[[ETT0071]] Teeprojekteerimine<br />[[ETT0072]] Teeprojekteerimine - projekt I<br />[[ETT0073]] Teeprojekteerimine - projekt II<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[ETS0020]] Terassillad<br />[[ETS0021]] Terassillad - projekt<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[ETG0061]] Topograafiline mõõdistamine I<br />[[ETG0062]] Topograafiline mõõdistamine II<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETT0081]] Transpordiuuringud ja prognoos<br />[[ETV0010]] Transpordivõrk ja logistika alused<br />[[ETG3513]] Ülevaade geoinformaatikast<br />[[ETT0121]] Veeristete projekteerimine<br />[[ETT0122]] Veeristete projekteerimine - projekt<br />[[ETG8410]] Vesiehitiste uuringud<br />[[YGD0131]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br /></p><h3>EATI02/02 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=498&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YGI3101]] Arvutigraafika  I<br />[[YGI3102]] Arvutigraafika  II<br />[[ETT0150]] Arvutikasutus teedeasjanduses<br />[[ETG0170]] Deformatsioonide uurimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[ETG0160]] Digitaalkartograafia<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[ETG0081]] Ehitusgeodeesia I<br />[[ETG0082]] Ehitusgeodeesia II<br />[[ETG0141]] Ehitusgeodeesia praktika I<br />[[ETG0142]] Ehitusgeodeesia praktika II<br />[[YGK0021]] Ehitusgraafika I<br />[[YGK0022]] Ehitusgraafika II<br />[[EET3680]] Ehituskonstruktsioonide projekteerimise alused<br />[[EPT3410]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EME0011]] Ehitusmehaanika I<br />[[EME0012]] Ehitusmehaanika II<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[ETG0111]] Fotogramm-meetria I<br />[[ETG0112]] Fotogramm-meetria II<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[ETG0030]] Geodeetilised instrumendid<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[ETG3512]] Geograafiline infosüsteem GIS II<br />[[ETG0120]] Gravimeetria<br />[[EEA0050]] Hooned<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[HHF3300]] Insenerieetika<br />[[ETG3731]] Kaevandusgeodeesia<br />[[ETG0100]] Kartograafia<br />[[ETG3460]] Katastrimõõtmised<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[ETG3440]] Kinnisvaraõiguse alused<br />[[ETG0051]] Kõrgem geodeesia I<br />[[ETG0052]] Kõrgem geodeesia II<br />[[YGK0010]] Kujutav geomeetria<br />[[ETT0080]] Liikluse modelleerimine<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETT0101]] Liiklussõlmede projekteerimine<br />[[ETT0102]] Liiklussõlmede projekteerimine - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[ETT0090]] Linnaliiklus<br />[[ETG0020]] Maamõõdupraktikum<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EPJ0010]] Mikro- ja makroökonoomika<br />[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus<br />[[ETG0131]] Mõõtmissüsteemide programmeerimine I<br />[[ETG0132]] Mõõtmissüsteemide programmeerimine II<br />[[ETG0040]] Mõõtmisvigade teooria<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[ETS0050]] Puitsillad<br />[[ETS0051]] Puitsillad - projekt<br />[[ETS0040]] Raudbetoonsillad<br />[[ETS0041]] Raudbetoonsillad - projekt<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[ETT0140]] Rööbasteed<br />[[ETG0071]] Satelliidigeodeesia<br />[[ETG0072]] Satelliidigeodeesia - projekt<br />[[ETS0070]] Sildade erikursus<br />[[ETS0030]] Sildade hooldus<br />[[ETS0010]] Sillad<br />[[ETS0080]] Sillaehituse arvutusmeetodid<br />[[ETS0060]] Sillasambad<br />[[ETS0061]] Sillasambad - projekt<br />[[ETG0090]] Tasandamise alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0030]] Tee-ehituse ökonoomika<br />[[ETT0061]] Tee-ehitus I<br />[[ETT0062]] Tee-ehitus II<br />[[EPT3420]] Tee-ehitusmasinad<br />[[ETT0041]] Tee-ehitusmaterjalid I<br />[[ETT0042]] Tee-ehitusmaterjalid II<br />[[ETT0131]] Tee-ehituspraktika I<br />[[ETT0132]] Tee-ehituspraktika II<br />[[ETT0063]] Tee-ehitus - projekt<br />[[ETT0011]] Tee-ehitustööde korraldus<br />[[ETT0012]] Tee-ehitustööde korraldus - projekt<br />[[ETG0150]] Teegeodeesia<br />[[ETT0161]] Teekonstruktsioonid<br />[[ETT0162]] Teekonstruktsioonid - projekt<br />[[ETT0051]] Tee korrashoid I<br />[[ETT0052]] Tee korrashoid II<br />[[ETT0020]] Teemajandi juhtimine<br />[[ETT0071]] Teeprojekteerimine<br />[[ETT0072]] Teeprojekteerimine - projekt I<br />[[ETT0073]] Teeprojekteerimine - projekt II<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[ETS0020]] Terassillad<br />[[ETS0021]] Terassillad - projekt<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[ETG0061]] Topograafiline mõõdistamine I<br />[[ETG0062]] Topograafiline mõõdistamine II<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETV0010]] Transpordivõrk ja logistika alused<br />[[ETG3760]] Ülevaade geoinfosüsteemidest<br />[[ETT0121]] Veeristete projekteerimine<br />[[ETT0122]] Veeristete projekteerimine - projekt<br />[[YGD0031]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br /></p><h3>EATI02/09 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50003&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YGI3201]] Arvutigraafika I<br />[[YGI3202]] Arvutigraafika II<br />[[ETT0150]] Arvutikasutus teedeasjanduses<br />[[ETG0170]] Deformatsioonide uurimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[ETG0114]] Digitaalne fotogramm-meetria<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[ETG0081]] Ehitusgeodeesia I<br />[[ETG0082]] Ehitusgeodeesia II<br />[[ETG0141]] Ehitusgeodeesia praktika I<br />[[ETG0142]] Ehitusgeodeesia praktika II<br />[[YGK0031]] Ehitusgraafika I<br />[[YGK0032]] Ehitusgraafika II<br />[[EPT0120]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EMD0021]] Ehitusmehaanika I<br />[[EMD0022]] Ehitusmehaanika II<br />[[AME3130]] Elektrotehnika<br />[[HHF3080]] Filosoofia<br />[[ETG0113]] Fotogramm-meetria<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0121]] Füüsikaline geodeesia<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[ETG0030]] Geodeetilised instrumendid<br />[[ETG0041]] Geodeetiliste mõõtmiste andmetöötluse teooria<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[ETG3512]] Geograafiline infosüsteem GIS II<br />[[ETG8441]] Gravimeetria<br />[[EEA0012]] Hooned<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[ETG3730]] Kaevandusgeodeesia<br />[[ETG0100]] Kartograafia<br />[[ETG3470]] Katastrimõõdistamine<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[ETG3440]] Kinnisvaraõiguse alused<br />[[ETG0051]] Kõrgem geodeesia I<br />[[ETG0053]] Kõrgem geodeesia II<br />[[YGK0010]] Kujutav geomeetria<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETT0101]] Liiklussõlmede projekteerimine<br />[[ETT0102]] Liiklussõlmede projekteerimine - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[ETT0090]] Linnaliiklus<br />[[ETG0020]] Maamõõdupraktikum<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EPJ0100]] Mikro- ja makroökonoomika<br />[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus<br />[[ETG0131]] Mõõtmissüsteemide programmeerimine I<br />[[ETG0132]] Mõõtmissüsteemide programmeerimine II<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused<br />[[ETS0050]] Puitsillad<br />[[ETS0051]] Puitsillad - projekt<br />[[ETS0040]] Raudbetoonsillad<br />[[ETS0041]] Raudbetoonsillad - projekt<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[ETG0071]] Satelliidigeodeesia<br />[[ETG0072]] Satelliidigeodeesia - projekt<br />[[ETS0070]] Sildade erikursus<br />[[ETS0030]] Sildade hooldus<br />[[ETS0010]] Sillad<br />[[ETS0080]] Sillaehituse arvutusmeetodid<br />[[ETS0060]] Sillasambad<br />[[ETS0061]] Sillasambad - projekt<br />[[ETG0090]] Tasandamise alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0030]] Tee-ehituse ökonoomika<br />[[ETT0061]] Tee-ehitus I<br />[[ETT0065]] Tee-ehitus II<br />[[EPT3420]] Tee-ehitusmasinad<br />[[ETT0041]] Tee-ehitusmaterjalid I<br />[[ETT0042]] Tee-ehitusmaterjalid II<br />[[ETT0131]] Tee-ehituspraktika I<br />[[ETT0132]] Tee-ehituspraktika II<br />[[ETT0011]] Tee-ehitustööde korraldus<br />[[ETT0012]] Tee-ehitustööde korraldus - projekt<br />[[ETG0150]] Teegeodeesia<br />[[ETT0161]] Teekonstruktsioonid<br />[[ETT0162]] Teekonstruktsioonid - projekt<br />[[ETT0051]] Tee korrashoid I<br />[[ETT0052]] Tee korrashoid II<br />[[ETT0020]] Teemajandi juhtimine<br />[[ETT0071]] Teeprojekteerimine<br />[[ETT0072]] Teeprojekteerimine - projekt I<br />[[ETT0073]] Teeprojekteerimine - projekt II<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[ETS0020]] Terassillad<br />[[ETS0021]] Terassillad - projekt<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[ETG0061]] Topograafiline mõõdistamine I<br />[[ETG0062]] Topograafiline mõõdistamine II<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETT0081]] Transpordiuuringud ja prognoos<br />[[ETV0010]] Transpordivõrk ja logistika alused<br />[[ETG3513]] Ülevaade geoinformaatikast<br />[[ETT0121]] Veeristete projekteerimine<br />[[ETT0122]] Veeristete projekteerimine - projekt<br />[[ETG8410]] Vesiehitiste uuringud<br />[[YGD0131]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br /></p><h3>EATI02/02 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=498&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YGI3101]] Arvutigraafika  I<br />[[YGI3102]] Arvutigraafika  II<br />[[ETT0150]] Arvutikasutus teedeasjanduses<br />[[ETG0170]] Deformatsioonide uurimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[ETG0160]] Digitaalkartograafia<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[ETG0081]] Ehitusgeodeesia I<br />[[ETG0082]] Ehitusgeodeesia II<br />[[ETG0141]] Ehitusgeodeesia praktika I<br />[[ETG0142]] Ehitusgeodeesia praktika II<br />[[YGK0021]] Ehitusgraafika I<br />[[YGK0022]] Ehitusgraafika II<br />[[EET3680]] Ehituskonstruktsioonide projekteerimise alused<br />[[EPT3410]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EME0011]] Ehitusmehaanika I<br />[[EME0012]] Ehitusmehaanika II<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[ETG0111]] Fotogramm-meetria I<br />[[ETG0112]] Fotogramm-meetria II<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[ETG0030]] Geodeetilised instrumendid<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[ETG3512]] Geograafiline infosüsteem GIS II<br />[[ETG0120]] Gravimeetria<br />[[EEA0050]] Hooned<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[HHF3300]] Insenerieetika<br />[[ETG3731]] Kaevandusgeodeesia<br />[[ETG0100]] Kartograafia<br />[[ETG3460]] Katastrimõõtmised<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[ETG3440]] Kinnisvaraõiguse alused<br />[[ETG0051]] Kõrgem geodeesia I<br />[[ETG0052]] Kõrgem geodeesia II<br />[[YGK0010]] Kujutav geomeetria<br />[[ETT0080]] Liikluse modelleerimine<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETT0101]] Liiklussõlmede projekteerimine<br />[[ETT0102]] Liiklussõlmede projekteerimine - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[ETT0090]] Linnaliiklus<br />[[ETG0020]] Maamõõdupraktikum<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EPJ0010]] Mikro- ja makroökonoomika<br />[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus<br />[[ETG0131]] Mõõtmissüsteemide programmeerimine I<br />[[ETG0132]] Mõõtmissüsteemide programmeerimine II<br />[[ETG0040]] Mõõtmisvigade teooria<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[ETS0050]] Puitsillad<br />[[ETS0051]] Puitsillad - projekt<br />[[ETS0040]] Raudbetoonsillad<br />[[ETS0041]] Raudbetoonsillad - projekt<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[ETT0140]] Rööbasteed<br />[[ETG0071]] Satelliidigeodeesia<br />[[ETG0072]] Satelliidigeodeesia - projekt<br />[[ETS0070]] Sildade erikursus<br />[[ETS0030]] Sildade hooldus<br />[[ETS0010]] Sillad<br />[[ETS0080]] Sillaehituse arvutusmeetodid<br />[[ETS0060]] Sillasambad<br />[[ETS0061]] Sillasambad - projekt<br />[[ETG0090]] Tasandamise alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0030]] Tee-ehituse ökonoomika<br />[[ETT0061]] Tee-ehitus I<br />[[ETT0062]] Tee-ehitus II<br />[[EPT3420]] Tee-ehitusmasinad<br />[[ETT0041]] Tee-ehitusmaterjalid I<br />[[ETT0042]] Tee-ehitusmaterjalid II<br />[[ETT0131]] Tee-ehituspraktika I<br />[[ETT0132]] Tee-ehituspraktika II<br />[[ETT0063]] Tee-ehitus - projekt<br />[[ETT0011]] Tee-ehitustööde korraldus<br />[[ETT0012]] Tee-ehitustööde korraldus - projekt<br />[[ETG0150]] Teegeodeesia<br />[[ETT0161]] Teekonstruktsioonid<br />[[ETT0162]] Teekonstruktsioonid - projekt<br />[[ETT0051]] Tee korrashoid I<br />[[ETT0052]] Tee korrashoid II<br />[[ETT0020]] Teemajandi juhtimine<br />[[ETT0071]] Teeprojekteerimine<br />[[ETT0072]] Teeprojekteerimine - projekt I<br />[[ETT0073]] Teeprojekteerimine - projekt II<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[ETS0020]] Terassillad<br />[[ETS0021]] Terassillad - projekt<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[ETG0061]] Topograafiline mõõdistamine I<br />[[ETG0062]] Topograafiline mõõdistamine II<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETV0010]] Transpordivõrk ja logistika alused<br />[[ETG3760]] Ülevaade geoinfosüsteemidest<br />[[ETT0121]] Veeristete projekteerimine<br />[[ETT0122]] Veeristete projekteerimine - projekt<br />[[YGD0031]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br /></p>
+ip: 89.235.235.166
+ts: 1391203751
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 1
+summary: AutomaticUpdate
+languages: 
+text: === EATI02/09 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50003&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel\\
+	[[YGI3201]] Arvutigraafika I\\
+	[[YGI3202]] Arvutigraafika II\\
+	[[ETT0150]] Arvutikasutus teedeasjanduses\\
+	[[ETG0170]] Deformatsioonide uurimine\\
+	[[YMR0010]] Diferentsiaalvõrrandid\\
+	[[ETG0114]] Digitaalne fotogramm-meetria\\
+	[[HLE6060]] Eesti keele väljendusõpetus\\
+	[[EPJ3720]] Ehituse maksumuse hindamine\\
+	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
+	[[ETG0081]] Ehitusgeodeesia I\\
+	[[ETG0082]] Ehitusgeodeesia II\\
+	[[ETG0141]] Ehitusgeodeesia praktika I\\
+	[[ETG0142]] Ehitusgeodeesia praktika II\\
+	[[YGK0031]] Ehitusgraafika I\\
+	[[YGK0032]] Ehitusgraafika II\\
+	[[EPT0120]] Ehitusmasinad\\
+	[[EPM3500]] Ehitusmaterjalid\\
+	[[EMD0021]] Ehitusmehaanika I\\
+	[[EMD0022]] Ehitusmehaanika II\\
+	[[AME3130]] Elektrotehnika\\
+	[[HHF3080]] Filosoofia\\
+	[[ETG0113]] Fotogramm-meetria\\
+	[[YFR0011]] Füüsika I\\
+	[[YFR0012]] Füüsika II\\
+	[[ETG0121]] Füüsikaline geodeesia\\
+	[[ETG0011]] Geodeesia I\\
+	[[ETG0012]] Geodeesia II\\
+	[[ETG0013]] Geodeesia õppepraktika\\
+	[[ETG0030]] Geodeetilised instrumendid\\
+	[[ETG0041]] Geodeetiliste mõõtmiste andmetöötluse teooria\\
+	[[ETG3511]] Geograafiline infosüsteem GIS I\\
+	[[ETG3512]] Geograafiline infosüsteem GIS II\\
+	[[ETG8441]] Gravimeetria\\
+	[[EEA0012]] Hooned\\
+	[[EMH0020]] Hüdraulika ja hüdromeetria\\
+	[[IDK0092]] Informaatika II (tehnika)\\
+	[[IDK0091]] Informaatika I (tehnika)\\
+	[[ETG3730]] Kaevandusgeodeesia\\
+	[[ETG0100]] Kartograafia\\
+	[[ETG3470]] Katastrimõõdistamine\\
+	[[YKI3030]] Keemia ja materjaliõpetus\\
+	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
+	[[ETG3440]] Kinnisvaraõiguse alused\\
+	[[ETG0051]] Kõrgem geodeesia I\\
+	[[ETG0053]] Kõrgem geodeesia II\\
+	[[YGK0010]] Kujutav geomeetria\\
+	[[ETT0110]] Liikluskorraldus ja -ohutus\\
+	[[ETT0101]] Liiklussõlmede projekteerimine\\
+	[[ETT0102]] Liiklussõlmede projekteerimine - projekt\\
+	[[YMA3710]] Lineaaralgebra\\
+	[[ETT0090]] Linnaliiklus\\
+	[[ETG0020]] Maamõõdupraktikum\\
+	[[YMM3731]] Matemaatiline analüüs I\\
+	[[YMM0012]] Matemaatiline analüüs II\\
+	[[EPJ0100]] Mikro- ja makroökonoomika\\
+	[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus\\
+	[[ETG0131]] Mõõtmissüsteemide programmeerimine I\\
+	[[ETG0132]] Mõõtmissüsteemide programmeerimine II\\
+	[[TTO3160]] Õigusõpetus\\
+	[[UTT0010]] Õpingukorraldus\\
+	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused\\
+	[[ETS0050]] Puitsillad\\
+	[[ETS0051]] Puitsillad - projekt\\
+	[[ETS0040]] Raudbetoonsillad\\
+	[[ETS0041]] Raudbetoonsillad - projekt\\
+	[[TMT3830]] Riski- ja ohutusõpetus\\
+	[[ETG0071]] Satelliidigeodeesia\\
+	[[ETG0072]] Satelliidigeodeesia - projekt\\
+	[[ETS0070]] Sildade erikursus\\
+	[[ETS0030]] Sildade hooldus\\
+	[[ETS0010]] Sillad\\
+	[[ETS0080]] Sillaehituse arvutusmeetodid\\
+	[[ETS0060]] Sillasambad\\
+	[[ETS0061]] Sillasambad - projekt\\
+	[[ETG0090]] Tasandamise alused\\
+	[[HLX8040]] Teadusvõõrkeel\\
+	[[ETT0030]] Tee-ehituse ökonoomika\\
+	[[ETT0061]] Tee-ehitus I\\
+	[[ETT0065]] Tee-ehitus II\\
+	[[EPT3420]] Tee-ehitusmasinad\\
+	[[ETT0041]] Tee-ehitusmaterjalid I\\
+	[[ETT0042]] Tee-ehitusmaterjalid II\\
+	[[ETT0131]] Tee-ehituspraktika I\\
+	[[ETT0132]] Tee-ehituspraktika II\\
+	[[ETT0011]] Tee-ehitustööde korraldus\\
+	[[ETT0012]] Tee-ehitustööde korraldus - projekt\\
+	[[ETG0150]] Teegeodeesia\\
+	[[ETT0161]] Teekonstruktsioonid\\
+	[[ETT0162]] Teekonstruktsioonid - projekt\\
+	[[ETT0051]] Tee korrashoid I\\
+	[[ETT0052]] Tee korrashoid II\\
+	[[ETT0020]] Teemajandi juhtimine\\
+	[[ETT0071]] Teeprojekteerimine\\
+	[[ETT0072]] Teeprojekteerimine - projekt I\\
+	[[ETT0073]] Teeprojekteerimine - projekt II\\
+	[[EMD0011]] Tehniline mehaanika I\\
+	[[EMD0012]] Tehniline mehaanika II\\
+	[[ETS0020]] Terassillad\\
+	[[ETS0021]] Terassillad - projekt\\
+	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
+	[[ETG0061]] Topograafiline mõõdistamine I\\
+	[[ETG0062]] Topograafiline mõõdistamine II\\
+	[[ETT0130]] Transpordiehituse põhialused\\
+	[[ETT0081]] Transpordiuuringud ja prognoos\\
+	[[ETV0010]] Transpordivõrk ja logistika alused\\
+	[[ETG3513]] Ülevaade geoinformaatikast\\
+	[[ETT0121]] Veeristete projekteerimine\\
+	[[ETT0122]] Veeristete projekteerimine - projekt\\
+	[[ETG8410]] Vesiehitiste uuringud\\
+	[[YGD0131]] Visuaalne kommunikatsioon I\\
+	[[YGD0032]] Visuaalne kommunikatsioon II\\
+	=== EATI02/02 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=498&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel\\
+	[[YGI3101]] Arvutigraafika  I\\
+	[[YGI3102]] Arvutigraafika  II\\
+	[[ETT0150]] Arvutikasutus teedeasjanduses\\
+	[[ETG0170]] Deformatsioonide uurimine\\
+	[[YMR0010]] Diferentsiaalvõrrandid\\
+	[[ETG0160]] Digitaalkartograafia\\
+	[[EPJ3720]] Ehituse maksumuse hindamine\\
+	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
+	[[ETG0081]] Ehitusgeodeesia I\\
+	[[ETG0082]] Ehitusgeodeesia II\\
+	[[ETG0141]] Ehitusgeodeesia praktika I\\
+	[[ETG0142]] Ehitusgeodeesia praktika II\\
+	[[YGK0021]] Ehitusgraafika I\\
+	[[YGK0022]] Ehitusgraafika II\\
+	[[EET3680]] Ehituskonstruktsioonide projekteerimise alused\\
+	[[EPT3410]] Ehitusmasinad\\
+	[[EPM3500]] Ehitusmaterjalid\\
+	[[EME0011]] Ehitusmehaanika I\\
+	[[EME0012]] Ehitusmehaanika II\\
+	[[AME3130]] Elektrotehnika\\
+	[[HHF3070]] Filosoofia\\
+	[[ETG0111]] Fotogramm-meetria I\\
+	[[ETG0112]] Fotogramm-meetria II\\
+	[[YFR0011]] Füüsika I\\
+	[[YFR0012]] Füüsika II\\
+	[[ETG0011]] Geodeesia I\\
+	[[ETG0012]] Geodeesia II\\
+	[[ETG0013]] Geodeesia õppepraktika\\
+	[[ETG0030]] Geodeetilised instrumendid\\
+	[[ETG3511]] Geograafiline infosüsteem GIS I\\
+	[[ETG3512]] Geograafiline infosüsteem GIS II\\
+	[[ETG0120]] Gravimeetria\\
+	[[EEA0050]] Hooned\\
+	[[EMH0020]] Hüdraulika ja hüdromeetria\\
+	[[IDK0011]] Informaatika I\\
+	[[IDK0012]] Informaatika II\\
+	[[HHF3300]] Insenerieetika\\
+	[[ETG3731]] Kaevandusgeodeesia\\
+	[[ETG0100]] Kartograafia\\
+	[[ETG3460]] Katastrimõõtmised\\
+	[[YKI3030]] Keemia ja materjaliõpetus\\
+	[[EKE3710]] Keskkonnakaitse\\
+	[[ETG3440]] Kinnisvaraõiguse alused\\
+	[[ETG0051]] Kõrgem geodeesia I\\
+	[[ETG0052]] Kõrgem geodeesia II\\
+	[[YGK0010]] Kujutav geomeetria\\
+	[[ETT0080]] Liikluse modelleerimine\\
+	[[ETT0110]] Liikluskorraldus ja -ohutus\\
+	[[ETT0101]] Liiklussõlmede projekteerimine\\
+	[[ETT0102]] Liiklussõlmede projekteerimine - projekt\\
+	[[YMA3710]] Lineaaralgebra\\
+	[[ETT0090]] Linnaliiklus\\
+	[[ETG0020]] Maamõõdupraktikum\\
+	[[YMM3731]] Matemaatiline analüüs I\\
+	[[YMM0012]] Matemaatiline analüüs II\\
+	[[EPJ0010]] Mikro- ja makroökonoomika\\
+	[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus\\
+	[[ETG0131]] Mõõtmissüsteemide programmeerimine I\\
+	[[ETG0132]] Mõõtmissüsteemide programmeerimine II\\
+	[[ETG0040]] Mõõtmisvigade teooria\\
+	[[TTO3160]] Õigusõpetus\\
+	[[UTT0010]] Õpingukorraldus\\
+	[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia\\
+	[[ETS0050]] Puitsillad\\
+	[[ETS0051]] Puitsillad - projekt\\
+	[[ETS0040]] Raudbetoonsillad\\
+	[[ETS0041]] Raudbetoonsillad - projekt\\
+	[[TMT3830]] Riski- ja ohutusõpetus\\
+	[[ETT0140]] Rööbasteed\\
+	[[ETG0071]] Satelliidigeodeesia\\
+	[[ETG0072]] Satelliidigeodeesia - projekt\\
+	[[ETS0070]] Sildade erikursus\\
+	[[ETS0030]] Sildade hooldus\\
+	[[ETS0010]] Sillad\\
+	[[ETS0080]] Sillaehituse arvutusmeetodid\\
+	[[ETS0060]] Sillasambad\\
+	[[ETS0061]] Sillasambad - projekt\\
+	[[ETG0090]] Tasandamise alused\\
+	[[HLX8040]] Teadusvõõrkeel\\
+	[[ETT0030]] Tee-ehituse ökonoomika\\
+	[[ETT0061]] Tee-ehitus I\\
+	[[ETT0062]] Tee-ehitus II\\
+	[[EPT3420]] Tee-ehitusmasinad\\
+	[[ETT0041]] Tee-ehitusmaterjalid I\\
+	[[ETT0042]] Tee-ehitusmaterjalid II\\
+	[[ETT0131]] Tee-ehituspraktika I\\
+	[[ETT0132]] Tee-ehituspraktika II\\
+	[[ETT0063]] Tee-ehitus - projekt\\
+	[[ETT0011]] Tee-ehitustööde korraldus\\
+	[[ETT0012]] Tee-ehitustööde korraldus - projekt\\
+	[[ETG0150]] Teegeodeesia\\
+	[[ETT0161]] Teekonstruktsioonid\\
+	[[ETT0162]] Teekonstruktsioonid - projekt\\
+	[[ETT0051]] Tee korrashoid I\\
+	[[ETT0052]] Tee korrashoid II\\
+	[[ETT0020]] Teemajandi juhtimine\\
+	[[ETT0071]] Teeprojekteerimine\\
+	[[ETT0072]] Teeprojekteerimine - projekt I\\
+	[[ETT0073]] Teeprojekteerimine - projekt II\\
+	[[EMD0011]] Tehniline mehaanika I\\
+	[[EMD0012]] Tehniline mehaanika II\\
+	[[ETS0020]] Terassillad\\
+	[[ETS0021]] Terassillad - projekt\\
+	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
+	[[ETG0061]] Topograafiline mõõdistamine I\\
+	[[ETG0062]] Topograafiline mõõdistamine II\\
+	[[ETT0130]] Transpordiehituse põhialused\\
+	[[ETV0010]] Transpordivõrk ja logistika alused\\
+	[[ETG3760]] Ülevaade geoinfosüsteemidest\\
+	[[ETT0121]] Veeristete projekteerimine\\
+	[[ETT0122]] Veeristete projekteerimine - projekt\\
+	[[YGD0031]] Visuaalne kommunikatsioon I\\
+	[[YGD0032]] Visuaalne kommunikatsioon II\\
+	=== EATI02/09 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50003&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel\\
+	[[YGI3201]] Arvutigraafika I\\
+	[[YGI3202]] Arvutigraafika II\\
+	[[ETT0150]] Arvutikasutus teedeasjanduses\\
+	[[ETG0170]] Deformatsioonide uurimine\\
+	[[YMR0010]] Diferentsiaalvõrrandid\\
+	[[ETG0114]] Digitaalne fotogramm-meetria\\
+	[[HLE6060]] Eesti keele väljendusõpetus\\
+	[[EPJ3720]] Ehituse maksumuse hindamine\\
+	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
+	[[ETG0081]] Ehitusgeodeesia I\\
+	[[ETG0082]] Ehitusgeodeesia II\\
+	[[ETG0141]] Ehitusgeodeesia praktika I\\
+	[[ETG0142]] Ehitusgeodeesia praktika II\\
+	[[YGK0031]] Ehitusgraafika I\\
+	[[YGK0032]] Ehitusgraafika II\\
+	[[EPT0120]] Ehitusmasinad\\
+	[[EPM3500]] Ehitusmaterjalid\\
+	[[EMD0021]] Ehitusmehaanika I\\
+	[[EMD0022]] Ehitusmehaanika II\\
+	[[AME3130]] Elektrotehnika\\
+	[[HHF3080]] Filosoofia\\
+	[[ETG0113]] Fotogramm-meetria\\
+	[[YFR0011]] Füüsika I\\
+	[[YFR0012]] Füüsika II\\
+	[[ETG0121]] Füüsikaline geodeesia\\
+	[[ETG0011]] Geodeesia I\\
+	[[ETG0012]] Geodeesia II\\
+	[[ETG0013]] Geodeesia õppepraktika\\
+	[[ETG0030]] Geodeetilised instrumendid\\
+	[[ETG0041]] Geodeetiliste mõõtmiste andmetöötluse teooria\\
+	[[ETG3511]] Geograafiline infosüsteem GIS I\\
+	[[ETG3512]] Geograafiline infosüsteem GIS II\\
+	[[ETG8441]] Gravimeetria\\
+	[[EEA0012]] Hooned\\
+	[[EMH0020]] Hüdraulika ja hüdromeetria\\
+	[[IDK0092]] Informaatika II (tehnika)\\
+	[[IDK0091]] Informaatika I (tehnika)\\
+	[[ETG3730]] Kaevandusgeodeesia\\
+	[[ETG0100]] Kartograafia\\
+	[[ETG3470]] Katastrimõõdistamine\\
+	[[YKI3030]] Keemia ja materjaliõpetus\\
+	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
+	[[ETG3440]] Kinnisvaraõiguse alused\\
+	[[ETG0051]] Kõrgem geodeesia I\\
+	[[ETG0053]] Kõrgem geodeesia II\\
+	[[YGK0010]] Kujutav geomeetria\\
+	[[ETT0110]] Liikluskorraldus ja -ohutus\\
+	[[ETT0101]] Liiklussõlmede projekteerimine\\
+	[[ETT0102]] Liiklussõlmede projekteerimine - projekt\\
+	[[YMA3710]] Lineaaralgebra\\
+	[[ETT0090]] Linnaliiklus\\
+	[[ETG0020]] Maamõõdupraktikum\\
+	[[YMM3731]] Matemaatiline analüüs I\\
+	[[YMM0012]] Matemaatiline analüüs II\\
+	[[EPJ0100]] Mikro- ja makroökonoomika\\
+	[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus\\
+	[[ETG0131]] Mõõtmissüsteemide programmeerimine I\\
+	[[ETG0132]] Mõõtmissüsteemide programmeerimine II\\
+	[[TTO3160]] Õigusõpetus\\
+	[[UTT0010]] Õpingukorraldus\\
+	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused\\
+	[[ETS0050]] Puitsillad\\
+	[[ETS0051]] Puitsillad - projekt\\
+	[[ETS0040]] Raudbetoonsillad\\
+	[[ETS0041]] Raudbetoonsillad - projekt\\
+	[[TMT3830]] Riski- ja ohutusõpetus\\
+	[[ETG0071]] Satelliidigeodeesia\\
+	[[ETG0072]] Satelliidigeodeesia - projekt\\
+	[[ETS0070]] Sildade erikursus\\
+	[[ETS0030]] Sildade hooldus\\
+	[[ETS0010]] Sillad\\
+	[[ETS0080]] Sillaehituse arvutusmeetodid\\
+	[[ETS0060]] Sillasambad\\
+	[[ETS0061]] Sillasambad - projekt\\
+	[[ETG0090]] Tasandamise alused\\
+	[[HLX8040]] Teadusvõõrkeel\\
+	[[ETT0030]] Tee-ehituse ökonoomika\\
+	[[ETT0061]] Tee-ehitus I\\
+	[[ETT0065]] Tee-ehitus II\\
+	[[EPT3420]] Tee-ehitusmasinad\\
+	[[ETT0041]] Tee-ehitusmaterjalid I\\
+	[[ETT0042]] Tee-ehitusmaterjalid II\\
+	[[ETT0131]] Tee-ehituspraktika I\\
+	[[ETT0132]] Tee-ehituspraktika II\\
+	[[ETT0011]] Tee-ehitustööde korraldus\\
+	[[ETT0012]] Tee-ehitustööde korraldus - projekt\\
+	[[ETG0150]] Teegeodeesia\\
+	[[ETT0161]] Teekonstruktsioonid\\
+	[[ETT0162]] Teekonstruktsioonid - projekt\\
+	[[ETT0051]] Tee korrashoid I\\
+	[[ETT0052]] Tee korrashoid II\\
+	[[ETT0020]] Teemajandi juhtimine\\
+	[[ETT0071]] Teeprojekteerimine\\
+	[[ETT0072]] Teeprojekteerimine - projekt I\\
+	[[ETT0073]] Teeprojekteerimine - projekt II\\
+	[[EMD0011]] Tehniline mehaanika I\\
+	[[EMD0012]] Tehniline mehaanika II\\
+	[[ETS0020]] Terassillad\\
+	[[ETS0021]] Terassillad - projekt\\
+	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
+	[[ETG0061]] Topograafiline mõõdistamine I\\
+	[[ETG0062]] Topograafiline mõõdistamine II\\
+	[[ETT0130]] Transpordiehituse põhialused\\
+	[[ETT0081]] Transpordiuuringud ja prognoos\\
+	[[ETV0010]] Transpordivõrk ja logistika alused\\
+	[[ETG3513]] Ülevaade geoinformaatikast\\
+	[[ETT0121]] Veeristete projekteerimine\\
+	[[ETT0122]] Veeristete projekteerimine - projekt\\
+	[[ETG8410]] Vesiehitiste uuringud\\
+	[[YGD0131]] Visuaalne kommunikatsioon I\\
+	[[YGD0032]] Visuaalne kommunikatsioon II\\
+	=== EATI02/02 - Transpordiehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=498&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel\\
+	[[YGI3101]] Arvutigraafika  I\\
+	[[YGI3102]] Arvutigraafika  II\\
+	[[ETT0150]] Arvutikasutus teedeasjanduses\\
+	[[ETG0170]] Deformatsioonide uurimine\\
+	[[YMR0010]] Diferentsiaalvõrrandid\\
+	[[ETG0160]] Digitaalkartograafia\\
+	[[EPJ3720]] Ehituse maksumuse hindamine\\
+	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
+	[[ETG0081]] Ehitusgeodeesia I\\
+	[[ETG0082]] Ehitusgeodeesia II\\
+	[[ETG0141]] Ehitusgeodeesia praktika I\\
+	[[ETG0142]] Ehitusgeodeesia praktika II\\
+	[[YGK0021]] Ehitusgraafika I\\
+	[[YGK0022]] Ehitusgraafika II\\
+	[[EET3680]] Ehituskonstruktsioonide projekteerimise alused\\
+	[[EPT3410]] Ehitusmasinad\\
+	[[EPM3500]] Ehitusmaterjalid\\
+	[[EME0011]] Ehitusmehaanika I\\
+	[[EME0012]] Ehitusmehaanika II\\
+	[[AME3130]] Elektrotehnika\\
+	[[HHF3070]] Filosoofia\\
+	[[ETG0111]] Fotogramm-meetria I\\
+	[[ETG0112]] Fotogramm-meetria II\\
+	[[YFR0011]] Füüsika I\\
+	[[YFR0012]] Füüsika II\\
+	[[ETG0011]] Geodeesia I\\
+	[[ETG0012]] Geodeesia II\\
+	[[ETG0013]] Geodeesia õppepraktika\\
+	[[ETG0030]] Geodeetilised instrumendid\\
+	[[ETG3511]] Geograafiline infosüsteem GIS I\\
+	[[ETG3512]] Geograafiline infosüsteem GIS II\\
+	[[ETG0120]] Gravimeetria\\
+	[[EEA0050]] Hooned\\
+	[[EMH0020]] Hüdraulika ja hüdromeetria\\
+	[[IDK0011]] Informaatika I\\
+	[[IDK0012]] Informaatika II\\
+	[[HHF3300]] Insenerieetika\\
+	[[ETG3731]] Kaevandusgeodeesia\\
+	[[ETG0100]] Kartograafia\\
+	[[ETG3460]] Katastrimõõtmised\\
+	[[YKI3030]] Keemia ja materjaliõpetus\\
+	[[EKE3710]] Keskkonnakaitse\\
+	[[ETG3440]] Kinnisvaraõiguse alused\\
+	[[ETG0051]] Kõrgem geodeesia I\\
+	[[ETG0052]] Kõrgem geodeesia II\\
+	[[YGK0010]] Kujutav geomeetria\\
+	[[ETT0080]] Liikluse modelleerimine\\
+	[[ETT0110]] Liikluskorraldus ja -ohutus\\
+	[[ETT0101]] Liiklussõlmede projekteerimine\\
+	[[ETT0102]] Liiklussõlmede projekteerimine - projekt\\
+	[[YMA3710]] Lineaaralgebra\\
+	[[ETT0090]] Linnaliiklus\\
+	[[ETG0020]] Maamõõdupraktikum\\
+	[[YMM3731]] Matemaatiline analüüs I\\
+	[[YMM0012]] Matemaatiline analüüs II\\
+	[[EPJ0010]] Mikro- ja makroökonoomika\\
+	[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus\\
+	[[ETG0131]] Mõõtmissüsteemide programmeerimine I\\
+	[[ETG0132]] Mõõtmissüsteemide programmeerimine II\\
+	[[ETG0040]] Mõõtmisvigade teooria\\
+	[[TTO3160]] Õigusõpetus\\
+	[[UTT0010]] Õpingukorraldus\\
+	[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia\\
+	[[ETS0050]] Puitsillad\\
+	[[ETS0051]] Puitsillad - projekt\\
+	[[ETS0040]] Raudbetoonsillad\\
+	[[ETS0041]] Raudbetoonsillad - projekt\\
+	[[TMT3830]] Riski- ja ohutusõpetus\\
+	[[ETT0140]] Rööbasteed\\
+	[[ETG0071]] Satelliidigeodeesia\\
+	[[ETG0072]] Satelliidigeodeesia - projekt\\
+	[[ETS0070]] Sildade erikursus\\
+	[[ETS0030]] Sildade hooldus\\
+	[[ETS0010]] Sillad\\
+	[[ETS0080]] Sillaehituse arvutusmeetodid\\
+	[[ETS0060]] Sillasambad\\
+	[[ETS0061]] Sillasambad - projekt\\
+	[[ETG0090]] Tasandamise alused\\
+	[[HLX8040]] Teadusvõõrkeel\\
+	[[ETT0030]] Tee-ehituse ökonoomika\\
+	[[ETT0061]] Tee-ehitus I\\
+	[[ETT0062]] Tee-ehitus II\\
+	[[EPT3420]] Tee-ehitusmasinad\\
+	[[ETT0041]] Tee-ehitusmaterjalid I\\
+	[[ETT0042]] Tee-ehitusmaterjalid II\\
+	[[ETT0131]] Tee-ehituspraktika I\\
+	[[ETT0132]] Tee-ehituspraktika II\\
+	[[ETT0063]] Tee-ehitus - projekt\\
+	[[ETT0011]] Tee-ehitustööde korraldus\\
+	[[ETT0012]] Tee-ehitustööde korraldus - projekt\\
+	[[ETG0150]] Teegeodeesia\\
+	[[ETT0161]] Teekonstruktsioonid\\
+	[[ETT0162]] Teekonstruktsioonid - projekt\\
+	[[ETT0051]] Tee korrashoid I\\
+	[[ETT0052]] Tee korrashoid II\\
+	[[ETT0020]] Teemajandi juhtimine\\
+	[[ETT0071]] Teeprojekteerimine\\
+	[[ETT0072]] Teeprojekteerimine - projekt I\\
+	[[ETT0073]] Teeprojekteerimine - projekt II\\
+	[[EMD0011]] Tehniline mehaanika I\\
+	[[EMD0012]] Tehniline mehaanika II\\
+	[[ETS0020]] Terassillad\\
+	[[ETS0021]] Terassillad - projekt\\
+	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
+	[[ETG0061]] Topograafiline mõõdistamine I\\
+	[[ETG0062]] Topograafiline mõõdistamine II\\
+	[[ETT0130]] Transpordiehituse põhialused\\
+	[[ETV0010]] Transpordivõrk ja logistika alused\\
+	[[ETG3760]] Ülevaade geoinfosüsteemidest\\
+	[[ETT0121]] Veeristete projekteerimine\\
+	[[ETT0122]] Veeristete projekteerimine - projekt\\
+	[[YGD0031]] Visuaalne kommunikatsioon I\\
+	[[YGD0032]] Visuaalne kommunikatsioon II\\
+	
+lastmajor: 1

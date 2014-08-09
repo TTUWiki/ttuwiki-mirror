@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p>Здесь видны последние изменения на сайте</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Кому нужна программа xilinx есть ссылка:<br />&lt; http://rutracker.org/forum/viewtopic.php?t=1463255<br />&lt; -- Juli 2014-03-06 12:53 UTC<br />&lt; ----<br />&lt; Перенес сюда [[IAF0041]]<br />&lt; -- AlexDaniel 2014-03-06 13:02 UTC</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Здесь видны последние изменения на сайте</strong></p></div>
+ip: 89.235.239.240
+ts: 1402676963
+minor: 
+host: 89-235-239-240.saturn.infonet.ee
+username: 
+revision: 3
+diff-major: 1
+summary: 
+languages: 
+text: Здесь видны последние изменения на сайте
+	
+lastmajor: 3
+keep-ts: 1402676963

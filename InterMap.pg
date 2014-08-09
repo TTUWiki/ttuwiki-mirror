@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p> File <i>u</i><br /> Fi <i>u</i><br /> Timetable <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a><br /> Ti <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;  <strong class="changes">F</strong> /u/</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  <strong class="changes">Fi</strong> /u/</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;  <strong class="changes">T</strong> http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  <strong class="changes">Ti</strong> http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</p></div>
+ip: 89.235.231.110
+ts: 1391625512
+minor: 
+host: 89-235-231-110.saturn.infonet.ee
+username: AlexDaniel
+revision: 11
+diff-major: 1
+summary: 
+languages: 
+text:  File /u/
+	 Fi /u/
+	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=122&g=
+	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=122&g=
+	
+lastmajor: 11
+keep-ts: 1391625512

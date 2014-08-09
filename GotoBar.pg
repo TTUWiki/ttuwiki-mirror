@@ -1,0 +1,22 @@
+flags: 01010101010
+blocks: <p>[[Главная]]<br />[[Расписания]]<br />[[Полезное]]<br />[[Задать вопрос]]<br />[[Последние изменения]]</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">Последние_Изменения</strong>]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">Последние изменения</strong>]]</p></div>
+ip: 89.235.239.240
+ts: 1402631595
+minor: 
+host: 89-235-239-240.saturn.infonet.ee
+username: 
+revision: 3
+diff-major: 1
+summary: Главная Расписания Полезное Последние Изменения
+languages: 
+text: [[Главная]]
+	[[Расписания]]
+	[[Полезное]]
+	[[Задать вопрос]]
+	[[Последние изменения]]
+	
+lastmajor: 3
+keep-ts: 1402631595

@@ -1,0 +1,34 @@
+flags: 0101010101010101010
+blocks: <p>[[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia<br />[[KAOB02]] Materjalitehnoloogia<br />[[KATB02]] Toidutehnika ja tootearendus<br /><br />[[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia<br />[[KAYM09]] Materjalid ja protsessid jätkusuutlikus energeetikas<br />[[KAOM02]] Materjalitehnoloogia<br />[[KVEM12]] Puidu- ja plastitehnoloogia<br />[[KATM02]] Toidutehnika ja tootearendus<br /><br />[[KAAD02]] Keemia- ja materjalitehnoloogia<br /><br /></p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">KATM02</strong>]] <strong class="changes">Toidutehnika</strong> ja <strong class="changes">tootearendus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">KAKM02</strong>]] <strong class="changes">Keemia-</strong> ja <strong class="changes">keskkonnakaitse tehnoloogia</strong>\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[KATM02]] Toidutehnika ja tootearendus\\<br />&gt; \\<br />&gt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\<br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265077
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia\\
+	[[KAOB02]] Materjalitehnoloogia\\
+	[[KATB02]] Toidutehnika ja tootearendus\\
+	\\
+	[[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia\\
+	[[KAYM09]] Materjalid ja protsessid jätkusuutlikus energeetikas\\
+	[[KAOM02]] Materjalitehnoloogia\\
+	[[KVEM12]] Puidu- ja plastitehnoloogia\\
+	[[KATM02]] Toidutehnika ja tootearendus\\
+	\\
+	[[KAAD02]] Keemia- ja materjalitehnoloogia\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265077

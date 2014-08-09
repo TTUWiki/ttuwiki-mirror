@@ -1,0 +1,38 @@
+flags: 010101010101010101010101010
+blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[BAAB06]] Maastikuarhitektuur<br />[[MAHB02]] Mehhatroonika<br />[[NAEB06]] Tööstusökoloogia<br />[[MATB02]] Tootearendus ja tootmistehnika<br /><br />[[NAAM06]] Maastikuarhitektuur<br />[[NAIM14]] Ruumiline planeerimine<br />[[NAEM06]] Tööstusökoloogia<br /><br />[[NAEI13]] Ehitus<br />[[EAKI02]] Keskkonnatehnika<br />[[EAEI02]] Tööstus- ja tsiviilehitus<br />[[EATI02]] Transpordiehitus<br /><br /></p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&lt; [[EAKI02]] Keskkonnatehnika\\<br />&lt; [[EATI02]] Transpordiehitus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[NAEB06]] Tööstusökoloogia\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia\\<br />&lt; [[NAEI13]] Ehitus\\<br />&lt; [[NAEM06]] Tööstusökoloogia\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[NAEM06]] Tööstusökoloogia\\<br />&gt; \\<br />&gt; [[NAEI13]] Ehitus\\<br />&gt; [[EAKI02]] Keskkonnatehnika\\<br />&gt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&gt; [[EATI02]] Transpordiehitus\\<br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265098
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[AAVB02]] Elektroenergeetika\\
+	[[AAAB02]] Elektrotehnika\\
+	[[BAAB06]] Maastikuarhitektuur\\
+	[[MAHB02]] Mehhatroonika\\
+	[[NAEB06]] Tööstusökoloogia\\
+	[[MATB02]] Tootearendus ja tootmistehnika\\
+	\\
+	[[NAAM06]] Maastikuarhitektuur\\
+	[[NAIM14]] Ruumiline planeerimine\\
+	[[NAEM06]] Tööstusökoloogia\\
+	\\
+	[[NAEI13]] Ehitus\\
+	[[EAKI02]] Keskkonnatehnika\\
+	[[EAEI02]] Tööstus- ja tsiviilehitus\\
+	[[EATI02]] Transpordiehitus\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265098

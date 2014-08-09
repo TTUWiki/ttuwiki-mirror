@@ -1,0 +1,36 @@
+flags: 010101010101010101010101010101010
+blocks: <p>[[IABB02]] Äriinfotehnoloogia<br />[[IASB02]] Arvutisüsteemid<br />[[IAEB02]] Elektroonika ja bioonika<br />[[IALB13]] Elektroonika ja telekommunikatsioon<br />[[IAPB02]] Informaatika<br />[[IATB02]] Telekommunikatsioon<br /><br />[[IABM02]] Äriinfotehnoloogia<br />[[IASM02]] Arvutisüsteemid<br />[[IAEM02]] Elektroonika ja bioonika<br />[[IVEM11]] Elektroonika ja kommunikatsioon<br />[[IVGM13]] E-riigi tehnoloogiad ja teenused<br />[[IAPM02]] Informaatika<br />[[IVCM09]] Küberkaitse<br />[[IVSM09]] Tarkvaratehnika<br />[[IATM02]] Telekommunikatsioon<br /><br />[[IAQD02]] Info- ja kommunikatsioonitehnoloogia<br /><br /></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[IABB02]] Äriinfotehnoloogia<br />&lt; [[IASB02]] Arvutisüsteemid<br />&lt; [[IAEB02]] Elektroonika ja bioonika<br />&lt; [[IALB13]] Elektroonika ja telekommunikatsioon<br />&lt; [[IAPB02]] Informaatika<br />&lt; [[IATB02]] Telekommunikatsioon</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[IABB02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&gt; [[IASB02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&gt; [[IAEB02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&gt; [[IALB13]] Elektroonika ja telekommunikatsioon<strong class="changes">\\</strong><br />&gt; [[IAPB02]] Informaatika<strong class="changes">\\</strong><br />&gt; [[IATB02]] Telekommunikatsioon<strong class="changes">\\<br />&gt; \\</strong></p></div>
+ip: 89.235.235.166
+ts: 1391302565
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 11
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[IABB02]] Äriinfotehnoloogia\\
+	[[IASB02]] Arvutisüsteemid\\
+	[[IAEB02]] Elektroonika ja bioonika\\
+	[[IALB13]] Elektroonika ja telekommunikatsioon\\
+	[[IAPB02]] Informaatika\\
+	[[IATB02]] Telekommunikatsioon\\
+	\\
+	[[IABM02]] Äriinfotehnoloogia\\
+	[[IASM02]] Arvutisüsteemid\\
+	[[IAEM02]] Elektroonika ja bioonika\\
+	[[IVEM11]] Elektroonika ja kommunikatsioon\\
+	[[IVGM13]] E-riigi tehnoloogiad ja teenused\\
+	[[IAPM02]] Informaatika\\
+	[[IVCM09]] Küberkaitse\\
+	[[IVSM09]] Tarkvaratehnika\\
+	[[IATM02]] Telekommunikatsioon\\
+	\\
+	[[IAQD02]] Info- ja kommunikatsioonitehnoloogia\\
+	\\
+	
+lastmajor: 11
+keep-ts: 1391302565

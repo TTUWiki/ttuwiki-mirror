@@ -1,0 +1,25 @@
+flags: 01010
+blocks: <h3>Мобильная версия</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Возможность сравнения двух учебный программ</h3><p>&#x2013; AlexDaniel 2014-07-28 15:16:19</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----</p></div>
+ip: 84.52.39.59
+ts: 1406549788
+minor: 
+host: sa-84-52-39-59.saturn.infonet.ee
+username: AlexDaniel
+revision: 13
+diff-major: 1
+summary: === Возможность сравнения двух учебный программ
+languages: 
+text: === Мобильная версия
+	Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?
+	
+	-- AlexDaniel 2014-03-17 23:59 UTC
+	
+	=== Возможность сравнения двух учебный программ
+	
+	-- AlexDaniel 2014-07-28 15:16:19
+	
+	
+lastmajor: 13
+keep-ts: 1406549788

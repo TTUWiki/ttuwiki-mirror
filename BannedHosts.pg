@@ -1,0 +1,39 @@
+flags: 0
+blocks: <pre>^216\.152\.251\.72
+	^.*.xdnetworks\.net
+	^wen4\.kelowthblog\.com
+	^216\.152\.249\.242
+	^96\.47\.22[45]\.[0-9]+
+	^162\.244\.13\.[0-9]+
+	^142\.10\.217\.91 # 2014-07-04 EAUM12
+	^138\.10\.217\.91 # 2014-07-08 EAUM12
+	^33\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-11 EAUM12
+	^30\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-12 EAUM12
+	^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12</pre>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12</p></div>
+ip: 84.52.48.17
+ts: 1405434066
+minor: 1
+host: sa-84-52-48-17.saturn.infonet.ee
+username: AlexDaniel
+revision: 8
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ^138\.10\.217\.91<strong class="changes">\.collocation\.ipisp\.SteepHost\.Net</strong> # 2014-07-08 EAUM12</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ^138\.10\.217\.91 # 2014-07-08 EAUM12</p></div>
+summary: EAUM12
+languages: 
+text: ^216\.152\.251\.72
+	^.*.xdnetworks\.net
+	^wen4\.kelowthblog\.com
+	^216\.152\.249\.242
+	^96\.47\.22[45]\.[0-9]+
+	^162\.244\.13\.[0-9]+
+	^142\.10\.217\.91 # 2014-07-04 EAUM12
+	^138\.10\.217\.91 # 2014-07-08 EAUM12
+	^33\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-11 EAUM12
+	^30\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-12 EAUM12
+	^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12
+	
+lastmajor: 5
+keep-ts: 1405434066

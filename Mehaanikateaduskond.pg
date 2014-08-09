@@ -1,0 +1,35 @@
+flags: 010101010101010101010
+blocks: <p>[[MVEB14]] Integreeritud tehnoloogiad<br />[[MAHB02]] Mehhatroonika<br />[[MASB02]] Soojusenergeetika<br />[[MATB02]] Tootearendus ja tootmistehnika<br /><br />[[MADM10]] Disain ja tootearendus<br />[[MAHM02]] Mehhatroonika<br />[[MASM02]] Soojusenergeetika<br />[[MARM06]] Tööstustehnika ja juhtimine<br />[[MATM02]] Tootearendus ja tootmistehnika<br /><br />[[MAPD02]] Mehhanotehnika<br /><br /></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">MADM10</strong>]] <strong class="changes">Disain ja tootearendus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[MAHM02]] Mehhatroonika\\<br />&lt; [[MAPD02]] Mehhanotehnika\\<br />&lt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[MASM02]] Soojusenergeetika\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\<br />&gt; [[MADM10]] Disain ja tootearendus\\<br />&gt; [[MAHM02]] Mehhatroonika\\<br />&gt; [[MASM02]] Soojusenergeetika\\<br />&gt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">MAPD02</strong>]] <strong class="changes">Mehhanotehnika\\</strong><br />&gt; \\</p></div>
+ip: 89.235.235.166
+ts: 1391265083
+minor: 
+host: 89-235-235-166.saturn.infonet.ee
+username: Bot
+revision: 3
+diff-major: 1
+summary: AutomaticUpdate
+languages: 
+text: [[MVEB14]] Integreeritud tehnoloogiad\\
+	[[MAHB02]] Mehhatroonika\\
+	[[MASB02]] Soojusenergeetika\\
+	[[MATB02]] Tootearendus ja tootmistehnika\\
+	\\
+	[[MADM10]] Disain ja tootearendus\\
+	[[MAHM02]] Mehhatroonika\\
+	[[MASM02]] Soojusenergeetika\\
+	[[MARM06]] Tööstustehnika ja juhtimine\\
+	[[MATM02]] Tootearendus ja tootmistehnika\\
+	\\
+	[[MAPD02]] Mehhanotehnika\\
+	\\
+	
+lastmajor: 3
+keep-ts: 1391265083

@@ -1,0 +1,35 @@
+flags: 0101010
+blocks: <h2>Elektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=37210&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><hr /><p>[[File:Error: There was a problem uploading your file (try a smaller file).]]</p><p>&#x2013; Atomsk 2014-02-26 00:07 UTC</p><hr /><p>Ого, файл не загрузился. Поднял лимит до 100MB. Попробуй еще раз ;)</p><p>&#x2013; AlexDaniel 2014-02-26 00:10 UTC</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; Ваш комментарий...</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Ого, файл не загрузился. Поднял лимит до 100MB.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Ого, файл не загрузился. Поднял лимит до 100MB. <strong class="changes">Попробуй еще раз ;)</strong></p></div>
+ip: 84.52.48.194
+ts: 1393373652
+minor: 
+host: sa-84-52-48-194.saturn.infonet.ee
+username: AlexDaniel
+revision: 5
+diff-major: 1
+summary: Ого, файл не загрузился. Поднял лимит до 100MB.
+languages: 
+text: ==Elektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=37210&p_public=1&p_mode=1]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	----
+	
+	
+	[[File:Error: There was a problem uploading your file (try a smaller file).]]
+	
+	-- Atomsk 2014-02-26 00:07 UTC
+	
+	
+	----
+	
+	Ого, файл не загрузился. Поднял лимит до 100MB. Попробуй еще раз ;)
+	
+	-- AlexDaniel 2014-02-26 00:10 UTC
+	
+	
+lastmajor: 5
+keep-ts: 1393373652

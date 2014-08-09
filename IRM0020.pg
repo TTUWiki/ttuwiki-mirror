@@ -1,0 +1,27 @@
+flags: 010
+blocks: <h2>Signaalide transmissioon [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=29759&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><hr /><p>Тут находятся лекции и др. материалы </p><p><a class="url http" href="http://www.lr.ttu.ee/irm/transmissioon/">http://www.lr.ttu.ee/irm/transmissioon/</a></p><p>&#x2013; Аноним 2014-02-24 22:10 UTC</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Тут находятся лекции и др. материалы <br />&gt; http://www.lr.ttu.ee/irm/transmissioon/<br />&gt; -- Аноним 2014-02-24 22:10 UTC</p></div>
+ip: 84.50.22.158
+ts: 1393279838
+minor: 
+host: 158.22.50.84.dyn.estpak.ee
+username: 
+revision: 3
+diff-major: 1
+summary: Тут находятся лекции и др. материалы  http://www.lr.ttu.ee/irm/transmissioon/
+languages: 
+text: ==Signaalide transmissioon [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=29759&p_public=1&p_mode=1]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	----
+	
+	Тут находятся лекции и др. материалы 
+	
+	http://www.lr.ttu.ee/irm/transmissioon/
+	
+	-- Аноним 2014-02-24 22:10 UTC
+	
+	
+lastmajor: 3
+keep-ts: 1393279838

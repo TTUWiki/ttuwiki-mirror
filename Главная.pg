@@ -1,0 +1,28 @@
+flags: 0101010
+blocks: &lt;include "Õppekavad"&gt;
+	<p><br /><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6 "^Вопрос_\d+"&gt;
+	<h2>Новости</h2>&lt;Journal 1 "^Новость_\d+"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &lt;Journal 6 "^<strong class="changes">Вопросы_</strong>\d+"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;Journal 6 "^<strong class="changes">Вопрос_</strong>\d+"&gt;</p></div>
+ip: 89.235.239.240
+ts: 1402680769
+minor: 
+host: 89-235-239-240.saturn.infonet.ee
+username: 
+revision: 20
+diff-major: 1
+summary: 
+languages: 
+text: <include "Õppekavad">
+	
+	\\\\\\
+	
+	==Вопросы
+	<Journal 6 "^Вопрос_\d+">
+	
+	==Новости
+	<Journal 1 "^Новость_\d+">
+	
+lastmajor: 20
+keep-ts: 1402680769

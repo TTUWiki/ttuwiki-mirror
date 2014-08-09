@@ -1,0 +1,61 @@
+flags: 010101010101010101010101010101010101010
+blocks: <h2>Programmeerimise põhikursus keeles C [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100200&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><hr /><p>[[File:ArgoUML_abi_2010.pdf]]</p><p>[[File:JSPupr_2010.pdf]]</p><p>[[File:SPJackson_2010.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:TUND_C5.pdf]]</p><p>[[File:TUND_C6.pdf]]</p><p>[[File:TUND_C7.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:Tund2_C2_rusP_2010.pdf]]</p><p>[[File:TUND3_C1_P_2010.pdf]]</p><p>[[File:Tund2_C1_rus_2010.pdf]]</p><p>[[File:TUND6_C1_2010.pdf]]</p><p>[[File:TUND8_ptr_P.pdf]]</p><p>[[File:TUND10_KLASS2.pdf]]</p><p>[[File:TUNDC9.pdf]]</p><p>[[File:UML_ActivityDiagram_2010.pdf]]</p><p>&#x2013; Atomsk 2014-02-25 23:19 UTC</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; Ваш комментарий...</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; -- Atomsk 2014-02-25 23:19 UTC<br />&lt; ----<br />&lt; Ваш комментарий...</p></div>
+ip: 84.52.48.194
+ts: 1393371068
+minor: 
+host: sa-84-52-48-194.saturn.infonet.ee
+username: AlexDaniel
+revision: 5
+diff-major: 1
+summary: Ваш комментарий... 
+languages: 
+text: ==Programmeerimise põhikursus keeles C [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=100200&p_public=1&p_mode=1]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	----
+	
+	[[File:ArgoUML_abi_2010.pdf]]
+	
+	[[File:JSPupr_2010.pdf]]
+	
+	[[File:SPJackson_2010.pdf]]
+	
+	[[File:titul_list.pdf]]
+	
+	[[File:titul_list.pdf]]
+	
+	[[File:TUND_C5.pdf]]
+	
+	[[File:TUND_C6.pdf]]
+	
+	[[File:TUND_C7.pdf]]
+	
+	[[File:TUND_C8.pdf]]
+	
+	[[File:TUND_C8.pdf]]
+	
+	[[File:Tund2_C2_rusP_2010.pdf]]
+	
+	[[File:TUND3_C1_P_2010.pdf]]
+	
+	[[File:Tund2_C1_rus_2010.pdf]]
+	
+	
+	
+	[[File:TUND6_C1_2010.pdf]]
+	
+	[[File:TUND8_ptr_P.pdf]]
+	
+	[[File:TUND10_KLASS2.pdf]]
+	
+	[[File:TUNDC9.pdf]]
+	
+	[[File:UML_ActivityDiagram_2010.pdf]]
+	
+	-- Atomsk 2014-02-25 23:19 UTC
+	
+lastmajor: 5
+keep-ts: 1393371068

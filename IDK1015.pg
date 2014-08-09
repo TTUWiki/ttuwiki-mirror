@@ -1,0 +1,33 @@
+flags: 0101010
+blocks: <h2>Programmeerimise põhikursus [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=107203&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><hr /><p>А почему работаете в какой-то херне? Скажите ей о существовании <a class="url http outside" href="http://pydev.org/">PyDev</a></p><p>&#x2013; AlexDaniel 2014-03-10 07:11 UTC</p><hr /><p>Сам спросил уже.<br />Ей всё равно, да и придумала это не она.</p><p>&#x2013; AlexDaniel 2014-03-18 00:08 UTC</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Сам спросил уже.<br />&gt; Ей всё равно, да и придумала это не она.<br />&gt; -- AlexDaniel 2014-03-18 00:08 UTC</p></div>
+ip: 84.52.43.21
+ts: 1395101303
+minor: 
+host: sa-84-52-43-21.saturn.infonet.ee
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: Сам спросил уже. Ей всё равно, да и придумала это не она.
+languages: 
+text: ==Programmeerimise põhikursus [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=107203&p_public=1&p_mode=1]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	----
+	
+	А почему работаете в какой-то херне? Скажите ей о существовании [[http://pydev.org/|PyDev]]
+	
+	-- AlexDaniel 2014-03-10 07:11 UTC
+	
+	
+	----
+	
+	Сам спросил уже.
+	Ей всё равно, да и придумала это не она.
+	
+	-- AlexDaniel 2014-03-18 00:08 UTC
+	
+	
+lastmajor: 4
+keep-ts: 1395101303
