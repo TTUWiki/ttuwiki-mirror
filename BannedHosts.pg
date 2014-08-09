@@ -7,21 +7,21 @@ blocks: <pre>^216\.152\.251\.72
 	^162\.244\.13\.[0-9]+
 	^142\.10\.217\.91 # 2014-07-04 EAUM12
 	^138\.10\.217\.91 # 2014-07-08 EAUM12
-	^33\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-11 EAUM12
-	^30\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-12 EAUM12
-	^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12</pre>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12</p></div>
+	^33\.7\.207\.91 # 2014-07-11 EAUM12
+	^30\.7\.207\.91 # 2014-07-12 EAUM12
+	^141\.7\.207\.91 # 2014-07-15 EAUM12
+	^91\.207\.7\.141</pre>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ^33\.7\.207\.91<strong class="changes">\.unknown\.SteepHost\.Net</strong> # 2014-07-11 EAUM12<br />&lt; ^30\.7\.207\.91<strong class="changes">\.unknown\.SteepHost\.Net</strong> # 2014-07-12 EAUM12<br />&lt; ^141\.7\.207\.91<strong class="changes">\.unknown\.SteepHost\.Net</strong> # 2014-07-15 EAUM12</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ^33\.7\.207\.91 # 2014-07-11 EAUM12<br />&gt; ^30\.7\.207\.91 # 2014-07-12 EAUM12<br />&gt; ^141\.7\.207\.91 # 2014-07-15 EAUM12<br />&gt; <strong class="changes">^91\.207\.7\.141</strong></p></div>
 ip: 84.52.48.17
-ts: 1405434066
-minor: 1
-host: sa-84-52-48-17.saturn.infonet.ee
+ts: 1407608764
+minor: 
+host: 89.235.245.14
 username: AlexDaniel
-revision: 8
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ^138\.10\.217\.91<strong class="changes">\.collocation\.ipisp\.SteepHost\.Net</strong> # 2014-07-08 EAUM12</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; ^138\.10\.217\.91 # 2014-07-08 EAUM12</p></div>
-summary: EAUM12
+revision: 9
+diff-major: 1
+summary: 
 languages: 
 text: ^216\.152\.251\.72
 	^.*.xdnetworks\.net
@@ -31,9 +31,10 @@ text: ^216\.152\.251\.72
 	^162\.244\.13\.[0-9]+
 	^142\.10\.217\.91 # 2014-07-04 EAUM12
 	^138\.10\.217\.91 # 2014-07-08 EAUM12
-	^33\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-11 EAUM12
-	^30\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-12 EAUM12
-	^141\.7\.207\.91\.unknown\.SteepHost\.Net # 2014-07-15 EAUM12
+	^33\.7\.207\.91 # 2014-07-11 EAUM12
+	^30\.7\.207\.91 # 2014-07-12 EAUM12
+	^141\.7\.207\.91 # 2014-07-15 EAUM12
+	^91\.207\.7\.141
 	
-lastmajor: 5
-keep-ts: 1405434066
+lastmajor: 9
+keep-ts: 1407608764
