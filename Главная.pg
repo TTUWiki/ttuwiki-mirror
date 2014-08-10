@@ -1,16 +1,18 @@
 flags: 0101010
 blocks: &lt;include "Õppekavad"&gt;
-	<p><br /><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6 "^Вопрос_\d+"&gt;
-	<h2>Новости</h2>&lt;Journal 1 "^Новость_\d+"&gt;
+	<p><br /><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
+	<h2>Новости</h2>&lt;Journal 1,10 "^Новость_\d+"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; &lt;Journal 6 "^<strong class="changes">Вопросы_</strong>\d+"&gt;</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &lt;Journal 6 "^<strong class="changes">Вопрос_</strong>\d+"&gt;</p></div>
+	<div class="old"><p>&lt; &lt;Journal 6 "^Вопрос_\d+"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;Journal 6<strong class="changes">,10</strong> "^Вопрос_\d+"&gt;</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &lt;Journal 1 "^Новость_\d+"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;Journal 1<strong class="changes">,10</strong> "^Новость_\d+"&gt;</p></div>
 ip: 89.235.239.240
-ts: 1402680769
+ts: 1407691624
 minor: 
-host: 89-235-239-240.saturn.infonet.ee
-username: 
-revision: 20
+host: 89.235.245.14
+username: AlexDaniel
+revision: 21
 diff-major: 1
 summary: 
 languages: 
@@ -19,10 +21,10 @@ text: <include "Õppekavad">
 	\\\\\\
 	
 	==Вопросы
-	<Journal 6 "^Вопрос_\d+">
+	<Journal 6,10 "^Вопрос_\d+">
 	
 	==Новости
-	<Journal 1 "^Новость_\d+">
+	<Journal 1,10 "^Новость_\d+">
 	
-lastmajor: 20
-keep-ts: 1402680769
+lastmajor: 21
+keep-ts: 1407691624
