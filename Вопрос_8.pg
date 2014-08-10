@@ -1,18 +1,18 @@
 flags: 0101010100
-blocks: <p>Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?</p><p>&#x2013; Kulja 2014-03-29 21:11:30</p><h2 id="commentsHeading">Comments:</h2><div class="userComment"><p>А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.</p><p>&#x2013; Аноним 2014-03-29 22:05:58</p></div><div class="userComment"><p>Ага, всё на <a class="url http" href="http://edu.pld.ttu.ee/">http://edu.pld.ttu.ee/</a><br />Логин и пароль такие же, как в компьютерных классах. Если вдруг не получается зайти, то вот оно:<br />File:arvutid_2_lab.pdf</p><p>&#x2013; AlexDaniel 2014-03-29 22:07:46</p></div><div class="userComment"><p>ну вот как делается операция clr A,B<br />я понимаю<br />а вот к примеру: F1=shl A (nihe vasakule)<br />не особо помню, как это делается</p><p>&#x2013; Kulja 2014-03-29 22:16:09</p></div><div class="userComment"><p>или может у кого есть пример этой лабы?</p><p>&#x2013; Kulja 2014-03-29 22:19:00</p></div><div class="userComment"><p>Ох, так это же совсем просто. Красивая иллюстрация есть здесь: <a class="url http" href="http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts">http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts</a><br />То есть просто соединяешь одни контакты с другими, при этом &#x201c;сдвинув&#x201d; их&#x2026; :)</p><p>&#x2013; AlexDaniel 2014-03-29 22:20:25</p></div><div class="userComment"><p>спасибо</p><p>&#x2013; Kulja 2014-03-29 22:22;29</p></div><div class="userComment"><p>Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p><p>&#x2013; AlexDaniel 2014-03-29 22:26:58</p></div>
+blocks: <p>Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?</p><p>&#x2013; Kulja 2014-03-29 21:11:30</p><h2 id="commentsHeading">Comments:</h2><div class="userComment"><p>А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.ee</p><p>&#x2013; Аноним 2014-03-29 22:05:58</p></div><div class="userComment"><p>Ага, всё на <a class="url http" href="http://edu.pld.ttu.ee/">http://edu.pld.ttu.ee/</a><br />Логин и пароль такие же, как в компьютерных классах. Если вдруг не получается зайти, то вот оно:<br />File:arvutid_2_lab.pdf</p><p>&#x2013; AlexDaniel 2014-03-29 22:07:46</p></div><div class="userComment"><p>ну вот как делается операция clr A,B<br />я понимаю<br />а вот к примеру: F1=shl A (nihe vasakule)<br />не особо помню, как это делается</p><p>&#x2013; Kulja 2014-03-29 22:16:09</p></div><div class="userComment"><p>или может у кого есть пример этой лабы?</p><p>&#x2013; Kulja 2014-03-29 22:19:00</p></div><div class="userComment"><p>Ох, так это же совсем просто. Красивая иллюстрация есть здесь: <a class="url http" href="http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts">http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts</a><br />То есть просто соединяешь одни контакты с другими, при этом &#x201c;сдвинув&#x201d; их&#x2026; :)</p><p>&#x2013; AlexDaniel 2014-03-29 22:20:25</p></div><div class="userComment"><p>спасибо</p><p>&#x2013; Kulja 2014-03-29 22:22;29</p></div><div class="userComment"><p>Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p><p>&#x2013; AlexDaniel 2014-03-29 22:26:58</p></div>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль. </p></div>
+	<div class="old"><p>&lt; А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.<strong class="changes">ee</strong></p></div>
 ip: 89.235.239.240
-ts: 1407692864
+ts: 1407692982
 minor: 1
 host: 89.235.245.14
 username: AlexDaniel
-revision: 3
+revision: 4
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; File:arvutid_2_lab.pdf <strong class="changes">???</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; File:arvutid_2_lab.pdf</p></div>
-summary: Touch
+summary: ee
 languages: 
 text: Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?
 	
@@ -20,7 +20,7 @@ text: Кто-нибудь может объяснить как делается 
 	
 	----
 	
-	А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.
+	А что именно не получается? Руководство по 2ой лабораторной есть на edu.pld.ttu.ee
 	
 	-- Аноним 2014-03-29 22:05:58
 	
@@ -68,4 +68,4 @@ text: Кто-нибудь может объяснить как делается 
 	
 	
 lastmajor: 2
-keep-ts: 1407692864
+keep-ts: 1407692982
