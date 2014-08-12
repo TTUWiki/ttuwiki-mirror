@@ -10,17 +10,19 @@ blocks: <pre>^216\.152\.251\.72
 	^33\.7\.207\.91 # 2014-07-11 EAUM12
 	^30\.7\.207\.91 # 2014-07-12 EAUM12
 	^141\.7\.207\.91 # 2014-07-15 EAUM12
-	^91\.207\.7\.[0-9]+ # 2014-08-10 EAUM12</pre>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ^91\.207\.7<strong class="changes">\.141<br />&lt; ^91\.207\.7\.30</strong> # 2014-08-10 EAUM12</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; ^91\.207\.7<strong class="changes">\.[0-9]+</strong> # 2014-08-10 EAUM12</p></div>
+	^91\.207\.7\.[0-9]+ # 2014-08-10 EAUM12
+	^91\.207\.6\.142 # 2014-08-12 EAUM12</pre>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ^91\.207\.6\.142 # 2014-08-12 EAUM12</p></div>
 ip: 84.52.48.17
-ts: 1407634169
-minor: 
+ts: 1407845686
+minor: 1
 host: 89.235.245.14
 username: AlexDaniel
-revision: 11
-diff-major: 1
+revision: 12
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ^91\.207\.7<strong class="changes">\.141<br />&lt; ^91\.207\.7\.30</strong> # 2014-08-10 EAUM12</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ^91\.207\.7<strong class="changes">\.[0-9]+</strong> # 2014-08-10 EAUM12</p></div>
 summary: EAUM12
 languages: 
 text: ^216\.152\.251\.72
@@ -35,6 +37,7 @@ text: ^216\.152\.251\.72
 	^30\.7\.207\.91 # 2014-07-12 EAUM12
 	^141\.7\.207\.91 # 2014-07-15 EAUM12
 	^91\.207\.7\.[0-9]+ # 2014-08-10 EAUM12
+	^91\.207\.6\.142 # 2014-08-12 EAUM12
 	
 lastmajor: 11
-keep-ts: 1407634169
+keep-ts: 1407845686
