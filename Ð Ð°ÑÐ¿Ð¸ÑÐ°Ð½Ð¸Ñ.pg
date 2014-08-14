@@ -1,15 +1,17 @@
-flags: 0
-blocks: <p>lmepmuuvxjlj, <a class="url http" href="http://www.heznhddjfq.com/">http://www.heznhddjfq.com/</a> bmgdceffma</p><p>&#x2013; <a class="url http outside" href="http://www.uiloevryxn.com/">wlqckachqr</a> 2014-08-14 17:09:55</p>
-ts: 1408025395
+flags: 010
+blocks: <p>DeletedPage</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">lmepmuuvxjlj, http://www.heznhddjfq.com/ bmgdceffma<br />&lt; -- [http://www.uiloevryxn.com/ wlqckachqr] 2014-08-14 17:09:55</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">DeletedPage</strong></p></div>
+ts: 1408036701
 minor: 
-host: 146.0.74.205
-username: wlqckachqr
-revision: 1
-summary: lmepmuuvxjlj, http://www.heznhddjfq.com/ bmgdceffma 
+host: 89.235.237.48
+username: AlexDaniel
+revision: 2
+diff-major: 1
+summary: Deleted
 languages: 
-text: lmepmuuvxjlj, http://www.heznhddjfq.com/ bmgdceffma
+text: DeletedPage
 	
-	-- [http://www.uiloevryxn.com/ wlqckachqr] 2014-08-14 17:09:55
-	
-	
-lastmajor: 1
+lastmajor: 2
+keep-ts: 1408036701
