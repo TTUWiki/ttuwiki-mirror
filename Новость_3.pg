@@ -1,15 +1,14 @@
-flags: 0
-blocks: <p>Как и обещал, исходники:<br /><a class="url http" href="https://github.com/TTUWiki/ttuwiki-website">https://github.com/TTUWiki/ttuwiki-website</a></p><p>Также, на всякий случай, весь контент будет храниться здесь:<br /><a class="url http" href="https://github.com/TTUWiki/ttuwiki-mirror">https://github.com/TTUWiki/ttuwiki-mirror</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Также, на всякий случай весь контент будет храниться здесь:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Также, на всякий случай<strong class="changes">,</strong> весь контент будет храниться здесь:</p></div>
-ts: 1407691565
-minor: 1
-host: 89.235.245.14
+flags: 0100
+blocks: <p>Как и обещал, исходники:<br /><a class="url http" href="https://github.com/TTUWiki/ttuwiki-website">https://github.com/TTUWiki/ttuwiki-website</a></p><p>Также, на всякий случай, весь контент будет храниться здесь:<br /><a class="url http" href="https://github.com/TTUWiki/ttuwiki-mirror">https://github.com/TTUWiki/ttuwiki-mirror</a></p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>-</p><p>&#x2013; AlexDaniel 2014-08-20 07:26:44</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; -<br />&gt; -- AlexDaniel 2014-08-20 07:26:44</p></div>
+ts: 1408508804
+minor: 
+host: 89.235.223.25
 username: AlexDaniel
-revision: 2
-diff-major: 
-summary: Как и обещал, исходники: https://github.com/TTUWiki/ttuwiki-website Также, на всякий случай весь контент будет храниться здесь: . . .
+revision: 3
+diff-major: 1
+summary: -
 languages: 
 text: Как и обещал, исходники:
 	https://github.com/TTUWiki/ttuwiki-website
@@ -17,5 +16,12 @@ text: Как и обещал, исходники:
 	Также, на всякий случай, весь контент будет храниться здесь:
 	https://github.com/TTUWiki/ttuwiki-mirror
 	
-lastmajor: 1
-keep-ts: 1407691565
+	----
+	
+	-
+	
+	-- AlexDaniel 2014-08-20 07:26:44
+	
+	
+lastmajor: 3
+keep-ts: 1408508804
