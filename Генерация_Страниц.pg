@@ -1,15 +1,18 @@
-flags: 0101010
-blocks: <h3>Программы и предметы</h3><p>Для генерации страниц использовался этот скрипт:</p><p>[[File:parseOis]]</p><p>Последний раз он запускался <strong>2014-02-02</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p><h3>Расписания</h3><p>[[File:parseTimetable]]</p><h3>Архивы сайтов</h3><p>[[File:get]]</p><p>С данными сайтами проблем нет, выкачиваются максимально:<br /></p><ul><li><a class="url http" href="http://www.hot.ee/iasb02/materials/index.htm">http://www.hot.ee/iasb02/materials/index.htm</a></li><li><a class="url http" href="http://www.starspirals.net/ttu/materjalid/index.php?dir=">http://www.starspirals.net/ttu/materjalid/index.php?dir=</a></li></ul><h4>Проблемные сайты:</h4><h4><a class="url http" href="http://ttuit.eu">http://ttuit.eu</a></h4><p>По какой-то причине часть данных не загружается, из-за чего многие ссылки либо вообще не работают, либо указывают на оригинальный сайт.</p><h4><a class="url http" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a></h4><p>Все файлы хранятся на dropbox, нужно придумать как сделать дамп и при этом не выкачать весь dropbox.com :)</p><p><br /><br />Буду рад услышать любые предложения.</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[File:get]]</p></div>
+flags: 010
+blocks: <h3>Программы и предметы</h3><p>Для генерации страниц использовался этот скрипт:</p><p>[[File:parseOis]]</p><p>Последний раз он запускался <strong>2014-02-02</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p><h3>Расписания</h3><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable">parse_timetable</a></p><h3>Архивы сайтов</h3><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois">parse_ois</a></p><p>С данными сайтами проблем нет, выкачиваются максимально:<br /></p><ul><li><a class="url http" href="http://www.hot.ee/iasb02/materials/index.htm">http://www.hot.ee/iasb02/materials/index.htm</a></li><li><a class="url http" href="http://www.starspirals.net/ttu/materjalid/index.php?dir=">http://www.starspirals.net/ttu/materjalid/index.php?dir=</a></li></ul><h4>Проблемные сайты:</h4><h4><a class="url http" href="http://ttuit.eu">http://ttuit.eu</a></h4><p>По какой-то причине часть данных не загружается, из-за чего многие ссылки либо вообще не работают, либо указывают на оригинальный сайт.</p><h4><a class="url http" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a></h4><p>Все файлы хранятся на dropbox, нужно придумать как сделать дамп и при этом не выкачать весь dropbox.com :)</p><p><br /><br />Буду рад услышать любые предложения.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">File:parseTimetable</strong>]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable parse_timetable</strong>]]</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">File:get</strong>]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois parse_ois</strong>]]</p></div>
 ip: 84.52.48.194
-ts: 1393096290
+ts: 1408597761
 minor: 
-host: sa-84-52-48-194.saturn.infonet.ee
+host: 89.235.223.25
 username: AlexDaniel
-revision: 7
+revision: 8
 diff-major: 1
-summary: 
+summary: Ссылки на GitHub
 languages: 
 text: === Программы и предметы
 	
@@ -21,11 +24,11 @@ text: === Программы и предметы
 	
 	=== Расписания
 	
-	[[File:parseTimetable]]
+	[[https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable parse_timetable]]
 	
 	=== Архивы сайтов
 	
-	[[File:get]]
+	[[https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois parse_ois]]
 	
 	С данными сайтами проблем нет, выкачиваются максимально:
 	* http://www.hot.ee/iasb02/materials/index.htm
@@ -41,5 +44,5 @@ text: === Программы и предметы
 	\\\\
 	Буду рад услышать любые предложения.
 	
-lastmajor: 7
-keep-ts: 1393096290
+lastmajor: 8
+keep-ts: 1408597761
