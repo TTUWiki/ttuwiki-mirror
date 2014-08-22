@@ -14,15 +14,16 @@ blocks: <pre>^216\.152\.251\.72
 	^91\.207\.6\.142 # 2014-08-12 EAUM12
 	^91\.217\.10\.142 # 2014-08-13 EAUM12
 	^146\.0\.74\.205 # Cyrillic pages
-	^213\.238\.175\.71 # 2014-08-17 EAUM12</pre>
+	^213\.238\.175\.71 # 2014-08-17 EAUM12
+	^91\.217\.10\.138 # 2014-08-22 EAUM12</pre>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ^213\.238\.175\.71 # 2014-08-17 EAUM12</p></div>
+	<div class="new"><p>&gt; ^91\.217\.10\.138 # 2014-08-22 EAUM12</p></div>
 ip: 84.52.48.17
-ts: 1408292216
+ts: 1408675166
 minor: 1
-host: 217.71.47.84
+host: 89.235.223.25
 username: AlexDaniel
-revision: 15
+revision: 16
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ^146\.0\.74\.205 # Cyrillic pages</p></div>
 summary: EAUM12
@@ -43,6 +44,7 @@ text: ^216\.152\.251\.72
 	^91\.217\.10\.142 # 2014-08-13 EAUM12
 	^146\.0\.74\.205 # Cyrillic pages
 	^213\.238\.175\.71 # 2014-08-17 EAUM12
+	^91\.217\.10\.138 # 2014-08-22 EAUM12
 	
 lastmajor: 14
-keep-ts: 1408292216
+keep-ts: 1408675166
