@@ -1,6 +1,15 @@
 flags: 010101010101010101010101010
-blocks: <p>[[EALB02]] Logistika<br /><br />[[EAAM11]] Hoonete energiatõhusus<br />[[EABM03]] Keskkonnakorraldus ja puhtam tootmine<br />[[EAKM07]] Keskkonnatehnika<br />[[EAUM12]] Linnaehitus ja hoonete projekteerimine<br />[[EALM02]] Logistika<br />[[EAEM07]] Tööstus- ja tsiviilehitus<br />[[EATM07]] Transpordiehitus<br /><br />[[EAED02]] Ehitus ja keskkonnatehnika<br /><br />[[EAUI12]] Arhitektuur<br />[[EAKI02]] Keskkonnatehnika<br />[[EAEI02]] Tööstus- ja tsiviilehitus<br />[[EATI02]] Transpordiehitus<br /><br /></p>
-diff-minor: <p><strong>Added:</strong></p>
+blocks: <p>[[EALB02]] Logistika</p><p>[[EAAM11]] Hoonete energiatõhusus<br />[[EABM03]] Keskkonnakorraldus ja puhtam tootmine<br />[[EAKM07]] Keskkonnatehnika<br />[[EAUM12]] Linnaehitus ja hoonete projekteerimine<br />[[EALM02]] Logistika<br />[[EATM07]] Teedeehitus ja geodeesia<br />[[EAEM07]] Tööstus- ja tsiviilehitus</p><p>[[EAED02]] Ehitus ja keskkonnatehnika</p><p>[[EAUI12]] Arhitektuur<br />[[EAKI02]] Keskkonnatehnika<br />[[EATI02]] Teedeehitus ja geodeesia<br />[[EAEI02]] Tööstus- ja tsiviilehitus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[EALB02]] Logistika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[EAAM11]] Hoonete energiatõhusus<strong class="changes">\\</strong><br />&lt; [[EABM03]] Keskkonnakorraldus ja puhtam tootmine<strong class="changes">\\</strong><br />&lt; [[EAKM07]] Keskkonnatehnika<strong class="changes">\\</strong><br />&lt; [[EAUM12]] Linnaehitus ja hoonete projekteerimine<strong class="changes">\\</strong><br />&lt; [[EALM02]] Logistika<strong class="changes">\\</strong><br />&lt; [[EAEM07]] Tööstus- ja tsiviilehitus<strong class="changes">\\<br />&lt; [[EATM07]] Transpordiehitus\\<br />&lt; \\</strong><br />&lt; [[EAED02]] Ehitus ja keskkonnatehnika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[EAUI12]] Arhitektuur<strong class="changes">\\</strong><br />&lt; [[EAKI02]] Keskkonnatehnika<strong class="changes">\\</strong><br />&lt; [[EAEI02]] Tööstus- ja tsiviilehitus<strong class="changes">\\<br />&lt; [[EATI02]] Transpordiehitus\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[EALB02]] Logistika<br />&gt; [[EAAM11]] Hoonete energiatõhusus<br />&gt; [[EABM03]] Keskkonnakorraldus ja puhtam tootmine<br />&gt; [[EAKM07]] Keskkonnatehnika<br />&gt; [[EAUM12]] Linnaehitus ja hoonete projekteerimine<br />&gt; [[EALM02]] Logistika<br />&gt; <strong class="changes">[[EATM07]] Teedeehitus ja geodeesia</strong><br />&gt; [[EAEM07]] Tööstus- ja tsiviilehitus<br />&gt; [[EAED02]] Ehitus ja keskkonnatehnika<br />&gt; [[EAUI12]] Arhitektuur<br />&gt; [[EAKI02]] Keskkonnatehnika<br />&gt; <strong class="changes">[[EATI02]] Teedeehitus ja geodeesia</strong><br />&gt; [[EAEI02]] Tööstus- ja tsiviilehitus</p></div>
+ip: 89.235.235.166
+ts: 1408885629
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 4
+diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[EALB02]] Logistika\\<br />&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[EAED02]] Ehitus ja keskkonnatehnika\\<br />&lt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&lt; [[EAEM07]] Tööstus- ja tsiviilehitus\\<br />&lt; [[EAKI02]] Keskkonnatehnika\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">EALB02</strong>]] <strong class="changes">Logistika</strong>\\</p></div><p><strong>to</strong></p>
@@ -10,32 +19,26 @@ diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[EAED02]] Ehitus ja keskkonnatehnika\\<br />&gt; \\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">EAUM12</strong>]] <strong class="changes">Linnaehitus</strong> ja <strong class="changes">hoonete projekteerimine</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">EAKI02</strong>]] <strong class="changes">Keskkonnatehnika\\<br />&gt; [[EAEI02]] Tööstus-</strong> ja <strong class="changes">tsiviilehitus\\<br />&gt; [[EATI02]] Transpordiehitus\\</strong><br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265058
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[EALB02]] Logistika\\
-	\\
-	[[EAAM11]] Hoonete energiatõhusus\\
-	[[EABM03]] Keskkonnakorraldus ja puhtam tootmine\\
-	[[EAKM07]] Keskkonnatehnika\\
-	[[EAUM12]] Linnaehitus ja hoonete projekteerimine\\
-	[[EALM02]] Logistika\\
-	[[EAEM07]] Tööstus- ja tsiviilehitus\\
-	[[EATM07]] Transpordiehitus\\
-	\\
-	[[EAED02]] Ehitus ja keskkonnatehnika\\
-	\\
-	[[EAUI12]] Arhitektuur\\
-	[[EAKI02]] Keskkonnatehnika\\
-	[[EAEI02]] Tööstus- ja tsiviilehitus\\
-	[[EATI02]] Transpordiehitus\\
-	\\
+text: [[EALB02]] Logistika
+	
+	[[EAAM11]] Hoonete energiatõhusus
+	[[EABM03]] Keskkonnakorraldus ja puhtam tootmine
+	[[EAKM07]] Keskkonnatehnika
+	[[EAUM12]] Linnaehitus ja hoonete projekteerimine
+	[[EALM02]] Logistika
+	[[EATM07]] Teedeehitus ja geodeesia
+	[[EAEM07]] Tööstus- ja tsiviilehitus
+	
+	[[EAED02]] Ehitus ja keskkonnatehnika
+	
+	[[EAUI12]] Arhitektuur
+	[[EAKI02]] Keskkonnatehnika
+	[[EATI02]] Teedeehitus ja geodeesia
+	[[EAEI02]] Tööstus- ja tsiviilehitus
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265058
+keep-ts: 1408885629

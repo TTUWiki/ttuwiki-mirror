@@ -1,0 +1,39 @@
+flags: 010101010101010101010101010101010101010101010101010
+blocks: <h2>YABM02/02 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=1041&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DBR0010]] Anatoomia ja füsioloogia<br />[[DBR0090]] Bioelektromagnetism<br />[[YKB3330]] Biofüüsika<br />[[DBB0020]] Biomeditsiiniseadmed<br />[[DBR0020]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[DBB0030]] Erialased seminarid ja ettekanded<br />[[DBB0060]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[YTG0011]] Geenitehnoloogia I<br />[[DBR0050]] Kiirguse bioloogiline mõju<br />[[DBR0070]] Kvaliteet radioloogias<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[EMR0050]] Modelleerimise alused<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[DBR0140]] Närviteaduse alused<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[DBR0060]] Pildidiagnostika füüsikalised alused<br />[[DBB0040]] Praktika<br />[[ITI0010]] Programmeerimise põhikursus<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[ITV0020]] Süsteemprogrammeerimine keeles C<br />[[HLX8040]] Teadusvõõrkeel</p>
+diff-minor: 
+ts: 1408891683
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YABM02/02 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=1041&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[DBR0010]] Anatoomia ja füsioloogia
+	[[DBR0090]] Bioelektromagnetism
+	[[YKB3330]] Biofüüsika
+	[[DBB0020]] Biomeditsiiniseadmed
+	[[DBR0020]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt
+	[[DBR0030]] Digitaalne signaali- ja pilditöötlus
+	[[DBR0080]] Elektromagnetväljad ja -lained
+	[[DBB0030]] Erialased seminarid ja ettekanded
+	[[DBB0060]] Füsioloogiline regulatsioon ja adaptatsioon
+	[[DBR0040]] Füsioloogiliste signaalide töötlus
+	[[YTG0011]] Geenitehnoloogia I
+	[[DBR0050]] Kiirguse bioloogiline mõju
+	[[DBR0070]] Kvaliteet radioloogias
+	[[DBB0010]] Mikrolaine- ja optiline tehnika
+	[[EMR0050]] Modelleerimise alused
+	[[YTM0011]] Molekulaar- ja rakubioloogia
+	[[DBR0140]] Närviteaduse alused
+	[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine
+	[[DBR0060]] Pildidiagnostika füüsikalised alused
+	[[DBB0040]] Praktika
+	[[ITI0010]] Programmeerimise põhikursus
+	[[ISC0011]] Sidud, süsteemid, signaalid
+	[[ITV0020]] Süsteemprogrammeerimine keeles C
+	[[HLX8040]] Teadusvõõrkeel
+	
+	
+keep-ts: 1408891683

@@ -1,31 +1,34 @@
 flags: 01010101010101010
-blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[AAGB02]] Geotehnoloogia<br /><br />[[AAAM02]] Elektriajamid ja jõuelektroonika<br />[[AAVM02]] Elektroenergeetika<br />[[AAGM02]] Geotehnoloogia<br />[[AAHM12]] Hajaenergeetika<br /><br />[[AAED02]] Energia- ja geotehnika<br /><br /></p>
-diff-minor: <p><strong>Added:</strong></p>
+blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[AAGB02]] Geotehnoloogia</p><p>[[AAAM02]] Elektriajamid ja jõuelektroonika<br />[[AAVM02]] Elektroenergeetika<br />[[AAGM02]] Geotehnoloogia<br />[[AAHM12]] Hajaenergeetika</p><p>[[AAED02]] Energia- ja geotehnika</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[AAVB02]] Elektroenergeetika<strong class="changes">\\</strong><br />&lt; [[AAAB02]] Elektrotehnika<strong class="changes">\\</strong><br />&lt; [[AAGB02]] Geotehnoloogia<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[AAAM02]] Elektriajamid ja jõuelektroonika<strong class="changes">\\</strong><br />&lt; [[AAVM02]] Elektroenergeetika<strong class="changes">\\</strong><br />&lt; [[AAGM02]] Geotehnoloogia<strong class="changes">\\</strong><br />&lt; [[AAHM12]] Hajaenergeetika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[AAED02]] Energia- ja geotehnika<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[AAVB02]] Elektroenergeetika<br />&gt; [[AAAB02]] Elektrotehnika<br />&gt; [[AAGB02]] Geotehnoloogia<br />&gt; [[AAAM02]] Elektriajamid ja jõuelektroonika<br />&gt; [[AAVM02]] Elektroenergeetika<br />&gt; [[AAGM02]] Geotehnoloogia<br />&gt; [[AAHM12]] Hajaenergeetika<br />&gt; [[AAED02]] Energia- ja geotehnika</p></div>
+ip: 89.235.235.166
+ts: 1408885630
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 4
+diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[AAVB02]] Elektroenergeetika\\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&lt; [[AAED02]] Energia- ja geotehnika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&gt; [[AAVM02]] Elektroenergeetika\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">[[AAVB02]] Elektroenergeetika</strong>\\<br />&lt; [[<strong class="changes">AAVM02</strong>]] <strong class="changes">Elektroenergeetika</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[<strong class="changes">AAED02</strong>]] <strong class="changes">Energia- ja geotehnika\\</strong><br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265059
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[AAVB02]] Elektroenergeetika\\
-	[[AAAB02]] Elektrotehnika\\
-	[[AAGB02]] Geotehnoloogia\\
-	\\
-	[[AAAM02]] Elektriajamid ja jõuelektroonika\\
-	[[AAVM02]] Elektroenergeetika\\
-	[[AAGM02]] Geotehnoloogia\\
-	[[AAHM12]] Hajaenergeetika\\
-	\\
-	[[AAED02]] Energia- ja geotehnika\\
-	\\
+text: [[AAVB02]] Elektroenergeetika
+	[[AAAB02]] Elektrotehnika
+	[[AAGB02]] Geotehnoloogia
+	
+	[[AAAM02]] Elektriajamid ja jõuelektroonika
+	[[AAVM02]] Elektroenergeetika
+	[[AAGM02]] Geotehnoloogia
+	[[AAHM12]] Hajaenergeetika
+	
+	[[AAED02]] Energia- ja geotehnika
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265059
+keep-ts: 1408885630

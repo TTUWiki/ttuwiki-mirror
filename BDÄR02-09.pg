@@ -1,0 +1,83 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=50016&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[BCU0510]] Ärieetika alused<br />[[BCU1910]] Ärilogistika<br />[[BCU3340]] Äriõigus<br />[[BCU3800]] Äriõiguse erialapraktika<br />[[BCU3870]] Äriõiguslik dokumentatsioon<br />[[BCU0141]] Arvestuse alused<br />[[BCU1410]] Asjaõigus<br />[[BCU0270]] Dokumendihaldus<br />[[BCU1900]] E-äri<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4030]] Ettevõtluse alused<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU3280]] Euroopa Liidu majandus<br />[[BCU1430]] Euroopa Liidu õigus<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1930]] Inimressursi juhtimine<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU1440]] Intellektuaalomandi kaitse<br />[[BCU0460]] Juhtimine<br />[[BCU3600]] Juhtimisarvestus<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[BCU1480]] Kindlustusõigus<br />[[BCU3250]] Konfliktoloogia<br />[[BCU1500]] Konkurentsiõigus<br />[[BCU3170]] Kursusetöö<br />[[BCU3580]] Lepinguõigus<br />[[BCU3970]] Majandushaldusõigus<br />[[BCU3620]] Makroökonoomika<br />[[BCU3960]] Maksejõuetuse õigus<br />[[BCU1530]] Maksuõigus<br />[[BCU3610]] Mikroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU3980]] Notari ja täitemenetluse õigus<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3350]] Organisatsioonikäitumine<br />[[BCU3950]] Panganduse ja finantsturgude õigus<br />[[BCU3380]] Politoloogia<br />[[BCU3360]] Projektijuhtimine<br />[[BCU1810]] Protokoll ja etikett<br />[[BCU3410]] Raha ja pangandus<br />[[BCU0680]] Rahvusvaheline finantsjuhtimine<br />[[BCU3060]] Rahvusvaheline kaubandusõigus<br />[[BCU0550]] Rahvusvaheline majandus<br />[[BCU3500]] Rahvusvaheline majandusõigus<br />[[BCU0611]] Rahvusvaheline turundus<br />[[BCU3690]] Rahvusvahelise äritegevuse erialapraktika<br />[[BCU3421]] Rahvusvahelised investeeringud<br />[[BCU3810]] Sissejuhatav praktika<br />[[BCU3330]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0560]] Strateegiline juhtimine<br />[[BCU3160]] Tarbijakaitse<br />[[BCU2000]] Tarbijakäitumine<br />[[BCU4010]] Tarneahela juhtimine<br />[[BCU3290]] Teenuste turundus ja kliendi kogemus<br />[[BCU1630]] Tööõigus<br />[[BCU3750]] Tsiviilkohtumenetlus<br />[[BCU3400]] Turundus<br />[[BCU1920]] Turundus jaekaubanduses<br />[[BCU3240]] Uurimistöö alused<br />[[BCU4160]] Vene keel</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50016&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[BCU0510]] Ärieetika alused<br />&lt; [[BCU1910]] Ärilogistika<br />&lt; [[BCU3340]] Äriõigus<br />&lt; [[BCU3800]] Äriõiguse erialapraktika<br />&lt; [[BCU3870]] Äriõiguslik dokumentatsioon<br />&lt; [[BCU0141]] Arvestuse alused<br />&lt; [[BCU1410]] Asjaõigus<br />&lt; [[BCU0270]] Dokumendihaldus<br />&lt; [[BCU1900]] E-äri<br />&lt; [[BCU3130]] Eesti keele väljendusõpetus<br />&lt; [[BCU4030]] Ettevõtluse alused<br />&lt; [[BCU0500]] Ettevõtte rahandus<br />&lt; [[BCU3280]] Euroopa Liidu majandus<br />&lt; [[BCU1430]] Euroopa Liidu õigus<br />&lt; [[BCU0330]] Informaatika<br />&lt; [[BCU0481]] Inglise ärikeel I<br />&lt; [[BCU0482]] Inglise ärikeel II<br />&lt; [[BCU0471]] Inglise keel I<br />&lt; [[BCU0472]] Inglise keel II<br />&lt; [[BCU1930]] Inimressursi juhtimine<br />&lt; [[BCU1940]] Innovatsioon ja tootearendus<br />&lt; [[BCU1440]] Intellektuaalomandi kaitse<br />&lt; [[BCU0460]] Juhtimine<br />&lt; [[BCU3600]] Juhtimisarvestus<br />&lt; [[BCU3590]] Keskkonnakaitse ja säästev areng<br />&lt; [[BCU1480]] Kindlustusõigus<br />&lt; [[BCU3250]] Konfliktoloogia<br />&lt; [[BCU1500]] Konkurentsiõigus<br />&lt; [[BCU3170]] Kursusetöö<br />&lt; [[BCU3580]] Lepinguõigus<br />&lt; [[BCU3970]] Majandushaldusõigus<br />&lt; [[BCU3620]] Makroökonoomika<br />&lt; [[BCU3960]] Maksejõuetuse õigus<br />&lt; [[BCU1530]] Maksuõigus<br />&lt; [[BCU3610]] Mikroökonoomika<br />&lt; [[BCU2010]] Müügijuhtimine<br />&lt; [[BCU3980]] Notari ja täitemenetluse õigus<br />&lt; [[BCU3480]] Õiguse alused<br />&lt; [[BCU1890]] Operatsioonijuhtimine<br />&lt; [[BCU3350]] Organisatsioonikäitumine<br />&lt; [[BCU3950]] Panganduse ja finantsturgude õigus<br />&lt; [[BCU3380]] Politoloogia<br />&lt; [[BCU3360]] Projektijuhtimine<br />&lt; [[BCU1810]] Protokoll ja etikett<br />&lt; [[BCU3410]] Raha ja pangandus<br />&lt; [[BCU0680]] Rahvusvaheline finantsjuhtimine<br />&lt; [[BCU3060]] Rahvusvaheline kaubandusõigus<br />&lt; [[BCU0550]] Rahvusvaheline majandus<br />&lt; [[BCU3500]] Rahvusvaheline majandusõigus<br />&lt; [[BCU0611]] Rahvusvaheline turundus<br />&lt; [[BCU3690]] Rahvusvahelise äritegevuse erialapraktika<br />&lt; [[BCU3421]] Rahvusvahelised investeeringud<br />&lt; [[BCU3810]] Sissejuhatav praktika<br />&lt; [[BCU3330]] Sotsioloogia<br />&lt; [[BCU0431]] Statistika<br />&lt; [[BCU0432]] Statistika - ainetöö<br />&lt; [[BCU0560]] Strateegiline juhtimine<br />&lt; [[BCU3160]] Tarbijakaitse<br />&lt; [[BCU2000]] Tarbijakäitumine<br />&lt; [[BCU4010]] Tarneahela juhtimine<br />&lt; [[BCU3290]] Teenuste turundus ja kliendi kogemus<br />&lt; [[BCU1630]] Tööõigus<br />&lt; [[BCU3750]] Tsiviilkohtumenetlus<br />&lt; [[BCU3400]] Turundus<br />&lt; [[BCU1920]] Turundus jaekaubanduses<br />&lt; [[BCU3240]] Uurimistöö alused<br />&lt; [[BCU4160]] Vene keel</p></div>
+ts: 1408891299
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=50016&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[BCU0510]] Ärieetika alused
+	[[BCU1910]] Ärilogistika
+	[[BCU3340]] Äriõigus
+	[[BCU3800]] Äriõiguse erialapraktika
+	[[BCU3870]] Äriõiguslik dokumentatsioon
+	[[BCU0141]] Arvestuse alused
+	[[BCU1410]] Asjaõigus
+	[[BCU0270]] Dokumendihaldus
+	[[BCU1900]] E-äri
+	[[BCU3130]] Eesti keele väljendusõpetus
+	[[BCU4030]] Ettevõtluse alused
+	[[BCU0500]] Ettevõtte rahandus
+	[[BCU3280]] Euroopa Liidu majandus
+	[[BCU1430]] Euroopa Liidu õigus
+	[[BCU0330]] Informaatika
+	[[BCU0481]] Inglise ärikeel I
+	[[BCU0482]] Inglise ärikeel II
+	[[BCU0471]] Inglise keel I
+	[[BCU0472]] Inglise keel II
+	[[BCU1930]] Inimressursi juhtimine
+	[[BCU1940]] Innovatsioon ja tootearendus
+	[[BCU1440]] Intellektuaalomandi kaitse
+	[[BCU0460]] Juhtimine
+	[[BCU3600]] Juhtimisarvestus
+	[[BCU3590]] Keskkonnakaitse ja säästev areng
+	[[BCU1480]] Kindlustusõigus
+	[[BCU3250]] Konfliktoloogia
+	[[BCU1500]] Konkurentsiõigus
+	[[BCU3170]] Kursusetöö
+	[[BCU3580]] Lepinguõigus
+	[[BCU3970]] Majandushaldusõigus
+	[[BCU3620]] Makroökonoomika
+	[[BCU3960]] Maksejõuetuse õigus
+	[[BCU1530]] Maksuõigus
+	[[BCU3610]] Mikroökonoomika
+	[[BCU2010]] Müügijuhtimine
+	[[BCU3980]] Notari ja täitemenetluse õigus
+	[[BCU3480]] Õiguse alused
+	[[BCU1890]] Operatsioonijuhtimine
+	[[BCU3350]] Organisatsioonikäitumine
+	[[BCU3950]] Panganduse ja finantsturgude õigus
+	[[BCU3380]] Politoloogia
+	[[BCU3360]] Projektijuhtimine
+	[[BCU1810]] Protokoll ja etikett
+	[[BCU3410]] Raha ja pangandus
+	[[BCU0680]] Rahvusvaheline finantsjuhtimine
+	[[BCU3060]] Rahvusvaheline kaubandusõigus
+	[[BCU0550]] Rahvusvaheline majandus
+	[[BCU3500]] Rahvusvaheline majandusõigus
+	[[BCU0611]] Rahvusvaheline turundus
+	[[BCU3690]] Rahvusvahelise äritegevuse erialapraktika
+	[[BCU3421]] Rahvusvahelised investeeringud
+	[[BCU3810]] Sissejuhatav praktika
+	[[BCU3330]] Sotsioloogia
+	[[BCU0431]] Statistika
+	[[BCU0432]] Statistika - ainetöö
+	[[BCU0560]] Strateegiline juhtimine
+	[[BCU3160]] Tarbijakaitse
+	[[BCU2000]] Tarbijakäitumine
+	[[BCU4010]] Tarneahela juhtimine
+	[[BCU3290]] Teenuste turundus ja kliendi kogemus
+	[[BCU1630]] Tööõigus
+	[[BCU3750]] Tsiviilkohtumenetlus
+	[[BCU3400]] Turundus
+	[[BCU1920]] Turundus jaekaubanduses
+	[[BCU3240]] Uurimistöö alused
+	[[BCU4160]] Vene keel
+	
+	
+keep-ts: 1408891299

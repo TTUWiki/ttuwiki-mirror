@@ -1,0 +1,46 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YAGM02/09 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50076&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YTM0032]] Arengubioloogia II<br />[[YTG0080]] Bakterigeneetika<br />[[YTP0020]] Bioinformaatika vahendid proteoomikas<br />[[YTM0070]] Bioloogia ajalugu<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[YTP0081]] Evolutsiooniline bioloogia<br />[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid<br />[[YTD0014]] Geenitehnoloogia II<br />[[YTD0035]] Immunoloogia II<br />[[HLI8750]] Inglise teaduskeel<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YTX0050]] Laboratoorne eripraktika<br />[[YTX0020]] Laboriseminarides osalemine<br />[[YKL0070]] Looduslike ühendite keemia<br />[[YTX0040]] Magistripraktika<br />[[YTM5012]] Molekulaarbioloogia II<br />[[DMK0070]] Molekulaarmeditsiin<br />[[YTD0062]] Molekulaarne viroloogia<br />[[YTM0043]] Neurobioloogia II<br />[[YTP0051]] Nukleiinhapete keemia<br />[[DMO0042]] Onkobioloogia<br />[[YTM8022]] Rakubioloogia II<br />[[YTG0091]] Seente molekulaarbioloogia<br />[[YTG0100]] Selgrootute molekulaarbioloogia<br />[[YTX0011]] Seminarid või ettekanded geenitehnoloogiast I<br />[[YTX0012]] Seminarid või ettekanded geenitehnoloogiast II<br />[[HHF5201]] Sissejuhatus teadusfilosoofiasse<br />[[YTG0121]] Taimede biotehnoloogia<br />[[YTG0110]] Taimede molekulaarbioloogia<br />[[DMK0090]] Üldpatoloogia<br />[[YTP0062]] Valkude keemia ja struktuur</p>
+diff-minor: 
+ts: 1408891707
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YAGM02/09 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50076&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YTM0032]] Arengubioloogia II
+	[[YTG0080]] Bakterigeneetika
+	[[YTP0020]] Bioinformaatika vahendid proteoomikas
+	[[YTM0070]] Bioloogia ajalugu
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[YTP0081]] Evolutsiooniline bioloogia
+	[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid
+	[[YTD0014]] Geenitehnoloogia II
+	[[YTD0035]] Immunoloogia II
+	[[HLI8750]] Inglise teaduskeel
+	[[YKA3411]] Instrumentaalanalüüs
+	[[YTX0050]] Laboratoorne eripraktika
+	[[YTX0020]] Laboriseminarides osalemine
+	[[YKL0070]] Looduslike ühendite keemia
+	[[YTX0040]] Magistripraktika
+	[[YTM5012]] Molekulaarbioloogia II
+	[[DMK0070]] Molekulaarmeditsiin
+	[[YTD0062]] Molekulaarne viroloogia
+	[[YTM0043]] Neurobioloogia II
+	[[YTP0051]] Nukleiinhapete keemia
+	[[DMO0042]] Onkobioloogia
+	[[YTM8022]] Rakubioloogia II
+	[[YTG0091]] Seente molekulaarbioloogia
+	[[YTG0100]] Selgrootute molekulaarbioloogia
+	[[YTX0011]] Seminarid või ettekanded geenitehnoloogiast I
+	[[YTX0012]] Seminarid või ettekanded geenitehnoloogiast II
+	[[HHF5201]] Sissejuhatus teadusfilosoofiasse
+	[[YTG0121]] Taimede biotehnoloogia
+	[[YTG0110]] Taimede molekulaarbioloogia
+	[[DMK0090]] Üldpatoloogia
+	[[YTP0062]] Valkude keemia ja struktuur
+	
+	
+keep-ts: 1408891707

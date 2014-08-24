@@ -1,0 +1,54 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>AAGM02/02 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=1236&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[AKM0091]] Allmaakaevandamine<br />[[AKM0092]] Allmaakaevandamine - projekt<br />[[AKM0181]] Avakaevandamine<br />[[AKM0182]] Avakaevandamine - projekt<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[AKG0100]] Geokeemia<br />[[AKG0080]] Geoloogia uurimismeetodid<br />[[AKG0140]] Geoloogia välipraktika<br />[[AKG0210]] Geomehaanika<br />[[AKG0190]] Geotektoonika<br />[[AKG0091]] Hüdrogeoloogia<br />[[AKG0092]] Hüdrogeoloogia - projekt<br />[[EKE3050]] Hüdroloogia ja vesiehitised<br />[[AKG0120]] Jäätmekäitluse geoloogiaaspektid<br />[[AKM0210]] Jäätmekäitluse mäenduslikud aspektid<br />[[EKV0041]] Jäätmekäitlus I<br />[[AKM0190]] Kaevandamiskeskkond ja ohutus<br />[[ETG3731]] Kaevandusgeodeesia<br />[[ETG3732]] Kaevandusgeodeesia - ainetöö<br />[[ETG3733]] Kaevandusgeodeesia - õppepraktika<br />[[EKE3710]] Keskkonnakaitse<br />[[AKG0180]] Kvaternaarigeoloogia<br />[[AKG0160]] Maardlate uuring<br />[[AKG0170]] Maastikugeokeemia<br />[[AKM0061]] Mäeettevõtte projekteerimine<br />[[AKM0062]] Mäeettevõtte projekteerimine - projekt<br />[[AKM0200]] Mäekonstruktsioonid<br />[[AKM0070]] Mäemajandus<br />[[AKM0041]] Mäendusanalüüs<br />[[AKM0042]] Mäendusanalüüs - ainetöö<br />[[AKM0050]] Mäeõiguse alused<br />[[AKM0080]] Mäetööstuse juhtimine<br />[[TTO3160]] Õigusõpetus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[AKG0130]] Rakendusgeoloogia - projekt<br />[[AKG0110]] Struktuurigeoloogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika<br />[[AKM0032]] Tootmispraktika II</p>
+diff-minor: 
+ts: 1408891280
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == AAGM02/02 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=1236&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[AKM0091]] Allmaakaevandamine
+	[[AKM0092]] Allmaakaevandamine - projekt
+	[[AKM0181]] Avakaevandamine
+	[[AKM0182]] Avakaevandamine - projekt
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[AKG0100]] Geokeemia
+	[[AKG0080]] Geoloogia uurimismeetodid
+	[[AKG0140]] Geoloogia välipraktika
+	[[AKG0210]] Geomehaanika
+	[[AKG0190]] Geotektoonika
+	[[AKG0091]] Hüdrogeoloogia
+	[[AKG0092]] Hüdrogeoloogia - projekt
+	[[EKE3050]] Hüdroloogia ja vesiehitised
+	[[AKG0120]] Jäätmekäitluse geoloogiaaspektid
+	[[AKM0210]] Jäätmekäitluse mäenduslikud aspektid
+	[[EKV0041]] Jäätmekäitlus I
+	[[AKM0190]] Kaevandamiskeskkond ja ohutus
+	[[ETG3731]] Kaevandusgeodeesia
+	[[ETG3732]] Kaevandusgeodeesia - ainetöö
+	[[ETG3733]] Kaevandusgeodeesia - õppepraktika
+	[[EKE3710]] Keskkonnakaitse
+	[[AKG0180]] Kvaternaarigeoloogia
+	[[AKG0160]] Maardlate uuring
+	[[AKG0170]] Maastikugeokeemia
+	[[AKM0061]] Mäeettevõtte projekteerimine
+	[[AKM0062]] Mäeettevõtte projekteerimine - projekt
+	[[AKM0200]] Mäekonstruktsioonid
+	[[AKM0070]] Mäemajandus
+	[[AKM0041]] Mäendusanalüüs
+	[[AKM0042]] Mäendusanalüüs - ainetöö
+	[[AKM0050]] Mäeõiguse alused
+	[[AKM0080]] Mäetööstuse juhtimine
+	[[TTO3160]] Õigusõpetus
+	[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia
+	[[AKG0130]] Rakendusgeoloogia - projekt
+	[[AKG0110]] Struktuurigeoloogia
+	[[HLX8040]] Teadusvõõrkeel
+	[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika
+	[[AKM0032]] Tootmispraktika II
+	
+	
+keep-ts: 1408891280

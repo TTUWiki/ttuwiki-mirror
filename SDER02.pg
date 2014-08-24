@@ -1,145 +1,26 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=50091&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[IRT0030]] Andmeside<br />[[IAF0041]] Arvutid<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK1091]] Diplomipraktika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[SKK0121]] Elektroonika alused<br />[[SKK0122]] Elektroonika alused - projekt<br />[[SKK0090]] Elektroonika komponendid<br />[[AME3130]] Elektrotehnika<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0240]] Filosoofia<br />[[SKK0023]] Füüsika I<br />[[SKK0024]] Füüsika II<br />[[SKK0011]] Informaatika I<br />[[SKK0012]] Informaatika II<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[IEM0100]] Juhtimine ja side elektronsüsteemides<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0033]] Matemaatiline analüüs II<br />[[IED0130]] Mikroelektroonika<br />[[SKK0100]] Mõõtetehnika alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0170]] Õppepraktika<br />[[SKK0380]] Projektijuhtimine<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[SKK0015]] Sissejuhatus arvutivõrkudesse<br />[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll<br />[[SKK1050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK1140]] Tööõigus<br />[[SKK0160]] Toote ja tehnoloogia arendus<br />[[SKK0180]] Tootmispraktika<br /></p><h3>SDER02/08 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=5382&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[IRT0030]] Andmeside<br />[[IAF0041]] Arvutid<br />[[SKK1010]] Arvutigraafika algkursus<br />[[ISP0040]] Arvutivõrgud<br />[[SKK1090]] Diplomipraktika ettevõttes<br />[[SKK0121]] Elektroonika alused<br />[[SKK0122]] Elektroonika alused - projekt<br />[[SKK0090]] Elektroonika komponendid<br />[[AME3130]] Elektrotehnika<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0310]] Ettevõtlus<br />[[SKK0240]] Filosoofia<br />[[SKK0021]] Füüsika I<br />[[SKK0022]] Füüsika II<br />[[SKK0011]] Informaatika I<br />[[SKK0012]] Informaatika II<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[IEM0100]] Juhtimine ja side elektronsüsteemides<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0032]] Matemaatiline analüüs II<br />[[IED0130]] Mikroelektroonika<br />[[SKK0100]] Mõõtetehnika alused<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0170]] Õppepraktika<br />[[SKK0380]] Projektijuhtimine<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0160]] Toote ja tehnoloogia arendus<br />[[SKK0180]] Tootmispraktika<br /></p><h3>SDER02/02 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=1163&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[IRT0030]] Andmeside<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[SKK0190]] Diplomipraktika<br />[[SKK0121]] Elektroonika alused<br />[[SKK0122]] Elektroonika alused - projekt<br />[[SKK0090]] Elektroonika komponendid<br />[[AME3130]] Elektrotehnika<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0310]] Ettevõtlus<br />[[SKK0240]] Filosoofia<br />[[SKK0021]] Füüsika I<br />[[SKK0022]] Füüsika II<br />[[SKK0011]] Informaatika I<br />[[SKK0012]] Informaatika II<br />[[SKK0400]] Inglise erialakeel<br />[[SKK3031]] Inglise keel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[IEM0100]] Juhtimine ja side elektronsüsteemides<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0032]] Matemaatiline analüüs II<br />[[IED0130]] Mikroelektroonika<br />[[SKK0100]] Mõõtetehnika alused<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0170]] Õppepraktika<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK3040]] Saksa keel<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[SKK3050]] Soome keel<br />[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0160]] Toote ja tehnoloogia arendus<br />[[SKK0180]] Tootmispraktika<br />[[SKK0350]] Turunduse alused<br />[[SKK0270]] Väljendus- ja esinemisoskus<br />[[SKK3060]] Vene keel võõrkeelena<br /></p>
+flags: 0101010
+blocks: &lt;include "SDER02-09"&gt;
+	&lt;include "SDER02-08"&gt;
+	&lt;include "SDER02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=50091&amp;p_net=intranet&amp;p_lang=ET</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IRT0030]] Andmeside\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[SKK1010]] Arvutigraafika algkursus\\<br />&lt; [[SKK1091]] Diplomipraktika\\<br />&lt; [[SKK1100]] Eesti keele väljendusõpetus\\<br />&lt; [[SKK0121]] Elektroonika alused\\<br />&lt; [[SKK0122]] Elektroonika alused - projekt\\<br />&lt; [[SKK0090]] Elektroonika komponendid\\<br />&lt; [[AME3130]] Elektrotehnika\\<br />&lt; [[SKK0140]] Ettevõtete infosüsteemid\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0023]] Füüsika I\\<br />&lt; [[SKK0024]] Füüsika II\\<br />&lt; [[SKK0011]] Informaatika I\\<br />&lt; [[SKK0012]] Informaatika II\\<br />&lt; [[SKK0490]] Inglise erialakeel\\<br />&lt; [[SKK0070]] Jõuelektroonika ja elektriajamid\\<br />&lt; [[IEM0100]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0040]] Lineaaralgebra\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0080]] Masinatehnika alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK0033]] Matemaatiline analüüs II\\<br />&lt; [[IED0130]] Mikroelektroonika\\<br />&lt; [[SKK0100]] Mõõtetehnika alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0170]] Õppepraktika\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[IEM0050]] Sensorsignaalitöötlus\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[SKK0015]] Sissejuhatus arvutivõrkudesse\\<br />&lt; [[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\<br />&lt; [[SKK1050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK1140]] Tööõigus\\<br />&lt; [[SKK0160]] Toote ja tehnoloogia arendus\\<br />&lt; [[SKK0180]] Tootmispraktika\\<br />&lt; ===</strong> SDER02<strong class="changes">/08</strong> - <strong class="changes">Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=5382&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IRT0030]] Andmeside\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[SKK1010]] Arvutigraafika algkursus\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[SKK1090]] Diplomipraktika ettevõttes\\<br />&lt; [[SKK0121]] Elektroonika alused\\<br />&lt; [[SKK0122]] Elektroonika alused - projekt\\<br />&lt; [[SKK0090]] Elektroonika komponendid\\<br />&lt; [[AME3130]] Elektrotehnika\\<br />&lt; [[SKK0140]] Ettevõtete infosüsteemid\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0021]] Füüsika I\\<br />&lt; [[SKK0022]] Füüsika II\\<br />&lt; [[SKK0011]] Informaatika I\\<br />&lt; [[SKK0012]] Informaatika II\\<br />&lt; [[SKK0490]] Inglise erialakeel\\<br />&lt; [[SKK0070]] Jõuelektroonika ja elektriajamid\\<br />&lt; [[IEM0100]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0040]] Lineaaralgebra\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0080]] Masinatehnika alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK0032]] Matemaatiline analüüs II\\<br />&lt; [[IED0130]] Mikroelektroonika\\<br />&lt; [[SKK0100]] Mõõtetehnika alused\\<br />&lt; [[SKK0950]] Õiguse alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0170]] Õppepraktika\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[IEM0050]] Sensorsignaalitöötlus\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0160]] Toote ja tehnoloogia arendus\\<br />&lt; [[SKK0180]] Tootmispraktika\\<br />&lt; ===</strong> SDER02<strong class="changes">/02</strong> - <strong class="changes">Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=1163&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IRT0030]] Andmeside\\<br />&lt; [[IRM0030]] Antennid ja RF elektroonika\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[SKK0190]] Diplomipraktika\\<br />&lt; [[SKK0121]] Elektroonika alused\\<br />&lt; [[SKK0122]] Elektroonika alused - projekt\\<br />&lt; [[SKK0090]] Elektroonika komponendid\\<br />&lt; [[AME3130]] Elektrotehnika\\<br />&lt; [[SKK0140]] Ettevõtete infosüsteemid\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0021]] Füüsika I\\<br />&lt; [[SKK0022]] Füüsika II\\<br />&lt; [[SKK0011]] Informaatika I\\<br />&lt; [[SKK0012]] Informaatika II\\<br />&lt; [[SKK0400]] Inglise erialakeel\\<br />&lt; [[SKK3031]] Inglise keel\\<br />&lt; [[SKK0070]] Jõuelektroonika ja elektriajamid\\<br />&lt; [[IEM0100]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0040]] Lineaaralgebra\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0080]] Masinatehnika alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK0032]] Matemaatiline analüüs II\\<br />&lt; [[IED0130]] Mikroelektroonika\\<br />&lt; [[SKK0100]] Mõõtetehnika alused\\<br />&lt; [[SKK0950]] Õiguse alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0170]] Õppepraktika\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[SKK0940]] Raamatupidamise alused\\<br />&lt; [[SKK3040]] Saksa keel\\<br />&lt; [[IEM0050]] Sensorsignaalitöötlus\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[SKK3050]] Soome keel\\<br />&lt; [[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0160]] Toote ja tehnoloogia arendus\\<br />&lt; [[SKK0180]] Tootmispraktika\\<br />&lt; [[SKK0350]] Turunduse alused\\<br />&lt; [[SKK0270]] Väljendus</strong>- <strong class="changes">ja esinemisoskus\\<br />&lt; [[SKK3060]] Vene keel võõrkeelena\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>SDER02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>SDER02-<strong class="changes">08"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "SDER02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203848
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885832
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=50091&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[IRT0030]] Andmeside\\
-	[[IAF0041]] Arvutid\\
-	[[SKK1010]] Arvutigraafika algkursus\\
-	[[SKK1091]] Diplomipraktika\\
-	[[SKK1100]] Eesti keele väljendusõpetus\\
-	[[SKK0121]] Elektroonika alused\\
-	[[SKK0122]] Elektroonika alused - projekt\\
-	[[SKK0090]] Elektroonika komponendid\\
-	[[AME3130]] Elektrotehnika\\
-	[[SKK0140]] Ettevõtete infosüsteemid\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0023]] Füüsika I\\
-	[[SKK0024]] Füüsika II\\
-	[[SKK0011]] Informaatika I\\
-	[[SKK0012]] Informaatika II\\
-	[[SKK0490]] Inglise erialakeel\\
-	[[SKK0070]] Jõuelektroonika ja elektriajamid\\
-	[[IEM0100]] Juhtimine ja side elektronsüsteemides\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0040]] Lineaaralgebra\\
-	[[SKK0320]] Logistika\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0080]] Masinatehnika alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK0033]] Matemaatiline analüüs II\\
-	[[IED0130]] Mikroelektroonika\\
-	[[SKK0100]] Mõõtetehnika alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0170]] Õppepraktika\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[IEM0050]] Sensorsignaalitöötlus\\
-	[[IRT3930]] Side\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[SKK0015]] Sissejuhatus arvutivõrkudesse\\
-	[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\
-	[[SKK1050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK1140]] Tööõigus\\
-	[[SKK0160]] Toote ja tehnoloogia arendus\\
-	[[SKK0180]] Tootmispraktika\\
-	=== SDER02/08 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=5382&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[IRT0030]] Andmeside\\
-	[[IAF0041]] Arvutid\\
-	[[SKK1010]] Arvutigraafika algkursus\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[SKK1090]] Diplomipraktika ettevõttes\\
-	[[SKK0121]] Elektroonika alused\\
-	[[SKK0122]] Elektroonika alused - projekt\\
-	[[SKK0090]] Elektroonika komponendid\\
-	[[AME3130]] Elektrotehnika\\
-	[[SKK0140]] Ettevõtete infosüsteemid\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0021]] Füüsika I\\
-	[[SKK0022]] Füüsika II\\
-	[[SKK0011]] Informaatika I\\
-	[[SKK0012]] Informaatika II\\
-	[[SKK0490]] Inglise erialakeel\\
-	[[SKK0070]] Jõuelektroonika ja elektriajamid\\
-	[[IEM0100]] Juhtimine ja side elektronsüsteemides\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0040]] Lineaaralgebra\\
-	[[SKK0320]] Logistika\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0080]] Masinatehnika alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK0032]] Matemaatiline analüüs II\\
-	[[IED0130]] Mikroelektroonika\\
-	[[SKK0100]] Mõõtetehnika alused\\
-	[[SKK0950]] Õiguse alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0170]] Õppepraktika\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[IEM0050]] Sensorsignaalitöötlus\\
-	[[IRT3930]] Side\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0160]] Toote ja tehnoloogia arendus\\
-	[[SKK0180]] Tootmispraktika\\
-	=== SDER02/02 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=1163&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[IRT0030]] Andmeside\\
-	[[IRM0030]] Antennid ja RF elektroonika\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[SKK0190]] Diplomipraktika\\
-	[[SKK0121]] Elektroonika alused\\
-	[[SKK0122]] Elektroonika alused - projekt\\
-	[[SKK0090]] Elektroonika komponendid\\
-	[[AME3130]] Elektrotehnika\\
-	[[SKK0140]] Ettevõtete infosüsteemid\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0021]] Füüsika I\\
-	[[SKK0022]] Füüsika II\\
-	[[SKK0011]] Informaatika I\\
-	[[SKK0012]] Informaatika II\\
-	[[SKK0400]] Inglise erialakeel\\
-	[[SKK3031]] Inglise keel\\
-	[[SKK0070]] Jõuelektroonika ja elektriajamid\\
-	[[IEM0100]] Juhtimine ja side elektronsüsteemides\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0130]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0040]] Lineaaralgebra\\
-	[[SKK0320]] Logistika\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0080]] Masinatehnika alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK0032]] Matemaatiline analüüs II\\
-	[[IED0130]] Mikroelektroonika\\
-	[[SKK0100]] Mõõtetehnika alused\\
-	[[SKK0950]] Õiguse alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0170]] Õppepraktika\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[SKK0940]] Raamatupidamise alused\\
-	[[SKK3040]] Saksa keel\\
-	[[IEM0050]] Sensorsignaalitöötlus\\
-	[[IRT3930]] Side\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[SKK3050]] Soome keel\\
-	[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0160]] Toote ja tehnoloogia arendus\\
-	[[SKK0180]] Tootmispraktika\\
-	[[SKK0350]] Turunduse alused\\
-	[[SKK0270]] Väljendus- ja esinemisoskus\\
-	[[SKK3060]] Vene keel võõrkeelena\\
+text: <include "SDER02-09">
+	
+	<include "SDER02-08">
+	
+	<include "SDER02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885832

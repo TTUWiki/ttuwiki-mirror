@@ -1,0 +1,29 @@
+flags: 0101010101010101010101010101010
+blocks: <h2>HAAD06/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50033&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHI9020]] Avalik haldus ja innovatsioon<br />[[HHM9020]] Avaliku halduse erikursus<br />[[HHX9070]] Doktoriseminar<br />[[HHM9030]] Halduspoliitika erikursus<br />[[HHI9010]] Innovatsioon<br />[[HHI9030]] Innovatsioonisüsteemid<br />[[HHX9080]] Juhendamispraktika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHX9090]] Õpetamispraktika<br />[[HHA9900]] Praktika<br />[[HHL9100]] Sotsiaalteaduste meetodid<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus</p>
+diff-minor: 
+ts: 1408891367
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAAD06/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50033&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HHI9020]] Avalik haldus ja innovatsioon
+	[[HHM9020]] Avaliku halduse erikursus
+	[[HHX9070]] Doktoriseminar
+	[[HHM9030]] Halduspoliitika erikursus
+	[[HHI9010]] Innovatsioon
+	[[HHI9030]] Innovatsioonisüsteemid
+	[[HHX9080]] Juhendamispraktika
+	[[HHP9010]] Juhtimispsühholoogia
+	[[HHP9030]] Kõrgkoolididaktika
+	[[HHX9090]] Õpetamispraktika
+	[[HHA9900]] Praktika
+	[[HHL9100]] Sotsiaalteaduste meetodid
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	
+	
+keep-ts: 1408891367

@@ -1,69 +1,26 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>EABM03/09 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50103&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[EKE8120]] Ametipraktika<br />[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[EKE8200]] Elutsükli analüüs<br />[[HHA1460]] Haldusjuhtimine ja avalik haldus<br />[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs<br />[[EKE8260]] Keskkonnajuhtimissüsteemid<br />[[KAK0050]] Keskkonnakeemia<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EKE8250]] Keskkonnapoliitika<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed<br />[[EKK0170]] Õhusaaste vältimine ja juhtimine<br />[[EKE8230]] Ökodisain<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[HHA1450]] Riik ja valitsemine<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[EKV8360]] Säästlik veemajandus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus<br />[[EKV0110]] Veekogude veekvaliteet ja veesääst<br /></p><h3>EABM03/05 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4146&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[EKE8200]] Elutsükli analüüs<br />[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs<br />[[EKE8260]] Keskkonnajuhtimissüsteemid<br />[[KAK0050]] Keskkonnakeemia<br />[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EKE8250]] Keskkonnapoliitika<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed<br />[[EKK0170]] Õhusaaste vältimine ja juhtimine<br />[[EKE8230]] Ökodisain<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[EKV8360]] Säästlik veemajandus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus<br /></p><h3>EABM03/03 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=1730&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[EKE8200]] Elutsükli analüüs<br />[[EKE8170]] Keskkonnaekspertiis ja -audit<br />[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs<br />[[EKE0021]] Keskkonnakorraldus<br />[[HHR1070]] Keskkonnapoliitika, -õigus ja -majandus<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed<br />[[EKE8230]] Ökodisain<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[EKV8360]] Säästlik veemajandus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus<br />[[MES8610]] Tootmise juhtimise infosüsteemid<br /></p>
+flags: 0101010
+blocks: &lt;include "EABM03-09"&gt;
+	&lt;include "EABM03-05"&gt;
+	&lt;include "EABM03-03"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== EABM03/09 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50103&amp;p_net=intranet&amp;p_lang=ET</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[EKE8120]] Ametipraktika\\<br />&lt; [[TMK8300]] Ärieetika\\<br />&lt; [[TMK8290]] Äritegevuse alused\\<br />&lt; [[EKE8200]] Elutsükli analüüs\\<br />&lt; [[HHA1460]] Haldusjuhtimine ja avalik haldus\\<br />&lt; [[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\<br />&lt; [[EKE8260]] Keskkonnajuhtimissüsteemid\\<br />&lt; [[KAK0050]] Keskkonnakeemia\\<br />&lt; [[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit\\<br />&lt; [[EKE8250]] Keskkonnapoliitika\\<br />&lt; [[KAK8210]] Keskkonnatehnoloogia\\<br />&lt; [[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed\\<br />&lt; [[EKK0170]] Õhusaaste vältimine ja juhtimine\\<br />&lt; [[EKE8230]] Ökodisain\\<br />&lt; [[TMK8280]] Rahvusvaheline ettevõtlus\\<br />&lt; [[HHA1450]] Riik ja valitsemine\\<br />&lt; [[KAK8220]] Säästlik/puhtam tootmine\\<br />&lt; [[EKV8360]] Säästlik veemajandus\\<br />&lt; [[TES8140]] Statistiline analüüs\\<br />&lt; [[TMM8790]] Tööstuslik turundus\\<br />&lt; [[EKV0110]] Veekogude veekvaliteet ja veesääst\\<br />&lt; ===</strong> EABM03<strong class="changes">/05</strong> - <strong class="changes">Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4146&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[TMK8300]] Ärieetika\\<br />&lt; [[TMK8290]] Äritegevuse alused\\<br />&lt; [[EKE8200]] Elutsükli analüüs\\<br />&lt; [[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\<br />&lt; [[EKE8260]] Keskkonnajuhtimissüsteemid\\<br />&lt; [[KAK0050]] Keskkonnakeemia\\<br />&lt; [[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit\\<br />&lt; [[EKE8250]] Keskkonnapoliitika\\<br />&lt; [[KAK8210]] Keskkonnatehnoloogia\\<br />&lt; [[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed\\<br />&lt; [[EKK0170]] Õhusaaste vältimine ja juhtimine\\<br />&lt; [[EKE8230]] Ökodisain\\<br />&lt; [[TMK8280]] Rahvusvaheline ettevõtlus\\<br />&lt; [[KAK8220]] Säästlik/puhtam tootmine\\<br />&lt; [[EKV8360]] Säästlik veemajandus\\<br />&lt; [[TES8140]] Statistiline analüüs\\<br />&lt; [[TMM8790]] Tööstuslik turundus\\<br />&lt; ===</strong> EABM03<strong class="changes">/03</strong> - <strong class="changes">Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=1730&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[TMK8300]] Ärieetika\\<br />&lt; [[TMK8290]] Äritegevuse alused\\<br />&lt; [[EKE8200]] Elutsükli analüüs\\<br />&lt; [[EKE8170]] Keskkonnaekspertiis ja -audit\\<br />&lt; [[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\<br />&lt; [[EKE0021]] Keskkonnakorraldus\\<br />&lt; [[HHR1070]] Keskkonnapoliitika, -õigus ja -majandus\\<br />&lt; [[KAK8210]] Keskkonnatehnoloogia\\<br />&lt; [[EKV8320]] Muda</strong>- <strong class="changes">ja prügikäitluse teooria ning seadmed\\<br />&lt; [[EKE8230]] Ökodisain\\<br />&lt; [[TMK8280]] Rahvusvaheline ettevõtlus\\<br />&lt; [[KAK8220]] Säästlik/puhtam tootmine\\<br />&lt; [[EKV8360]] Säästlik veemajandus\\<br />&lt; [[TES8140]] Statistiline analüüs\\<br />&lt; [[TMM8790]] Tööstuslik turundus\\<br />&lt; [[MES8610]] Tootmise juhtimise infosüsteemid\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>EABM03-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>EABM03-<strong class="changes">05"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "EABM03</strong>-<strong class="changes">03"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203590
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885583
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === EABM03/09 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50103&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[EKE8120]] Ametipraktika\\
-	[[TMK8300]] Ärieetika\\
-	[[TMK8290]] Äritegevuse alused\\
-	[[EKE8200]] Elutsükli analüüs\\
-	[[HHA1460]] Haldusjuhtimine ja avalik haldus\\
-	[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\
-	[[EKE8260]] Keskkonnajuhtimissüsteemid\\
-	[[KAK0050]] Keskkonnakeemia\\
-	[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit\\
-	[[EKE8250]] Keskkonnapoliitika\\
-	[[KAK8210]] Keskkonnatehnoloogia\\
-	[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed\\
-	[[EKK0170]] Õhusaaste vältimine ja juhtimine\\
-	[[EKE8230]] Ökodisain\\
-	[[TMK8280]] Rahvusvaheline ettevõtlus\\
-	[[HHA1450]] Riik ja valitsemine\\
-	[[KAK8220]] Säästlik/puhtam tootmine\\
-	[[EKV8360]] Säästlik veemajandus\\
-	[[TES8140]] Statistiline analüüs\\
-	[[TMM8790]] Tööstuslik turundus\\
-	[[EKV0110]] Veekogude veekvaliteet ja veesääst\\
-	=== EABM03/05 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=4146&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[TMK8300]] Ärieetika\\
-	[[TMK8290]] Äritegevuse alused\\
-	[[EKE8200]] Elutsükli analüüs\\
-	[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\
-	[[EKE8260]] Keskkonnajuhtimissüsteemid\\
-	[[KAK0050]] Keskkonnakeemia\\
-	[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit\\
-	[[EKE8250]] Keskkonnapoliitika\\
-	[[KAK8210]] Keskkonnatehnoloogia\\
-	[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed\\
-	[[EKK0170]] Õhusaaste vältimine ja juhtimine\\
-	[[EKE8230]] Ökodisain\\
-	[[TMK8280]] Rahvusvaheline ettevõtlus\\
-	[[KAK8220]] Säästlik/puhtam tootmine\\
-	[[EKV8360]] Säästlik veemajandus\\
-	[[TES8140]] Statistiline analüüs\\
-	[[TMM8790]] Tööstuslik turundus\\
-	=== EABM03/03 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=1730&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[TMK8300]] Ärieetika\\
-	[[TMK8290]] Äritegevuse alused\\
-	[[EKE8200]] Elutsükli analüüs\\
-	[[EKE8170]] Keskkonnaekspertiis ja -audit\\
-	[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs\\
-	[[EKE0021]] Keskkonnakorraldus\\
-	[[HHR1070]] Keskkonnapoliitika, -õigus ja -majandus\\
-	[[KAK8210]] Keskkonnatehnoloogia\\
-	[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed\\
-	[[EKE8230]] Ökodisain\\
-	[[TMK8280]] Rahvusvaheline ettevõtlus\\
-	[[KAK8220]] Säästlik/puhtam tootmine\\
-	[[EKV8360]] Säästlik veemajandus\\
-	[[TES8140]] Statistiline analüüs\\
-	[[TMM8790]] Tööstuslik turundus\\
-	[[MES8610]] Tootmise juhtimise infosüsteemid\\
+text: <include "EABM03-09">
+	
+	<include "EABM03-05">
+	
+	<include "EABM03-03">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885583

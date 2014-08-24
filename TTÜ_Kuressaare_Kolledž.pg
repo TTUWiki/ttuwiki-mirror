@@ -1,25 +1,28 @@
-flags: 01010101010
-blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika<br /><br />[[SDER02]] Elektroonsed süsteemid<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus<br />[[SDSR10]] Väikelaevaehitus<br /><br /></p>
+flags: 0101010101010
+blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[SDER02]] Elektroonsed süsteemid<br />[[SDSR10]] Meretehnika ja väikelaevaehitus<br />[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus</p>
 diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[MATB02]] Tootearendus ja tootmistehnika</p></div>
+ip: 89.235.235.166
+ts: 1408892848
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265097
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[MATB02]] Tootearendus ja tootmistehnika\\
-	\\
-	[[SDER02]] Elektroonsed süsteemid\\
-	[[SDTR02]] Turismi- ja toitlustuskorraldus\\
-	[[SDVR04]] Väikeettevõtlus\\
-	[[SDSR10]] Väikelaevaehitus\\
-	\\
+text: [[MATB02]] Tootearendus ja tootmistehnika
+	
+	[[SDER02]] Elektroonsed süsteemid
+	[[SDSR10]] Meretehnika ja väikelaevaehitus
+	[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus
+	[[SDTR02]] Turismi- ja toitlustuskorraldus
+	[[SDVR04]] Väikeettevõtlus
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265097
+keep-ts: 1408892848

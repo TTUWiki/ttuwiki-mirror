@@ -1,199 +1,29 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>SDVR04/09 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=50094&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[SKK0280]] Äriõigus<br />[[SKK0980]] Ärisuhtlus ja äriläbirääkimised<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK0220]] Arvutiõpetus<br />[[SKK0882]] Diplomieelne praktika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[SKK0960]] Eesti majandus<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0310]] Ettevõtlus<br />[[SKK0870]] Ettevõttepraktika<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK1150]] Finantsjuhtimine<br />[[SKK0510]] Hotellimajanduse alused<br />[[SKK0480]] Inglise ärikeel<br />[[SKK0530]] Innovatsioon ja tootearendus<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0680]] Kliendisuhted<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0320]] Logistika<br />[[SKK0710]] Maailma ja Eesti turismigeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0290]] Maksunduse alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK1030]] Materjaliteaduse üldalused<br />[[SKK0910]] Müügitöö<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0370]] Personalijuhtimine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0920]] Rahvusvaheline majandus<br />[[SKK1020]] Rahvusvaheline tööstus<br />[[SKK1160]] Sissejuhatus suhetekorraldusse<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0790]] Sündmuskorraldus<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0620]] Toiduvalmistamise tehnoloogia I<br />[[SKK0651]] Toiduvalmistamise tehnoloogia II<br />[[SKK0610]] Toitlustusettevõtete seadmed<br />[[SKK1140]] Tööõigus<br />[[SKK0701]] Turismimajanduse alused<br />[[SKK0970]] Turismipoliitika ja planeerimine<br />[[SKK0350]] Turunduse alused<br />[[SKK1080]] Turundusuuringud<br />[[SKK0850]] Tutvumispraktika<br />[[SKK0890]] Uurimistöö<br /></p><h3>SDVR04/08 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=5386&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[SKK0280]] Äriõigus<br />[[SKK0980]] Ärisuhtlus ja äriläbirääkimised<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK0220]] Arvutiõpetus<br />[[SKK0880]] Diplomieelne praktika<br />[[SKK0960]] Eesti majandus<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0310]] Ettevõtlus<br />[[SKK0870]] Ettevõttepraktika<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK0390]] Finantsjuhtimine<br />[[SKK0510]] Hotellimajanduse alused<br />[[SKK0480]] Inglise ärikeel<br />[[SKK0530]] Innovatsioon ja tootearendus<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0320]] Logistika<br />[[SKK0710]] Maailma ja Eesti turismigeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0290]] Maksunduse alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK1030]] Materjaliteaduse üldalused<br />[[SKK0910]] Müügitöö<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0370]] Personalijuhtimine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0920]] Rahvusvaheline majandus<br />[[SKK1020]] Rahvusvaheline tööstus<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0790]] Sündmuskorraldus<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0620]] Toiduvalmistamise tehnoloogia I<br />[[SKK0650]] Toiduvalmistamise tehnoloogia II<br />[[SKK0610]] Toitlustusettevõtete seadmed<br />[[SKK0700]] Turismimajanduse alused<br />[[SKK0970]] Turismipoliitika ja planeerimine<br />[[SKK0350]] Turunduse alused<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[SKK0930]] Turu-uuringud<br />[[SKK0860]] Tutvumispraktika<br />[[SKK0890]] Uurimistöö<br /></p><h3>SDVR04/06 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=4074&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[SKK0280]] Äriõigus<br />[[SKK0980]] Ärisuhtlus ja äriläbirääkimised<br />[[SKK0220]] Arvutiõpetus<br />[[SKK0880]] Diplomieelne praktika<br />[[SKK0960]] Eesti majandus<br />[[SKK3500]] Etikett ja protokoll<br />[[SKK0310]] Ettevõtlus<br />[[SKK0870]] Ettevõttepraktika<br />[[SKK0550]] Euroopa Liidu institutsioonid<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK0390]] Finantsjuhtimine<br />[[SKK0510]] Hotellimajanduse alused<br />[[SKK0450]] Inglise ärikeel<br />[[SKK0530]] Innovatsioon ja tootearendus<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0600]] Klienditeenindus<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0320]] Logistika<br />[[SKK0990]] Majandusgeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0290]] Maksunduse alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0910]] Müügitöö<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0370]] Personalijuhtimine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0920]] Rahvusvaheline majandus<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0790]] Sündmuskorraldus<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0700]] Turismimajanduse alused<br />[[SKK0970]] Turismipoliitika ja planeerimine<br />[[SKK0750]] Turismiturundus<br />[[SKK0350]] Turunduse alused<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[SKK0930]] Turu-uuringud<br />[[SKK0860]] Tutvumispraktika<br />[[SKK0900]] Ühistegevus<br />[[SKK0890]] Uurimistöö<br />[[SKK0270]] Väljendus- ja esinemisoskus<br />[[SKK0470]] Vene ärikeel<br /></p><h3>SDVR04/04 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=2145&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[SKK0280]] Äriõigus<br />[[SKK0980]] Ärisuhtlus ja äriläbirääkimised<br />[[SKK0880]] Diplomieelne praktika<br />[[SKK0960]] Eesti majandus<br />[[SKK3500]] Etikett ja protokoll<br />[[SKK0310]] Ettevõtlus<br />[[SKK0870]] Ettevõttepraktika<br />[[SKK3150]] Euroopa Liidu institutsioonid<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK0390]] Finantsjuhtimine<br />[[SKK0510]] Hotellimajanduse alused<br />[[SKK3111]] Informaatika I<br />[[SKK3112]] Informaatika II<br />[[SKK0450]] Inglise ärikeel<br />[[SKK3031]] Inglise keel<br />[[SKK0360]] Juhtimise alused<br />[[SKK3270]] Kaubatundmine<br />[[SKK0600]] Klienditeenindus<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0290]] Maksunduse alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0910]] Müügitöö<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0370]] Personalijuhtimine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0920]] Rahvusvaheline majandus<br />[[SKK0640]] Restoraniteenindus<br />[[SKK3040]] Saksa keel<br />[[SKK3050]] Soome keel<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0700]] Turismimajanduse alused<br />[[SKK3470]] Turismipoliitika<br />[[SKK0750]] Turismiturundus<br />[[SKK0350]] Turunduse alused<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[SKK3480]] Turundus toitlustuses ja majutuses<br />[[SKK0930]] Turu-uuringud<br />[[SKK0860]] Tutvumispraktika<br />[[SKK0900]] Ühistegevus<br />[[SKK0270]] Väljendus- ja esinemisoskus<br />[[SKK3060]] Vene keel võõrkeelena<br /></p>
+flags: 010101010
+blocks: &lt;include "SDVR04-09"&gt;
+	&lt;include "SDVR04-08"&gt;
+	&lt;include "SDVR04-06"&gt;
+	&lt;include "SDVR04-04"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== SDVR04/09 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50094&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[SKK0280]] Äriõigus\\<br />&lt; [[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\<br />&lt; [[SKK1010]] Arvutigraafika algkursus\\<br />&lt; [[SKK0220]] Arvutiõpetus\\<br />&lt; [[SKK0882]] Diplomieelne praktika\\<br />&lt; [[SKK1100]] Eesti keele väljendusõpetus\\<br />&lt; [[SKK0960]] Eesti majandus\\<br />&lt; [[SKK0140]] Ettevõtete infosüsteemid\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0870]] Ettevõttepraktika\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0340]] Finantsanalüüs\\<br />&lt; [[SKK1150]] Finantsjuhtimine\\<br />&lt; [[SKK0510]] Hotellimajanduse alused\\<br />&lt; [[SKK0480]] Inglise ärikeel\\<br />&lt; [[SKK0530]] Innovatsioon ja tootearendus\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0680]] Kliendisuhted\\<br />&lt; [[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0710]] Maailma ja Eesti turismigeograafia\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0290]] Maksunduse alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK1030]] Materjaliteaduse üldalused\\<br />&lt; [[SKK0910]] Müügitöö\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0370]] Personalijuhtimine\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[SKK0940]] Raamatupidamise alused\\<br />&lt; [[SKK0920]] Rahvusvaheline majandus\\<br />&lt; [[SKK1020]] Rahvusvaheline tööstus\\<br />&lt; [[SKK1160]] Sissejuhatus suhetekorraldusse\\<br />&lt; [[SKK0260]] Sotsiaalpsühholoogia\\<br />&lt; [[SKK0790]] Sündmuskorraldus\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0620]] Toiduvalmistamise tehnoloogia I\\<br />&lt; [[SKK0651]] Toiduvalmistamise tehnoloogia II\\<br />&lt; [[SKK0610]] Toitlustusettevõtete seadmed\\<br />&lt; [[SKK1140]] Tööõigus\\<br />&lt; [[SKK0701]] Turismimajanduse alused\\<br />&lt; [[SKK0970]] Turismipoliitika ja planeerimine\\<br />&lt; [[SKK0350]] Turunduse alused\\<br />&lt; [[SKK1080]] Turundusuuringud\\<br />&lt; [[SKK0850]] Tutvumispraktika\\<br />&lt; [[SKK0890]] Uurimistöö\\<br />&lt; ===</strong> SDVR04<strong class="changes">/08</strong> - <strong class="changes">Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=5386&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[SKK0280]] Äriõigus\\<br />&lt; [[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\<br />&lt; [[SKK1010]] Arvutigraafika algkursus\\<br />&lt; [[SKK0220]] Arvutiõpetus\\<br />&lt; [[SKK0880]] Diplomieelne praktika\\<br />&lt; [[SKK0960]] Eesti majandus\\<br />&lt; [[SKK0140]] Ettevõtete infosüsteemid\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0870]] Ettevõttepraktika\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0340]] Finantsanalüüs\\<br />&lt; [[SKK0390]] Finantsjuhtimine\\<br />&lt; [[SKK0510]] Hotellimajanduse alused\\<br />&lt; [[SKK0480]] Inglise ärikeel\\<br />&lt; [[SKK0530]] Innovatsioon ja tootearendus\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0710]] Maailma ja Eesti turismigeograafia\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0290]] Maksunduse alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK1030]] Materjaliteaduse üldalused\\<br />&lt; [[SKK0910]] Müügitöö\\<br />&lt; [[SKK0950]] Õiguse alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0370]] Personalijuhtimine\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[SKK0940]] Raamatupidamise alused\\<br />&lt; [[SKK0920]] Rahvusvaheline majandus\\<br />&lt; [[SKK1020]] Rahvusvaheline tööstus\\<br />&lt; [[SKK0260]] Sotsiaalpsühholoogia\\<br />&lt; [[SKK0790]] Sündmuskorraldus\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0620]] Toiduvalmistamise tehnoloogia I\\<br />&lt; [[SKK0650]] Toiduvalmistamise tehnoloogia II\\<br />&lt; [[SKK0610]] Toitlustusettevõtete seadmed\\<br />&lt; [[SKK0700]] Turismimajanduse alused\\<br />&lt; [[SKK0970]] Turismipoliitika ja planeerimine\\<br />&lt; [[SKK0350]] Turunduse alused\\<br />&lt; [[TMM0860]] Turunduskommunikatsioon I\\<br />&lt; [[SKK0930]] Turu-uuringud\\<br />&lt; [[SKK0860]] Tutvumispraktika\\<br />&lt; [[SKK0890]] Uurimistöö\\<br />&lt; ===</strong> SDVR04<strong class="changes">/06</strong> - <strong class="changes">Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=4074&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[SKK0280]] Äriõigus\\<br />&lt; [[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\<br />&lt; [[SKK0220]] Arvutiõpetus\\<br />&lt; [[SKK0880]] Diplomieelne praktika\\<br />&lt; [[SKK0960]] Eesti majandus\\<br />&lt; [[SKK3500]] Etikett ja protokoll\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0870]] Ettevõttepraktika\\<br />&lt; [[SKK0550]] Euroopa Liidu institutsioonid\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0340]] Finantsanalüüs\\<br />&lt; [[SKK0390]] Finantsjuhtimine\\<br />&lt; [[SKK0510]] Hotellimajanduse alused\\<br />&lt; [[SKK0450]] Inglise ärikeel\\<br />&lt; [[SKK0530]] Innovatsioon ja tootearendus\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK0230]] Keskkonnakaitse\\<br />&lt; [[SKK0600]] Klienditeenindus\\<br />&lt; [[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0990]] Majandusgeograafia\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0290]] Maksunduse alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK0910]] Müügitöö\\<br />&lt; [[SKK0950]] Õiguse alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0370]] Personalijuhtimine\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[SKK0940]] Raamatupidamise alused\\<br />&lt; [[SKK0920]] Rahvusvaheline majandus\\<br />&lt; [[SKK0260]] Sotsiaalpsühholoogia\\<br />&lt; [[SKK0790]] Sündmuskorraldus\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0700]] Turismimajanduse alused\\<br />&lt; [[SKK0970]] Turismipoliitika ja planeerimine\\<br />&lt; [[SKK0750]] Turismiturundus\\<br />&lt; [[SKK0350]] Turunduse alused\\<br />&lt; [[TMM0860]] Turunduskommunikatsioon I\\<br />&lt; [[SKK0930]] Turu-uuringud\\<br />&lt; [[SKK0860]] Tutvumispraktika\\<br />&lt; [[SKK0900]] Ühistegevus\\<br />&lt; [[SKK0890]] Uurimistöö\\<br />&lt; [[SKK0270]] Väljendus- ja esinemisoskus\\<br />&lt; [[SKK0470]] Vene ärikeel\\<br />&lt; ===</strong> SDVR04<strong class="changes">/04</strong> - <strong class="changes">Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=2145&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[SKK0280]] Äriõigus\\<br />&lt; [[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\<br />&lt; [[SKK0880]] Diplomieelne praktika\\<br />&lt; [[SKK0960]] Eesti majandus\\<br />&lt; [[SKK3500]] Etikett ja protokoll\\<br />&lt; [[SKK0310]] Ettevõtlus\\<br />&lt; [[SKK0870]] Ettevõttepraktika\\<br />&lt; [[SKK3150]] Euroopa Liidu institutsioonid\\<br />&lt; [[SKK0240]] Filosoofia\\<br />&lt; [[SKK0340]] Finantsanalüüs\\<br />&lt; [[SKK0390]] Finantsjuhtimine\\<br />&lt; [[SKK0510]] Hotellimajanduse alused\\<br />&lt; [[SKK3111]] Informaatika I\\<br />&lt; [[SKK3112]] Informaatika II\\<br />&lt; [[SKK0450]] Inglise ärikeel\\<br />&lt; [[SKK3031]] Inglise keel\\<br />&lt; [[SKK0360]] Juhtimise alused\\<br />&lt; [[SKK3270]] Kaubatundmine\\<br />&lt; [[SKK0600]] Klienditeenindus\\<br />&lt; [[SKK0320]] Logistika\\<br />&lt; [[SKK0300]] Majandusõpetus\\<br />&lt; [[SKK0290]] Maksunduse alused\\<br />&lt; [[SKK0031]] Matemaatiline analüüs I\\<br />&lt; [[SKK0910]] Müügitöö\\<br />&lt; [[SKK0950]] Õiguse alused\\<br />&lt; [[SKK0200]] Õpingukorraldus\\<br />&lt; [[SKK0370]] Personalijuhtimine\\<br />&lt; [[SKK0380]] Projektijuhtimine\\<br />&lt; [[SKK0940]] Raamatupidamise alused\\<br />&lt; [[SKK0920]] Rahvusvaheline majandus\\<br />&lt; [[SKK0640]] Restoraniteenindus\\<br />&lt; [[SKK3040]] Saksa keel\\<br />&lt; [[SKK3050]] Soome keel\\<br />&lt; [[SKK0260]] Sotsiaalpsühholoogia\\<br />&lt; [[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[SKK0700]] Turismimajanduse alused\\<br />&lt; [[SKK3470]] Turismipoliitika\\<br />&lt; [[SKK0750]] Turismiturundus\\<br />&lt; [[SKK0350]] Turunduse alused\\<br />&lt; [[TMM0860]] Turunduskommunikatsioon I\\<br />&lt; [[SKK3480]] Turundus toitlustuses ja majutuses\\<br />&lt; [[SKK0930]] Turu-uuringud\\<br />&lt; [[SKK0860]] Tutvumispraktika\\<br />&lt; [[SKK0900]] Ühistegevus\\<br />&lt; [[SKK0270]] Väljendus</strong>- <strong class="changes">ja esinemisoskus\\<br />&lt; [[SKK3060]] Vene keel võõrkeelena\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>SDVR04-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>SDVR04-<strong class="changes">08"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>SDVR04-<strong class="changes">06"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "SDVR04</strong>-<strong class="changes">04"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203852
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885844
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === SDVR04/09 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=50094&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[SKK0280]] Äriõigus\\
-	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\
-	[[SKK1010]] Arvutigraafika algkursus\\
-	[[SKK0220]] Arvutiõpetus\\
-	[[SKK0882]] Diplomieelne praktika\\
-	[[SKK1100]] Eesti keele väljendusõpetus\\
-	[[SKK0960]] Eesti majandus\\
-	[[SKK0140]] Ettevõtete infosüsteemid\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0870]] Ettevõttepraktika\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0340]] Finantsanalüüs\\
-	[[SKK1150]] Finantsjuhtimine\\
-	[[SKK0510]] Hotellimajanduse alused\\
-	[[SKK0480]] Inglise ärikeel\\
-	[[SKK0530]] Innovatsioon ja tootearendus\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0680]] Kliendisuhted\\
-	[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0320]] Logistika\\
-	[[SKK0710]] Maailma ja Eesti turismigeograafia\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0290]] Maksunduse alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK1030]] Materjaliteaduse üldalused\\
-	[[SKK0910]] Müügitöö\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0370]] Personalijuhtimine\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[SKK0940]] Raamatupidamise alused\\
-	[[SKK0920]] Rahvusvaheline majandus\\
-	[[SKK1020]] Rahvusvaheline tööstus\\
-	[[SKK1160]] Sissejuhatus suhetekorraldusse\\
-	[[SKK0260]] Sotsiaalpsühholoogia\\
-	[[SKK0790]] Sündmuskorraldus\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0620]] Toiduvalmistamise tehnoloogia I\\
-	[[SKK0651]] Toiduvalmistamise tehnoloogia II\\
-	[[SKK0610]] Toitlustusettevõtete seadmed\\
-	[[SKK1140]] Tööõigus\\
-	[[SKK0701]] Turismimajanduse alused\\
-	[[SKK0970]] Turismipoliitika ja planeerimine\\
-	[[SKK0350]] Turunduse alused\\
-	[[SKK1080]] Turundusuuringud\\
-	[[SKK0850]] Tutvumispraktika\\
-	[[SKK0890]] Uurimistöö\\
-	=== SDVR04/08 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=5386&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[SKK0280]] Äriõigus\\
-	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\
-	[[SKK1010]] Arvutigraafika algkursus\\
-	[[SKK0220]] Arvutiõpetus\\
-	[[SKK0880]] Diplomieelne praktika\\
-	[[SKK0960]] Eesti majandus\\
-	[[SKK0140]] Ettevõtete infosüsteemid\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0870]] Ettevõttepraktika\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0340]] Finantsanalüüs\\
-	[[SKK0390]] Finantsjuhtimine\\
-	[[SKK0510]] Hotellimajanduse alused\\
-	[[SKK0480]] Inglise ärikeel\\
-	[[SKK0530]] Innovatsioon ja tootearendus\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0320]] Logistika\\
-	[[SKK0710]] Maailma ja Eesti turismigeograafia\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0290]] Maksunduse alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK1030]] Materjaliteaduse üldalused\\
-	[[SKK0910]] Müügitöö\\
-	[[SKK0950]] Õiguse alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0370]] Personalijuhtimine\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[SKK0940]] Raamatupidamise alused\\
-	[[SKK0920]] Rahvusvaheline majandus\\
-	[[SKK1020]] Rahvusvaheline tööstus\\
-	[[SKK0260]] Sotsiaalpsühholoogia\\
-	[[SKK0790]] Sündmuskorraldus\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0620]] Toiduvalmistamise tehnoloogia I\\
-	[[SKK0650]] Toiduvalmistamise tehnoloogia II\\
-	[[SKK0610]] Toitlustusettevõtete seadmed\\
-	[[SKK0700]] Turismimajanduse alused\\
-	[[SKK0970]] Turismipoliitika ja planeerimine\\
-	[[SKK0350]] Turunduse alused\\
-	[[TMM0860]] Turunduskommunikatsioon I\\
-	[[SKK0930]] Turu-uuringud\\
-	[[SKK0860]] Tutvumispraktika\\
-	[[SKK0890]] Uurimistöö\\
-	=== SDVR04/06 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=4074&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[SKK0280]] Äriõigus\\
-	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\
-	[[SKK0220]] Arvutiõpetus\\
-	[[SKK0880]] Diplomieelne praktika\\
-	[[SKK0960]] Eesti majandus\\
-	[[SKK3500]] Etikett ja protokoll\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0870]] Ettevõttepraktika\\
-	[[SKK0550]] Euroopa Liidu institutsioonid\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0340]] Finantsanalüüs\\
-	[[SKK0390]] Finantsjuhtimine\\
-	[[SKK0510]] Hotellimajanduse alused\\
-	[[SKK0450]] Inglise ärikeel\\
-	[[SKK0530]] Innovatsioon ja tootearendus\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK0230]] Keskkonnakaitse\\
-	[[SKK0600]] Klienditeenindus\\
-	[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine\\
-	[[SKK0320]] Logistika\\
-	[[SKK0990]] Majandusgeograafia\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0290]] Maksunduse alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK0910]] Müügitöö\\
-	[[SKK0950]] Õiguse alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0370]] Personalijuhtimine\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[SKK0940]] Raamatupidamise alused\\
-	[[SKK0920]] Rahvusvaheline majandus\\
-	[[SKK0260]] Sotsiaalpsühholoogia\\
-	[[SKK0790]] Sündmuskorraldus\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0700]] Turismimajanduse alused\\
-	[[SKK0970]] Turismipoliitika ja planeerimine\\
-	[[SKK0750]] Turismiturundus\\
-	[[SKK0350]] Turunduse alused\\
-	[[TMM0860]] Turunduskommunikatsioon I\\
-	[[SKK0930]] Turu-uuringud\\
-	[[SKK0860]] Tutvumispraktika\\
-	[[SKK0900]] Ühistegevus\\
-	[[SKK0890]] Uurimistöö\\
-	[[SKK0270]] Väljendus- ja esinemisoskus\\
-	[[SKK0470]] Vene ärikeel\\
-	=== SDVR04/04 - Väikeettevõtlus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=2145&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[SKK0280]] Äriõigus\\
-	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised\\
-	[[SKK0880]] Diplomieelne praktika\\
-	[[SKK0960]] Eesti majandus\\
-	[[SKK3500]] Etikett ja protokoll\\
-	[[SKK0310]] Ettevõtlus\\
-	[[SKK0870]] Ettevõttepraktika\\
-	[[SKK3150]] Euroopa Liidu institutsioonid\\
-	[[SKK0240]] Filosoofia\\
-	[[SKK0340]] Finantsanalüüs\\
-	[[SKK0390]] Finantsjuhtimine\\
-	[[SKK0510]] Hotellimajanduse alused\\
-	[[SKK3111]] Informaatika I\\
-	[[SKK3112]] Informaatika II\\
-	[[SKK0450]] Inglise ärikeel\\
-	[[SKK3031]] Inglise keel\\
-	[[SKK0360]] Juhtimise alused\\
-	[[SKK3270]] Kaubatundmine\\
-	[[SKK0600]] Klienditeenindus\\
-	[[SKK0320]] Logistika\\
-	[[SKK0300]] Majandusõpetus\\
-	[[SKK0290]] Maksunduse alused\\
-	[[SKK0031]] Matemaatiline analüüs I\\
-	[[SKK0910]] Müügitöö\\
-	[[SKK0950]] Õiguse alused\\
-	[[SKK0200]] Õpingukorraldus\\
-	[[SKK0370]] Personalijuhtimine\\
-	[[SKK0380]] Projektijuhtimine\\
-	[[SKK0940]] Raamatupidamise alused\\
-	[[SKK0920]] Rahvusvaheline majandus\\
-	[[SKK0640]] Restoraniteenindus\\
-	[[SKK3040]] Saksa keel\\
-	[[SKK3050]] Soome keel\\
-	[[SKK0260]] Sotsiaalpsühholoogia\\
-	[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[SKK0700]] Turismimajanduse alused\\
-	[[SKK3470]] Turismipoliitika\\
-	[[SKK0750]] Turismiturundus\\
-	[[SKK0350]] Turunduse alused\\
-	[[TMM0860]] Turunduskommunikatsioon I\\
-	[[SKK3480]] Turundus toitlustuses ja majutuses\\
-	[[SKK0930]] Turu-uuringud\\
-	[[SKK0860]] Tutvumispraktika\\
-	[[SKK0900]] Ühistegevus\\
-	[[SKK0270]] Väljendus- ja esinemisoskus\\
-	[[SKK3060]] Vene keel võõrkeelena\\
+text: <include "SDVR04-09">
+	
+	<include "SDVR04-08">
+	
+	<include "SDVR04-06">
+	
+	<include "SDVR04-04">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885844

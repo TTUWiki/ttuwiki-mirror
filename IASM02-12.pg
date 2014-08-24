@@ -1,0 +1,48 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IASM02/12 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50187&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDU0220]] Andmebaasid I<br />[[IEM3040]] Andmehõivesüsteemid<br />[[ISS0023]] Arukad juhtimissüsteemid<br />[[IAF0320]] Arvutisüsteemide projekteerimine<br />[[ISS0065]] Automaatikavahendid<br />[[ISS0080]] Automatiseerimine ja protsessijuhtimine<br />[[IAY0600]] Digitaalsüsteemide disain<br />[[IAY0340]] Digitaalsüsteemide modelleerimine ja süntees<br />[[IAF0620]] Digitaalsüsteemide verifitseerimine<br />[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[IAY0550]] Kiipsüsteemide disain<br />[[IAG0420]] Küberturbe põhialused ja juhtimine<br />[[IAG0410]] Masinprojekteerimise alused<br />[[ISC0010]] Mikroprotsessorsüsteemid<br />[[ISS0031]] Modelleerimine ja identifitseerimine<br />[[IAY0720]] Praktika<br />[[ISP0070]] Proaktiivtehnoloogiad<br />[[IAG0010]] Programmeerimise erikursus I<br />[[IAG0450]] Programmeerimiskeelte analüüs<br />[[ISS0089]] Programmeeritavad kontrollerid - jätkukursus<br />[[ISP0051]] Rakenduslik andmeside<br />[[IAY0330]] Sardsüsteemid<br />[[ISC0012]] Sidud, süsteemid, signaalid - jätkukursus<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus<br />[[ISP0012]] Tarkvara dünaamika<br />[[IAG0060]] Tarkvara projektijuhtimine<br />[[IAF0610]] Testimise projekteerimine<br />[[TMJ1240]] Üliõpilasfirma praktikum<br />[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine</p>
+diff-minor: 
+ts: 1408891441
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IASM02/12 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50187&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IDU0220]] Andmebaasid I
+	[[IEM3040]] Andmehõivesüsteemid
+	[[ISS0023]] Arukad juhtimissüsteemid
+	[[IAF0320]] Arvutisüsteemide projekteerimine
+	[[ISS0065]] Automaatikavahendid
+	[[ISS0080]] Automatiseerimine ja protsessijuhtimine
+	[[IAY0600]] Digitaalsüsteemide disain
+	[[IAY0340]] Digitaalsüsteemide modelleerimine ja süntees
+	[[IAF0620]] Digitaalsüsteemide verifitseerimine
+	[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine
+	[[TMJ0110]] Ettevõtluse alused
+	[[TMJ1030]] Ettevõtlus ja äri planeerimine
+	[[IBX0030]] Innovaatika ja loov probleemilahendus
+	[[IAY0550]] Kiipsüsteemide disain
+	[[IAG0420]] Küberturbe põhialused ja juhtimine
+	[[IAG0410]] Masinprojekteerimise alused
+	[[ISC0010]] Mikroprotsessorsüsteemid
+	[[ISS0031]] Modelleerimine ja identifitseerimine
+	[[IAY0720]] Praktika
+	[[ISP0070]] Proaktiivtehnoloogiad
+	[[IAG0010]] Programmeerimise erikursus I
+	[[IAG0450]] Programmeerimiskeelte analüüs
+	[[ISS0089]] Programmeeritavad kontrollerid - jätkukursus
+	[[ISP0051]] Rakenduslik andmeside
+	[[IAY0330]] Sardsüsteemid
+	[[ISC0012]] Sidud, süsteemid, signaalid - jätkukursus
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus
+	[[ISP0012]] Tarkvara dünaamika
+	[[IAG0060]] Tarkvara projektijuhtimine
+	[[IAF0610]] Testimise projekteerimine
+	[[TMJ1240]] Üliõpilasfirma praktikum
+	[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine
+	
+	
+keep-ts: 1408891441

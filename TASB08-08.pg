@@ -1,0 +1,58 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TASB08/08 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50123&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSK0110]] Aasia uuringud<br />[[TSP0180]] Avalik haldus<br />[[TSP0170]] Balti riigid rahvusvaheliste suhete süsteemis<br />[[TSK0150]] Eesti ajalugu<br />[[TSP0190]] Eesti välispoliitika<br />[[TSE0010]] Euroopa integratsioon<br />[[HOL6010]] Euroopa Liidu õigus<br />[[TSE0021]] Euroopa Liidu poliitikad<br />[[TSE0030]] Euroopa Liidu ühine välis- ja julgeolekupoliitika<br />[[TSK0170]] Filosoofia<br />[[TSK0160]] Globaliseerumine ja globaalprobleemid<br />[[TSK0020]] Inglise keel I<br />[[TSK0021]] Inglise keel II<br />[[TSK0022]] Inglise keel III<br />[[TSK0023]] Inglise keel IV<br />[[HOR6011]] Inimõigused<br />[[TMO0070]] Juhtimise alused<br />[[TSP0050]] Konfliktide strateegia<br />[[TSP0200]] Kursusetöö<br />[[TSK0140]] Maailma religioonide võrdlev analüüs<br />[[TSP0110]] Masside käitumine<br />[[TTO0100]] Õiguse alused<br />[[TSP0010]] Poliitiline filosoofia<br />[[TSP0090]] Poliitiline kommunikatsioon ja tehnoloogia<br />[[TSP0101]] Praktiline uurimistöö<br />[[TSK0040]] Prantsuse keel I<br />[[TSK0041]] Prantsuse keel II<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[TSP0012]] Rahvusvaheline majandus<br />[[TSP0011]] Rahvusvaheline poliitökonoomia<br />[[TSP0150]] Rahvusvaheline terrorism<br />[[TSP0040]] Rahvusvahelised julgeoleku-uuringud<br />[[TSP0030]] Rahvusvahelised konfliktid<br />[[TSP0080]] Rahvusvahelised organisatsioonid<br />[[TSP0070]] Rahvusvahelised suhted tänapäeval<br />[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TSK0011]] Sotsiaalpsühholoogia<br />[[TSK0180]] Sotsioloogia<br />[[TSP0120]] USA sise- ja välispoliitika<br />[[TSK0120]] Uurimistöö alused<br />[[TSP0130]] Venemaa ja SRÜ riigid<br />[[TSE0040]] XX sajandi Euroopa ajalugu</p>
+diff-minor: 
+ts: 1408891630
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TASB08/08 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50123&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TSK0110]] Aasia uuringud
+	[[TSP0180]] Avalik haldus
+	[[TSP0170]] Balti riigid rahvusvaheliste suhete süsteemis
+	[[TSK0150]] Eesti ajalugu
+	[[TSP0190]] Eesti välispoliitika
+	[[TSE0010]] Euroopa integratsioon
+	[[HOL6010]] Euroopa Liidu õigus
+	[[TSE0021]] Euroopa Liidu poliitikad
+	[[TSE0030]] Euroopa Liidu ühine välis- ja julgeolekupoliitika
+	[[TSK0170]] Filosoofia
+	[[TSK0160]] Globaliseerumine ja globaalprobleemid
+	[[TSK0020]] Inglise keel I
+	[[TSK0021]] Inglise keel II
+	[[TSK0022]] Inglise keel III
+	[[TSK0023]] Inglise keel IV
+	[[HOR6011]] Inimõigused
+	[[TMO0070]] Juhtimise alused
+	[[TSP0050]] Konfliktide strateegia
+	[[TSP0200]] Kursusetöö
+	[[TSK0140]] Maailma religioonide võrdlev analüüs
+	[[TSP0110]] Masside käitumine
+	[[TTO0100]] Õiguse alused
+	[[TSP0010]] Poliitiline filosoofia
+	[[TSP0090]] Poliitiline kommunikatsioon ja tehnoloogia
+	[[TSP0101]] Praktiline uurimistöö
+	[[TSK0040]] Prantsuse keel I
+	[[TSK0041]] Prantsuse keel II
+	[[HOR6017]] Rahvusvaheline avalik õigus
+	[[TSP0012]] Rahvusvaheline majandus
+	[[TSP0011]] Rahvusvaheline poliitökonoomia
+	[[TSP0150]] Rahvusvaheline terrorism
+	[[TSP0040]] Rahvusvahelised julgeoleku-uuringud
+	[[TSP0030]] Rahvusvahelised konfliktid
+	[[TSP0080]] Rahvusvahelised organisatsioonid
+	[[TSP0070]] Rahvusvahelised suhted tänapäeval
+	[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu
+	[[TSP0060]] Sissejuhatus politoloogiasse
+	[[TSK0011]] Sotsiaalpsühholoogia
+	[[TSK0180]] Sotsioloogia
+	[[TSP0120]] USA sise- ja välispoliitika
+	[[TSK0120]] Uurimistöö alused
+	[[TSP0130]] Venemaa ja SRÜ riigid
+	[[TSE0040]] XX sajandi Euroopa ajalugu
+	
+	
+keep-ts: 1408891630

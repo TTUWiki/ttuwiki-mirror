@@ -1,0 +1,44 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>NAEM06/06 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=3964&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTK0740]] Arengumudelid<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0800]] Biomitmekesisuse korraldus ja -poliitika<br />[[NTK0950]] Eesti maastikud<br />[[NTM0560]] Eetika<br />[[NTK0810]] Euroopa Liidu ja Eesti keskkonnapoliitika<br />[[NTK0120]] Globaalsed keskkonnaprobleemid<br />[[NTK0680]] Juhtimine<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0830]] Keskkonnakorraldus<br />[[NTK0070]] Keskkonnameetmete ökonoomika<br />[[NTK0770]] Keskkonnapoliitika<br />[[NTK0330]] Keskkonnaseire<br />[[NTK0761]] Keskkonnateadlikkus ja keskkonnaharidus<br />[[NTK0762]] Keskkonnateadlikkus ja keskkonnaharidus - ainetöö<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTK0730]] Kvaliteedijuhtimine<br />[[NTK0840]] Loodusvarade kasutamine ja kaitse Euroopa Liidus<br />[[NTK0980]] Magistripraktika<br />[[NTK0270]] Nõuandetegevus<br />[[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng<br />[[NTK0710]] Regionaalareng ja -planeerimine<br />[[NTK0750]] Säästev areng<br />[[NTM0870]] Sissejuhatus semiootikasse<br />[[NTK0960]] Suhtlemispsühholoogia<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTK0090]] Teadusvõõrkeel<br />[[NTK0201]] Tööstuslikud ökosüsteemid<br />[[NTK0202]] Tööstuslikud ökosüsteemid - ainetöö</p>
+diff-minor: 
+ts: 1408891540
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == NAEM06/06 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=3964&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NTK0740]] Arengumudelid
+	[[NTK0720]] Bioloogiline mitmekesisus
+	[[NTK0800]] Biomitmekesisuse korraldus ja -poliitika
+	[[NTK0950]] Eesti maastikud
+	[[NTM0560]] Eetika
+	[[NTK0810]] Euroopa Liidu ja Eesti keskkonnapoliitika
+	[[NTK0120]] Globaalsed keskkonnaprobleemid
+	[[NTK0680]] Juhtimine
+	[[NTM0070]] Juhtimispsühholoogia
+	[[NTK0830]] Keskkonnakorraldus
+	[[NTK0070]] Keskkonnameetmete ökonoomika
+	[[NTK0770]] Keskkonnapoliitika
+	[[NTK0330]] Keskkonnaseire
+	[[NTK0761]] Keskkonnateadlikkus ja keskkonnaharidus
+	[[NTK0762]] Keskkonnateadlikkus ja keskkonnaharidus - ainetöö
+	[[NTK0790]] Keskkonnatehnoloogiad
+	[[NTK0730]] Kvaliteedijuhtimine
+	[[NTK0840]] Loodusvarade kasutamine ja kaitse Euroopa Liidus
+	[[NTK0980]] Magistripraktika
+	[[NTK0270]] Nõuandetegevus
+	[[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng
+	[[NTK0710]] Regionaalareng ja -planeerimine
+	[[NTK0750]] Säästev areng
+	[[NTM0870]] Sissejuhatus semiootikasse
+	[[NTK0960]] Suhtlemispsühholoogia
+	[[NTK0690]] Teadustöö metodoloogia
+	[[NTK0090]] Teadusvõõrkeel
+	[[NTK0201]] Tööstuslikud ökosüsteemid
+	[[NTK0202]] Tööstuslikud ökosüsteemid - ainetöö
+	
+	
+keep-ts: 1408891540

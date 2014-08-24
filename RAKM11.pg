@@ -1,34 +1,20 @@
-flags: 010101010101010101010101010101010101010101010
-blocks: <h3>RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50177&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[RAH0810]] Akadeemiline eesti keel<br />[[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused<br />[[RAS0140]] Instrumentaalanalüüsi erikursus<br />[[RAH0840]] Intellektuaalomand ja innovatsioon<br />[[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses<br />[[RAS0010]] Kütusetööstuse ökonoomika ja juhtimine<br />[[RAS0070]] Kütusetööstuse protsessid<br />[[RAS0110]] Kütusetööstuse protsesside juhtimine<br />[[RAS0090]] Kütuste keemia ja tehnoloogia<br />[[RAS0050]] Kütuste klassifitseerimine ja standardimine<br />[[RAS0040]] Leviprotsessid<br />[[RAS0150]] Magistripraktika<br />[[RAM0040]] Matemaatika erikursus<br />[[RAS0020]] Orgaanilise keemia erikursus<br />[[RAS0080]] Protsesside bilansid ja projekteerimine<br />[[RAS0030]] Protsesside termodünaamika<br />[[RAS0121]] Reaktsioonitehnika ja reaktorid<br />[[RAS0122]] Reaktsioonitehnika ja reaktorid - projekt<br />[[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest<br />[[RAH0830]] Teadusliku uurimistöö alused<br />[[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia<br /></p>
+flags: 010
+blocks: &lt;include "RAKM11-12"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50177&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[RAH0810]] Akadeemiline eesti keel\\<br />&lt; [[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused\\<br />&lt; [[RAS0140]] Instrumentaalanalüüsi erikursus\\<br />&lt; [[RAH0840]] Intellektuaalomand ja innovatsioon\\<br />&lt; [[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses\\<br />&lt; [[RAS0010]] Kütusetööstuse ökonoomika ja juhtimine\\<br />&lt; [[RAS0070]] Kütusetööstuse protsessid\\<br />&lt; [[RAS0110]] Kütusetööstuse protsesside juhtimine\\<br />&lt; [[RAS0090]] Kütuste keemia ja tehnoloogia\\<br />&lt; [[RAS0050]] Kütuste klassifitseerimine ja standardimine\\<br />&lt; [[RAS0040]] Leviprotsessid\\<br />&lt; [[RAS0150]] Magistripraktika\\<br />&lt; [[RAM0040]] Matemaatika erikursus\\<br />&lt; [[RAS0020]] Orgaanilise keemia erikursus\\<br />&lt; [[RAS0080]] Protsesside bilansid ja projekteerimine\\<br />&lt; [[RAS0030]] Protsesside termodünaamika\\<br />&lt; [[RAS0121]] Reaktsioonitehnika ja reaktorid\\<br />&lt; [[RAS0122]] Reaktsioonitehnika ja reaktorid</strong> - <strong class="changes">projekt\\<br />&lt; [[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest\\<br />&lt; [[RAH0830]] Teadusliku uurimistöö alused\\<br />&lt; [[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "RAKM11</strong>-<strong class="changes">12"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203839
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885807
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50177&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[RAH0810]] Akadeemiline eesti keel\\
-	[[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused\\
-	[[RAS0140]] Instrumentaalanalüüsi erikursus\\
-	[[RAH0840]] Intellektuaalomand ja innovatsioon\\
-	[[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses\\
-	[[RAS0010]] Kütusetööstuse ökonoomika ja juhtimine\\
-	[[RAS0070]] Kütusetööstuse protsessid\\
-	[[RAS0110]] Kütusetööstuse protsesside juhtimine\\
-	[[RAS0090]] Kütuste keemia ja tehnoloogia\\
-	[[RAS0050]] Kütuste klassifitseerimine ja standardimine\\
-	[[RAS0040]] Leviprotsessid\\
-	[[RAS0150]] Magistripraktika\\
-	[[RAM0040]] Matemaatika erikursus\\
-	[[RAS0020]] Orgaanilise keemia erikursus\\
-	[[RAS0080]] Protsesside bilansid ja projekteerimine\\
-	[[RAS0030]] Protsesside termodünaamika\\
-	[[RAS0121]] Reaktsioonitehnika ja reaktorid\\
-	[[RAS0122]] Reaktsioonitehnika ja reaktorid - projekt\\
-	[[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest\\
-	[[RAH0830]] Teadusliku uurimistöö alused\\
-	[[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia\\
+text: <include "RAKM11-12">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885807

@@ -1,174 +1,31 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>IABB02/14 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50268&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDK0015]] Andmetöötlus<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[YMR5730]] Arvutusmeetodid<br />[[IAY0361]] Automaattestimine<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU135P]] Erialapraktika<br />[[IDN0020]] Erialatutvustus<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[YFR0020]] Füüsika<br />[[IDK1331]] Kasutajaliidese disain<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[IDU3355]] Modelleerimine<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[HOE6053]] Õigusõpetus infotehnoloogidele<br />[[TEM8300]] Operatsioonianalüüs<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3171]] Organisatsiooni juhtimine<br />[[IDK1015]] Programmeerimise põhikursus<br />[[ITT0050]] Rekursiooni- ja keerukusteooria<br />[[IRT3930]] Side<br />[[YMR8160]] Stohhastiline modelleerimine<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[TMK1250]] Toote ja teenuse arendamine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[ISS0110]] Väljendusoskus<br />[[IDU0075]] Veebiteenused<br />[[ITV0110]] Võrgurakendused I<br /></p><h3>IABB02/13 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50233&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDK0015]] Andmetöötlus<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU003P]] Erialapraktika<br />[[IDN0020]] Erialatutvustus<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[TER0610]] Finantsjuhtimine<br />[[YFR0020]] Füüsika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[IDU3355]] Modelleerimine<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[IDK1015]] Programmeerimise põhikursus<br />[[IRT3930]] Side<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[TMK1250]] Toote ja teenuse arendamine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[ISS0110]] Väljendusoskus<br />[[IDU0075]] Veebiteenused<br />[[ITV0110]] Võrgurakendused I<br /></p><h3>IABB02/09 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50071&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU004P]] Erialapraktika<br />[[HHF3080]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[YFR0020]] Füüsika<br />[[TMM0230]] Interaktiivne turundus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IDK0051]] Objektorienteeritud programmeerimine keeles Java<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[IDK1011]] Programmeerimise algkursus<br />[[ITI0011]] Programmeerimise põhikursus Javas<br />[[IDK1031]] Programmeerimise põhikursus keeles C<br />[[IRT3930]] Side<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia<br />[[IDU0075]] Veebiteenused<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[ITV0110]] Võrgurakendused I<br /></p><h3>IABB02/02 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=655&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0120]] Andmebaaside programmeerimine<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[TMT0040]] Ergonoomika<br />[[IDU001P]] Erialapraktika<br />[[HHF3070]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[YFR0020]] Füüsika<br />[[IAG0081]] Informaatika I<br />[[IDK0031]] Informaatika II<br />[[IDK0032]] Informaatika II - projekt<br />[[TMM0230]] Interaktiivne turundus<br />[[EKE3710]] Keskkonnakaitse<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IDU0050]] Objektorienteeritud disain<br />[[IDK0020]] Objektorienteeritud programmeerimine Javas<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[ITI0010]] Programmeerimise põhikursus<br />[[IDU0140]] Rakendusarhitektuurid I<br />[[IRT3930]] Side<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[IDK0040]] Võrgurakendused I<br /></p>
+flags: 010101010
+blocks: &lt;include "IABB02-14"&gt;
+	&lt;include "IABB02-13"&gt;
+	&lt;include "IABB02-09"&gt;
+	&lt;include "IABB02-02"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== IABB02/14 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50268&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IDU0220]] Andmebaasid I\\<br />&lt; [[IDU0230]] Andmebaasid II\\<br />&lt; [[IDK0015]] Andmetöötlus\\<br />&lt; [[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[YMR5730]] Arvutusmeetodid\\<br />&lt; [[IAY0361]] Automaattestimine\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[ITT0030]] Diskreetne matemaatika II\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IDU135P]] Erialapraktika\\<br />&lt; [[IDN0020]] Erialatutvustus\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0020]] Füüsika\\<br />&lt; [[IDK1331]] Kasutajaliidese disain\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[TAK8360]] Kuluarvestus ja eelarvestamine\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[IDU3355]] Modelleerimine\\<br />&lt; [[IDK2015]] Objekt-orienteeritud programmeerimine\\<br />&lt; [[HOE6053]] Õigusõpetus infotehnoloogidele\\<br />&lt; [[TEM8300]] Operatsioonianalüüs\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TMO3171]] Organisatsiooni juhtimine\\<br />&lt; [[IDK1015]] Programmeerimise põhikursus\\<br />&lt; [[ITT0050]] Rekursiooni- ja keerukusteooria\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[YMR8160]] Stohhastiline modelleerimine\\<br />&lt; [[IDU5360]] Süsteemianalüüs\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IDK0071]] Tarkvaratehnika\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[TMK1250]] Toote ja teenuse arendamine\\<br />&lt; [[TMM0860]] Turunduskommunikatsioon I\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; [[IDU0075]] Veebiteenused\\<br />&lt; [[ITV0110]] Võrgurakendused I\\<br />&lt; ===</strong> IABB02<strong class="changes">/13</strong> - <strong class="changes">Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50233&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IDU0220]] Andmebaasid I\\<br />&lt; [[IDU0230]] Andmebaasid II\\<br />&lt; [[IDK0015]] Andmetöötlus\\<br />&lt; [[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[ITT0030]] Diskreetne matemaatika II\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IDU003P]] Erialapraktika\\<br />&lt; [[IDN0020]] Erialatutvustus\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[TER0610]] Finantsjuhtimine\\<br />&lt; [[YFR0020]] Füüsika\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[TAK8360]] Kuluarvestus ja eelarvestamine\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[IDU3355]] Modelleerimine\\<br />&lt; [[IDK2015]] Objekt-orienteeritud programmeerimine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\<br />&lt; [[IDK1015]] Programmeerimise põhikursus\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IDU5360]] Süsteemianalüüs\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IDX5721]] Tarkvara kvaliteet ja standardid\\<br />&lt; [[IDK0071]] Tarkvaratehnika\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[TMK1250]] Toote ja teenuse arendamine\\<br />&lt; [[TMM0860]] Turunduskommunikatsioon I\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; [[IDU0075]] Veebiteenused\\<br />&lt; [[ITV0110]] Võrgurakendused I\\<br />&lt; ===</strong> IABB02<strong class="changes">/09</strong> - <strong class="changes">Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50071&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IDU0220]] Andmebaasid I\\<br />&lt; [[IDU0230]] Andmebaasid II\\<br />&lt; [[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[ITT0030]] Diskreetne matemaatika II\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IDU004P]] Erialapraktika\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[TAF0070]] Finantsarvestuse alused\\<br />&lt; [[YFR0020]] Füüsika\\<br />&lt; [[TMM0230]] Interaktiivne turundus\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[IDK0051]] Objektorienteeritud programmeerimine keeles Java\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\<br />&lt; [[IDK1011]] Programmeerimise algkursus\\<br />&lt; [[ITI0011]] Programmeerimise põhikursus Javas\\<br />&lt; [[IDK1031]] Programmeerimise põhikursus keeles C\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IDU3350]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[IDU5360]] Süsteemianalüüs\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IDK0071]] Tarkvaratehnika\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; [[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia\\<br />&lt; [[IDU0075]] Veebiteenused\\<br />&lt; [[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur\\<br />&lt; [[ITV0110]] Võrgurakendused I\\<br />&lt; ===</strong> IABB02<strong class="changes">/02</strong> - <strong class="changes">Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=655&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IDU0120]] Andmebaaside programmeerimine\\<br />&lt; [[IDU3381]] Andmebaaside projekteerimine\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IDU001P]] Erialapraktika\\<br />&lt; [[HHF3070]] Filosoofia\\<br />&lt; [[TAF0070]] Finantsarvestuse alused\\<br />&lt; [[YFR0020]] Füüsika\\<br />&lt; [[IAG0081]] Informaatika I\\<br />&lt; [[IDK0031]] Informaatika II\\<br />&lt; [[IDK0032]] Informaatika II - projekt\\<br />&lt; [[TMM0230]] Interaktiivne turundus\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[IDU0050]] Objektorienteeritud disain\\<br />&lt; [[IDK0020]] Objektorienteeritud programmeerimine Javas\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine\\<br />&lt; [[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\<br />&lt; [[ITI0010]] Programmeerimise põhikursus\\<br />&lt; [[IDU0140]] Rakendusarhitektuurid I\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[IDU5360]] Süsteemianalüüs\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; [[IDU0080]] Veebiteenused ja Interneti</strong>-<strong class="changes">lahenduste arhitektuur\\<br />&lt; [[IDK0040]] Võrgurakendused I\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IABB02-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IABB02-<strong class="changes">13"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IABB02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IABB02</strong>-<strong class="changes">02"&gt;</strong></p></div>
+ip: 89.235.235.166
+ts: 1408885674
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 8
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[IDK1331 Kasutajaliidese disain<strong class="changes">]]\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[IDK1331<strong class="changes">]]</strong> Kasutajaliidese disain<strong class="changes">\\</strong></p></div>
-ip: 89.235.235.166
-ts: 1391265065
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 7
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === IABB02/14 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50268&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IDU0220]] Andmebaasid I\\
-	[[IDU0230]] Andmebaasid II\\
-	[[IDK0015]] Andmetöötlus\\
-	[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[YMR5730]] Arvutusmeetodid\\
-	[[IAY0361]] Automaattestimine\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[ITT0030]] Diskreetne matemaatika II\\
-	[[TMT0040]] Ergonoomika\\
-	[[IDU135P]] Erialapraktika\\
-	[[IDN0020]] Erialatutvustus\\
-	[[TMJ0110]] Ettevõtluse alused\\
-	[[HHF3080]] Filosoofia\\
-	[[YFR0020]] Füüsika\\
-	[[IDK1331]] Kasutajaliidese disain\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[TAK8360]] Kuluarvestus ja eelarvestamine\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[IDU3355]] Modelleerimine\\
-	[[IDK2015]] Objekt-orienteeritud programmeerimine\\
-	[[HOE6053]] Õigusõpetus infotehnoloogidele\\
-	[[TEM8300]] Operatsioonianalüüs\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[TMO3171]] Organisatsiooni juhtimine\\
-	[[IDK1015]] Programmeerimise põhikursus\\
-	[[ITT0050]] Rekursiooni- ja keerukusteooria\\
-	[[IRT3930]] Side\\
-	[[YMR8160]] Stohhastiline modelleerimine\\
-	[[IDU5360]] Süsteemianalüüs\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IDK0071]] Tarkvaratehnika\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[TMK1250]] Toote ja teenuse arendamine\\
-	[[TMM0860]] Turunduskommunikatsioon I\\
-	[[ISS0110]] Väljendusoskus\\
-	[[IDU0075]] Veebiteenused\\
-	[[ITV0110]] Võrgurakendused I\\
-	=== IABB02/13 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50233&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IDU0220]] Andmebaasid I\\
-	[[IDU0230]] Andmebaasid II\\
-	[[IDK0015]] Andmetöötlus\\
-	[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[ITT0030]] Diskreetne matemaatika II\\
-	[[TMT0040]] Ergonoomika\\
-	[[IDU003P]] Erialapraktika\\
-	[[IDN0020]] Erialatutvustus\\
-	[[TMJ0110]] Ettevõtluse alused\\
-	[[HHF3080]] Filosoofia\\
-	[[TER0610]] Finantsjuhtimine\\
-	[[YFR0020]] Füüsika\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[TAK8360]] Kuluarvestus ja eelarvestamine\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[IDU3355]] Modelleerimine\\
-	[[IDK2015]] Objekt-orienteeritud programmeerimine\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\
-	[[IDK1015]] Programmeerimise põhikursus\\
-	[[IRT3930]] Side\\
-	[[IDU5360]] Süsteemianalüüs\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IDX5721]] Tarkvara kvaliteet ja standardid\\
-	[[IDK0071]] Tarkvaratehnika\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[TMK1250]] Toote ja teenuse arendamine\\
-	[[TMM0860]] Turunduskommunikatsioon I\\
-	[[ISS0110]] Väljendusoskus\\
-	[[IDU0075]] Veebiteenused\\
-	[[ITV0110]] Võrgurakendused I\\
-	=== IABB02/09 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50071&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IDU0220]] Andmebaasid I\\
-	[[IDU0230]] Andmebaasid II\\
-	[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[ITT0030]] Diskreetne matemaatika II\\
-	[[TMT0040]] Ergonoomika\\
-	[[IDU004P]] Erialapraktika\\
-	[[HHF3080]] Filosoofia\\
-	[[TAF0070]] Finantsarvestuse alused\\
-	[[YFR0020]] Füüsika\\
-	[[TMM0230]] Interaktiivne turundus\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[IDK0051]] Objektorienteeritud programmeerimine keeles Java\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\
-	[[IDK1011]] Programmeerimise algkursus\\
-	[[ITI0011]] Programmeerimise põhikursus Javas\\
-	[[IDK1031]] Programmeerimise põhikursus keeles C\\
-	[[IRT3930]] Side\\
-	[[IDU3350]] Sissejuhatus infosüsteemidesse\\
-	[[IDU5360]] Süsteemianalüüs\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IDK0071]] Tarkvaratehnika\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[ISS0110]] Väljendusoskus\\
-	[[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia\\
-	[[IDU0075]] Veebiteenused\\
-	[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur\\
-	[[ITV0110]] Võrgurakendused I\\
-	=== IABB02/02 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=655&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IDU0120]] Andmebaaside programmeerimine\\
-	[[IDU3381]] Andmebaaside projekteerimine\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[TMT0040]] Ergonoomika\\
-	[[IDU001P]] Erialapraktika\\
-	[[HHF3070]] Filosoofia\\
-	[[TAF0070]] Finantsarvestuse alused\\
-	[[YFR0020]] Füüsika\\
-	[[IAG0081]] Informaatika I\\
-	[[IDK0031]] Informaatika II\\
-	[[IDK0032]] Informaatika II - projekt\\
-	[[TMM0230]] Interaktiivne turundus\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[IDU0050]] Objektorienteeritud disain\\
-	[[IDK0020]] Objektorienteeritud programmeerimine Javas\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine\\
-	[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid\\
-	[[ITI0010]] Programmeerimise põhikursus\\
-	[[IDU0140]] Rakendusarhitektuurid I\\
-	[[IRT3930]] Side\\
-	[[IDU3530]] Sissejuhatus infosüsteemidesse\\
-	[[ITV0010]] Sissejuhatus infotehnoloogiasse\\
-	[[IDU5360]] Süsteemianalüüs\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[ISS0110]] Väljendusoskus\\
-	[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur\\
-	[[IDK0040]] Võrgurakendused I\\
+text: <include "IABB02-14">
+	
+	<include "IABB02-13">
+	
+	<include "IABB02-09">
+	
+	<include "IABB02-02">
+	
+	
 	
 lastmajor: 7
-keep-ts: 1391265065
+keep-ts: 1408885674

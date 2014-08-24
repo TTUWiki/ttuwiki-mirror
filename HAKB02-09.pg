@@ -1,0 +1,59 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>HAKB02/09 - Halduskorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50007&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HPP3252]] Arhiivihaldus<br />[[HHL0170]] Avalik eetika<br />[[HPP0030]] Avalikkussuhted<br />[[HPP3253]] Dokumendihaldus<br />[[HPP3210]] Eesti keel halduskorralduses<br />[[HHM0150]] Eesti riik ja avalik haldus<br />[[HPP3263]] EL liikmed ja kultuurid<br />[[HHA4070]] Ettevõtluse halduslik toetamine<br />[[HHL0150]] Euroopa Liit<br />[[HHF3080]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[HPP3220]] Haldusdokumentide ja asjaajamiskeel<br />[[HPP3290]] Infohaldus ja andmebaasid<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HPP3230]] Inglise keel euroassistendile I<br />[[HPP3240]] Inglise keel euroassistendile II<br />[[HPP3271]] Juhtimise alused<br />[[HHL0140]] Keskkonnapoliitika<br />[[HPP3262]] Kombeõpetus ja etikett<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HOX6010]] Õigusalane kirjutamine mittejuristidele<br />[[HOX6060]] Õiguse alused<br />[[UTT0010]] Õpingukorraldus<br />[[HPP0020]] Organisatsioonipsühholoogia alused<br />[[HHM0090]] Organisatsiooniteooria<br />[[HPP3270]] Personalitöö juhtimine<br />[[HHL0130]] Politoloogia alused<br />[[HPP3280]] Praktika<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HHM0080]] Projektijuhtimine<br />[[HHP3200]] Psühholoogia ja loogika<br />[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus<br />[[HPP0050]] Sisekommunikatsioon ja suhtekorraldus<br />[[HHL0190]] Sotsioloogia alused<br />[[HHL0220]] Teadustöö alused<br />[[HPP0010]] Töö- ja personalipsühholoogia alused<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HOE6020]] Tööõigus<br />[[HPU0020]] Tööturu korraldus<br />[[HPP0040]] Väljendus- ja vaidlusõpetus<br />[[HPP3260]] Vanem tööjõud organisatsioonis<br />[[HOE6017]] Võlaõiguse üldosa</p>
+diff-minor: 
+ts: 1408891395
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAKB02/09 - Halduskorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50007&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[HPP3252]] Arhiivihaldus
+	[[HHL0170]] Avalik eetika
+	[[HPP0030]] Avalikkussuhted
+	[[HPP3253]] Dokumendihaldus
+	[[HPP3210]] Eesti keel halduskorralduses
+	[[HHM0150]] Eesti riik ja avalik haldus
+	[[HPP3263]] EL liikmed ja kultuurid
+	[[HHA4070]] Ettevõtluse halduslik toetamine
+	[[HHL0150]] Euroopa Liit
+	[[HHF3080]] Filosoofia
+	[[TAF0070]] Finantsarvestuse alused
+	[[HPP3220]] Haldusdokumentide ja asjaajamiskeel
+	[[HPP3290]] Infohaldus ja andmebaasid
+	[[IDK0022]] Informaatika II (majandus ja humanitaar)
+	[[IDK0021]] Informaatika I (majandus ja humanitaar)
+	[[HPP3230]] Inglise keel euroassistendile I
+	[[HPP3240]] Inglise keel euroassistendile II
+	[[HPP3271]] Juhtimise alused
+	[[HHL0140]] Keskkonnapoliitika
+	[[HPP3262]] Kombeõpetus ja etikett
+	[[TET3070]] Mikro- ja makroökonoomika
+	[[HOX6010]] Õigusalane kirjutamine mittejuristidele
+	[[HOX6060]] Õiguse alused
+	[[UTT0010]] Õpingukorraldus
+	[[HPP0020]] Organisatsioonipsühholoogia alused
+	[[HHM0090]] Organisatsiooniteooria
+	[[HPP3270]] Personalitöö juhtimine
+	[[HHL0130]] Politoloogia alused
+	[[HPP3280]] Praktika
+	[[HOX6070]] Privaatsus- ja andmekaitseõigus
+	[[HHM0080]] Projektijuhtimine
+	[[HHP3200]] Psühholoogia ja loogika
+	[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus
+	[[HPP0050]] Sisekommunikatsioon ja suhtekorraldus
+	[[HHL0190]] Sotsioloogia alused
+	[[HHL0220]] Teadustöö alused
+	[[HPP0010]] Töö- ja personalipsühholoogia alused
+	[[TMT0050]] Töökeskkond ja ergonoomika
+	[[HOE6020]] Tööõigus
+	[[HPU0020]] Tööturu korraldus
+	[[HPP0040]] Väljendus- ja vaidlusõpetus
+	[[HPP3260]] Vanem tööjõud organisatsioonis
+	[[HOE6017]] Võlaõiguse üldosa
+	
+	
+keep-ts: 1408891395

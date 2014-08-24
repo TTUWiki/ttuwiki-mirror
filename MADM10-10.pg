@@ -1,0 +1,36 @@
+flags: 010101010101010101010101010101010101010101010
+blocks: <h2>MADM10/10 - Disain ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50152&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ETTÜ71004]] Disainiuuringud<br />[[TMJ2060]] Ettevõtlus ja väikeettevõtted<br />[[ETTÜ71002]] Ettevõtlusprojekt A<br />[[MES0190]] Ettevõtlusprojekt B<br />[[ETTÜ71003]] Integreeritud disainijuhtimine<br />[[ETTÜ71006]] Kasutajakeskne disain<br />[[ETTÜ71000]] Keskkonnasäästlik disain<br />[[MXX0040]] Magistriseminar<br />[[MTM0140]] Materjaliõpetus<br />[[ETTÜ71007]] Projekt 1 - kasutajakeskne lähenemine<br />[[MES0180]] Projekt 2 - kontseptuaalne disain<br />[[MES0200]] Projekteerimise metoodika<br />[[TMK1200]] Projekti juhtimine, esitlemine ja kaitse<br />[[MES0170]] Sissejuhatav projekt<br />[[ETTÜ71001]] Sotsiaalantropoloogia<br />[[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud<br />[[HHA1490]] Tehnoloogia kriitika<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[MER0170]] Toodete ja protsesside modelleerimine<br />[[MET0180]] Tootmistehnika alused<br />[[TMM0080]] Turunduse juhtimine</p>
+diff-minor: 
+ts: 1408891494
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MADM10/10 - Disain ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50152&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[ETTÜ71004]] Disainiuuringud
+	[[TMJ2060]] Ettevõtlus ja väikeettevõtted
+	[[ETTÜ71002]] Ettevõtlusprojekt A
+	[[MES0190]] Ettevõtlusprojekt B
+	[[ETTÜ71003]] Integreeritud disainijuhtimine
+	[[ETTÜ71006]] Kasutajakeskne disain
+	[[ETTÜ71000]] Keskkonnasäästlik disain
+	[[MXX0040]] Magistriseminar
+	[[MTM0140]] Materjaliõpetus
+	[[ETTÜ71007]] Projekt 1 - kasutajakeskne lähenemine
+	[[MES0180]] Projekt 2 - kontseptuaalne disain
+	[[MES0200]] Projekteerimise metoodika
+	[[TMK1200]] Projekti juhtimine, esitlemine ja kaitse
+	[[MES0170]] Sissejuhatav projekt
+	[[ETTÜ71001]] Sotsiaalantropoloogia
+	[[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud
+	[[HHA1490]] Tehnoloogia kriitika
+	[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad
+	[[MER0170]] Toodete ja protsesside modelleerimine
+	[[MET0180]] Tootmistehnika alused
+	[[TMM0080]] Turunduse juhtimine
+	
+	
+keep-ts: 1408891494

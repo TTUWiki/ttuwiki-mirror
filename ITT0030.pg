@@ -1,3 +1,5 @@
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.cs.ioc.ee/DM2/">http://www.cs.ioc.ee/DM2/</a> - страница курса<br /><a class="url http" href="http://cs.ioc.ee/~margo/dm2/">http://cs.ioc.ee/~margo/dm2/</a> - на русском</p><p>&#x2013; AlexDaniel 2014-02-26 19:52 UTC</p></div>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">==</strong>Diskreetne matemaatika II <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100804<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Diskreetne matemaatika II<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100804</p></div>

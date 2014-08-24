@@ -1,236 +1,29 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>HAJB08/14 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50212&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HOE6011]] Asjaõigus<br />[[HOL6011]] EL konkurentsiõigus ja -poliitika<br />[[HOL6012]] EL siseturuõigus<br />[[IDK0301]] E-riigi infotehnoloogilised lahendused<br />[[TMJ0110]] Ettevõtluse alused<br />[[HOE6043]] Euroopa lepinguõiguse alused<br />[[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HHF1011]] Filosoofia ja loogika<br />[[HOA6029]] Haldusõigus<br />[[HOX6040]] Harjutuskohtuvõistlus<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HOR6011]] Inimõigused<br />[[HOE6050]] Intellektuaalne omand ja konkurentsiõigus<br />[[HOE6019]] Intellektuaalse omandi õigus<br />[[HOA6013]] Karistusõigus<br />[[HOA6026]] Keskkonnaõigus<br />[[HOE6044]] Kindlustusõigus<br />[[HOE6042]] Küberkaitse ja õigus<br />[[HOE6016]] Lepinguvälised võlasuhted<br />[[HOA6031]] Maksuõigus<br />[[HOA6014]] Normitehnika<br />[[HOX6050]] Õigusalane praktika<br />[[HOX6060]] Õiguse alused<br />[[HOX6031]] Õigusteooria<br />[[UTT0010]] Õpingukorraldus<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6014]] Pärimisõigus<br />[[HOE6015]] Perekonnaõigus<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOX6011]] Rahvusvaheline eraõigus<br />[[HOR6016]] Rahvusvaheline humanitaarõigus<br />[[HOA6030]] Rahvusvaheline maksuõigus<br />[[HOE6047]] Rahvusvaheline müügiõigus<br />[[HOA7002]] Riigiõigus<br />[[HHL0190]] Sotsioloogia alused<br />[[HOE6049]] Tarbijaõigus<br />[[HOX6021]] Teadustöö alused ja akadeemiline kirjutamine<br />[[HOE6020]] Tööõigus<br />[[HOE6051]] Tööstusomand<br />[[HOE6045]] Tsiviilõiguse üldosa<br />[[HOE6010]] Ühinguõigus<br />[[HOX6022]] Vaidluste kohtuväline lahendamine<br />[[HOR6014]] Välisriigi õigussüsteem<br />[[HOE6048]] Võlaõiguse eriosa<br />[[HOE6046]] Võlaõiguse üldosa<br />[[HOE6041]] Võrdlev perekonnaõigus<br /></p><h3>HAJB08/12 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50193&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HOE6011]] Asjaõigus<br />[[HOL6011]] EL konkurentsiõigus ja -poliitika<br />[[HOL6012]] EL siseturuõigus<br />[[HOL6014]] EL väliskaubandusõigus<br />[[IDK0301]] E-riigi infotehnoloogilised lahendused<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HOL6027]] Euroopa Liidu tolliliidu õigus ja poliitika<br />[[HOL6025]] Euroopa Liidu välissuhted<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HOA7003]] Haldusõigus<br />[[HOA6015]] Haldusõiguse eriosa<br />[[HOX6040]] Harjutuskohtuvõistlus<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HOR6011]] Inimõigused<br />[[HHI0050]] Innovatsioon<br />[[HOE6019]] Intellektuaalse omandi õigus<br />[[HOA6013]] Karistusõigus<br />[[HOA6026]] Keskkonnaõigus<br />[[HOE6016]] Lepinguvälised võlasuhted<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HOA6014]] Normitehnika<br />[[HOX6020]] Õigusalane kirjutamine<br />[[HOX6050]] Õigusalane praktika<br />[[HOX6060]] Õiguse alused<br />[[HOL6028]] Õigusel, turvalisusel ja vabadusel põhineva ala õigus ja poliitika<br />[[UTT0010]] Õpingukorraldus<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6014]] Pärimisõigus<br />[[HOE6015]] Perekonnaõigus<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0130]] Politoloogia alused<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOX6011]] Rahvusvaheline eraõigus<br />[[HOR6016]] Rahvusvaheline humanitaarõigus<br />[[HOE6034]] Rahvusvaheline lepinguõigus<br />[[HOE6035]] Rahvusvaheline majandusõigus<br />[[HOA7002]] Riigiõigus<br />[[HOE6012]] Rooma õigus<br />[[HOL6017]] Sideõigus<br />[[HOX6080]] Sissejuhatus menetlusõigusesse<br />[[HHL0190]] Sotsioloogia alused<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HOE6020]] Tööõigus<br />[[HOE6013]] Tsiviilõiguse üldosa<br />[[HOE6010]] Ühinguõigus<br />[[HOR6014]] Välisriigi õigussüsteem<br />[[HOE6036]] Võlaõiguse eriosa<br />[[HOE6017]] Võlaõiguse üldosa<br />[[HOE6033]] Võrdlev õigusteadus<br />[[HOR6024]] Võrdlev perekonna- ja pärimisõigus<br /></p><h3>HAJB08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50108&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HOE6011]] Asjaõigus<br />[[HOL6011]] EL konkurentsiõigus ja -poliitika<br />[[HOL6012]] EL siseturuõigus<br />[[HOL6014]] EL väliskaubandusõigus<br />[[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HHF3080]] Filosoofia<br />[[HOA7003]] Haldusõigus<br />[[HOA6015]] Haldusõiguse eriosa<br />[[HOX6040]] Harjutuskohtuvõistlus<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HOR6011]] Inimõigused<br />[[HHI0050]] Innovatsioon<br />[[HOE6019]] Intellektuaalse omandi õigus<br />[[HOA6013]] Karistusõigus<br />[[HOA6012]] Keskkonnaõigus<br />[[HHL0140]] Keskkonnapoliitika<br />[[HOE6016]] Lepinguvälised võlasuhted<br />[[HOA6014]] Normitehnika<br />[[HOX6020]] Õigusalane kirjutamine<br />[[HOX6050]] Õigusalane praktika<br />[[HOX6060]] Õiguse alused<br />[[HOX6030]] Õiguse entsüklopeedia<br />[[HOL6016]] Õiguskaitsevahendid ELis<br />[[UTT0010]] Õpingukorraldus<br />[[HPP0020]] Organisatsioonipsühholoogia alused<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6014]] Pärimisõigus<br />[[HOE6015]] Perekonnaõigus<br />[[HHL0130]] Politoloogia alused<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOX6011]] Rahvusvaheline eraõigus<br />[[HOR6016]] Rahvusvaheline humanitaarõigus<br />[[HOR6022]] Rahvusvaheline intellektuaalse omandi õigus<br />[[HOR6018]] Rahvusvaheline ja võrdlev tööõigus<br />[[HOR6015]] Rahvusvaheline lepinguõigus<br />[[HOR6023]] Rahvusvaheline majandusõigus<br />[[HOA7002]] Riigiõigus<br />[[HOE6012]] Rooma õigus<br />[[HOL6017]] Sideõigus<br />[[HOX6080]] Sissejuhatus menetlusõigusesse<br />[[HHL0190]] Sotsioloogia alused<br />[[HHL0220]] Teadustöö alused<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HOE6020]] Tööõigus<br />[[HOE6013]] Tsiviilõiguse üldosa<br />[[HOE6010]] Ühinguõigus<br />[[HOR6014]] Välisriigi õigussüsteem<br />[[HOE6021]] Võlaõiguse eriosa<br />[[HOE6017]] Võlaõiguse üldosa<br />[[HOR6019]] Võrdlev asjaõigus<br />[[HOR6012]] Võrdlev konstitutsiooniõigus<br />[[HOR6020]] Võrdlev kriminaalõigus<br />[[HOR6021]] Võrdlev lepinguõigus<br />[[HOR6013]] Võrdlev õigusteadus<br />[[HOR6024]] Võrdlev perekonna- ja pärimisõigus<br /></p><h3>HAJB08/08 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50114&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HOE6026]] Äriõigus<br />[[HOE6011]] Asjaõigus<br />[[HOA6020]] Eesti kaasaegne põhiseadus<br />[[HOL6012]] EL siseturuõigus<br />[[HOL6018]] EL tarbijakaitseõigus<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[TSK0170]] Filosoofia<br />[[HOE6027]] Finantsõigus<br />[[HOX6095]] Harjutuskohtu võistlused<br />[[TSK0020]] Inglise keel I<br />[[TSK0021]] Inglise keel II<br />[[TSK0022]] Inglise keel III<br />[[TSK0023]] Inglise keel IV<br />[[HOR6011]] Inimõigused<br />[[HOE6019]] Intellektuaalse omandi õigus<br />[[TIX3470]] Juhtimise alused<br />[[HOA6013]] Karistusõigus<br />[[HOA6012]] Keskkonnaõigus<br />[[HOE6024]] Konkurentsiõigus<br />[[HOA6019]] Kriminoloogia<br />[[HOE6016]] Lepinguvälised võlasuhted<br />[[HOE6028]] Maksuõigus<br />[[HOR6026]] Meedia ja õigus<br />[[HOR6028]] Mereõigus<br />[[HOA6022]] Norm ning normi kehtestamine: juriidiline ja sotsiaalne aspekt<br />[[HOX6020]] Õigusalane kirjutamine<br />[[TTO0100]] Õiguse alused<br />[[HOR6027]] Õiguse eetika<br />[[HOA6023]] Õiguspoliitika ja avalik õiguskord<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6030]] Perekonna- ja pärimisõigus<br />[[HOA6021]] Planeerimisõigus<br />[[HHL0130]] Politoloogia alused<br />[[HOX6090]] Praktika (12 nädalat)<br />[[HOX6091]] Praktika (8 nädalat)<br />[[HOX6092]] Praktika (9,5 nädalat)<br />[[HOX6093]] Praktika I (12 nädalat)<br />[[HOX6094]] Praktika II (12 nädalat)<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOA6017]] Psühholoogia õigusmenetluses<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOX6011]] Rahvusvaheline eraõigus<br />[[HOR6016]] Rahvusvaheline humanitaarõigus<br />[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus<br />[[HOA6016]] Riigi- ja haldusõigus<br />[[HOX6080]] Sissejuhatus menetlusõigusesse<br />[[HHL0190]] Sotsioloogia alused<br />[[HOE6025]] Tööõigus<br />[[HOA6018]] Töötervishoiu ja tööohutuse õiguslik regulatsioon<br />[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika<br />[[HOE6029]] Tsiviilkohtumenetlus<br />[[HOE6022]] Tsiviilõiguse üldosa<br />[[TSK0120]] Uurimistöö alused<br />[[HOR6014]] Välisriigi õigussüsteem<br />[[HOE6023]] Võlaõigus<br />[[HOR6024]] Võrdlev perekonna- ja pärimisõigus<br /></p>
+flags: 010101010
+blocks: &lt;include "HAJB08-14"&gt;
+	&lt;include "HAJB08-12"&gt;
+	&lt;include "HAJB08-09"&gt;
+	&lt;include "HAJB08-08"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== HAJB08/14 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50212</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[HOE6011]] Asjaõigus\\<br />&lt; [[HOL6011]] EL konkurentsiõigus ja -poliitika\\<br />&lt; [[HOL6012]] EL siseturuõigus\\<br />&lt; [[IDK0301]] E-riigi infotehnoloogilised lahendused\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[HOE6043]] Euroopa lepinguõiguse alused\\<br />&lt; [[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus\\<br />&lt; [[HOL6010]] Euroopa Liidu õigus\\<br />&lt; [[HHF1011]] Filosoofia ja loogika\\<br />&lt; [[HOA6029]] Haldusõigus\\<br />&lt; [[HOX6040]] Harjutuskohtuvõistlus\\<br />&lt; [[IDK0021]] Informaatika I (majandus ja humanitaar)\\<br />&lt; [[HOR6011]] Inimõigused\\<br />&lt; [[HOE6050]] Intellektuaalne omand ja konkurentsiõigus\\<br />&lt; [[HOE6019]] Intellektuaalse omandi õigus\\<br />&lt; [[HOA6013]] Karistusõigus\\<br />&lt; [[HOA6026]] Keskkonnaõigus\\<br />&lt; [[HOE6044]] Kindlustusõigus\\<br />&lt; [[HOE6042]] Küberkaitse ja õigus\\<br />&lt; [[HOE6016]] Lepinguvälised võlasuhted\\<br />&lt; [[HOA6031]] Maksuõigus\\<br />&lt; [[HOA6014]] Normitehnika\\<br />&lt; [[HOX6050]] Õigusalane praktika\\<br />&lt; [[HOX6060]] Õiguse alused\\<br />&lt; [[HOX6031]] Õigusteooria\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[HHP3170]] Organisatsioonipsühholoogia\\<br />&lt; [[HOE6018]] Pankrotiõigus\\<br />&lt; [[HOE6014]] Pärimisõigus\\<br />&lt; [[HOE6015]] Perekonnaõigus\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOX6011]] Rahvusvaheline eraõigus\\<br />&lt; [[HOR6016]] Rahvusvaheline humanitaarõigus\\<br />&lt; [[HOA6030]] Rahvusvaheline maksuõigus\\<br />&lt; [[HOE6047]] Rahvusvaheline müügiõigus\\<br />&lt; [[HOA7002]] Riigiõigus\\<br />&lt; [[HHL0190]] Sotsioloogia alused\\<br />&lt; [[HOE6049]] Tarbijaõigus\\<br />&lt; [[HOX6021]] Teadustöö alused ja akadeemiline kirjutamine\\<br />&lt; [[HOE6020]] Tööõigus\\<br />&lt; [[HOE6051]] Tööstusomand\\<br />&lt; [[HOE6045]] Tsiviilõiguse üldosa\\<br />&lt; [[HOE6010]] Ühinguõigus\\<br />&lt; [[HOX6022]] Vaidluste kohtuväline lahendamine\\<br />&lt; [[HOR6014]] Välisriigi õigussüsteem\\<br />&lt; [[HOE6048]] Võlaõiguse eriosa\\<br />&lt; [[HOE6046]] Võlaõiguse üldosa\\<br />&lt; [[HOE6041]] Võrdlev perekonnaõigus\\<br />&lt; ===</strong> HAJB08<strong class="changes">/12</strong> - <strong class="changes">Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50193&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[HOE6011]] Asjaõigus\\<br />&lt; [[HOL6011]] EL konkurentsiõigus ja -poliitika\\<br />&lt; [[HOL6012]] EL siseturuõigus\\<br />&lt; [[HOL6014]] EL väliskaubandusõigus\\<br />&lt; [[IDK0301]] E-riigi infotehnoloogilised lahendused\\<br />&lt; [[HOL6010]] Euroopa Liidu õigus\\<br />&lt; [[HOL6027]] Euroopa Liidu tolliliidu õigus ja poliitika\\<br />&lt; [[HOL6025]] Euroopa Liidu välissuhted\\<br />&lt; [[HOL6015]] Euroopa spordiõigus ja -poliitika\\<br />&lt; [[HOA7003]] Haldusõigus\\<br />&lt; [[HOA6015]] Haldusõiguse eriosa\\<br />&lt; [[HOX6040]] Harjutuskohtuvõistlus\\<br />&lt; [[IDK0021]] Informaatika I (majandus ja humanitaar)\\<br />&lt; [[HOR6011]] Inimõigused\\<br />&lt; [[HHI0050]] Innovatsioon\\<br />&lt; [[HOE6019]] Intellektuaalse omandi õigus\\<br />&lt; [[HOA6013]] Karistusõigus\\<br />&lt; [[HOA6026]] Keskkonnaõigus\\<br />&lt; [[HOE6016]] Lepinguvälised võlasuhted\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[HOA6014]] Normitehnika\\<br />&lt; [[HOX6020]] Õigusalane kirjutamine\\<br />&lt; [[HOX6050]] Õigusalane praktika\\<br />&lt; [[HOX6060]] Õiguse alused\\<br />&lt; [[HOL6028]] Õigusel, turvalisusel ja vabadusel põhineva ala õigus ja poliitika\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[HHP3170]] Organisatsioonipsühholoogia\\<br />&lt; [[HOE6018]] Pankrotiõigus\\<br />&lt; [[HOE6014]] Pärimisõigus\\<br />&lt; [[HOE6015]] Perekonnaõigus\\<br />&lt; [[HHF1030]] Poliitikafilosoofia\\<br />&lt; [[HHL0130]] Politoloogia alused\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOX6011]] Rahvusvaheline eraõigus\\<br />&lt; [[HOR6016]] Rahvusvaheline humanitaarõigus\\<br />&lt; [[HOE6034]] Rahvusvaheline lepinguõigus\\<br />&lt; [[HOE6035]] Rahvusvaheline majandusõigus\\<br />&lt; [[HOA7002]] Riigiõigus\\<br />&lt; [[HOE6012]] Rooma õigus\\<br />&lt; [[HOL6017]] Sideõigus\\<br />&lt; [[HOX6080]] Sissejuhatus menetlusõigusesse\\<br />&lt; [[HHL0190]] Sotsioloogia alused\\<br />&lt; [[TMT0050]] Töökeskkond ja ergonoomika\\<br />&lt; [[HOE6020]] Tööõigus\\<br />&lt; [[HOE6013]] Tsiviilõiguse üldosa\\<br />&lt; [[HOE6010]] Ühinguõigus\\<br />&lt; [[HOR6014]] Välisriigi õigussüsteem\\<br />&lt; [[HOE6036]] Võlaõiguse eriosa\\<br />&lt; [[HOE6017]] Võlaõiguse üldosa\\<br />&lt; [[HOE6033]] Võrdlev õigusteadus\\<br />&lt; [[HOR6024]] Võrdlev perekonna- ja pärimisõigus\\<br />&lt; ===</strong> HAJB08<strong class="changes">/09</strong> - <strong class="changes">Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50108&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[HOE6011]] Asjaõigus\\<br />&lt; [[HOL6011]] EL konkurentsiõigus ja -poliitika\\<br />&lt; [[HOL6012]] EL siseturuõigus\\<br />&lt; [[HOL6014]] EL väliskaubandusõigus\\<br />&lt; [[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus\\<br />&lt; [[HOL6010]] Euroopa Liidu õigus\\<br />&lt; [[HOL6015]] Euroopa spordiõigus ja -poliitika\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[HOA7003]] Haldusõigus\\<br />&lt; [[HOA6015]] Haldusõiguse eriosa\\<br />&lt; [[HOX6040]] Harjutuskohtuvõistlus\\<br />&lt; [[IDK0022]] Informaatika II (majandus ja humanitaar)\\<br />&lt; [[IDK0021]] Informaatika I (majandus ja humanitaar)\\<br />&lt; [[HOR6011]] Inimõigused\\<br />&lt; [[HHI0050]] Innovatsioon\\<br />&lt; [[HOE6019]] Intellektuaalse omandi õigus\\<br />&lt; [[HOA6013]] Karistusõigus\\<br />&lt; [[HOA6012]] Keskkonnaõigus\\<br />&lt; [[HHL0140]] Keskkonnapoliitika\\<br />&lt; [[HOE6016]] Lepinguvälised võlasuhted\\<br />&lt; [[HOA6014]] Normitehnika\\<br />&lt; [[HOX6020]] Õigusalane kirjutamine\\<br />&lt; [[HOX6050]] Õigusalane praktika\\<br />&lt; [[HOX6060]] Õiguse alused\\<br />&lt; [[HOX6030]] Õiguse entsüklopeedia\\<br />&lt; [[HOL6016]] Õiguskaitsevahendid ELis\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[HPP0020]] Organisatsioonipsühholoogia alused\\<br />&lt; [[HOE6018]] Pankrotiõigus\\<br />&lt; [[HOE6014]] Pärimisõigus\\<br />&lt; [[HOE6015]] Perekonnaõigus\\<br />&lt; [[HHL0130]] Politoloogia alused\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOX6011]] Rahvusvaheline eraõigus\\<br />&lt; [[HOR6016]] Rahvusvaheline humanitaarõigus\\<br />&lt; [[HOR6022]] Rahvusvaheline intellektuaalse omandi õigus\\<br />&lt; [[HOR6018]] Rahvusvaheline ja võrdlev tööõigus\\<br />&lt; [[HOR6015]] Rahvusvaheline lepinguõigus\\<br />&lt; [[HOR6023]] Rahvusvaheline majandusõigus\\<br />&lt; [[HOA7002]] Riigiõigus\\<br />&lt; [[HOE6012]] Rooma õigus\\<br />&lt; [[HOL6017]] Sideõigus\\<br />&lt; [[HOX6080]] Sissejuhatus menetlusõigusesse\\<br />&lt; [[HHL0190]] Sotsioloogia alused\\<br />&lt; [[HHL0220]] Teadustöö alused\\<br />&lt; [[TMT0050]] Töökeskkond ja ergonoomika\\<br />&lt; [[HOE6020]] Tööõigus\\<br />&lt; [[HOE6013]] Tsiviilõiguse üldosa\\<br />&lt; [[HOE6010]] Ühinguõigus\\<br />&lt; [[HOR6014]] Välisriigi õigussüsteem\\<br />&lt; [[HOE6021]] Võlaõiguse eriosa\\<br />&lt; [[HOE6017]] Võlaõiguse üldosa\\<br />&lt; [[HOR6019]] Võrdlev asjaõigus\\<br />&lt; [[HOR6012]] Võrdlev konstitutsiooniõigus\\<br />&lt; [[HOR6020]] Võrdlev kriminaalõigus\\<br />&lt; [[HOR6021]] Võrdlev lepinguõigus\\<br />&lt; [[HOR6013]] Võrdlev õigusteadus\\<br />&lt; [[HOR6024]] Võrdlev perekonna- ja pärimisõigus\\<br />&lt; ===</strong> HAJB08<strong class="changes">/08</strong> - <strong class="changes">Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50114&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HOE6026]] Äriõigus\\<br />&lt; [[HOE6011]] Asjaõigus\\<br />&lt; [[HOA6020]] Eesti kaasaegne põhiseadus\\<br />&lt; [[HOL6012]] EL siseturuõigus\\<br />&lt; [[HOL6018]] EL tarbijakaitseõigus\\<br />&lt; [[HOL6010]] Euroopa Liidu õigus\\<br />&lt; [[HOL6015]] Euroopa spordiõigus ja -poliitika\\<br />&lt; [[TSK0170]] Filosoofia\\<br />&lt; [[HOE6027]] Finantsõigus\\<br />&lt; [[HOX6095]] Harjutuskohtu võistlused\\<br />&lt; [[TSK0020]] Inglise keel I\\<br />&lt; [[TSK0021]] Inglise keel II\\<br />&lt; [[TSK0022]] Inglise keel III\\<br />&lt; [[TSK0023]] Inglise keel IV\\<br />&lt; [[HOR6011]] Inimõigused\\<br />&lt; [[HOE6019]] Intellektuaalse omandi õigus\\<br />&lt; [[TIX3470]] Juhtimise alused\\<br />&lt; [[HOA6013]] Karistusõigus\\<br />&lt; [[HOA6012]] Keskkonnaõigus\\<br />&lt; [[HOE6024]] Konkurentsiõigus\\<br />&lt; [[HOA6019]] Kriminoloogia\\<br />&lt; [[HOE6016]] Lepinguvälised võlasuhted\\<br />&lt; [[HOE6028]] Maksuõigus\\<br />&lt; [[HOR6026]] Meedia ja õigus\\<br />&lt; [[HOR6028]] Mereõigus\\<br />&lt; [[HOA6022]] Norm ning normi kehtestamine: juriidiline ja sotsiaalne aspekt\\<br />&lt; [[HOX6020]] Õigusalane kirjutamine\\<br />&lt; [[TTO0100]] Õiguse alused\\<br />&lt; [[HOR6027]] Õiguse eetika\\<br />&lt; [[HOA6023]] Õiguspoliitika ja avalik õiguskord\\<br />&lt; [[HOE6018]] Pankrotiõigus\\<br />&lt; [[HOE6030]] Perekonna- ja pärimisõigus\\<br />&lt; [[HOA6021]] Planeerimisõigus\\<br />&lt; [[HHL0130]] Politoloogia alused\\<br />&lt; [[HOX6090]] Praktika (12 nädalat)\\<br />&lt; [[HOX6091]] Praktika (8 nädalat)\\<br />&lt; [[HOX6092]] Praktika (9,5 nädalat)\\<br />&lt; [[HOX6093]] Praktika I (12 nädalat)\\<br />&lt; [[HOX6094]] Praktika II (12 nädalat)\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOA6017]] Psühholoogia õigusmenetluses\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOX6011]] Rahvusvaheline eraõigus\\<br />&lt; [[HOR6016]] Rahvusvaheline humanitaarõigus\\<br />&lt; [[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus\\<br />&lt; [[HOA6016]] Riigi- ja haldusõigus\\<br />&lt; [[HOX6080]] Sissejuhatus menetlusõigusesse\\<br />&lt; [[HHL0190]] Sotsioloogia alused\\<br />&lt; [[HOE6025]] Tööõigus\\<br />&lt; [[HOA6018]] Töötervishoiu ja tööohutuse õiguslik regulatsioon\\<br />&lt; [[HOR6029]] Tsiviil- ja kriminaalkohtu praktika\\<br />&lt; [[HOE6029]] Tsiviilkohtumenetlus\\<br />&lt; [[HOE6022]] Tsiviilõiguse üldosa\\<br />&lt; [[TSK0120]] Uurimistöö alused\\<br />&lt; [[HOR6014]] Välisriigi õigussüsteem\\<br />&lt; [[HOE6023]] Võlaõigus\\<br />&lt; [[HOR6024]] Võrdlev perekonna</strong>- <strong class="changes">ja pärimisõigus\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAJB08-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAJB08-<strong class="changes">12"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAJB08-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HAJB08</strong>-<strong class="changes">08"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203767
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885654
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === HAJB08/14 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50212&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[HOE6011]] Asjaõigus\\
-	[[HOL6011]] EL konkurentsiõigus ja -poliitika\\
-	[[HOL6012]] EL siseturuõigus\\
-	[[IDK0301]] E-riigi infotehnoloogilised lahendused\\
-	[[TMJ0110]] Ettevõtluse alused\\
-	[[HOE6043]] Euroopa lepinguõiguse alused\\
-	[[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus\\
-	[[HOL6010]] Euroopa Liidu õigus\\
-	[[HHF1011]] Filosoofia ja loogika\\
-	[[HOA6029]] Haldusõigus\\
-	[[HOX6040]] Harjutuskohtuvõistlus\\
-	[[IDK0021]] Informaatika I (majandus ja humanitaar)\\
-	[[HOR6011]] Inimõigused\\
-	[[HOE6050]] Intellektuaalne omand ja konkurentsiõigus\\
-	[[HOE6019]] Intellektuaalse omandi õigus\\
-	[[HOA6013]] Karistusõigus\\
-	[[HOA6026]] Keskkonnaõigus\\
-	[[HOE6044]] Kindlustusõigus\\
-	[[HOE6042]] Küberkaitse ja õigus\\
-	[[HOE6016]] Lepinguvälised võlasuhted\\
-	[[HOA6031]] Maksuõigus\\
-	[[HOA6014]] Normitehnika\\
-	[[HOX6050]] Õigusalane praktika\\
-	[[HOX6060]] Õiguse alused\\
-	[[HOX6031]] Õigusteooria\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[HHP3170]] Organisatsioonipsühholoogia\\
-	[[HOE6018]] Pankrotiõigus\\
-	[[HOE6014]] Pärimisõigus\\
-	[[HOE6015]] Perekonnaõigus\\
-	[[HOX6070]] Privaatsus- ja andmekaitseõigus\\
-	[[HOR6017]] Rahvusvaheline avalik õigus\\
-	[[HOX6011]] Rahvusvaheline eraõigus\\
-	[[HOR6016]] Rahvusvaheline humanitaarõigus\\
-	[[HOA6030]] Rahvusvaheline maksuõigus\\
-	[[HOE6047]] Rahvusvaheline müügiõigus\\
-	[[HOA7002]] Riigiõigus\\
-	[[HHL0190]] Sotsioloogia alused\\
-	[[HOE6049]] Tarbijaõigus\\
-	[[HOX6021]] Teadustöö alused ja akadeemiline kirjutamine\\
-	[[HOE6020]] Tööõigus\\
-	[[HOE6051]] Tööstusomand\\
-	[[HOE6045]] Tsiviilõiguse üldosa\\
-	[[HOE6010]] Ühinguõigus\\
-	[[HOX6022]] Vaidluste kohtuväline lahendamine\\
-	[[HOR6014]] Välisriigi õigussüsteem\\
-	[[HOE6048]] Võlaõiguse eriosa\\
-	[[HOE6046]] Võlaõiguse üldosa\\
-	[[HOE6041]] Võrdlev perekonnaõigus\\
-	=== HAJB08/12 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50193&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[HOE6011]] Asjaõigus\\
-	[[HOL6011]] EL konkurentsiõigus ja -poliitika\\
-	[[HOL6012]] EL siseturuõigus\\
-	[[HOL6014]] EL väliskaubandusõigus\\
-	[[IDK0301]] E-riigi infotehnoloogilised lahendused\\
-	[[HOL6010]] Euroopa Liidu õigus\\
-	[[HOL6027]] Euroopa Liidu tolliliidu õigus ja poliitika\\
-	[[HOL6025]] Euroopa Liidu välissuhted\\
-	[[HOL6015]] Euroopa spordiõigus ja -poliitika\\
-	[[HOA7003]] Haldusõigus\\
-	[[HOA6015]] Haldusõiguse eriosa\\
-	[[HOX6040]] Harjutuskohtuvõistlus\\
-	[[IDK0021]] Informaatika I (majandus ja humanitaar)\\
-	[[HOR6011]] Inimõigused\\
-	[[HHI0050]] Innovatsioon\\
-	[[HOE6019]] Intellektuaalse omandi õigus\\
-	[[HOA6013]] Karistusõigus\\
-	[[HOA6026]] Keskkonnaõigus\\
-	[[HOE6016]] Lepinguvälised võlasuhted\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[HOA6014]] Normitehnika\\
-	[[HOX6020]] Õigusalane kirjutamine\\
-	[[HOX6050]] Õigusalane praktika\\
-	[[HOX6060]] Õiguse alused\\
-	[[HOL6028]] Õigusel, turvalisusel ja vabadusel põhineva ala õigus ja poliitika\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[HHP3170]] Organisatsioonipsühholoogia\\
-	[[HOE6018]] Pankrotiõigus\\
-	[[HOE6014]] Pärimisõigus\\
-	[[HOE6015]] Perekonnaõigus\\
-	[[HHF1030]] Poliitikafilosoofia\\
-	[[HHL0130]] Politoloogia alused\\
-	[[HOX6070]] Privaatsus- ja andmekaitseõigus\\
-	[[HOR6017]] Rahvusvaheline avalik õigus\\
-	[[HOX6011]] Rahvusvaheline eraõigus\\
-	[[HOR6016]] Rahvusvaheline humanitaarõigus\\
-	[[HOE6034]] Rahvusvaheline lepinguõigus\\
-	[[HOE6035]] Rahvusvaheline majandusõigus\\
-	[[HOA7002]] Riigiõigus\\
-	[[HOE6012]] Rooma õigus\\
-	[[HOL6017]] Sideõigus\\
-	[[HOX6080]] Sissejuhatus menetlusõigusesse\\
-	[[HHL0190]] Sotsioloogia alused\\
-	[[TMT0050]] Töökeskkond ja ergonoomika\\
-	[[HOE6020]] Tööõigus\\
-	[[HOE6013]] Tsiviilõiguse üldosa\\
-	[[HOE6010]] Ühinguõigus\\
-	[[HOR6014]] Välisriigi õigussüsteem\\
-	[[HOE6036]] Võlaõiguse eriosa\\
-	[[HOE6017]] Võlaõiguse üldosa\\
-	[[HOE6033]] Võrdlev õigusteadus\\
-	[[HOR6024]] Võrdlev perekonna- ja pärimisõigus\\
-	=== HAJB08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50108&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[HOE6011]] Asjaõigus\\
-	[[HOL6011]] EL konkurentsiõigus ja -poliitika\\
-	[[HOL6012]] EL siseturuõigus\\
-	[[HOL6014]] EL väliskaubandusõigus\\
-	[[HOL6013]] Euroopa Liidu justiits- ja siseasjade õigus\\
-	[[HOL6010]] Euroopa Liidu õigus\\
-	[[HOL6015]] Euroopa spordiõigus ja -poliitika\\
-	[[HHF3080]] Filosoofia\\
-	[[HOA7003]] Haldusõigus\\
-	[[HOA6015]] Haldusõiguse eriosa\\
-	[[HOX6040]] Harjutuskohtuvõistlus\\
-	[[IDK0022]] Informaatika II (majandus ja humanitaar)\\
-	[[IDK0021]] Informaatika I (majandus ja humanitaar)\\
-	[[HOR6011]] Inimõigused\\
-	[[HHI0050]] Innovatsioon\\
-	[[HOE6019]] Intellektuaalse omandi õigus\\
-	[[HOA6013]] Karistusõigus\\
-	[[HOA6012]] Keskkonnaõigus\\
-	[[HHL0140]] Keskkonnapoliitika\\
-	[[HOE6016]] Lepinguvälised võlasuhted\\
-	[[HOA6014]] Normitehnika\\
-	[[HOX6020]] Õigusalane kirjutamine\\
-	[[HOX6050]] Õigusalane praktika\\
-	[[HOX6060]] Õiguse alused\\
-	[[HOX6030]] Õiguse entsüklopeedia\\
-	[[HOL6016]] Õiguskaitsevahendid ELis\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[HPP0020]] Organisatsioonipsühholoogia alused\\
-	[[HOE6018]] Pankrotiõigus\\
-	[[HOE6014]] Pärimisõigus\\
-	[[HOE6015]] Perekonnaõigus\\
-	[[HHL0130]] Politoloogia alused\\
-	[[HOX6070]] Privaatsus- ja andmekaitseõigus\\
-	[[HOR6017]] Rahvusvaheline avalik õigus\\
-	[[HOX6011]] Rahvusvaheline eraõigus\\
-	[[HOR6016]] Rahvusvaheline humanitaarõigus\\
-	[[HOR6022]] Rahvusvaheline intellektuaalse omandi õigus\\
-	[[HOR6018]] Rahvusvaheline ja võrdlev tööõigus\\
-	[[HOR6015]] Rahvusvaheline lepinguõigus\\
-	[[HOR6023]] Rahvusvaheline majandusõigus\\
-	[[HOA7002]] Riigiõigus\\
-	[[HOE6012]] Rooma õigus\\
-	[[HOL6017]] Sideõigus\\
-	[[HOX6080]] Sissejuhatus menetlusõigusesse\\
-	[[HHL0190]] Sotsioloogia alused\\
-	[[HHL0220]] Teadustöö alused\\
-	[[TMT0050]] Töökeskkond ja ergonoomika\\
-	[[HOE6020]] Tööõigus\\
-	[[HOE6013]] Tsiviilõiguse üldosa\\
-	[[HOE6010]] Ühinguõigus\\
-	[[HOR6014]] Välisriigi õigussüsteem\\
-	[[HOE6021]] Võlaõiguse eriosa\\
-	[[HOE6017]] Võlaõiguse üldosa\\
-	[[HOR6019]] Võrdlev asjaõigus\\
-	[[HOR6012]] Võrdlev konstitutsiooniõigus\\
-	[[HOR6020]] Võrdlev kriminaalõigus\\
-	[[HOR6021]] Võrdlev lepinguõigus\\
-	[[HOR6013]] Võrdlev õigusteadus\\
-	[[HOR6024]] Võrdlev perekonna- ja pärimisõigus\\
-	=== HAJB08/08 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50114&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HOE6026]] Äriõigus\\
-	[[HOE6011]] Asjaõigus\\
-	[[HOA6020]] Eesti kaasaegne põhiseadus\\
-	[[HOL6012]] EL siseturuõigus\\
-	[[HOL6018]] EL tarbijakaitseõigus\\
-	[[HOL6010]] Euroopa Liidu õigus\\
-	[[HOL6015]] Euroopa spordiõigus ja -poliitika\\
-	[[TSK0170]] Filosoofia\\
-	[[HOE6027]] Finantsõigus\\
-	[[HOX6095]] Harjutuskohtu võistlused\\
-	[[TSK0020]] Inglise keel I\\
-	[[TSK0021]] Inglise keel II\\
-	[[TSK0022]] Inglise keel III\\
-	[[TSK0023]] Inglise keel IV\\
-	[[HOR6011]] Inimõigused\\
-	[[HOE6019]] Intellektuaalse omandi õigus\\
-	[[TIX3470]] Juhtimise alused\\
-	[[HOA6013]] Karistusõigus\\
-	[[HOA6012]] Keskkonnaõigus\\
-	[[HOE6024]] Konkurentsiõigus\\
-	[[HOA6019]] Kriminoloogia\\
-	[[HOE6016]] Lepinguvälised võlasuhted\\
-	[[HOE6028]] Maksuõigus\\
-	[[HOR6026]] Meedia ja õigus\\
-	[[HOR6028]] Mereõigus\\
-	[[HOA6022]] Norm ning normi kehtestamine: juriidiline ja sotsiaalne aspekt\\
-	[[HOX6020]] Õigusalane kirjutamine\\
-	[[TTO0100]] Õiguse alused\\
-	[[HOR6027]] Õiguse eetika\\
-	[[HOA6023]] Õiguspoliitika ja avalik õiguskord\\
-	[[HOE6018]] Pankrotiõigus\\
-	[[HOE6030]] Perekonna- ja pärimisõigus\\
-	[[HOA6021]] Planeerimisõigus\\
-	[[HHL0130]] Politoloogia alused\\
-	[[HOX6090]] Praktika (12 nädalat)\\
-	[[HOX6091]] Praktika (8 nädalat)\\
-	[[HOX6092]] Praktika (9,5 nädalat)\\
-	[[HOX6093]] Praktika I (12 nädalat)\\
-	[[HOX6094]] Praktika II (12 nädalat)\\
-	[[HOX6070]] Privaatsus- ja andmekaitseõigus\\
-	[[HOA6017]] Psühholoogia õigusmenetluses\\
-	[[HOR6017]] Rahvusvaheline avalik õigus\\
-	[[HOX6011]] Rahvusvaheline eraõigus\\
-	[[HOR6016]] Rahvusvaheline humanitaarõigus\\
-	[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus\\
-	[[HOA6016]] Riigi- ja haldusõigus\\
-	[[HOX6080]] Sissejuhatus menetlusõigusesse\\
-	[[HHL0190]] Sotsioloogia alused\\
-	[[HOE6025]] Tööõigus\\
-	[[HOA6018]] Töötervishoiu ja tööohutuse õiguslik regulatsioon\\
-	[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika\\
-	[[HOE6029]] Tsiviilkohtumenetlus\\
-	[[HOE6022]] Tsiviilõiguse üldosa\\
-	[[TSK0120]] Uurimistöö alused\\
-	[[HOR6014]] Välisriigi õigussüsteem\\
-	[[HOE6023]] Võlaõigus\\
-	[[HOR6024]] Võrdlev perekonna- ja pärimisõigus\\
+text: <include "HAJB08-14">
+	
+	<include "HAJB08-12">
+	
+	<include "HAJB08-09">
+	
+	<include "HAJB08-08">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885654

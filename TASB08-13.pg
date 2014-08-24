@@ -1,0 +1,59 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TASB08/13 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50216&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSK0309]] Avalik esinemine<br />[[TMJ0110]] Ettevõtluse alused<br />[[TSE0012]] Euroopa integratsioon<br />[[TTP2200]] Euroopa Liidu õigus<br />[[HHF3080]] Filosoofia<br />[[TSK0160]] Globaliseerumine ja globaalprobleemid<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TMO2210]] Juhtimine<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TSK0301]] Kirjalik eneseväljendus I<br />[[TSK0303]] Kirjalik eneseväljendus II<br />[[TSK2001]] Kultuuridevaheline suhtlemine<br />[[TSK0013]] Loogika<br />[[TSK0141]] Maailma religioonide võrdlev analüüs<br />[[TTK0030]] Majandusgeograafia<br />[[TTP0010]] Majanduspoliitika<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[TTO0010]] Õiguse alused<br />[[UTT0010]] Õpingukorraldus<br />[[TMO2220]] Organisatsioonikäitumine<br />[[TSP0010]] Poliitiline filosoofia<br />[[TSP0250]] Poliitiline geograafia<br />[[TSP0100]] Praktika<br />[[TER0420]] Rahanduse alused<br />[[TSP0011]] Rahvusvaheline poliitökonoomia<br />[[TSP0043]] Rahvusvahelised julgeoleku-uuringud<br />[[TSP0032]] Rahvusvahelised konfliktid<br />[[TSP0081]] Rahvusvahelised organisatsioonid<br />[[TSP0071]] Rahvusvahelised suhted tänapäeval<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu<br />[[TSP0006]] Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TTS0100]] Sotsioloogia<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TMM0100]] Turundus<br />[[TSP0120]] USA sise- ja välispoliitika<br />[[TSK0120]] Uurimistöö alused<br />[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)<br />[[TSX0003]] Uurimistöö II (Põhiõppe uurimistöö)<br />[[TSP0130]] Venemaa ja SRÜ riigid<br />[[TSX0001]] Võõrkeel I<br />[[TSX0002]] Võõrkeel II<br />[[TSE0040]] XX sajandi Euroopa ajalugu</p>
+diff-minor: 
+ts: 1408891634
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TASB08/13 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50216&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TSK0309]] Avalik esinemine
+	[[TMJ0110]] Ettevõtluse alused
+	[[TSE0012]] Euroopa integratsioon
+	[[TTP2200]] Euroopa Liidu õigus
+	[[HHF3080]] Filosoofia
+	[[TSK0160]] Globaliseerumine ja globaalprobleemid
+	[[IDK0021]] Informaatika I (majandus ja humanitaar)
+	[[TMO2210]] Juhtimine
+	[[TTK0020]] Keskkonnaökonoomika
+	[[TSK0301]] Kirjalik eneseväljendus I
+	[[TSK0303]] Kirjalik eneseväljendus II
+	[[TSK2001]] Kultuuridevaheline suhtlemine
+	[[TSK0013]] Loogika
+	[[TSK0141]] Maailma religioonide võrdlev analüüs
+	[[TTK0030]] Majandusgeograafia
+	[[TTP0010]] Majanduspoliitika
+	[[TET3070]] Mikro- ja makroökonoomika
+	[[TTO0010]] Õiguse alused
+	[[UTT0010]] Õpingukorraldus
+	[[TMO2220]] Organisatsioonikäitumine
+	[[TSP0010]] Poliitiline filosoofia
+	[[TSP0250]] Poliitiline geograafia
+	[[TSP0100]] Praktika
+	[[TER0420]] Rahanduse alused
+	[[TSP0011]] Rahvusvaheline poliitökonoomia
+	[[TSP0043]] Rahvusvahelised julgeoleku-uuringud
+	[[TSP0032]] Rahvusvahelised konfliktid
+	[[TSP0081]] Rahvusvahelised organisatsioonid
+	[[TSP0071]] Rahvusvahelised suhted tänapäeval
+	[[TET0050]] Rahvusvahelise majanduse alused
+	[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu
+	[[TSP0006]] Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse
+	[[TSP0060]] Sissejuhatus politoloogiasse
+	[[TTS0100]] Sotsioloogia
+	[[TMT0050]] Töökeskkond ja ergonoomika
+	[[TMM0100]] Turundus
+	[[TSP0120]] USA sise- ja välispoliitika
+	[[TSK0120]] Uurimistöö alused
+	[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)
+	[[TSX0003]] Uurimistöö II (Põhiõppe uurimistöö)
+	[[TSP0130]] Venemaa ja SRÜ riigid
+	[[TSX0001]] Võõrkeel I
+	[[TSX0002]] Võõrkeel II
+	[[TSE0040]] XX sajandi Euroopa ajalugu
+	
+	
+keep-ts: 1408891634

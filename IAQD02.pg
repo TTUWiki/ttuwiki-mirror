@@ -1,119 +1,23 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50089&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[IDK9010]] Agentorienteeritud modelleerimise eriteemad<br />[[ISP9630]] Agentsüsteemide alused<br />[[ITV9190]] Andmebaasisüsteemide tehnoloogia eripeatükid<br />[[IDN9050]] Andmekaevandamise eriteemad<br />[[IEM9040]] Bioonika<br />[[IXX9611]] Doktorantide õpetamispraktika I<br />[[IXX9612]] Doktorantide õpetamispraktika II<br />[[IXX9601]] Doktoriseminar I<br />[[IXX9602]] Doktoriseminar II<br />[[IXX9603]] Doktoriseminar III<br />[[ISS9630]] Dünaamiliste süsteemide juhtimine<br />[[ISS9620]] Dünaamiliste süsteemide modelleerimine<br />[[IED9050]] Elektroonikadisain<br />[[IED9030]] Elektroonika ja bioonika<br />[[ITI9191]] Formaalmeetodite eripeatükid<br />[[HHP9010]] Juhtimispsühholoogia<br />[[ITT9130]] Konkreetne matemaatika<br />[[HHP9030]] Kõrgkoolididaktika<br />[[IDS9030]] Krüptograafia eriteemad<br />[[IRM9080]] Mikrolaineseadmete mudeldamine<br />[[IDU9070]] Mudelitel põhinevad arhitektuurid<br />[[IDU9060]] Nõuete analüüs - mudelil põhinev lähenemisviis<br />[[IAY9610]] Optimeerimisalgoritmid riistvara sünteesis<br />[[DBB9060]] Optosensoorika<br />[[IED9040]] Pooljuhtelektroonika<br />[[ISP9070]] Proaktiivtehnoloogiad<br />[[ITT9031]] Programmikeelte semantika<br />[[ITV9070]] Semantika ja analüütiline filosoofia<br />[[IRT9040]] Sideteooria<br />[[ISC9610]] Sidude ja süsteemide teooria<br />[[IRZ9041]] Stohhastiliste signaalide ja süsteemide erikursus<br />[[IAG9610]] Tarkvara projektijuhtimine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[IDX9022]] Tehisintellekti rakendused info- ja teadmussüsteemides<br />[[ISP9610]] Tehisintellekt ja reaalaeg<br />[[IAF9530]] Usaldusväärsed süsteemid<br />[[IAF9550]] Vigade ja rikete lokaliseerimine digitaalsüsteemides<br />[[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus<br /></p><h3>IAQD02/02 - Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1341&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[IRZ9010]] Adaptiivne signaalitöötlus<br />[[ISP9030]] Agentsüsteemide alused<br />[[IXX9510]] Ametipraktika<br />[[ITI9120]] Arvutiteaduse eriteemad<br />[[IAY9140]] Automaatide algebraline struktuuriteooria<br />[[ITV9150]] Automaatne teoreemitõestamine I<br />[[ITV9160]] Automaatne teoreemitõestamine II<br />[[IAY9110]] Digitaalsüsteemide kõrgtaseme süntees<br />[[IAF9110]] Digitaalsüsteemide testi erikursus<br />[[IRZ9020]] Diskreetsed juhuslikud signaalid ja nende töötlemine<br />[[IXX9500]] Doktoriseminar<br />[[ISS9030]] Dünaamiliste süsteemide juhtimine<br />[[ISS9020]] Dünaamiliste süsteemide modelleerimine<br />[[IED9020]] Elektroonikadisain<br />[[IED9010]] Elektroonika komponendid II: Hajumis- ja transpordinähtused pooljuhtides<br />[[IED9000]] Elektroonika komponendid I: Tänapäevase tahkiselektroonika probleemid<br />[[ITI9190]] Formaalne verifitseerimine<br />[[ITI9130]] Funktsionaalsete programmeerimiskeelte kompileerimine<br />[[ITI9100]] Hübriidsete süsteemide erikursus<br />[[IRT9160]] Info komprimeerimine<br />[[IDN9010]] Informaatika-alased alusuuringud I<br />[[IDN9020]] Informaatika-alased alusuuringud II<br />[[IDU9010]] Infosüsteemide arendamise eriteemad I<br />[[IDU9020]] Infosüsteemide arendamise eriteemad II<br />[[IDS9010]] Infoturbe eriteemad I<br />[[IDS9020]] Infoturbe eriteemad II<br />[[IRM9010]] Juhitavad antennivõred<br />[[HHP9010]] Juhtimispsühholoogia<br />[[YFT8191]] Kaasaegne füüsika  I<br />[[YFT8192]] Kaasaegne füüsika  II<br />[[IAF9120]] Kiipsüsteemide testimine ja diagnostika<br />[[HHP9020]] Kõrgkoolididaktika<br />[[IRO9130]] Kujundi digitaaltöötluse algoritmid<br />[[YMM9060]] Matemaatika doktorantidele I<br />[[YMR9140]] Matemaatika doktorantidele II<br />[[KCM9000]] Materjaliteaduse eripeatükid<br />[[IRM9030]] Mikrolaineseadmete matemaatiline mudeldamine<br />[[IDU9030]] Mudelitel põhinevad arhitektuurid I<br />[[IDU9040]] Mudelitel põhinevad arhitektuurid II<br />[[IRM9020]] Optilised süsteemid<br />[[IAY9120]] Optimeerimisalgoritmid<br />[[IAF9130]] Otsustusdiagrammid ja nende rakendused digitaaldiagnostikas<br />[[IRO9050]] Raadiosignaalide mitmetaktilised teisendused<br />[[TMK9160]] Rahvusvaheline äritegevus III<br />[[ISP9020]] Reaalaja tarkvara<br />[[IRZ9040]] Ruumiline signaalide töötlemine<br />[[IRT9070]] Sidesüsteemide struktuurid<br />[[IRT9030]] Sideteooria<br />[[ISC9020]] Sidude ja süsteemide disain<br />[[ISC9010]] Sidude ja süsteemide teooria<br />[[IRO9040]] Statistilise raadiotehnika erikursus<br />[[YFR8150]] Tahke keha füüsika<br />[[IDX9010]] Tarkvara kvaliteedijuhtimise ja standardite eriteemad<br />[[IAG9110]] Tarkvara projektijuhtimine<br />[[IAG9120]] Tarkvaraprotsesside kvaliteet<br />[[HHF9030]] Teadusfilosoofia<br />[[IXX9520]] Teadusgrantide taotluste koostamine ja kaitsmine<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[IDX9020]] Tehisintellekti rakendused info- ja teadmussüsteemides<br />[[ITV9170]] Tehisintellekti süsteemid internetis, semantiline võrk I<br />[[ITV9180]] Tehisintellekti süsteemid internetis, semantiline võrk II<br />[[ISP9010]] Tehisintellekt ja reaalaeg<br />[[IEM9000]] Tehnoloogia ja füsioloogia I: Biomimeetika<br />[[IEM9010]] Tehnoloogia ja füsioloogia II: Bioimpedants<br />[[IXX9530]] Uurimisteemakeskne individuaalõpe<br />[[IEM9020]] Voolutoime-elektroonika ja signaalitöötlus<br /></p>
+flags: 01010
+blocks: &lt;include "IAQD02-09"&gt;
+	&lt;include "IAQD02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50089</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IDK9010]] Agentorienteeritud modelleerimise eriteemad\\<br />&lt; [[ISP9630]] Agentsüsteemide alused\\<br />&lt; [[ITV9190]] Andmebaasisüsteemide tehnoloogia eripeatükid\\<br />&lt; [[IDN9050]] Andmekaevandamise eriteemad\\<br />&lt; [[IEM9040]] Bioonika\\<br />&lt; [[IXX9611]] Doktorantide õpetamispraktika I\\<br />&lt; [[IXX9612]] Doktorantide õpetamispraktika II\\<br />&lt; [[IXX9601]] Doktoriseminar I\\<br />&lt; [[IXX9602]] Doktoriseminar II\\<br />&lt; [[IXX9603]] Doktoriseminar III\\<br />&lt; [[ISS9630]] Dünaamiliste süsteemide juhtimine\\<br />&lt; [[ISS9620]] Dünaamiliste süsteemide modelleerimine\\<br />&lt; [[IED9050]] Elektroonikadisain\\<br />&lt; [[IED9030]] Elektroonika ja bioonika\\<br />&lt; [[ITI9191]] Formaalmeetodite eripeatükid\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[ITT9130]] Konkreetne matemaatika\\<br />&lt; [[HHP9030]] Kõrgkoolididaktika\\<br />&lt; [[IDS9030]] Krüptograafia eriteemad\\<br />&lt; [[IRM9080]] Mikrolaineseadmete mudeldamine\\<br />&lt; [[IDU9070]] Mudelitel põhinevad arhitektuurid\\<br />&lt; [[IDU9060]] Nõuete analüüs - mudelil põhinev lähenemisviis\\<br />&lt; [[IAY9610]] Optimeerimisalgoritmid riistvara sünteesis\\<br />&lt; [[DBB9060]] Optosensoorika\\<br />&lt; [[IED9040]] Pooljuhtelektroonika\\<br />&lt; [[ISP9070]] Proaktiivtehnoloogiad\\<br />&lt; [[ITT9031]] Programmikeelte semantika\\<br />&lt; [[ITV9070]] Semantika ja analüütiline filosoofia\\<br />&lt; [[IRT9040]] Sideteooria\\<br />&lt; [[ISC9610]] Sidude ja süsteemide teooria\\<br />&lt; [[IRZ9041]] Stohhastiliste signaalide ja süsteemide erikursus\\<br />&lt; [[IAG9610]] Tarkvara projektijuhtimine\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus- ja hariduskorraldus\\<br />&lt; [[IDX9022]] Tehisintellekti rakendused info- ja teadmussüsteemides\\<br />&lt; [[ISP9610]] Tehisintellekt ja reaalaeg\\<br />&lt; [[IAF9530]] Usaldusväärsed süsteemid\\<br />&lt; [[IAF9550]] Vigade ja rikete lokaliseerimine digitaalsüsteemides\\<br />&lt; [[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus\\<br />&lt; ===</strong> IAQD02<strong class="changes">/02</strong> - <strong class="changes">Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1341&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IRZ9010]] Adaptiivne signaalitöötlus\\<br />&lt; [[ISP9030]] Agentsüsteemide alused\\<br />&lt; [[IXX9510]] Ametipraktika\\<br />&lt; [[ITI9120]] Arvutiteaduse eriteemad\\<br />&lt; [[IAY9140]] Automaatide algebraline struktuuriteooria\\<br />&lt; [[ITV9150]] Automaatne teoreemitõestamine I\\<br />&lt; [[ITV9160]] Automaatne teoreemitõestamine II\\<br />&lt; [[IAY9110]] Digitaalsüsteemide kõrgtaseme süntees\\<br />&lt; [[IAF9110]] Digitaalsüsteemide testi erikursus\\<br />&lt; [[IRZ9020]] Diskreetsed juhuslikud signaalid ja nende töötlemine\\<br />&lt; [[IXX9500]] Doktoriseminar\\<br />&lt; [[ISS9030]] Dünaamiliste süsteemide juhtimine\\<br />&lt; [[ISS9020]] Dünaamiliste süsteemide modelleerimine\\<br />&lt; [[IED9020]] Elektroonikadisain\\<br />&lt; [[IED9010]] Elektroonika komponendid II: Hajumis- ja transpordinähtused pooljuhtides\\<br />&lt; [[IED9000]] Elektroonika komponendid I: Tänapäevase tahkiselektroonika probleemid\\<br />&lt; [[ITI9190]] Formaalne verifitseerimine\\<br />&lt; [[ITI9130]] Funktsionaalsete programmeerimiskeelte kompileerimine\\<br />&lt; [[ITI9100]] Hübriidsete süsteemide erikursus\\<br />&lt; [[IRT9160]] Info komprimeerimine\\<br />&lt; [[IDN9010]] Informaatika-alased alusuuringud I\\<br />&lt; [[IDN9020]] Informaatika-alased alusuuringud II\\<br />&lt; [[IDU9010]] Infosüsteemide arendamise eriteemad I\\<br />&lt; [[IDU9020]] Infosüsteemide arendamise eriteemad II\\<br />&lt; [[IDS9010]] Infoturbe eriteemad I\\<br />&lt; [[IDS9020]] Infoturbe eriteemad II\\<br />&lt; [[IRM9010]] Juhitavad antennivõred\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[YFT8191]] Kaasaegne füüsika  I\\<br />&lt; [[YFT8192]] Kaasaegne füüsika  II\\<br />&lt; [[IAF9120]] Kiipsüsteemide testimine ja diagnostika\\<br />&lt; [[HHP9020]] Kõrgkoolididaktika\\<br />&lt; [[IRO9130]] Kujundi digitaaltöötluse algoritmid\\<br />&lt; [[YMM9060]] Matemaatika doktorantidele I\\<br />&lt; [[YMR9140]] Matemaatika doktorantidele II\\<br />&lt; [[KCM9000]] Materjaliteaduse eripeatükid\\<br />&lt; [[IRM9030]] Mikrolaineseadmete matemaatiline mudeldamine\\<br />&lt; [[IDU9030]] Mudelitel põhinevad arhitektuurid I\\<br />&lt; [[IDU9040]] Mudelitel põhinevad arhitektuurid II\\<br />&lt; [[IRM9020]] Optilised süsteemid\\<br />&lt; [[IAY9120]] Optimeerimisalgoritmid\\<br />&lt; [[IAF9130]] Otsustusdiagrammid ja nende rakendused digitaaldiagnostikas\\<br />&lt; [[IRO9050]] Raadiosignaalide mitmetaktilised teisendused\\<br />&lt; [[TMK9160]] Rahvusvaheline äritegevus III\\<br />&lt; [[ISP9020]] Reaalaja tarkvara\\<br />&lt; [[IRZ9040]] Ruumiline signaalide töötlemine\\<br />&lt; [[IRT9070]] Sidesüsteemide struktuurid\\<br />&lt; [[IRT9030]] Sideteooria\\<br />&lt; [[ISC9020]] Sidude ja süsteemide disain\\<br />&lt; [[ISC9010]] Sidude ja süsteemide teooria\\<br />&lt; [[IRO9040]] Statistilise raadiotehnika erikursus\\<br />&lt; [[YFR8150]] Tahke keha füüsika\\<br />&lt; [[IDX9010]] Tarkvara kvaliteedijuhtimise ja standardite eriteemad\\<br />&lt; [[IAG9110]] Tarkvara projektijuhtimine\\<br />&lt; [[IAG9120]] Tarkvaraprotsesside kvaliteet\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[IXX9520]] Teadusgrantide taotluste koostamine ja kaitsmine\\<br />&lt; [[HUP9010]] Teadus- ja hariduskorraldus\\<br />&lt; [[IDX9020]] Tehisintellekti rakendused info- ja teadmussüsteemides\\<br />&lt; [[ITV9170]] Tehisintellekti süsteemid internetis, semantiline võrk I\\<br />&lt; [[ITV9180]] Tehisintellekti süsteemid internetis, semantiline võrk II\\<br />&lt; [[ISP9010]] Tehisintellekt ja reaalaeg\\<br />&lt; [[IEM9000]] Tehnoloogia ja füsioloogia I: Biomimeetika\\<br />&lt; [[IEM9010]] Tehnoloogia ja füsioloogia II: Bioimpedants\\<br />&lt; [[IXX9530]] Uurimisteemakeskne individuaalõpe\\<br />&lt; [[IEM9020]] Voolutoime</strong>-<strong class="changes">elektroonika ja signaalitöötlus\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IAQD02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IAQD02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203785
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885698
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50089&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[IDK9010]] Agentorienteeritud modelleerimise eriteemad\\
-	[[ISP9630]] Agentsüsteemide alused\\
-	[[ITV9190]] Andmebaasisüsteemide tehnoloogia eripeatükid\\
-	[[IDN9050]] Andmekaevandamise eriteemad\\
-	[[IEM9040]] Bioonika\\
-	[[IXX9611]] Doktorantide õpetamispraktika I\\
-	[[IXX9612]] Doktorantide õpetamispraktika II\\
-	[[IXX9601]] Doktoriseminar I\\
-	[[IXX9602]] Doktoriseminar II\\
-	[[IXX9603]] Doktoriseminar III\\
-	[[ISS9630]] Dünaamiliste süsteemide juhtimine\\
-	[[ISS9620]] Dünaamiliste süsteemide modelleerimine\\
-	[[IED9050]] Elektroonikadisain\\
-	[[IED9030]] Elektroonika ja bioonika\\
-	[[ITI9191]] Formaalmeetodite eripeatükid\\
-	[[HHP9010]] Juhtimispsühholoogia\\
-	[[ITT9130]] Konkreetne matemaatika\\
-	[[HHP9030]] Kõrgkoolididaktika\\
-	[[IDS9030]] Krüptograafia eriteemad\\
-	[[IRM9080]] Mikrolaineseadmete mudeldamine\\
-	[[IDU9070]] Mudelitel põhinevad arhitektuurid\\
-	[[IDU9060]] Nõuete analüüs - mudelil põhinev lähenemisviis\\
-	[[IAY9610]] Optimeerimisalgoritmid riistvara sünteesis\\
-	[[DBB9060]] Optosensoorika\\
-	[[IED9040]] Pooljuhtelektroonika\\
-	[[ISP9070]] Proaktiivtehnoloogiad\\
-	[[ITT9031]] Programmikeelte semantika\\
-	[[ITV9070]] Semantika ja analüütiline filosoofia\\
-	[[IRT9040]] Sideteooria\\
-	[[ISC9610]] Sidude ja süsteemide teooria\\
-	[[IRZ9041]] Stohhastiliste signaalide ja süsteemide erikursus\\
-	[[IAG9610]] Tarkvara projektijuhtimine\\
-	[[HHF9030]] Teadusfilosoofia\\
-	[[HUP9010]] Teadus- ja hariduskorraldus\\
-	[[IDX9022]] Tehisintellekti rakendused info- ja teadmussüsteemides\\
-	[[ISP9610]] Tehisintellekt ja reaalaeg\\
-	[[IAF9530]] Usaldusväärsed süsteemid\\
-	[[IAF9550]] Vigade ja rikete lokaliseerimine digitaalsüsteemides\\
-	[[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus\\
-	=== IAQD02/02 - Info- ja kommunikatsioonitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=1341&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[IRZ9010]] Adaptiivne signaalitöötlus\\
-	[[ISP9030]] Agentsüsteemide alused\\
-	[[IXX9510]] Ametipraktika\\
-	[[ITI9120]] Arvutiteaduse eriteemad\\
-	[[IAY9140]] Automaatide algebraline struktuuriteooria\\
-	[[ITV9150]] Automaatne teoreemitõestamine I\\
-	[[ITV9160]] Automaatne teoreemitõestamine II\\
-	[[IAY9110]] Digitaalsüsteemide kõrgtaseme süntees\\
-	[[IAF9110]] Digitaalsüsteemide testi erikursus\\
-	[[IRZ9020]] Diskreetsed juhuslikud signaalid ja nende töötlemine\\
-	[[IXX9500]] Doktoriseminar\\
-	[[ISS9030]] Dünaamiliste süsteemide juhtimine\\
-	[[ISS9020]] Dünaamiliste süsteemide modelleerimine\\
-	[[IED9020]] Elektroonikadisain\\
-	[[IED9010]] Elektroonika komponendid II: Hajumis- ja transpordinähtused pooljuhtides\\
-	[[IED9000]] Elektroonika komponendid I: Tänapäevase tahkiselektroonika probleemid\\
-	[[ITI9190]] Formaalne verifitseerimine\\
-	[[ITI9130]] Funktsionaalsete programmeerimiskeelte kompileerimine\\
-	[[ITI9100]] Hübriidsete süsteemide erikursus\\
-	[[IRT9160]] Info komprimeerimine\\
-	[[IDN9010]] Informaatika-alased alusuuringud I\\
-	[[IDN9020]] Informaatika-alased alusuuringud II\\
-	[[IDU9010]] Infosüsteemide arendamise eriteemad I\\
-	[[IDU9020]] Infosüsteemide arendamise eriteemad II\\
-	[[IDS9010]] Infoturbe eriteemad I\\
-	[[IDS9020]] Infoturbe eriteemad II\\
-	[[IRM9010]] Juhitavad antennivõred\\
-	[[HHP9010]] Juhtimispsühholoogia\\
-	[[YFT8191]] Kaasaegne füüsika  I\\
-	[[YFT8192]] Kaasaegne füüsika  II\\
-	[[IAF9120]] Kiipsüsteemide testimine ja diagnostika\\
-	[[HHP9020]] Kõrgkoolididaktika\\
-	[[IRO9130]] Kujundi digitaaltöötluse algoritmid\\
-	[[YMM9060]] Matemaatika doktorantidele I\\
-	[[YMR9140]] Matemaatika doktorantidele II\\
-	[[KCM9000]] Materjaliteaduse eripeatükid\\
-	[[IRM9030]] Mikrolaineseadmete matemaatiline mudeldamine\\
-	[[IDU9030]] Mudelitel põhinevad arhitektuurid I\\
-	[[IDU9040]] Mudelitel põhinevad arhitektuurid II\\
-	[[IRM9020]] Optilised süsteemid\\
-	[[IAY9120]] Optimeerimisalgoritmid\\
-	[[IAF9130]] Otsustusdiagrammid ja nende rakendused digitaaldiagnostikas\\
-	[[IRO9050]] Raadiosignaalide mitmetaktilised teisendused\\
-	[[TMK9160]] Rahvusvaheline äritegevus III\\
-	[[ISP9020]] Reaalaja tarkvara\\
-	[[IRZ9040]] Ruumiline signaalide töötlemine\\
-	[[IRT9070]] Sidesüsteemide struktuurid\\
-	[[IRT9030]] Sideteooria\\
-	[[ISC9020]] Sidude ja süsteemide disain\\
-	[[ISC9010]] Sidude ja süsteemide teooria\\
-	[[IRO9040]] Statistilise raadiotehnika erikursus\\
-	[[YFR8150]] Tahke keha füüsika\\
-	[[IDX9010]] Tarkvara kvaliteedijuhtimise ja standardite eriteemad\\
-	[[IAG9110]] Tarkvara projektijuhtimine\\
-	[[IAG9120]] Tarkvaraprotsesside kvaliteet\\
-	[[HHF9030]] Teadusfilosoofia\\
-	[[IXX9520]] Teadusgrantide taotluste koostamine ja kaitsmine\\
-	[[HUP9010]] Teadus- ja hariduskorraldus\\
-	[[IDX9020]] Tehisintellekti rakendused info- ja teadmussüsteemides\\
-	[[ITV9170]] Tehisintellekti süsteemid internetis, semantiline võrk I\\
-	[[ITV9180]] Tehisintellekti süsteemid internetis, semantiline võrk II\\
-	[[ISP9010]] Tehisintellekt ja reaalaeg\\
-	[[IEM9000]] Tehnoloogia ja füsioloogia I: Biomimeetika\\
-	[[IEM9010]] Tehnoloogia ja füsioloogia II: Bioimpedants\\
-	[[IXX9530]] Uurimisteemakeskne individuaalõpe\\
-	[[IEM9020]] Voolutoime-elektroonika ja signaalitöötlus\\
+text: <include "IAQD02-09">
+	
+	<include "IAQD02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885698

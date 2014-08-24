@@ -1,0 +1,55 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>KAOM02/02 - Materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=1000&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KMP0070]] Adhesioon ja adhesiivid<br />[[YGD3270]] Disain<br />[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[KYF0070]] Funktsionaalsed materjalid<br />[[MES0010]] Integreeritud tootearendus<br />[[KYF3630]] Keemiainformaatika<br />[[KAT3181]] Keemiatehnika alused<br />[[KMT0020]] Kiuteadus<br />[[KMT0140]] Kõrgsuutlikud materjalid<br />[[MHT0050]] Kvaliteeditehnika<br />[[KYP0060]] Materjalide füüsikalised uurimismeetodid<br />[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />[[YGD0050]] Moedisain<br />[[KMT0060]] Õmblusettevõtete tootmisseadmed<br />[[KMP0040]] Polümeeride füüsika, mehaanika ja testimine<br />[[KMP0060]] Polümeermaterjalide töötlemistehnika<br />[[YFR5420]] Pooljuhtide füüsika<br />[[KMM0040]] Puidu kuivatamine ja hüdrotermiline töötlemine<br />[[KMM0140]] Puidutööstuse arengusuunad<br />[[KMM0020]] Puidutööstuse masinad<br />[[KMM0050]] Puidutöötlemisettevõtete projekteerimine<br />[[KMM0070]] Puitpolümeerkomposiidid<br />[[KMM0100]] Puittoodete konstrueerimine<br />[[KMM0060]] Puittoodete tehnoloogia<br />[[KMT0160]] Raalintegreeritud tootmissüsteem rõivatööstuses<br />[[MER0050]] Raalprojekteerimine<br />[[KYF0040]] Rakenduselektrokeemia<br />[[KMT0040]] Rõivaste konstrueerimine I<br />[[KMT0170]] Rõivaste konstrueerimine II<br />[[KMT0050]] Rõivaste tootmistehnoloogia<br />[[KMM0030]] Saetööstuse tehnoloogia<br />[[KYF5310]] Tahke keha keemia<br />[[HLX8040]] Teadusvõõrkeel<br />[[MER0010]] Tehnoarendus ja innovatsioon<br />[[KMT0180]] Tekstiilikeemia<br />[[KMT0150]] Tekstiilitehnoloogiate alused<br />[[KMT0030]] Tekstiilmaterjaliõpetus II<br />[[MER0070]] Toodete ja protsesside modelleerimine<br />[[KMX0130]] Tootmispraktika<br />[[KMP0080]] Viimistlusmaterjalid</p>
+diff-minor: 
+ts: 1408891478
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KAOM02/02 - Materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=1000&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[KMP0070]] Adhesioon ja adhesiivid
+	[[YGD3270]] Disain
+	[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine
+	[[KYF0070]] Funktsionaalsed materjalid
+	[[MES0010]] Integreeritud tootearendus
+	[[KYF3630]] Keemiainformaatika
+	[[KAT3181]] Keemiatehnika alused
+	[[KMT0020]] Kiuteadus
+	[[KMT0140]] Kõrgsuutlikud materjalid
+	[[MHT0050]] Kvaliteeditehnika
+	[[KYP0060]] Materjalide füüsikalised uurimismeetodid
+	[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad
+	[[YGD0050]] Moedisain
+	[[KMT0060]] Õmblusettevõtete tootmisseadmed
+	[[KMP0040]] Polümeeride füüsika, mehaanika ja testimine
+	[[KMP0060]] Polümeermaterjalide töötlemistehnika
+	[[YFR5420]] Pooljuhtide füüsika
+	[[KMM0040]] Puidu kuivatamine ja hüdrotermiline töötlemine
+	[[KMM0140]] Puidutööstuse arengusuunad
+	[[KMM0020]] Puidutööstuse masinad
+	[[KMM0050]] Puidutöötlemisettevõtete projekteerimine
+	[[KMM0070]] Puitpolümeerkomposiidid
+	[[KMM0100]] Puittoodete konstrueerimine
+	[[KMM0060]] Puittoodete tehnoloogia
+	[[KMT0160]] Raalintegreeritud tootmissüsteem rõivatööstuses
+	[[MER0050]] Raalprojekteerimine
+	[[KYF0040]] Rakenduselektrokeemia
+	[[KMT0040]] Rõivaste konstrueerimine I
+	[[KMT0170]] Rõivaste konstrueerimine II
+	[[KMT0050]] Rõivaste tootmistehnoloogia
+	[[KMM0030]] Saetööstuse tehnoloogia
+	[[KYF5310]] Tahke keha keemia
+	[[HLX8040]] Teadusvõõrkeel
+	[[MER0010]] Tehnoarendus ja innovatsioon
+	[[KMT0180]] Tekstiilikeemia
+	[[KMT0150]] Tekstiilitehnoloogiate alused
+	[[KMT0030]] Tekstiilmaterjaliõpetus II
+	[[MER0070]] Toodete ja protsesside modelleerimine
+	[[KMX0130]] Tootmispraktika
+	[[KMP0080]] Viimistlusmaterjalid
+	
+	
+keep-ts: 1408891478

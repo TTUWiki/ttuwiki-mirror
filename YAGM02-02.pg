@@ -1,0 +1,54 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YAGM02/02 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=525&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ITI0050]] Algoritmid ja andmestruktuurid<br />[[YTM0032]] Arengubioloogia II<br />[[YTG0080]] Bakterigeneetika<br />[[YKB3330]] Biofüüsika<br />[[YTP0020]] Bioinformaatika vahendid proteoomikas<br />[[YTM0070]] Bioloogia ajalugu<br />[[YKB5220]] Biotehnoloogia  I<br />[[YKB1111]] Fermentatsioon ja rakudisain<br />[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid<br />[[YTG5015]] Geenitehnoloogia II<br />[[YTD0032]] Immunoloogia II<br />[[HLI8750]] Inglise teaduskeel<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YFT3191]] Kaasaegne füüsika  I<br />[[YTX0020]] Laboriseminarides osalemine<br />[[YKL0010]] Looduslike ühendite keemia I<br />[[YTX0040]] Magistripraktika<br />[[YKL0050]] Meditsiiniline keemia<br />[[YTM5012]] Molekulaarbioloogia II<br />[[YTD0070]] Molekulaarmeditsiin<br />[[YKB1112]] Molekulaarne biotehnoloogia<br />[[YTP0080]] Molekulaarne evolutsioon<br />[[YTD0062]] Molekulaarne viroloogia<br />[[YTM0042]] Neurobioloogia II<br />[[YTP0050]] Nukleiinhapete keemia<br />[[DMO0042]] Onkobioloogia<br />[[YTP0090]] Populatsioonigeneetika<br />[[ITI0010]] Programmeerimise põhikursus<br />[[YTM8022]] Rakubioloogia II<br />[[YTG0090]] Seente molekulaarbioloogia<br />[[YTG0100]] Selgrootute molekulaarbioloogia<br />[[YTX0011]] Seminarid või ettekanded geenitehnoloogiast I<br />[[YTX0012]] Seminarid või ettekanded geenitehnoloogiast II<br />[[HHF5201]] Sissejuhatus teadusfilosoofiasse<br />[[YTP8050]] Struktuuribioloogia<br />[[ITV0020]] Süsteemprogrammeerimine keeles C<br />[[YTG0110]] Taimede molekulaarbioloogia<br />[[DMK0090]] Üldpatoloogia<br />[[YTP0060]] Valkude ja suhkrute keemia</p>
+diff-minor: 
+ts: 1408891705
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YAGM02/02 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=525&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[ITI0050]] Algoritmid ja andmestruktuurid
+	[[YTM0032]] Arengubioloogia II
+	[[YTG0080]] Bakterigeneetika
+	[[YKB3330]] Biofüüsika
+	[[YTP0020]] Bioinformaatika vahendid proteoomikas
+	[[YTM0070]] Bioloogia ajalugu
+	[[YKB5220]] Biotehnoloogia  I
+	[[YKB1111]] Fermentatsioon ja rakudisain
+	[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid
+	[[YTG5015]] Geenitehnoloogia II
+	[[YTD0032]] Immunoloogia II
+	[[HLI8750]] Inglise teaduskeel
+	[[YKA3411]] Instrumentaalanalüüs
+	[[YFT3191]] Kaasaegne füüsika  I
+	[[YTX0020]] Laboriseminarides osalemine
+	[[YKL0010]] Looduslike ühendite keemia I
+	[[YTX0040]] Magistripraktika
+	[[YKL0050]] Meditsiiniline keemia
+	[[YTM5012]] Molekulaarbioloogia II
+	[[YTD0070]] Molekulaarmeditsiin
+	[[YKB1112]] Molekulaarne biotehnoloogia
+	[[YTP0080]] Molekulaarne evolutsioon
+	[[YTD0062]] Molekulaarne viroloogia
+	[[YTM0042]] Neurobioloogia II
+	[[YTP0050]] Nukleiinhapete keemia
+	[[DMO0042]] Onkobioloogia
+	[[YTP0090]] Populatsioonigeneetika
+	[[ITI0010]] Programmeerimise põhikursus
+	[[YTM8022]] Rakubioloogia II
+	[[YTG0090]] Seente molekulaarbioloogia
+	[[YTG0100]] Selgrootute molekulaarbioloogia
+	[[YTX0011]] Seminarid või ettekanded geenitehnoloogiast I
+	[[YTX0012]] Seminarid või ettekanded geenitehnoloogiast II
+	[[HHF5201]] Sissejuhatus teadusfilosoofiasse
+	[[YTP8050]] Struktuuribioloogia
+	[[ITV0020]] Süsteemprogrammeerimine keeles C
+	[[YTG0110]] Taimede molekulaarbioloogia
+	[[DMK0090]] Üldpatoloogia
+	[[YTP0060]] Valkude ja suhkrute keemia
+	
+	
+keep-ts: 1408891705

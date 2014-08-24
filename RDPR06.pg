@@ -1,110 +1,23 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>RDPR06/09 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50038&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[RAR2410]] Alajaamad<br />[[RAR1230]] Automaatika alused<br />[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus<br />[[RAR2360]] Elektervalgustus<br />[[RAR2340]] Elektriajamite üldkursus<br />[[RAR2490]] Elektriaparaadid<br />[[RAR2380]] Elektrijaamad<br />[[RAR2350]] Elektrimasinad<br />[[RAR2500]] Elektrivarustus<br />[[RAR2390]] Elektrivõrgud<br />[[RAR2430]] Elektroonika ja jõupooljuhttehnika<br />[[RAR3130]] Elektrotehnika<br />[[RAR2460]] Energiasüsteemid<br />[[RAR2370]] Energiasüsteemide ökonoomika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2513]] Erialapraktika I<br />[[RAR2514]] Erialapraktika II<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR2320]] Geoloogia alused<br />[[RAR3111]] Informaatika I<br />[[RAR1220]] Jõuelektroonika<br />[[RAR2400]] Keskkonnageoloogia<br />[[RAH3170]] Keskkonnakaitse<br />[[RAH0450]] Keskkonnakaitse mäetööstuses<br />[[RAR2470]] Kõrgepingeseadmed<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR0590]] Masinatehnika<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAR2511]] Õppepraktika<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAR2110]] Riski- ja ohutusõpetus<br />[[RAR2310]] Sissejuhatus energiatehnikasse<br />[[RAR2440]] Soojusgeneraatorid<br />[[RAR2330]] Soojusjõuseadmed<br />[[RAR2450]] Soojusmajandus<br />[[RAR3090]] Soojustehnika<br />[[RAR2480]] Soojustehnilised mõõtmised ja automaatika<br />[[RAR0461]] Tehniline füüsika I<br />[[RAR0462]] Tehniline füüsika II<br />[[RAR2420]] Tehnoloogia ja ajamid<br />[[RAR2512]] Töökeskkonna praktika<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus<br /></p><h3>RDPR06/06 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=3983&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[RAR2410]] Alajaamad<br />[[RAR1230]] Automaatika alused<br />[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus<br />[[RAR2360]] Elektervalgustus<br />[[RAR2340]] Elektriajamite üldkursus<br />[[RAR2490]] Elektriaparaadid<br />[[RAR2380]] Elektrijaamad<br />[[RAR2350]] Elektrimasinad<br />[[RAR2500]] Elektrivarustus<br />[[RAR2390]] Elektrivõrgud<br />[[RAR2430]] Elektroonika ja jõupooljuhttehnika<br />[[RAR3130]] Elektrotehnika<br />[[RAR2460]] Energiasüsteemid<br />[[RAR2370]] Energiasüsteemide ökonoomika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2513]] Erialapraktika I<br />[[RAR2514]] Erialapraktika II<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR2320]] Geoloogia alused<br />[[RAR3111]] Informaatika I<br />[[RAR1220]] Jõuelektroonika<br />[[RAR2400]] Keskkonnageoloogia<br />[[RAH3170]] Keskkonnakaitse<br />[[RAH0450]] Keskkonnakaitse mäetööstuses<br />[[RAR2470]] Kõrgepingeseadmed<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR0590]] Masinatehnika<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAH3140]] Õigusõpetus<br />[[RAR0010]] Õpingukorraldus<br />[[RAR2511]] Õppepraktika<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAR2110]] Riski- ja ohutusõpetus<br />[[RAR2310]] Sissejuhatus energiatehnikasse<br />[[RAR2440]] Soojusgeneraatorid<br />[[RAR2330]] Soojusjõuseadmed<br />[[RAR2450]] Soojusmajandus<br />[[RAR3090]] Soojustehnika<br />[[RAR2480]] Soojustehnilised mõõtmised ja automaatika<br />[[RAH0020]] Suuline eneseväljendus<br />[[RAR0461]] Tehniline füüsika I<br />[[RAR0462]] Tehniline füüsika II<br />[[RAR2420]] Tehnoloogia ja ajamid<br />[[RAR2512]] Töökeskkonna praktika<br />[[RAX0480]] Üldvõõrkeel<br /></p>
+flags: 01010
+blocks: &lt;include "RDPR06-09"&gt;
+	&lt;include "RDPR06-06"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== RDPR06/09 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50038&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[RAR2410]] Alajaamad\\<br />&lt; [[RAR1230]] Automaatika alused\\<br />&lt; [[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\<br />&lt; [[RAR2360]] Elektervalgustus\\<br />&lt; [[RAR2340]] Elektriajamite üldkursus\\<br />&lt; [[RAR2490]] Elektriaparaadid\\<br />&lt; [[RAR2380]] Elektrijaamad\\<br />&lt; [[RAR2350]] Elektrimasinad\\<br />&lt; [[RAR2500]] Elektrivarustus\\<br />&lt; [[RAR2390]] Elektrivõrgud\\<br />&lt; [[RAR2430]] Elektroonika ja jõupooljuhttehnika\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAR2460]] Energiasüsteemid\\<br />&lt; [[RAR2370]] Energiasüsteemide ökonoomika\\<br />&lt; [[RAX0511]] Erialane võõrkeel I\\<br />&lt; [[RAX0512]] Erialane võõrkeel II\\<br />&lt; [[RAR2513]] Erialapraktika I\\<br />&lt; [[RAR2514]] Erialapraktika II\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAR2320]] Geoloogia alused\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR1220]] Jõuelektroonika\\<br />&lt; [[RAR2400]] Keskkonnageoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAH0450]] Keskkonnakaitse mäetööstuses\\<br />&lt; [[RAR2470]] Kõrgepingeseadmed\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR3210]] Mikroprotsessortehnika\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR2800]] Õpingukorraldus\\<br />&lt; [[RAR2511]] Õppepraktika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR2110]] Riski- ja ohutusõpetus\\<br />&lt; [[RAR2310]] Sissejuhatus energiatehnikasse\\<br />&lt; [[RAR2440]] Soojusgeneraatorid\\<br />&lt; [[RAR2330]] Soojusjõuseadmed\\<br />&lt; [[RAR2450]] Soojusmajandus\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR2420]] Tehnoloogia ja ajamid\\<br />&lt; [[RAR2512]] Töökeskkonna praktika\\<br />&lt; [[RAX0480]] Üldvõõrkeel\\<br />&lt; [[RAH0740]] Väljendusõpetus\\<br />&lt; ===</strong> RDPR06<strong class="changes">/06</strong> - <strong class="changes">Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=3983&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[RAR2410]] Alajaamad\\<br />&lt; [[RAR1230]] Automaatika alused\\<br />&lt; [[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\<br />&lt; [[RAR2360]] Elektervalgustus\\<br />&lt; [[RAR2340]] Elektriajamite üldkursus\\<br />&lt; [[RAR2490]] Elektriaparaadid\\<br />&lt; [[RAR2380]] Elektrijaamad\\<br />&lt; [[RAR2350]] Elektrimasinad\\<br />&lt; [[RAR2500]] Elektrivarustus\\<br />&lt; [[RAR2390]] Elektrivõrgud\\<br />&lt; [[RAR2430]] Elektroonika ja jõupooljuhttehnika\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAR2460]] Energiasüsteemid\\<br />&lt; [[RAR2370]] Energiasüsteemide ökonoomika\\<br />&lt; [[RAX0511]] Erialane võõrkeel I\\<br />&lt; [[RAX0512]] Erialane võõrkeel II\\<br />&lt; [[RAR2513]] Erialapraktika I\\<br />&lt; [[RAR2514]] Erialapraktika II\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAR2320]] Geoloogia alused\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR1220]] Jõuelektroonika\\<br />&lt; [[RAR2400]] Keskkonnageoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAH0450]] Keskkonnakaitse mäetööstuses\\<br />&lt; [[RAR2470]] Kõrgepingeseadmed\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR3210]] Mikroprotsessortehnika\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR0010]] Õpingukorraldus\\<br />&lt; [[RAR2511]] Õppepraktika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR2110]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[RAR2310]] Sissejuhatus energiatehnikasse\\<br />&lt; [[RAR2440]] Soojusgeneraatorid\\<br />&lt; [[RAR2330]] Soojusjõuseadmed\\<br />&lt; [[RAR2450]] Soojusmajandus\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\<br />&lt; [[RAH0020]] Suuline eneseväljendus\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR2420]] Tehnoloogia ja ajamid\\<br />&lt; [[RAR2512]] Töökeskkonna praktika\\<br />&lt; [[RAX0480]] Üldvõõrkeel\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>RDPR06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "RDPR06</strong>-<strong class="changes">06"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203847
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885830
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === RDPR06/09 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50038&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[RAR2410]] Alajaamad\\
-	[[RAR1230]] Automaatika alused\\
-	[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\
-	[[RAR2360]] Elektervalgustus\\
-	[[RAR2340]] Elektriajamite üldkursus\\
-	[[RAR2490]] Elektriaparaadid\\
-	[[RAR2380]] Elektrijaamad\\
-	[[RAR2350]] Elektrimasinad\\
-	[[RAR2500]] Elektrivarustus\\
-	[[RAR2390]] Elektrivõrgud\\
-	[[RAR2430]] Elektroonika ja jõupooljuhttehnika\\
-	[[RAR3130]] Elektrotehnika\\
-	[[RAR2460]] Energiasüsteemid\\
-	[[RAR2370]] Energiasüsteemide ökonoomika\\
-	[[RAX0511]] Erialane võõrkeel I\\
-	[[RAX0512]] Erialane võõrkeel II\\
-	[[RAR2513]] Erialapraktika I\\
-	[[RAR2514]] Erialapraktika II\\
-	[[RAR0200]] Ettevõtte majandusõpetus\\
-	[[RAR2320]] Geoloogia alused\\
-	[[RAR3111]] Informaatika I\\
-	[[RAR1220]] Jõuelektroonika\\
-	[[RAR2400]] Keskkonnageoloogia\\
-	[[RAH3170]] Keskkonnakaitse\\
-	[[RAH0450]] Keskkonnakaitse mäetööstuses\\
-	[[RAR2470]] Kõrgepingeseadmed\\
-	[[RAR3050]] Lineaaralgebra\\
-	[[RAR3270]] Makro- ja mikroökonoomika\\
-	[[RAR0590]] Masinatehnika\\
-	[[RAR3061]] Matemaatiline analüüs I\\
-	[[RAR3210]] Mikroprotsessortehnika\\
-	[[RAH3140]] Õigusõpetus\\
-	[[RAR2800]] Õpingukorraldus\\
-	[[RAR2511]] Õppepraktika\\
-	[[RAR0540]] Rakendusmatemaatika\\
-	[[RAR2110]] Riski- ja ohutusõpetus\\
-	[[RAR2310]] Sissejuhatus energiatehnikasse\\
-	[[RAR2440]] Soojusgeneraatorid\\
-	[[RAR2330]] Soojusjõuseadmed\\
-	[[RAR2450]] Soojusmajandus\\
-	[[RAR3090]] Soojustehnika\\
-	[[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\
-	[[RAR0461]] Tehniline füüsika I\\
-	[[RAR0462]] Tehniline füüsika II\\
-	[[RAR2420]] Tehnoloogia ja ajamid\\
-	[[RAR2512]] Töökeskkonna praktika\\
-	[[RAX0480]] Üldvõõrkeel\\
-	[[RAH0740]] Väljendusõpetus\\
-	=== RDPR06/06 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=3983&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[RAR2410]] Alajaamad\\
-	[[RAR1230]] Automaatika alused\\
-	[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\
-	[[RAR2360]] Elektervalgustus\\
-	[[RAR2340]] Elektriajamite üldkursus\\
-	[[RAR2490]] Elektriaparaadid\\
-	[[RAR2380]] Elektrijaamad\\
-	[[RAR2350]] Elektrimasinad\\
-	[[RAR2500]] Elektrivarustus\\
-	[[RAR2390]] Elektrivõrgud\\
-	[[RAR2430]] Elektroonika ja jõupooljuhttehnika\\
-	[[RAR3130]] Elektrotehnika\\
-	[[RAR2460]] Energiasüsteemid\\
-	[[RAR2370]] Energiasüsteemide ökonoomika\\
-	[[RAX0511]] Erialane võõrkeel I\\
-	[[RAX0512]] Erialane võõrkeel II\\
-	[[RAR2513]] Erialapraktika I\\
-	[[RAR2514]] Erialapraktika II\\
-	[[RAR0200]] Ettevõtte majandusõpetus\\
-	[[RAR2320]] Geoloogia alused\\
-	[[RAR3111]] Informaatika I\\
-	[[RAR1220]] Jõuelektroonika\\
-	[[RAR2400]] Keskkonnageoloogia\\
-	[[RAH3170]] Keskkonnakaitse\\
-	[[RAH0450]] Keskkonnakaitse mäetööstuses\\
-	[[RAR2470]] Kõrgepingeseadmed\\
-	[[RAR3050]] Lineaaralgebra\\
-	[[RAR3270]] Makro- ja mikroökonoomika\\
-	[[RAR0590]] Masinatehnika\\
-	[[RAR3061]] Matemaatiline analüüs I\\
-	[[RAR3210]] Mikroprotsessortehnika\\
-	[[RAH3140]] Õigusõpetus\\
-	[[RAR0010]] Õpingukorraldus\\
-	[[RAR2511]] Õppepraktika\\
-	[[RAR0540]] Rakendusmatemaatika\\
-	[[RAR2110]] Riski- ja ohutusõpetus\\
-	[[RAR2310]] Sissejuhatus energiatehnikasse\\
-	[[RAR2440]] Soojusgeneraatorid\\
-	[[RAR2330]] Soojusjõuseadmed\\
-	[[RAR2450]] Soojusmajandus\\
-	[[RAR3090]] Soojustehnika\\
-	[[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\
-	[[RAH0020]] Suuline eneseväljendus\\
-	[[RAR0461]] Tehniline füüsika I\\
-	[[RAR0462]] Tehniline füüsika II\\
-	[[RAR2420]] Tehnoloogia ja ajamid\\
-	[[RAR2512]] Töökeskkonna praktika\\
-	[[RAX0480]] Üldvõõrkeel\\
+text: <include "RDPR06-09">
+	
+	<include "RDPR06-06">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885830

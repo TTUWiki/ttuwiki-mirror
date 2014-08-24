@@ -1,0 +1,52 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TATM02/09 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50057&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TMO1090]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[HOL7010]] EL siseturuõigus<br />[[TMO100P]] Erialapraktika<br />[[TER1420]] Ettevõtte rahandus<br />[[TER1420]] Ettevõtte rahandus (kõrvaleriala)<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TER1499]] Ettevõtte väärtuse hindamine (kõrvaleriala)<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TAF1010]] Finantsaruandlus ja -analüüs (kõrvaleriala)<br />[[TMO1021]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ1050]] Juhtimismäng<br />[[TMJ1091]] Kinnisvaraturundus<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TMK1150]] Operatsioonijuhtimine<br />[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TAF1130]] Rahvusvaheline arvestus<br />[[TAF1130]] Rahvusvaheline arvestus (kõrvaleriala)<br />[[TMM1220]] Rahvusvaheline turundus<br />[[TMO1041]] Strateegiline juhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine (kõrvaleriala)<br />[[TMM1180]] Strateegiline turundus<br />[[TMM1290]] Tarbijakäitumine<br />[[TMJ1081]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMM1070]] Tollindus<br />[[TMM1050]] Turunduskommunikatsioon II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM1230]] Turundusuuring II</p>
+diff-minor: 
+ts: 1408891643
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TATM02/09 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50057&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK1160]] Analüüsimeetodid äriuuringutes
+	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
+	[[TMO1090]] Äriühingute valitsemine
+	[[TMM1490]] Brändi juhtimine
+	[[HOL7010]] EL siseturuõigus
+	[[TMO100P]] Erialapraktika
+	[[TER1420]] Ettevõtte rahandus
+	[[TER1420]] Ettevõtte rahandus (kõrvaleriala)
+	[[TER1499]] Ettevõtte väärtuse hindamine
+	[[TER1499]] Ettevõtte väärtuse hindamine (kõrvaleriala)
+	[[TAF1010]] Finantsaruandlus ja -analüüs
+	[[TAF1010]] Finantsaruandlus ja -analüüs (kõrvaleriala)
+	[[TMO1021]] Inimressursi juhtimine
+	[[TMK1130]] Innovatsiooni juhtimine
+	[[TMJ1050]] Juhtimismäng
+	[[TMJ1091]] Kinnisvaraturundus
+	[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)
+	[[TMM1420]] Magistriseminar (turundus)
+	[[TMK1150]] Operatsioonijuhtimine
+	[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine
+	[[TMO1061]] Organisatsiooni ja juhtimise teooriad
+	[[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine
+	[[TMK1020]] Rahvusvaheline ärikorraldus
+	[[TAF1130]] Rahvusvaheline arvestus
+	[[TAF1130]] Rahvusvaheline arvestus (kõrvaleriala)
+	[[TMM1220]] Rahvusvaheline turundus
+	[[TMO1041]] Strateegiline juhtimine
+	[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine
+	[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine (kõrvaleriala)
+	[[TMM1180]] Strateegiline turundus
+	[[TMM1290]] Tarbijakäitumine
+	[[TMJ1081]] Tarneahela juhtimine
+	[[HLX8040]] Teadusvõõrkeel
+	[[TMM1070]] Tollindus
+	[[TMM1050]] Turunduskommunikatsioon II
+	[[TMM1280]] Turundussimulatsioon
+	[[TMM1230]] Turundusuuring II
+	
+	
+keep-ts: 1408891643

@@ -1,0 +1,67 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TACB08/08e - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50128&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMM0540]] Ärialane suhtlemine<br />[[TMK0130]] Ärieetika<br />[[TEM0326]] Äriinformaatika<br />[[TTO0120]] Äriõigus<br />[[TMM0500]] Äriturundus<br />[[TXX0110]] Bakalaureusetöö seminar<br />[[TEM0323]] Ettevõtte majandustarkvara lahendused<br />[[TER0430]] Ettevõtte rahandus<br />[[TSK0170]] Filosoofia<br />[[TAF0161]] Finantsarvestus I<br />[[TAF0162]] Finantsarvestus II<br />[[TAK0120]] Finantskontroll ja audiitorlus<br />[[TMM0120]] Hinnakujundus<br />[[TSK0020]] Inglise keel I<br />[[TSK0021]] Inglise keel II<br />[[TSK0022]] Inglise keel III<br />[[TSK0023]] Inglise keel IV<br />[[TMK0110]] Innovatsioon ja tootearendus<br />[[TER0530]] Investeeringute alused<br />[[TAK0110]] Juhtimisarvestus<br />[[TMO0070]] Juhtimise alused<br />[[TMO0080]] Juhtimissituatsioonide analüüs<br />[[TAK0140]] Kulude arvestus<br />[[TES0100]] Kvalitatiivsed ja kvantitatiivsed hindamismeetodid<br />[[TEM0324]] Majandusmatemaatika I<br />[[TEM0325]] Majandusmatemaatika II<br />[[TET0120]] Makroökonoomika<br />[[TAF0150]] Maksundus<br />[[TET0110]] Mikroökonoomika<br />[[TMO0090]] Muudatuste juhtimine ja õppiv organisatsioon<br />[[TTO0100]] Õiguse alused<br />[[TMK0120]] Operatsioonide ja logistika juhtimine<br />[[TMO0100]] Organisatsiooni ja inimressursi juhtimine<br />[[TMO0110]] Organisatsioonikäitumine<br />[[TMO0120]] Palgakorraldus<br />[[TXX081P]] Praktika<br />[[TER0230]] Raha ja pangandus<br />[[TER0660]] Rahvusvaheline finantsjuhtimine<br />[[TMM0170]] Reklaamipsühholoogia<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TER0330]] Sissejuhatus rahandusse<br />[[TTS0110]] Sotsioloogia<br />[[TES0121]] Statistika<br />[[TER0670]] Strateegiline finantsjuhtimine<br />[[TMO0130]] Strateegiline juhtimine<br />[[TMM0200]] Tarbijakäitumine<br />[[TMM0270]] Teenuste turundus<br />[[TMM0570]] Toetusmeetmestiku kujundamine<br />[[TET0100]] Töö-ökonoomika ja tööturg<br />[[TMM0150]] Turunduse alused<br />[[TMM0320]] Turu-uuring<br />[[TES0131]] Uurimistöö alused</p>
+diff-minor: 
+ts: 1408891610
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TACB08/08e - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50128&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMM0540]] Ärialane suhtlemine
+	[[TMK0130]] Ärieetika
+	[[TEM0326]] Äriinformaatika
+	[[TTO0120]] Äriõigus
+	[[TMM0500]] Äriturundus
+	[[TXX0110]] Bakalaureusetöö seminar
+	[[TEM0323]] Ettevõtte majandustarkvara lahendused
+	[[TER0430]] Ettevõtte rahandus
+	[[TSK0170]] Filosoofia
+	[[TAF0161]] Finantsarvestus I
+	[[TAF0162]] Finantsarvestus II
+	[[TAK0120]] Finantskontroll ja audiitorlus
+	[[TMM0120]] Hinnakujundus
+	[[TSK0020]] Inglise keel I
+	[[TSK0021]] Inglise keel II
+	[[TSK0022]] Inglise keel III
+	[[TSK0023]] Inglise keel IV
+	[[TMK0110]] Innovatsioon ja tootearendus
+	[[TER0530]] Investeeringute alused
+	[[TAK0110]] Juhtimisarvestus
+	[[TMO0070]] Juhtimise alused
+	[[TMO0080]] Juhtimissituatsioonide analüüs
+	[[TAK0140]] Kulude arvestus
+	[[TES0100]] Kvalitatiivsed ja kvantitatiivsed hindamismeetodid
+	[[TEM0324]] Majandusmatemaatika I
+	[[TEM0325]] Majandusmatemaatika II
+	[[TET0120]] Makroökonoomika
+	[[TAF0150]] Maksundus
+	[[TET0110]] Mikroökonoomika
+	[[TMO0090]] Muudatuste juhtimine ja õppiv organisatsioon
+	[[TTO0100]] Õiguse alused
+	[[TMK0120]] Operatsioonide ja logistika juhtimine
+	[[TMO0100]] Organisatsiooni ja inimressursi juhtimine
+	[[TMO0110]] Organisatsioonikäitumine
+	[[TMO0120]] Palgakorraldus
+	[[TXX081P]] Praktika
+	[[TER0230]] Raha ja pangandus
+	[[TER0660]] Rahvusvaheline finantsjuhtimine
+	[[TMM0170]] Reklaamipsühholoogia
+	[[TSP0060]] Sissejuhatus politoloogiasse
+	[[TER0330]] Sissejuhatus rahandusse
+	[[TTS0110]] Sotsioloogia
+	[[TES0121]] Statistika
+	[[TER0670]] Strateegiline finantsjuhtimine
+	[[TMO0130]] Strateegiline juhtimine
+	[[TMM0200]] Tarbijakäitumine
+	[[TMM0270]] Teenuste turundus
+	[[TMM0570]] Toetusmeetmestiku kujundamine
+	[[TET0100]] Töö-ökonoomika ja tööturg
+	[[TMM0150]] Turunduse alused
+	[[TMM0320]] Turu-uuring
+	[[TES0131]] Uurimistöö alused
+	
+	
+keep-ts: 1408891610

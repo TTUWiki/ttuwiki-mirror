@@ -1,0 +1,71 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>RDDR08/08 - Tootmise automatiseerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=5374&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAR0971]] Andmebaasid I<br />[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine<br />[[RAR1230]] Automaatika alused<br />[[RAR2540]] Automaatikasüsteemide projekteerimine<br />[[RAR1240]] Automaatikavahendid<br />[[RAR2690]] Automaatjuhtimissüsteemid<br />[[RAR1250]] Elektriajamid<br />[[RAR2350]] Elektrimasinad<br />[[RAR1320]] Elektrivarustus<br />[[RAR0810]] Elektroonika ja digitaaltehnika<br />[[RAR1260]] Elektropneumoautomaatika<br />[[RAR1211]] Elektrotehnika I<br />[[RAR1212]] Elektrotehnika II<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0670]] Erialane võõrkeel II<br />[[RAR2633]] Erialapraktika I<br />[[RAR2634]] Erialapraktika II<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR2720]] Hoonete automatiseerimine<br />[[RAR2750]] Hüdroautomaatika<br />[[RAR3111]] Informaatika I<br />[[RAR1192]] Informaatika II<br />[[RAR1780]] Internet-programmeerimine<br />[[RAR2670]] Jõuelektroonika<br />[[RAR0850]] Juhtimise alused<br />[[RAR1790]] Keel C ja objektorienteeritud programmeerimine<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3050]] Lineaaralgebra<br />[[RAR2710]] Loogika ja programmeerimine<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR1200]] Materjaliõpetus<br />[[RAR2650]] Metroloogia ja mõõtetehnika<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAH3140]] Õigusõpetus<br />[[RAR0010]] Õpingukorraldus<br />[[RAR2631]] Õppepraktika<br />[[RAR2530]] Programmeerimise alused<br />[[RAR1270]] Programmeeritavad kontrollerid<br />[[RAR2700]] Protsessijuhtimine<br />[[RAR2660]] Rakenduspaketid<br />[[RAR2110]] Riski- ja ohutusõpetus<br />[[RAR1300]] Robotitehnika<br />[[RAR1160]] Side<br />[[RAR2560]] Soojusautomaatika<br />[[RAH0660]] Suhtlemispsühholoogia<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2640]] Tehniline mehaanika<br />[[RAR2730]] Tehnoloogilised protsessid ja seadmed<br />[[RAR2632]] Töökeskkonna praktika<br />[[RAR1310]] Tööstuslik andmeside<br />[[RAR2740]] Tööstustehnoloogiad<br />[[RAR1280]] Tootmise automatiseerimine<br />[[RAR2680]] Tootmise automatiseerimine - projekt<br />[[RAX0480]] Üldvõõrkeel</p>
+diff-minor: 
+ts: 1408891555
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == RDDR08/08 - Tootmise automatiseerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=5374&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[RAR0971]] Andmebaasid I
+	[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine
+	[[RAR1230]] Automaatika alused
+	[[RAR2540]] Automaatikasüsteemide projekteerimine
+	[[RAR1240]] Automaatikavahendid
+	[[RAR2690]] Automaatjuhtimissüsteemid
+	[[RAR1250]] Elektriajamid
+	[[RAR2350]] Elektrimasinad
+	[[RAR1320]] Elektrivarustus
+	[[RAR0810]] Elektroonika ja digitaaltehnika
+	[[RAR1260]] Elektropneumoautomaatika
+	[[RAR1211]] Elektrotehnika I
+	[[RAR1212]] Elektrotehnika II
+	[[RAX0511]] Erialane võõrkeel I
+	[[RAX0670]] Erialane võõrkeel II
+	[[RAR2633]] Erialapraktika I
+	[[RAR2634]] Erialapraktika II
+	[[RAR0200]] Ettevõtte majandusõpetus
+	[[RAR2720]] Hoonete automatiseerimine
+	[[RAR2750]] Hüdroautomaatika
+	[[RAR3111]] Informaatika I
+	[[RAR1192]] Informaatika II
+	[[RAR1780]] Internet-programmeerimine
+	[[RAR2670]] Jõuelektroonika
+	[[RAR0850]] Juhtimise alused
+	[[RAR1790]] Keel C ja objektorienteeritud programmeerimine
+	[[RAH3170]] Keskkonnakaitse
+	[[RAR3050]] Lineaaralgebra
+	[[RAR2710]] Loogika ja programmeerimine
+	[[RAR3270]] Makro- ja mikroökonoomika
+	[[RAR3061]] Matemaatiline analüüs I
+	[[RAR3072]] Matemaatiline analüüs II
+	[[RAR1200]] Materjaliõpetus
+	[[RAR2650]] Metroloogia ja mõõtetehnika
+	[[RAR3210]] Mikroprotsessortehnika
+	[[RAH3140]] Õigusõpetus
+	[[RAR0010]] Õpingukorraldus
+	[[RAR2631]] Õppepraktika
+	[[RAR2530]] Programmeerimise alused
+	[[RAR1270]] Programmeeritavad kontrollerid
+	[[RAR2700]] Protsessijuhtimine
+	[[RAR2660]] Rakenduspaketid
+	[[RAR2110]] Riski- ja ohutusõpetus
+	[[RAR1300]] Robotitehnika
+	[[RAR1160]] Side
+	[[RAR2560]] Soojusautomaatika
+	[[RAH0660]] Suhtlemispsühholoogia
+	[[RAR1290]] Tehniline füüsika
+	[[RAR2640]] Tehniline mehaanika
+	[[RAR2730]] Tehnoloogilised protsessid ja seadmed
+	[[RAR2632]] Töökeskkonna praktika
+	[[RAR1310]] Tööstuslik andmeside
+	[[RAR2740]] Tööstustehnoloogiad
+	[[RAR1280]] Tootmise automatiseerimine
+	[[RAR2680]] Tootmise automatiseerimine - projekt
+	[[RAX0480]] Üldvõõrkeel
+	
+	
+keep-ts: 1408891555

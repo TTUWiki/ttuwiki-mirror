@@ -1,0 +1,48 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YVEM09/11 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50169&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DMK1800]] Andmete kodeerimine meditsiinis<br />[[IDY0275]] Äriinfosüsteemid<br />[[YTG0140]] Bioloogiline ohutus<br />[[MTM0160]] Biomaterjalid<br />[[DMK1010]] Epidemioloogia<br />[[DMK1014]] Erialased ettekanded ja seminarid<br />[[DMK1090]] E-tervise alused<br />[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen<br />[[EKK0051]] Hoonete sisekliima<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[DMK1011]] Inimese- ja haiguseõpetus, arstiabi<br />[[HPP8102]] Inimfaktor inseneriteaduses<br />[[YKA3411]] Instrumentaalanalüüs<br />[[TMT1120]] Keemilised ohutegurid ja tööhügieen<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega<br />[[DMK1013]] Magistriseminar<br />[[DMK1100]] Meditsiiniline kuvamine ja andmehõive<br />[[DMK1900]] Meditsiinis kasutatavad signaalid<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[IDK1011]] Programmeerimise algkursus<br />[[TMT1150]] Riskianalüüs ja riskide haldamine<br />[[TMT1260]] Riskihaldamise ökonoomika<br />[[TMT1220]] Sotsiaalkeskkonna riskid<br />[[DMK1700]] Teadustöö kavandamine<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[DMK1040]] Terviseedendus<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[DMK1050]] Töötervishoid<br />[[DMK1012]] Töö tervishoiuettevõttes<br />[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis</p>
+diff-minor: 
+ts: 1408891731
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YVEM09/11 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50169&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[DMK1800]] Andmete kodeerimine meditsiinis
+	[[IDY0275]] Äriinfosüsteemid
+	[[YTG0140]] Bioloogiline ohutus
+	[[MTM0160]] Biomaterjalid
+	[[DMK1010]] Epidemioloogia
+	[[DMK1014]] Erialased ettekanded ja seminarid
+	[[DMK1090]] E-tervise alused
+	[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen
+	[[EKK0051]] Hoonete sisekliima
+	[[IDU3390]] Infosüsteemi projekti juhtimine
+	[[IDU0021]] Infosüsteemi strateegiline analüüs
+	[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt
+	[[DMK1011]] Inimese- ja haiguseõpetus, arstiabi
+	[[HPP8102]] Inimfaktor inseneriteaduses
+	[[YKA3411]] Instrumentaalanalüüs
+	[[TMT1120]] Keemilised ohutegurid ja tööhügieen
+	[[MHT0060]] Kvaliteedijuhtimine
+	[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega
+	[[DMK1013]] Magistriseminar
+	[[DMK1100]] Meditsiiniline kuvamine ja andmehõive
+	[[DMK1900]] Meditsiinis kasutatavad signaalid
+	[[DMK1030]] Meditsiiniteooria ja -eetika
+	[[IDK1011]] Programmeerimise algkursus
+	[[TMT1150]] Riskianalüüs ja riskide haldamine
+	[[TMT1260]] Riskihaldamise ökonoomika
+	[[TMT1220]] Sotsiaalkeskkonna riskid
+	[[DMK1700]] Teadustöö kavandamine
+	[[HHL1250]] Tehnoloogia ja ühiskond
+	[[DMK1040]] Terviseedendus
+	[[TMT8260]] Töökeskkond ja ergonoomika
+	[[DMK1050]] Töötervishoid
+	[[DMK1012]] Töö tervishoiuettevõttes
+	[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis
+	
+	
+keep-ts: 1408891731

@@ -1,6 +1,15 @@
 flags: 01010101010101010101010
-blocks: <p>[[HAAB02]] Avalik haldus<br />[[HAKB02]] Halduskorraldus<br />[[HAJB08]] Õigusteadus<br /><br />[[HAAM02]] Avalik haldus<br />[[HAHM03]] Haldusjuhtimine<br />[[HAJM08]] Õigusteadus<br />[[HAPM10]] Personalitöö ja -arendus<br />[[HVJM12]] Tehnoloogiaõigus<br />[[HAGM09]] Tehnoloogia valitsemine<br />[[HVWM11]] Töö- ja organisatsioonipsühholoogia<br /><br />[[HAAD06]] Avalik haldus<br /><br /></p>
+blocks: <p>[[HAAB02]] Avalik haldus<br />[[HAKB02]] Halduskorraldus<br />[[HAJB08]] Õigusteadus</p><p>[[HAAM02]] Avalik haldus<br />[[HAHM03]] Haldusjuhtimine<br />[[HAJM08]] Õigusteadus<br />[[HAPM10]] Personalitöö ja -arendus<br />[[HVJM12]] Tehnoloogiaõigus<br />[[HAGM09]] Tehnoloogia valitsemine<br />[[HVWM11]] Töö- ja organisatsioonipsühholoogia</p><p>[[HAAD06]] Avalik haldus</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[HAAB02]] Avalik haldus<strong class="changes">\\</strong><br />&lt; [[HAKB02]] Halduskorraldus<strong class="changes">\\</strong><br />&lt; [[HAJB08]] Õigusteadus<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[HAAM02]] Avalik haldus<strong class="changes">\\</strong><br />&lt; [[HAHM03]] Haldusjuhtimine<strong class="changes">\\</strong><br />&lt; [[HAJM08]] Õigusteadus<strong class="changes">\\</strong><br />&lt; [[HAPM10]] Personalitöö ja -arendus<strong class="changes">\\</strong><br />&lt; [[HVJM12]] Tehnoloogiaõigus<strong class="changes">\\</strong><br />&lt; [[HAGM09]] Tehnoloogia valitsemine<strong class="changes">\\</strong><br />&lt; [[HVWM11]] Töö- ja organisatsioonipsühholoogia<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[HAAD06]] Avalik haldus<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[HAAB02]] Avalik haldus<br />&gt; [[HAKB02]] Halduskorraldus<br />&gt; [[HAJB08]] Õigusteadus<br />&gt; [[HAAM02]] Avalik haldus<br />&gt; [[HAHM03]] Haldusjuhtimine<br />&gt; [[HAJM08]] Õigusteadus<br />&gt; [[HAPM10]] Personalitöö ja -arendus<br />&gt; [[HVJM12]] Tehnoloogiaõigus<br />&gt; [[HAGM09]] Tehnoloogia valitsemine<br />&gt; [[HVWM11]] Töö- ja organisatsioonipsühholoogia<br />&gt; [[HAAD06]] Avalik haldus</p></div>
+ip: 89.235.235.166
+ts: 1408885849
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">HAAD06</strong>]] <strong class="changes">Avalik haldus</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">HAKB02</strong>]] <strong class="changes">Halduskorraldus\\<br />&gt; [[HAJB08]] Õigusteadus\\</strong><br />&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[HAGM09]] Tehnoloogia valitsemine\\</p></div><p><strong>Deleted:</strong></p>
@@ -8,29 +17,23 @@ diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[HAKB02]] Halduskorraldus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[HAGM09]] Tehnoloogia valitsemine\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[HAAD06]] Avalik haldus\\<br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265092
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[HAAB02]] Avalik haldus\\
-	[[HAKB02]] Halduskorraldus\\
-	[[HAJB08]] Õigusteadus\\
-	\\
-	[[HAAM02]] Avalik haldus\\
-	[[HAHM03]] Haldusjuhtimine\\
-	[[HAJM08]] Õigusteadus\\
-	[[HAPM10]] Personalitöö ja -arendus\\
-	[[HVJM12]] Tehnoloogiaõigus\\
-	[[HAGM09]] Tehnoloogia valitsemine\\
-	[[HVWM11]] Töö- ja organisatsioonipsühholoogia\\
-	\\
-	[[HAAD06]] Avalik haldus\\
-	\\
+text: [[HAAB02]] Avalik haldus
+	[[HAKB02]] Halduskorraldus
+	[[HAJB08]] Õigusteadus
+	
+	[[HAAM02]] Avalik haldus
+	[[HAHM03]] Haldusjuhtimine
+	[[HAJM08]] Õigusteadus
+	[[HAPM10]] Personalitöö ja -arendus
+	[[HVJM12]] Tehnoloogiaõigus
+	[[HAGM09]] Tehnoloogia valitsemine
+	[[HVWM11]] Töö- ja organisatsioonipsühholoogia
+	
+	[[HAAD06]] Avalik haldus
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265092
+keep-ts: 1408885849

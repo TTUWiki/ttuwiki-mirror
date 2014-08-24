@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>KVEM12/13 - Puidu- ja plastitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50205&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KMP0340]] Biopolümeerid: põhiolemus, tootmine ja kasutamine<br />[[KMX0550]] CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes<br />[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[KCM0350]] Materjalide biolagunemine<br />[[KMM0570]] Mööblitööstuse tehnoloogia<br />[[KMM0580]] Pehme mööbli tehnoloogia<br />[[KMP0311]] Plastitööstuse tehnoloogia 1<br />[[KMP0312]] Plastitööstuse tehnoloogia 2<br />[[KMP0350]] Polümeermaterjalide katsetamine<br />[[KMP0330]] Polümeermaterjalid: saamine ja omadused<br />[[KMP0320]] Polümeersete materjalide analüüsimeetodid<br />[[KMX0410]] Projekt 1<br />[[KMX0420]] Projekt 2<br />[[KMX0430]] Projekt 3<br />[[KMM0400]] Puidu ehitus, omadused ja esmatöötlus<br />[[KMM0460]] Puidu- ja plastijäätmete ringlussevõtt ja energiakasutus<br />[[KMM0420]] Puidutööstuse tehnoloogia<br />[[KMM0450]] Puitpolümeerkomposiidid<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[KMX0370]] Sissejuhatus õpingutesse<br />[[TES8140]] Statistiline analüüs<br />[[KYF0170]] Teadustöö ja innovatsioon<br />[[MER0070]] Toodete ja protsesside modelleerimine<br />[[MET8130]] Tootmise plaanimine ja juhtimine<br />[[KCM0360]] Tselluloosi tehnoloogiad</p>
+diff-minor: 
+ts: 1408891492
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KVEM12/13 - Puidu- ja plastitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=50205&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[KMP0340]] Biopolümeerid: põhiolemus, tootmine ja kasutamine
+	[[KMX0550]] CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes
+	[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine
+	[[KCM0350]] Materjalide biolagunemine
+	[[KMM0570]] Mööblitööstuse tehnoloogia
+	[[KMM0580]] Pehme mööbli tehnoloogia
+	[[KMP0311]] Plastitööstuse tehnoloogia 1
+	[[KMP0312]] Plastitööstuse tehnoloogia 2
+	[[KMP0350]] Polümeermaterjalide katsetamine
+	[[KMP0330]] Polümeermaterjalid: saamine ja omadused
+	[[KMP0320]] Polümeersete materjalide analüüsimeetodid
+	[[KMX0410]] Projekt 1
+	[[KMX0420]] Projekt 2
+	[[KMX0430]] Projekt 3
+	[[KMM0400]] Puidu ehitus, omadused ja esmatöötlus
+	[[KMM0460]] Puidu- ja plastijäätmete ringlussevõtt ja energiakasutus
+	[[KMM0420]] Puidutööstuse tehnoloogia
+	[[KMM0450]] Puitpolümeerkomposiidid
+	[[KAK8220]] Säästlik/puhtam tootmine
+	[[KMX0370]] Sissejuhatus õpingutesse
+	[[TES8140]] Statistiline analüüs
+	[[KYF0170]] Teadustöö ja innovatsioon
+	[[MER0070]] Toodete ja protsesside modelleerimine
+	[[MET8130]] Tootmise plaanimine ja juhtimine
+	[[KCM0360]] Tselluloosi tehnoloogiad
+	
+	
+keep-ts: 1408891492

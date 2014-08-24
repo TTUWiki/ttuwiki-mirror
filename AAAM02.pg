@@ -1,75 +1,23 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50058&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[AAR3380]] Automaatikasüsteemide raalprojekteerimine<br />[[AAR0120]] Elektertransport<br />[[AAV3350]] Elektervalgustus<br />[[AAV0090]] Elektriajamid - projekt<br />[[AAV0040]] Elektriajamite erikursus<br />[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine<br />[[AMM0010]] Elektrimasinate raalprojekteerimine<br />[[AAV0150]] Elektripaigaldised<br />[[AAV0140]] Elektriseadmete tõrked ja töökindlus<br />[[AAV3380]] Elektrivarustuse raalprojekteerimine<br />[[AAV0160]] Elektrivarustuse tulevikuvisioonid<br />[[AME0021]] Elektromagnetiline ühilduvus<br />[[AAR3390]] Elektroonikaseadmete raalprojekteerimine<br />[[AME0050]] Elektrotehnika erikursus<br />[[AMM3090]] Elektrotehnoloogia<br />[[AEK0040]] Energiapoliitika<br />[[AAV0170]] Energiatarbimise juhtimine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[AAR0130]] Hoone automaatikasüsteemid<br />[[AAV0130]] Inseneritöö alused<br />[[AAV0050]] Jõuelektroonika erikursus<br />[[IDK0061]] Keel C ja objektorienteeritud programmeerimine<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[AAR0080]] Robotitehnika erikursus<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV0300]] Tööpraktika 2<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AAR0070]] Tootmise automatiseerimise erikursus<br />[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas<br />[[AMM0031]] Väljateooria<br /></p><h3>AAAM02/02 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=886&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[AAR3380]] Automaatikasüsteemide raalprojekteerimine<br />[[AAV3350]] Elektervalgustus<br />[[AAV0090]] Elektriajamid - projekt<br />[[AAV0040]] Elektriajamite erikursus<br />[[AAV0070]] Elektriajamite ja tööstusautomaatika teadusseminar<br />[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine<br />[[AMM0010]] Elektrimasinate raalprojekteerimine<br />[[AAV5420]] Elektriseadmete häired ja töökindlus<br />[[AAV3380]] Elektrivarustuse raalprojekteerimine<br />[[AAR3390]] Elektroonikaseadmete raalprojekteerimine<br />[[AME0050]] Elektrotehnika erikursus<br />[[AEK0040]] Energiapoliitika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[AAV0050]] Jõuelektroonika erikursus<br />[[IDK0061]] Keel C ja objektorienteeritud programmeerimine<br />[[IDK0062]] Keel C ja objektorienteeritud programmeerimine - projekt<br />[[EKE3710]] Keskkonnakaitse<br />[[AMM0040]] Numbriline väljaanalüüs<br />[[TTO3160]] Õigusõpetus<br />[[AAR0080]] Robotitehnika erikursus<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AAR0070]] Tootmise automatiseerimise erikursus<br />[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas<br />[[AMM0030]] Väljateooria<br /></p>
+flags: 01010
+blocks: &lt;include "AAAM02-09"&gt;
+	&lt;include "AAAM02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50058&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[AAR3380]] Automaatikasüsteemide raalprojekteerimine\\<br />&lt; [[AAR0120]] Elektertransport\\<br />&lt; [[AAV3350]] Elektervalgustus\\<br />&lt; [[AAV0090]] Elektriajamid - projekt\\<br />&lt; [[AAV0040]] Elektriajamite erikursus\\<br />&lt; [[AAR0060]] Elektriajamite mikroprotsessorjuhtimine\\<br />&lt; [[AMM0010]] Elektrimasinate raalprojekteerimine\\<br />&lt; [[AAV0150]] Elektripaigaldised\\<br />&lt; [[AAV0140]] Elektriseadmete tõrked ja töökindlus\\<br />&lt; [[AAV3380]] Elektrivarustuse raalprojekteerimine\\<br />&lt; [[AAV0160]] Elektrivarustuse tulevikuvisioonid\\<br />&lt; [[AME0021]] Elektromagnetiline ühilduvus\\<br />&lt; [[AAR3390]] Elektroonikaseadmete raalprojekteerimine\\<br />&lt; [[AME0050]] Elektrotehnika erikursus\\<br />&lt; [[AMM3090]] Elektrotehnoloogia\\<br />&lt; [[AEK0040]] Energiapoliitika\\<br />&lt; [[AAV0170]] Energiatarbimise juhtimine\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[AAR0130]] Hoone automaatikasüsteemid\\<br />&lt; [[AAV0130]] Inseneritöö alused\\<br />&lt; [[AAV0050]] Jõuelektroonika erikursus\\<br />&lt; [[IDK0061]] Keel C ja objektorienteeritud programmeerimine\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[AAR0080]] Robotitehnika erikursus\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[YMR0120]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[AAV0300]] Tööpraktika 2\\<br />&lt; [[AAV3310]] Tooteloome ja leiundus\\<br />&lt; [[AAR0070]] Tootmise automatiseerimise erikursus\\<br />&lt; [[AAV5410]] Turundus ja ettevõtlus elektrotehnikas\\<br />&lt; [[AMM0031]] Väljateooria\\<br />&lt; ===</strong> AAAM02<strong class="changes">/02</strong> - <strong class="changes">Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=886&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[AAR3380]] Automaatikasüsteemide raalprojekteerimine\\<br />&lt; [[AAV3350]] Elektervalgustus\\<br />&lt; [[AAV0090]] Elektriajamid - projekt\\<br />&lt; [[AAV0040]] Elektriajamite erikursus\\<br />&lt; [[AAV0070]] Elektriajamite ja tööstusautomaatika teadusseminar\\<br />&lt; [[AAR0060]] Elektriajamite mikroprotsessorjuhtimine\\<br />&lt; [[AMM0010]] Elektrimasinate raalprojekteerimine\\<br />&lt; [[AAV5420]] Elektriseadmete häired ja töökindlus\\<br />&lt; [[AAV3380]] Elektrivarustuse raalprojekteerimine\\<br />&lt; [[AAR3390]] Elektroonikaseadmete raalprojekteerimine\\<br />&lt; [[AME0050]] Elektrotehnika erikursus\\<br />&lt; [[AEK0040]] Energiapoliitika\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[AAV0050]] Jõuelektroonika erikursus\\<br />&lt; [[IDK0061]] Keel C ja objektorienteeritud programmeerimine\\<br />&lt; [[IDK0062]] Keel C ja objektorienteeritud programmeerimine</strong> - <strong class="changes">projekt\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[AMM0040]] Numbriline väljaanalüüs\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[AAR0080]] Robotitehnika erikursus\\<br />&lt; [[HHP3800]] Suhtlemispsühholoogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[YMR0120]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[AAV3310]] Tooteloome ja leiundus\\<br />&lt; [[AAR0070]] Tootmise automatiseerimise erikursus\\<br />&lt; [[AAV5410]] Turundus ja ettevõtlus elektrotehnikas\\<br />&lt; [[AMM0030]] Väljateooria\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>AAAM02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "AAAM02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203586
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885540
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=50058&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[AAR3380]] Automaatikasüsteemide raalprojekteerimine\\
-	[[AAR0120]] Elektertransport\\
-	[[AAV3350]] Elektervalgustus\\
-	[[AAV0090]] Elektriajamid - projekt\\
-	[[AAV0040]] Elektriajamite erikursus\\
-	[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine\\
-	[[AMM0010]] Elektrimasinate raalprojekteerimine\\
-	[[AAV0150]] Elektripaigaldised\\
-	[[AAV0140]] Elektriseadmete tõrked ja töökindlus\\
-	[[AAV3380]] Elektrivarustuse raalprojekteerimine\\
-	[[AAV0160]] Elektrivarustuse tulevikuvisioonid\\
-	[[AME0021]] Elektromagnetiline ühilduvus\\
-	[[AAR3390]] Elektroonikaseadmete raalprojekteerimine\\
-	[[AME0050]] Elektrotehnika erikursus\\
-	[[AMM3090]] Elektrotehnoloogia\\
-	[[AEK0040]] Energiapoliitika\\
-	[[AAV0170]] Energiatarbimise juhtimine\\
-	[[TMJ3330]] Ettevõtte majandusõpetus\\
-	[[HHF3080]] Filosoofia\\
-	[[AAR0130]] Hoone automaatikasüsteemid\\
-	[[AAV0130]] Inseneritöö alused\\
-	[[AAV0050]] Jõuelektroonika erikursus\\
-	[[IDK0061]] Keel C ja objektorienteeritud programmeerimine\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[IAG0581]] Programmeerimine I\\
-	[[IAG0582]] Programmeerimine II\\
-	[[AAR0080]] Robotitehnika erikursus\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[AAV0300]] Tööpraktika 2\\
-	[[AAV3310]] Tooteloome ja leiundus\\
-	[[AAR0070]] Tootmise automatiseerimise erikursus\\
-	[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas\\
-	[[AMM0031]] Väljateooria\\
-	=== AAAM02/02 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=886&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[AAR3380]] Automaatikasüsteemide raalprojekteerimine\\
-	[[AAV3350]] Elektervalgustus\\
-	[[AAV0090]] Elektriajamid - projekt\\
-	[[AAV0040]] Elektriajamite erikursus\\
-	[[AAV0070]] Elektriajamite ja tööstusautomaatika teadusseminar\\
-	[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine\\
-	[[AMM0010]] Elektrimasinate raalprojekteerimine\\
-	[[AAV5420]] Elektriseadmete häired ja töökindlus\\
-	[[AAV3380]] Elektrivarustuse raalprojekteerimine\\
-	[[AAR3390]] Elektroonikaseadmete raalprojekteerimine\\
-	[[AME0050]] Elektrotehnika erikursus\\
-	[[AEK0040]] Energiapoliitika\\
-	[[TMJ3330]] Ettevõtte majandusõpetus\\
-	[[AAV0050]] Jõuelektroonika erikursus\\
-	[[IDK0061]] Keel C ja objektorienteeritud programmeerimine\\
-	[[IDK0062]] Keel C ja objektorienteeritud programmeerimine - projekt\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[AMM0040]] Numbriline väljaanalüüs\\
-	[[TTO3160]] Õigusõpetus\\
-	[[AAR0080]] Robotitehnika erikursus\\
-	[[HHP3800]] Suhtlemispsühholoogia\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[AAV3310]] Tooteloome ja leiundus\\
-	[[AAR0070]] Tootmise automatiseerimise erikursus\\
-	[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas\\
-	[[AMM0030]] Väljateooria\\
+text: <include "AAAM02-09">
+	
+	<include "AAAM02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885540

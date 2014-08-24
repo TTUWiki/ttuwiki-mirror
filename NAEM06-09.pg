@@ -1,0 +1,42 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>NAEM06/09 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50096&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTK1160]] Arenguökonoomika<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0800]] Biomitmekesisuse korraldus ja -poliitika<br />[[NTS1330]] Ettevõtluse alused<br />[[NTK0810]] Euroopa Liidu ja Eesti keskkonnapoliitika<br />[[NTK0120]] Globaalsed keskkonnaprobleemid<br />[[NTK0680]] Juhtimine<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0830]] Keskkonnakorraldus<br />[[NTK0770]] Keskkonnapoliitika<br />[[NTK1040]] Keskkonnaseire<br />[[NTK1030]] Keskkonnateadlikkus ja keskkonnaharidus<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTK0490]] Klimatoloogia<br />[[NTM0320]] Kultuurmaastikud<br />[[NTK1050]] Magistripraktika<br />[[NTK1150]] Materjalivoogude analüüs<br />[[NTK1130]] Ökoinnovatsioon<br />[[NTK1110]] Praktiline keskkonnaökonoomika<br />[[NTK1080]] Regionaalareng ja -planeerimine<br />[[NTK0750]] Säästev areng<br />[[NTM0870]] Sissejuhatus semiootikasse<br />[[NTK0960]] Suhtlemispsühholoogia<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1100]] Tööstusökoloogia töövahendid</p>
+diff-minor: 
+ts: 1408891541
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == NAEM06/09 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50096&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NTK1160]] Arenguökonoomika
+	[[NTK0720]] Bioloogiline mitmekesisus
+	[[NTK0800]] Biomitmekesisuse korraldus ja -poliitika
+	[[NTS1330]] Ettevõtluse alused
+	[[NTK0810]] Euroopa Liidu ja Eesti keskkonnapoliitika
+	[[NTK0120]] Globaalsed keskkonnaprobleemid
+	[[NTK0680]] Juhtimine
+	[[NTM0070]] Juhtimispsühholoogia
+	[[NTK0830]] Keskkonnakorraldus
+	[[NTK0770]] Keskkonnapoliitika
+	[[NTK1040]] Keskkonnaseire
+	[[NTK1030]] Keskkonnateadlikkus ja keskkonnaharidus
+	[[NTK0790]] Keskkonnatehnoloogiad
+	[[NTK0490]] Klimatoloogia
+	[[NTM0320]] Kultuurmaastikud
+	[[NTK1050]] Magistripraktika
+	[[NTK1150]] Materjalivoogude analüüs
+	[[NTK1130]] Ökoinnovatsioon
+	[[NTK1110]] Praktiline keskkonnaökonoomika
+	[[NTK1080]] Regionaalareng ja -planeerimine
+	[[NTK0750]] Säästev areng
+	[[NTM0870]] Sissejuhatus semiootikasse
+	[[NTK0960]] Suhtlemispsühholoogia
+	[[NTK0690]] Teadustöö metodoloogia
+	[[NTX0020]] Teadusvõõrkeel
+	[[NTK0430]] Tööstuslikud ökosüsteemid
+	[[NTK1100]] Tööstusökoloogia töövahendid
+	
+	
+keep-ts: 1408891541

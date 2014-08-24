@@ -1,0 +1,57 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YASM02/09 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50059&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YKX0011]] Ametipraktika magistrantidele<br />[[YKI0050]] Anorgaaniline keemia II<br />[[YTG0140]] Bioloogiline ohutus<br />[[TMT1130]] Bioloogilised ohutegurid<br />[[YKL0080]] Ensüümkatalüüs orgaanilises sünteesis<br />[[DMK1010]] Epidemioloogia<br />[[KYF0022]] Füüsikaline keemia II<br />[[YKM0060]] Füüsikaline orgaaniline keemia<br />[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen<br />[[YTP0070]] Genoomika ja proteoomika<br />[[DMK1020]] Haiguseõpetus ja arstiabi<br />[[HHI0050]] Innovatsioon<br />[[YKM0070]] Keemiatarkvara<br />[[TMT1120]] Keemilised ohutegurid ja tööhügieen<br />[[YKO0090]] Keemiliste reaktsioonide mehhanismid<br />[[YKA0042]] Kemomeetria<br />[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia<br />[[YKB1120]] Kultiveerimine ja rakudisain<br />[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes<br />[[YKA0040]] Lahutusmeetodid keemias<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YKA0041]] Massispektromeetria<br />[[YKL0090]] Meditsiiniline keemia<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[YTD0011]] Molekulaardiagnostika<br />[[YKM0020]] Molekulaardisain<br />[[DMK0070]] Molekulaarmeditsiin<br />[[YKM0080]] Molekulaartootmine<br />[[YTP0051]] Nukleiinhapete keemia<br />[[YKO5313]] Orgaaniline süntees - ainetöö<br />[[YKO0100]] Orgaanilise sünteesi meetodid<br />[[YTM8022]] Rakubioloogia II<br />[[KAT0041]] Reaktsiooniprotsessid I<br />[[TMT1150]] Riskianalüüs ja riskide haldamine<br />[[YKO0030]] Stereokeemia I<br />[[HLX8040]] Teadusvõõrkeel<br />[[YKI0080]] Teoreetiline ja arvutuskeemia<br />[[DMK1040]] Terviseedendus<br />[[DMK1050]] Töötervishoid<br />[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis<br />[[YKO0080]] Tuumade magnetresonantsspektroskoopia<br />[[YTP0062]] Valkude keemia ja struktuur</p>
+diff-minor: 
+ts: 1408891726
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YASM02/09 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50059&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YKX0011]] Ametipraktika magistrantidele
+	[[YKI0050]] Anorgaaniline keemia II
+	[[YTG0140]] Bioloogiline ohutus
+	[[TMT1130]] Bioloogilised ohutegurid
+	[[YKL0080]] Ensüümkatalüüs orgaanilises sünteesis
+	[[DMK1010]] Epidemioloogia
+	[[KYF0022]] Füüsikaline keemia II
+	[[YKM0060]] Füüsikaline orgaaniline keemia
+	[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen
+	[[YTP0070]] Genoomika ja proteoomika
+	[[DMK1020]] Haiguseõpetus ja arstiabi
+	[[HHI0050]] Innovatsioon
+	[[YKM0070]] Keemiatarkvara
+	[[TMT1120]] Keemilised ohutegurid ja tööhügieen
+	[[YKO0090]] Keemiliste reaktsioonide mehhanismid
+	[[YKA0042]] Kemomeetria
+	[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia
+	[[YKB1120]] Kultiveerimine ja rakudisain
+	[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes
+	[[YKA0040]] Lahutusmeetodid keemias
+	[[YTM0020]] Looma- ja taimefüsioloogia
+	[[YKA0041]] Massispektromeetria
+	[[YKL0090]] Meditsiiniline keemia
+	[[DMK1030]] Meditsiiniteooria ja -eetika
+	[[YTD0011]] Molekulaardiagnostika
+	[[YKM0020]] Molekulaardisain
+	[[DMK0070]] Molekulaarmeditsiin
+	[[YKM0080]] Molekulaartootmine
+	[[YTP0051]] Nukleiinhapete keemia
+	[[YKO5313]] Orgaaniline süntees - ainetöö
+	[[YKO0100]] Orgaanilise sünteesi meetodid
+	[[YTM8022]] Rakubioloogia II
+	[[KAT0041]] Reaktsiooniprotsessid I
+	[[TMT1150]] Riskianalüüs ja riskide haldamine
+	[[YKO0030]] Stereokeemia I
+	[[HLX8040]] Teadusvõõrkeel
+	[[YKI0080]] Teoreetiline ja arvutuskeemia
+	[[DMK1040]] Terviseedendus
+	[[DMK1050]] Töötervishoid
+	[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis
+	[[YKO0080]] Tuumade magnetresonantsspektroskoopia
+	[[YTP0062]] Valkude keemia ja struktuur
+	
+	
+keep-ts: 1408891726

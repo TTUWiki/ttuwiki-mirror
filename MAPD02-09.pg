@@ -1,0 +1,46 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MAPD02/09 - Mehhanotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50009&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[MXX9040]] Ametipraktika<br />[[MXX9030]] Doktoriseminar<br />[[MHD9080]] Elastsus- ja plastsusteooria alused<br />[[MST9040]] Energiamajandus ja plaanimine<br />[[HHP9010]] Juhtimispsühholoogia<br />[[MHD9090]] Kehade süsteemi dünaamika<br />[[HHP9030]] Kõrgkoolididaktika<br />[[MHX9060]] Kõrgsuutlikud konstruktsioonikomponendid<br />[[MTX9010]] Kõrgtehnoloogiamaterjalid<br />[[MSJ9020]] Kütuste põletamise uued tehnoloogiad ja kombiseadmed<br />[[MHD9040]] Masinate töökindlus ja diagnostika<br />[[MTX9090]] Materjalide mehaanika<br />[[MTX9110]] Materjaliõpetuse eripeatükid<br />[[MHK9080]] Mehhatroonikasüsteemi süntees<br />[[MSE9030]] Mittetraditsioonilised kütused ja energiaallikad<br />[[MTX9100]] Nanomaterjalid<br />[[MER9020]] Optimaalse projekteerimise matemaatilised meetodid<br />[[MTX0100]] Pulbermetallurgia ja pindamine<br />[[MEA9030]] Sõidukite eripeatükid<br />[[MST9050]] Soojusfüüsika erikursus<br />[[MSE9010]] Soojustehnilised protsessid seadmetes<br />[[MHT9070]] Süsteemitehnika meetodid kvaliteediohjes<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[MER9070]] Tehnoloogiliste protsesside ja toodete simuleerimine<br />[[MHT9030]] Teoreetiline metroloogia<br />[[MES9010]] Tootearenduse eripeatükid<br />[[MET9020]] Tootmistehnika eripeatükid<br />[[MXX9120]] Triboloogia ja tribomaterjalid<br />[[MXX9020]] Uurimisteemakeskne individuaalõpe<br />[[MXX9010]] Uurimistöö metoodika ja eksperimenditehnika</p>
+diff-minor: 
+ts: 1408891509
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MAPD02/09 - Mehhanotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50009&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[MXX9040]] Ametipraktika
+	[[MXX9030]] Doktoriseminar
+	[[MHD9080]] Elastsus- ja plastsusteooria alused
+	[[MST9040]] Energiamajandus ja plaanimine
+	[[HHP9010]] Juhtimispsühholoogia
+	[[MHD9090]] Kehade süsteemi dünaamika
+	[[HHP9030]] Kõrgkoolididaktika
+	[[MHX9060]] Kõrgsuutlikud konstruktsioonikomponendid
+	[[MTX9010]] Kõrgtehnoloogiamaterjalid
+	[[MSJ9020]] Kütuste põletamise uued tehnoloogiad ja kombiseadmed
+	[[MHD9040]] Masinate töökindlus ja diagnostika
+	[[MTX9090]] Materjalide mehaanika
+	[[MTX9110]] Materjaliõpetuse eripeatükid
+	[[MHK9080]] Mehhatroonikasüsteemi süntees
+	[[MSE9030]] Mittetraditsioonilised kütused ja energiaallikad
+	[[MTX9100]] Nanomaterjalid
+	[[MER9020]] Optimaalse projekteerimise matemaatilised meetodid
+	[[MTX0100]] Pulbermetallurgia ja pindamine
+	[[MEA9030]] Sõidukite eripeatükid
+	[[MST9050]] Soojusfüüsika erikursus
+	[[MSE9010]] Soojustehnilised protsessid seadmetes
+	[[MHT9070]] Süsteemitehnika meetodid kvaliteediohjes
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	[[MER9070]] Tehnoloogiliste protsesside ja toodete simuleerimine
+	[[MHT9030]] Teoreetiline metroloogia
+	[[MES9010]] Tootearenduse eripeatükid
+	[[MET9020]] Tootmistehnika eripeatükid
+	[[MXX9120]] Triboloogia ja tribomaterjalid
+	[[MXX9020]] Uurimisteemakeskne individuaalõpe
+	[[MXX9010]] Uurimistöö metoodika ja eksperimenditehnika
+	
+	
+keep-ts: 1408891509

@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>HAIM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50119&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HOA7005]] Avaliku õiguse eriseminar<br />[[HOX7001]] Eetika juristi tegevuses<br />[[HOE7001]] Eraõiguse eriseminar<br />[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7001]] Euroopa Liidu konstitutsioon<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOL7005]] Euroopa rahaliidu õiguslikud alused<br />[[HOX7008]] Harjutuskohtuvõistlus<br />[[HOE7002]] Intellektuaalse omandi eriseminar<br />[[HOX7009]] Kinnisvara- ja planeerimisõigus<br />[[HOX7005]] Kohtumenetlus<br />[[HOA7006]] Kriminaalõiguse eriseminar<br />[[HOA7008]] Kriminoloogia<br />[[HOA7007]] Maksuõigus<br />[[HOX7007]] Õigusalane praktika<br />[[HOX7003]] Õiguse võrdlev ajalugu<br />[[HOX7002]] Õigusteaduse metodoloogia<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid<br />[[HOR7004]] Rahvusvahelise eraõiguse eriküsimused<br />[[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs<br />[[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse<br />[[HOX7006]] Vaidluste kohtuväline lahendamine</p>
+diff-minor: 
+ts: 1408891383
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAIM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50119&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HOA7005]] Avaliku õiguse eriseminar
+	[[HOX7001]] Eetika juristi tegevuses
+	[[HOE7001]] Eraõiguse eriseminar
+	[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs
+	[[HOL7001]] Euroopa Liidu konstitutsioon
+	[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs
+	[[HOL7005]] Euroopa rahaliidu õiguslikud alused
+	[[HOX7008]] Harjutuskohtuvõistlus
+	[[HOE7002]] Intellektuaalse omandi eriseminar
+	[[HOX7009]] Kinnisvara- ja planeerimisõigus
+	[[HOX7005]] Kohtumenetlus
+	[[HOA7006]] Kriminaalõiguse eriseminar
+	[[HOA7008]] Kriminoloogia
+	[[HOA7007]] Maksuõigus
+	[[HOX7007]] Õigusalane praktika
+	[[HOX7003]] Õiguse võrdlev ajalugu
+	[[HOX7002]] Õigusteaduse metodoloogia
+	[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus
+	[[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus
+	[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused
+	[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid
+	[[HOR7004]] Rahvusvahelise eraõiguse eriküsimused
+	[[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs
+	[[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse
+	[[HOX7006]] Vaidluste kohtuväline lahendamine
+	
+	
+keep-ts: 1408891383

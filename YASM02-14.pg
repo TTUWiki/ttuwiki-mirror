@@ -1,0 +1,45 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YASM02/14 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50241&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YKX0012]] Ametipraktika magistrantidele<br />[[YKI0050]] Anorgaaniline keemia II<br />[[YKI0070]] Arvutuskeemia<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[KYF0022]] Füüsikaline keemia II<br />[[YKM0060]] Füüsikaline orgaaniline keemia<br />[[YTP0070]] Genoomika ja proteoomika<br />[[YKL0100]] Interaktoomika<br />[[YKO0090]] Keemiliste reaktsioonide mehhanismid<br />[[YKA0042]] Kemomeetria<br />[[KAK0050]] Keskkonnakeemia<br />[[YKB1120]] Kultiveerimine ja rakudisain<br />[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes<br />[[YKX0060]] Laboripraktikum<br />[[YKA0040]] Lahutusmeetodid keemias<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YKA0043]] Massispektromeetria<br />[[YKL0090]] Meditsiiniline keemia<br />[[YTD0011]] Molekulaardiagnostika<br />[[YKM0020]] Molekulaardisain<br />[[YTP0051]] Nukleiinhapete keemia<br />[[YKO5314]] Orgaaniline süntees - ainetöö<br />[[YKO0100]] Orgaanilise sünteesi meetodid<br />[[YKO0030]] Stereokeemia I<br />[[YKB3333]] Süsteemibioloogia<br />[[TMM1820]] Teaduskommunikatsioon<br />[[HLX8040]] Teadusvõõrkeel<br />[[YKI0060]] Teoreetiline keemia<br />[[YKO0080]] Tuumade magnetresonantsspektroskoopia<br />[[YTP0062]] Valkude keemia ja struktuur</p>
+diff-minor: 
+ts: 1408891728
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YASM02/14 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50241&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YKX0012]] Ametipraktika magistrantidele
+	[[YKI0050]] Anorgaaniline keemia II
+	[[YKI0070]] Arvutuskeemia
+	[[TMJ3331]] Ettevõtlus ja äri planeerimine
+	[[KYF0022]] Füüsikaline keemia II
+	[[YKM0060]] Füüsikaline orgaaniline keemia
+	[[YTP0070]] Genoomika ja proteoomika
+	[[YKL0100]] Interaktoomika
+	[[YKO0090]] Keemiliste reaktsioonide mehhanismid
+	[[YKA0042]] Kemomeetria
+	[[KAK0050]] Keskkonnakeemia
+	[[YKB1120]] Kultiveerimine ja rakudisain
+	[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes
+	[[YKX0060]] Laboripraktikum
+	[[YKA0040]] Lahutusmeetodid keemias
+	[[YTM0020]] Looma- ja taimefüsioloogia
+	[[YKA0043]] Massispektromeetria
+	[[YKL0090]] Meditsiiniline keemia
+	[[YTD0011]] Molekulaardiagnostika
+	[[YKM0020]] Molekulaardisain
+	[[YTP0051]] Nukleiinhapete keemia
+	[[YKO5314]] Orgaaniline süntees - ainetöö
+	[[YKO0100]] Orgaanilise sünteesi meetodid
+	[[YKO0030]] Stereokeemia I
+	[[YKB3333]] Süsteemibioloogia
+	[[TMM1820]] Teaduskommunikatsioon
+	[[HLX8040]] Teadusvõõrkeel
+	[[YKI0060]] Teoreetiline keemia
+	[[YKO0080]] Tuumade magnetresonantsspektroskoopia
+	[[YTP0062]] Valkude keemia ja struktuur
+	
+	
+keep-ts: 1408891728

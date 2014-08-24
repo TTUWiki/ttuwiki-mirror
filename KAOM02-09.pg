@@ -1,0 +1,48 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>KAOM02/09 - Materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50072&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KMP0240]] Adhesioon ja materjalide liimimine<br />[[YGD3270]] Disain<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[KYF0100]] Erialainfo otsing keemias ja materjalitehnoloogias<br />[[KMT0390]] Erirõivaste projekteerimine<br />[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[KMT0340]] Kõrgsuutlikud materjalid<br />[[MHT0050]] Kvaliteeditehnika<br />[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />[[YGD0050]] Moedisain<br />[[TTO3160]] Õigusõpetus<br />[[KMM0240]] Puidu kuivatamine ja hüdrotermiline töötlemine<br />[[KMM0210]] Puiduteadus<br />[[KMM0340]] Puidutööstuse arengusuunad<br />[[KMM0220]] Puidutööstuse masinad<br />[[KMM0250]] Puidutöötlemisettevõtete projekteerimine<br />[[KMM0270]] Puitpolümeerkomposiidid<br />[[KMM0260]] Puittoodete tehnoloogia<br />[[KMT0350]] Raalintegreeritud tootmissüsteem rõivatööstuses<br />[[KMT0360]] Rõivaste konstrueerimine<br />[[KMT0261]] Rõivaste tootmistehnoloogia ja kvaliteedikontroll<br />[[KMT0260]] Rõivaste tootmistehnoloogia ja seadmed<br />[[KMT0380]] Rõivatootmisprotsesside projekteerimine<br />[[KMM0230]] Saetööstuse tehnoloogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[MER0010]] Tehnoarendus ja innovatsioon<br />[[KMT0330]] Tekstiilikatsetus<br />[[KMT0370]] Tekstiilimaterjalide värvimine ja viimistlemine<br />[[MER0070]] Toodete ja protsesside modelleerimine<br />[[KMT0090]] Töökeskkond ja ergonoomika rõivatööstuses<br />[[KMX0040]] Tööpraktika<br />[[KMM0200]] Tootearendus puidutööstuses<br />[[KMM0280]] Viimistlusmaterjalid</p>
+diff-minor: 
+ts: 1408891479
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KAOM02/09 - Materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=50072&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[KMP0240]] Adhesioon ja materjalide liimimine
+	[[YGD3270]] Disain
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[KYF0100]] Erialainfo otsing keemias ja materjalitehnoloogias
+	[[KMT0390]] Erirõivaste projekteerimine
+	[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine
+	[[KMT0340]] Kõrgsuutlikud materjalid
+	[[MHT0050]] Kvaliteeditehnika
+	[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad
+	[[YGD0050]] Moedisain
+	[[TTO3160]] Õigusõpetus
+	[[KMM0240]] Puidu kuivatamine ja hüdrotermiline töötlemine
+	[[KMM0210]] Puiduteadus
+	[[KMM0340]] Puidutööstuse arengusuunad
+	[[KMM0220]] Puidutööstuse masinad
+	[[KMM0250]] Puidutöötlemisettevõtete projekteerimine
+	[[KMM0270]] Puitpolümeerkomposiidid
+	[[KMM0260]] Puittoodete tehnoloogia
+	[[KMT0350]] Raalintegreeritud tootmissüsteem rõivatööstuses
+	[[KMT0360]] Rõivaste konstrueerimine
+	[[KMT0261]] Rõivaste tootmistehnoloogia ja kvaliteedikontroll
+	[[KMT0260]] Rõivaste tootmistehnoloogia ja seadmed
+	[[KMT0380]] Rõivatootmisprotsesside projekteerimine
+	[[KMM0230]] Saetööstuse tehnoloogia
+	[[HLX8040]] Teadusvõõrkeel
+	[[MER0010]] Tehnoarendus ja innovatsioon
+	[[KMT0330]] Tekstiilikatsetus
+	[[KMT0370]] Tekstiilimaterjalide värvimine ja viimistlemine
+	[[MER0070]] Toodete ja protsesside modelleerimine
+	[[KMT0090]] Töökeskkond ja ergonoomika rõivatööstuses
+	[[KMX0040]] Tööpraktika
+	[[KMM0200]] Tootearendus puidutööstuses
+	[[KMM0280]] Viimistlusmaterjalid
+	
+	
+keep-ts: 1408891479

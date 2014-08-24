@@ -1,0 +1,81 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MATM02/02 - Tootearendus ja tootmistehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=744&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[MEA5682]] Autod II<br />[[MES0040]] Automatiseerimistehnika<br />[[MEA5310]] Automootorid<br />[[MEA0040]] Auto tehnoseisundi juhtimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas<br />[[YGD3270]] Disain<br />[[AAV0060]] Elektriajamid ja jõuelektroonika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[HLI8750]] Inglise teaduskeel<br />[[MES0110]] Inimese-masina suhted<br />[[MHD0020]] Insenerimehaanika erikursus<br />[[IDU5720]] Interneti baaskursus<br />[[MXX0030]] Keeviskonstruktsioonid<br />[[MTM0090]] Konstruktsioonimaterjalide mehaanika<br />[[MHT0040]] Kvaliteedijuhtimine<br />[[MES5420]] Liikurmasinate hüdrosüsteemid A<br />[[MXX0020]] Magistriseminar<br />[[MTT0030]] Maht- ja lehtvormimine<br />[[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine<br />[[MHD0040]] Masinate töökindlus ja diagnostika<br />[[KYF0090]] Materjalide korrosioon<br />[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />[[KCM0011]] Materjalide uurimismeetodid I<br />[[MTM0030]] Materjali ja valmistustehnoloogia valik<br />[[MTT0100]] Materjalitehnika - projekt<br />[[MTM0110]] Metalliõpetus ja termotöötlus<br />[[MTT0060]] Nanomaterjalid ja nanotehnoloogia<br />[[TTO3160]] Õigusõpetus<br />[[YMR0130]] Operatsioonianalüüsi algtõed<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[KMP0110]] Polümeerid ja polümeermaterjalid<br />[[MES0030]] Probleemilahendus<br />[[MES0050]] Projekteerimise metoodika<br />[[MTT0070]] Pulbermetallurgia<br />[[MER0040]] Raalintegreeritud tootmissüsteemid<br />[[MER0030]] Raalkonstrueerimissüsteemid<br />[[MES8600]] Samaaegne tootearendus<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[MEA5420]] Sõidukite liikumisteooria<br />[[MEA5410]] Sõiduohutus ja tehnoekspertiis<br />[[MET0080]] Teadmuspõhised süsteemid masinaehituses<br />[[MER0020]] Teadus- ja arendustöö metoodika<br />[[MER0010]] Tehnoarendus ja innovatsioon<br />[[MTT0080]] Tehnokeraamika<br />[[MER0070]] Toodete ja protsesside modelleerimine<br />[[MES0070]] Tooteprojekt<br />[[MET8120]] Töötlemise simulatsiooni rakendusi<br />[[MET0070]] Tootmise modelleerimine ja simulatsioon<br />[[MET8130]] Tootmise plaanimine ja juhtimine<br />[[MES0060]] Tootmiskeskne projekteerimine<br />[[MES0091]] Tootmisseadmete projekteerimine<br />[[MES0092]] Tootmisseadmete projekteerimine - projekt<br />[[MET8110]] Tootmistehnika<br />[[MET0110]] Tootmistehnika - projekt<br />[[MET0040]] Tootmistehnoloogia<br />[[MET0100]] Töövahendite ja instrumentide projekteerimine<br />[[MEA5320]] Transpordiettevõtte infosüsteem<br />[[TMJ3710]] Transpordiökonoomika<br />[[AME0040]] Transpordivahendite elektromehaanika<br />[[MTM0060]] Tribotehnilised materjalid ja pinded<br />[[KYP0030]] Ülipuhaste materjalide tehnoloogia<br />[[MTT0040]] Valutehnoloogia<br />[[MEA3360]] Varud ja ladustamine</p>
+diff-minor: 
+ts: 1408891525
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MATM02/02 - Tootearendus ja tootmistehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=744&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[MEA5682]] Autod II
+	[[MES0040]] Automatiseerimistehnika
+	[[MEA5310]] Automootorid
+	[[MEA0040]] Auto tehnoseisundi juhtimine
+	[[YMR0010]] Diferentsiaalvõrrandid
+	[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas
+	[[YGD3270]] Disain
+	[[AAV0060]] Elektriajamid ja jõuelektroonika
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[HHF0010]] Filosoofia põhiprobleemid
+	[[MES0080]] Hüdro- ja pneumoajam
+	[[HLI8750]] Inglise teaduskeel
+	[[MES0110]] Inimese-masina suhted
+	[[MHD0020]] Insenerimehaanika erikursus
+	[[IDU5720]] Interneti baaskursus
+	[[MXX0030]] Keeviskonstruktsioonid
+	[[MTM0090]] Konstruktsioonimaterjalide mehaanika
+	[[MHT0040]] Kvaliteedijuhtimine
+	[[MES5420]] Liikurmasinate hüdrosüsteemid A
+	[[MXX0020]] Magistriseminar
+	[[MTT0030]] Maht- ja lehtvormimine
+	[[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine
+	[[MHD0040]] Masinate töökindlus ja diagnostika
+	[[KYF0090]] Materjalide korrosioon
+	[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad
+	[[KCM0011]] Materjalide uurimismeetodid I
+	[[MTM0030]] Materjali ja valmistustehnoloogia valik
+	[[MTT0100]] Materjalitehnika - projekt
+	[[MTM0110]] Metalliõpetus ja termotöötlus
+	[[MTT0060]] Nanomaterjalid ja nanotehnoloogia
+	[[TTO3160]] Õigusõpetus
+	[[YMR0130]] Operatsioonianalüüsi algtõed
+	[[HHP3170]] Organisatsioonipsühholoogia
+	[[KMP0110]] Polümeerid ja polümeermaterjalid
+	[[MES0030]] Probleemilahendus
+	[[MES0050]] Projekteerimise metoodika
+	[[MTT0070]] Pulbermetallurgia
+	[[MER0040]] Raalintegreeritud tootmissüsteemid
+	[[MER0030]] Raalkonstrueerimissüsteemid
+	[[MES8600]] Samaaegne tootearendus
+	[[IDU3530]] Sissejuhatus infosüsteemidesse
+	[[MEA5420]] Sõidukite liikumisteooria
+	[[MEA5410]] Sõiduohutus ja tehnoekspertiis
+	[[MET0080]] Teadmuspõhised süsteemid masinaehituses
+	[[MER0020]] Teadus- ja arendustöö metoodika
+	[[MER0010]] Tehnoarendus ja innovatsioon
+	[[MTT0080]] Tehnokeraamika
+	[[MER0070]] Toodete ja protsesside modelleerimine
+	[[MES0070]] Tooteprojekt
+	[[MET8120]] Töötlemise simulatsiooni rakendusi
+	[[MET0070]] Tootmise modelleerimine ja simulatsioon
+	[[MET8130]] Tootmise plaanimine ja juhtimine
+	[[MES0060]] Tootmiskeskne projekteerimine
+	[[MES0091]] Tootmisseadmete projekteerimine
+	[[MES0092]] Tootmisseadmete projekteerimine - projekt
+	[[MET8110]] Tootmistehnika
+	[[MET0110]] Tootmistehnika - projekt
+	[[MET0040]] Tootmistehnoloogia
+	[[MET0100]] Töövahendite ja instrumentide projekteerimine
+	[[MEA5320]] Transpordiettevõtte infosüsteem
+	[[TMJ3710]] Transpordiökonoomika
+	[[AME0040]] Transpordivahendite elektromehaanika
+	[[MTM0060]] Tribotehnilised materjalid ja pinded
+	[[KYP0030]] Ülipuhaste materjalide tehnoloogia
+	[[MTT0040]] Valutehnoloogia
+	[[MEA3360]] Varud ja ladustamine
+	
+	
+keep-ts: 1408891525

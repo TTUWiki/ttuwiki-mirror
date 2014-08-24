@@ -1,0 +1,69 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>BAAB06/11 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50176&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTM0360]] Arhiivindus ja inventeerimine<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM0990]] Arhitektuuri teooria<br />[[NTM0800]] Arhitektuurse kujundamise alused<br />[[BCU0510]] Ärieetika alused<br />[[BCU3230]] Arvutigraafika<br />[[NTM1180]] Asustuskeskkonna kujunemine<br />[[NTM0430]] Botaanika<br />[[NTM1220]] Dendroloogia<br />[[NTM0780]] Dendroloogiline inventeerimine<br />[[NTM1230]] Dendropatoloogia<br />[[NTM0820]] Eesti maastike kultuurigeograafiline käsitlus<br />[[NTM0980]] Eesti maastikuarhitektuuri ajalugu<br />[[NTM1260]] Erialapraktika<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[NTM0960]] Fotograafia<br />[[YFR0020]] Füüsika<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[NTM0670]] Hüdraulika ja vesiehitised<br />[[NTM0760]] Ilutaimed<br />[[BCU3200]] Inglise erialakeel<br />[[YGD3031]] Joonistamine I<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[NTM0040]] Keskkonnapsühholoogia<br />[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />[[YGK3340]] Kujutav geomeetria<br />[[BCU0980]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTM1070]] Loodusgeograafia<br />[[NTM0690]] Maastike üldkursus<br />[[NTM0940]] Maastikuarhitektuuri ajalugu<br />[[NTM0650]] Maastikuarhitektuuri erikursus<br />[[NTM1280]] Maastikuarhitektuurne kujundamine<br />[[BCU3620]] Makroökonoomika<br />[[BCU0990]] Matemaatiline analüüs<br />[[NTM0790]] Metsanduse alused<br />[[BCU3610]] Mikroökonoomika<br />[[NTM0450]] Mullateadus<br />[[NTM0340]] Õigusõpetus<br />[[BCU3930]] Õpingukorraldus<br />[[BCU3940]] Pilditöötlus<br />[[BCU3510]] Riski- ja ohutusõpetus<br />[[NTM0520]] Sissejuhatus erialasse<br />[[NGG0010]] Sissejuhatus füüsikalisse geoloogiasse<br />[[BCU3330]] Sotsioloogia<br />[[YGK3350]] Tehniline joonestamine<br />[[NTM0600]] Tehniline mehaanika<br />[[EGD0010]] Üldine kunstiajalugu<br />[[ETG3513]] Ülevaade geoinformaatikast<br />[[BCU3240]] Uurimistöö alused<br />[[NTM1020]] Välisruumi käsitlus ja analüüs</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == BAAB06/11 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50176&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[NTM0360]] Arhiivindus ja inventeerimine<br />&lt; [[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />&lt; [[NTM0990]] Arhitektuuri teooria<br />&lt; [[NTM0800]] Arhitektuurse kujundamise alused<br />&lt; [[BCU0510]] Ärieetika alused<br />&lt; [[BCU3230]] Arvutigraafika<br />&lt; [[NTM1180]] Asustuskeskkonna kujunemine<br />&lt; [[NTM0430]] Botaanika<br />&lt; [[NTM1220]] Dendroloogia<br />&lt; [[NTM0780]] Dendroloogiline inventeerimine<br />&lt; [[NTM1230]] Dendropatoloogia<br />&lt; [[NTM0820]] Eesti maastike kultuurigeograafiline käsitlus<br />&lt; [[NTM0980]] Eesti maastikuarhitektuuri ajalugu<br />&lt; [[NTM1260]] Erialapraktika<br />&lt; [[HHF0010]] Filosoofia põhiprobleemid<br />&lt; [[NTM0960]] Fotograafia<br />&lt; [[YFR0020]] Füüsika<br />&lt; [[ETG0011]] Geodeesia I<br />&lt; [[ETG0012]] Geodeesia II<br />&lt; [[ETG0013]] Geodeesia õppepraktika<br />&lt; [[NTM0670]] Hüdraulika ja vesiehitised<br />&lt; [[NTM0760]] Ilutaimed<br />&lt; [[BCU3200]] Inglise erialakeel<br />&lt; [[YGD3031]] Joonistamine I<br />&lt; [[BCU3590]] Keskkonnakaitse ja säästev areng<br />&lt; [[NTM0040]] Keskkonnapsühholoogia<br />&lt; [[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />&lt; [[YGK3340]] Kujutav geomeetria<br />&lt; [[BCU0980]] Lineaaralgebra<br />&lt; [[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />&lt; [[NTM1070]] Loodusgeograafia<br />&lt; [[NTM0690]] Maastike üldkursus<br />&lt; [[NTM0940]] Maastikuarhitektuuri ajalugu<br />&lt; [[NTM0650]] Maastikuarhitektuuri erikursus<br />&lt; [[NTM1280]] Maastikuarhitektuurne kujundamine<br />&lt; [[BCU3620]] Makroökonoomika<br />&lt; [[BCU0990]] Matemaatiline analüüs<br />&lt; [[NTM0790]] Metsanduse alused<br />&lt; [[BCU3610]] Mikroökonoomika<br />&lt; [[NTM0450]] Mullateadus<br />&lt; [[NTM0340]] Õigusõpetus<br />&lt; [[BCU3930]] Õpingukorraldus<br />&lt; [[BCU3940]] Pilditöötlus<br />&lt; [[BCU3510]] Riski- ja ohutusõpetus<br />&lt; [[NTM0520]] Sissejuhatus erialasse<br />&lt; [[NGG0010]] Sissejuhatus füüsikalisse geoloogiasse<br />&lt; [[BCU3330]] Sotsioloogia<br />&lt; [[YGK3350]] Tehniline joonestamine<br />&lt; [[NTM0600]] Tehniline mehaanika<br />&lt; [[EGD0010]] Üldine kunstiajalugu<br />&lt; [[ETG3513]] Ülevaade geoinformaatikast<br />&lt; [[BCU3240]] Uurimistöö alused<br />&lt; [[NTM1020]] Välisruumi käsitlus ja analüüs</p></div>
+ts: 1408891293
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == BAAB06/11 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=50176&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NTM0360]] Arhiivindus ja inventeerimine
+	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu
+	[[NTM0990]] Arhitektuuri teooria
+	[[NTM0800]] Arhitektuurse kujundamise alused
+	[[BCU0510]] Ärieetika alused
+	[[BCU3230]] Arvutigraafika
+	[[NTM1180]] Asustuskeskkonna kujunemine
+	[[NTM0430]] Botaanika
+	[[NTM1220]] Dendroloogia
+	[[NTM0780]] Dendroloogiline inventeerimine
+	[[NTM1230]] Dendropatoloogia
+	[[NTM0820]] Eesti maastike kultuurigeograafiline käsitlus
+	[[NTM0980]] Eesti maastikuarhitektuuri ajalugu
+	[[NTM1260]] Erialapraktika
+	[[HHF0010]] Filosoofia põhiprobleemid
+	[[NTM0960]] Fotograafia
+	[[YFR0020]] Füüsika
+	[[ETG0011]] Geodeesia I
+	[[ETG0012]] Geodeesia II
+	[[ETG0013]] Geodeesia õppepraktika
+	[[NTM0670]] Hüdraulika ja vesiehitised
+	[[NTM0760]] Ilutaimed
+	[[BCU3200]] Inglise erialakeel
+	[[YGD3031]] Joonistamine I
+	[[BCU3590]] Keskkonnakaitse ja säästev areng
+	[[NTM0040]] Keskkonnapsühholoogia
+	[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus
+	[[YGK3340]] Kujutav geomeetria
+	[[BCU0980]] Lineaaralgebra
+	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika
+	[[NTM1070]] Loodusgeograafia
+	[[NTM0690]] Maastike üldkursus
+	[[NTM0940]] Maastikuarhitektuuri ajalugu
+	[[NTM0650]] Maastikuarhitektuuri erikursus
+	[[NTM1280]] Maastikuarhitektuurne kujundamine
+	[[BCU3620]] Makroökonoomika
+	[[BCU0990]] Matemaatiline analüüs
+	[[NTM0790]] Metsanduse alused
+	[[BCU3610]] Mikroökonoomika
+	[[NTM0450]] Mullateadus
+	[[NTM0340]] Õigusõpetus
+	[[BCU3930]] Õpingukorraldus
+	[[BCU3940]] Pilditöötlus
+	[[BCU3510]] Riski- ja ohutusõpetus
+	[[NTM0520]] Sissejuhatus erialasse
+	[[NGG0010]] Sissejuhatus füüsikalisse geoloogiasse
+	[[BCU3330]] Sotsioloogia
+	[[YGK3350]] Tehniline joonestamine
+	[[NTM0600]] Tehniline mehaanika
+	[[EGD0010]] Üldine kunstiajalugu
+	[[ETG3513]] Ülevaade geoinformaatikast
+	[[BCU3240]] Uurimistöö alused
+	[[NTM1020]] Välisruumi käsitlus ja analüüs
+	
+	
+keep-ts: 1408891293

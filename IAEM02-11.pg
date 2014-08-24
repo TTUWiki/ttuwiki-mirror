@@ -1,0 +1,42 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IAEM02/11 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50172&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEM3240]] Biomeditsiinielektroonika<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0150]] Biosensoorika<br />[[IEX3010]] Elektronsüsteemid - kompleksprojekt<br />[[IEX3020]] Elektroonika erikursus<br />[[IED3080]] Elektroonika- ja sidetööstus<br />[[TMT0040]] Ergonoomika<br />[[IED3090]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[IEM3220]] Füsioloogia ja tehnika<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[IEM0230]] Juhtimine ja side elektronsüsteemides<br />[[IED3040]] Kiipdisain<br />[[IEM0290]] Kõne analüüs ja süntees<br />[[IED3030]] Mikroelektroonika<br />[[IED3070]] Nanoelektroonika<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[DBB0300]] Optoelektroonika ja integraaloptika<br />[[IBX0020]] Robootika<br />[[IEM0250]] Sensorsignaalitöötlus<br />[[IEA0200]] Sensorvõrgud<br />[[IRZ0140]] Signaalid ja signaalitöötlus<br />[[IED3060]] Tahkiselektroonika<br />[[HLX8040]] Teadusvõõrkeel<br />[[IEM3020]] Test ja diagnostika</p>
+diff-minor: 
+ts: 1408891419
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IAEM02/11 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50172&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IED3010]] Analoog/digitaal skeemide disain
+	[[IEM3040]] Andmehõivesüsteemid
+	[[IEM3240]] Biomeditsiinielektroonika
+	[[DBB0220]] Biomeditsiiniseadmed
+	[[DBR0150]] Biosensoorika
+	[[IEX3010]] Elektronsüsteemid - kompleksprojekt
+	[[IEX3020]] Elektroonika erikursus
+	[[IED3080]] Elektroonika- ja sidetööstus
+	[[TMT0040]] Ergonoomika
+	[[IED3090]] Erialapraktika
+	[[TMJ0110]] Ettevõtluse alused
+	[[IEM3220]] Füsioloogia ja tehnika
+	[[IBX0030]] Innovaatika ja loov probleemilahendus
+	[[IEM0230]] Juhtimine ja side elektronsüsteemides
+	[[IED3040]] Kiipdisain
+	[[IEM0290]] Kõne analüüs ja süntees
+	[[IED3030]] Mikroelektroonika
+	[[IED3070]] Nanoelektroonika
+	[[IEM3010]] Navigeerimine ja positsioneerimine
+	[[DBB0300]] Optoelektroonika ja integraaloptika
+	[[IBX0020]] Robootika
+	[[IEM0250]] Sensorsignaalitöötlus
+	[[IEA0200]] Sensorvõrgud
+	[[IRZ0140]] Signaalid ja signaalitöötlus
+	[[IED3060]] Tahkiselektroonika
+	[[HLX8040]] Teadusvõõrkeel
+	[[IEM3020]] Test ja diagnostika
+	
+	
+keep-ts: 1408891419

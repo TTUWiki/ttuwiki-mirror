@@ -1,176 +1,26 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>BDKR02/09 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50026&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[BCU3540]] Arhitektuur<br />[[BCU1910]] Ärilogistika<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU3230]] Arvutigraafika<br />[[BCU3570]] Automaatika alused<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU1040]] Ehitiste mõõdistamine<br />[[BCU3730]] Ehitiste  mõõdistamine - õppepraktika<br />[[BCU1110]] Ehitiste renoveerimine<br />[[BCU3670]] Ehitusfüüsika<br />[[BCU3520]] Ehitusgraafika alused<br />[[BCU1130]] Ehitusinvesteeringute plaanimine<br />[[BCU3680]] Ehituskonstruktsioonide üldkursus<br />[[BCU1090]] Ehituskorraldus<br />[[BCU1290]] Ehitusmaksumuse plaanimine<br />[[BCU3640]] Ehitusmaterjalid<br />[[BCU1020]] Ehitusmehaanika<br />[[BCU3660]] Ehitus-remonttööde tehnoloogia<br />[[BCU3560]] Elektroonika<br />[[BCU3550]] Elektrotehnika<br />[[BCU3650]] Hoonete automatiseerimine<br />[[BCU0330]] Informaatika<br />[[BCU3200]] Inglise erialakeel<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[BCU1140]] Kinnisvara haldamine<br />[[BCU1300]] Kinnisvara hindamine<br />[[BCU2070]] Kinnisvaraõigus<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU3740]] Küte ja ventilatsioon<br />[[BCU1350]] Linnamajanduse korraldus<br />[[BCU3850]] Majandusmatemaatika I<br />[[BCU3860]] Majandusmatemaatika II<br />[[BCU3610]] Mikroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3780]] Praktika ehitiste hooldusettevõttes<br />[[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes<br />[[BCU3360]] Projektijuhtimine<br />[[BCU2060]] Raamatupidamine kinnisvara halduses<br />[[BCU3510]] Riski- ja ohutusõpetus<br />[[BCU1250]] Soojus- ja gaasivarustus<br />[[BCU3220]] Statistika ja tõenäosusteooria<br />[[BCU1190]] Tehnovõrkude ekspluatatsioon<br />[[BCU1630]] Tööõigus<br />[[BCU3300]] Tugevusõpetus<br />[[BCU3400]] Turundus<br />[[BCU3240]] Uurimistöö alused<br />[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus<br /></p><h3>BDKR02/06 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=4088&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[BCU0960]] Arhitektuur<br />[[BCU1061]] Arvutigraafika I<br />[[BCU1062]] Arvutigraafika II<br />[[BCU1240]] Automaatika alused<br />[[BCU1040]] Ehitiste mõõdistamine<br />[[BCU1380]] Ehitiste mõõdistamine - õppepraktika<br />[[BCU1110]] Ehitiste renoveerimine<br />[[BCU1070]] Ehitusfüüsika<br />[[BCU1030]] Ehitusgraafika alused<br />[[BCU1130]] Ehitusinvesteeringute plaanimine<br />[[BCU1080]] Ehituskonstruktsioonide üldkursus<br />[[BCU1090]] Ehituskorraldus<br />[[BCU1290]] Ehitusmaksumuse plaanimine<br />[[BCU1280]] Ehitusmaterjalid<br />[[BCU1020]] Ehitusmehaanika<br />[[BCU1100]] Ehitus-remonttööde tehnoloogia<br />[[BCU1210]] Elektroonika<br />[[BCU1200]] Elektrotehnika<br />[[BCU1160]] Ettevõttemajandus<br />[[BCU1230]] Hoonete automatiseerimine<br />[[BCU1220]] Hüdraulika, pumbad ja ventilaatorid<br />[[BCU0951]] Informaatika I<br />[[BCU0952]] Informaatika II<br />[[BCU0970]] Inglise keel<br />[[BCU0920]] Keskkonnakaitse ja säästev areng<br />[[BCU0750]] Keskkonnaökonoomika<br />[[BCU1140]] Kinnisvara haldamine<br />[[BCU1300]] Kinnisvara hindamine<br />[[BCU2070]] Kinnisvaraõigus<br />[[BCU1120]] Kinnisvara ökonoomika<br />[[BCU1360]] Korrosioonikaitse<br />[[BCU1270]] Küte ja ventilatsioon<br />[[BCU1370]] Lepinguõigus<br />[[BCU0980]] Lineaaralgebra<br />[[BCU1170]] Linna elukeskkond ja eluasemeprotsess<br />[[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö<br />[[BCU1350]] Linnamajanduse korraldus<br />[[BCU0990]] Matemaatiline analüüs<br />[[BCU0940]] Mikro- ja makroökonoomika<br />[[BCU0260]] Organisatsioonikäitumine<br />[[BCU1390]] Praktika ehitiste hooldusettevõttes<br />[[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes<br />[[BCU0720]] Projektijuhtimine<br />[[BCU2060]] Raamatupidamine kinnisvara halduses<br />[[BCU0930]] Riski- ja ohutusõpetus<br />[[BCU1250]] Soojus- ja gaasivarustus<br />[[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud<br />[[BCU1190]] Tehnovõrkude ekspluatatsioon<br />[[BCU1000]] Tõenäosusteooria ja matemaatiline statistika<br />[[BCU1150]] Tööõigus<br />[[BCU1011]] Tugevusõpetus I<br />[[BCU1012]] Tugevusõpetus II<br />[[BCU2080]] Turundus<br />[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus<br /></p><h3>BDKR02/02 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1477&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[BCU0960]] Arhitektuur<br />[[BCU1061]] Arvutigraafika I<br />[[BCU1062]] Arvutigraafika II<br />[[BCU1240]] Automaatika alused<br />[[BCU1040]] Ehitiste mõõdistamine<br />[[BCU1380]] Ehitiste mõõdistamine - õppepraktika<br />[[BCU1110]] Ehitiste renoveerimine<br />[[BCU1070]] Ehitusfüüsika<br />[[BCU1030]] Ehitusgraafika alused<br />[[BCU1130]] Ehitusinvesteeringute plaanimine<br />[[BCU1080]] Ehituskonstruktsioonide üldkursus<br />[[BCU1090]] Ehituskorraldus<br />[[BCU1290]] Ehitusmaksumuse plaanimine<br />[[BCU1280]] Ehitusmaterjalid<br />[[BCU1020]] Ehitusmehaanika<br />[[BCU1100]] Ehitus-remonttööde tehnoloogia<br />[[BCU1210]] Elektroonika<br />[[BCU1200]] Elektrotehnika<br />[[BCU1160]] Ettevõttemajandus<br />[[BCU0070]] Euroopa Liidu dokumendid<br />[[BCU1230]] Hoonete automatiseerimine<br />[[BCU1220]] Hüdraulika, pumbad ja ventilaatorid<br />[[BCU0951]] Informaatika I<br />[[BCU0952]] Informaatika II<br />[[BCU0970]] Inglise keel<br />[[BCU0920]] Keskkonnakaitse ja säästev areng<br />[[BCU0750]] Keskkonnaökonoomika<br />[[BCU1140]] Kinnisvara haldamine<br />[[BCU1300]] Kinnisvara hindamine<br />[[BCU1120]] Kinnisvara ökonoomika<br />[[BCU1360]] Korrosioonikaitse<br />[[BCU1270]] Küte ja ventilatsioon<br />[[BCU1370]] Lepinguõigus<br />[[BCU0980]] Lineaaralgebra<br />[[BCU1170]] Linna elukeskkond ja eluasemeprotsess<br />[[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö<br />[[BCU1350]] Linnamajanduse korraldus<br />[[BCU0990]] Matemaatiline analüüs<br />[[BCU0940]] Mikro- ja makroökonoomika<br />[[BCU1050]] Õigusõpetus<br />[[BCU0260]] Organisatsioonikäitumine<br />[[BCU1390]] Praktika ehitiste hooldusettevõttes<br />[[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes<br />[[BCU0930]] Riski- ja ohutusõpetus<br />[[BCU1330]] Situatsioonimäng eluasemekorralduses<br />[[BCU1250]] Soojus- ja gaasivarustus<br />[[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud<br />[[BCU1340]] Sotsiaalpoliitika ja sotsioloogilised uuringud - uurimistöö<br />[[BCU1190]] Tehnovõrkude ekspluatatsioon<br />[[BCU1000]] Tõenäosusteooria ja matemaatiline statistika<br />[[BCU1150]] Tööõigus<br />[[BCU1011]] Tugevusõpetus I<br />[[BCU1012]] Tugevusõpetus II<br />[[BCU1260]] Veevarustus, kanalisatsioon ja jäätmeärastus<br /></p>
+flags: 0101010
+blocks: &lt;include "BDKR02-09"&gt;
+	&lt;include "BDKR02-06"&gt;
+	&lt;include "BDKR02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== BDKR02/09 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50026&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[BCU3540]] Arhitektuur\\<br />&lt; [[BCU1910]] Ärilogistika\\<br />&lt; [[BCU0451]] Äritegevuse alused\\<br />&lt; [[BCU0141]] Arvestuse alused\\<br />&lt; [[BCU3230]] Arvutigraafika\\<br />&lt; [[BCU3570]] Automaatika alused\\<br />&lt; [[BCU3130]] Eesti keele väljendusõpetus\\<br />&lt; [[BCU1040]] Ehitiste mõõdistamine\\<br />&lt; [[BCU3730]] Ehitiste  mõõdistamine - õppepraktika\\<br />&lt; [[BCU1110]] Ehitiste renoveerimine\\<br />&lt; [[BCU3670]] Ehitusfüüsika\\<br />&lt; [[BCU3520]] Ehitusgraafika alused\\<br />&lt; [[BCU1130]] Ehitusinvesteeringute plaanimine\\<br />&lt; [[BCU3680]] Ehituskonstruktsioonide üldkursus\\<br />&lt; [[BCU1090]] Ehituskorraldus\\<br />&lt; [[BCU1290]] Ehitusmaksumuse plaanimine\\<br />&lt; [[BCU3640]] Ehitusmaterjalid\\<br />&lt; [[BCU1020]] Ehitusmehaanika\\<br />&lt; [[BCU3660]] Ehitus-remonttööde tehnoloogia\\<br />&lt; [[BCU3560]] Elektroonika\\<br />&lt; [[BCU3550]] Elektrotehnika\\<br />&lt; [[BCU3650]] Hoonete automatiseerimine\\<br />&lt; [[BCU0330]] Informaatika\\<br />&lt; [[BCU3200]] Inglise erialakeel\\<br />&lt; [[BCU0471]] Inglise keel I\\<br />&lt; [[BCU0472]] Inglise keel II\\<br />&lt; [[BCU1940]] Innovatsioon ja tootearendus\\<br />&lt; [[BCU3590]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[BCU1140]] Kinnisvara haldamine\\<br />&lt; [[BCU1300]] Kinnisvara hindamine\\<br />&lt; [[BCU2070]] Kinnisvaraõigus\\<br />&lt; [[BCU0860]] Kinnisvara ökonoomika\\<br />&lt; [[BCU3740]] Küte ja ventilatsioon\\<br />&lt; [[BCU1350]] Linnamajanduse korraldus\\<br />&lt; [[BCU3850]] Majandusmatemaatika I\\<br />&lt; [[BCU3860]] Majandusmatemaatika II\\<br />&lt; [[BCU3610]] Mikroökonoomika\\<br />&lt; [[BCU2010]] Müügijuhtimine\\<br />&lt; [[BCU3480]] Õiguse alused\\<br />&lt; [[BCU1890]] Operatsioonijuhtimine\\<br />&lt; [[BCU3780]] Praktika ehitiste hooldusettevõttes\\<br />&lt; [[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes\\<br />&lt; [[BCU3360]] Projektijuhtimine\\<br />&lt; [[BCU2060]] Raamatupidamine kinnisvara halduses\\<br />&lt; [[BCU3510]] Riski- ja ohutusõpetus\\<br />&lt; [[BCU1250]] Soojus- ja gaasivarustus\\<br />&lt; [[BCU3220]] Statistika ja tõenäosusteooria\\<br />&lt; [[BCU1190]] Tehnovõrkude ekspluatatsioon\\<br />&lt; [[BCU1630]] Tööõigus\\<br />&lt; [[BCU3300]] Tugevusõpetus\\<br />&lt; [[BCU3400]] Turundus\\<br />&lt; [[BCU3240]] Uurimistöö alused\\<br />&lt; [[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus\\<br />&lt; ===</strong> BDKR02<strong class="changes">/06</strong> - <strong class="changes">Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=4088&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[BCU0960]] Arhitektuur\\<br />&lt; [[BCU1061]] Arvutigraafika I\\<br />&lt; [[BCU1062]] Arvutigraafika II\\<br />&lt; [[BCU1240]] Automaatika alused\\<br />&lt; [[BCU1040]] Ehitiste mõõdistamine\\<br />&lt; [[BCU1380]] Ehitiste mõõdistamine - õppepraktika\\<br />&lt; [[BCU1110]] Ehitiste renoveerimine\\<br />&lt; [[BCU1070]] Ehitusfüüsika\\<br />&lt; [[BCU1030]] Ehitusgraafika alused\\<br />&lt; [[BCU1130]] Ehitusinvesteeringute plaanimine\\<br />&lt; [[BCU1080]] Ehituskonstruktsioonide üldkursus\\<br />&lt; [[BCU1090]] Ehituskorraldus\\<br />&lt; [[BCU1290]] Ehitusmaksumuse plaanimine\\<br />&lt; [[BCU1280]] Ehitusmaterjalid\\<br />&lt; [[BCU1020]] Ehitusmehaanika\\<br />&lt; [[BCU1100]] Ehitus-remonttööde tehnoloogia\\<br />&lt; [[BCU1210]] Elektroonika\\<br />&lt; [[BCU1200]] Elektrotehnika\\<br />&lt; [[BCU1160]] Ettevõttemajandus\\<br />&lt; [[BCU1230]] Hoonete automatiseerimine\\<br />&lt; [[BCU1220]] Hüdraulika, pumbad ja ventilaatorid\\<br />&lt; [[BCU0951]] Informaatika I\\<br />&lt; [[BCU0952]] Informaatika II\\<br />&lt; [[BCU0970]] Inglise keel\\<br />&lt; [[BCU0920]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[BCU0750]] Keskkonnaökonoomika\\<br />&lt; [[BCU1140]] Kinnisvara haldamine\\<br />&lt; [[BCU1300]] Kinnisvara hindamine\\<br />&lt; [[BCU2070]] Kinnisvaraõigus\\<br />&lt; [[BCU1120]] Kinnisvara ökonoomika\\<br />&lt; [[BCU1360]] Korrosioonikaitse\\<br />&lt; [[BCU1270]] Küte ja ventilatsioon\\<br />&lt; [[BCU1370]] Lepinguõigus\\<br />&lt; [[BCU0980]] Lineaaralgebra\\<br />&lt; [[BCU1170]] Linna elukeskkond ja eluasemeprotsess\\<br />&lt; [[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö\\<br />&lt; [[BCU1350]] Linnamajanduse korraldus\\<br />&lt; [[BCU0990]] Matemaatiline analüüs\\<br />&lt; [[BCU0940]] Mikro- ja makroökonoomika\\<br />&lt; [[BCU0260]] Organisatsioonikäitumine\\<br />&lt; [[BCU1390]] Praktika ehitiste hooldusettevõttes\\<br />&lt; [[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes\\<br />&lt; [[BCU0720]] Projektijuhtimine\\<br />&lt; [[BCU2060]] Raamatupidamine kinnisvara halduses\\<br />&lt; [[BCU0930]] Riski- ja ohutusõpetus\\<br />&lt; [[BCU1250]] Soojus- ja gaasivarustus\\<br />&lt; [[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud\\<br />&lt; [[BCU1190]] Tehnovõrkude ekspluatatsioon\\<br />&lt; [[BCU1000]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[BCU1150]] Tööõigus\\<br />&lt; [[BCU1011]] Tugevusõpetus I\\<br />&lt; [[BCU1012]] Tugevusõpetus II\\<br />&lt; [[BCU2080]] Turundus\\<br />&lt; [[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus\\<br />&lt; ===</strong> BDKR02<strong class="changes">/02</strong> - <strong class="changes">Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1477&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[BCU0960]] Arhitektuur\\<br />&lt; [[BCU1061]] Arvutigraafika I\\<br />&lt; [[BCU1062]] Arvutigraafika II\\<br />&lt; [[BCU1240]] Automaatika alused\\<br />&lt; [[BCU1040]] Ehitiste mõõdistamine\\<br />&lt; [[BCU1380]] Ehitiste mõõdistamine - õppepraktika\\<br />&lt; [[BCU1110]] Ehitiste renoveerimine\\<br />&lt; [[BCU1070]] Ehitusfüüsika\\<br />&lt; [[BCU1030]] Ehitusgraafika alused\\<br />&lt; [[BCU1130]] Ehitusinvesteeringute plaanimine\\<br />&lt; [[BCU1080]] Ehituskonstruktsioonide üldkursus\\<br />&lt; [[BCU1090]] Ehituskorraldus\\<br />&lt; [[BCU1290]] Ehitusmaksumuse plaanimine\\<br />&lt; [[BCU1280]] Ehitusmaterjalid\\<br />&lt; [[BCU1020]] Ehitusmehaanika\\<br />&lt; [[BCU1100]] Ehitus-remonttööde tehnoloogia\\<br />&lt; [[BCU1210]] Elektroonika\\<br />&lt; [[BCU1200]] Elektrotehnika\\<br />&lt; [[BCU1160]] Ettevõttemajandus\\<br />&lt; [[BCU0070]] Euroopa Liidu dokumendid\\<br />&lt; [[BCU1230]] Hoonete automatiseerimine\\<br />&lt; [[BCU1220]] Hüdraulika, pumbad ja ventilaatorid\\<br />&lt; [[BCU0951]] Informaatika I\\<br />&lt; [[BCU0952]] Informaatika II\\<br />&lt; [[BCU0970]] Inglise keel\\<br />&lt; [[BCU0920]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[BCU0750]] Keskkonnaökonoomika\\<br />&lt; [[BCU1140]] Kinnisvara haldamine\\<br />&lt; [[BCU1300]] Kinnisvara hindamine\\<br />&lt; [[BCU1120]] Kinnisvara ökonoomika\\<br />&lt; [[BCU1360]] Korrosioonikaitse\\<br />&lt; [[BCU1270]] Küte ja ventilatsioon\\<br />&lt; [[BCU1370]] Lepinguõigus\\<br />&lt; [[BCU0980]] Lineaaralgebra\\<br />&lt; [[BCU1170]] Linna elukeskkond ja eluasemeprotsess\\<br />&lt; [[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö\\<br />&lt; [[BCU1350]] Linnamajanduse korraldus\\<br />&lt; [[BCU0990]] Matemaatiline analüüs\\<br />&lt; [[BCU0940]] Mikro- ja makroökonoomika\\<br />&lt; [[BCU1050]] Õigusõpetus\\<br />&lt; [[BCU0260]] Organisatsioonikäitumine\\<br />&lt; [[BCU1390]] Praktika ehitiste hooldusettevõttes\\<br />&lt; [[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes\\<br />&lt; [[BCU0930]] Riski- ja ohutusõpetus\\<br />&lt; [[BCU1330]] Situatsioonimäng eluasemekorralduses\\<br />&lt; [[BCU1250]] Soojus- ja gaasivarustus\\<br />&lt; [[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud\\<br />&lt; [[BCU1340]] Sotsiaalpoliitika ja sotsioloogilised uuringud</strong> - <strong class="changes">uurimistöö\\<br />&lt; [[BCU1190]] Tehnovõrkude ekspluatatsioon\\<br />&lt; [[BCU1000]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[BCU1150]] Tööõigus\\<br />&lt; [[BCU1011]] Tugevusõpetus I\\<br />&lt; [[BCU1012]] Tugevusõpetus II\\<br />&lt; [[BCU1260]] Veevarustus, kanalisatsioon ja jäätmeärastus\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>BDKR02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>BDKR02-<strong class="changes">06"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "BDKR02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203589
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885573
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === BDKR02/09 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=50026&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[BCU3540]] Arhitektuur\\
-	[[BCU1910]] Ärilogistika\\
-	[[BCU0451]] Äritegevuse alused\\
-	[[BCU0141]] Arvestuse alused\\
-	[[BCU3230]] Arvutigraafika\\
-	[[BCU3570]] Automaatika alused\\
-	[[BCU3130]] Eesti keele väljendusõpetus\\
-	[[BCU1040]] Ehitiste mõõdistamine\\
-	[[BCU3730]] Ehitiste  mõõdistamine - õppepraktika\\
-	[[BCU1110]] Ehitiste renoveerimine\\
-	[[BCU3670]] Ehitusfüüsika\\
-	[[BCU3520]] Ehitusgraafika alused\\
-	[[BCU1130]] Ehitusinvesteeringute plaanimine\\
-	[[BCU3680]] Ehituskonstruktsioonide üldkursus\\
-	[[BCU1090]] Ehituskorraldus\\
-	[[BCU1290]] Ehitusmaksumuse plaanimine\\
-	[[BCU3640]] Ehitusmaterjalid\\
-	[[BCU1020]] Ehitusmehaanika\\
-	[[BCU3660]] Ehitus-remonttööde tehnoloogia\\
-	[[BCU3560]] Elektroonika\\
-	[[BCU3550]] Elektrotehnika\\
-	[[BCU3650]] Hoonete automatiseerimine\\
-	[[BCU0330]] Informaatika\\
-	[[BCU3200]] Inglise erialakeel\\
-	[[BCU0471]] Inglise keel I\\
-	[[BCU0472]] Inglise keel II\\
-	[[BCU1940]] Innovatsioon ja tootearendus\\
-	[[BCU3590]] Keskkonnakaitse ja säästev areng\\
-	[[BCU1140]] Kinnisvara haldamine\\
-	[[BCU1300]] Kinnisvara hindamine\\
-	[[BCU2070]] Kinnisvaraõigus\\
-	[[BCU0860]] Kinnisvara ökonoomika\\
-	[[BCU3740]] Küte ja ventilatsioon\\
-	[[BCU1350]] Linnamajanduse korraldus\\
-	[[BCU3850]] Majandusmatemaatika I\\
-	[[BCU3860]] Majandusmatemaatika II\\
-	[[BCU3610]] Mikroökonoomika\\
-	[[BCU2010]] Müügijuhtimine\\
-	[[BCU3480]] Õiguse alused\\
-	[[BCU1890]] Operatsioonijuhtimine\\
-	[[BCU3780]] Praktika ehitiste hooldusettevõttes\\
-	[[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes\\
-	[[BCU3360]] Projektijuhtimine\\
-	[[BCU2060]] Raamatupidamine kinnisvara halduses\\
-	[[BCU3510]] Riski- ja ohutusõpetus\\
-	[[BCU1250]] Soojus- ja gaasivarustus\\
-	[[BCU3220]] Statistika ja tõenäosusteooria\\
-	[[BCU1190]] Tehnovõrkude ekspluatatsioon\\
-	[[BCU1630]] Tööõigus\\
-	[[BCU3300]] Tugevusõpetus\\
-	[[BCU3400]] Turundus\\
-	[[BCU3240]] Uurimistöö alused\\
-	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus\\
-	=== BDKR02/06 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=4088&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[BCU0960]] Arhitektuur\\
-	[[BCU1061]] Arvutigraafika I\\
-	[[BCU1062]] Arvutigraafika II\\
-	[[BCU1240]] Automaatika alused\\
-	[[BCU1040]] Ehitiste mõõdistamine\\
-	[[BCU1380]] Ehitiste mõõdistamine - õppepraktika\\
-	[[BCU1110]] Ehitiste renoveerimine\\
-	[[BCU1070]] Ehitusfüüsika\\
-	[[BCU1030]] Ehitusgraafika alused\\
-	[[BCU1130]] Ehitusinvesteeringute plaanimine\\
-	[[BCU1080]] Ehituskonstruktsioonide üldkursus\\
-	[[BCU1090]] Ehituskorraldus\\
-	[[BCU1290]] Ehitusmaksumuse plaanimine\\
-	[[BCU1280]] Ehitusmaterjalid\\
-	[[BCU1020]] Ehitusmehaanika\\
-	[[BCU1100]] Ehitus-remonttööde tehnoloogia\\
-	[[BCU1210]] Elektroonika\\
-	[[BCU1200]] Elektrotehnika\\
-	[[BCU1160]] Ettevõttemajandus\\
-	[[BCU1230]] Hoonete automatiseerimine\\
-	[[BCU1220]] Hüdraulika, pumbad ja ventilaatorid\\
-	[[BCU0951]] Informaatika I\\
-	[[BCU0952]] Informaatika II\\
-	[[BCU0970]] Inglise keel\\
-	[[BCU0920]] Keskkonnakaitse ja säästev areng\\
-	[[BCU0750]] Keskkonnaökonoomika\\
-	[[BCU1140]] Kinnisvara haldamine\\
-	[[BCU1300]] Kinnisvara hindamine\\
-	[[BCU2070]] Kinnisvaraõigus\\
-	[[BCU1120]] Kinnisvara ökonoomika\\
-	[[BCU1360]] Korrosioonikaitse\\
-	[[BCU1270]] Küte ja ventilatsioon\\
-	[[BCU1370]] Lepinguõigus\\
-	[[BCU0980]] Lineaaralgebra\\
-	[[BCU1170]] Linna elukeskkond ja eluasemeprotsess\\
-	[[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö\\
-	[[BCU1350]] Linnamajanduse korraldus\\
-	[[BCU0990]] Matemaatiline analüüs\\
-	[[BCU0940]] Mikro- ja makroökonoomika\\
-	[[BCU0260]] Organisatsioonikäitumine\\
-	[[BCU1390]] Praktika ehitiste hooldusettevõttes\\
-	[[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes\\
-	[[BCU0720]] Projektijuhtimine\\
-	[[BCU2060]] Raamatupidamine kinnisvara halduses\\
-	[[BCU0930]] Riski- ja ohutusõpetus\\
-	[[BCU1250]] Soojus- ja gaasivarustus\\
-	[[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud\\
-	[[BCU1190]] Tehnovõrkude ekspluatatsioon\\
-	[[BCU1000]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[BCU1150]] Tööõigus\\
-	[[BCU1011]] Tugevusõpetus I\\
-	[[BCU1012]] Tugevusõpetus II\\
-	[[BCU2080]] Turundus\\
-	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus\\
-	=== BDKR02/02 - Kinnisvara haldamine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=1477&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[BCU0960]] Arhitektuur\\
-	[[BCU1061]] Arvutigraafika I\\
-	[[BCU1062]] Arvutigraafika II\\
-	[[BCU1240]] Automaatika alused\\
-	[[BCU1040]] Ehitiste mõõdistamine\\
-	[[BCU1380]] Ehitiste mõõdistamine - õppepraktika\\
-	[[BCU1110]] Ehitiste renoveerimine\\
-	[[BCU1070]] Ehitusfüüsika\\
-	[[BCU1030]] Ehitusgraafika alused\\
-	[[BCU1130]] Ehitusinvesteeringute plaanimine\\
-	[[BCU1080]] Ehituskonstruktsioonide üldkursus\\
-	[[BCU1090]] Ehituskorraldus\\
-	[[BCU1290]] Ehitusmaksumuse plaanimine\\
-	[[BCU1280]] Ehitusmaterjalid\\
-	[[BCU1020]] Ehitusmehaanika\\
-	[[BCU1100]] Ehitus-remonttööde tehnoloogia\\
-	[[BCU1210]] Elektroonika\\
-	[[BCU1200]] Elektrotehnika\\
-	[[BCU1160]] Ettevõttemajandus\\
-	[[BCU0070]] Euroopa Liidu dokumendid\\
-	[[BCU1230]] Hoonete automatiseerimine\\
-	[[BCU1220]] Hüdraulika, pumbad ja ventilaatorid\\
-	[[BCU0951]] Informaatika I\\
-	[[BCU0952]] Informaatika II\\
-	[[BCU0970]] Inglise keel\\
-	[[BCU0920]] Keskkonnakaitse ja säästev areng\\
-	[[BCU0750]] Keskkonnaökonoomika\\
-	[[BCU1140]] Kinnisvara haldamine\\
-	[[BCU1300]] Kinnisvara hindamine\\
-	[[BCU1120]] Kinnisvara ökonoomika\\
-	[[BCU1360]] Korrosioonikaitse\\
-	[[BCU1270]] Küte ja ventilatsioon\\
-	[[BCU1370]] Lepinguõigus\\
-	[[BCU0980]] Lineaaralgebra\\
-	[[BCU1170]] Linna elukeskkond ja eluasemeprotsess\\
-	[[BCU1180]] Linna elukeskkond ja eluasemeprotsess - ainetöö\\
-	[[BCU1350]] Linnamajanduse korraldus\\
-	[[BCU0990]] Matemaatiline analüüs\\
-	[[BCU0940]] Mikro- ja makroökonoomika\\
-	[[BCU1050]] Õigusõpetus\\
-	[[BCU0260]] Organisatsioonikäitumine\\
-	[[BCU1390]] Praktika ehitiste hooldusettevõttes\\
-	[[BCU1400]] Praktika kinnisvara haldus- ja arendusettevõttes\\
-	[[BCU0930]] Riski- ja ohutusõpetus\\
-	[[BCU1330]] Situatsioonimäng eluasemekorralduses\\
-	[[BCU1250]] Soojus- ja gaasivarustus\\
-	[[BCU1310]] Sotsiaalpoliitika ja sotsioloogilised uuringud\\
-	[[BCU1340]] Sotsiaalpoliitika ja sotsioloogilised uuringud - uurimistöö\\
-	[[BCU1190]] Tehnovõrkude ekspluatatsioon\\
-	[[BCU1000]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[BCU1150]] Tööõigus\\
-	[[BCU1011]] Tugevusõpetus I\\
-	[[BCU1012]] Tugevusõpetus II\\
-	[[BCU1260]] Veevarustus, kanalisatsioon ja jäätmeärastus\\
+text: <include "BDKR02-09">
+	
+	<include "BDKR02-06">
+	
+	<include "BDKR02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885573

@@ -1,0 +1,46 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IVEM11/14 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50249&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEE0740]] Biomeditsiinielektroonika<br />[[DBR0160]] Biosensoorika<br />[[IEE0420]] Elektronsüsteemid - kompleksprojekt<br />[[IED3100]] Elektroonika- ja sidetööstus<br />[[IED3090]] Erialapraktika<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IEE0620]] Intelligentne energia haldus<br />[[IED3040]] Kiipdisain<br />[[IAY0550]] Kiipsüsteemide disain<br />[[IEE0610]] Kognitiivne side<br />[[IAG0420]] Küberturbe põhialused ja juhtimine<br />[[KYP0090]] Materjalid mikrotehnoloogiale<br />[[MHK0031]] Mehhatroonikasüsteemid<br />[[IED3030]] Mikroelektroonika<br />[[IEE0010]] Mikrokontrollerite programmeerimine C-keeles<br />[[IRT0180]] Multimeedia tehnoloogiad<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[IED3020]] Pooljuhtseadiste simuleerimine<br />[[IEE0630]] Prototüüpimine I<br />[[IEE0640]] Prototüüpimine II<br />[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus<br />[[IEE0510]] Reaalaja sardsüsteemid<br />[[IAY0330]] Sardsüsteemid<br />[[IEE0410]] Sidetehnoloogiad<br />[[IRO0140]] Signaalide aegruumilise töötlemise meetodid<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[IEE0210]] Tarkade asjade võrgud<br />[[IEM3020]] Test ja diagnostika<br />[[IRT0210]] Võrgutehnoloogiad</p>
+diff-minor: 
+ts: 1408891456
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IVEM11/14 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50249&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IED3010]] Analoog/digitaal skeemide disain
+	[[IEM3040]] Andmehõivesüsteemid
+	[[IEE0740]] Biomeditsiinielektroonika
+	[[DBR0160]] Biosensoorika
+	[[IEE0420]] Elektronsüsteemid - kompleksprojekt
+	[[IED3100]] Elektroonika- ja sidetööstus
+	[[IED3090]] Erialapraktika
+	[[TMJ1030]] Ettevõtlus ja äri planeerimine
+	[[IEE0620]] Intelligentne energia haldus
+	[[IED3040]] Kiipdisain
+	[[IAY0550]] Kiipsüsteemide disain
+	[[IEE0610]] Kognitiivne side
+	[[IAG0420]] Küberturbe põhialused ja juhtimine
+	[[KYP0090]] Materjalid mikrotehnoloogiale
+	[[MHK0031]] Mehhatroonikasüsteemid
+	[[IED3030]] Mikroelektroonika
+	[[IEE0010]] Mikrokontrollerite programmeerimine C-keeles
+	[[IRT0180]] Multimeedia tehnoloogiad
+	[[IEM3010]] Navigeerimine ja positsioneerimine
+	[[IED3020]] Pooljuhtseadiste simuleerimine
+	[[IEE0630]] Prototüüpimine I
+	[[IEE0640]] Prototüüpimine II
+	[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus
+	[[IEE0510]] Reaalaja sardsüsteemid
+	[[IAY0330]] Sardsüsteemid
+	[[IEE0410]] Sidetehnoloogiad
+	[[IRO0140]] Signaalide aegruumilise töötlemise meetodid
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[IEE0210]] Tarkade asjade võrgud
+	[[IEM3020]] Test ja diagnostika
+	[[IRT0210]] Võrgutehnoloogiad
+	
+	
+keep-ts: 1408891456

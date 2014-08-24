@@ -1,0 +1,36 @@
+flags: 010101010101010101010101010101010101010101010
+blocks: <h2>TAAM02/02 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=720&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTR1020]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TET1040]] Euroopa Liidu majandus<br />[[TER1364]] Finants- ja väärtpaberianalüüs<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TEM1260]] Kvantitatiivne majandusteooria<br />[[TTR1070]] Magistriseminar<br />[[TET1020]] Makroökonoomika<br />[[TEM9080]] Matemaatilised meetodid majanduses<br />[[TET1010]] Mikroökonoomika<br />[[TES1010]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TER1230]] Rahvusvaheline rahandus<br />[[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine<br />[[TTS1040]] Sotsiaalökonoomika<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TAK1010]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TTP1010]] Tehnopoliitika<br />[[TER1351]] Väärtpaberid ja portfelliteooria</p>
+diff-minor: 
+ts: 1408891600
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TAAM02/02 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=720&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TTR1020]] Arenguökonoomika
+	[[TTR1030]] Avaliku sektori ökonoomika
+	[[TTP1020]] Eesti majandus
+	[[TET1040]] Euroopa Liidu majandus
+	[[TER1364]] Finants- ja väärtpaberianalüüs
+	[[IDK0080]] Informaatika majandusmagistrantidele
+	[[TEM1260]] Kvantitatiivne majandusteooria
+	[[TTR1070]] Magistriseminar
+	[[TET1020]] Makroökonoomika
+	[[TEM9080]] Matemaatilised meetodid majanduses
+	[[TET1010]] Mikroökonoomika
+	[[TES1010]] Ökonomeetria
+	[[TEM1280]] Operatsioonianalüüs
+	[[TER1230]] Rahvusvaheline rahandus
+	[[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine
+	[[TTS1040]] Sotsiaalökonoomika
+	[[TTS1010]] Sotsiaalpoliitika
+	[[TAK1010]] Strateegiline juhtimisarvestus ja kulujuhtimine
+	[[HLX8040]] Teadusvõõrkeel
+	[[TTP1010]] Tehnopoliitika
+	[[TER1351]] Väärtpaberid ja portfelliteooria
+	
+	
+keep-ts: 1408891600

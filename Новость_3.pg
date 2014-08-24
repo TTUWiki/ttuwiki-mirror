@@ -8,8 +8,8 @@ minor:
 host: 89.235.223.25
 username: AlexDaniel
 revision: 4
-diff-major: 1
 summary: Дата
+diff-major: 1
 languages: 
 text: Как и обещал, исходники:
 	https://github.com/TTUWiki/ttuwiki-website

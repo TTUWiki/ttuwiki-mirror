@@ -1,0 +1,49 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MAPD02/02 - Mehhanotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=1319&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[MXX9040]] Ametipraktika<br />[[MEX9020]] Doktoriseminar<br />[[KYP9040]] Elektronmaterjalid<br />[[MST9040]] Energiamajandus ja plaanimine<br />[[MSJ9010]] Gaasipoolsed protsessid kateldes<br />[[ITI9100]] Hübriidsete süsteemide erikursus<br />[[UTT9030]] Hüdro- ja aerodünaamika eripeatükid<br />[[HHP9010]] Juhtimispsühholoogia<br />[[MHD9003]] Kehade süsteemi dünaamika<br />[[HHP9020]] Kõrgkoolididaktika<br />[[MHX9050]] Kõrgsuutlikud konstruktsioonikomponendid<br />[[MTX9010]] Kõrgtehnoloogiamaterjalid<br />[[MTT9130]] Kulumine ja kulumiskindlad materjalid<br />[[MSJ9020]] Kütuste põletamise uued tehnoloogiad ja kombiseadmed<br />[[EMR9100]] Mehaanika eripeatükid<br />[[MHK9070]] Mehhatroonikasüsteemi süntees<br />[[MSE9030]] Mittetraditsioonilised kütused ja energiaallikad<br />[[MES9150]] Moodulsüsteemide projekteerimine<br />[[MER9020]] Optimaalse projekteerimise matemaatilised meetodid<br />[[MTM9120]] Pinded<br />[[MTT9110]] Pulbermaterjaliõpetus<br />[[MER9010]] Raalintegreeritud projekteerimine ja tootmine<br />[[MEA9010]] Sõidukite dünaamika<br />[[MSE9010]] Soojustehnilised protsessid seadmetes<br />[[MSE9020]] Soojusvarustussüsteemide optimeerimine<br />[[MHT9070]] Süsteemitehnika meetodid kvaliteediohjes<br />[[ISS9010]] Süsteemiteooria<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[MET9010]] Tehnoloogiaprotsessi simulatsioonitehnika<br />[[MHT9030]] Teoreetiline metroloogia<br />[[MHX9090]] Tribosüsteemid<br />[[MST9010]] Üksikseadme soojusfüüsika<br />[[MEX9010]] Uurimisteemakeskne individuaalõpe</p>
+diff-minor: 
+ts: 1408891508
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MAPD02/02 - Mehhanotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=1319&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[MXX9040]] Ametipraktika
+	[[MEX9020]] Doktoriseminar
+	[[KYP9040]] Elektronmaterjalid
+	[[MST9040]] Energiamajandus ja plaanimine
+	[[MSJ9010]] Gaasipoolsed protsessid kateldes
+	[[ITI9100]] Hübriidsete süsteemide erikursus
+	[[UTT9030]] Hüdro- ja aerodünaamika eripeatükid
+	[[HHP9010]] Juhtimispsühholoogia
+	[[MHD9003]] Kehade süsteemi dünaamika
+	[[HHP9020]] Kõrgkoolididaktika
+	[[MHX9050]] Kõrgsuutlikud konstruktsioonikomponendid
+	[[MTX9010]] Kõrgtehnoloogiamaterjalid
+	[[MTT9130]] Kulumine ja kulumiskindlad materjalid
+	[[MSJ9020]] Kütuste põletamise uued tehnoloogiad ja kombiseadmed
+	[[EMR9100]] Mehaanika eripeatükid
+	[[MHK9070]] Mehhatroonikasüsteemi süntees
+	[[MSE9030]] Mittetraditsioonilised kütused ja energiaallikad
+	[[MES9150]] Moodulsüsteemide projekteerimine
+	[[MER9020]] Optimaalse projekteerimise matemaatilised meetodid
+	[[MTM9120]] Pinded
+	[[MTT9110]] Pulbermaterjaliõpetus
+	[[MER9010]] Raalintegreeritud projekteerimine ja tootmine
+	[[MEA9010]] Sõidukite dünaamika
+	[[MSE9010]] Soojustehnilised protsessid seadmetes
+	[[MSE9020]] Soojusvarustussüsteemide optimeerimine
+	[[MHT9070]] Süsteemitehnika meetodid kvaliteediohjes
+	[[ISS9010]] Süsteemiteooria
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	[[MET9010]] Tehnoloogiaprotsessi simulatsioonitehnika
+	[[MHT9030]] Teoreetiline metroloogia
+	[[MHX9090]] Tribosüsteemid
+	[[MST9010]] Üksikseadme soojusfüüsika
+	[[MEX9010]] Uurimisteemakeskne individuaalõpe
+	
+	
+keep-ts: 1408891508

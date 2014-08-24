@@ -1,0 +1,123 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>EAKI02/02 - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=623&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[ISS0090]] Arukad hooned<br />[[YGI3101]] Arvutigraafika  I<br />[[YGI3102]] Arvutigraafika  II<br />[[ISS0120]] Automaatika alused<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[EEA3460]] Ehitusfüüsika<br />[[YGK0021]] Ehitusgraafika I<br />[[YGK0022]] Ehitusgraafika II<br />[[EEP3440]] Ehituskonstruktsioonid<br />[[EPJ0060]] Ehituskorraldus<br />[[EPM3500]] Ehitusmaterjalid<br />[[EME0011]] Ehitusmehaanika I<br />[[EME0012]] Ehitusmehaanika II<br />[[EKV3102]] Ehituspraktika II<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[EKK0061]] Gaasivarustus<br />[[EKK0062]] Gaasivarustus - projekt<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[EKE0070]] Geoinformaatika<br />[[EEK0010]] Geotehnika alused<br />[[HHR0010]] Haldusjuhtimine ja halduskorraldus<br />[[EEA0050]] Hooned<br />[[EKK0050]] Hoonete sisekliima<br />[[EKV0031]] Hoone veevärk ja kanalisatsioon I<br />[[EKV0033]] Hoone veevärk ja kanalisatsioon II<br />[[EKV0032]] Hoone veevärk ja kanalisatsioon - projekt<br />[[EMH0031]] Hüdraulika I<br />[[EMH0032]] Hüdraulika II<br />[[AKG0091]] Hüdrogeoloogia<br />[[EMH5020]] Hüdro- ja aeromehaanika<br />[[EKE3050]] Hüdroloogia ja vesiehitised<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[HHF3300]] Insenerieetika<br />[[EKV0041]] Jäätmekäitlus I<br />[[EKV0042]] Jäätmekäitlus II<br />[[EKK0141]] Jahutus ja külmatehnika<br />[[EKK0142]] Jahutus ja külmatehnika - projekt<br />[[HHP3540]] Juhtimispsühholoogia<br />[[EKV0051]] Kanalisatsioonivõrk ja pumplad<br />[[EKV0052]] Kanalisatsioonivõrk ja pumplad - projekt<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[MTT0050]] Keevitus<br />[[EKE3710]] Keskkonnakaitse<br />[[EKE0021]] Keskkonnakorraldus<br />[[EKE0022]] Keskkonnakorraldus - ainetöö<br />[[EKE0050]] Keskkonnameetmete ökonoomika<br />[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EKE0011]] Keskkonnapoliitika ja -juhtimissüsteemid<br />[[EKE0012]] Keskkonnapoliitika ja -juhtimissüsteemid - ainetöö<br />[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia<br />[[EKK0090]] Keskkonnasäästlik energeetika<br />[[EKE8110]] Keskkonnaseisundi mõjurid ja seire<br />[[EKV0090]] Korrosioonitõrje<br />[[YGK0010]] Kujutav geomeetria<br />[[EKK0011]] Küte<br />[[EKK0130]] Küte ja ventilatsioon<br />[[EKK0012]] Küte - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[EKE0040]] Maastikuökoloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EPJ0010]] Mikro- ja makroökonoomika<br />[[EKK0041]] Õhu konditsioneerimine<br />[[EKK0042]] Õhu konditsioneerimine - projekt<br />[[EKK0100]] Õhu kvaliteet ja atmosfääri kaitse<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEA3640]] Plaanimine ja teed<br />[[EEA3430]] Projekteerimispraktika<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[EKV0053]] Reoveekäitlus<br />[[EKV0054]] Reoveekäitlus - projekt<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[MSE0061]] Soojusgeneraatorid<br />[[MSE0062]] Soojusgeneraatorid - ainetöö<br />[[EKK0080]] Soojustehnika<br />[[EKK0031]] Soojusvarustus<br />[[EKK0032]] Soojusvarustus - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[EKK0120]] Tehnosüsteemide materjalid<br />[[EKV0060]] Tehnosüsteemide tehnoloogia<br />[[EPJ3940]] Tehnovõrkude ekspluatatsioon<br />[[EKK0110]] Tehnovõrkude renoveerimine<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[EKV3103]] Tootmispraktika<br />[[EKV0021]] Ühisveevärk I<br />[[EKV0022]] Ühisveevärk II<br />[[EKV0023]] Ühisveevärk II - projekt<br />[[EKE3030]] Vee keemia ja mikrobioloogia<br />[[EKV0070]] Veekogude veekvaliteet ja veesääst<br />[[EXX0011]] Veetorustikud ja modelleerimine<br />[[EXX0012]] Veetorustikud ja modelleerimine - projekt<br />[[EKK0021]] Ventilatsioon<br />[[EKK0022]] Ventilatsioon - projekt<br />[[YGD0031]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == EAKI02/02 - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=623&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel<br />&lt; [[ISS0090]] Arukad hooned<br />&lt; [[YGI3101]] Arvutigraafika  I<br />&lt; [[YGI3102]] Arvutigraafika  II<br />&lt; [[ISS0120]] Automaatika alused<br />&lt; [[YMR0010]] Diferentsiaalvõrrandid<br />&lt; [[EPJ3720]] Ehituse maksumuse hindamine<br />&lt; [[EPJ0020]] Ehitusettevõtte ökonoomika<br />&lt; [[EEA3460]] Ehitusfüüsika<br />&lt; [[YGK0021]] Ehitusgraafika I<br />&lt; [[YGK0022]] Ehitusgraafika II<br />&lt; [[EEP3440]] Ehituskonstruktsioonid<br />&lt; [[EPJ0060]] Ehituskorraldus<br />&lt; [[EPM3500]] Ehitusmaterjalid<br />&lt; [[EME0011]] Ehitusmehaanika I<br />&lt; [[EME0012]] Ehitusmehaanika II<br />&lt; [[EKV3102]] Ehituspraktika II<br />&lt; [[AME3130]] Elektrotehnika<br />&lt; [[HHF3070]] Filosoofia<br />&lt; [[YFR0011]] Füüsika I<br />&lt; [[YFR0012]] Füüsika II<br />&lt; [[EKK0061]] Gaasivarustus<br />&lt; [[EKK0062]] Gaasivarustus - projekt<br />&lt; [[ETG0011]] Geodeesia I<br />&lt; [[ETG0012]] Geodeesia II<br />&lt; [[ETG0013]] Geodeesia õppepraktika<br />&lt; [[EKE0070]] Geoinformaatika<br />&lt; [[EEK0010]] Geotehnika alused<br />&lt; [[HHR0010]] Haldusjuhtimine ja halduskorraldus<br />&lt; [[EEA0050]] Hooned<br />&lt; [[EKK0050]] Hoonete sisekliima<br />&lt; [[EKV0031]] Hoone veevärk ja kanalisatsioon I<br />&lt; [[EKV0033]] Hoone veevärk ja kanalisatsioon II<br />&lt; [[EKV0032]] Hoone veevärk ja kanalisatsioon - projekt<br />&lt; [[EMH0031]] Hüdraulika I<br />&lt; [[EMH0032]] Hüdraulika II<br />&lt; [[AKG0091]] Hüdrogeoloogia<br />&lt; [[EMH5020]] Hüdro- ja aeromehaanika<br />&lt; [[EKE3050]] Hüdroloogia ja vesiehitised<br />&lt; [[IDK0011]] Informaatika I<br />&lt; [[IDK0012]] Informaatika II<br />&lt; [[HHF3300]] Insenerieetika<br />&lt; [[EKV0041]] Jäätmekäitlus I<br />&lt; [[EKV0042]] Jäätmekäitlus II<br />&lt; [[EKK0141]] Jahutus ja külmatehnika<br />&lt; [[EKK0142]] Jahutus ja külmatehnika - projekt<br />&lt; [[HHP3540]] Juhtimispsühholoogia<br />&lt; [[EKV0051]] Kanalisatsioonivõrk ja pumplad<br />&lt; [[EKV0052]] Kanalisatsioonivõrk ja pumplad - projekt<br />&lt; [[YKI3030]] Keemia ja materjaliõpetus<br />&lt; [[MTT0050]] Keevitus<br />&lt; [[EKE3710]] Keskkonnakaitse<br />&lt; [[EKE0021]] Keskkonnakorraldus<br />&lt; [[EKE0022]] Keskkonnakorraldus - ainetöö<br />&lt; [[EKE0050]] Keskkonnameetmete ökonoomika<br />&lt; [[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />&lt; [[EKE0011]] Keskkonnapoliitika ja -juhtimissüsteemid<br />&lt; [[EKE0012]] Keskkonnapoliitika ja -juhtimissüsteemid - ainetöö<br />&lt; [[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia<br />&lt; [[EKK0090]] Keskkonnasäästlik energeetika<br />&lt; [[EKE8110]] Keskkonnaseisundi mõjurid ja seire<br />&lt; [[EKV0090]] Korrosioonitõrje<br />&lt; [[YGK0010]] Kujutav geomeetria<br />&lt; [[EKK0011]] Küte<br />&lt; [[EKK0130]] Küte ja ventilatsioon<br />&lt; [[EKK0012]] Küte - projekt<br />&lt; [[YMA3710]] Lineaaralgebra<br />&lt; [[EKE0040]] Maastikuökoloogia<br />&lt; [[YMM3731]] Matemaatiline analüüs I<br />&lt; [[YMM0012]] Matemaatiline analüüs II<br />&lt; [[EPJ0010]] Mikro- ja makroökonoomika<br />&lt; [[EKK0041]] Õhu konditsioneerimine<br />&lt; [[EKK0042]] Õhu konditsioneerimine - projekt<br />&lt; [[EKK0100]] Õhu kvaliteet ja atmosfääri kaitse<br />&lt; [[TTO3160]] Õigusõpetus<br />&lt; [[UTT0010]] Õpingukorraldus<br />&lt; [[EEA3640]] Plaanimine ja teed<br />&lt; [[EEA3430]] Projekteerimispraktika<br />&lt; [[EMH0040]] Pumbad ja ventilaatorid<br />&lt; [[EKV0053]] Reoveekäitlus<br />&lt; [[EKV0054]] Reoveekäitlus - projekt<br />&lt; [[TMT3830]] Riski- ja ohutusõpetus<br />&lt; [[MSE0061]] Soojusgeneraatorid<br />&lt; [[MSE0062]] Soojusgeneraatorid - ainetöö<br />&lt; [[EKK0080]] Soojustehnika<br />&lt; [[EKK0031]] Soojusvarustus<br />&lt; [[EKK0032]] Soojusvarustus - projekt<br />&lt; [[HLX8040]] Teadusvõõrkeel<br />&lt; [[EMD0011]] Tehniline mehaanika I<br />&lt; [[EMD0012]] Tehniline mehaanika II<br />&lt; [[EKK0120]] Tehnosüsteemide materjalid<br />&lt; [[EKV0060]] Tehnosüsteemide tehnoloogia<br />&lt; [[EPJ3940]] Tehnovõrkude ekspluatatsioon<br />&lt; [[EKK0110]] Tehnovõrkude renoveerimine<br />&lt; [[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />&lt; [[EKV3103]] Tootmispraktika<br />&lt; [[EKV0021]] Ühisveevärk I<br />&lt; [[EKV0022]] Ühisveevärk II<br />&lt; [[EKV0023]] Ühisveevärk II - projekt<br />&lt; [[EKE3030]] Vee keemia ja mikrobioloogia<br />&lt; [[EKV0070]] Veekogude veekvaliteet ja veesääst<br />&lt; [[EXX0011]] Veetorustikud ja modelleerimine<br />&lt; [[EXX0012]] Veetorustikud ja modelleerimine - projekt<br />&lt; [[EKK0021]] Ventilatsioon<br />&lt; [[EKK0022]] Ventilatsioon - projekt<br />&lt; [[YGD0031]] Visuaalne kommunikatsioon I<br />&lt; [[YGD0032]] Visuaalne kommunikatsioon II</p></div>
+ts: 1408891329
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EAKI02/02 - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=623&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[ISS0090]] Arukad hooned
+	[[YGI3101]] Arvutigraafika  I
+	[[YGI3102]] Arvutigraafika  II
+	[[ISS0120]] Automaatika alused
+	[[YMR0010]] Diferentsiaalvõrrandid
+	[[EPJ3720]] Ehituse maksumuse hindamine
+	[[EPJ0020]] Ehitusettevõtte ökonoomika
+	[[EEA3460]] Ehitusfüüsika
+	[[YGK0021]] Ehitusgraafika I
+	[[YGK0022]] Ehitusgraafika II
+	[[EEP3440]] Ehituskonstruktsioonid
+	[[EPJ0060]] Ehituskorraldus
+	[[EPM3500]] Ehitusmaterjalid
+	[[EME0011]] Ehitusmehaanika I
+	[[EME0012]] Ehitusmehaanika II
+	[[EKV3102]] Ehituspraktika II
+	[[AME3130]] Elektrotehnika
+	[[HHF3070]] Filosoofia
+	[[YFR0011]] Füüsika I
+	[[YFR0012]] Füüsika II
+	[[EKK0061]] Gaasivarustus
+	[[EKK0062]] Gaasivarustus - projekt
+	[[ETG0011]] Geodeesia I
+	[[ETG0012]] Geodeesia II
+	[[ETG0013]] Geodeesia õppepraktika
+	[[EKE0070]] Geoinformaatika
+	[[EEK0010]] Geotehnika alused
+	[[HHR0010]] Haldusjuhtimine ja halduskorraldus
+	[[EEA0050]] Hooned
+	[[EKK0050]] Hoonete sisekliima
+	[[EKV0031]] Hoone veevärk ja kanalisatsioon I
+	[[EKV0033]] Hoone veevärk ja kanalisatsioon II
+	[[EKV0032]] Hoone veevärk ja kanalisatsioon - projekt
+	[[EMH0031]] Hüdraulika I
+	[[EMH0032]] Hüdraulika II
+	[[AKG0091]] Hüdrogeoloogia
+	[[EMH5020]] Hüdro- ja aeromehaanika
+	[[EKE3050]] Hüdroloogia ja vesiehitised
+	[[IDK0011]] Informaatika I
+	[[IDK0012]] Informaatika II
+	[[HHF3300]] Insenerieetika
+	[[EKV0041]] Jäätmekäitlus I
+	[[EKV0042]] Jäätmekäitlus II
+	[[EKK0141]] Jahutus ja külmatehnika
+	[[EKK0142]] Jahutus ja külmatehnika - projekt
+	[[HHP3540]] Juhtimispsühholoogia
+	[[EKV0051]] Kanalisatsioonivõrk ja pumplad
+	[[EKV0052]] Kanalisatsioonivõrk ja pumplad - projekt
+	[[YKI3030]] Keemia ja materjaliõpetus
+	[[MTT0050]] Keevitus
+	[[EKE3710]] Keskkonnakaitse
+	[[EKE0021]] Keskkonnakorraldus
+	[[EKE0022]] Keskkonnakorraldus - ainetöö
+	[[EKE0050]] Keskkonnameetmete ökonoomika
+	[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit
+	[[EKE0011]] Keskkonnapoliitika ja -juhtimissüsteemid
+	[[EKE0012]] Keskkonnapoliitika ja -juhtimissüsteemid - ainetöö
+	[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia
+	[[EKK0090]] Keskkonnasäästlik energeetika
+	[[EKE8110]] Keskkonnaseisundi mõjurid ja seire
+	[[EKV0090]] Korrosioonitõrje
+	[[YGK0010]] Kujutav geomeetria
+	[[EKK0011]] Küte
+	[[EKK0130]] Küte ja ventilatsioon
+	[[EKK0012]] Küte - projekt
+	[[YMA3710]] Lineaaralgebra
+	[[EKE0040]] Maastikuökoloogia
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[EPJ0010]] Mikro- ja makroökonoomika
+	[[EKK0041]] Õhu konditsioneerimine
+	[[EKK0042]] Õhu konditsioneerimine - projekt
+	[[EKK0100]] Õhu kvaliteet ja atmosfääri kaitse
+	[[TTO3160]] Õigusõpetus
+	[[UTT0010]] Õpingukorraldus
+	[[EEA3640]] Plaanimine ja teed
+	[[EEA3430]] Projekteerimispraktika
+	[[EMH0040]] Pumbad ja ventilaatorid
+	[[EKV0053]] Reoveekäitlus
+	[[EKV0054]] Reoveekäitlus - projekt
+	[[TMT3830]] Riski- ja ohutusõpetus
+	[[MSE0061]] Soojusgeneraatorid
+	[[MSE0062]] Soojusgeneraatorid - ainetöö
+	[[EKK0080]] Soojustehnika
+	[[EKK0031]] Soojusvarustus
+	[[EKK0032]] Soojusvarustus - projekt
+	[[HLX8040]] Teadusvõõrkeel
+	[[EMD0011]] Tehniline mehaanika I
+	[[EMD0012]] Tehniline mehaanika II
+	[[EKK0120]] Tehnosüsteemide materjalid
+	[[EKV0060]] Tehnosüsteemide tehnoloogia
+	[[EPJ3940]] Tehnovõrkude ekspluatatsioon
+	[[EKK0110]] Tehnovõrkude renoveerimine
+	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika
+	[[EKV3103]] Tootmispraktika
+	[[EKV0021]] Ühisveevärk I
+	[[EKV0022]] Ühisveevärk II
+	[[EKV0023]] Ühisveevärk II - projekt
+	[[EKE3030]] Vee keemia ja mikrobioloogia
+	[[EKV0070]] Veekogude veekvaliteet ja veesääst
+	[[EXX0011]] Veetorustikud ja modelleerimine
+	[[EXX0012]] Veetorustikud ja modelleerimine - projekt
+	[[EKK0021]] Ventilatsioon
+	[[EKK0022]] Ventilatsioon - projekt
+	[[YGD0031]] Visuaalne kommunikatsioon I
+	[[YGD0032]] Visuaalne kommunikatsioon II
+	
+	
+keep-ts: 1408891329

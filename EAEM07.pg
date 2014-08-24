@@ -1,125 +1,23 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>EAEM07/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50106&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[EEA0024]] Arhitektuur - projekt II<br />[[TTO1100]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[EEK0025]] Betoonkonstruktsioonid I<br />[[EEK0022]] Betoonkonstruktsioonid II<br />[[EEK0023]] Betoonkonstruktsioonid II - projekt<br />[[EEK0024]] Betoonkonstruktsioonid I - projekt<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EEA0033]] Ehitusfüüsika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[TTO0050]] Ehitusõigus<br />[[EPT0110]] Ehitustehnoloogia<br />[[EPT0111]] Ehitustehnoloogia erikursus<br />[[EMD0020]] Elastsusõpetus<br />[[EPT0131]] Erialapraktika<br />[[EEK0230]] Erikonstruktsioonid<br />[[EEA0011]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ0130]] Kinnisvaraökonoomika<br />[[EEK0060]] Kivikonstruktsioonid<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[EEK0031]] Metallkonstruktsioonide projekteerimine I<br />[[EEK0032]] Metallkonstruktsioonid II<br />[[EEK0033]] Metallkonstruktsioonid II - projekt<br />[[EPJ0140]] Plaanimine ja turg<br />[[EEA0025]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEK0050]] Puitkonstruktsioonid<br />[[EEK0053]] Puitkonstruktsioonide erikursus<br />[[EEK0100]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EMH0125]] Sadamate planeerimine<br />[[EMH0123]] Sadamate tehnovõrgud ja -seadmed<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[EEK0110]] Vesiehitiste projekteerimine<br />[[EEK0071]] Vundamendid<br /></p><h3>EAEM07/07 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4037&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[EEA0020]] Arhitektuur<br />[[EEA0030]] Arhitektuur - projekt I<br />[[EEA0040]] Arhitektuur - projekt II<br />[[TTO0020]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[EER0030]] Ehitiste katsetamine<br />[[EEP3580]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EEA3622]] Ehitusfüüsika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[TTO0050]] Ehitusõigus<br />[[EPT0012]] Ehitustehnoloogia II<br />[[EPT0013]] Ehitustehnoloogia - projekt<br />[[EMD0020]] Elastsusõpetus<br />[[EEG8400]] Geotehnilise projekteerimise erikursus<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0021]] Hüdrotehnilised ehitised sadamates<br />[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt<br />[[EPJ0050]] Infotehnoloogia ehituses<br />[[MTT0050]] Keevitus<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ3770]] Kinnisvaraökonoomika<br />[[EER0022]] Kivikonstruktsioonid - projekt<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[EEA8520]] Linnaehitus<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[AKG0200]] Mere geotehnika<br />[[EET8491]] Metallkonstruktsioonide erikursus<br />[[EET8492]] Metallkonstruktsioonide erikursus - projekt<br />[[EET0013]] Metallkonstruktsioonid II<br />[[EET0014]] Metallkonstruktsioonid II - projekt<br />[[EET0012]] Metallkonstruktsioonid I - projekt<br />[[EEA3640]] Plaanimine ja teed<br />[[EPJ3790]] Plaanimine ja turg<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEP0020]] Puitkonstruktsioonide erikursus<br />[[EEP0013]] Puitkonstruktsioonid - praktikum<br />[[EEP0012]] Puitkonstruktsioonid - projekt<br />[[EET0050]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EER8411]] Raudbetoonkonstruktsioonide erikursus<br />[[EER8412]] Raudbetoonkonstruktsioonide erikursus - projekt<br />[[EER0013]] Raudbetoonkonstruktsioonid II<br />[[EER0014]] Raudbetoonkonstruktsioonid II - projekt<br />[[EER0012]] Raudbetoonkonstruktsioonid I - projekt<br />[[EER0015]] Raudbetoonkonstruktsioonid - praktikum<br />[[EMH0121]] Sadamate planeerimine<br />[[EMH0122]] Sadamate planeerimine - projekt<br />[[EMH0151]] Sadamate tehnovõrgud ja -seadmed<br />[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[TTS1050]] Urbanistika<br />[[HHR0060]] Väljendus- ja vaidlusõpetus<br />[[EEG3450]] Vesiehitiste projekteerimine<br />[[EEG3442]] Vundamendid - projekt<br /></p>
+flags: 01010
+blocks: &lt;include "EAEM07-09"&gt;
+	&lt;include "EAEM07-07"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== EAEM07/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50106&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[EEA0024]] Arhitektuur - projekt II\\<br />&lt; [[TTO1100]] Äriõigus\\<br />&lt; [[TMM0030]] Ärisuhtlus\\<br />&lt; [[TAF3141]] Arvestuse alused\\<br />&lt; [[EEK0025]] Betoonkonstruktsioonid I\\<br />&lt; [[EEK0022]] Betoonkonstruktsioonid II\\<br />&lt; [[EEK0023]] Betoonkonstruktsioonid II - projekt\\<br />&lt; [[EEK0024]] Betoonkonstruktsioonid I - projekt\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[EEA0013]] Ehitiste renoveerimine\\<br />&lt; [[EPJ3750]] Ehituse juhtimine\\<br />&lt; [[EEA0033]] Ehitusfüüsika II\\<br />&lt; [[EPJ3760]] Ehitusinvesteeringud\\<br />&lt; [[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted\\<br />&lt; [[EPM0020]] Ehitusmaterjalide valikkursus\\<br />&lt; [[TTO0050]] Ehitusõigus\\<br />&lt; [[EPT0110]] Ehitustehnoloogia\\<br />&lt; [[EPT0111]] Ehitustehnoloogia erikursus\\<br />&lt; [[EMD0020]] Elastsusõpetus\\<br />&lt; [[EPT0131]] Erialapraktika\\<br />&lt; [[EEK0230]] Erikonstruktsioonid\\<br />&lt; [[EEA0011]] Hoonete konstruktsioonid\\<br />&lt; [[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\<br />&lt; [[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\<br />&lt; [[EMH0032]] Hüdraulika II\\<br />&lt; [[EMH0140]] Hüdrodünaamika erikursus\\<br />&lt; [[EXX0023]] Hüdrotehnilised ehitised sadamates\\<br />&lt; [[EPJ3810]] Kinnisvara haldamine\\<br />&lt; [[EPJ0130]] Kinnisvaraökonoomika\\<br />&lt; [[EEK0060]] Kivikonstruktsioonid\\<br />&lt; [[EMH0110]] Lainetuse dünaamika\\<br />&lt; [[TTO3280]] Lepinguõigus\\<br />&lt; [[EPJ3780]] Linnamajanduse korraldus\\<br />&lt; [[EEK0031]] Metallkonstruktsioonide projekteerimine I\\<br />&lt; [[EEK0032]] Metallkonstruktsioonid II\\<br />&lt; [[EEK0033]] Metallkonstruktsioonid II - projekt\\<br />&lt; [[EPJ0140]] Plaanimine ja turg\\<br />&lt; [[EEA0025]] Projekteerimispraktika\\<br />&lt; [[EPJ0040]] Projektijuhtimine ehituses\\<br />&lt; [[EEK0050]] Puitkonstruktsioonid\\<br />&lt; [[EEK0053]] Puitkonstruktsioonide erikursus\\<br />&lt; [[EEK0100]] Raalprojekteerimine\\<br />&lt; [[EMH0090]] Rannikuprotsessid\\<br />&lt; [[EMH0125]] Sadamate planeerimine\\<br />&lt; [[EMH0123]] Sadamate tehnovõrgud ja -seadmed\\<br />&lt; [[HHP3800]] Suhtlemispsühholoogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[EEK0110]] Vesiehitiste projekteerimine\\<br />&lt; [[EEK0071]] Vundamendid\\<br />&lt; ===</strong> EAEM07<strong class="changes">/07 - Tööstus</strong>- <strong class="changes">ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4037&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[EEA0020]] Arhitektuur\\<br />&lt; [[EEA0030]] Arhitektuur - projekt I\\<br />&lt; [[EEA0040]] Arhitektuur - projekt II\\<br />&lt; [[TTO0020]] Äriõigus\\<br />&lt; [[TMM0030]] Ärisuhtlus\\<br />&lt; [[TAF3141]] Arvestuse alused\\<br />&lt; [[EER0030]] Ehitiste katsetamine\\<br />&lt; [[EEP3580]] Ehitiste renoveerimine\\<br />&lt; [[EPJ3750]] Ehituse juhtimine\\<br />&lt; [[EEA3622]] Ehitusfüüsika II\\<br />&lt; [[EPJ3760]] Ehitusinvesteeringud\\<br />&lt; [[EPM0020]] Ehitusmaterjalide valikkursus\\<br />&lt; [[TTO0050]] Ehitusõigus\\<br />&lt; [[EPT0012]] Ehitustehnoloogia II\\<br />&lt; [[EPT0013]] Ehitustehnoloogia - projekt\\<br />&lt; [[EMD0020]] Elastsusõpetus\\<br />&lt; [[EEG8400]] Geotehnilise projekteerimise erikursus\\<br />&lt; [[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\<br />&lt; [[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\<br />&lt; [[EMH0032]] Hüdraulika II\\<br />&lt; [[EMH0140]] Hüdrodünaamika erikursus\\<br />&lt; [[EXX0021]] Hüdrotehnilised ehitised sadamates\\<br />&lt; [[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt\\<br />&lt; [[EPJ0050]] Infotehnoloogia ehituses\\<br />&lt; [[MTT0050]] Keevitus\\<br />&lt; [[EPJ3810]] Kinnisvara haldamine\\<br />&lt; [[EPJ3770]] Kinnisvaraökonoomika\\<br />&lt; [[EER0022]] Kivikonstruktsioonid - projekt\\<br />&lt; [[EPM3850]] Korrosioonikaitse ehituses\\<br />&lt; [[EMH0110]] Lainetuse dünaamika\\<br />&lt; [[TTO3280]] Lepinguõigus\\<br />&lt; [[EEA8520]] Linnaehitus\\<br />&lt; [[EPJ3780]] Linnamajanduse korraldus\\<br />&lt; [[AKG0200]] Mere geotehnika\\<br />&lt; [[EET8491]] Metallkonstruktsioonide erikursus\\<br />&lt; [[EET8492]] Metallkonstruktsioonide erikursus - projekt\\<br />&lt; [[EET0013]] Metallkonstruktsioonid II\\<br />&lt; [[EET0014]] Metallkonstruktsioonid II - projekt\\<br />&lt; [[EET0012]] Metallkonstruktsioonid I - projekt\\<br />&lt; [[EEA3640]] Plaanimine ja teed\\<br />&lt; [[EPJ3790]] Plaanimine ja turg\\<br />&lt; [[EPJ0040]] Projektijuhtimine ehituses\\<br />&lt; [[EEP0020]] Puitkonstruktsioonide erikursus\\<br />&lt; [[EEP0013]] Puitkonstruktsioonid - praktikum\\<br />&lt; [[EEP0012]] Puitkonstruktsioonid - projekt\\<br />&lt; [[EET0050]] Raalprojekteerimine\\<br />&lt; [[EMH0090]] Rannikuprotsessid\\<br />&lt; [[EER8411]] Raudbetoonkonstruktsioonide erikursus\\<br />&lt; [[EER8412]] Raudbetoonkonstruktsioonide erikursus - projekt\\<br />&lt; [[EER0013]] Raudbetoonkonstruktsioonid II\\<br />&lt; [[EER0014]] Raudbetoonkonstruktsioonid II - projekt\\<br />&lt; [[EER0012]] Raudbetoonkonstruktsioonid I - projekt\\<br />&lt; [[EER0015]] Raudbetoonkonstruktsioonid - praktikum\\<br />&lt; [[EMH0121]] Sadamate planeerimine\\<br />&lt; [[EMH0122]] Sadamate planeerimine - projekt\\<br />&lt; [[EMH0151]] Sadamate tehnovõrgud ja -seadmed\\<br />&lt; [[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[TTS1050]] Urbanistika\\<br />&lt; [[HHR0060]] Väljendus- ja vaidlusõpetus\\<br />&lt; [[EEG3450]] Vesiehitiste projekteerimine\\<br />&lt; [[EEG3442]] Vundamendid</strong> - <strong class="changes">projekt\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>EAEM07-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "EAEM07</strong>-<strong class="changes">07"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203591
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885597
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === EAEM07/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50106&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[EEA0024]] Arhitektuur - projekt II\\
-	[[TTO1100]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[EEK0025]] Betoonkonstruktsioonid I\\
-	[[EEK0022]] Betoonkonstruktsioonid II\\
-	[[EEK0023]] Betoonkonstruktsioonid II - projekt\\
-	[[EEK0024]] Betoonkonstruktsioonid I - projekt\\
-	[[HLE6060]] Eesti keele väljendusõpetus\\
-	[[EEA0013]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EEA0033]] Ehitusfüüsika II\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPT0110]] Ehitustehnoloogia\\
-	[[EPT0111]] Ehitustehnoloogia erikursus\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[EPT0131]] Erialapraktika\\
-	[[EEK0230]] Erikonstruktsioonid\\
-	[[EEA0011]] Hoonete konstruktsioonid\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0023]] Hüdrotehnilised ehitised sadamates\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ0130]] Kinnisvaraökonoomika\\
-	[[EEK0060]] Kivikonstruktsioonid\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[EEK0031]] Metallkonstruktsioonide projekteerimine I\\
-	[[EEK0032]] Metallkonstruktsioonid II\\
-	[[EEK0033]] Metallkonstruktsioonid II - projekt\\
-	[[EPJ0140]] Plaanimine ja turg\\
-	[[EEA0025]] Projekteerimispraktika\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEK0050]] Puitkonstruktsioonid\\
-	[[EEK0053]] Puitkonstruktsioonide erikursus\\
-	[[EEK0100]] Raalprojekteerimine\\
-	[[EMH0090]] Rannikuprotsessid\\
-	[[EMH0125]] Sadamate planeerimine\\
-	[[EMH0123]] Sadamate tehnovõrgud ja -seadmed\\
-	[[HHP3800]] Suhtlemispsühholoogia\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[EEK0110]] Vesiehitiste projekteerimine\\
-	[[EEK0071]] Vundamendid\\
-	=== EAEM07/07 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=4037&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[EEA0020]] Arhitektuur\\
-	[[EEA0030]] Arhitektuur - projekt I\\
-	[[EEA0040]] Arhitektuur - projekt II\\
-	[[TTO0020]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[EER0030]] Ehitiste katsetamine\\
-	[[EEP3580]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EEA3622]] Ehitusfüüsika II\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPT0012]] Ehitustehnoloogia II\\
-	[[EPT0013]] Ehitustehnoloogia - projekt\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[EEG8400]] Geotehnilise projekteerimise erikursus\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0021]] Hüdrotehnilised ehitised sadamates\\
-	[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt\\
-	[[EPJ0050]] Infotehnoloogia ehituses\\
-	[[MTT0050]] Keevitus\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ3770]] Kinnisvaraökonoomika\\
-	[[EER0022]] Kivikonstruktsioonid - projekt\\
-	[[EPM3850]] Korrosioonikaitse ehituses\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[EEA8520]] Linnaehitus\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[AKG0200]] Mere geotehnika\\
-	[[EET8491]] Metallkonstruktsioonide erikursus\\
-	[[EET8492]] Metallkonstruktsioonide erikursus - projekt\\
-	[[EET0013]] Metallkonstruktsioonid II\\
-	[[EET0014]] Metallkonstruktsioonid II - projekt\\
-	[[EET0012]] Metallkonstruktsioonid I - projekt\\
-	[[EEA3640]] Plaanimine ja teed\\
-	[[EPJ3790]] Plaanimine ja turg\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEP0020]] Puitkonstruktsioonide erikursus\\
-	[[EEP0013]] Puitkonstruktsioonid - praktikum\\
-	[[EEP0012]] Puitkonstruktsioonid - projekt\\
-	[[EET0050]] Raalprojekteerimine\\
-	[[EMH0090]] Rannikuprotsessid\\
-	[[EER8411]] Raudbetoonkonstruktsioonide erikursus\\
-	[[EER8412]] Raudbetoonkonstruktsioonide erikursus - projekt\\
-	[[EER0013]] Raudbetoonkonstruktsioonid II\\
-	[[EER0014]] Raudbetoonkonstruktsioonid II - projekt\\
-	[[EER0012]] Raudbetoonkonstruktsioonid I - projekt\\
-	[[EER0015]] Raudbetoonkonstruktsioonid - praktikum\\
-	[[EMH0121]] Sadamate planeerimine\\
-	[[EMH0122]] Sadamate planeerimine - projekt\\
-	[[EMH0151]] Sadamate tehnovõrgud ja -seadmed\\
-	[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[TTS1050]] Urbanistika\\
-	[[HHR0060]] Väljendus- ja vaidlusõpetus\\
-	[[EEG3450]] Vesiehitiste projekteerimine\\
-	[[EEG3442]] Vundamendid - projekt\\
+text: <include "EAEM07-09">
+	
+	<include "EAEM07-07">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885597

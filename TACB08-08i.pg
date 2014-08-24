@@ -1,0 +1,53 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TACB08/08i - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50129&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TIX3780]] Ärialane suhtlemine<br />[[TIX3340]] Ärieetika<br />[[TIX3530]] Äriõigus<br />[[TIX3670]] Bakalaureusetöö seminar<br />[[TIX3090]] Ettevõtte rahandus<br />[[TIX3910]] Filosoofia<br />[[TIX3020]] Finantsarvestus<br />[[TIX3010]] Finantsarvestus edasijõudnutele<br />[[TIX3080]] Infosüsteemide juhtimine<br />[[TIX3880]] Inglise keel I<br />[[TIX3890]] Inglise keel II<br />[[TIX3110]] Investeeringute alused<br />[[TIX3040]] Juhtimisarvestus<br />[[TIX3470]] Juhtimise alused<br />[[TIX3120]] Kapitaliturud<br />[[TIX3060]] Majandusmatemaatika I<br />[[TIX3070]] Majandusmatemaatika II<br />[[TIX3210]] Makroökonoomika<br />[[TIX3220]] Mikroökonoomika<br />[[TIX3540]] Õiguse alused<br />[[TIX3270]] Operatsioonide ja logistika juhtimine<br />[[TIX3460]] Organisatsiooni ja inimressursi juhtimine<br />[[TIX3790]] Praktika<br />[[TIX3030]] Rahvusvaheline finantsarvestus<br />[[TIX3320]] Rahvusvaheline juhtimine<br />[[TIX3200]] Rahvusvaheline majandus<br />[[TIX3100]] Rahvusvaheline rahandus<br />[[TIX3400]] Rahvusvaheline turundus<br />[[TIX3770]] Sissejuhatus politoloogiasse<br />[[TIX3130]] Sissejuhatus rahandusse<br />[[TIX3760]] Sotsioloogia<br />[[TIX3900]] Statistika<br />[[TIX3480]] Strateegiline juhtimine<br />[[TIX3390]] Tarbijakäitumine<br />[[TIX3430]] Turunduse alused<br />[[TIX3420]] Turundusstrateegiad ja juhtimine<br />[[TIX3410]] Turu-uuring<br />[[TIX3750]] Uurimistöö alused</p>
+diff-minor: 
+ts: 1408891611
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TACB08/08i - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50129&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TIX3780]] Ärialane suhtlemine
+	[[TIX3340]] Ärieetika
+	[[TIX3530]] Äriõigus
+	[[TIX3670]] Bakalaureusetöö seminar
+	[[TIX3090]] Ettevõtte rahandus
+	[[TIX3910]] Filosoofia
+	[[TIX3020]] Finantsarvestus
+	[[TIX3010]] Finantsarvestus edasijõudnutele
+	[[TIX3080]] Infosüsteemide juhtimine
+	[[TIX3880]] Inglise keel I
+	[[TIX3890]] Inglise keel II
+	[[TIX3110]] Investeeringute alused
+	[[TIX3040]] Juhtimisarvestus
+	[[TIX3470]] Juhtimise alused
+	[[TIX3120]] Kapitaliturud
+	[[TIX3060]] Majandusmatemaatika I
+	[[TIX3070]] Majandusmatemaatika II
+	[[TIX3210]] Makroökonoomika
+	[[TIX3220]] Mikroökonoomika
+	[[TIX3540]] Õiguse alused
+	[[TIX3270]] Operatsioonide ja logistika juhtimine
+	[[TIX3460]] Organisatsiooni ja inimressursi juhtimine
+	[[TIX3790]] Praktika
+	[[TIX3030]] Rahvusvaheline finantsarvestus
+	[[TIX3320]] Rahvusvaheline juhtimine
+	[[TIX3200]] Rahvusvaheline majandus
+	[[TIX3100]] Rahvusvaheline rahandus
+	[[TIX3400]] Rahvusvaheline turundus
+	[[TIX3770]] Sissejuhatus politoloogiasse
+	[[TIX3130]] Sissejuhatus rahandusse
+	[[TIX3760]] Sotsioloogia
+	[[TIX3900]] Statistika
+	[[TIX3480]] Strateegiline juhtimine
+	[[TIX3390]] Tarbijakäitumine
+	[[TIX3430]] Turunduse alused
+	[[TIX3420]] Turundusstrateegiad ja juhtimine
+	[[TIX3410]] Turu-uuring
+	[[TIX3750]] Uurimistöö alused
+	
+	
+keep-ts: 1408891611

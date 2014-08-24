@@ -1,0 +1,53 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YARM10/10 - Merendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50146&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KTJ6011]] Ärilogistika<br />[[NSO8044]] Dünaamiline okeanograafia<br />[[AST6006]] Erialane praktika<br />[[TER8610]] Finantsjuhtimine<br />[[KHG6023]] Geograafilised infosüsteemid<br />[[KHG6024]] Geotehniliste tööde projekti koostamine<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[TMJ8620]] Investeeringute analüüs<br />[[MLM6022]] Kaasaegsed laevaremondi tehnoloogiad<br />[[AOE6007]] Kaubandusliku meresõidu õigus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[LJO6012]] Keskkonnareostuse vältimine ja reostustõrje<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[MEA6020]] Laeva automaatjuhtimissüsteemid<br />[[LJO6013]] Laevade ehitus<br />[[AOE6008]] Laevade prahtimine ja agenteerimine<br />[[MEA6021]] Laeva elektroonika<br />[[KTJ6018]] Laevafirma juhtimine<br />[[LNG6015]] Laeva hüdrodünaamika ja sõiduomadused<br />[[LJO6016]] Laeva juhtimise optimeerimine<br />[[AOE6009]] Laevanduse töökorraldus ja ökonoomika<br />[[MLM6017]] Laeva remondi organiseerimine ja planeerimine<br />[[NSO8040]] Looduslike veekogude modelleerimine<br />[[AST6002]] Magistriseminar<br />[[NSO8042]] Merekeskkonna kaitse<br />[[KHM6025]] Meremeteoroloogia<br />[[AOE6003]] Merendusklaster Eestis ja Euroopa riikides<br />[[LJO6014]] Meresõiduohutuse juhtimissüsteemid<br />[[LJO6019]] Ohutuse ja turvalisuse juhtimine laevanduses<br />[[TMK8310]] Projektijuhtimine<br />[[AOE6004]] Rahvusvaheline avalik mereõigus<br />[[LJO6005]] Riskide haldamine merenduses<br />[[KTJ6010]] Sadamate ekspluatatsioon<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[MSJ0120]] Soojuspumbad<br />[[AST6001]] Teadustöö metoodika<br />[[HLX8040]] Teadusvõõrkeel<br />[[KHG6026]] Veeteede kavandamine</p>
+diff-minor: 
+ts: 1408891721
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YARM10/10 - Merendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50146&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[KTJ6011]] Ärilogistika
+	[[NSO8044]] Dünaamiline okeanograafia
+	[[AST6006]] Erialane praktika
+	[[TER8610]] Finantsjuhtimine
+	[[KHG6023]] Geograafilised infosüsteemid
+	[[KHG6024]] Geotehniliste tööde projekti koostamine
+	[[EXX0023]] Hüdrotehnilised ehitised sadamates
+	[[TMJ8620]] Investeeringute analüüs
+	[[MLM6022]] Kaasaegsed laevaremondi tehnoloogiad
+	[[AOE6007]] Kaubandusliku meresõidu õigus
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[LJO6012]] Keskkonnareostuse vältimine ja reostustõrje
+	[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine
+	[[MEA6020]] Laeva automaatjuhtimissüsteemid
+	[[LJO6013]] Laevade ehitus
+	[[AOE6008]] Laevade prahtimine ja agenteerimine
+	[[MEA6021]] Laeva elektroonika
+	[[KTJ6018]] Laevafirma juhtimine
+	[[LNG6015]] Laeva hüdrodünaamika ja sõiduomadused
+	[[LJO6016]] Laeva juhtimise optimeerimine
+	[[AOE6009]] Laevanduse töökorraldus ja ökonoomika
+	[[MLM6017]] Laeva remondi organiseerimine ja planeerimine
+	[[NSO8040]] Looduslike veekogude modelleerimine
+	[[AST6002]] Magistriseminar
+	[[NSO8042]] Merekeskkonna kaitse
+	[[KHM6025]] Meremeteoroloogia
+	[[AOE6003]] Merendusklaster Eestis ja Euroopa riikides
+	[[LJO6014]] Meresõiduohutuse juhtimissüsteemid
+	[[LJO6019]] Ohutuse ja turvalisuse juhtimine laevanduses
+	[[TMK8310]] Projektijuhtimine
+	[[AOE6004]] Rahvusvaheline avalik mereõigus
+	[[LJO6005]] Riskide haldamine merenduses
+	[[KTJ6010]] Sadamate ekspluatatsioon
+	[[IDU3530]] Sissejuhatus infosüsteemidesse
+	[[MSJ0120]] Soojuspumbad
+	[[AST6001]] Teadustöö metoodika
+	[[HLX8040]] Teadusvõõrkeel
+	[[KHG6026]] Veeteede kavandamine
+	
+	
+keep-ts: 1408891721

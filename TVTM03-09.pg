@@ -1,0 +1,42 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TVTM03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50060&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2085]] Äriturundus<br />[[TIX2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2605]] Ettevõtte rahandus<br />[[TIX2680]] E-turundus<br />[[TIX2345]] Euroopa Ühenduse õigus<br />[[TIX2750]] Finantsjuhtimine<br />[[TIX2640]] Innovatsioonijuhtimine<br />[[TIX2730]] Juhtimine<br />[[TIX2690]] Juhtimismäng<br />[[TIX2720]] Kultuuridevaheline suhtlemine<br />[[TIX2670]] Magistriseminar<br />[[TIX2845]] Majandusarvestus<br />[[TIX2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX2580]] Raha ja pangandus<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2045]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2595]] Rahvusvaheline majandus<br />[[TIX2860]] Rahvusvaheline maksundus<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2710]] Strateegiline juhtimine<br />[[TIX2660]] Tootmise varustamise juhtimine<br />[[TIX2740]] Turunduskommunikatsioon<br />[[TIX2700]] Turundusuuring</p>
+diff-minor: 
+ts: 1408891662
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TVTM03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50060&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TIX8300]] Ärieetika
+	[[IDY0275]] Äriinfosüsteemid
+	[[TIX2085]] Äriturundus
+	[[TIX2635]] Baltimere maade ja Venemaa majandus
+	[[HLE2210]] Eesti keel ja kultuur I
+	[[TIX2060]] Ettevõtlus ja väikeettevõtted
+	[[TIX2605]] Ettevõtte rahandus
+	[[TIX2680]] E-turundus
+	[[TIX2345]] Euroopa Ühenduse õigus
+	[[TIX2750]] Finantsjuhtimine
+	[[TIX2640]] Innovatsioonijuhtimine
+	[[TIX2730]] Juhtimine
+	[[TIX2690]] Juhtimismäng
+	[[TIX2720]] Kultuuridevaheline suhtlemine
+	[[TIX2670]] Magistriseminar
+	[[TIX2845]] Majandusarvestus
+	[[TIX2355]] Projekti juhtimine ja tulude-kulude analüüs
+	[[TIX2580]] Raha ja pangandus
+	[[TIX8280]] Rahvusvaheline ärindus
+	[[TIX2045]] Rahvusvaheline inimressursi juhtimine
+	[[TIX2595]] Rahvusvaheline majandus
+	[[TIX2860]] Rahvusvaheline maksundus
+	[[TIX8140]] Statistiline analüüs
+	[[TIX2710]] Strateegiline juhtimine
+	[[TIX2660]] Tootmise varustamise juhtimine
+	[[TIX2740]] Turunduskommunikatsioon
+	[[TIX2700]] Turundusuuring
+	
+	
+keep-ts: 1408891662

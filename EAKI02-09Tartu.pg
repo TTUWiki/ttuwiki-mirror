@@ -1,0 +1,99 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>EAKI02/09Tartu - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50095&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTK0740]] Arengumudelid<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0040]] Automaatika alused<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS1280]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0260]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS0390]] Ehituskonstruktsioonid<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0250]] Elektrotehnika<br />[[NTS1170]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS1160]] Geotehnika alused<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0271]] Hüdraulika I<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTS0051]] Jäätmekäitlus I<br />[[NTS0052]] Jäätmekäitlus II<br />[[NTK0680]] Juhtimine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTK0340]] Keskkonnakeemia<br />[[NTK0560]] Keskkonnamajanduse alused<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTS0400]] Keskkonnasäästlik energeetika<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTS1050]] Komposiitmaterjalid<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0270]] Logistika alused<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTS1021]] Materjalide ringlus<br />[[NTS1022]] Materjalide ringlus - projekt<br />[[NTS1290]] Materjalitehnika<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTS1210]] Mobiiltransport<br />[[NTK0030]] Õigusõpetus<br />[[NTK1010]] Ökodisain<br />[[NTK0010]] Õpingukorraldus<br />[[NTM0350]] Plaanimine ja teed<br />[[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS0290]] Pumbad ja ventilaatorid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng<br />[[NTS0061]] Reoveekäitlus<br />[[NTS0062]] Reoveekäitlus - projekt<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0470]] Saastumise ennetamine<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTS0360]] Soojustehnika<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTS1040]] Töötlemistehnoloogia<br />[[NTS1180]] Tootmispraktika<br />[[NTS1200]] Tõste- ja teisaldusmasinad<br />[[NTS1201]] Tõste- ja teisaldusmasinad - projekt<br />[[NTS0021]] Ühisveevärk I<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == EAKI02/09Tartu - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50095&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[NTX0010]] Akadeemiline võõrkeel<br />&lt; [[NTK0740]] Arengumudelid<br />&lt; [[NTS0341]] Arvutigraafika I<br />&lt; [[NTS0342]] Arvutigraafika II<br />&lt; [[NTS0040]] Automaatika alused<br />&lt; [[NTS0190]] Diferentsiaalvõrrandid<br />&lt; [[NTU0030]] Eesti keele väljendusõpetus<br />&lt; [[NTS1280]] Ehituse maksumuse hindamine<br />&lt; [[NTS1060]] Ehitusettevõtte ökonoomika<br />&lt; [[NTS0260]] Ehitusfüüsika<br />&lt; [[NTS0153]] Ehitusgraafika I<br />&lt; [[NTS0154]] Ehitusgraafika II<br />&lt; [[NTS0390]] Ehituskonstruktsioonid<br />&lt; [[NTS0430]] Ehitusmasinad<br />&lt; [[NTS0240]] Ehitusmaterjalid<br />&lt; [[NTS1221]] Ehitusmehaanika I<br />&lt; [[NTS1222]] Ehitusmehaanika II<br />&lt; [[NTS0250]] Elektrotehnika<br />&lt; [[NTS1170]] Erialapraktika<br />&lt; [[NTU0040]] Filosoofia<br />&lt; [[NTS0131]] Füüsika I<br />&lt; [[NTS0132]] Füüsika II<br />&lt; [[NTM0211]] Geodeesia I<br />&lt; [[NTM0212]] Geodeesia II<br />&lt; [[NTM0213]] Geodeesia õppepraktika<br />&lt; [[NTS1160]] Geotehnika alused<br />&lt; [[NTS0220]] Hoonete konstruktsioonid<br />&lt; [[NTM0271]] Hüdraulika I<br />&lt; [[NTS0121]] Informaatika I<br />&lt; [[NTS0122]] Informaatika II<br />&lt; [[NTS0100]] Insenerieetika<br />&lt; [[NTS0051]] Jäätmekäitlus I<br />&lt; [[NTS0052]] Jäätmekäitlus II<br />&lt; [[NTK0680]] Juhtimine<br />&lt; [[NTK0360]] Keemia ja materjaliõpetus<br />&lt; [[NTK0020]] Keskkonnakaitse<br />&lt; [[NTK0340]] Keskkonnakeemia<br />&lt; [[NTK0560]] Keskkonnamajanduse alused<br />&lt; [[NTM0620]] Keskkonnamõju hindamine<br />&lt; [[NTS0400]] Keskkonnasäästlik energeetika<br />&lt; [[NTK0790]] Keskkonnatehnoloogiad<br />&lt; [[NTS1050]] Komposiitmaterjalid<br />&lt; [[NTS0140]] Kujutav geomeetria<br />&lt; [[NTS0310]] Küte ja ventilatsioon<br />&lt; [[NTS0160]] Lineaaralgebra<br />&lt; [[NTS0270]] Logistika alused<br />&lt; [[NTS1100]] Lõplike elementide meetod<br />&lt; [[NTS0171]] Matemaatiline analüüs I<br />&lt; [[NTS0172]] Matemaatiline analüüs II<br />&lt; [[NTS1130]] Matemaatilised mudelid<br />&lt; [[NTS1021]] Materjalide ringlus<br />&lt; [[NTS1022]] Materjalide ringlus - projekt<br />&lt; [[NTS1290]] Materjalitehnika<br />&lt; [[NTK0050]] Mikro- ja makroökonoomika<br />&lt; [[NTS1210]] Mobiiltransport<br />&lt; [[NTK0030]] Õigusõpetus<br />&lt; [[NTK1010]] Ökodisain<br />&lt; [[NTK0010]] Õpingukorraldus<br />&lt; [[NTM0350]] Plaanimine ja teed<br />&lt; [[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine<br />&lt; [[NTM0290]] Projekteerimispraktika<br />&lt; [[NTS0290]] Pumbad ja ventilaatorid<br />&lt; [[NTS1120]] Raalprojekteerimine<br />&lt; [[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng<br />&lt; [[NTS0061]] Reoveekäitlus<br />&lt; [[NTS0062]] Reoveekäitlus - projekt<br />&lt; [[NTS0070]] Riski- ja ohutusõpetus<br />&lt; [[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />&lt; [[NTK0470]] Saastumise ennetamine<br />&lt; [[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />&lt; [[NTS0360]] Soojustehnika<br />&lt; [[NTK0690]] Teadustöö metodoloogia<br />&lt; [[NTX0020]] Teadusvõõrkeel<br />&lt; [[NTS0231]] Tehniline mehaanika I<br />&lt; [[NTS0232]] Tehniline mehaanika II<br />&lt; [[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />&lt; [[NTS1040]] Töötlemistehnoloogia<br />&lt; [[NTS1180]] Tootmispraktika<br />&lt; [[NTS1200]] Tõste- ja teisaldusmasinad<br />&lt; [[NTS1201]] Tõste- ja teisaldusmasinad - projekt<br />&lt; [[NTS0021]] Ühisveevärk I<br />&lt; [[NTM0111]] Visuaalne kommunikatsioon I<br />&lt; [[NTM0112]] Visuaalne kommunikatsioon II</p></div>
+ts: 1408891332
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EAKI02/09Tartu - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50095&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NTX0010]] Akadeemiline võõrkeel
+	[[NTK0740]] Arengumudelid
+	[[NTS0341]] Arvutigraafika I
+	[[NTS0342]] Arvutigraafika II
+	[[NTS0040]] Automaatika alused
+	[[NTS0190]] Diferentsiaalvõrrandid
+	[[NTU0030]] Eesti keele väljendusõpetus
+	[[NTS1280]] Ehituse maksumuse hindamine
+	[[NTS1060]] Ehitusettevõtte ökonoomika
+	[[NTS0260]] Ehitusfüüsika
+	[[NTS0153]] Ehitusgraafika I
+	[[NTS0154]] Ehitusgraafika II
+	[[NTS0390]] Ehituskonstruktsioonid
+	[[NTS0430]] Ehitusmasinad
+	[[NTS0240]] Ehitusmaterjalid
+	[[NTS1221]] Ehitusmehaanika I
+	[[NTS1222]] Ehitusmehaanika II
+	[[NTS0250]] Elektrotehnika
+	[[NTS1170]] Erialapraktika
+	[[NTU0040]] Filosoofia
+	[[NTS0131]] Füüsika I
+	[[NTS0132]] Füüsika II
+	[[NTM0211]] Geodeesia I
+	[[NTM0212]] Geodeesia II
+	[[NTM0213]] Geodeesia õppepraktika
+	[[NTS1160]] Geotehnika alused
+	[[NTS0220]] Hoonete konstruktsioonid
+	[[NTM0271]] Hüdraulika I
+	[[NTS0121]] Informaatika I
+	[[NTS0122]] Informaatika II
+	[[NTS0100]] Insenerieetika
+	[[NTS0051]] Jäätmekäitlus I
+	[[NTS0052]] Jäätmekäitlus II
+	[[NTK0680]] Juhtimine
+	[[NTK0360]] Keemia ja materjaliõpetus
+	[[NTK0020]] Keskkonnakaitse
+	[[NTK0340]] Keskkonnakeemia
+	[[NTK0560]] Keskkonnamajanduse alused
+	[[NTM0620]] Keskkonnamõju hindamine
+	[[NTS0400]] Keskkonnasäästlik energeetika
+	[[NTK0790]] Keskkonnatehnoloogiad
+	[[NTS1050]] Komposiitmaterjalid
+	[[NTS0140]] Kujutav geomeetria
+	[[NTS0310]] Küte ja ventilatsioon
+	[[NTS0160]] Lineaaralgebra
+	[[NTS0270]] Logistika alused
+	[[NTS1100]] Lõplike elementide meetod
+	[[NTS0171]] Matemaatiline analüüs I
+	[[NTS0172]] Matemaatiline analüüs II
+	[[NTS1130]] Matemaatilised mudelid
+	[[NTS1021]] Materjalide ringlus
+	[[NTS1022]] Materjalide ringlus - projekt
+	[[NTS1290]] Materjalitehnika
+	[[NTK0050]] Mikro- ja makroökonoomika
+	[[NTS1210]] Mobiiltransport
+	[[NTK0030]] Õigusõpetus
+	[[NTK1010]] Ökodisain
+	[[NTK0010]] Õpingukorraldus
+	[[NTM0350]] Plaanimine ja teed
+	[[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine
+	[[NTM0290]] Projekteerimispraktika
+	[[NTS0290]] Pumbad ja ventilaatorid
+	[[NTS1120]] Raalprojekteerimine
+	[[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng
+	[[NTS0061]] Reoveekäitlus
+	[[NTS0062]] Reoveekäitlus - projekt
+	[[NTS0070]] Riski- ja ohutusõpetus
+	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine
+	[[NTK0470]] Saastumise ennetamine
+	[[NTK0480]] Sissejuhatus tööstusökoloogiasse
+	[[NTS0360]] Soojustehnika
+	[[NTK0690]] Teadustöö metodoloogia
+	[[NTX0020]] Teadusvõõrkeel
+	[[NTS0231]] Tehniline mehaanika I
+	[[NTS0232]] Tehniline mehaanika II
+	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika
+	[[NTS1040]] Töötlemistehnoloogia
+	[[NTS1180]] Tootmispraktika
+	[[NTS1200]] Tõste- ja teisaldusmasinad
+	[[NTS1201]] Tõste- ja teisaldusmasinad - projekt
+	[[NTS0021]] Ühisveevärk I
+	[[NTM0111]] Visuaalne kommunikatsioon I
+	[[NTM0112]] Visuaalne kommunikatsioon II
+	
+	
+keep-ts: 1408891332

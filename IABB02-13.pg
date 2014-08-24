@@ -1,0 +1,53 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IABB02/13 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50233&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDK0015]] Andmetöötlus<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU003P]] Erialapraktika<br />[[IDN0020]] Erialatutvustus<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[TER0610]] Finantsjuhtimine<br />[[YFR0020]] Füüsika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[IDU3355]] Modelleerimine<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[IDK1015]] Programmeerimise põhikursus<br />[[IRT3930]] Side<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[TMK1250]] Toote ja teenuse arendamine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[ISS0110]] Väljendusoskus<br />[[IDU0075]] Veebiteenused<br />[[ITV0110]] Võrgurakendused I</p>
+diff-minor: 
+ts: 1408891408
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IABB02/13 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50233&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[IDU0220]] Andmebaasid I
+	[[IDU0230]] Andmebaasid II
+	[[IDK0015]] Andmetöötlus
+	[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine
+	[[IAF0041]] Arvutid
+	[[ISP0040]] Arvutivõrgud
+	[[IAY0010]] Diskreetne matemaatika
+	[[ITT0030]] Diskreetne matemaatika II
+	[[TMT0040]] Ergonoomika
+	[[IDU003P]] Erialapraktika
+	[[IDN0020]] Erialatutvustus
+	[[TMJ0110]] Ettevõtluse alused
+	[[HHF3080]] Filosoofia
+	[[TER0610]] Finantsjuhtimine
+	[[YFR0020]] Füüsika
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[TAK8360]] Kuluarvestus ja eelarvestamine
+	[[YMA3710]] Lineaaralgebra
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM3740]] Matemaatiline analüüs II
+	[[IDU3355]] Modelleerimine
+	[[IDK2015]] Objekt-orienteeritud programmeerimine
+	[[TTO3160]] Õigusõpetus
+	[[UTT0010]] Õpingukorraldus
+	[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid
+	[[IDK1015]] Programmeerimise põhikursus
+	[[IRT3930]] Side
+	[[IDU5360]] Süsteemianalüüs
+	[[ISS0010]] Süsteemiteooria
+	[[IDX5721]] Tarkvara kvaliteet ja standardid
+	[[IDK0071]] Tarkvaratehnika
+	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika
+	[[TMK1250]] Toote ja teenuse arendamine
+	[[TMM0860]] Turunduskommunikatsioon I
+	[[ISS0110]] Väljendusoskus
+	[[IDU0075]] Veebiteenused
+	[[ITV0110]] Võrgurakendused I
+	
+	
+keep-ts: 1408891408

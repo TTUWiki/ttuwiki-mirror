@@ -1,0 +1,47 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TARM02/02 - Ärirahandus ja majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=791&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTO1020]] Äriõigus<br />[[TMO1090]] Äriühingute valitsemine<br />[[TAF1060]] Arvestuse infosüsteemid<br />[[TAF1040]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes<br />[[TAK1020]] Audiitorkontroll<br />[[TMV1040]] Ettevõtluse eriseminar<br />[[TER1410]] Ettevõtte rahandus<br />[[TER1399]] Ettevõtte väärtuse hindamine<br />[[TTX1010]] Euroopa Liidu struktuurid ja õigus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TER1210]] Finantsturud ja -institutsioonid<br />[[TMV1050]] Juhtimismäng<br />[[TMJ1070]] Kinnisvara hindamine<br />[[TAF1020]] Kontserniarvestus<br />[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses<br />[[TER1510]] Magistriseminar<br />[[TAF1070]] Majandusarvestuse teooria<br />[[TES1010]] Ökonomeetria<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TER1310]] Rahvusvaheline ärirahandus<br />[[TAF1030]] Rahvusvaheline arvestus<br />[[TAF1050]] Rahvusvaheline maksundus<br />[[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine<br />[[TER1370]] Risk ja optsioonid<br />[[TAK1030]] Siseaudit<br />[[TMO1040]] Strateegiline juhtimine<br />[[TAK1010]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMM1070]] Tollindus<br />[[TER1350]] Väärtpaberid ja portfelliteooria<br />[[TER1398]] Võlakirjad ja turud</p>
+diff-minor: 
+ts: 1408891625
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TARM02/02 - Ärirahandus ja majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=791&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TTO1020]] Äriõigus
+	[[TMO1090]] Äriühingute valitsemine
+	[[TAF1060]] Arvestuse infosüsteemid
+	[[TAF1040]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes
+	[[TAK1020]] Audiitorkontroll
+	[[TMV1040]] Ettevõtluse eriseminar
+	[[TER1410]] Ettevõtte rahandus
+	[[TER1399]] Ettevõtte väärtuse hindamine
+	[[TTX1010]] Euroopa Liidu struktuurid ja õigus
+	[[TAF1010]] Finantsaruandlus ja -analüüs
+	[[TER1210]] Finantsturud ja -institutsioonid
+	[[TMV1050]] Juhtimismäng
+	[[TMJ1070]] Kinnisvara hindamine
+	[[TAF1020]] Kontserniarvestus
+	[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses
+	[[TER1510]] Magistriseminar
+	[[TAF1070]] Majandusarvestuse teooria
+	[[TES1010]] Ökonomeetria
+	[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine
+	[[TMK1020]] Rahvusvaheline ärikorraldus
+	[[TER1310]] Rahvusvaheline ärirahandus
+	[[TAF1030]] Rahvusvaheline arvestus
+	[[TAF1050]] Rahvusvaheline maksundus
+	[[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine
+	[[TER1370]] Risk ja optsioonid
+	[[TAK1030]] Siseaudit
+	[[TMO1040]] Strateegiline juhtimine
+	[[TAK1010]] Strateegiline juhtimisarvestus ja kulujuhtimine
+	[[HLX8040]] Teadusvõõrkeel
+	[[TMM1070]] Tollindus
+	[[TER1350]] Väärtpaberid ja portfelliteooria
+	[[TER1398]] Võlakirjad ja turud
+	
+	
+keep-ts: 1408891625

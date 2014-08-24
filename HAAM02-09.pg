@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>HAAM02/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50017&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHM1130]] Avalik teenistus<br />[[HHL1320]] Avaliku halduse teooria ja filosoofia<br />[[HHM1090]] Avaliku ja erasektori koostöö<br />[[HHL1330]] Avaliku sektori finantsjuhtimine<br />[[HHX1080]] Euroopa Liit ja mitmetasandiline valitsemine<br />[[HHL1190]] E-Valitsemine<br />[[EPJ3810]] Kinnisvara haldamine<br />[[HHR1210]] Kohaliku omavalitsuse korraldus<br />[[HHR1180]] Kohaliku omavalitsuse majanduse alused<br />[[HOA7001]] Kohaliku omavalitsuse õiguse alused<br />[[HHR1170]] Kohaliku omavalitsuse poliitika<br />[[HHM1050]] Kvaliteedijuhtimine avalikus sektoris<br />[[HHL1300]] Õigusaktide majanduslik analüüs<br />[[HHM1020]] Personalijuhtimine avalikus sektoris<br />[[HHL1180]] Poliitika analüüs ja hindamine<br />[[HHM1070]] Poliitikate kujundamine<br />[[HHX1070]] Praktika<br />[[HHM1060]] Projektijuhtimine avalikus sektoris<br />[[HHM1140]] Riigiasutuste juhtimine<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHM1100]] Tulemusjuhtimine avalikus sektoris<br />[[HHA1510]] Väikeriigid<br />[[HHM1080]] Võrdlev avalik haldus<br />[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad</p>
+diff-minor: 
+ts: 1408891370
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAAM02/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50017&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HHM1130]] Avalik teenistus
+	[[HHL1320]] Avaliku halduse teooria ja filosoofia
+	[[HHM1090]] Avaliku ja erasektori koostöö
+	[[HHL1330]] Avaliku sektori finantsjuhtimine
+	[[HHX1080]] Euroopa Liit ja mitmetasandiline valitsemine
+	[[HHL1190]] E-Valitsemine
+	[[EPJ3810]] Kinnisvara haldamine
+	[[HHR1210]] Kohaliku omavalitsuse korraldus
+	[[HHR1180]] Kohaliku omavalitsuse majanduse alused
+	[[HOA7001]] Kohaliku omavalitsuse õiguse alused
+	[[HHR1170]] Kohaliku omavalitsuse poliitika
+	[[HHM1050]] Kvaliteedijuhtimine avalikus sektoris
+	[[HHL1300]] Õigusaktide majanduslik analüüs
+	[[HHM1020]] Personalijuhtimine avalikus sektoris
+	[[HHL1180]] Poliitika analüüs ja hindamine
+	[[HHM1070]] Poliitikate kujundamine
+	[[HHX1070]] Praktika
+	[[HHM1060]] Projektijuhtimine avalikus sektoris
+	[[HHM1140]] Riigiasutuste juhtimine
+	[[HHL1290]] Sotsiaalteaduste meetodid
+	[[HLX8040]] Teadusvõõrkeel
+	[[HHM1100]] Tulemusjuhtimine avalikus sektoris
+	[[HHA1510]] Väikeriigid
+	[[HHM1080]] Võrdlev avalik haldus
+	[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad
+	
+	
+keep-ts: 1408891370

@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>YADM12/13 - Biomeditsiinitehnika ja meditsiinifüüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50203&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DBR0210]] Anatoomia ja füsioloogia<br />[[LOFY.01.134]] Bioelektromagnetism<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[LOFY.01.125]] Biomehaanika alused ja biomaterjalid<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[LOFY.01.135]] Elussüsteemid<br />[[LOFY.01.129]] Erialased seminarid ja ettekanded<br />[[LOFY.01.133]] Funktsionaalse anatoomia põhimõisted<br />[[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[ARFS.01.016]] Inimese füsioloogia<br />[[LOFY.01.118]] Kiirgusbioloogia ja kiiritusravi alused<br />[[DBR0280]] Kvaliteet radioloogias<br />[[LOFY.01.126]] Lineaarsed ahelad ja süsteemid<br />[[LOFY.01.127]] Meditsiinis kasutatavad kiirgused<br />[[LOFY.01.116]] Meditsiinitehnoloogia korraldus<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[DBR0130]] Mõõtmised füsioloogias<br />[[LOFY.01.131]] Müomeetria<br />[[DBB0300]] Optoelektroonika ja integraaloptika<br />[[DBR0220]] Piltdiagnostika füüsikalised alused<br />[[DBB0240]] Praktika I<br />[[LOFY.01.130]] Praktika II</p>
+diff-minor: 
+ts: 1408891686
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YADM12/13 - Biomeditsiinitehnika ja meditsiinifüüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50203&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[DBR0210]] Anatoomia ja füsioloogia
+	[[LOFY.01.134]] Bioelektromagnetism
+	[[DBB0220]] Biomeditsiiniseadmed
+	[[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt
+	[[LOFY.01.125]] Biomehaanika alused ja biomaterjalid
+	[[DBR0030]] Digitaalne signaali- ja pilditöötlus
+	[[DBR0080]] Elektromagnetväljad ja -lained
+	[[LOFY.01.135]] Elussüsteemid
+	[[LOFY.01.129]] Erialased seminarid ja ettekanded
+	[[LOFY.01.133]] Funktsionaalse anatoomia põhimõisted
+	[[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon
+	[[DBR0040]] Füsioloogiliste signaalide töötlus
+	[[ARFS.01.016]] Inimese füsioloogia
+	[[LOFY.01.118]] Kiirgusbioloogia ja kiiritusravi alused
+	[[DBR0280]] Kvaliteet radioloogias
+	[[LOFY.01.126]] Lineaarsed ahelad ja süsteemid
+	[[LOFY.01.127]] Meditsiinis kasutatavad kiirgused
+	[[LOFY.01.116]] Meditsiinitehnoloogia korraldus
+	[[DBB0010]] Mikrolaine- ja optiline tehnika
+	[[DBR0130]] Mõõtmised füsioloogias
+	[[LOFY.01.131]] Müomeetria
+	[[DBB0300]] Optoelektroonika ja integraaloptika
+	[[DBR0220]] Piltdiagnostika füüsikalised alused
+	[[DBB0240]] Praktika I
+	[[LOFY.01.130]] Praktika II
+	
+	
+keep-ts: 1408891686

@@ -1,0 +1,72 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YASM02/02 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=962&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YKI0050]] Anorgaaniline keemia II<br />[[TMT1130]] Bioloogilised ohutegurid<br />[[YKL0020]] Ensüümkatalüüs orgaanilises sünteesis<br />[[DMK1010]] Epidemioloogia<br />[[YKB1111]] Fermentatsioon ja rakudisain<br />[[KYF0022]] Füüsikaline keemia II<br />[[KYF0030]] Füüsikaline keemia - praktikum<br />[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen<br />[[YTG5015]] Geenitehnoloogia II<br />[[YTP0070]] Genoomika ja proteoomika<br />[[DMK1020]] Haiguseõpetus ja arstiabi<br />[[YKM0050]] Keemiatarkvara<br />[[TMT1120]] Keemilised ohutegurid ja tööhügieen<br />[[YKO0020]] Keemiliste reaktsioonide mehhanismid<br />[[YKA5324]] Kemomeetria<br />[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[DBR0050]] Kiirguse bioloogiline mõju<br />[[KYF0050]] Kineetika ja ülekandenähtused<br />[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes<br />[[YKX0010]] Laboratoorne eripraktika I<br />[[YKX0020]] Laboratoorne eripraktika II<br />[[YKX0030]] Laboratoorne eripraktika III<br />[[YKX0040]] Laboratoorne eripraktika IV<br />[[YKA0040]] Lahutusmeetodid keemias<br />[[YKL0050]] Meditsiiniline keemia<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[YTM5012]] Molekulaarbioloogia II<br />[[YKM0020]] Molekulaardisain<br />[[YKM0030]] Molekulaardisain - eriseminar<br />[[DMK0070]] Molekulaarmeditsiin<br />[[YKM0010]] Molekulaartootmine<br />[[YKM0040]] Molekulaartootmine - eriseminar<br />[[YTP0051]] Nukleiinhapete keemia<br />[[DMO0042]] Onkobioloogia<br />[[YKO5313]] Orgaaniline süntees - ainetöö<br />[[YKO0040]] Orgaanilise sünteesi meetodid<br />[[YKL0030]] Orgaaniliste ühendite struktuuranalüüs<br />[[YKO002P]] Praktika<br />[[ITI0010]] Programmeerimise põhikursus<br />[[MHT0030]] Rakendusstatistika<br />[[YTM8022]] Rakubioloogia II<br />[[YKB0010]] Rakumetabolism<br />[[TMT1150]] Riskianalüüs ja riskide haldamine<br />[[TMT1260]] Riskihaldamise ökonoomika<br />[[HHF5201]] Sissejuhatus teadusfilosoofiasse<br />[[TMT1220]] Sotsiaalkeskkonna riskid<br />[[HLX8040]] Teadusvõõrkeel<br />[[YKI0080]] Teoreetiline ja arvutuskeemia<br />[[DMK1040]] Terviseedendus<br />[[KTO0070]] Toiduohutus<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[YKB0020]] Tööstusbiotehnoloogia<br />[[DMK1050]] Töötervishoid<br />[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis<br />[[TMM0100]] Turundus<br />[[YTP0061]] Valkude keemia ja struktuur</p>
+diff-minor: 
+ts: 1408891725
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YASM02/02 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=962&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YKI0050]] Anorgaaniline keemia II
+	[[TMT1130]] Bioloogilised ohutegurid
+	[[YKL0020]] Ensüümkatalüüs orgaanilises sünteesis
+	[[DMK1010]] Epidemioloogia
+	[[YKB1111]] Fermentatsioon ja rakudisain
+	[[KYF0022]] Füüsikaline keemia II
+	[[KYF0030]] Füüsikaline keemia - praktikum
+	[[TMT1110]] Füüsikalised ohutegurid ja tööhügieen
+	[[YTG5015]] Geenitehnoloogia II
+	[[YTP0070]] Genoomika ja proteoomika
+	[[DMK1020]] Haiguseõpetus ja arstiabi
+	[[YKM0050]] Keemiatarkvara
+	[[TMT1120]] Keemilised ohutegurid ja tööhügieen
+	[[YKO0020]] Keemiliste reaktsioonide mehhanismid
+	[[YKA5324]] Kemomeetria
+	[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia
+	[[KAK8210]] Keskkonnatehnoloogia
+	[[DBR0050]] Kiirguse bioloogiline mõju
+	[[KYF0050]] Kineetika ja ülekandenähtused
+	[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes
+	[[YKX0010]] Laboratoorne eripraktika I
+	[[YKX0020]] Laboratoorne eripraktika II
+	[[YKX0030]] Laboratoorne eripraktika III
+	[[YKX0040]] Laboratoorne eripraktika IV
+	[[YKA0040]] Lahutusmeetodid keemias
+	[[YKL0050]] Meditsiiniline keemia
+	[[DMK1030]] Meditsiiniteooria ja -eetika
+	[[YTM5012]] Molekulaarbioloogia II
+	[[YKM0020]] Molekulaardisain
+	[[YKM0030]] Molekulaardisain - eriseminar
+	[[DMK0070]] Molekulaarmeditsiin
+	[[YKM0010]] Molekulaartootmine
+	[[YKM0040]] Molekulaartootmine - eriseminar
+	[[YTP0051]] Nukleiinhapete keemia
+	[[DMO0042]] Onkobioloogia
+	[[YKO5313]] Orgaaniline süntees - ainetöö
+	[[YKO0040]] Orgaanilise sünteesi meetodid
+	[[YKL0030]] Orgaaniliste ühendite struktuuranalüüs
+	[[YKO002P]] Praktika
+	[[ITI0010]] Programmeerimise põhikursus
+	[[MHT0030]] Rakendusstatistika
+	[[YTM8022]] Rakubioloogia II
+	[[YKB0010]] Rakumetabolism
+	[[TMT1150]] Riskianalüüs ja riskide haldamine
+	[[TMT1260]] Riskihaldamise ökonoomika
+	[[HHF5201]] Sissejuhatus teadusfilosoofiasse
+	[[TMT1220]] Sotsiaalkeskkonna riskid
+	[[HLX8040]] Teadusvõõrkeel
+	[[YKI0080]] Teoreetiline ja arvutuskeemia
+	[[DMK1040]] Terviseedendus
+	[[KTO0070]] Toiduohutus
+	[[TMT8260]] Töökeskkond ja ergonoomika
+	[[YKB0020]] Tööstusbiotehnoloogia
+	[[DMK1050]] Töötervishoid
+	[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis
+	[[TMM0100]] Turundus
+	[[YTP0061]] Valkude keemia ja struktuur
+	
+	
+keep-ts: 1408891725

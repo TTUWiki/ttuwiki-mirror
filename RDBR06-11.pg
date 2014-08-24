@@ -1,0 +1,77 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>RDBR06/11 - Hoonete ehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50173&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAR2061]] Arhitektuur<br />[[RAR2062]] Arhitektuur - projekt<br />[[RAR2081]] Arvutigraafika I<br />[[RAR2082]] Arvutigraafika II<br />[[RAR2250]] Betooniõpetus<br />[[RAE0070]] Diplomieelne praktika<br />[[RAE0200]] Ehitiste renoveerimine<br />[[RAH0780]] Ehituse juhtimine<br />[[RAR2150]] Ehituse maksumuse hindamine<br />[[RAR1980]] Ehitusettevõtte ökonoomika<br />[[RAR2120]] Ehitusfüüsika<br />[[RAR2001]] Ehitusgraafika I<br />[[RAR2002]] Ehitusgraafika II<br />[[RAK0020]] Ehituskeemia ja materjaliõpetus<br />[[RAR2140]] Ehituskorraldus<br />[[RAR2090]] Ehitusmasinad<br />[[RAE0080]] Ehitusmaterjalid<br />[[RAE0170]] Ehitusmehaanika<br />[[RAR2100]] Ehitusplatsi korraldus - projekt<br />[[RAE0050]] Ehituspraktika I<br />[[RAE0060]] Ehituspraktika II<br />[[RAR2131]] Ehitustehnoloogia I<br />[[RAR2133]] Ehitustehnoloogia II<br />[[RAR2132]] Ehitustehnoloogia - projekt<br />[[RAA0020]] Elektripaigaldised<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAH0120]] Filosoofia<br />[[RAE0140]] Geodeesia praktika<br />[[RAR2050]] Hoonete konstruktsioonid<br />[[RAE0090]] Hüdraulika alused<br />[[RAR0211]] Informaatika I<br />[[RAR2070]] Insenerigeodeesia<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR2220]] Kinnisvaraökonoomika<br />[[RAR2191]] Kivikonstruktsioonid<br />[[RAR2192]] Kivikonstruktsioonid - projekt<br />[[RAR1990]] Kujutav geomeetria<br />[[RAE0030]] Küte ja ventilatsioon<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAE0190]] Metallkonstruktsioonid<br />[[RAR2182]] Metallkonstruktsioonid - projekt<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAE0160]] Pinnasemehaanika ja ehitusgeoloogia<br />[[RAE0150]] Pinnasetööd ja teede-ehitus<br />[[RAE0020]] Projekteerimispraktika<br />[[RAR2200]] Puitkonstruktsioonid<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAE0120]] Raudbetoonkonstruktsioonid<br />[[RAR2172]] Raudbetoonkonstruktsioonid - projekt<br />[[RAR2300]] Riski- ja ohutusõpetus<br />[[RAE0130]] Sissejuhatus ehituskonstruktsioonide projekteerimisse<br />[[RAR0461]] Tehniline füüsika I<br />[[RAE0181]] Tehniline mehaanika I<br />[[RAE0182]] Tehniline mehaanika II<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus<br />[[RAE0040]] Veevarustus ja kanalisatsioon<br />[[RAE0100]] Vundamendid<br />[[RAR2162]] Vundamendid - projekt</p>
+diff-minor: 
+ts: 1408891552
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == RDBR06/11 - Hoonete ehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50173&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[RAR2061]] Arhitektuur
+	[[RAR2062]] Arhitektuur - projekt
+	[[RAR2081]] Arvutigraafika I
+	[[RAR2082]] Arvutigraafika II
+	[[RAR2250]] Betooniõpetus
+	[[RAE0070]] Diplomieelne praktika
+	[[RAE0200]] Ehitiste renoveerimine
+	[[RAH0780]] Ehituse juhtimine
+	[[RAR2150]] Ehituse maksumuse hindamine
+	[[RAR1980]] Ehitusettevõtte ökonoomika
+	[[RAR2120]] Ehitusfüüsika
+	[[RAR2001]] Ehitusgraafika I
+	[[RAR2002]] Ehitusgraafika II
+	[[RAK0020]] Ehituskeemia ja materjaliõpetus
+	[[RAR2140]] Ehituskorraldus
+	[[RAR2090]] Ehitusmasinad
+	[[RAE0080]] Ehitusmaterjalid
+	[[RAE0170]] Ehitusmehaanika
+	[[RAR2100]] Ehitusplatsi korraldus - projekt
+	[[RAE0050]] Ehituspraktika I
+	[[RAE0060]] Ehituspraktika II
+	[[RAR2131]] Ehitustehnoloogia I
+	[[RAR2133]] Ehitustehnoloogia II
+	[[RAR2132]] Ehitustehnoloogia - projekt
+	[[RAA0020]] Elektripaigaldised
+	[[RAX0511]] Erialane võõrkeel I
+	[[RAX0512]] Erialane võõrkeel II
+	[[RAH0120]] Filosoofia
+	[[RAE0140]] Geodeesia praktika
+	[[RAR2050]] Hoonete konstruktsioonid
+	[[RAE0090]] Hüdraulika alused
+	[[RAR0211]] Informaatika I
+	[[RAR2070]] Insenerigeodeesia
+	[[RAH3170]] Keskkonnakaitse
+	[[RAR2220]] Kinnisvaraökonoomika
+	[[RAR2191]] Kivikonstruktsioonid
+	[[RAR2192]] Kivikonstruktsioonid - projekt
+	[[RAR1990]] Kujutav geomeetria
+	[[RAE0030]] Küte ja ventilatsioon
+	[[RAR3050]] Lineaaralgebra
+	[[RAR3061]] Matemaatiline analüüs I
+	[[RAE0190]] Metallkonstruktsioonid
+	[[RAR2182]] Metallkonstruktsioonid - projekt
+	[[RAH3140]] Õigusõpetus
+	[[RAR2800]] Õpingukorraldus
+	[[RAE0160]] Pinnasemehaanika ja ehitusgeoloogia
+	[[RAE0150]] Pinnasetööd ja teede-ehitus
+	[[RAE0020]] Projekteerimispraktika
+	[[RAR2200]] Puitkonstruktsioonid
+	[[RAR0540]] Rakendusmatemaatika
+	[[RAE0120]] Raudbetoonkonstruktsioonid
+	[[RAR2172]] Raudbetoonkonstruktsioonid - projekt
+	[[RAR2300]] Riski- ja ohutusõpetus
+	[[RAE0130]] Sissejuhatus ehituskonstruktsioonide projekteerimisse
+	[[RAR0461]] Tehniline füüsika I
+	[[RAE0181]] Tehniline mehaanika I
+	[[RAE0182]] Tehniline mehaanika II
+	[[RAX0480]] Üldvõõrkeel
+	[[RAH0740]] Väljendusõpetus
+	[[RAE0040]] Veevarustus ja kanalisatsioon
+	[[RAE0100]] Vundamendid
+	[[RAR2162]] Vundamendid - projekt
+	
+	
+keep-ts: 1408891552

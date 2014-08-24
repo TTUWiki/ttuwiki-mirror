@@ -1,0 +1,52 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TAKM02/12 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50198&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TTO1040]] Äritegevuse õiguslik keskkond<br />[[TMO1091]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[TTP1020]] Eesti majandus<br />[[TMJ8260]] Ettevõtlus<br />[[TER8640]] Ettevõtte rahandus<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8290]] Finantsarvestus ja -aruandlus<br />[[TER8610]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8231]] Juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TMJ1220]] Juhtimismäng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TET8290]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8310]] Organisatsioonikäitumine<br />[[TMO8131]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TMO8241]] Strateegiline juhtimine<br />[[TMJ1080]] Tarneahela juhtimine<br />[[TMT1180]] Tööelu kvaliteedi juhtimine<br />[[TMX1010]] Töö-ökonoomika<br />[[TTO1060]] Tööseadusandlus<br />[[TMO1240]] Töö tasustamine<br />[[TMK1210]] Tootmis- ja teeninduskorraldus<br />[[TMM1020]] Turunduse kontseptsioonid<br />[[TMM1550]] Turunduskommunikatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1110]] Uurimistöö</p>
+diff-minor: 
+ts: 1408891623
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TAKM02/12 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50198&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK1160]] Analüüsimeetodid äriuuringutes
+	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
+	[[TTO1040]] Äritegevuse õiguslik keskkond
+	[[TMO1091]] Äriühingute valitsemine
+	[[TMM1490]] Brändi juhtimine
+	[[TTP1020]] Eesti majandus
+	[[TMJ8260]] Ettevõtlus
+	[[TER8640]] Ettevõtte rahandus
+	[[TAK8820]] Finantsaruandluse analüüs
+	[[TAF8290]] Finantsarvestus ja -aruandlus
+	[[TER8610]] Finantsjuhtimine
+	[[TMK1130]] Innovatsiooni juhtimine
+	[[TMJ8620]] Investeeringute analüüs
+	[[TMO8231]] Juhtimine
+	[[TAK8370]] Juhtimisarvestus
+	[[TMJ1220]] Juhtimismäng
+	[[TAK8360]] Kuluarvestus ja eelarvestamine
+	[[TER1520]] Magistriseminar (ärirahandus)
+	[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)
+	[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)
+	[[TMM1420]] Magistriseminar (turundus)
+	[[TET8290]] Majandusteooria ja ettevõtluskeskkond
+	[[TAF8720]] Maksundus
+	[[TMO8310]] Organisatsioonikäitumine
+	[[TMO8131]] Personalijuhtimine
+	[[TMK8310]] Projektijuhtimine
+	[[TMO8241]] Strateegiline juhtimine
+	[[TMJ1080]] Tarneahela juhtimine
+	[[TMT1180]] Tööelu kvaliteedi juhtimine
+	[[TMX1010]] Töö-ökonoomika
+	[[TTO1060]] Tööseadusandlus
+	[[TMO1240]] Töö tasustamine
+	[[TMK1210]] Tootmis- ja teeninduskorraldus
+	[[TMM1020]] Turunduse kontseptsioonid
+	[[TMM1550]] Turunduskommunikatsioon
+	[[TMM8690]] Turundusuuring
+	[[TXX1110]] Uurimistöö
+	
+	
+keep-ts: 1408891623

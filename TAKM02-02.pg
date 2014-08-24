@@ -1,0 +1,53 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TAKM02/02 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=976&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK8240]] Ärieetika<br />[[TMJ8130]] Ärilogistika<br />[[TMM1210]] Ärisuhtlus<br />[[TMM1440]] Äritegevuse õiguslik keskkond<br />[[TMO8270]] Äriühingute valitsemine<br />[[TMO8220]] Avalikud suhted<br />[[TTP8010]] Eesti majanduspoliitika<br />[[TMV8260]] Ettevõtlus<br />[[TER8640]] Ettevõtte rahandus<br />[[TTP1040]] Euroopa Liidu majanduspoliitika ja ärikeskkond<br />[[TER8320]] Finantsanalüüs<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[TER8120]] Finantsjuhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8230]] Juhtimine<br />[[TAK8350]] Juhtimisarvestus<br />[[TMO8320]] Juhtimise konsulteerimine<br />[[TEM8190]] Juhtimisinfo töötlemine<br />[[TMV1080]] Juhtimismäng<br />[[TMT8240]] Kvaliteedi ja tootlikkuse juhtimine<br />[[TXX1090]] Magistriseminar<br />[[TET8240]] Majandusteooria alused<br />[[TET8250]] Majandusteooria ja -poliitika<br />[[TAF8720]] Maksundus<br />[[TMO8310]] Organisatsioonikäitumine<br />[[TMO8130]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TER8111]] Raha ja pangandus<br />[[TMM8840]] Rahvusvaheline turundus<br />[[TMO8240]] Strateegiline juhtimine<br />[[TMM1390]] Suhtlustreening<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[TMK8230]] Tootmiskorraldus<br />[[TMM8830]] Turunduse kontseptsioonid<br />[[TMM8860]] Turunduskommunikatsioon  II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM8690]] Turundusuuring</p>
+diff-minor: 
+ts: 1408891620
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TAKM02/02 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=976&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK8240]] Ärieetika
+	[[TMJ8130]] Ärilogistika
+	[[TMM1210]] Ärisuhtlus
+	[[TMM1440]] Äritegevuse õiguslik keskkond
+	[[TMO8270]] Äriühingute valitsemine
+	[[TMO8220]] Avalikud suhted
+	[[TTP8010]] Eesti majanduspoliitika
+	[[TMV8260]] Ettevõtlus
+	[[TER8640]] Ettevõtte rahandus
+	[[TTP1040]] Euroopa Liidu majanduspoliitika ja ärikeskkond
+	[[TER8320]] Finantsanalüüs
+	[[TAK8820]] Finantsaruandluse analüüs
+	[[TAF8280]] Finantsarvestus ja -aruandlus
+	[[TER8120]] Finantsjuhtimine
+	[[TMJ8620]] Investeeringute analüüs
+	[[TMO8230]] Juhtimine
+	[[TAK8350]] Juhtimisarvestus
+	[[TMO8320]] Juhtimise konsulteerimine
+	[[TEM8190]] Juhtimisinfo töötlemine
+	[[TMV1080]] Juhtimismäng
+	[[TMT8240]] Kvaliteedi ja tootlikkuse juhtimine
+	[[TXX1090]] Magistriseminar
+	[[TET8240]] Majandusteooria alused
+	[[TET8250]] Majandusteooria ja -poliitika
+	[[TAF8720]] Maksundus
+	[[TMO8310]] Organisatsioonikäitumine
+	[[TMO8130]] Personalijuhtimine
+	[[TMK8310]] Projektijuhtimine
+	[[TER8111]] Raha ja pangandus
+	[[TMM8840]] Rahvusvaheline turundus
+	[[TMO8240]] Strateegiline juhtimine
+	[[TMM1390]] Suhtlustreening
+	[[TMT8260]] Töökeskkond ja ergonoomika
+	[[TMK8230]] Tootmiskorraldus
+	[[TMM8830]] Turunduse kontseptsioonid
+	[[TMM8860]] Turunduskommunikatsioon  II
+	[[TMM1280]] Turundussimulatsioon
+	[[TMM8690]] Turundusuuring
+	
+	
+keep-ts: 1408891620

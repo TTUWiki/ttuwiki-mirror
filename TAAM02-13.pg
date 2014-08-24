@@ -1,0 +1,37 @@
+flags: 01010101010101010101010101010101010101010101010
+blocks: <h2>TAAM02/13 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50238&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TSX1010]] Erialane võõrkeel II<br />[[TET1040]] Euroopa Liidu majandus<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES1030]] Mitmemõõtmeline statistiline analüüs<br />[[TES1040]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
+diff-minor: 
+ts: 1408891604
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TAAM02/13 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50238&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TTP1050]] Arenguökonoomika
+	[[TTR1030]] Avaliku sektori ökonoomika
+	[[TTP1020]] Eesti majandus
+	[[TSX1010]] Erialane võõrkeel II
+	[[TET1040]] Euroopa Liidu majandus
+	[[IDK0080]] Informaatika majandusmagistrantidele
+	[[TMO1020]] Inimressursi juhtimine
+	[[TMK1130]] Innovatsiooni juhtimine
+	[[TAK8370]] Juhtimisarvestus
+	[[TTK1010]] Keskkonna ja ökoloogia ökonoomika
+	[[TTK1020]] Keskkonnajuhtimine
+	[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring
+	[[TTR1080]] Linnaökonoomika
+	[[TTS1060]] Linnateooriad
+	[[TTX1140]] Magistriseminar
+	[[TET1060]] Makroökonoomika keskkursus
+	[[TET1050]] Mikroökonoomika keskkursus
+	[[TES1030]] Mitmemõõtmeline statistiline analüüs
+	[[TES1040]] Ökonomeetria
+	[[TEM1280]] Operatsioonianalüüs
+	[[TTS1010]] Sotsiaalpoliitika
+	[[TTX199P]] Tööpraktika
+	
+	
+keep-ts: 1408891604

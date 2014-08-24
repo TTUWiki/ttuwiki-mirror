@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>HAAD06/06 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=4059&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHX9040]] Ametipraktika<br />[[HHX9011]] Doktoriseminar I<br />[[HHX9012]] Doktoriseminar II<br />[[HHL9070]] Euroopa Liit ja innovatsioon<br />[[HHL9050]] Europaniseerumine<br />[[HHL9060]] E-valitsemine<br />[[HHA9110]] Haldusjuhtimine ja innovatsioon<br />[[HHA9010]] Haldusjuhtimise ajalugu ja teooria<br />[[HHX9030]] Halduspoliitikate võrdlev analüüs<br />[[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHR9050]] Keskkonnakorralduse eriseminar<br />[[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine<br />[[HHP9050]] Majanduspsühholoogia<br />[[HHL9030]] Riigi ja õiguse teooria<br />[[HHL9010]] Riigiteooriate eriseminar<br />[[HHL9090]] Sotsiaalteaduste meetodid<br />[[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[HHA9090]] Tehnoloogia arengu finantseerimine<br />[[HHP9060]] Tehnoloogia juhtimine ja psühholoogia<br />[[HHA9160]] Väikeriigid ja valitsemine</p>
+diff-minor: 
+ts: 1408891366
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAAD06/06 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=4059&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HHX9040]] Ametipraktika
+	[[HHX9011]] Doktoriseminar I
+	[[HHX9012]] Doktoriseminar II
+	[[HHL9070]] Euroopa Liit ja innovatsioon
+	[[HHL9050]] Europaniseerumine
+	[[HHL9060]] E-valitsemine
+	[[HHA9110]] Haldusjuhtimine ja innovatsioon
+	[[HHA9010]] Haldusjuhtimise ajalugu ja teooria
+	[[HHX9030]] Halduspoliitikate võrdlev analüüs
+	[[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes
+	[[HHP9010]] Juhtimispsühholoogia
+	[[HHR9050]] Keskkonnakorralduse eriseminar
+	[[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar
+	[[HHP9030]] Kõrgkoolididaktika
+	[[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine
+	[[HHP9050]] Majanduspsühholoogia
+	[[HHL9030]] Riigi ja õiguse teooria
+	[[HHL9010]] Riigiteooriate eriseminar
+	[[HHL9090]] Sotsiaalteaduste meetodid
+	[[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	[[HHA9090]] Tehnoloogia arengu finantseerimine
+	[[HHP9060]] Tehnoloogia juhtimine ja psühholoogia
+	[[HHA9160]] Väikeriigid ja valitsemine
+	
+	
+keep-ts: 1408891366

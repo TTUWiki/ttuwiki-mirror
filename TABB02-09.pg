@@ -1,0 +1,63 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TABB02/09 - Ärindus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50049&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK0070]] Ärieetika<br />[[TMJ0030]] Ärilogistika<br />[[TMM0030]] Ärisuhtlus<br />[[TMO0140]] Äriuuringute alused<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[TSX0020]] Erialane võõrkeel I<br />[[TMJ0310]] Ettevõtlus<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3060]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[TAF0061]] Finantsarvestuse keskkursus I<br />[[TAF0062]] Finantsarvestuse keskkursus II<br />[[TER0610]] Finantsjuhtimine<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TMO0010]] Juhtimine<br />[[TAK0010]] Juhtimisarvestus<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TMJ0050]] Kinnisvara rahandus<br />[[TAK0030]] Kuluarvestus<br />[[TSK0010]] Loogika<br />[[TTR0010]] Majandusajalugu<br />[[TTK0030]] Majandusgeograafia<br />[[TEM0320]] Majandusmatemaatika<br />[[TTP0010]] Majanduspoliitika<br />[[TTS0050]] Majandussotsioloogia<br />[[TET0020]] Makroökonoomika põhikursus<br />[[TAF0050]] Maksundus<br />[[TET0010]] Mikroökonoomika põhikursus<br />[[TTO0010]] Õiguse alused<br />[[UTT0010]] Õpingukorraldus<br />[[TMO0040]] Organisatsioonikäitumine<br />[[TMO0060]] Praktiline personalijuhtimine ja töösuhted<br />[[TMK0080]] Projektijuhtimine<br />[[TER0220]] Raha ja pangandus<br />[[TER0420]] Rahanduse alused<br />[[TER0650]] Rahandusmodelleerimine arvutil<br />[[TES0020]] Statistika<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[TMK0100]] Töö- ja palgakorraldus<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TXX089P]] Tööpraktika<br />[[TMM0100]] Turundus<br />[[TMM0080]] Turunduse juhtimine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[TMM0330]] Turundusuuring I<br />[[HOE6010]] Ühinguõigus<br />[[TXX0025]] Uurimistöö</p>
+diff-minor: 
+ts: 1408891608
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TABB02/09 - Ärindus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50049&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK0070]] Ärieetika
+	[[TMJ0030]] Ärilogistika
+	[[TMM0030]] Ärisuhtlus
+	[[TMO0140]] Äriuuringute alused
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[TSX0020]] Erialane võõrkeel I
+	[[TMJ0310]] Ettevõtlus
+	[[TMJ0110]] Ettevõtluse alused
+	[[HHF3060]] Filosoofia
+	[[TAF0070]] Finantsarvestuse alused
+	[[TAF0061]] Finantsarvestuse keskkursus I
+	[[TAF0062]] Finantsarvestuse keskkursus II
+	[[TER0610]] Finantsjuhtimine
+	[[IDK0022]] Informaatika II (majandus ja humanitaar)
+	[[IDK0021]] Informaatika I (majandus ja humanitaar)
+	[[TMO0010]] Juhtimine
+	[[TAK0010]] Juhtimisarvestus
+	[[TTK0020]] Keskkonnaökonoomika
+	[[TMJ0050]] Kinnisvara rahandus
+	[[TAK0030]] Kuluarvestus
+	[[TSK0010]] Loogika
+	[[TTR0010]] Majandusajalugu
+	[[TTK0030]] Majandusgeograafia
+	[[TEM0320]] Majandusmatemaatika
+	[[TTP0010]] Majanduspoliitika
+	[[TTS0050]] Majandussotsioloogia
+	[[TET0020]] Makroökonoomika põhikursus
+	[[TAF0050]] Maksundus
+	[[TET0010]] Mikroökonoomika põhikursus
+	[[TTO0010]] Õiguse alused
+	[[UTT0010]] Õpingukorraldus
+	[[TMO0040]] Organisatsioonikäitumine
+	[[TMO0060]] Praktiline personalijuhtimine ja töösuhted
+	[[TMK0080]] Projektijuhtimine
+	[[TER0220]] Raha ja pangandus
+	[[TER0420]] Rahanduse alused
+	[[TER0650]] Rahandusmodelleerimine arvutil
+	[[TES0020]] Statistika
+	[[HHP3800]] Suhtlemispsühholoogia
+	[[TMK0100]] Töö- ja palgakorraldus
+	[[TMT0050]] Töökeskkond ja ergonoomika
+	[[TXX089P]] Tööpraktika
+	[[TMM0100]] Turundus
+	[[TMM0080]] Turunduse juhtimine
+	[[TMM0860]] Turunduskommunikatsioon I
+	[[TMM0330]] Turundusuuring I
+	[[HOE6010]] Ühinguõigus
+	[[TXX0025]] Uurimistöö
+	
+	
+keep-ts: 1408891608

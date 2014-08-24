@@ -1,0 +1,37 @@
+flags: 01010101010101010101010101010101010101010101010
+blocks: <h2>KAKM02/02 - Keemia- ja keskkonnakaitse tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=522&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YKB5220]] Biotehnoloogia  I<br />[[YKB3221]] Biotehnoloogia II<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[YKA3411]] Instrumentaalanalüüs<br />[[KAK0030]] Keemiabilansid<br />[[KAT5260]] Keemiatehnika erikursus I<br />[[KAK0050]] Keskkonnakeemia<br />[[KPK0010]] Kütuste keemia ja tehnoloogia<br />[[TTR1050]] Looduskasutuse ja keskkonnakaitse ökonoomika<br />[[KAX0020]] Magistripraktika<br />[[KAT3231]] Matemaatilised meetodid keemiatehnikas I<br />[[KPK0020]] Mootorikütused ja määrdeained<br />[[KMP0010]] Polümeeride keemia ja füüsika<br />[[KAT0030]] Protsesside projekteerimine<br />[[KAT0070]] Protsesside valik<br />[[KAT0043]] Reaktsiooniprotsessid - ainetöö<br />[[KAT0042]] Reaktsiooniprotsessid II<br />[[HLX8040]] Teadusvõõrkeel<br />[[KAK0041]] Tööstuslike jäätmete käitlus ja audit I<br />[[KAK0043]] Tööstuslike jäätmete käitlus ja audit II<br />[[KAT0050]] Tootmisautomaatika<br />[[KAK0080]] Vee keemia ja tehnoloogia</p>
+diff-minor: 
+ts: 1408891469
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KAKM02/02 - Keemia- ja keskkonnakaitse tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=522&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YKB5220]] Biotehnoloogia  I
+	[[YKB3221]] Biotehnoloogia II
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[YKA3411]] Instrumentaalanalüüs
+	[[KAK0030]] Keemiabilansid
+	[[KAT5260]] Keemiatehnika erikursus I
+	[[KAK0050]] Keskkonnakeemia
+	[[KPK0010]] Kütuste keemia ja tehnoloogia
+	[[TTR1050]] Looduskasutuse ja keskkonnakaitse ökonoomika
+	[[KAX0020]] Magistripraktika
+	[[KAT3231]] Matemaatilised meetodid keemiatehnikas I
+	[[KPK0020]] Mootorikütused ja määrdeained
+	[[KMP0010]] Polümeeride keemia ja füüsika
+	[[KAT0030]] Protsesside projekteerimine
+	[[KAT0070]] Protsesside valik
+	[[KAT0043]] Reaktsiooniprotsessid - ainetöö
+	[[KAT0042]] Reaktsiooniprotsessid II
+	[[HLX8040]] Teadusvõõrkeel
+	[[KAK0041]] Tööstuslike jäätmete käitlus ja audit I
+	[[KAK0043]] Tööstuslike jäätmete käitlus ja audit II
+	[[KAT0050]] Tootmisautomaatika
+	[[KAK0080]] Vee keemia ja tehnoloogia
+	
+	
+keep-ts: 1408891469

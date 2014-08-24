@@ -1,0 +1,45 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TADD02/02 - Majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=1328&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TXX9130]] Ametipraktika<br />[[IDU9050]] Andmeaidad, ERP ja CRM süsteemid<br />[[TTP9040]] Arenguökonoomika<br />[[TMJ9030]] Ärilogistika<br />[[TTR9010]] Avaliku sektori ökonoomika<br />[[TXX9100]] Doktoriseminar<br />[[TTP9030]] Euroopa Liidu majandus ja õigus<br />[[TER9230]] Finantsasutuste analüüs ja finantsjuhtimine<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9020]] Kõrgkoolididaktika<br />[[TAX9090]] Majandusarvestuse teooria ja metodoloogia arendused<br />[[TET9010]] Majandusteooria ja -metodoloogia<br />[[TMT9020]] Makroergonoomika<br />[[TET9030]] Makroökonoomika<br />[[TEM9040]] Matemaatilise planeerimise nüüdismeetodid<br />[[TET9040]] Mikroökonoomika<br />[[TEM9030]] Nüüdisaegne kvantitatiivne majandusteooria<br />[[TES9130]] Ökonomeetria<br />[[TMJ9020]] Omandi ja varade hindamine<br />[[TMO8210]] Organisatsiooni ja juhtimise teooriad<br />[[TXX9120]] Osavõtt teaduskonverentsidest ja -seminaridest<br />[[TMK9310]] Projektijuhtimine<br />[[TER9641]] Rahanduse teooriad<br />[[TMK9170]] Rahvusvaheline äritegevus<br />[[TET9020]] Rahvusvaheline kaubandus ja rahandus<br />[[TMM9150]] Strateegiline turundus<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[TXX9110]] Teaduskirjanduse koostamine ja avaldamine<br />[[TMT9140]] Tööturu nüüdisaegsed teooriad</p>
+diff-minor: 
+ts: 1408891615
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TADD02/02 - Majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=1328&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TXX9130]] Ametipraktika
+	[[IDU9050]] Andmeaidad, ERP ja CRM süsteemid
+	[[TTP9040]] Arenguökonoomika
+	[[TMJ9030]] Ärilogistika
+	[[TTR9010]] Avaliku sektori ökonoomika
+	[[TXX9100]] Doktoriseminar
+	[[TTP9030]] Euroopa Liidu majandus ja õigus
+	[[TER9230]] Finantsasutuste analüüs ja finantsjuhtimine
+	[[HHP9010]] Juhtimispsühholoogia
+	[[HHP9020]] Kõrgkoolididaktika
+	[[TAX9090]] Majandusarvestuse teooria ja metodoloogia arendused
+	[[TET9010]] Majandusteooria ja -metodoloogia
+	[[TMT9020]] Makroergonoomika
+	[[TET9030]] Makroökonoomika
+	[[TEM9040]] Matemaatilise planeerimise nüüdismeetodid
+	[[TET9040]] Mikroökonoomika
+	[[TEM9030]] Nüüdisaegne kvantitatiivne majandusteooria
+	[[TES9130]] Ökonomeetria
+	[[TMJ9020]] Omandi ja varade hindamine
+	[[TMO8210]] Organisatsiooni ja juhtimise teooriad
+	[[TXX9120]] Osavõtt teaduskonverentsidest ja -seminaridest
+	[[TMK9310]] Projektijuhtimine
+	[[TER9641]] Rahanduse teooriad
+	[[TMK9170]] Rahvusvaheline äritegevus
+	[[TET9020]] Rahvusvaheline kaubandus ja rahandus
+	[[TMM9150]] Strateegiline turundus
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	[[TXX9110]] Teaduskirjanduse koostamine ja avaldamine
+	[[TMT9140]] Tööturu nüüdisaegsed teooriad
+	
+	
+keep-ts: 1408891615

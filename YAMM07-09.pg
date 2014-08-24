@@ -1,0 +1,59 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YAMM07/09 - Maa-teadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50112&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NSO7037]] Dünaamiline meteoroloogia<br />[[NSO8044]] Dünaamiline okeanograafia<br />[[NGG8033]] Eesti geoloogia alused<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[NGG8049]] Erimineraloogia<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[NSO8043]] Füüsikaline okeanograafia ja limnoloogia<br />[[NGG8040]] Füüsikalise geoloogia eriseminar<br />[[NGG8030]] Füüsikalis-keemilised meetodid geoloogias<br />[[NGG8041]] Geofüüsika alused<br />[[NGG8042]] Geokeemia alused<br />[[NGG8050]] Geoloogia ametipraktika<br />[[NGG0040]] Geoloogilised protsessid maakoores<br />[[NGG8048]] Geoprotsesside modelleerimine<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[KAK0050]] Keskkonnakeemia<br />[[NGG8043]] Kvaternaarigeoloogia<br />[[EMH0110]] Lainetuse dünaamika<br />[[NSO8040]] Looduslike veekogude modelleerimine<br />[[NSO8060]] Maa kaugsondeerimise alused<br />[[NGG8026]] Maa süsteemid<br />[[NGG8035]] Meregeoloogia alused<br />[[AKG0200]] Mere geotehnika<br />[[NSO8042]] Merekeskkonna kaitse<br />[[NSO8045]] Mereökoloogia alused<br />[[NSO7031]] Meteotehnika ja vaatlusvõrk<br />[[NGG8046]] Mikropaleontoloogia erikursus<br />[[NGG8031]] Mineraloogia ja petroloogia alused<br />[[EMR0050]] Modelleerimise alused<br />[[NSO8059]] Mõõdistustööd okeanograafias<br />[[NSO8051]] Okeanograafia ja meteoroloogia eriseminar<br />[[NSO8058]] Okeanograafia-meteoroloogia andmed ja andmetöötlus<br />[[NSO8090]] Okeanograafia-meteoroloogia praktika<br />[[NSO8055]] Okeanograafiline prognoos<br />[[EKE0150]] Rakendushüdroloogia erikursus<br />[[NSO7035]] Rakendusklimatoloogia<br />[[NGG8047]] Stratigraafia erikursus<br />[[NGG8032]] Stratigraafia ja paleontoloogia alused<br />[[NSO7033]] Sünoptiline meteoroloogia<br />[[NSO8030]] Teadustöö metoodika<br />[[HLX8040]] Teadusvõõrkeel<br />[[NGG8025]] Üldgeoloogia<br />[[NSO7020]] Üldine meteoroloogia ja klimatoloogia<br />[[NSO8021]] Üldine okeanograafia ja limnoloogia</p>
+diff-minor: 
+ts: 1408891718
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YAMM07/09 - Maa-teadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50112&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NSO7037]] Dünaamiline meteoroloogia
+	[[NSO8044]] Dünaamiline okeanograafia
+	[[NGG8033]] Eesti geoloogia alused
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[NGG8049]] Erimineraloogia
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[NSO8043]] Füüsikaline okeanograafia ja limnoloogia
+	[[NGG8040]] Füüsikalise geoloogia eriseminar
+	[[NGG8030]] Füüsikalis-keemilised meetodid geoloogias
+	[[NGG8041]] Geofüüsika alused
+	[[NGG8042]] Geokeemia alused
+	[[NGG8050]] Geoloogia ametipraktika
+	[[NGG0040]] Geoloogilised protsessid maakoores
+	[[NGG8048]] Geoprotsesside modelleerimine
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[KAK0050]] Keskkonnakeemia
+	[[NGG8043]] Kvaternaarigeoloogia
+	[[EMH0110]] Lainetuse dünaamika
+	[[NSO8040]] Looduslike veekogude modelleerimine
+	[[NSO8060]] Maa kaugsondeerimise alused
+	[[NGG8026]] Maa süsteemid
+	[[NGG8035]] Meregeoloogia alused
+	[[AKG0200]] Mere geotehnika
+	[[NSO8042]] Merekeskkonna kaitse
+	[[NSO8045]] Mereökoloogia alused
+	[[NSO7031]] Meteotehnika ja vaatlusvõrk
+	[[NGG8046]] Mikropaleontoloogia erikursus
+	[[NGG8031]] Mineraloogia ja petroloogia alused
+	[[EMR0050]] Modelleerimise alused
+	[[NSO8059]] Mõõdistustööd okeanograafias
+	[[NSO8051]] Okeanograafia ja meteoroloogia eriseminar
+	[[NSO8058]] Okeanograafia-meteoroloogia andmed ja andmetöötlus
+	[[NSO8090]] Okeanograafia-meteoroloogia praktika
+	[[NSO8055]] Okeanograafiline prognoos
+	[[EKE0150]] Rakendushüdroloogia erikursus
+	[[NSO7035]] Rakendusklimatoloogia
+	[[NGG8047]] Stratigraafia erikursus
+	[[NGG8032]] Stratigraafia ja paleontoloogia alused
+	[[NSO7033]] Sünoptiline meteoroloogia
+	[[NSO8030]] Teadustöö metoodika
+	[[HLX8040]] Teadusvõõrkeel
+	[[NGG8025]] Üldgeoloogia
+	[[NSO7020]] Üldine meteoroloogia ja klimatoloogia
+	[[NSO8021]] Üldine okeanograafia ja limnoloogia
+	
+	
+keep-ts: 1408891718

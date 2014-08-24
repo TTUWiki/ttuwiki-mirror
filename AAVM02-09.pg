@@ -1,0 +1,53 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>AAVM02/09 - Elektroenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50098&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[AEK0080]] Alajaamad - projekt<br />[[AES0220]] Automaatika ja releekaitse<br />[[AES0250]] Elektrienergia hajatootmine<br />[[AES3640]] Elektrijaotustehnika<br />[[AES0240]] Elektrisüsteemi stabiilsus<br />[[AES0150]] Elektriturg<br />[[AES0190]] Elektriturg - ainetöö<br />[[AES0180]] Elektrituru juhtimismäng<br />[[AES0270]] Elektrivõrgud - projekt<br />[[AES0060]] Elektrivõrkude erikursus<br />[[AES0230]] Elektrivõrkude projekteerimine<br />[[AES0030]] Elektroenergeetika teadusseminar<br />[[AME0021]] Elektromagnetiline ühilduvus<br />[[AEK0010]] Energeetika arengu plaanimine<br />[[AEK0040]] Energiapoliitika<br />[[AES3136]] Energiasüsteemide ökonoomika<br />[[AES0290]] Energiasüsteemide optimaaljuhtimine<br />[[AES0200]] Energiasüsteemi strateegiline arendamine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[TER1220]] Finantsturud ja -institutsioonid<br />[[AES0210]] Globaalne energiakaubandus<br />[[AES0310]] Infosüsteemid energeetikas<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[AEK0020]] Kõrgepingeseadmed<br />[[AEK0100]] Liigpinged<br />[[TTR2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TER3660]] Rahandusotsused<br />[[AES0280]] Releekaitse praktikum<br />[[AES3670]] Tarbimise säästlik korraldamine<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AEK0992]] Tööpraktika II<br />[[AAV3310]] Tooteloome ja leiundus<br />[[TMM0100]] Turundus<br />[[AEK0060]] Tuuleenergeetika<br />[[MSJ0170]] Tuumareaktorid<br />[[AMM0031]] Väljateooria</p>
+diff-minor: 
+ts: 1408891289
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == AAVM02/09 - Elektroenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=50098&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[AEK0080]] Alajaamad - projekt
+	[[AES0220]] Automaatika ja releekaitse
+	[[AES0250]] Elektrienergia hajatootmine
+	[[AES3640]] Elektrijaotustehnika
+	[[AES0240]] Elektrisüsteemi stabiilsus
+	[[AES0150]] Elektriturg
+	[[AES0190]] Elektriturg - ainetöö
+	[[AES0180]] Elektrituru juhtimismäng
+	[[AES0270]] Elektrivõrgud - projekt
+	[[AES0060]] Elektrivõrkude erikursus
+	[[AES0230]] Elektrivõrkude projekteerimine
+	[[AES0030]] Elektroenergeetika teadusseminar
+	[[AME0021]] Elektromagnetiline ühilduvus
+	[[AEK0010]] Energeetika arengu plaanimine
+	[[AEK0040]] Energiapoliitika
+	[[AES3136]] Energiasüsteemide ökonoomika
+	[[AES0290]] Energiasüsteemide optimaaljuhtimine
+	[[AES0200]] Energiasüsteemi strateegiline arendamine
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[HHF3080]] Filosoofia
+	[[TER1220]] Finantsturud ja -institutsioonid
+	[[AES0210]] Globaalne energiakaubandus
+	[[AES0310]] Infosüsteemid energeetikas
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[AEK0020]] Kõrgepingeseadmed
+	[[AEK0100]] Liigpinged
+	[[TTR2355]] Projekti juhtimine ja tulude-kulude analüüs
+	[[TER3660]] Rahandusotsused
+	[[AES0280]] Releekaitse praktikum
+	[[AES3670]] Tarbimise säästlik korraldamine
+	[[HLX8040]] Teadusvõõrkeel
+	[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika
+	[[AEK0992]] Tööpraktika II
+	[[AAV3310]] Tooteloome ja leiundus
+	[[TMM0100]] Turundus
+	[[AEK0060]] Tuuleenergeetika
+	[[MSJ0170]] Tuumareaktorid
+	[[AMM0031]] Väljateooria
+	
+	
+keep-ts: 1408891289

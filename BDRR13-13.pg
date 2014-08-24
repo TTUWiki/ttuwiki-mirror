@@ -1,0 +1,62 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>BDRR13/13 - Kinnisvara korrashoid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50231&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[EEA0021]] Arhitektuur<br />[[BCU1910]] Ärilogistika<br />[[BCU0141]] Arvestuse alused<br />[[BCU3230]] Arvutigraafika<br />[[BCU4530]] Automaatika alused<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4550]] Ehitiste mõõdistamine<br />[[BCU4580]] Ehitiste mõõdistamine - õppepraktika<br />[[BCU3670]] Ehitusfüüsika<br />[[BCU3520]] Ehitusgraafika alused<br />[[BCU1130]] Ehitusinvesteeringute plaanimine<br />[[BCU3680]] Ehituskonstruktsioonide üldkursus<br />[[BCU4560]] Ehituskorraldus<br />[[BCU1290]] Ehitusmaksumuse plaanimine<br />[[BCU3640]] Ehitusmaterjalid<br />[[BCU4500]] Ehitusmehaanika<br />[[BCU4520]] Elektrotehnika ja elektroonika<br />[[BCU4030]] Ettevõtluse alused<br />[[BCU3650]] Hoonete automatiseerimine<br />[[BCU0330]] Informaatika<br />[[BCU3200]] Inglise erialakeel<br />[[BCU0471]] Inglise keel I<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[EPJ3810]] Kinnisvara haldamine<br />[[BCU1300]] Kinnisvara hindamine<br />[[BCU4570]] Kinnisvara korrashoid<br />[[BCU2070]] Kinnisvaraõigus<br />[[BCU1120]] Kinnisvara ökonoomika<br />[[BCU3740]] Küte ja ventilatsioon<br />[[BCU4590]] Linnamajanduse korraldus<br />[[BCU4540]] Majanduse alused<br />[[BCU4490]] Majandusmatemaatika<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3780]] Praktika ehitiste hooldusettevõttes<br />[[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes<br />[[BCU3360]] Projektijuhtimine<br />[[BCU4600]] Raamatupidamine kinnisvara halduses<br />[[BCU3510]] Riski- ja ohutusõpetus<br />[[BCU1250]] Soojus- ja gaasivarustus<br />[[BCU0431]] Statistika<br />[[BCU4510]] Tehniline mehaanika<br />[[EPJ3940]] Tehnovõrkude ekspluatatsioon<br />[[BCU1630]] Tööõigus<br />[[BCU3240]] Uurimistöö alused<br />[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus</p>
+diff-minor: 
+ts: 1408891310
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == BDRR13/13 - Kinnisvara korrashoid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=50231&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[EEA0021]] Arhitektuur
+	[[BCU1910]] Ärilogistika
+	[[BCU0141]] Arvestuse alused
+	[[BCU3230]] Arvutigraafika
+	[[BCU4530]] Automaatika alused
+	[[BCU3130]] Eesti keele väljendusõpetus
+	[[BCU4550]] Ehitiste mõõdistamine
+	[[BCU4580]] Ehitiste mõõdistamine - õppepraktika
+	[[BCU3670]] Ehitusfüüsika
+	[[BCU3520]] Ehitusgraafika alused
+	[[BCU1130]] Ehitusinvesteeringute plaanimine
+	[[BCU3680]] Ehituskonstruktsioonide üldkursus
+	[[BCU4560]] Ehituskorraldus
+	[[BCU1290]] Ehitusmaksumuse plaanimine
+	[[BCU3640]] Ehitusmaterjalid
+	[[BCU4500]] Ehitusmehaanika
+	[[BCU4520]] Elektrotehnika ja elektroonika
+	[[BCU4030]] Ettevõtluse alused
+	[[BCU3650]] Hoonete automatiseerimine
+	[[BCU0330]] Informaatika
+	[[BCU3200]] Inglise erialakeel
+	[[BCU0471]] Inglise keel I
+	[[BCU1940]] Innovatsioon ja tootearendus
+	[[BCU3590]] Keskkonnakaitse ja säästev areng
+	[[EPJ3810]] Kinnisvara haldamine
+	[[BCU1300]] Kinnisvara hindamine
+	[[BCU4570]] Kinnisvara korrashoid
+	[[BCU2070]] Kinnisvaraõigus
+	[[BCU1120]] Kinnisvara ökonoomika
+	[[BCU3740]] Küte ja ventilatsioon
+	[[BCU4590]] Linnamajanduse korraldus
+	[[BCU4540]] Majanduse alused
+	[[BCU4490]] Majandusmatemaatika
+	[[BCU3480]] Õiguse alused
+	[[BCU1890]] Operatsioonijuhtimine
+	[[BCU3780]] Praktika ehitiste hooldusettevõttes
+	[[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes
+	[[BCU3360]] Projektijuhtimine
+	[[BCU4600]] Raamatupidamine kinnisvara halduses
+	[[BCU3510]] Riski- ja ohutusõpetus
+	[[BCU1250]] Soojus- ja gaasivarustus
+	[[BCU0431]] Statistika
+	[[BCU4510]] Tehniline mehaanika
+	[[EPJ3940]] Tehnovõrkude ekspluatatsioon
+	[[BCU1630]] Tööõigus
+	[[BCU3240]] Uurimistöö alused
+	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus
+	
+	
+keep-ts: 1408891310

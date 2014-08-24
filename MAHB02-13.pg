@@ -1,0 +1,59 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MAHB02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50234&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MER0060]] APJ tootmisseadmete programmeerimine<br />[[IAF0041]] Arvutid<br />[[ISS0021]] Automaatjuhtimissüsteemid<br />[[YGD0060]] Disaini alused<br />[[IAY0010]] Diskreetne matemaatika<br />[[MHD0072]] Dünaamika<br />[[AAV0081]] Elektriajamite üldkursus<br />[[IED0150]] Elektroonika<br />[[MHX0040]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[YGK0010]] Kujutav geomeetria<br />[[MHT0020]] Kvaliteediohje ja töökindlus<br />[[YMA3710]] Lineaaralgebra<br />[[MHE0041]] Masinaelemendid I<br />[[MHD0030]] Masinamehaanika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />[[MTM0070]] Materjalitehnika<br />[[MHX0065]] Mehhatroonikasüsteemide komponendid<br />[[MHX0070]] Mehhatroonikasüsteemide komponendid - projekt<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[MHK0011]] Mikrokontrollerid ja praktiline robootika<br />[[UTT0010]] Õpingukorraldus<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[ISS0079]] Programmeeritavad kontrollerid<br />[[MER0150]] Raalprojekteerimine<br />[[MHT0031]] Rakendusstatistika<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[MHK0035]] Robotsüsteemid ja sensortehnika - projekt<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[MSE0100]] Soojustehnika<br />[[MHD0071]] Staatika ja kinemaatika<br />[[ISS0010]] Süsteemiteooria<br />[[YGK3350]] Tehniline joonestamine<br />[[MTT0110]] Tehnoloogiline praktika<br />[[MET0011]] Tootmistehnika alused I<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == MAHB02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50234&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel<br />&lt; [[MER0060]] APJ tootmisseadmete programmeerimine<br />&lt; [[IAF0041]] Arvutid<br />&lt; [[ISS0021]] Automaatjuhtimissüsteemid<br />&lt; [[YGD0060]] Disaini alused<br />&lt; [[IAY0010]] Diskreetne matemaatika<br />&lt; [[MHD0072]] Dünaamika<br />&lt; [[AAV0081]] Elektriajamite üldkursus<br />&lt; [[IED0150]] Elektroonika<br />&lt; [[MHX0040]] Erialapraktika<br />&lt; [[TMJ0110]] Ettevõtluse alused<br />&lt; [[YFR0012]] Füüsika II<br />&lt; [[MES0080]] Hüdro- ja pneumoajam<br />&lt; [[YGK0010]] Kujutav geomeetria<br />&lt; [[MHT0020]] Kvaliteediohje ja töökindlus<br />&lt; [[YMA3710]] Lineaaralgebra<br />&lt; [[MHE0041]] Masinaelemendid I<br />&lt; [[MHD0030]] Masinamehaanika<br />&lt; [[YMM3731]] Matemaatiline analüüs I<br />&lt; [[YMM0012]] Matemaatiline analüüs II<br />&lt; [[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />&lt; [[MTM0070]] Materjalitehnika<br />&lt; [[MHX0065]] Mehhatroonikasüsteemide komponendid<br />&lt; [[MHX0070]] Mehhatroonikasüsteemide komponendid - projekt<br />&lt; [[MHT0010]] Metroloogia ja mõõtetehnika<br />&lt; [[MHK0011]] Mikrokontrollerid ja praktiline robootika<br />&lt; [[UTT0010]] Õpingukorraldus<br />&lt; [[IAG0581]] Programmeerimine I<br />&lt; [[IAG0582]] Programmeerimine II<br />&lt; [[ISS0079]] Programmeeritavad kontrollerid<br />&lt; [[MER0150]] Raalprojekteerimine<br />&lt; [[MHT0031]] Rakendusstatistika<br />&lt; [[TMT3820]] Riski- ja ohutusõpetus<br />&lt; [[MHK0035]] Robotsüsteemid ja sensortehnika - projekt<br />&lt; [[AAR0030]] Sissejuhatus robotitehnikasse<br />&lt; [[MSE0100]] Soojustehnika<br />&lt; [[MHD0071]] Staatika ja kinemaatika<br />&lt; [[ISS0010]] Süsteemiteooria<br />&lt; [[YGK3350]] Tehniline joonestamine<br />&lt; [[MTT0110]] Tehnoloogiline praktika<br />&lt; [[MET0011]] Tootmistehnika alused I<br />&lt; [[MHE0011]] Tugevusõpetus I<br />&lt; [[MHE0012]] Tugevusõpetus II</p></div>
+ts: 1408891501
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MAHB02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50234&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[MER0060]] APJ tootmisseadmete programmeerimine
+	[[IAF0041]] Arvutid
+	[[ISS0021]] Automaatjuhtimissüsteemid
+	[[YGD0060]] Disaini alused
+	[[IAY0010]] Diskreetne matemaatika
+	[[MHD0072]] Dünaamika
+	[[AAV0081]] Elektriajamite üldkursus
+	[[IED0150]] Elektroonika
+	[[MHX0040]] Erialapraktika
+	[[TMJ0110]] Ettevõtluse alused
+	[[YFR0012]] Füüsika II
+	[[MES0080]] Hüdro- ja pneumoajam
+	[[YGK0010]] Kujutav geomeetria
+	[[MHT0020]] Kvaliteediohje ja töökindlus
+	[[YMA3710]] Lineaaralgebra
+	[[MHE0041]] Masinaelemendid I
+	[[MHD0030]] Masinamehaanika
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad
+	[[MTM0070]] Materjalitehnika
+	[[MHX0065]] Mehhatroonikasüsteemide komponendid
+	[[MHX0070]] Mehhatroonikasüsteemide komponendid - projekt
+	[[MHT0010]] Metroloogia ja mõõtetehnika
+	[[MHK0011]] Mikrokontrollerid ja praktiline robootika
+	[[UTT0010]] Õpingukorraldus
+	[[IAG0581]] Programmeerimine I
+	[[IAG0582]] Programmeerimine II
+	[[ISS0079]] Programmeeritavad kontrollerid
+	[[MER0150]] Raalprojekteerimine
+	[[MHT0031]] Rakendusstatistika
+	[[TMT3820]] Riski- ja ohutusõpetus
+	[[MHK0035]] Robotsüsteemid ja sensortehnika - projekt
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[MSE0100]] Soojustehnika
+	[[MHD0071]] Staatika ja kinemaatika
+	[[ISS0010]] Süsteemiteooria
+	[[YGK3350]] Tehniline joonestamine
+	[[MTT0110]] Tehnoloogiline praktika
+	[[MET0011]] Tootmistehnika alused I
+	[[MHE0011]] Tugevusõpetus I
+	[[MHE0012]] Tugevusõpetus II
+	
+	
+keep-ts: 1408891501

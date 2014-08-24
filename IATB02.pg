@@ -1,142 +1,26 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>IATB02/09 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50023&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IRZ0030]] Digisignaalide töötlemine<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0150]] Elektroonika<br />[[IRT010P]] Erialapraktika<br />[[IRT0200]] Erialatutvustus<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IRZ0020]] Kodeerimine ja krüpteerimine<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IRM0050]] Mikrolainetehnika - ainetöö<br />[[IRO0010]] Modulatsioon<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IRZ0010]] Pidevsignaalide töötlemine<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[IRO0021]] Raadiosageduslik skeemitehnika<br />[[IRM0040]] Raadioseadmete disain<br />[[IRO0041]] Raadiotehnika - ainetöö<br />[[IRT3930]] Side<br />[[IRT0010]] Sidemeetodid<br />[[IRT0020]] Sidevõrgud<br />[[IRT0060]] Sidevõrgud - ainetöö<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRM0020]] Signaalide transmissioon<br />[[IRZ0040]] Signaalitöötlus - ainetöö<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[ISS0010]] Süsteemiteooria<br />[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br /></p><h3>IATB02/04 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=2755&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0041]] Arvutivõrgud<br />[[IRZ0030]] Digisignaalide töötlemine<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0160]] Elektroonika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IAG0081]] Informaatika I<br />[[IAG0082]] Informaatika II<br />[[EKE3710]] Keskkonnakaitse<br />[[IRZ0020]] Kodeerimine ja krüpteerimine<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IRM0050]] Mikrolainetehnika - ainetöö<br />[[IRO0010]] Modulatsioon<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IRZ0010]] Pidevsignaalide töötlemine<br />[[IRO313P]] Praktika<br />[[IRO0020]] Raadiosageduslik skeemitehnika<br />[[IRM0040]] Raadioseadmete disain<br />[[IRO0040]] Raadiotehnika - ainetöö<br />[[IRT3930]] Side<br />[[IRT0010]] Sidemeetodid<br />[[IRT0020]] Sidevõrgud<br />[[IRT0060]] Sidevõrgud - ainetöö<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRM0020]] Signaalide transmissioon<br />[[IRZ0040]] Signaalitöötlus - ainetöö<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[ISS0010]] Süsteemiteooria<br />[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br /></p><h3>IATB02/02 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1115&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IRZ0030]] Digisignaalide töötlemine<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0160]] Elektroonika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IAG0081]] Informaatika I<br />[[IAG0082]] Informaatika II<br />[[EKE3710]] Keskkonnakaitse<br />[[IRZ0020]] Kodeerimine ja krüpteerimine<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IRM0050]] Mikrolainetehnika - ainetöö<br />[[IRO0010]] Modulatsioon<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IRZ0010]] Pidevsignaalide töötlemine<br />[[IRO313P]] Praktika<br />[[IRO0020]] Raadiosageduslik skeemitehnika<br />[[IRM0040]] Raadioseadmete disain<br />[[IRO0040]] Raadiotehnika - ainetöö<br />[[IRT3930]] Side<br />[[IRT0010]] Sidemeetodid<br />[[IRT0020]] Sidevõrgud<br />[[IRT0060]] Sidevõrgud - ainetöö<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRM0020]] Signaalide transmissioon<br />[[IRZ0040]] Signaalitöötlus - ainetöö<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[ISS0010]] Süsteemiteooria<br />[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br /></p>
+flags: 0101010
+blocks: &lt;include "IATB02-09"&gt;
+	&lt;include "IATB02-04"&gt;
+	&lt;include "IATB02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== IATB02/09 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50023&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IRM0030]] Antennid ja RF elektroonika\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IRZ0030]] Digisignaalide töötlemine\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[IED0150]] Elektroonika\\<br />&lt; [[IRT010P]] Erialapraktika\\<br />&lt; [[IRT0200]] Erialatutvustus\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[IRZ0020]] Kodeerimine ja krüpteerimine\\<br />&lt; [[IRM0010]] Laineväljad\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[IRM0050]] Mikrolainetehnika - ainetöö\\<br />&lt; [[IRO0010]] Modulatsioon\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IRZ0010]] Pidevsignaalide töötlemine\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[IRO0021]] Raadiosageduslik skeemitehnika\\<br />&lt; [[IRM0040]] Raadioseadmete disain\\<br />&lt; [[IRO0041]] Raadiotehnika - ainetöö\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IRT0010]] Sidemeetodid\\<br />&lt; [[IRT0020]] Sidevõrgud\\<br />&lt; [[IRT0060]] Sidevõrgud - ainetöö\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IRM0020]] Signaalide transmissioon\\<br />&lt; [[IRZ0040]] Signaalitöötlus - ainetöö\\<br />&lt; [[IDU3350]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\<br />&lt; [[YMR0170]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; ===</strong> IATB02<strong class="changes">/04</strong> - <strong class="changes">Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=2755&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IRM0030]] Antennid ja RF elektroonika\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0041]] Arvutivõrgud\\<br />&lt; [[IRZ0030]] Digisignaalide töötlemine\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[HHF3070]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[IAG0081]] Informaatika I\\<br />&lt; [[IAG0082]] Informaatika II\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[IRZ0020]] Kodeerimine ja krüpteerimine\\<br />&lt; [[IRM0010]] Laineväljad\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[IRM0050]] Mikrolainetehnika - ainetöö\\<br />&lt; [[IRO0010]] Modulatsioon\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IRZ0010]] Pidevsignaalide töötlemine\\<br />&lt; [[IRO313P]] Praktika\\<br />&lt; [[IRO0020]] Raadiosageduslik skeemitehnika\\<br />&lt; [[IRM0040]] Raadioseadmete disain\\<br />&lt; [[IRO0040]] Raadiotehnika - ainetöö\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IRT0010]] Sidemeetodid\\<br />&lt; [[IRT0020]] Sidevõrgud\\<br />&lt; [[IRT0060]] Sidevõrgud - ainetöö\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IRM0020]] Signaalide transmissioon\\<br />&lt; [[IRZ0040]] Signaalitöötlus - ainetöö\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; ===</strong> IATB02<strong class="changes">/02</strong> - <strong class="changes">Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1115&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IRM0030]] Antennid ja RF elektroonika\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IRZ0030]] Digisignaalide töötlemine\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[HHF3070]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[IAG0081]] Informaatika I\\<br />&lt; [[IAG0082]] Informaatika II\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[IRZ0020]] Kodeerimine ja krüpteerimine\\<br />&lt; [[IRM0010]] Laineväljad\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[IRM0050]] Mikrolainetehnika - ainetöö\\<br />&lt; [[IRO0010]] Modulatsioon\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IRZ0010]] Pidevsignaalide töötlemine\\<br />&lt; [[IRO313P]] Praktika\\<br />&lt; [[IRO0020]] Raadiosageduslik skeemitehnika\\<br />&lt; [[IRM0040]] Raadioseadmete disain\\<br />&lt; [[IRO0040]] Raadiotehnika - ainetöö\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[IRT0010]] Sidemeetodid\\<br />&lt; [[IRT0020]] Sidevõrgud\\<br />&lt; [[IRT0060]] Sidevõrgud - ainetöö\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IRM0020]] Signaalide transmissioon\\<br />&lt; [[IRZ0040]] Signaalitöötlus</strong> - <strong class="changes">ainetöö\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IATB02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IATB02-<strong class="changes">04"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IATB02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203789
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885709
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === IATB02/09 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50023&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IRM0030]] Antennid ja RF elektroonika\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[IRZ0030]] Digisignaalide töötlemine\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[IED0150]] Elektroonika\\
-	[[IRT010P]] Erialapraktika\\
-	[[IRT0200]] Erialatutvustus\\
-	[[HHF3080]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[IRZ0020]] Kodeerimine ja krüpteerimine\\
-	[[IRM0010]] Laineväljad\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[IRM0050]] Mikrolainetehnika - ainetöö\\
-	[[IRO0010]] Modulatsioon\\
-	[[ISS0050]] Mõõtmine\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[IRZ0010]] Pidevsignaalide töötlemine\\
-	[[IAG0581]] Programmeerimine I\\
-	[[IAG0582]] Programmeerimine II\\
-	[[IRO0021]] Raadiosageduslik skeemitehnika\\
-	[[IRM0040]] Raadioseadmete disain\\
-	[[IRO0041]] Raadiotehnika - ainetöö\\
-	[[IRT3930]] Side\\
-	[[IRT0010]] Sidemeetodid\\
-	[[IRT0020]] Sidevõrgud\\
-	[[IRT0060]] Sidevõrgud - ainetöö\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[IRM0020]] Signaalide transmissioon\\
-	[[IRZ0040]] Signaalitöötlus - ainetöö\\
-	[[IDU3350]] Sissejuhatus infosüsteemidesse\\
-	[[ITV0010]] Sissejuhatus infotehnoloogiasse\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\
-	[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[ISS0110]] Väljendusoskus\\
-	=== IATB02/04 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=2755&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IRM0030]] Antennid ja RF elektroonika\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0041]] Arvutivõrgud\\
-	[[IRZ0030]] Digisignaalide töötlemine\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[IED0160]] Elektroonika\\
-	[[HHF3070]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[IAG0081]] Informaatika I\\
-	[[IAG0082]] Informaatika II\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[IRZ0020]] Kodeerimine ja krüpteerimine\\
-	[[IRM0010]] Laineväljad\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[IRM0050]] Mikrolainetehnika - ainetöö\\
-	[[IRO0010]] Modulatsioon\\
-	[[ISS0050]] Mõõtmine\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[IRZ0010]] Pidevsignaalide töötlemine\\
-	[[IRO313P]] Praktika\\
-	[[IRO0020]] Raadiosageduslik skeemitehnika\\
-	[[IRM0040]] Raadioseadmete disain\\
-	[[IRO0040]] Raadiotehnika - ainetöö\\
-	[[IRT3930]] Side\\
-	[[IRT0010]] Sidemeetodid\\
-	[[IRT0020]] Sidevõrgud\\
-	[[IRT0060]] Sidevõrgud - ainetöö\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[IRM0020]] Signaalide transmissioon\\
-	[[IRZ0040]] Signaalitöötlus - ainetöö\\
-	[[IDU3530]] Sissejuhatus infosüsteemidesse\\
-	[[ITV0010]] Sissejuhatus infotehnoloogiasse\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[ISS0110]] Väljendusoskus\\
-	=== IATB02/02 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=1115&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[IRM0030]] Antennid ja RF elektroonika\\
-	[[IAF0041]] Arvutid\\
-	[[ISP0040]] Arvutivõrgud\\
-	[[IRZ0030]] Digisignaalide töötlemine\\
-	[[IAY0010]] Diskreetne matemaatika\\
-	[[IED0160]] Elektroonika\\
-	[[HHF3070]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[IAG0081]] Informaatika I\\
-	[[IAG0082]] Informaatika II\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[IRZ0020]] Kodeerimine ja krüpteerimine\\
-	[[IRM0010]] Laineväljad\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM3740]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[IRM0050]] Mikrolainetehnika - ainetöö\\
-	[[IRO0010]] Modulatsioon\\
-	[[ISS0050]] Mõõtmine\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[IRZ0010]] Pidevsignaalide töötlemine\\
-	[[IRO313P]] Praktika\\
-	[[IRO0020]] Raadiosageduslik skeemitehnika\\
-	[[IRM0040]] Raadioseadmete disain\\
-	[[IRO0040]] Raadiotehnika - ainetöö\\
-	[[IRT3930]] Side\\
-	[[IRT0010]] Sidemeetodid\\
-	[[IRT0020]] Sidevõrgud\\
-	[[IRT0060]] Sidevõrgud - ainetöö\\
-	[[ISC0011]] Sidud, süsteemid, signaalid\\
-	[[IRM0020]] Signaalide transmissioon\\
-	[[IRZ0040]] Signaalitöötlus - ainetöö\\
-	[[IDU3530]] Sissejuhatus infosüsteemidesse\\
-	[[ITV0010]] Sissejuhatus infotehnoloogiasse\\
-	[[ISS0010]] Süsteemiteooria\\
-	[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid\\
-	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[ISS0110]] Väljendusoskus\\
+text: <include "IATB02-09">
+	
+	<include "IATB02-04">
+	
+	<include "IATB02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885709

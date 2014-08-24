@@ -1,3 +1,5 @@
+flags: 0
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">==</strong>Doktoriseminar <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>101120<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Doktoriseminar<br />&gt; <strong class="changes">#SUBURL: Course:</strong>101120</p></div>

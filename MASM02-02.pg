@@ -1,0 +1,42 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MASM02/02 - Soojusenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=728&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[MST0050]] Auru- ja gaasiturbiinid<br />[[YMR5720]] Diferentsiaalvõrrandid<br />[[AEK8141]] Elektriseadmed ja -edastus<br />[[MST0100]] Energeetikaseadmete metall ja konserveerimine<br />[[MSJ0070]] Eriautomaatika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3060]] Filosoofia<br />[[MSE0050]] Katlatehnika erikursus<br />[[MSJ0080]] Kaugküttevõrgud<br />[[MTT0050]] Keevitus<br />[[MST0040]] Kompressormasinad<br />[[MSE0070]] Kütusemajandus<br />[[MHT0050]] Kvaliteeditehnika<br />[[MSJ0030]] Loodushoid energeetikas<br />[[YMR0020]] Matemaatikapaketid<br />[[MST0110]] Mittetraditsioonilised energiaallikad<br />[[TTO3160]] Õigusõpetus<br />[[MSJ002P]] Praktika<br />[[MSJ0060]] Soojuselektrijaamad<br />[[MSJ0140]] Soojuse transformatsioon<br />[[MST0091]] Soojusfüüsika erikursus<br />[[MST0060]] Soojus- ja massileviseadmed<br />[[MSJ0090]] Soojussünergeetika<br />[[HLX8040]] Teadusvõõrkeel<br />[[MST0080]] Tööstusahjud ja kuivatustehnoloogia<br />[[MSJ0050]] Tööstustorustikud<br />[[MSJ0111]] Tuumareaktorid</p>
+diff-minor: 
+ts: 1408891518
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MASM02/02 - Soojusenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=728&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[MST0050]] Auru- ja gaasiturbiinid
+	[[YMR5720]] Diferentsiaalvõrrandid
+	[[AEK8141]] Elektriseadmed ja -edastus
+	[[MST0100]] Energeetikaseadmete metall ja konserveerimine
+	[[MSJ0070]] Eriautomaatika
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[HHF3060]] Filosoofia
+	[[MSE0050]] Katlatehnika erikursus
+	[[MSJ0080]] Kaugküttevõrgud
+	[[MTT0050]] Keevitus
+	[[MST0040]] Kompressormasinad
+	[[MSE0070]] Kütusemajandus
+	[[MHT0050]] Kvaliteeditehnika
+	[[MSJ0030]] Loodushoid energeetikas
+	[[YMR0020]] Matemaatikapaketid
+	[[MST0110]] Mittetraditsioonilised energiaallikad
+	[[TTO3160]] Õigusõpetus
+	[[MSJ002P]] Praktika
+	[[MSJ0060]] Soojuselektrijaamad
+	[[MSJ0140]] Soojuse transformatsioon
+	[[MST0091]] Soojusfüüsika erikursus
+	[[MST0060]] Soojus- ja massileviseadmed
+	[[MSJ0090]] Soojussünergeetika
+	[[HLX8040]] Teadusvõõrkeel
+	[[MST0080]] Tööstusahjud ja kuivatustehnoloogia
+	[[MSJ0050]] Tööstustorustikud
+	[[MSJ0111]] Tuumareaktorid
+	
+	
+keep-ts: 1408891518

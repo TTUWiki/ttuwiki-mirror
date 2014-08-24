@@ -1,0 +1,61 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>EALM02/12 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50194&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[IDN5340]] Analüütilised meetodid tarneahela juhtimises<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[IDN5360]] Äriteabe haldamine ja visuaalne analüütika<br />[[TMM2080]] Äriturundus<br />[[HHL1260]] Avaliku halduse alused<br />[[ETV7040]] Ettevõtetevaheliste kokkulepete haldamine<br />[[TER8640]] Ettevõtte rahandus<br />[[ETV5170]] Humanitaar- ja militaarlogistika<br />[[IDN5300]] IKT logistikas ja tarneahela juhtimises<br />[[TMO1021]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ1050]] Juhtimismäng<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TMK1220]] Kulusäästlik mõtlemine<br />[[ETV7070]] Kvaliteedijuhtimine tarneahelas<br />[[ETV5140]] Laondus<br />[[ETV6040]] Liikluskorraldus ja -ohutus ning intelligentsed transpordisüsteemid<br />[[ETT0090]] Linnaliiklus<br />[[ETV5162]] Logistika juhtimine - ainetöö<br />[[ETV5161]] Logistika strateegiline juhtimine<br />[[ETV5120]] Maailmamajandus ja logistika<br />[[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine<br />[[ETV5200]] Magistriseminar<br />[[ETV5110]] Majandusarvestus logistikas<br />[[ETV5150]] Multi- ja intermodaalne transport<br />[[IDN5320]] Nõudluse juhtimine ja prognoosimine<br />[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[ETV7020]] Planeerimine tarneahelas<br />[[ETV7031]] Protsesside analüüs tarneahelas<br />[[ETV7032]] Protsesside analüüs tarneahelas - ainetöö<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TTO3371]] Rahvusvaheline majandusõigus<br />[[TMM1220]] Rahvusvaheline turundus<br />[[ETV5100]] Sissejuhatus erialasse (magistriõpe)<br />[[ETV7080]] Tarneahela juhtimine ehitussektoris<br />[[ETV7010]] Tarnevõrgu kavandamine<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETV5210]] Töö- või õpetamispraktika<br />[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused<br />[[ETV6060]] Transpordipoliitika<br />[[ETV0180]] Transpordiprojektide hindamine<br />[[ETV6031]] Transpordiuuringud ja andmeanalüüs<br />[[ETV6032]] Transpordiuuringud ja andmeanalüüs - ainetöö<br />[[ETV5130]] Transport ja jaotussüsteemid<br />[[ETV6050]] Ühistransport</p>
+diff-minor: 
+ts: 1408891346
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EALM02/12 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50194&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK1160]] Analüüsimeetodid äriuuringutes
+	[[IDN5340]] Analüütilised meetodid tarneahela juhtimises
+	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
+	[[IDN5360]] Äriteabe haldamine ja visuaalne analüütika
+	[[TMM2080]] Äriturundus
+	[[HHL1260]] Avaliku halduse alused
+	[[ETV7040]] Ettevõtetevaheliste kokkulepete haldamine
+	[[TER8640]] Ettevõtte rahandus
+	[[ETV5170]] Humanitaar- ja militaarlogistika
+	[[IDN5300]] IKT logistikas ja tarneahela juhtimises
+	[[TMO1021]] Inimressursi juhtimine
+	[[TMK1130]] Innovatsiooni juhtimine
+	[[TMJ1050]] Juhtimismäng
+	[[TTK1020]] Keskkonnajuhtimine
+	[[TMK1220]] Kulusäästlik mõtlemine
+	[[ETV7070]] Kvaliteedijuhtimine tarneahelas
+	[[ETV5140]] Laondus
+	[[ETV6040]] Liikluskorraldus ja -ohutus ning intelligentsed transpordisüsteemid
+	[[ETT0090]] Linnaliiklus
+	[[ETV5162]] Logistika juhtimine - ainetöö
+	[[ETV5161]] Logistika strateegiline juhtimine
+	[[ETV5120]] Maailmamajandus ja logistika
+	[[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine
+	[[ETV5200]] Magistriseminar
+	[[ETV5110]] Majandusarvestus logistikas
+	[[ETV5150]] Multi- ja intermodaalne transport
+	[[IDN5320]] Nõudluse juhtimine ja prognoosimine
+	[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine
+	[[ETV7020]] Planeerimine tarneahelas
+	[[ETV7031]] Protsesside analüüs tarneahelas
+	[[ETV7032]] Protsesside analüüs tarneahelas - ainetöö
+	[[TMK1020]] Rahvusvaheline ärikorraldus
+	[[TTO3371]] Rahvusvaheline majandusõigus
+	[[TMM1220]] Rahvusvaheline turundus
+	[[ETV5100]] Sissejuhatus erialasse (magistriõpe)
+	[[ETV7080]] Tarneahela juhtimine ehitussektoris
+	[[ETV7010]] Tarnevõrgu kavandamine
+	[[HLX8040]] Teadusvõõrkeel
+	[[ETV5210]] Töö- või õpetamispraktika
+	[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused
+	[[ETV6060]] Transpordipoliitika
+	[[ETV0180]] Transpordiprojektide hindamine
+	[[ETV6031]] Transpordiuuringud ja andmeanalüüs
+	[[ETV6032]] Transpordiuuringud ja andmeanalüüs - ainetöö
+	[[ETV5130]] Transport ja jaotussüsteemid
+	[[ETV6050]] Ühistransport
+	
+	
+keep-ts: 1408891346

@@ -1,950 +1,31 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>EAEI02/12Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50181&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM1380]] Arhitektuuri teooria<br />[[NTS1420]] Arhitektuurne kujundamine<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS1151]] Betoonkonstruktsioonid I<br />[[NTS1152]] Betoonkonstruktsioonid II<br />[[NTM0580]] Detailplaneeringu koostamine<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1431]] Disainistuudio I (elamud)<br />[[NTS1433]] Disainistuudio III (hoonete kompleksid)<br />[[NTS1432]] Disainistuudio II (ühiskondlikud hooned)<br />[[NTS1270]] Eesti ajaloolised interjöörid<br />[[NTS1410]] Eesti arhitektuur<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS1250]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0250]] Elektrotehnika<br />[[NTS1070]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTS1440]] Interjöör<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1090]] Materjalide keemia<br />[[NTS0523]] Metallkonstruktsioonide projekteerimine I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS1190]] Puitkonstruktsioonid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS1140]] Restaureerimise ettevalmistustööd<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br /></p><h3>EAEI02/09Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50082&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM1380]] Arhitektuuri teooria<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS1151]] Betoonkonstruktsioonid I<br />[[NTS1152]] Betoonkonstruktsioonid II<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1270]] Eesti ajaloolised interjöörid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS1250]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0250]] Elektrotehnika<br />[[NTS1070]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1090]] Materjalide keemia<br />[[NTS0523]] Metallkonstruktsioonide projekteerimine I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS1190]] Puitkonstruktsioonid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS1140]] Restaureerimise ettevalmistustööd<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br /></p><h3>EAEI02/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50002&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[EEA0021]] Arhitektuur<br />[[YGD0040]] Arhitektuurigraafika<br />[[EEA0023]] Arhitektuur - projekt I<br />[[EEA0024]] Arhitektuur - projekt II<br />[[TTO1100]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[YGI3201]] Arvutigraafika I<br />[[YGI3202]] Arvutigraafika II<br />[[EPM0030]] Betooniõpetus<br />[[EEK0025]] Betoonkonstruktsioonid I<br />[[EEK0022]] Betoonkonstruktsioonid II<br />[[EEK0023]] Betoonkonstruktsioonid II - projekt<br />[[EEK0024]] Betoonkonstruktsioonid I - projekt<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EPJ0110]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[EEA0032]] Ehitusfüüsika I<br />[[EEA0033]] Ehitusfüüsika II<br />[[YGK0031]] Ehitusgraafika I<br />[[YGK0032]] Ehitusgraafika II<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted<br />[[EPT0120]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[EPM0010]] Ehitusmaterjalid II<br />[[EMD0021]] Ehitusmehaanika I<br />[[EMD0022]] Ehitusmehaanika II<br />[[EMD0023]] Ehitusmehaanika III<br />[[TTO0050]] Ehitusõigus<br />[[EPT0110]] Ehitustehnoloogia<br />[[EPT0111]] Ehitustehnoloogia erikursus<br />[[EMD0020]] Elastsusõpetus<br />[[AME3130]] Elektrotehnika<br />[[EPT0131]] Erialapraktika<br />[[EEK0230]] Erikonstruktsioonid<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[EEA0011]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0010]] Hüdraulika alused<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ0130]] Kinnisvaraökonoomika<br />[[EEK0060]] Kivikonstruktsioonid<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[YGK0010]] Kujutav geomeetria<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[YMA3710]] Lineaaralgebra<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EEK0031]] Metallkonstruktsioonide projekteerimine I<br />[[EEK0032]] Metallkonstruktsioonid II<br />[[EEK0033]] Metallkonstruktsioonid II - projekt<br />[[EPJ0100]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused<br />[[EPJ0140]] Plaanimine ja turg<br />[[EEA0022]] Planeerimine ja teed<br />[[EEA0025]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEK0050]] Puitkonstruktsioonid<br />[[EEK0053]] Puitkonstruktsioonide erikursus<br />[[EEK0100]] Raalprojekteerimine<br />[[NGG0115]] Rannikuprotsessid ja randade evolutsioon<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[EMH0131]] Sadamate planeerimine<br />[[EMH0132]] Sadamate planeerimine - projekt<br />[[EMH0123]] Sadamate tehnovõrgud ja -seadmed<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[EPT0130]] Töökeskkonna praktika<br />[[EEK0110]] Vesiehitiste projekteerimine<br />[[YGD0131]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br />[[EEK0071]] Vundamendid<br /></p><h3>EAEI02/06 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4078&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTK0040]] Akadeemiline võõrkeel<br />[[NTM0360]] Arhiivindus ja inventeerimine<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM0990]] Arhitektuuri teooria<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS0480]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTK0080]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0151]] Ehitusgraafika I<br />[[NTS0152]] Ehitusgraafika II<br />[[NTS0630]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS0281]] Ehitusmehaanika I<br />[[NTS0282]] Ehitusmehaanika II<br />[[NTS0540]] Ehitusplatsi korraldus - projekt<br />[[NTS0410]] Ehituspraktika<br />[[NTS0550]] Ehitusprojekteerimise arvmeetodid<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0440]] Elastsusõpetus<br />[[NTS0250]] Elektrotehnika<br />[[NTM1040]] Esteetika<br />[[NTM0060]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTM0490]] Konserveerimiskeemia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTM0900]] Kultuuriajalugu ja -geograafia<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS0521]] Metallkonstruktsioonid I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTS0524]] Metallkonstruktsioonid II - projekt<br />[[NTS0522]] Metallkonstruktsioonid I - projekt<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0540]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS0601]] Puitkonstruktsioonid<br />[[NTS0602]] Puitkonstruktsioonid - praktikum<br />[[NTS0513]] Raudbetoonkonstruktsioonid II<br />[[NTS0514]] Raudbetoonkonstruktsioonid II - projekt<br />[[NTS0511]] Raudbetoonkonstruktsioonid I&nbsp;&nbsp;<br />[[NTS0512]] Raudbetoonkonstruktsioonid I - projekt<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0090]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTK0350]] Tootmispraktika<br />[[NTM0930]] Üldine arhitektuuri ajalugu<br />[[NTM0950]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br />[[NTS0592]] Vundamendid - projekt<br /></p><h3>EAEI02/02 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=409&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[EEA0020]] Arhitektuur<br />[[YGD0040]] Arhitektuurigraafika<br />[[EEA0030]] Arhitektuur - projekt I<br />[[EEA0040]] Arhitektuur - projekt II<br />[[TTO0020]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[YGI3101]] Arvutigraafika  I<br />[[YGI3102]] Arvutigraafika  II<br />[[EPM0030]] Betooniõpetus<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[EER0030]] Ehitiste katsetamine<br />[[EEP3580]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[EEA3621]] Ehitusfüüsika I<br />[[EEA3622]] Ehitusfüüsika II<br />[[YGK0021]] Ehitusgraafika I<br />[[YGK0022]] Ehitusgraafika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EET3680]] Ehituskonstruktsioonide projekteerimise alused<br />[[EPJ0060]] Ehituskorraldus<br />[[EPT3410]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[EPM0010]] Ehitusmaterjalid II<br />[[EME0011]] Ehitusmehaanika I<br />[[EME0012]] Ehitusmehaanika II<br />[[TTO0050]] Ehitusõigus<br />[[EPJ0030]] Ehitusplatsi korraldus - projekt<br />[[EPT3361]] Ehituspraktika I<br />[[EPT3362]] Ehituspraktika II<br />[[EET0040]] Ehitusprojekteerimise arvmeetodid<br />[[EPT0011]] Ehitustehnoloogia I<br />[[EPT0012]] Ehitustehnoloogia II<br />[[EPT0013]] Ehitustehnoloogia - projekt<br />[[EMD0020]] Elastsusõpetus<br />[[AME3130]] Elektrotehnika<br />[[EET0030]] Erikonstruktsioonid<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[EEA0010]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0010]] Hüdraulika alused<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0021]] Hüdrotehnilised ehitised sadamates<br />[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[EPJ0050]] Infotehnoloogia ehituses<br />[[HHF3300]] Insenerieetika<br />[[HHP3540]] Juhtimispsühholoogia<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ3770]] Kinnisvaraökonoomika<br />[[EER0021]] Kivikonstruktsioonid<br />[[EER0022]] Kivikonstruktsioonid - projekt<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[YGK0010]] Kujutav geomeetria<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[YMA3710]] Lineaaralgebra<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[AKG0200]] Mere geotehnika<br />[[EET0011]] Metallkonstruktsioonid I<br />[[EET0013]] Metallkonstruktsioonid II<br />[[EET0014]] Metallkonstruktsioonid II - projekt<br />[[EET0012]] Metallkonstruktsioonid I - projekt<br />[[EPJ0010]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[EEA3640]] Plaanimine ja teed<br />[[EPJ3790]] Plaanimine ja turg<br />[[EEA3430]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEP0011]] Puitkonstruktsioonid<br />[[EEP0020]] Puitkonstruktsioonide erikursus<br />[[EEP0013]] Puitkonstruktsioonid - praktikum<br />[[EEP0012]] Puitkonstruktsioonid - projekt<br />[[EET0050]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EER0011]] Raudbetoonkonstruktsioonid I<br />[[EER0013]] Raudbetoonkonstruktsioonid II<br />[[EER0014]] Raudbetoonkonstruktsioonid II - projekt<br />[[EER0012]] Raudbetoonkonstruktsioonid I - projekt<br />[[EER0015]] Raudbetoonkonstruktsioonid - praktikum<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[EMH0121]] Sadamate planeerimine<br />[[EMH0122]] Sadamate planeerimine - projekt<br />[[EMH0151]] Sadamate tehnovõrgud ja -seadmed<br />[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt<br />[[EET0021]] Sillakonstruktsioonid<br />[[EET0022]] Sillakonstruktsioonid - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[HHR0060]] Väljendus- ja vaidlusõpetus<br />[[EEG3450]] Vesiehitiste projekteerimine<br />[[YGD0031]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br />[[EEG3441]] Vundamendid<br />[[EEG3442]] Vundamendid - projekt<br /></p><h3>EAEI02/12Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50181&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM1380]] Arhitektuuri teooria<br />[[NTS1420]] Arhitektuurne kujundamine<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS1151]] Betoonkonstruktsioonid I<br />[[NTS1152]] Betoonkonstruktsioonid II<br />[[NTM0580]] Detailplaneeringu koostamine<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1431]] Disainistuudio I (elamud)<br />[[NTS1433]] Disainistuudio III (hoonete kompleksid)<br />[[NTS1432]] Disainistuudio II (ühiskondlikud hooned)<br />[[NTS1270]] Eesti ajaloolised interjöörid<br />[[NTS1410]] Eesti arhitektuur<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS1250]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0250]] Elektrotehnika<br />[[NTS1070]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTS1440]] Interjöör<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1090]] Materjalide keemia<br />[[NTS0523]] Metallkonstruktsioonide projekteerimine I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS1190]] Puitkonstruktsioonid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS1140]] Restaureerimise ettevalmistustööd<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br /></p><h3>EAEI02/09Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50082&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM1380]] Arhitektuuri teooria<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS1151]] Betoonkonstruktsioonid I<br />[[NTS1152]] Betoonkonstruktsioonid II<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1270]] Eesti ajaloolised interjöörid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS1250]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0250]] Elektrotehnika<br />[[NTS1070]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1090]] Materjalide keemia<br />[[NTS0523]] Metallkonstruktsioonide projekteerimine I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS1190]] Puitkonstruktsioonid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS1140]] Restaureerimise ettevalmistustööd<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br /></p><h3>EAEI02/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50002&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[EEA0021]] Arhitektuur<br />[[YGD0040]] Arhitektuurigraafika<br />[[EEA0023]] Arhitektuur - projekt I<br />[[EEA0024]] Arhitektuur - projekt II<br />[[TTO1100]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[YGI3201]] Arvutigraafika I<br />[[YGI3202]] Arvutigraafika II<br />[[EPM0030]] Betooniõpetus<br />[[EEK0025]] Betoonkonstruktsioonid I<br />[[EEK0022]] Betoonkonstruktsioonid II<br />[[EEK0023]] Betoonkonstruktsioonid II - projekt<br />[[EEK0024]] Betoonkonstruktsioonid I - projekt<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EPJ0110]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[EEA0032]] Ehitusfüüsika I<br />[[EEA0033]] Ehitusfüüsika II<br />[[YGK0031]] Ehitusgraafika I<br />[[YGK0032]] Ehitusgraafika II<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted<br />[[EPT0120]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[EPM0010]] Ehitusmaterjalid II<br />[[EMD0021]] Ehitusmehaanika I<br />[[EMD0022]] Ehitusmehaanika II<br />[[EMD0023]] Ehitusmehaanika III<br />[[TTO0050]] Ehitusõigus<br />[[EPT0110]] Ehitustehnoloogia<br />[[EPT0111]] Ehitustehnoloogia erikursus<br />[[EMD0020]] Elastsusõpetus<br />[[AME3130]] Elektrotehnika<br />[[EPT0131]] Erialapraktika<br />[[EEK0230]] Erikonstruktsioonid<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[EEA0011]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0010]] Hüdraulika alused<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ0130]] Kinnisvaraökonoomika<br />[[EEK0060]] Kivikonstruktsioonid<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[YGK0010]] Kujutav geomeetria<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[YMA3710]] Lineaaralgebra<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[EEK0031]] Metallkonstruktsioonide projekteerimine I<br />[[EEK0032]] Metallkonstruktsioonid II<br />[[EEK0033]] Metallkonstruktsioonid II - projekt<br />[[EPJ0100]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused<br />[[EPJ0140]] Plaanimine ja turg<br />[[EEA0022]] Planeerimine ja teed<br />[[EEA0025]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEK0050]] Puitkonstruktsioonid<br />[[EEK0053]] Puitkonstruktsioonide erikursus<br />[[EEK0100]] Raalprojekteerimine<br />[[NGG0115]] Rannikuprotsessid ja randade evolutsioon<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[EMH0131]] Sadamate planeerimine<br />[[EMH0132]] Sadamate planeerimine - projekt<br />[[EMH0123]] Sadamate tehnovõrgud ja -seadmed<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[EPT0130]] Töökeskkonna praktika<br />[[EEK0110]] Vesiehitiste projekteerimine<br />[[YGD0131]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br />[[EEK0071]] Vundamendid<br /></p><h3>EAEI02/06 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=4078&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTK0040]] Akadeemiline võõrkeel<br />[[NTM0360]] Arhiivindus ja inventeerimine<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM0990]] Arhitektuuri teooria<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS0480]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTK0080]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0151]] Ehitusgraafika I<br />[[NTS0152]] Ehitusgraafika II<br />[[NTS0630]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS0281]] Ehitusmehaanika I<br />[[NTS0282]] Ehitusmehaanika II<br />[[NTS0540]] Ehitusplatsi korraldus - projekt<br />[[NTS0410]] Ehituspraktika<br />[[NTS0550]] Ehitusprojekteerimise arvmeetodid<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0440]] Elastsusõpetus<br />[[NTS0250]] Elektrotehnika<br />[[NTM1040]] Esteetika<br />[[NTM0060]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTM0490]] Konserveerimiskeemia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTM0900]] Kultuuriajalugu ja -geograafia<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS0521]] Metallkonstruktsioonid I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTS0524]] Metallkonstruktsioonid II - projekt<br />[[NTS0522]] Metallkonstruktsioonid I - projekt<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0540]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS0601]] Puitkonstruktsioonid<br />[[NTS0602]] Puitkonstruktsioonid - praktikum<br />[[NTS0513]] Raudbetoonkonstruktsioonid II<br />[[NTS0514]] Raudbetoonkonstruktsioonid II - projekt<br />[[NTS0511]] Raudbetoonkonstruktsioonid I&nbsp;&nbsp;<br />[[NTS0512]] Raudbetoonkonstruktsioonid I - projekt<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0090]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTK0350]] Tootmispraktika<br />[[NTM0930]] Üldine arhitektuuri ajalugu<br />[[NTM0950]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid<br />[[NTS0592]] Vundamendid - projekt<br /></p><h3>EAEI02/02 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=409&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[EEA0020]] Arhitektuur<br />[[YGD0040]] Arhitektuurigraafika<br />[[EEA0030]] Arhitektuur - projekt I<br />[[EEA0040]] Arhitektuur - projekt II<br />[[TTO0020]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[YGI3101]] Arvutigraafika  I<br />[[YGI3102]] Arvutigraafika  II<br />[[EPM0030]] Betooniõpetus<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[EER0030]] Ehitiste katsetamine<br />[[EEP3580]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EPJ3720]] Ehituse maksumuse hindamine<br />[[EPJ0020]] Ehitusettevõtte ökonoomika<br />[[EEA3621]] Ehitusfüüsika I<br />[[EEA3622]] Ehitusfüüsika II<br />[[YGK0021]] Ehitusgraafika I<br />[[YGK0022]] Ehitusgraafika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EET3680]] Ehituskonstruktsioonide projekteerimise alused<br />[[EPJ0060]] Ehituskorraldus<br />[[EPT3410]] Ehitusmasinad<br />[[EPM3500]] Ehitusmaterjalid<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[EPM0010]] Ehitusmaterjalid II<br />[[EME0011]] Ehitusmehaanika I<br />[[EME0012]] Ehitusmehaanika II<br />[[TTO0050]] Ehitusõigus<br />[[EPJ0030]] Ehitusplatsi korraldus - projekt<br />[[EPT3361]] Ehituspraktika I<br />[[EPT3362]] Ehituspraktika II<br />[[EET0040]] Ehitusprojekteerimise arvmeetodid<br />[[EPT0011]] Ehitustehnoloogia I<br />[[EPT0012]] Ehitustehnoloogia II<br />[[EPT0013]] Ehitustehnoloogia - projekt<br />[[EMD0020]] Elastsusõpetus<br />[[AME3130]] Elektrotehnika<br />[[EET0030]] Erikonstruktsioonid<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[EEA0010]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0010]] Hüdraulika alused<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0021]] Hüdrotehnilised ehitised sadamates<br />[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[EPJ0050]] Infotehnoloogia ehituses<br />[[HHF3300]] Insenerieetika<br />[[HHP3540]] Juhtimispsühholoogia<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ3770]] Kinnisvaraökonoomika<br />[[EER0021]] Kivikonstruktsioonid<br />[[EER0022]] Kivikonstruktsioonid - projekt<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[YGK0010]] Kujutav geomeetria<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[YMA3710]] Lineaaralgebra<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[AKG0200]] Mere geotehnika<br />[[EET0011]] Metallkonstruktsioonid I<br />[[EET0013]] Metallkonstruktsioonid II<br />[[EET0014]] Metallkonstruktsioonid II - projekt<br />[[EET0012]] Metallkonstruktsioonid I - projekt<br />[[EPJ0010]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[EEA3640]] Plaanimine ja teed<br />[[EPJ3790]] Plaanimine ja turg<br />[[EEA3430]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEP0011]] Puitkonstruktsioonid<br />[[EEP0020]] Puitkonstruktsioonide erikursus<br />[[EEP0013]] Puitkonstruktsioonid - praktikum<br />[[EEP0012]] Puitkonstruktsioonid - projekt<br />[[EET0050]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EER0011]] Raudbetoonkonstruktsioonid I<br />[[EER0013]] Raudbetoonkonstruktsioonid II<br />[[EER0014]] Raudbetoonkonstruktsioonid II - projekt<br />[[EER0012]] Raudbetoonkonstruktsioonid I - projekt<br />[[EER0015]] Raudbetoonkonstruktsioonid - praktikum<br />[[TMT3830]] Riski- ja ohutusõpetus<br />[[EMH0121]] Sadamate planeerimine<br />[[EMH0122]] Sadamate planeerimine - projekt<br />[[EMH0151]] Sadamate tehnovõrgud ja -seadmed<br />[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt<br />[[EET0021]] Sillakonstruktsioonid<br />[[EET0022]] Sillakonstruktsioonid - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0011]] Tehniline mehaanika I<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[HHR0060]] Väljendus- ja vaidlusõpetus<br />[[EEG3450]] Vesiehitiste projekteerimine<br />[[YGD0031]] Visuaalne kommunikatsioon I<br />[[YGD0032]] Visuaalne kommunikatsioon II<br />[[EEG3441]] Vundamendid<br />[[EEG3442]] Vundamendid - projekt<br /></p>
+flags: 01010101010
+blocks: &lt;include "EAEI02-12Tartu"&gt;
+	&lt;include "EAEI02-09Tartu"&gt;
+	&lt;include "EAEI02-09"&gt;
+	&lt;include "EAEI02-06"&gt;
+	&lt;include "EAEI02-02"&gt;
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;include "EAEI02-12Tartu"&gt;<br />&lt; &lt;include "EAEI02-09Tartu"&gt;<br />&lt; &lt;include "EAEI02-09"&gt;<br />&lt; &lt;include "EAEI02-06"&gt;<br />&lt; &lt;include "EAEI02-02"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1391203590
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408891320
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 3
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === EAEI02/12Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50181&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTX0010]] Akadeemiline võõrkeel\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu\\
-	[[NTM1380]] Arhitektuuri teooria\\
-	[[NTS1420]] Arhitektuurne kujundamine\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS1151]] Betoonkonstruktsioonid I\\
-	[[NTS1152]] Betoonkonstruktsioonid II\\
-	[[NTM0580]] Detailplaneeringu koostamine\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS1431]] Disainistuudio I (elamud)\\
-	[[NTS1433]] Disainistuudio III (hoonete kompleksid)\\
-	[[NTS1432]] Disainistuudio II (ühiskondlikud hooned)\\
-	[[NTS1270]] Eesti ajaloolised interjöörid\\
-	[[NTS1410]] Eesti arhitektuur\\
-	[[NTU0030]] Eesti keele väljendusõpetus\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS1250]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTS1060]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0153]] Ehitusgraafika I\\
-	[[NTS0154]] Ehitusgraafika II\\
-	[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS1221]] Ehitusmehaanika I\\
-	[[NTS1222]] Ehitusmehaanika II\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTS1070]] Erialapraktika\\
-	[[NTU0040]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTS1440]] Interjöör\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTS0310]] Küte ja ventilatsioon\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\
-	[[NTS1100]] Lõplike elementide meetod\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS1090]] Materjalide keemia\\
-	[[NTS0523]] Metallkonstruktsioonide projekteerimine I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS1190]] Puitkonstruktsioonid\\
-	[[NTS1120]] Raalprojekteerimine\\
-	[[NTS1140]] Restaureerimise ettevalmistustööd\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0690]] Teadustöö metodoloogia\\
-	[[NTX0020]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTM1420]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	=== EAEI02/09Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50082&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTX0010]] Akadeemiline võõrkeel\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu\\
-	[[NTM1380]] Arhitektuuri teooria\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS1151]] Betoonkonstruktsioonid I\\
-	[[NTS1152]] Betoonkonstruktsioonid II\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS1270]] Eesti ajaloolised interjöörid\\
-	[[NTU0030]] Eesti keele väljendusõpetus\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS1250]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTS1060]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0153]] Ehitusgraafika I\\
-	[[NTS0154]] Ehitusgraafika II\\
-	[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS1221]] Ehitusmehaanika I\\
-	[[NTS1222]] Ehitusmehaanika II\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTS1070]] Erialapraktika\\
-	[[NTU0040]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTS0310]] Küte ja ventilatsioon\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\
-	[[NTS1100]] Lõplike elementide meetod\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS1090]] Materjalide keemia\\
-	[[NTS0523]] Metallkonstruktsioonide projekteerimine I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS1190]] Puitkonstruktsioonid\\
-	[[NTS1120]] Raalprojekteerimine\\
-	[[NTS1140]] Restaureerimise ettevalmistustööd\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0690]] Teadustöö metodoloogia\\
-	[[NTX0020]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTM1420]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	=== EAEI02/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50002&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[EEA0021]] Arhitektuur\\
-	[[YGD0040]] Arhitektuurigraafika\\
-	[[EEA0023]] Arhitektuur - projekt I\\
-	[[EEA0024]] Arhitektuur - projekt II\\
-	[[TTO1100]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[YGI3201]] Arvutigraafika I\\
-	[[YGI3202]] Arvutigraafika II\\
-	[[EPM0030]] Betooniõpetus\\
-	[[EEK0025]] Betoonkonstruktsioonid I\\
-	[[EEK0022]] Betoonkonstruktsioonid II\\
-	[[EEK0023]] Betoonkonstruktsioonid II - projekt\\
-	[[EEK0024]] Betoonkonstruktsioonid I - projekt\\
-	[[YMR0010]] Diferentsiaalvõrrandid\\
-	[[HLE6060]] Eesti keele väljendusõpetus\\
-	[[EEA0013]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EPJ0110]] Ehituse maksumuse hindamine\\
-	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
-	[[EEA0032]] Ehitusfüüsika I\\
-	[[EEA0033]] Ehitusfüüsika II\\
-	[[YGK0031]] Ehitusgraafika I\\
-	[[YGK0032]] Ehitusgraafika II\\
-	[[EPJ0120]] Ehitushanke juhtimine\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted\\
-	[[EPT0120]] Ehitusmasinad\\
-	[[EPM3500]] Ehitusmaterjalid\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[EPM0010]] Ehitusmaterjalid II\\
-	[[EMD0021]] Ehitusmehaanika I\\
-	[[EMD0022]] Ehitusmehaanika II\\
-	[[EMD0023]] Ehitusmehaanika III\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPT0110]] Ehitustehnoloogia\\
-	[[EPT0111]] Ehitustehnoloogia erikursus\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[AME3130]] Elektrotehnika\\
-	[[EPT0131]] Erialapraktika\\
-	[[EEK0230]] Erikonstruktsioonid\\
-	[[HHF3080]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[ETG0011]] Geodeesia I\\
-	[[ETG0012]] Geodeesia II\\
-	[[ETG0013]] Geodeesia õppepraktika\\
-	[[EEA0011]] Hoonete konstruktsioonid\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0010]] Hüdraulika alused\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0023]] Hüdrotehnilised ehitised sadamates\\
-	[[IDK0092]] Informaatika II (tehnika)\\
-	[[IDK0091]] Informaatika I (tehnika)\\
-	[[YKI3030]] Keemia ja materjaliõpetus\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ0130]] Kinnisvaraökonoomika\\
-	[[EEK0060]] Kivikonstruktsioonid\\
-	[[EPM3850]] Korrosioonikaitse ehituses\\
-	[[YGK0010]] Kujutav geomeetria\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM0012]] Matemaatiline analüüs II\\
-	[[EEK0031]] Metallkonstruktsioonide projekteerimine I\\
-	[[EEK0032]] Metallkonstruktsioonid II\\
-	[[EEK0033]] Metallkonstruktsioonid II - projekt\\
-	[[EPJ0100]] Mikro- ja makroökonoomika\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused\\
-	[[EPJ0140]] Plaanimine ja turg\\
-	[[EEA0022]] Planeerimine ja teed\\
-	[[EEA0025]] Projekteerimispraktika\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEK0050]] Puitkonstruktsioonid\\
-	[[EEK0053]] Puitkonstruktsioonide erikursus\\
-	[[EEK0100]] Raalprojekteerimine\\
-	[[NGG0115]] Rannikuprotsessid ja randade evolutsioon\\
-	[[TMT3830]] Riski- ja ohutusõpetus\\
-	[[EMH0131]] Sadamate planeerimine\\
-	[[EMH0132]] Sadamate planeerimine - projekt\\
-	[[EMH0123]] Sadamate tehnovõrgud ja -seadmed\\
-	[[HHP3800]] Suhtlemispsühholoogia\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[EMD0011]] Tehniline mehaanika I\\
-	[[EMD0012]] Tehniline mehaanika II\\
-	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[EPT0130]] Töökeskkonna praktika\\
-	[[EEK0110]] Vesiehitiste projekteerimine\\
-	[[YGD0131]] Visuaalne kommunikatsioon I\\
-	[[YGD0032]] Visuaalne kommunikatsioon II\\
-	[[EEK0071]] Vundamendid\\
-	=== EAEI02/06 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=4078&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTK0040]] Akadeemiline võõrkeel\\
-	[[NTM0360]] Arhiivindus ja inventeerimine\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM0990]] Arhitektuuri teooria\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS0480]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTK0080]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0151]] Ehitusgraafika I\\
-	[[NTS0152]] Ehitusgraafika II\\
-	[[NTS0630]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS0281]] Ehitusmehaanika I\\
-	[[NTS0282]] Ehitusmehaanika II\\
-	[[NTS0540]] Ehitusplatsi korraldus - projekt\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0550]] Ehitusprojekteerimise arvmeetodid\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0440]] Elastsusõpetus\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTM1040]] Esteetika\\
-	[[NTM0060]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTM0490]] Konserveerimiskeemia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTM0900]] Kultuuriajalugu ja -geograafia\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS0521]] Metallkonstruktsioonid I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTS0524]] Metallkonstruktsioonid II - projekt\\
-	[[NTS0522]] Metallkonstruktsioonid I - projekt\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0540]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS0601]] Puitkonstruktsioonid\\
-	[[NTS0602]] Puitkonstruktsioonid - praktikum\\
-	[[NTS0513]] Raudbetoonkonstruktsioonid II\\
-	[[NTS0514]] Raudbetoonkonstruktsioonid II - projekt\\
-	[[NTS0511]] Raudbetoonkonstruktsioonid I&nbsp;&nbsp;\\
-	[[NTS0512]] Raudbetoonkonstruktsioonid I - projekt\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0090]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTK0350]] Tootmispraktika\\
-	[[NTM0930]] Üldine arhitektuuri ajalugu\\
-	[[NTM0950]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	[[NTS0592]] Vundamendid - projekt\\
-	=== EAEI02/02 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=409&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[EEA0020]] Arhitektuur\\
-	[[YGD0040]] Arhitektuurigraafika\\
-	[[EEA0030]] Arhitektuur - projekt I\\
-	[[EEA0040]] Arhitektuur - projekt II\\
-	[[TTO0020]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[YGI3101]] Arvutigraafika  I\\
-	[[YGI3102]] Arvutigraafika  II\\
-	[[EPM0030]] Betooniõpetus\\
-	[[YMR0010]] Diferentsiaalvõrrandid\\
-	[[EER0030]] Ehitiste katsetamine\\
-	[[EEP3580]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EPJ3720]] Ehituse maksumuse hindamine\\
-	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
-	[[EEA3621]] Ehitusfüüsika I\\
-	[[EEA3622]] Ehitusfüüsika II\\
-	[[YGK0021]] Ehitusgraafika I\\
-	[[YGK0022]] Ehitusgraafika II\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EET3680]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[EPJ0060]] Ehituskorraldus\\
-	[[EPT3410]] Ehitusmasinad\\
-	[[EPM3500]] Ehitusmaterjalid\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[EPM0010]] Ehitusmaterjalid II\\
-	[[EME0011]] Ehitusmehaanika I\\
-	[[EME0012]] Ehitusmehaanika II\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPJ0030]] Ehitusplatsi korraldus - projekt\\
-	[[EPT3361]] Ehituspraktika I\\
-	[[EPT3362]] Ehituspraktika II\\
-	[[EET0040]] Ehitusprojekteerimise arvmeetodid\\
-	[[EPT0011]] Ehitustehnoloogia I\\
-	[[EPT0012]] Ehitustehnoloogia II\\
-	[[EPT0013]] Ehitustehnoloogia - projekt\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[AME3130]] Elektrotehnika\\
-	[[EET0030]] Erikonstruktsioonid\\
-	[[HHF3070]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[ETG0011]] Geodeesia I\\
-	[[ETG0012]] Geodeesia II\\
-	[[ETG0013]] Geodeesia õppepraktika\\
-	[[EEA0010]] Hoonete konstruktsioonid\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0010]] Hüdraulika alused\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0021]] Hüdrotehnilised ehitised sadamates\\
-	[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt\\
-	[[IDK0011]] Informaatika I\\
-	[[IDK0012]] Informaatika II\\
-	[[EPJ0050]] Infotehnoloogia ehituses\\
-	[[HHF3300]] Insenerieetika\\
-	[[HHP3540]] Juhtimispsühholoogia\\
-	[[YKI3030]] Keemia ja materjaliõpetus\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ3770]] Kinnisvaraökonoomika\\
-	[[EER0021]] Kivikonstruktsioonid\\
-	[[EER0022]] Kivikonstruktsioonid - projekt\\
-	[[EPM3850]] Korrosioonikaitse ehituses\\
-	[[YGK0010]] Kujutav geomeetria\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM0012]] Matemaatiline analüüs II\\
-	[[AKG0200]] Mere geotehnika\\
-	[[EET0011]] Metallkonstruktsioonid I\\
-	[[EET0013]] Metallkonstruktsioonid II\\
-	[[EET0014]] Metallkonstruktsioonid II - projekt\\
-	[[EET0012]] Metallkonstruktsioonid I - projekt\\
-	[[EPJ0010]] Mikro- ja makroökonoomika\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[EEA3640]] Plaanimine ja teed\\
-	[[EPJ3790]] Plaanimine ja turg\\
-	[[EEA3430]] Projekteerimispraktika\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEP0011]] Puitkonstruktsioonid\\
-	[[EEP0020]] Puitkonstruktsioonide erikursus\\
-	[[EEP0013]] Puitkonstruktsioonid - praktikum\\
-	[[EEP0012]] Puitkonstruktsioonid - projekt\\
-	[[EET0050]] Raalprojekteerimine\\
-	[[EMH0090]] Rannikuprotsessid\\
-	[[EER0011]] Raudbetoonkonstruktsioonid I\\
-	[[EER0013]] Raudbetoonkonstruktsioonid II\\
-	[[EER0014]] Raudbetoonkonstruktsioonid II - projekt\\
-	[[EER0012]] Raudbetoonkonstruktsioonid I - projekt\\
-	[[EER0015]] Raudbetoonkonstruktsioonid - praktikum\\
-	[[TMT3830]] Riski- ja ohutusõpetus\\
-	[[EMH0121]] Sadamate planeerimine\\
-	[[EMH0122]] Sadamate planeerimine - projekt\\
-	[[EMH0151]] Sadamate tehnovõrgud ja -seadmed\\
-	[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt\\
-	[[EET0021]] Sillakonstruktsioonid\\
-	[[EET0022]] Sillakonstruktsioonid - projekt\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[EMD0011]] Tehniline mehaanika I\\
-	[[EMD0012]] Tehniline mehaanika II\\
-	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[HHR0060]] Väljendus- ja vaidlusõpetus\\
-	[[EEG3450]] Vesiehitiste projekteerimine\\
-	[[YGD0031]] Visuaalne kommunikatsioon I\\
-	[[YGD0032]] Visuaalne kommunikatsioon II\\
-	[[EEG3441]] Vundamendid\\
-	[[EEG3442]] Vundamendid - projekt\\
-	=== EAEI02/12Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50181&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTX0010]] Akadeemiline võõrkeel\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu\\
-	[[NTM1380]] Arhitektuuri teooria\\
-	[[NTS1420]] Arhitektuurne kujundamine\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS1151]] Betoonkonstruktsioonid I\\
-	[[NTS1152]] Betoonkonstruktsioonid II\\
-	[[NTM0580]] Detailplaneeringu koostamine\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS1431]] Disainistuudio I (elamud)\\
-	[[NTS1433]] Disainistuudio III (hoonete kompleksid)\\
-	[[NTS1432]] Disainistuudio II (ühiskondlikud hooned)\\
-	[[NTS1270]] Eesti ajaloolised interjöörid\\
-	[[NTS1410]] Eesti arhitektuur\\
-	[[NTU0030]] Eesti keele väljendusõpetus\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS1250]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTS1060]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0153]] Ehitusgraafika I\\
-	[[NTS0154]] Ehitusgraafika II\\
-	[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS1221]] Ehitusmehaanika I\\
-	[[NTS1222]] Ehitusmehaanika II\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTS1070]] Erialapraktika\\
-	[[NTU0040]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTS1440]] Interjöör\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTS0310]] Küte ja ventilatsioon\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\
-	[[NTS1100]] Lõplike elementide meetod\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS1090]] Materjalide keemia\\
-	[[NTS0523]] Metallkonstruktsioonide projekteerimine I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS1190]] Puitkonstruktsioonid\\
-	[[NTS1120]] Raalprojekteerimine\\
-	[[NTS1140]] Restaureerimise ettevalmistustööd\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0690]] Teadustöö metodoloogia\\
-	[[NTX0020]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTM1420]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	=== EAEI02/09Tartu - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50082&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTX0010]] Akadeemiline võõrkeel\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu\\
-	[[NTM1380]] Arhitektuuri teooria\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS1151]] Betoonkonstruktsioonid I\\
-	[[NTS1152]] Betoonkonstruktsioonid II\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS1270]] Eesti ajaloolised interjöörid\\
-	[[NTU0030]] Eesti keele väljendusõpetus\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS1250]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTS1060]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0153]] Ehitusgraafika I\\
-	[[NTS0154]] Ehitusgraafika II\\
-	[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS1221]] Ehitusmehaanika I\\
-	[[NTS1222]] Ehitusmehaanika II\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTS1070]] Erialapraktika\\
-	[[NTU0040]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTS0310]] Küte ja ventilatsioon\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\
-	[[NTS1100]] Lõplike elementide meetod\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS1090]] Materjalide keemia\\
-	[[NTS0523]] Metallkonstruktsioonide projekteerimine I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS1190]] Puitkonstruktsioonid\\
-	[[NTS1120]] Raalprojekteerimine\\
-	[[NTS1140]] Restaureerimise ettevalmistustööd\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0690]] Teadustöö metodoloogia\\
-	[[NTX0020]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTM1420]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	=== EAEI02/09 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50002&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[EEA0021]] Arhitektuur\\
-	[[YGD0040]] Arhitektuurigraafika\\
-	[[EEA0023]] Arhitektuur - projekt I\\
-	[[EEA0024]] Arhitektuur - projekt II\\
-	[[TTO1100]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[YGI3201]] Arvutigraafika I\\
-	[[YGI3202]] Arvutigraafika II\\
-	[[EPM0030]] Betooniõpetus\\
-	[[EEK0025]] Betoonkonstruktsioonid I\\
-	[[EEK0022]] Betoonkonstruktsioonid II\\
-	[[EEK0023]] Betoonkonstruktsioonid II - projekt\\
-	[[EEK0024]] Betoonkonstruktsioonid I - projekt\\
-	[[YMR0010]] Diferentsiaalvõrrandid\\
-	[[HLE6060]] Eesti keele väljendusõpetus\\
-	[[EEA0013]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EPJ0110]] Ehituse maksumuse hindamine\\
-	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
-	[[EEA0032]] Ehitusfüüsika I\\
-	[[EEA0033]] Ehitusfüüsika II\\
-	[[YGK0031]] Ehitusgraafika I\\
-	[[YGK0032]] Ehitusgraafika II\\
-	[[EPJ0120]] Ehitushanke juhtimine\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted\\
-	[[EPT0120]] Ehitusmasinad\\
-	[[EPM3500]] Ehitusmaterjalid\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[EPM0010]] Ehitusmaterjalid II\\
-	[[EMD0021]] Ehitusmehaanika I\\
-	[[EMD0022]] Ehitusmehaanika II\\
-	[[EMD0023]] Ehitusmehaanika III\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPT0110]] Ehitustehnoloogia\\
-	[[EPT0111]] Ehitustehnoloogia erikursus\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[AME3130]] Elektrotehnika\\
-	[[EPT0131]] Erialapraktika\\
-	[[EEK0230]] Erikonstruktsioonid\\
-	[[HHF3080]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[ETG0011]] Geodeesia I\\
-	[[ETG0012]] Geodeesia II\\
-	[[ETG0013]] Geodeesia õppepraktika\\
-	[[EEA0011]] Hoonete konstruktsioonid\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0010]] Hüdraulika alused\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0023]] Hüdrotehnilised ehitised sadamates\\
-	[[IDK0092]] Informaatika II (tehnika)\\
-	[[IDK0091]] Informaatika I (tehnika)\\
-	[[YKI3030]] Keemia ja materjaliõpetus\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ0130]] Kinnisvaraökonoomika\\
-	[[EEK0060]] Kivikonstruktsioonid\\
-	[[EPM3850]] Korrosioonikaitse ehituses\\
-	[[YGK0010]] Kujutav geomeetria\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM0012]] Matemaatiline analüüs II\\
-	[[EEK0031]] Metallkonstruktsioonide projekteerimine I\\
-	[[EEK0032]] Metallkonstruktsioonid II\\
-	[[EEK0033]] Metallkonstruktsioonid II - projekt\\
-	[[EPJ0100]] Mikro- ja makroökonoomika\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused\\
-	[[EPJ0140]] Plaanimine ja turg\\
-	[[EEA0022]] Planeerimine ja teed\\
-	[[EEA0025]] Projekteerimispraktika\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEK0050]] Puitkonstruktsioonid\\
-	[[EEK0053]] Puitkonstruktsioonide erikursus\\
-	[[EEK0100]] Raalprojekteerimine\\
-	[[NGG0115]] Rannikuprotsessid ja randade evolutsioon\\
-	[[TMT3830]] Riski- ja ohutusõpetus\\
-	[[EMH0131]] Sadamate planeerimine\\
-	[[EMH0132]] Sadamate planeerimine - projekt\\
-	[[EMH0123]] Sadamate tehnovõrgud ja -seadmed\\
-	[[HHP3800]] Suhtlemispsühholoogia\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[EMD0011]] Tehniline mehaanika I\\
-	[[EMD0012]] Tehniline mehaanika II\\
-	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[EPT0130]] Töökeskkonna praktika\\
-	[[EEK0110]] Vesiehitiste projekteerimine\\
-	[[YGD0131]] Visuaalne kommunikatsioon I\\
-	[[YGD0032]] Visuaalne kommunikatsioon II\\
-	[[EEK0071]] Vundamendid\\
-	=== EAEI02/06 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=4078&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTK0040]] Akadeemiline võõrkeel\\
-	[[NTM0360]] Arhiivindus ja inventeerimine\\
-	[[NTM0460]] Arhitektuurigraafika\\
-	[[NTM0990]] Arhitektuuri teooria\\
-	[[NTS0341]] Arvutigraafika I\\
-	[[NTS0342]] Arvutigraafika II\\
-	[[NTS0460]] Betooniõpetus\\
-	[[NTS0190]] Diferentsiaalvõrrandid\\
-	[[NTS0570]] Ehitise tehnilise seisukorra hindamine\\
-	[[NTS0480]] Ehitiste katsetamine\\
-	[[NTM0470]] Ehitiste restaureerimine\\
-	[[NTK0310]] Ehituse maksumuse hindamine\\
-	[[NTK0080]] Ehitusettevõtte ökonoomika\\
-	[[NTS0490]] Ehitusfüüsika\\
-	[[NTS0151]] Ehitusgraafika I\\
-	[[NTS0152]] Ehitusgraafika II\\
-	[[NTS0630]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[NTS0320]] Ehituskorraldus\\
-	[[NTS0430]] Ehitusmasinad\\
-	[[NTS0240]] Ehitusmaterjalid\\
-	[[NTS0242]] Ehitusmaterjalid II\\
-	[[NTS0281]] Ehitusmehaanika I\\
-	[[NTS0282]] Ehitusmehaanika II\\
-	[[NTS0540]] Ehitusplatsi korraldus - projekt\\
-	[[NTS0410]] Ehituspraktika\\
-	[[NTS0550]] Ehitusprojekteerimise arvmeetodid\\
-	[[NTS0500]] Ehitustehnoloogia\\
-	[[NTS0440]] Elastsusõpetus\\
-	[[NTS0250]] Elektrotehnika\\
-	[[NTM1040]] Esteetika\\
-	[[NTM0060]] Filosoofia\\
-	[[NTS0131]] Füüsika I\\
-	[[NTS0132]] Füüsika II\\
-	[[NTM0211]] Geodeesia I\\
-	[[NTM0212]] Geodeesia II\\
-	[[NTM0213]] Geodeesia õppepraktika\\
-	[[NTS0220]] Hoonete konstruktsioonid\\
-	[[NTM0030]] Hüdraulika alused\\
-	[[NTS0121]] Informaatika I\\
-	[[NTS0122]] Informaatika II\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTM0890]] Joonistamine\\
-	[[NTK0360]] Keemia ja materjaliõpetus\\
-	[[NTK0020]] Keskkonnakaitse\\
-	[[NTS0580]] Kivikonstruktsioonid\\
-	[[NTM0530]] Konserveerimisbioloogia\\
-	[[NTM0490]] Konserveerimiskeemia\\
-	[[NTS0470]] Korrosioonikaitse ehituses\\
-	[[NTS0140]] Kujutav geomeetria\\
-	[[NTM0900]] Kultuuriajalugu ja -geograafia\\
-	[[NTS0160]] Lineaaralgebra\\
-	[[NTS0171]] Matemaatiline analüüs I\\
-	[[NTS0172]] Matemaatiline analüüs II\\
-	[[NTS0521]] Metallkonstruktsioonid I\\
-	[[NTS0525]] Metallkonstruktsioonid II\\
-	[[NTS0524]] Metallkonstruktsioonid II - projekt\\
-	[[NTS0522]] Metallkonstruktsioonid I - projekt\\
-	[[NTK0050]] Mikro- ja makroökonoomika\\
-	[[NTM0540]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTK0030]] Õigusõpetus\\
-	[[NTK0010]] Õpingukorraldus\\
-	[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused\\
-	[[NTM0290]] Projekteerimispraktika\\
-	[[NTS0601]] Puitkonstruktsioonid\\
-	[[NTS0602]] Puitkonstruktsioonid - praktikum\\
-	[[NTS0513]] Raudbetoonkonstruktsioonid II\\
-	[[NTS0514]] Raudbetoonkonstruktsioonid II - projekt\\
-	[[NTS0511]] Raudbetoonkonstruktsioonid I&nbsp;&nbsp;\\
-	[[NTS0512]] Raudbetoonkonstruktsioonid I - projekt\\
-	[[NTS0070]] Riski- ja ohutusõpetus\\
-	[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\
-	[[NTK0090]] Teadusvõõrkeel\\
-	[[NTS0231]] Tehniline mehaanika I\\
-	[[NTS0232]] Tehniline mehaanika II\\
-	[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[NTK0350]] Tootmispraktika\\
-	[[NTM0930]] Üldine arhitektuuri ajalugu\\
-	[[NTM0950]] Üldine kunstiajalugu\\
-	[[NTM0111]] Visuaalne kommunikatsioon I\\
-	[[NTM0112]] Visuaalne kommunikatsioon II\\
-	[[NTS0591]] Vundamendid\\
-	[[NTS0592]] Vundamendid - projekt\\
-	=== EAEI02/02 - Tööstus- ja tsiviilehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=409&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[EEA0020]] Arhitektuur\\
-	[[YGD0040]] Arhitektuurigraafika\\
-	[[EEA0030]] Arhitektuur - projekt I\\
-	[[EEA0040]] Arhitektuur - projekt II\\
-	[[TTO0020]] Äriõigus\\
-	[[TMM0030]] Ärisuhtlus\\
-	[[TAF3141]] Arvestuse alused\\
-	[[YGI3101]] Arvutigraafika  I\\
-	[[YGI3102]] Arvutigraafika  II\\
-	[[EPM0030]] Betooniõpetus\\
-	[[YMR0010]] Diferentsiaalvõrrandid\\
-	[[EER0030]] Ehitiste katsetamine\\
-	[[EEP3580]] Ehitiste renoveerimine\\
-	[[EPJ3750]] Ehituse juhtimine\\
-	[[EPJ3720]] Ehituse maksumuse hindamine\\
-	[[EPJ0020]] Ehitusettevõtte ökonoomika\\
-	[[EEA3621]] Ehitusfüüsika I\\
-	[[EEA3622]] Ehitusfüüsika II\\
-	[[YGK0021]] Ehitusgraafika I\\
-	[[YGK0022]] Ehitusgraafika II\\
-	[[EPJ3760]] Ehitusinvesteeringud\\
-	[[EET3680]] Ehituskonstruktsioonide projekteerimise alused\\
-	[[EPJ0060]] Ehituskorraldus\\
-	[[EPT3410]] Ehitusmasinad\\
-	[[EPM3500]] Ehitusmaterjalid\\
-	[[EPM0020]] Ehitusmaterjalide valikkursus\\
-	[[EPM0010]] Ehitusmaterjalid II\\
-	[[EME0011]] Ehitusmehaanika I\\
-	[[EME0012]] Ehitusmehaanika II\\
-	[[TTO0050]] Ehitusõigus\\
-	[[EPJ0030]] Ehitusplatsi korraldus - projekt\\
-	[[EPT3361]] Ehituspraktika I\\
-	[[EPT3362]] Ehituspraktika II\\
-	[[EET0040]] Ehitusprojekteerimise arvmeetodid\\
-	[[EPT0011]] Ehitustehnoloogia I\\
-	[[EPT0012]] Ehitustehnoloogia II\\
-	[[EPT0013]] Ehitustehnoloogia - projekt\\
-	[[EMD0020]] Elastsusõpetus\\
-	[[AME3130]] Elektrotehnika\\
-	[[EET0030]] Erikonstruktsioonid\\
-	[[HHF3070]] Filosoofia\\
-	[[YFR0011]] Füüsika I\\
-	[[YFR0012]] Füüsika II\\
-	[[ETG0011]] Geodeesia I\\
-	[[ETG0012]] Geodeesia II\\
-	[[ETG0013]] Geodeesia õppepraktika\\
-	[[EEA0010]] Hoonete konstruktsioonid\\
-	[[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\
-	[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt\\
-	[[EMH0010]] Hüdraulika alused\\
-	[[EMH0032]] Hüdraulika II\\
-	[[EMH0140]] Hüdrodünaamika erikursus\\
-	[[EXX0021]] Hüdrotehnilised ehitised sadamates\\
-	[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt\\
-	[[IDK0011]] Informaatika I\\
-	[[IDK0012]] Informaatika II\\
-	[[EPJ0050]] Infotehnoloogia ehituses\\
-	[[HHF3300]] Insenerieetika\\
-	[[HHP3540]] Juhtimispsühholoogia\\
-	[[YKI3030]] Keemia ja materjaliõpetus\\
-	[[EKE3710]] Keskkonnakaitse\\
-	[[EPJ3810]] Kinnisvara haldamine\\
-	[[EPJ3770]] Kinnisvaraökonoomika\\
-	[[EER0021]] Kivikonstruktsioonid\\
-	[[EER0022]] Kivikonstruktsioonid - projekt\\
-	[[EPM3850]] Korrosioonikaitse ehituses\\
-	[[YGK0010]] Kujutav geomeetria\\
-	[[EMH0110]] Lainetuse dünaamika\\
-	[[TTO3280]] Lepinguõigus\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[EPJ3780]] Linnamajanduse korraldus\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM0012]] Matemaatiline analüüs II\\
-	[[AKG0200]] Mere geotehnika\\
-	[[EET0011]] Metallkonstruktsioonid I\\
-	[[EET0013]] Metallkonstruktsioonid II\\
-	[[EET0014]] Metallkonstruktsioonid II - projekt\\
-	[[EET0012]] Metallkonstruktsioonid I - projekt\\
-	[[EPJ0010]] Mikro- ja makroökonoomika\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia\\
-	[[EEA3640]] Plaanimine ja teed\\
-	[[EPJ3790]] Plaanimine ja turg\\
-	[[EEA3430]] Projekteerimispraktika\\
-	[[EPJ0040]] Projektijuhtimine ehituses\\
-	[[EEP0011]] Puitkonstruktsioonid\\
-	[[EEP0020]] Puitkonstruktsioonide erikursus\\
-	[[EEP0013]] Puitkonstruktsioonid - praktikum\\
-	[[EEP0012]] Puitkonstruktsioonid - projekt\\
-	[[EET0050]] Raalprojekteerimine\\
-	[[EMH0090]] Rannikuprotsessid\\
-	[[EER0011]] Raudbetoonkonstruktsioonid I\\
-	[[EER0013]] Raudbetoonkonstruktsioonid II\\
-	[[EER0014]] Raudbetoonkonstruktsioonid II - projekt\\
-	[[EER0012]] Raudbetoonkonstruktsioonid I - projekt\\
-	[[EER0015]] Raudbetoonkonstruktsioonid - praktikum\\
-	[[TMT3830]] Riski- ja ohutusõpetus\\
-	[[EMH0121]] Sadamate planeerimine\\
-	[[EMH0122]] Sadamate planeerimine - projekt\\
-	[[EMH0151]] Sadamate tehnovõrgud ja -seadmed\\
-	[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt\\
-	[[EET0021]] Sillakonstruktsioonid\\
-	[[EET0022]] Sillakonstruktsioonid - projekt\\
-	[[HLX8040]] Teadusvõõrkeel\\
-	[[EMD0011]] Tehniline mehaanika I\\
-	[[EMD0012]] Tehniline mehaanika II\\
-	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[HHR0060]] Väljendus- ja vaidlusõpetus\\
-	[[EEG3450]] Vesiehitiste projekteerimine\\
-	[[YGD0031]] Visuaalne kommunikatsioon I\\
-	[[YGD0032]] Visuaalne kommunikatsioon II\\
-	[[EEG3441]] Vundamendid\\
-	[[EEG3442]] Vundamendid - projekt\\
+text: <include "EAEI02-12Tartu">
+	
+	<include "EAEI02-09Tartu">
+	
+	<include "EAEI02-09">
+	
+	<include "EAEI02-06">
+	
+	<include "EAEI02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408891320

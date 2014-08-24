@@ -1,3 +1,5 @@
+flags: 010
+blocks: <p>На первой неделе проходит регистрация на предмет и тест для тех, кто не сдавал гос. экзамен в школе.</p><p>Те, кто не сдал гос. экзамен хотя бы на 60 баллов, или же не написал достаточно хорошо тест, сначала идут на [[HLI0010]].<br />Для сдавших гос хотя бы на 90 баллов существует возможность прийти сразу на экзамен.</p><p>Посещение проверяется, нужно отходить хотя бы 80% занятий.</p><p>Во время семестра придется сделать небольшую презентацию(больше похоже на короткое выступление), ответить незнакомые слова, &#x2026; .</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">==</strong>Akadeemiline inglise keel <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>34840<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Akadeemiline inglise keel<br />&gt; <strong class="changes">#SUBURL: Course:</strong>34840</p></div>

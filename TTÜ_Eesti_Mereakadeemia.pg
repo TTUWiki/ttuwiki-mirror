@@ -1,0 +1,25 @@
+flags: 010101010101010
+blocks: <p>[[VAEM14]] Merendus</p><p>[[VDFR14]]<br />[[VDKR14]] Külmutusseadmed<br />[[VDMR14]] Laeva jõuseadmed<br />[[VDSR14]] Sadamamajandamine ja meretranspordi juhtimine<br />[[VDLR14]] Tüürimees<br />[[VDVR14]] Veeteede ohutuse korraldamine ja haldamine</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VDFR14]] <strong class="changes">- Kalapüügi ja -käitlemise tehnoloogia</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VDFR14]] </p></div>
+ts: 1408891646
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: [[VAEM14]] Merendus
+	
+	[[VDFR14]] 
+	[[VDKR14]] Külmutusseadmed
+	[[VDMR14]] Laeva jõuseadmed
+	[[VDSR14]] Sadamamajandamine ja meretranspordi juhtimine
+	[[VDLR14]] Tüürimees
+	[[VDVR14]] Veeteede ohutuse korraldamine ja haldamine
+	
+	
+	
+keep-ts: 1408891646

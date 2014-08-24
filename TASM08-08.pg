@@ -1,0 +1,44 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50122&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis<br />[[HOL7006]] Euroopa Liidu konstitutsioon<br />[[TSE1020]] Euroopa majanduslik integratsioon<br />[[TSE1010]] Euroopa poliitiline integratsioon<br />[[TSK1010]] Inglise keel V<br />[[TSK1011]] Inglise keel VI<br />[[TSP1090]] Julgeoleku teooriad<br />[[TSP1013]] Poliitikateaduse üldkursus<br />[[TSK1020]] Prantsuse keel V<br />[[TSK1021]] Prantsuse keel VI<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[TSP1012]] Rahvusvaheline majandus<br />[[TSP1021]] Rahvusvahelised läbirääkimised<br />[[TSP1015]] Rahvusvahelised suhted II<br />[[TSP1019]] Rahvusvaheliste konfliktide reguleerimine<br />[[TSP1080]] Rahvusvaheliste organisatsioonide analüüs<br />[[TSP1014]] Rahvusvaheliste suhete teooriad<br />[[TSP1016]] Rahvusvaheliste suhete uurimismeetodid<br />[[TSP1070]] Rahvusvaheliste süsteemide võrdlev analüüs<br />[[TSK1060]] Saksa keel V<br />[[TSK1061]] Saksa keel VI<br />[[TSE1030]] Sotsiaalpoliitika Euroopa Liidus<br />[[TSK1030]] Teadusliku uurimistöö metodoloogia<br />[[TSP1140]] Transatlantiline koostöö<br />[[TSP1120]] USA välis- ja julgeolekupoliitika<br />[[TSP1017]] Uurimisseminar I<br />[[TSP1018]] Uurimisseminar II<br />[[TSP1130]] Venemaa välis- ja julgeolekupoliitika<br />[[TSP1040]] Võrdlev poliitikateadus</p>
+diff-minor: 
+ts: 1408891636
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50122&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis
+	[[HOL7006]] Euroopa Liidu konstitutsioon
+	[[TSE1020]] Euroopa majanduslik integratsioon
+	[[TSE1010]] Euroopa poliitiline integratsioon
+	[[TSK1010]] Inglise keel V
+	[[TSK1011]] Inglise keel VI
+	[[TSP1090]] Julgeoleku teooriad
+	[[TSP1013]] Poliitikateaduse üldkursus
+	[[TSK1020]] Prantsuse keel V
+	[[TSK1021]] Prantsuse keel VI
+	[[HOR6017]] Rahvusvaheline avalik õigus
+	[[TSP1012]] Rahvusvaheline majandus
+	[[TSP1021]] Rahvusvahelised läbirääkimised
+	[[TSP1015]] Rahvusvahelised suhted II
+	[[TSP1019]] Rahvusvaheliste konfliktide reguleerimine
+	[[TSP1080]] Rahvusvaheliste organisatsioonide analüüs
+	[[TSP1014]] Rahvusvaheliste suhete teooriad
+	[[TSP1016]] Rahvusvaheliste suhete uurimismeetodid
+	[[TSP1070]] Rahvusvaheliste süsteemide võrdlev analüüs
+	[[TSK1060]] Saksa keel V
+	[[TSK1061]] Saksa keel VI
+	[[TSE1030]] Sotsiaalpoliitika Euroopa Liidus
+	[[TSK1030]] Teadusliku uurimistöö metodoloogia
+	[[TSP1140]] Transatlantiline koostöö
+	[[TSP1120]] USA välis- ja julgeolekupoliitika
+	[[TSP1017]] Uurimisseminar I
+	[[TSP1018]] Uurimisseminar II
+	[[TSP1130]] Venemaa välis- ja julgeolekupoliitika
+	[[TSP1040]] Võrdlev poliitikateadus
+	
+	
+keep-ts: 1408891636

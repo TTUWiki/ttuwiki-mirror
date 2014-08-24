@@ -1,0 +1,57 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TARM02/11 - Ärirahandus ja majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50171&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMO1091]] Äriühingute valitsemine<br />[[TAF1060]] Arvestuse infosüsteemid<br />[[TAF1140]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes<br />[[TAK1120]] Audiitorkontroll<br />[[TAK1140]] Audiitortegevuse alused<br />[[TAK1160]] Avaliku sektori auditeerimine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HOL7010]] EL siseturuõigus<br />[[TER100P]] Erialapraktika<br />[[TER1420]] Ettevõtte rahandus<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TAK1150]] Finantsaruannete audit<br />[[TAF1110]] Finantsarvestuse süvakursus<br />[[TER1464]] Finants- ja väärtpaberianalüüs<br />[[TER1414]] Finantsjuhtimine-kaasusanalüüs<br />[[TER1220]] Finantsturud ja -institutsioonid<br />[[TMJ1050]] Juhtimismäng<br />[[TMJ1070]] Kinnisvara hindamine<br />[[TAF1120]] Kontserniarvestus<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TAF1170]] Majandusarvestuse teooria<br />[[TES1040]] Ökonomeetria<br />[[TMK1150]] Operatsioonijuhtimine<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TAF1100]] Raamatupidaja ja audiitori kutse-eetika<br />[[TAF1190]] Raamatupidamispettused ja kohtulik raamatupidamisekspertiis<br />[[TER8111]] Raha ja pangandus<br />[[TXX1050]] Rahanduse ja majandusarvestuse alane kommunikatsioon<br />[[TER1320]] Rahvusvaheline ärirahandus<br />[[TAF1130]] Rahvusvaheline arvestus<br />[[TAF1150]] Rahvusvaheline maksundus<br />[[TER1415]] Riski juhtimine<br />[[TER1470]] Risk ja optsioonid<br />[[TAK1130]] Siseaudit<br />[[TAK1040]] Sotsiaal- ja keskkonnaarvestus<br />[[TMO1041]] Strateegiline juhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[TER1450]] Väärtpaberid ja portfelliteooria<br />[[TER1498]] Võlakirjad ja turud</p>
+diff-minor: 
+ts: 1408891627
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TARM02/11 - Ärirahandus ja majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50171&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK1160]] Analüüsimeetodid äriuuringutes
+	[[TMO1091]] Äriühingute valitsemine
+	[[TAF1060]] Arvestuse infosüsteemid
+	[[TAF1140]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes
+	[[TAK1120]] Audiitorkontroll
+	[[TAK1140]] Audiitortegevuse alused
+	[[TAK1160]] Avaliku sektori auditeerimine
+	[[TTR1030]] Avaliku sektori ökonoomika
+	[[HOL7010]] EL siseturuõigus
+	[[TER100P]] Erialapraktika
+	[[TER1420]] Ettevõtte rahandus
+	[[TER1499]] Ettevõtte väärtuse hindamine
+	[[TAF1010]] Finantsaruandlus ja -analüüs
+	[[TAK1150]] Finantsaruannete audit
+	[[TAF1110]] Finantsarvestuse süvakursus
+	[[TER1464]] Finants- ja väärtpaberianalüüs
+	[[TER1414]] Finantsjuhtimine-kaasusanalüüs
+	[[TER1220]] Finantsturud ja -institutsioonid
+	[[TMJ1050]] Juhtimismäng
+	[[TMJ1070]] Kinnisvara hindamine
+	[[TAF1120]] Kontserniarvestus
+	[[TER1520]] Magistriseminar (ärirahandus)
+	[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)
+	[[TAF1170]] Majandusarvestuse teooria
+	[[TES1040]] Ökonomeetria
+	[[TMK1150]] Operatsioonijuhtimine
+	[[TMO1061]] Organisatsiooni ja juhtimise teooriad
+	[[TAF1100]] Raamatupidaja ja audiitori kutse-eetika
+	[[TAF1190]] Raamatupidamispettused ja kohtulik raamatupidamisekspertiis
+	[[TER8111]] Raha ja pangandus
+	[[TXX1050]] Rahanduse ja majandusarvestuse alane kommunikatsioon
+	[[TER1320]] Rahvusvaheline ärirahandus
+	[[TAF1130]] Rahvusvaheline arvestus
+	[[TAF1150]] Rahvusvaheline maksundus
+	[[TER1415]] Riski juhtimine
+	[[TER1470]] Risk ja optsioonid
+	[[TAK1130]] Siseaudit
+	[[TAK1040]] Sotsiaal- ja keskkonnaarvestus
+	[[TMO1041]] Strateegiline juhtimine
+	[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine
+	[[TER1450]] Väärtpaberid ja portfelliteooria
+	[[TER1498]] Võlakirjad ja turud
+	
+	
+keep-ts: 1408891627

@@ -1,0 +1,40 @@
+flags: 01010101010101010101010101010101010101010101010101010
+blocks: <h2>YAFM02/14 - Tehniline füüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50248&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YMR8021]] Arvutusmeetodid II<br />[[EMR0180]] Elastsusteooria seminar<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[YMM0041]] Funktsionaalanalüüsi elemendid<br />[[YFR0310]] Füüsikaliste protsesside modelleerimine<br />[[EMH0180]] Hüdrodünaamika seminar<br />[[YFT0080]] Kvantmehaanika<br />[[YMA0071]] Lineaaralgebra rakendusmeetodid<br />[[YMF0020]] Matemaatilise füüsika võrrandid<br />[[EMD5010]] Mehaanilised võnkumised<br />[[EMR0060]] Mittelineaarne dünaamika<br />[[EMR0050]] Modelleerimise alused<br />[[YMR0050]] Operatsioonianalüüs<br />[[YFX0020]] Praktika<br />[[YFR8010]] Praktiline spektroskoopia<br />[[YMR8160]] Stohhastiline modelleerimine<br />[[YFX8020]] Tahke keha ja pooljuhtide füüsika<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMA5200]] Üldalgebra alused<br />[[YMX8120]] Uurimistöö I<br />[[EMX0080]] Uurimistöö II<br />[[YFX8010]] Uurimistöö III</p>
+diff-minor: 
+ts: 1408891695
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YAFM02/14 - Tehniline füüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50248&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YMR8021]] Arvutusmeetodid II
+	[[EMR0180]] Elastsusteooria seminar
+	[[TMJ0110]] Ettevõtluse alused
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[HHF3080]] Filosoofia
+	[[YMM0041]] Funktsionaalanalüüsi elemendid
+	[[YFR0310]] Füüsikaliste protsesside modelleerimine
+	[[EMH0180]] Hüdrodünaamika seminar
+	[[YFT0080]] Kvantmehaanika
+	[[YMA0071]] Lineaaralgebra rakendusmeetodid
+	[[YMF0020]] Matemaatilise füüsika võrrandid
+	[[EMD5010]] Mehaanilised võnkumised
+	[[EMR0060]] Mittelineaarne dünaamika
+	[[EMR0050]] Modelleerimise alused
+	[[YMR0050]] Operatsioonianalüüs
+	[[YFX0020]] Praktika
+	[[YFR8010]] Praktiline spektroskoopia
+	[[YMR8160]] Stohhastiline modelleerimine
+	[[YFX8020]] Tahke keha ja pooljuhtide füüsika
+	[[HLX8040]] Teadusvõõrkeel
+	[[EMD0012]] Tehniline mehaanika II
+	[[YMA5200]] Üldalgebra alused
+	[[YMX8120]] Uurimistöö I
+	[[EMX0080]] Uurimistöö II
+	[[YFX8010]] Uurimistöö III
+	
+	
+keep-ts: 1408891695

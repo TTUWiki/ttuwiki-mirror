@@ -1,53 +1,23 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>HAAD06/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50033&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HHI9020]] Avalik haldus ja innovatsioon<br />[[HHM9020]] Avaliku halduse erikursus<br />[[HHX9070]] Doktoriseminar<br />[[HHM9030]] Halduspoliitika erikursus<br />[[HHI9010]] Innovatsioon<br />[[HHI9030]] Innovatsioonisüsteemid<br />[[HHX9080]] Juhendamispraktika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHX9090]] Õpetamispraktika<br />[[HHA9900]] Praktika<br />[[HHL9100]] Sotsiaalteaduste meetodid<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br /></p><h3>HAAD06/06 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=4059&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HHX9040]] Ametipraktika<br />[[HHX9011]] Doktoriseminar I<br />[[HHX9012]] Doktoriseminar II<br />[[HHL9070]] Euroopa Liit ja innovatsioon<br />[[HHL9050]] Europaniseerumine<br />[[HHL9060]] E-valitsemine<br />[[HHA9110]] Haldusjuhtimine ja innovatsioon<br />[[HHA9010]] Haldusjuhtimise ajalugu ja teooria<br />[[HHX9030]] Halduspoliitikate võrdlev analüüs<br />[[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHR9050]] Keskkonnakorralduse eriseminar<br />[[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine<br />[[HHP9050]] Majanduspsühholoogia<br />[[HHL9030]] Riigi ja õiguse teooria<br />[[HHL9010]] Riigiteooriate eriseminar<br />[[HHL9090]] Sotsiaalteaduste meetodid<br />[[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[HHA9090]] Tehnoloogia arengu finantseerimine<br />[[HHP9060]] Tehnoloogia juhtimine ja psühholoogia<br />[[HHA9160]] Väikeriigid ja valitsemine<br /></p>
+flags: 01010
+blocks: &lt;include "HAAD06-09"&gt;
+	&lt;include "HAAD06-06"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== HAAD06/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50033&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HHI9020]] Avalik haldus ja innovatsioon\\<br />&lt; [[HHM9020]] Avaliku halduse erikursus\\<br />&lt; [[HHX9070]] Doktoriseminar\\<br />&lt; [[HHM9030]] Halduspoliitika erikursus\\<br />&lt; [[HHI9010]] Innovatsioon\\<br />&lt; [[HHI9030]] Innovatsioonisüsteemid\\<br />&lt; [[HHX9080]] Juhendamispraktika\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[HHP9030]] Kõrgkoolididaktika\\<br />&lt; [[HHX9090]] Õpetamispraktika\\<br />&lt; [[HHA9900]] Praktika\\<br />&lt; [[HHL9100]] Sotsiaalteaduste meetodid\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus- ja hariduskorraldus\\<br />&lt; ===</strong> HAAD06<strong class="changes">/06</strong> - <strong class="changes">Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=4059&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HHX9040]] Ametipraktika\\<br />&lt; [[HHX9011]] Doktoriseminar I\\<br />&lt; [[HHX9012]] Doktoriseminar II\\<br />&lt; [[HHL9070]] Euroopa Liit ja innovatsioon\\<br />&lt; [[HHL9050]] Europaniseerumine\\<br />&lt; [[HHL9060]] E-valitsemine\\<br />&lt; [[HHA9110]] Haldusjuhtimine ja innovatsioon\\<br />&lt; [[HHA9010]] Haldusjuhtimise ajalugu ja teooria\\<br />&lt; [[HHX9030]] Halduspoliitikate võrdlev analüüs\\<br />&lt; [[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[HHR9050]] Keskkonnakorralduse eriseminar\\<br />&lt; [[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar\\<br />&lt; [[HHP9030]] Kõrgkoolididaktika\\<br />&lt; [[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine\\<br />&lt; [[HHP9050]] Majanduspsühholoogia\\<br />&lt; [[HHL9030]] Riigi ja õiguse teooria\\<br />&lt; [[HHL9010]] Riigiteooriate eriseminar\\<br />&lt; [[HHL9090]] Sotsiaalteaduste meetodid\\<br />&lt; [[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus</strong>- <strong class="changes">ja hariduskorraldus\\<br />&lt; [[HHA9090]] Tehnoloogia arengu finantseerimine\\<br />&lt; [[HHP9060]] Tehnoloogia juhtimine ja psühholoogia\\<br />&lt; [[HHA9160]] Väikeriigid ja valitsemine\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAAD06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HAAD06</strong>-<strong class="changes">06"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203761
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885636
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === HAAD06/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50033&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HHI9020]] Avalik haldus ja innovatsioon\\
-	[[HHM9020]] Avaliku halduse erikursus\\
-	[[HHX9070]] Doktoriseminar\\
-	[[HHM9030]] Halduspoliitika erikursus\\
-	[[HHI9010]] Innovatsioon\\
-	[[HHI9030]] Innovatsioonisüsteemid\\
-	[[HHX9080]] Juhendamispraktika\\
-	[[HHP9010]] Juhtimispsühholoogia\\
-	[[HHP9030]] Kõrgkoolididaktika\\
-	[[HHX9090]] Õpetamispraktika\\
-	[[HHA9900]] Praktika\\
-	[[HHL9100]] Sotsiaalteaduste meetodid\\
-	[[HHF9030]] Teadusfilosoofia\\
-	[[HUP9010]] Teadus- ja hariduskorraldus\\
-	=== HAAD06/06 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=4059&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HHX9040]] Ametipraktika\\
-	[[HHX9011]] Doktoriseminar I\\
-	[[HHX9012]] Doktoriseminar II\\
-	[[HHL9070]] Euroopa Liit ja innovatsioon\\
-	[[HHL9050]] Europaniseerumine\\
-	[[HHL9060]] E-valitsemine\\
-	[[HHA9110]] Haldusjuhtimine ja innovatsioon\\
-	[[HHA9010]] Haldusjuhtimise ajalugu ja teooria\\
-	[[HHX9030]] Halduspoliitikate võrdlev analüüs\\
-	[[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes\\
-	[[HHP9010]] Juhtimispsühholoogia\\
-	[[HHR9050]] Keskkonnakorralduse eriseminar\\
-	[[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar\\
-	[[HHP9030]] Kõrgkoolididaktika\\
-	[[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine\\
-	[[HHP9050]] Majanduspsühholoogia\\
-	[[HHL9030]] Riigi ja õiguse teooria\\
-	[[HHL9010]] Riigiteooriate eriseminar\\
-	[[HHL9090]] Sotsiaalteaduste meetodid\\
-	[[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine\\
-	[[HHF9030]] Teadusfilosoofia\\
-	[[HUP9010]] Teadus- ja hariduskorraldus\\
-	[[HHA9090]] Tehnoloogia arengu finantseerimine\\
-	[[HHP9060]] Tehnoloogia juhtimine ja psühholoogia\\
-	[[HHA9160]] Väikeriigid ja valitsemine\\
+text: <include "HAAD06-09">
+	
+	<include "HAAD06-06">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885636

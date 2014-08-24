@@ -1,0 +1,51 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>HAJM08/08e - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50130&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HOA7005]] Avaliku õiguse eriseminar<br />[[HOL7007]] EL institutsionaalne õigus edasijõudnutele<br />[[HOL6018]] EL tarbijakaitseõigus<br />[[HOE7001]] Eraõiguse eriseminar<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HOE6027]] Finantsõigus<br />[[HOA7013]] Halduskohtumenetlus<br />[[HOE7002]] Intellektuaalse omandi eriseminar<br />[[HOA6012]] Keskkonnaõigus<br />[[HOA7009]] Kriminaal- ja karistuspoliitika probleemid ja arengud<br />[[HOA7014]] Kriminaalkohtumenetlus<br />[[HOA7006]] Kriminaalõiguse eriseminar<br />[[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis<br />[[HOE6028]] Maksuõigus<br />[[HOR6026]] Meedia ja õigus<br />[[HOR6028]] Mereõigus<br />[[HOX7010]] Õigusalane uurimustöö<br />[[HOR6027]] Õiguse eetika<br />[[HOX7012]] Õigusfilosoofia<br />[[HOA7012]] Õiguskorra sotsioloogia<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6030]] Perekonna- ja pärimisõigus<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOA7015]] Psühholoogia õigusmenetluses<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus<br />[[HOR7007]] Rahvusvaheline kaubandusvaidluste menetlemine<br />[[HOR6015]] Rahvusvaheline lepinguõigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid<br />[[HOR7009]] Soome õigussüsteem<br />[[HOA7010]] Sotsiaal- ja kriminaalpreventsioon<br />[[HOA7011]] Teoreetiline ja rakenduskriminoloogia<br />[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika<br />[[HOE6029]] Tsiviilkohtumenetlus<br />[[HOA7016]] Väärteomenetlus</p>
+diff-minor: 
+ts: 1408891389
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAJM08/08e - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50130&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HOA7005]] Avaliku õiguse eriseminar
+	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
+	[[HOL6018]] EL tarbijakaitseõigus
+	[[HOE7001]] Eraõiguse eriseminar
+	[[HOL6015]] Euroopa spordiõigus ja -poliitika
+	[[HOE6027]] Finantsõigus
+	[[HOA7013]] Halduskohtumenetlus
+	[[HOE7002]] Intellektuaalse omandi eriseminar
+	[[HOA6012]] Keskkonnaõigus
+	[[HOA7009]] Kriminaal- ja karistuspoliitika probleemid ja arengud
+	[[HOA7014]] Kriminaalkohtumenetlus
+	[[HOA7006]] Kriminaalõiguse eriseminar
+	[[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis
+	[[HOE6028]] Maksuõigus
+	[[HOR6026]] Meedia ja õigus
+	[[HOR6028]] Mereõigus
+	[[HOX7010]] Õigusalane uurimustöö
+	[[HOR6027]] Õiguse eetika
+	[[HOX7012]] Õigusfilosoofia
+	[[HOA7012]] Õiguskorra sotsioloogia
+	[[HOE6018]] Pankrotiõigus
+	[[HOE6030]] Perekonna- ja pärimisõigus
+	[[HOX6070]] Privaatsus- ja andmekaitseõigus
+	[[HOA7015]] Psühholoogia õigusmenetluses
+	[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus
+	[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus
+	[[HOR7007]] Rahvusvaheline kaubandusvaidluste menetlemine
+	[[HOR6015]] Rahvusvaheline lepinguõigus
+	[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused
+	[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid
+	[[HOR7009]] Soome õigussüsteem
+	[[HOA7010]] Sotsiaal- ja kriminaalpreventsioon
+	[[HOA7011]] Teoreetiline ja rakenduskriminoloogia
+	[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika
+	[[HOE6029]] Tsiviilkohtumenetlus
+	[[HOA7016]] Väärteomenetlus
+	
+	
+keep-ts: 1408891389

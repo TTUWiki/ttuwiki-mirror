@@ -1,35 +1,20 @@
-flags: 01010101010101010101010101010101010101010101010
-blocks: <h3>NAIM14/14 - Ruumiline planeerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50214&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[NTM1150]] Avalik esinemine<br />[[NTM1440]] Detailplaneeringu koostamine<br />[[NTM1690]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[NTM0311]] Geoinformaatika<br />[[NTS0100]] Insenerieetika<br />[[NTK0680]] Juhtimine<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTM1630]] Kogukondlik ja majandusareng ning omavalitsuse toimimine<br />[[NTM0320]] Kultuurmaastikud<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTM1640]] Nüüdisaegne planeerimine ja jätkusuutlikkus<br />[[NTM0340]] Õigusõpetus<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM1680]] Planeerimise stuudio<br />[[NTM0810]] Projekteerimine ja maastikuehitus<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTM1110]] Üldplaneeringu koostamine<br />[[NTM1610]] Üleilmsed suundumused ja sotsiaalpoliitika<br /></p>
+flags: 010
+blocks: &lt;include "NAIM14-14"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== NAIM14/14 - Ruumiline planeerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50214&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[NTM1150]] Avalik esinemine\\<br />&lt; [[NTM1440]] Detailplaneeringu koostamine\\<br />&lt; [[NTM1690]] Erialapraktika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[NTM0311]] Geoinformaatika\\<br />&lt; [[NTS0100]] Insenerieetika\\<br />&lt; [[NTK0680]] Juhtimine\\<br />&lt; [[NTM0620]] Keskkonnamõju hindamine\\<br />&lt; [[NTM1630]] Kogukondlik ja majandusareng ning omavalitsuse toimimine\\<br />&lt; [[NTM0320]] Kultuurmaastikud\\<br />&lt; [[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\<br />&lt; [[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika\\<br />&lt; [[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\<br />&lt; [[NTM1640]] Nüüdisaegne planeerimine ja jätkusuutlikkus\\<br />&lt; [[NTM0340]] Õigusõpetus\\<br />&lt; [[NTM0350]] Plaanimine ja teed\\<br />&lt; [[NTM1680]] Planeerimise stuudio\\<br />&lt; [[NTM0810]] Projekteerimine ja maastikuehitus\\<br />&lt; [[NTK0690]] Teadustöö metodoloogia\\<br />&lt; [[NTX0020]] Teadusvõõrkeel\\<br />&lt; [[NTM1110]] Üldplaneeringu koostamine\\<br />&lt; [[NTM1610]] Üleilmsed suundumused ja sotsiaalpoliitika\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "NAIM14-14"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203836
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885803
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === NAIM14/14 - Ruumiline planeerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50214&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[NTM1150]] Avalik esinemine\\
-	[[NTM1440]] Detailplaneeringu koostamine\\
-	[[NTM1690]] Erialapraktika\\
-	[[TMJ0110]] Ettevõtluse alused\\
-	[[NTM0311]] Geoinformaatika\\
-	[[NTS0100]] Insenerieetika\\
-	[[NTK0680]] Juhtimine\\
-	[[NTM0620]] Keskkonnamõju hindamine\\
-	[[NTM1630]] Kogukondlik ja majandusareng ning omavalitsuse toimimine\\
-	[[NTM0320]] Kultuurmaastikud\\
-	[[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\
-	[[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika\\
-	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\
-	[[NTM1640]] Nüüdisaegne planeerimine ja jätkusuutlikkus\\
-	[[NTM0340]] Õigusõpetus\\
-	[[NTM0350]] Plaanimine ja teed\\
-	[[NTM1680]] Planeerimise stuudio\\
-	[[NTM0810]] Projekteerimine ja maastikuehitus\\
-	[[NTK0690]] Teadustöö metodoloogia\\
-	[[NTX0020]] Teadusvõõrkeel\\
-	[[NTM1110]] Üldplaneeringu koostamine\\
-	[[NTM1610]] Üleilmsed suundumused ja sotsiaalpoliitika\\
+text: <include "NAIM14-14">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885803

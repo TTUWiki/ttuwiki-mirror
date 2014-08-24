@@ -1,0 +1,35 @@
+flags: 0101010101010101010101010101010101010101010
+blocks: <h2>TVTM03/03 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=1289&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TAF2030]] Arvestus<br />[[TTP2010]] Balti majandus<br />[[HLI2210]] Eesti keel ja kultuur<br />[[IDY8105]] E-kaubanduse arendused<br />[[TER2410]] Ettevõtte rahandus<br />[[TET2200]] Euroopa Liidu majandus<br />[[TTO2010]] Euroopa Liidu õigus<br />[[IDK2080]] Infotehnoloogia<br />[[TAF2020]] Maksundus<br />[[TTR2100]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[TET2300]] Rahvusvaheline majandus<br />[[TMT2060]] Riskide ja ohutuse haldamise ökonoomika<br />[[TES8140]] Statistiline analüüs<br />[[TMO2100]] Strateegiline juhtimine<br />[[TMM8790]] Tööstuslik turundus<br />[[TMV8250]] Väike- ja keskmise ettevõtluse organiseerimine<br />[[TTP2020]] Venemaa majandus</p>
+diff-minor: 
+ts: 1408891660
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TVTM03/03 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=1289&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK8300]] Ärieetika
+	[[IDY0275]] Äriinfosüsteemid
+	[[TAF2030]] Arvestus
+	[[TTP2010]] Balti majandus
+	[[HLI2210]] Eesti keel ja kultuur
+	[[IDY8105]] E-kaubanduse arendused
+	[[TER2410]] Ettevõtte rahandus
+	[[TET2200]] Euroopa Liidu majandus
+	[[TTO2010]] Euroopa Liidu õigus
+	[[IDK2080]] Infotehnoloogia
+	[[TAF2020]] Maksundus
+	[[TTR2100]] Projekti juhtimine ja tulude-kulude analüüs
+	[[TMK8280]] Rahvusvaheline ettevõtlus
+	[[TET2300]] Rahvusvaheline majandus
+	[[TMT2060]] Riskide ja ohutuse haldamise ökonoomika
+	[[TES8140]] Statistiline analüüs
+	[[TMO2100]] Strateegiline juhtimine
+	[[TMM8790]] Tööstuslik turundus
+	[[TMV8250]] Väike- ja keskmise ettevõtluse organiseerimine
+	[[TTP2020]] Venemaa majandus
+	
+	
+keep-ts: 1408891660

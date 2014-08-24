@@ -1,32 +1,34 @@
 flags: 01010101010101010
-blocks: <p>[[MASB02]] Soojusenergeetika<br /><br />[[RAKM11]] Kütuste keemia ja tehnoloogia<br /><br />[[RDPR06]] Energiatehnika<br />[[RDBR06]] Hoonete ehitus<br />[[RDKR05]] Kütuste tehnoloogia<br />[[RDER02]] Masinaehitustehnoloogia<br />[[RDIR02]] Rakendusinfotehnoloogia<br />[[RDDR08]] Tootmise automatiseerimine<br /><br /></p>
+blocks: <p>[[MASB02]] Soojusenergeetika</p><p>[[RAKM11]] Kütuste keemia ja tehnoloogia</p><p>[[RDPR06]] Energiatehnika<br />[[RDBR06]] Hoonete ehitus<br />[[RDKR05]] Kütuste tehnoloogia<br />[[RDER02]] Masinaehitustehnoloogia<br />[[RDIR02]] Rakendusinfotehnoloogia<br />[[RDDR08]] Tootmise automatiseerimine</p>
 diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[MASB02]] Soojusenergeetika</p></div>
+ip: 89.235.235.166
+ts: 1408892850
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[RDPR06]] Energiatehnika\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\<br />&lt; <strong class="changes">[[RDPR06]] Energiatehnika</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\<br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265098
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[MASB02]] Soojusenergeetika\\
-	\\
-	[[RAKM11]] Kütuste keemia ja tehnoloogia\\
-	\\
-	[[RDPR06]] Energiatehnika\\
-	[[RDBR06]] Hoonete ehitus\\
-	[[RDKR05]] Kütuste tehnoloogia\\
-	[[RDER02]] Masinaehitustehnoloogia\\
-	[[RDIR02]] Rakendusinfotehnoloogia\\
-	[[RDDR08]] Tootmise automatiseerimine\\
-	\\
+text: [[MASB02]] Soojusenergeetika
+	
+	[[RAKM11]] Kütuste keemia ja tehnoloogia
+	
+	[[RDPR06]] Energiatehnika
+	[[RDBR06]] Hoonete ehitus
+	[[RDKR05]] Kütuste tehnoloogia
+	[[RDER02]] Masinaehitustehnoloogia
+	[[RDIR02]] Rakendusinfotehnoloogia
+	[[RDDR08]] Tootmise automatiseerimine
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265098
+keep-ts: 1408892850

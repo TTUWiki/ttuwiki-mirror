@@ -1,0 +1,32 @@
+flags: 0101010101010101010101010101010101010
+blocks: <h2>EABM03/05 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=4146&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[EKE8200]] Elutsükli analüüs<br />[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs<br />[[EKE8260]] Keskkonnajuhtimissüsteemid<br />[[KAK0050]] Keskkonnakeemia<br />[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EKE8250]] Keskkonnapoliitika<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed<br />[[EKK0170]] Õhusaaste vältimine ja juhtimine<br />[[EKE8230]] Ökodisain<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[EKV8360]] Säästlik veemajandus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus</p>
+diff-minor: 
+ts: 1408891314
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EABM03/05 - Keskkonnakorraldus ja puhtam tootmine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=4146&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TMK8300]] Ärieetika
+	[[TMK8290]] Äritegevuse alused
+	[[EKE8200]] Elutsükli analüüs
+	[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs
+	[[EKE8260]] Keskkonnajuhtimissüsteemid
+	[[KAK0050]] Keskkonnakeemia
+	[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit
+	[[EKE8250]] Keskkonnapoliitika
+	[[KAK8210]] Keskkonnatehnoloogia
+	[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed
+	[[EKK0170]] Õhusaaste vältimine ja juhtimine
+	[[EKE8230]] Ökodisain
+	[[TMK8280]] Rahvusvaheline ettevõtlus
+	[[KAK8220]] Säästlik/puhtam tootmine
+	[[EKV8360]] Säästlik veemajandus
+	[[TES8140]] Statistiline analüüs
+	[[TMM8790]] Tööstuslik turundus
+	
+	
+keep-ts: 1408891314

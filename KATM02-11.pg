@@ -1,0 +1,38 @@
+flags: 0101010101010101010101010101010101010101010101010
+blocks: <h2>KATM02/11 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50154&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KTT0220]] Bioloogilised meetodid toidu analüüsil<br />[[KTO0270]] Dietoloogia<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[KTO312P]] Erialapraktika<br />[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[KTT0150]] Fermentatsiooniprotsessid toidu töötlemisel<br />[[KYF0070]] Funktsionaalsed materjalid<br />[[KTT0140]] Loomse toorme töötlemine<br />[[TTO3160]] Õigusõpetus<br />[[KTT0130]] Taimse toorme töötlemine<br />[[HLX8040]] Teadusvõõrkeel<br />[[KTO3110]] Teenindusettevõtte ökonoomika<br />[[KTO0190]] Tehnoloogiaseadmed<br />[[KTO0220]] Toidu funktsionaalsed komponendid<br />[[KTO0180]] Toidufüüsika<br />[[KTT0190]] Toidu mikrobioloogia<br />[[KTO0170]] Toiduohutus<br />[[KTO0120]] Toiduvalmistamise tehnoloogia<br />[[KTO0260]] Toitluskorraldus<br />[[KTO0240]] Toitlustusettevõtte projekteerimise alused<br />[[KTO0150]] Toitumise biokeemia<br />[[KTT0180]] Toote- ja tehnoarendus toidu töötlemisel<br />[[KAT0051]] Tootmisautomaatika</p>
+diff-minor: 
+ts: 1408891487
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KATM02/11 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=50154&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[KTT0220]] Bioloogilised meetodid toidu analüüsil
+	[[KTO0270]] Dietoloogia
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[KTO312P]] Erialapraktika
+	[[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine
+	[[KTT0150]] Fermentatsiooniprotsessid toidu töötlemisel
+	[[KYF0070]] Funktsionaalsed materjalid
+	[[KTT0140]] Loomse toorme töötlemine
+	[[TTO3160]] Õigusõpetus
+	[[KTT0130]] Taimse toorme töötlemine
+	[[HLX8040]] Teadusvõõrkeel
+	[[KTO3110]] Teenindusettevõtte ökonoomika
+	[[KTO0190]] Tehnoloogiaseadmed
+	[[KTO0220]] Toidu funktsionaalsed komponendid
+	[[KTO0180]] Toidufüüsika
+	[[KTT0190]] Toidu mikrobioloogia
+	[[KTO0170]] Toiduohutus
+	[[KTO0120]] Toiduvalmistamise tehnoloogia
+	[[KTO0260]] Toitluskorraldus
+	[[KTO0240]] Toitlustusettevõtte projekteerimise alused
+	[[KTO0150]] Toitumise biokeemia
+	[[KTT0180]] Toote- ja tehnoarendus toidu töötlemisel
+	[[KAT0051]] Tootmisautomaatika
+	
+	
+keep-ts: 1408891487

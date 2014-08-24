@@ -1,3 +1,5 @@
+flags: 010
+blocks: <p>Новый предмет, полезность сомнительна.<br />Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br /><img class="url http" src="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" alt="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" /><br />[[File:1017412_676832919022636_1384346730_n.jpg]]</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">==</strong>Modelleerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>107195<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Modelleerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>107195</p></div>

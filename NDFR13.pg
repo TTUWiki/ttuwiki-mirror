@@ -1,0 +1,16 @@
+flags: 010
+blocks: &lt;include "NDFR13-13"&gt;
+diff-minor: 
+ts: 1408891544
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: <include "NDFR13-13">
+	
+	
+	
+keep-ts: 1408891544

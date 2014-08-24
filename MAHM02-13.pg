@@ -1,0 +1,42 @@
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MAHM02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50235&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ISS0023]] Arukad juhtimissüsteemid<br />[[ISS0065]] Automaatikavahendid<br />[[EMR0040]] Biomehaanika alused<br />[[IEM0210]] Bioonika<br />[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas<br />[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[MHX0050]] Inseneripraktika<br />[[MHT0040]] Kvaliteedijuhtimine<br />[[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine<br />[[MHK0040]] Masinnägemine<br />[[MHK0031]] Mehhatroonikasüsteemid<br />[[MHT0014]] Mõõtmised mehhanotehnikas ja mehhatroonikas<br />[[TTO3160]] Õigusõpetus<br />[[ISS0089]] Programmeeritavad kontrollerid - jätkukursus<br />[[MER0030]] Raalkonstrueerimissüsteemid<br />[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus<br />[[ISP0051]] Rakenduslik andmeside<br />[[YFR8180]] Rakendusoptika<br />[[AAR0080]] Robotitehnika erikursus<br />[[MHE0030]] Sõidukite mehhatroonika<br />[[MHK0071]] Tehnoloogiad erivajadusteks<br />[[TMK8340]] Tootmiskorraldus<br />[[MET0120]] Tootmisprotsessid ja -seadmed<br />[[TMJ1240]] Üliõpilasfirma praktikum<br />[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine</p>
+diff-minor: 
+ts: 1408891505
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MAHM02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50235&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[ISS0023]] Arukad juhtimissüsteemid
+	[[ISS0065]] Automaatikavahendid
+	[[EMR0040]] Biomehaanika alused
+	[[IEM0210]] Bioonika
+	[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas
+	[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine
+	[[TMJ1030]] Ettevõtlus ja äri planeerimine
+	[[HHF0010]] Filosoofia põhiprobleemid
+	[[MHX0050]] Inseneripraktika
+	[[MHT0040]] Kvaliteedijuhtimine
+	[[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine
+	[[MHK0040]] Masinnägemine
+	[[MHK0031]] Mehhatroonikasüsteemid
+	[[MHT0014]] Mõõtmised mehhanotehnikas ja mehhatroonikas
+	[[TTO3160]] Õigusõpetus
+	[[ISS0089]] Programmeeritavad kontrollerid - jätkukursus
+	[[MER0030]] Raalkonstrueerimissüsteemid
+	[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus
+	[[ISP0051]] Rakenduslik andmeside
+	[[YFR8180]] Rakendusoptika
+	[[AAR0080]] Robotitehnika erikursus
+	[[MHE0030]] Sõidukite mehhatroonika
+	[[MHK0071]] Tehnoloogiad erivajadusteks
+	[[TMK8340]] Tootmiskorraldus
+	[[MET0120]] Tootmisprotsessid ja -seadmed
+	[[TMJ1240]] Üliõpilasfirma praktikum
+	[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine
+	
+	
+keep-ts: 1408891505

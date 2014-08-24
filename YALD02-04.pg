@@ -1,0 +1,49 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YALD02/04 - Keemia ja geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=3290&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YXX9040]] Ametipraktika<br />[[YKI9100]] Arvutuskeemia erikursus<br />[[YKA9010]] Bioanalüütiliste meetodite erikursus<br />[[DBR9050]] Bioelektromagnetismi erikursus<br />[[YSX9030]] Bioinformaatika erikursus<br />[[YTG9040]] Bioloogiline ohutus<br />[[DBX9010]] Biomeditsiinitehnoloogia doktoriseminar<br />[[EMR9090]] Biomehaanika seminar<br />[[YKB9010]] Biotehnoloogia erikursus<br />[[YXX9020]] Doktoriseminar<br />[[YXX9030]] Erialased ettekanded<br />[[YKX9010]] Erialase keemia süvakursus<br />[[YXX9050]] Erialase õpetamise metoodika<br />[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid<br />[[HHP9010]] Juhtimispsühholoogia<br />[[YXX9010]] Keemia ja geenitehnoloogia valdkonna doktoriseminar<br />[[KYF9020]] Keemilise ja ensüümkineetika erikursus<br />[[HHP9020]] Kõrgkoolididaktika<br />[[YKM9030]] Kvantbioloogia ja kvantfarmakoloogia<br />[[DBB9050]] Laserdiagnostika meetodid meditsiinis<br />[[DBX9020]] Meditsiinifüüsika doktoriseminar<br />[[YKM9020]] Molekulaardisain<br />[[DMO9010]] Molekulaarmeditsiini erikursus<br />[[YTG9010]] Molekulaarne rakubioloogia<br />[[YKM9010]] Molekulaartehnoloogia eriseminar<br />[[YTM9030]] Neurobioloogia erikursus<br />[[TMK9310]] Projektijuhtimine<br />[[YTP9030]] Proteoomika ja valkude keemia erikursus<br />[[DBR9030]] Signaalitöötlus biomeditsiinitehnikas<br />[[YKL9010]] Spektroskoopia erikursus<br />[[YKO9010]] Stereokeemia erikursus<br />[[YSX9020]] Süsteemibioloogia<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus</p>
+diff-minor: 
+ts: 1408891709
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YALD02/04 - Keemia ja geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=3290&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[YXX9040]] Ametipraktika
+	[[YKI9100]] Arvutuskeemia erikursus
+	[[YKA9010]] Bioanalüütiliste meetodite erikursus
+	[[DBR9050]] Bioelektromagnetismi erikursus
+	[[YSX9030]] Bioinformaatika erikursus
+	[[YTG9040]] Bioloogiline ohutus
+	[[DBX9010]] Biomeditsiinitehnoloogia doktoriseminar
+	[[EMR9090]] Biomehaanika seminar
+	[[YKB9010]] Biotehnoloogia erikursus
+	[[YXX9020]] Doktoriseminar
+	[[YXX9030]] Erialased ettekanded
+	[[YKX9010]] Erialase keemia süvakursus
+	[[YXX9050]] Erialase õpetamise metoodika
+	[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid
+	[[HHP9010]] Juhtimispsühholoogia
+	[[YXX9010]] Keemia ja geenitehnoloogia valdkonna doktoriseminar
+	[[KYF9020]] Keemilise ja ensüümkineetika erikursus
+	[[HHP9020]] Kõrgkoolididaktika
+	[[YKM9030]] Kvantbioloogia ja kvantfarmakoloogia
+	[[DBB9050]] Laserdiagnostika meetodid meditsiinis
+	[[DBX9020]] Meditsiinifüüsika doktoriseminar
+	[[YKM9020]] Molekulaardisain
+	[[DMO9010]] Molekulaarmeditsiini erikursus
+	[[YTG9010]] Molekulaarne rakubioloogia
+	[[YKM9010]] Molekulaartehnoloogia eriseminar
+	[[YTM9030]] Neurobioloogia erikursus
+	[[TMK9310]] Projektijuhtimine
+	[[YTP9030]] Proteoomika ja valkude keemia erikursus
+	[[DBR9030]] Signaalitöötlus biomeditsiinitehnikas
+	[[YKL9010]] Spektroskoopia erikursus
+	[[YKO9010]] Stereokeemia erikursus
+	[[YSX9020]] Süsteemibioloogia
+	[[HHF9030]] Teadusfilosoofia
+	[[HUP9010]] Teadus- ja hariduskorraldus
+	
+	
+keep-ts: 1408891709

@@ -1,0 +1,43 @@
+flags: 01010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YVEM09/09 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50125&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DMK1080]] Andmete kodeerimine meditsiinis<br />[[IDY0275]] Äriinfosüsteemid<br />[[IAF0041]] Arvutid<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[DMK1010]] Epidemioloogia<br />[[DMK1500]] Erialased ettekanded ja seminarid<br />[[DMK1090]] E-tervise alused<br />[[DMK1020]] Haiguseõpetus ja arstiabi<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[HLI8750]] Inglise teaduskeel<br />[[DMK1070]] Inimese õpetus<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega<br />[[DMK1400]] Magistriseminar<br />[[DMK1100]] Meditsiiniline kuvamine ja andmehõive<br />[[DMK1200]] Meditsiinis kasutatavad signaalid<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[IDY0201]] Nõuete analüüs<br />[[IDK1011]] Programmeerimise algkursus<br />[[IDK0075]] Sissejuhatus sensorvõrkudesse<br />[[IDK0071]] Tarkvaratehnika<br />[[DMK1040]] Terviseedendus<br />[[DMK1300]] Töö tervishoiuettevõttes<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
+diff-minor: 
+ts: 1408891730
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == YVEM09/09 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50125&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[DMK1080]] Andmete kodeerimine meditsiinis
+	[[IDY0275]] Äriinfosüsteemid
+	[[IAF0041]] Arvutid
+	[[YSX0010]] Bioinformaatika I
+	[[YSX0020]] Bioinformaatika II
+	[[DMK1010]] Epidemioloogia
+	[[DMK1500]] Erialased ettekanded ja seminarid
+	[[DMK1090]] E-tervise alused
+	[[DMK1020]] Haiguseõpetus ja arstiabi
+	[[IDU3390]] Infosüsteemi projekti juhtimine
+	[[IDU0021]] Infosüsteemi strateegiline analüüs
+	[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt
+	[[HLI8750]] Inglise teaduskeel
+	[[DMK1070]] Inimese õpetus
+	[[TMK1130]] Innovatsiooni juhtimine
+	[[MHT0060]] Kvaliteedijuhtimine
+	[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega
+	[[DMK1400]] Magistriseminar
+	[[DMK1100]] Meditsiiniline kuvamine ja andmehõive
+	[[DMK1200]] Meditsiinis kasutatavad signaalid
+	[[DMK1030]] Meditsiiniteooria ja -eetika
+	[[IDY0201]] Nõuete analüüs
+	[[IDK1011]] Programmeerimise algkursus
+	[[IDK0075]] Sissejuhatus sensorvõrkudesse
+	[[IDK0071]] Tarkvaratehnika
+	[[DMK1040]] Terviseedendus
+	[[DMK1300]] Töö tervishoiuettevõttes
+	[[HPP0040]] Väljendus- ja vaidlusõpetus
+	
+	
+keep-ts: 1408891730

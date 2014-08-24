@@ -1,0 +1,59 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TAAB02/09 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50045&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTR0070]] Avalikud suhted<br />[[TTR0170]] Avaliku sektori ökonoomika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[TSX0020]] Erialane võõrkeel I<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3060]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[TTR0160]] Finantsarvestus ja -juhtimine avalikus sektoris<br />[[TTR0150]] Fiskaalpoliitika alused<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TTP0020]] Innovatsioonipoliitika<br />[[TMM0230]] Interaktiivne turundus<br />[[TMO0010]] Juhtimine<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TTX0050]] Linna- ja keskkonnauuringute metodoloogia<br />[[TTR0010]] Majandusajalugu<br />[[TTK0030]] Majandusgeograafia<br />[[TEM0220]] Majandusmatemaatika I<br />[[TEM0230]] Majandusmatemaatika II<br />[[TTP0010]] Majanduspoliitika<br />[[TTS0050]] Majandussotsioloogia<br />[[TET0020]] Makroökonoomika põhikursus<br />[[TAF0050]] Maksundus<br />[[TET0010]] Mikroökonoomika põhikursus<br />[[TTO0010]] Õiguse alused<br />[[TES0040]] Ökonomeetria<br />[[UTT0010]] Õpingukorraldus<br />[[TTR0060]] Projektijuhtimine avalikus sektoris<br />[[HHP3200]] Psühholoogia ja loogika<br />[[TER0220]] Raha ja pangandus<br />[[TER0420]] Rahanduse alused<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TTK0010]] Sissejuhatus keskkonnapoliitikasse ja keskkonnaõigusesse<br />[[TTR0090]] Sissejuhatus linnaökonoomikasse<br />[[TTS0030]] Sissejuhatus urbanistikasse<br />[[TTR0110]] Sotsiaalse tasuvusanalüüsi alused<br />[[TES0020]] Statistika<br />[[TES0010]] Teadustöö ja majandusuuringute alused<br />[[TMK0100]] Töö- ja palgakorraldus<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TTX099P]] Tööpraktika<br />[[TXX0030]] Uurimistöö I<br />[[TXX0040]] Uurimistöö II</p>
+diff-minor: 
+ts: 1408891598
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TAAB02/09 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50045&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TTR0070]] Avalikud suhted
+	[[TTR0170]] Avaliku sektori ökonoomika
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[TSX0020]] Erialane võõrkeel I
+	[[TMJ3330]] Ettevõtte majandusõpetus
+	[[HHF3060]] Filosoofia
+	[[TAF0070]] Finantsarvestuse alused
+	[[TTR0160]] Finantsarvestus ja -juhtimine avalikus sektoris
+	[[TTR0150]] Fiskaalpoliitika alused
+	[[IDK0022]] Informaatika II (majandus ja humanitaar)
+	[[IDK0021]] Informaatika I (majandus ja humanitaar)
+	[[TTP0020]] Innovatsioonipoliitika
+	[[TMM0230]] Interaktiivne turundus
+	[[TMO0010]] Juhtimine
+	[[TTK0020]] Keskkonnaökonoomika
+	[[TTX0050]] Linna- ja keskkonnauuringute metodoloogia
+	[[TTR0010]] Majandusajalugu
+	[[TTK0030]] Majandusgeograafia
+	[[TEM0220]] Majandusmatemaatika I
+	[[TEM0230]] Majandusmatemaatika II
+	[[TTP0010]] Majanduspoliitika
+	[[TTS0050]] Majandussotsioloogia
+	[[TET0020]] Makroökonoomika põhikursus
+	[[TAF0050]] Maksundus
+	[[TET0010]] Mikroökonoomika põhikursus
+	[[TTO0010]] Õiguse alused
+	[[TES0040]] Ökonomeetria
+	[[UTT0010]] Õpingukorraldus
+	[[TTR0060]] Projektijuhtimine avalikus sektoris
+	[[HHP3200]] Psühholoogia ja loogika
+	[[TER0220]] Raha ja pangandus
+	[[TER0420]] Rahanduse alused
+	[[TET0050]] Rahvusvahelise majanduse alused
+	[[TTK0010]] Sissejuhatus keskkonnapoliitikasse ja keskkonnaõigusesse
+	[[TTR0090]] Sissejuhatus linnaökonoomikasse
+	[[TTS0030]] Sissejuhatus urbanistikasse
+	[[TTR0110]] Sotsiaalse tasuvusanalüüsi alused
+	[[TES0020]] Statistika
+	[[TES0010]] Teadustöö ja majandusuuringute alused
+	[[TMK0100]] Töö- ja palgakorraldus
+	[[TMT0050]] Töökeskkond ja ergonoomika
+	[[TTX099P]] Tööpraktika
+	[[TXX0030]] Uurimistöö I
+	[[TXX0040]] Uurimistöö II
+	
+	
+keep-ts: 1408891598

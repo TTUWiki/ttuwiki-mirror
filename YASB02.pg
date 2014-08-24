@@ -1,97 +1,23 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h3>YASB02/09 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50048&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0070]] Ametipraktika<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YKL0060]] Biokeemia<br />[[YKB1130]] Biotehnoloogia I<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YKI0100]] Elementide keemia<br />[[YTP0101]] Ensümoloogia alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKI0020]] Keemia alused<br />[[KYF3630]] Keemiainformaatika<br />[[KAT3181]] Keemiatehnika alused<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0070]] Looduslike ühendite keemia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[YKB3200]] Üldloodusteadus<br /></p><h3>YASB02/02 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=950&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h3><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[YKL3311]] Biokeemia<br />[[YKL3312]] Biokeemia - praktikum<br />[[YKB5220]] Biotehnoloogia  I<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[YKI0100]] Elementide keemia<br />[[YTP0100]] Ensümoloogia alused<br />[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3070]] Filosoofia<br />[[YFR0030]] Füüsika<br />[[KYF0021]] Füüsikaline keemia I<br />[[YTG0011]] Geenitehnoloogia I<br />[[IDK0011]] Informaatika I<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKA3412]] Instrumentaalanalüüs - ainetöö<br />[[IDU5720]] Interneti baaskursus<br />[[YKI0020]] Keemia alused<br />[[KYF3630]] Keemiainformaatika<br />[[KAT3181]] Keemiatehnika alused<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0010]] Looduslike ühendite keemia I<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[YKO001P]] Praktika<br />[[MHT0030]] Rakendusstatistika<br />[[KAT0041]] Reaktsiooniprotsessid I<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YKB3200]] Üldloodusteadus<br /></p>
+flags: 01010
+blocks: &lt;include "YASB02-09"&gt;
+	&lt;include "YASB02-02"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== YASB02/09 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50048&amp;p_net=intranet</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[YKA0070]] Ametipraktika\\<br />&lt; [[YKA0011]] Analüütiline keemia\\<br />&lt; [[YKI0031]] Anorgaaniline keemia I\\<br />&lt; [[YKB3330]] Biofüüsika\\<br />&lt; [[YSX0010]] Bioinformaatika I\\<br />&lt; [[YKL0060]] Biokeemia\\<br />&lt; [[YKB1130]] Biotehnoloogia I\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[YKI0100]] Elementide keemia\\<br />&lt; [[YTP0101]] Ensümoloogia alused\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF0010]] Filosoofia põhiprobleemid\\<br />&lt; [[YFR0030]] Füüsika\\<br />&lt; [[KYF0080]] Füüsikaline ja kolloidkeemia\\<br />&lt; [[YTG0011]] Geenitehnoloogia I\\<br />&lt; [[IDK0091]] Informaatika I (tehnika)\\<br />&lt; [[YKA3411]] Instrumentaalanalüüs\\<br />&lt; [[YKI0020]] Keemia alused\\<br />&lt; [[KYF3630]] Keemiainformaatika\\<br />&lt; [[KAT3181]] Keemiatehnika alused\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YKL0070]] Looduslike ühendite keemia\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM0012]] Matemaatiline analüüs II\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[KTT0041]] Mikroobifüsioloogia\\<br />&lt; [[YTM0011]] Molekulaar- ja rakubioloogia\\<br />&lt; [[YTM0012]] Molekulaar- ja rakubioloogia - praktikum\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[YKO0070]] Orgaaniline keemia I\\<br />&lt; [[YKO5606]] Orgaaniline keemia II\\<br />&lt; [[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias\\<br />&lt; [[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[YKB3200]] Üldloodusteadus\\<br />&lt; ===</strong> YASB02<strong class="changes">/02</strong> - <strong class="changes">Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=950&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[YKA0010]] Analüütiline keemia\\<br />&lt; [[YKA0020]] Analüütiline keemia - praktikum\\<br />&lt; [[YKI0030]] Anorgaaniline keemia\\<br />&lt; [[YKI3152]] Anorgaaniline keemia - praktikum\\<br />&lt; [[YKB3330]] Biofüüsika\\<br />&lt; [[YSX0010]] Bioinformaatika I\\<br />&lt; [[YSX0020]] Bioinformaatika II\\<br />&lt; [[YKL3311]] Biokeemia\\<br />&lt; [[YKL3312]] Biokeemia - praktikum\\<br />&lt; [[YKB5220]] Biotehnoloogia  I\\<br />&lt; [[YMR0010]] Diferentsiaalvõrrandid\\<br />&lt; [[YKI0100]] Elementide keemia\\<br />&lt; [[YTP0100]] Ensümoloogia alused\\<br />&lt; [[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF3070]] Filosoofia\\<br />&lt; [[YFR0030]] Füüsika\\<br />&lt; [[KYF0021]] Füüsikaline keemia I\\<br />&lt; [[YTG0011]] Geenitehnoloogia I\\<br />&lt; [[IDK0011]] Informaatika I\\<br />&lt; [[YKA3411]] Instrumentaalanalüüs\\<br />&lt; [[YKA3412]] Instrumentaalanalüüs - ainetöö\\<br />&lt; [[IDU5720]] Interneti baaskursus\\<br />&lt; [[YKI0020]] Keemia alused\\<br />&lt; [[KYF3630]] Keemiainformaatika\\<br />&lt; [[KAT3181]] Keemiatehnika alused\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YKL0010]] Looduslike ühendite keemia I\\<br />&lt; [[YTM0020]] Looma- ja taimefüsioloogia\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[KTT0041]] Mikroobifüsioloogia\\<br />&lt; [[YTM0011]] Molekulaar- ja rakubioloogia\\<br />&lt; [[YTM0012]] Molekulaar- ja rakubioloogia - praktikum\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[YTG0050]] Ökoloogia ja looduskaitse\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[YKO3405]] Orgaaniline keemia I\\<br />&lt; [[YKO5606]] Orgaaniline keemia II\\<br />&lt; [[YKO3403]] Orgaaniline keemia I - praktikum A\\<br />&lt; [[YKO001P]] Praktika\\<br />&lt; [[MHT0030]] Rakendusstatistika\\<br />&lt; [[KAT0041]] Reaktsiooniprotsessid I\\<br />&lt; [[YXX0010]] Riski</strong>- <strong class="changes">ja ohutusõpetus keemias ja biotehnoloogias\\<br />&lt; [[YKB3200]] Üldloodusteadus\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>YASB02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YASB02</strong>-<strong class="changes">02"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203895
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885968
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === YASB02/09 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50048&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[YKA0070]] Ametipraktika\\
-	[[YKA0011]] Analüütiline keemia\\
-	[[YKI0031]] Anorgaaniline keemia I\\
-	[[YKB3330]] Biofüüsika\\
-	[[YSX0010]] Bioinformaatika I\\
-	[[YKL0060]] Biokeemia\\
-	[[YKB1130]] Biotehnoloogia I\\
-	[[HLE6060]] Eesti keele väljendusõpetus\\
-	[[YKI0100]] Elementide keemia\\
-	[[YTP0101]] Ensümoloogia alused\\
-	[[TMJ3330]] Ettevõtte majandusõpetus\\
-	[[HHF0010]] Filosoofia põhiprobleemid\\
-	[[YFR0030]] Füüsika\\
-	[[KYF0080]] Füüsikaline ja kolloidkeemia\\
-	[[YTG0011]] Geenitehnoloogia I\\
-	[[IDK0091]] Informaatika I (tehnika)\\
-	[[YKA3411]] Instrumentaalanalüüs\\
-	[[YKI0020]] Keemia alused\\
-	[[KYF3630]] Keemiainformaatika\\
-	[[KAT3181]] Keemiatehnika alused\\
-	[[EKE0140]] Keskkonnakaitse ja säästev areng\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YKL0070]] Looduslike ühendite keemia\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[YMM0012]] Matemaatiline analüüs II\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[KTT0041]] Mikroobifüsioloogia\\
-	[[YTM0011]] Molekulaar- ja rakubioloogia\\
-	[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum\\
-	[[TTO3160]] Õigusõpetus\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[YKO0070]] Orgaaniline keemia I\\
-	[[YKO5606]] Orgaaniline keemia II\\
-	[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias\\
-	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika\\
-	[[YKB3200]] Üldloodusteadus\\
-	=== YASB02/02 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=950&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLX0020]] Akadeemiline võõrkeel\\
-	[[YKA0010]] Analüütiline keemia\\
-	[[YKA0020]] Analüütiline keemia - praktikum\\
-	[[YKI0030]] Anorgaaniline keemia\\
-	[[YKI3152]] Anorgaaniline keemia - praktikum\\
-	[[YKB3330]] Biofüüsika\\
-	[[YSX0010]] Bioinformaatika I\\
-	[[YSX0020]] Bioinformaatika II\\
-	[[YKL3311]] Biokeemia\\
-	[[YKL3312]] Biokeemia - praktikum\\
-	[[YKB5220]] Biotehnoloogia  I\\
-	[[YMR0010]] Diferentsiaalvõrrandid\\
-	[[YKI0100]] Elementide keemia\\
-	[[YTP0100]] Ensümoloogia alused\\
-	[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine\\
-	[[TMJ3330]] Ettevõtte majandusõpetus\\
-	[[HHF3070]] Filosoofia\\
-	[[YFR0030]] Füüsika\\
-	[[KYF0021]] Füüsikaline keemia I\\
-	[[YTG0011]] Geenitehnoloogia I\\
-	[[IDK0011]] Informaatika I\\
-	[[YKA3411]] Instrumentaalanalüüs\\
-	[[YKA3412]] Instrumentaalanalüüs - ainetöö\\
-	[[IDU5720]] Interneti baaskursus\\
-	[[YKI0020]] Keemia alused\\
-	[[KYF3630]] Keemiainformaatika\\
-	[[KAT3181]] Keemiatehnika alused\\
-	[[YMA3710]] Lineaaralgebra\\
-	[[YKL0010]] Looduslike ühendite keemia I\\
-	[[YTM0020]] Looma- ja taimefüsioloogia\\
-	[[YMM3731]] Matemaatiline analüüs I\\
-	[[TET3070]] Mikro- ja makroökonoomika\\
-	[[KTT0041]] Mikroobifüsioloogia\\
-	[[YTM0011]] Molekulaar- ja rakubioloogia\\
-	[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum\\
-	[[TTO3160]] Õigusõpetus\\
-	[[YTG0050]] Ökoloogia ja looduskaitse\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[YKO3405]] Orgaaniline keemia I\\
-	[[YKO5606]] Orgaaniline keemia II\\
-	[[YKO3403]] Orgaaniline keemia I - praktikum A\\
-	[[YKO001P]] Praktika\\
-	[[MHT0030]] Rakendusstatistika\\
-	[[KAT0041]] Reaktsiooniprotsessid I\\
-	[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias\\
-	[[YKB3200]] Üldloodusteadus\\
+text: <include "YASB02-09">
+	
+	<include "YASB02-02">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885968

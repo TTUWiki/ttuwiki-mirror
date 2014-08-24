@@ -1,0 +1,48 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>KATB02/09 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50073&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[TMK0070]] Ärieetika<br />[[YKL0060]] Biokeemia<br />[[HHF3080]] Filosoofia<br />[[YFR0020]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[IDK0110]] Informaatika keemia erialadele<br />[[YGK3360]] Insenerigraafika<br />[[YKI0020]] Keemia alused<br />[[KAT3181]] Keemiatehnika alused<br />[[KAT3182]] Keemiatehnika alused - projekt<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[KYP0040]] Materjaliteaduse üldalused<br />[[KTT0170]] Mikrobioloogia<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[HHP3200]] Psühholoogia ja loogika<br />[[MHT0031]] Rakendusstatistika<br />[[TMT3660]] Riski- ja ohutusõpetus materjalide töötlemisel<br />[[KTO0210]] Sissejuhatus erialasse. Toit ja toitumine<br />[[KTT0230]] Toiduanalüüsi alused<br />[[KTT0160]] Toidu biotehnoloogia<br />[[KTO0230]] Toidukeemia<br />[[KTO0160]] Toidu sensoorne analüüs<br />[[KTT0100]] Toidu töötlemise alused<br />[[KTO0250]] Toitumisõpetus<br />[[KTO311P]] Tööpraktika</p>
+diff-minor: 
+ts: 1408891483
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == KATB02/09 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=50073&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[YKA0011]] Analüütiline keemia
+	[[YKI0031]] Anorgaaniline keemia I
+	[[TMK0070]] Ärieetika
+	[[YKL0060]] Biokeemia
+	[[HHF3080]] Filosoofia
+	[[YFR0020]] Füüsika
+	[[KYF0080]] Füüsikaline ja kolloidkeemia
+	[[YTG0011]] Geenitehnoloogia I
+	[[IDK0110]] Informaatika keemia erialadele
+	[[YGK3360]] Insenerigraafika
+	[[YKI0020]] Keemia alused
+	[[KAT3181]] Keemiatehnika alused
+	[[KAT3182]] Keemiatehnika alused - projekt
+	[[YMA3710]] Lineaaralgebra
+	[[YMM3731]] Matemaatiline analüüs I
+	[[KYP0040]] Materjaliteaduse üldalused
+	[[KTT0170]] Mikrobioloogia
+	[[TET3070]] Mikro- ja makroökonoomika
+	[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia
+	[[UTT0010]] Õpingukorraldus
+	[[YKO0070]] Orgaaniline keemia I
+	[[HHP3200]] Psühholoogia ja loogika
+	[[MHT0031]] Rakendusstatistika
+	[[TMT3660]] Riski- ja ohutusõpetus materjalide töötlemisel
+	[[KTO0210]] Sissejuhatus erialasse. Toit ja toitumine
+	[[KTT0230]] Toiduanalüüsi alused
+	[[KTT0160]] Toidu biotehnoloogia
+	[[KTO0230]] Toidukeemia
+	[[KTO0160]] Toidu sensoorne analüüs
+	[[KTT0100]] Toidu töötlemise alused
+	[[KTO0250]] Toitumisõpetus
+	[[KTO311P]] Tööpraktika
+	
+	
+keep-ts: 1408891483

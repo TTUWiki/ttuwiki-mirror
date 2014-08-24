@@ -1,0 +1,43 @@
+flags: 01010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TATM02/02 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=925&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTO1020]] Äriõigus<br />[[TMO1090]] Äriühingute valitsemine<br />[[TTP1020]] Eesti majandus<br />[[TMV1040]] Ettevõtluse eriseminar<br />[[TMM1060]] E-turundus<br />[[TTX1010]] Euroopa Liidu struktuurid ja õigus<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[TMO1020]] Inimressursi juhtimine<br />[[TMV1050]] Juhtimismäng<br />[[TMJ1090]] Kinnisvaraturundus<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses<br />[[TMO1010]] Magistriseminar<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[TMO1030]] Praktiline personalijuhtimine ja töösuhted<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TMM1110]] Rahvusvaheline turundus<br />[[TMO1040]] Strateegiline juhtimine<br />[[TMM1140]] Strateegiline turundus<br />[[TMM1260]] Tarbijakäitumine<br />[[TMJ1080]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMK1100]] Tehnoloogia juhtimine<br />[[TMM1070]] Tollindus<br />[[TMK1110]] Tootmiskorraldus<br />[[TMM8860]] Turunduskommunikatsioon  II<br />[[TMM1250]] Turundusuuring II</p>
+diff-minor: 
+ts: 1408891642
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == TATM02/02 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=925&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[TTO1020]] Äriõigus
+	[[TMO1090]] Äriühingute valitsemine
+	[[TTP1020]] Eesti majandus
+	[[TMV1040]] Ettevõtluse eriseminar
+	[[TMM1060]] E-turundus
+	[[TTX1010]] Euroopa Liidu struktuurid ja õigus
+	[[TAF8280]] Finantsarvestus ja -aruandlus
+	[[TMO1020]] Inimressursi juhtimine
+	[[TMV1050]] Juhtimismäng
+	[[TMJ1090]] Kinnisvaraturundus
+	[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine
+	[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses
+	[[TMO1010]] Magistriseminar
+	[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine
+	[[TMO1060]] Organisatsiooni ja juhtimise teooriad
+	[[TMO1030]] Praktiline personalijuhtimine ja töösuhted
+	[[TMK1020]] Rahvusvaheline ärikorraldus
+	[[TMM1110]] Rahvusvaheline turundus
+	[[TMO1040]] Strateegiline juhtimine
+	[[TMM1140]] Strateegiline turundus
+	[[TMM1260]] Tarbijakäitumine
+	[[TMJ1080]] Tarneahela juhtimine
+	[[HLX8040]] Teadusvõõrkeel
+	[[TMK1100]] Tehnoloogia juhtimine
+	[[TMM1070]] Tollindus
+	[[TMK1110]] Tootmiskorraldus
+	[[TMM8860]] Turunduskommunikatsioon  II
+	[[TMM1250]] Turundusuuring II
+	
+	
+keep-ts: 1408891642

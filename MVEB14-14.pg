@@ -1,0 +1,56 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MVEB14/14 - Integreeritud tehnoloogiad [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50256&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MER0060]] APJ tootmisseadmete programmeerimine<br />[[MES0040]] Automatiseerimistehnika<br />[[MHD0072]] Dünaamika<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[AAV0060]] Elektriajamid ja jõuelektroonika<br />[[IED0150]] Elektroonika<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[HOE6052]] Intellektuaalse omandi õigus<br />[[KYF0250]] Jätkusuutliku energeetika põhialused<br />[[YKI0130]] Keemia ja materjaliõpetus<br />[[YGK0010]] Kujutav geomeetria<br />[[UTT0050]] Kursuseprojekt 1<br />[[UTT0060]] Kursuseprojekt 2<br />[[YMA3710]] Lineaaralgebra<br />[[ETV3110]] Logistika alused<br />[[MHD0030]] Masinamehaanika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0120]] Materjali ja tehnoloogia valik<br />[[MTM0070]] Materjalitehnika<br />[[MHK0030]] Mehhatroonika<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[UTT0010]] Õpingukorraldus<br />[[KMP0330]] Polümeermaterjalid: saamine ja omadused<br />[[MES0150]] Probleemilahendus<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[MER0150]] Raalprojekteerimine<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[MSE0100]] Soojustehnika<br />[[MHD0071]] Staatika ja kinemaatika<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[MED0010]] Tööstusdisaini alused<br />[[MET0011]] Tootmistehnika alused I<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
+diff-minor: 
+ts: 1408891530
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == MVEB14/14 - Integreeritud tehnoloogiad [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50256&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[MER0060]] APJ tootmisseadmete programmeerimine
+	[[MES0040]] Automatiseerimistehnika
+	[[MHD0072]] Dünaamika
+	[[HLE2210]] Eesti keel ja kultuur I
+	[[AAV0060]] Elektriajamid ja jõuelektroonika
+	[[IED0150]] Elektroonika
+	[[TMJ0110]] Ettevõtluse alused
+	[[YFR0012]] Füüsika II
+	[[MES0080]] Hüdro- ja pneumoajam
+	[[HOE6052]] Intellektuaalse omandi õigus
+	[[KYF0250]] Jätkusuutliku energeetika põhialused
+	[[YKI0130]] Keemia ja materjaliõpetus
+	[[YGK0010]] Kujutav geomeetria
+	[[UTT0050]] Kursuseprojekt 1
+	[[UTT0060]] Kursuseprojekt 2
+	[[YMA3710]] Lineaaralgebra
+	[[ETV3110]] Logistika alused
+	[[MHD0030]] Masinamehaanika
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[MTM0120]] Materjali ja tehnoloogia valik
+	[[MTM0070]] Materjalitehnika
+	[[MHK0030]] Mehhatroonika
+	[[MHT0010]] Metroloogia ja mõõtetehnika
+	[[IDK2015]] Objekt-orienteeritud programmeerimine
+	[[UTT0010]] Õpingukorraldus
+	[[KMP0330]] Polümeermaterjalid: saamine ja omadused
+	[[MES0150]] Probleemilahendus
+	[[IAG0581]] Programmeerimine I
+	[[IAG0582]] Programmeerimine II
+	[[MER0150]] Raalprojekteerimine
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[MSE0100]] Soojustehnika
+	[[MHD0071]] Staatika ja kinemaatika
+	[[HHL1250]] Tehnoloogia ja ühiskond
+	[[TMT0050]] Töökeskkond ja ergonoomika
+	[[MED0010]] Tööstusdisaini alused
+	[[MET0011]] Tootmistehnika alused I
+	[[MHE0011]] Tugevusõpetus I
+	[[MHE0012]] Tugevusõpetus II
+	
+	
+keep-ts: 1408891530

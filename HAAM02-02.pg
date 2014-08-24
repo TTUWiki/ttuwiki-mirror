@@ -1,0 +1,46 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>HAAM02/02 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=1229&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHA3280]] Arengupoliitikad ja üleilmastumine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HHL1120]] Euroopa Liidu õigussüsteem<br />[[HHL1030]] Euroopa Liidu poliitikad II<br />[[HHL1150]] E-valitsemine<br />[[IDU5050]] Haldusinfosüsteemid<br />[[HHL1100]] Haldusõigus<br />[[HUP5630]] Haridusökonoomika<br />[[HUP1020]] Haridussüsteemi juhtimine<br />[[HHA1150]] Innovatsiooni- ja tööstuspoliitika<br />[[HHA3260]] Innovatsioonisüsteemid<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II<br />[[HHA0120]] Kulturoloogia<br />[[HHX1011]] Magistriseminar I<br />[[HHX1012]] Magistriseminar II<br />[[TET8150]] Mikro- ja makroökonoomika<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[HHP1010]] Organisatsioonipsühholoogia<br />[[HHA1160]] Poliitikate analüüs<br />[[HHX1020]] Praktika<br />[[HHR1050]] Säästliku arengu strateegia<br />[[HHF8160]] Sotsiaalfilosoofia<br />[[TMO1040]] Strateegiline juhtimine<br />[[HHP8201]] Suhtlemispsühholoogia<br />[[HHF9020]] Teadusfilosoofia<br />[[HHX1040]] Teadustöö meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHA3270]] Tehnoloogia poliitikate ajalugu<br />[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad</p>
+diff-minor: 
+ts: 1408891369
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == HAAM02/02 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=1229&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HHA3280]] Arengupoliitikad ja üleilmastumine
+	[[TTR1030]] Avaliku sektori ökonoomika
+	[[HHL1120]] Euroopa Liidu õigussüsteem
+	[[HHL1030]] Euroopa Liidu poliitikad II
+	[[HHL1150]] E-valitsemine
+	[[IDU5050]] Haldusinfosüsteemid
+	[[HHL1100]] Haldusõigus
+	[[HUP5630]] Haridusökonoomika
+	[[HUP1020]] Haridussüsteemi juhtimine
+	[[HHA1150]] Innovatsiooni- ja tööstuspoliitika
+	[[HHA3260]] Innovatsioonisüsteemid
+	[[HHP8202]] Juhtimispsühholoogia
+	[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II
+	[[HHA0120]] Kulturoloogia
+	[[HHX1011]] Magistriseminar I
+	[[HHX1012]] Magistriseminar II
+	[[TET8150]] Mikro- ja makroökonoomika
+	[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine
+	[[TMO1060]] Organisatsiooni ja juhtimise teooriad
+	[[HHP1010]] Organisatsioonipsühholoogia
+	[[HHA1160]] Poliitikate analüüs
+	[[HHX1020]] Praktika
+	[[HHR1050]] Säästliku arengu strateegia
+	[[HHF8160]] Sotsiaalfilosoofia
+	[[TMO1040]] Strateegiline juhtimine
+	[[HHP8201]] Suhtlemispsühholoogia
+	[[HHF9020]] Teadusfilosoofia
+	[[HHX1040]] Teadustöö meetodid
+	[[HLX8040]] Teadusvõõrkeel
+	[[HHA3270]] Tehnoloogia poliitikate ajalugu
+	[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad
+	
+	
+keep-ts: 1408891369

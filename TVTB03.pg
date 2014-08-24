@@ -1,169 +1,29 @@
+flags: 010101010
+blocks: &lt;include "TVTB03-11"&gt;
+	&lt;include "TVTB03-09"&gt;
+	&lt;include "TVTB03-07"&gt;
+	&lt;include "TVTB03-03"&gt;
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== TVTB03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50159&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[TMM2540]] Ärisuhtlus\\<br />&lt; [[TTO2020]] Äritegevuse õiguslik keskkond\\<br />&lt; [[HLE2200]] Eesti keel ja kultuur I\\<br />&lt; [[TSK0025]] Erialane inglise keel I\\<br />&lt; [[TMJ2220]] Ettevõtlus\\<br />&lt; [[TMM2170]] E-turundus\\<br />&lt; [[TTO2021]] Euroopa Liidu õigus\\<br />&lt; [[HHF3081]] Filosoofia\\<br />&lt; [[TAK2825]] Finantsanalüüsi alused\\<br />&lt; [[TAF2810]] Finantsarvestuse alused\\<br />&lt; [[TAF2060]] Finantsarvestuse keskkursus\\<br />&lt; [[TER2620]] Finantsjuhtimine\\<br />&lt; [[IDK2081]] Infotehnoloogia\\<br />&lt; [[TSK0020]] Inglise keel I\\<br />&lt; [[TMO2210]] Juhtimine\\<br />&lt; [[TAK2830]] Juhtimisarvestus\\<br />&lt; [[TMJ2025]] Kinnisvara rahandus\\<br />&lt; [[TAK2030]] Kuluarvestus\\<br />&lt; [[TTS2320]] Kvalitatiivsed uurimismeetodid\\<br />&lt; [[TEM2565]] Kvantitatiivsed meetodid\\<br />&lt; [[TMJ2141]] Logistika\\<br />&lt; [[TSK0026]] Majandusalane inglise keel I\\<br />&lt; [[TSK0027]] Majandusalane inglise keel II\\<br />&lt; [[TET2535]] Majandusteooria I\\<br />&lt; [[TET2540]] Majandusteooria II\\<br />&lt; [[TAF2050]] Maksundus\\<br />&lt; [[TEM2520]] Matemaatika\\<br />&lt; [[TMK2190]] Operatsioonijuhtimine\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TMO2220]] Organisatsioonikäitumine\\<br />&lt; [[TTR2020]] Projektijuhtimine\\<br />&lt; [[TER2575]] Raha ja pangandus\\<br />&lt; [[TER2550]] Rahanduse alused\\<br />&lt; [[TMM2160]] Rahvusvaheline turundus\\<br />&lt; [[ITX0025]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[TTS2310]] Sotsioloogia\\<br />&lt; [[TMT2020]] Töökeskkond ja ergonoomika\\<br />&lt; [[TMM2150]] Turundus\\<br />&lt; [[TMM2120]] Turunduse juhtimine\\<br />&lt; [[TMM2560]] Turunduskommunikatsioon I\\<br />&lt; [[TMM2340]] Turu-uuring ja turu planeerimine\\<br />&lt; [[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)\\<br />&lt; [[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)\\<br />&lt; ===</strong> TVTB03<strong class="changes">/09</strong> - <strong class="changes">Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50068&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[TIX2150]] Ärisuhtlus\\<br />&lt; [[TIX2320]] Äritegevuse õiguslik keskkond\\<br />&lt; [[HLE2200]] Eesti keel ja kultuur I\\<br />&lt; [[TSK0025]] Erialane inglise keel I\\<br />&lt; [[TIX2220]] Ettevõtlus\\<br />&lt; [[TIX2685]] E-turundus\\<br />&lt; [[TIX2335]] Euroopa Liidu õigus\\<br />&lt; [[TIX3730]] Filosoofia\\<br />&lt; [[TIX2825]] Finantsanalüüsi alused\\<br />&lt; [[TIX2810]] Finantsarvestuse alused\\<br />&lt; [[TIX2610]] Finantsjuhtimine\\<br />&lt; [[IDK2081]] Infotehnoloogia\\<br />&lt; [[TSK0020]] Inglise keel I\\<br />&lt; [[TIX2735]] Juhtimine\\<br />&lt; [[TIX2830]] Juhtimisarvestus\\<br />&lt; [[TIX2025]] Kinnisvara ökonoomika\\<br />&lt; [[TIX2515]] Kvalitatiivsed uurimismeetodid\\<br />&lt; [[TIX2565]] Kvantitatiivsed meetodid\\<br />&lt; [[TIX2141]] Logistika\\<br />&lt; [[TSK0026]] Majandusalane inglise keel I\\<br />&lt; [[TSK0027]] Majandusalane inglise keel II\\<br />&lt; [[TIX2530]] Majandusteooria I\\<br />&lt; [[TIX2540]] Majandusteooria II\\<br />&lt; [[TIX2520]] Matemaatika\\<br />&lt; [[TIX2120]] Operatsioonijuhtimine\\<br />&lt; [[TIX2135]] Õpingukorraldus\\<br />&lt; [[TIX2200]] Organisatsioonikäitumine\\<br />&lt; [[TIX2165]] Projektijuhtimine\\<br />&lt; [[TIX2575]] Raha ja pangandus\\<br />&lt; [[TIX2550]] Rahanduse alused\\<br />&lt; [[TIX2010]] Rahvusvaheline turundus\\<br />&lt; [[ITX0025]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[TIX2310]] Sotsioloogia\\<br />&lt; [[TIX2070]] Töökeskkond ja ergonoomika\\<br />&lt; [[TIX2100]] Turundus\\<br />&lt; [[TIX2175]] Turu-uuring ja turu planeerimine\\<br />&lt; [[TIX0050]] Uurimistöö I\\<br />&lt; [[TIX0020]] Uurimistöö II\\<br />&lt; ===</strong> TVTB03<strong class="changes">/07</strong> - <strong class="changes">Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=5078&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLI2020]] Akadeemiline inglise keel\\<br />&lt; [[IDU2001]] Äriinfosüsteemid\\<br />&lt; [[TIX2150]] Ärisuhtlus\\<br />&lt; [[TIX2320]] Äritegevuse õiguslik keskkond\\<br />&lt; [[IDY0315]] E-äri\\<br />&lt; [[HLI2200]] Eesti keel ja kultuur I\\<br />&lt; [[TIX2220]] Ettevõtlus\\<br />&lt; [[TIX2330]] Euroopa Liidu õigus\\<br />&lt; [[TIX2820]] Finantsanalüüsi alused\\<br />&lt; [[TIX2810]] Finantsarvestuse alused\\<br />&lt; [[TIX2610]] Finantsjuhtimine\\<br />&lt; [[IDK2080]] Infotehnoloogia\\<br />&lt; [[HLI2101]] Inglise ärikeel I\\<br />&lt; [[HLI2102]] Inglise ärikeel II\\<br />&lt; [[HLI2010]] Inglise keel\\<br />&lt; [[TIX2830]] Juhtimisarvestus\\<br />&lt; [[TIX2020]] Kinnisvara ökonoomika\\<br />&lt; [[TIX2560]] Kvantitatiivsed meetodid\\<br />&lt; [[TIX2140]] Logistika\\<br />&lt; [[TIX2530]] Majandusteooria I\\<br />&lt; [[TIX2540]] Majandusteooria II\\<br />&lt; [[TIX2520]] Matemaatika\\<br />&lt; [[TIX2120]] Operatsioonijuhtimine\\<br />&lt; [[TIX2130]] Õpingukorraldus\\<br />&lt; [[TIX2200]] Organisatsioonikäitumine\\<br />&lt; [[TIX2160]] Projektijuhtimine\\<br />&lt; [[TIX2570]] Raha ja pangandus\\<br />&lt; [[TIX2550]] Rahanduse alused\\<br />&lt; [[TIX2010]] Rahvusvaheline turundus\\<br />&lt; [[ITX0025]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[TIX2310]] Sotsioloogia\\<br />&lt; [[TIX2510]] Teadustöö meetodid\\<br />&lt; [[TIX2070]] Töökeskkond ja ergonoomika\\<br />&lt; [[TIX2100]] Turundus\\<br />&lt; [[TIX2170]] Turundusuuring ja turunduse planeerimine\\<br />&lt; [[TIX0050]] Uurimistöö I\\<br />&lt; [[TIX0020]] Uurimistöö II\\<br />&lt; ===</strong> TVTB03<strong class="changes">/03</strong> - <strong class="changes">Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=1248&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLI2020]] Akadeemiline inglise keel\\<br />&lt; [[IDU2001]] Äriinfosüsteemid\\<br />&lt; [[TMM2350]] Ärisuhtlus\\<br />&lt; [[TTO2120]] Äritegevuse õiguslik keskkond\\<br />&lt; [[IDY0315]] E</strong>-<strong class="changes">äri\\<br />&lt; [[HLI2200]] Eesti keel ja kultuur I\\<br />&lt; [[TMV2200]] Ettevõtlus\\<br />&lt; [[TTO2110]] Euroopa Liidu õigus\\<br />&lt; [[TAK2020]] Finantsanalüüsi alused\\<br />&lt; [[TAF2070]] Finantsarvestuse alused\\<br />&lt; [[TER2610]] Finantsjuhtimine\\<br />&lt; [[IDK2080]] Infotehnoloogia\\<br />&lt; [[HLI2101]] Inglise ärikeel I\\<br />&lt; [[HLI2102]] Inglise ärikeel II\\<br />&lt; [[HLI2010]] Inglise keel\\<br />&lt; [[TMO2400]] Inimressursside juhtimine\\<br />&lt; [[TMJ2010]] Kinnisvara ökonoomika\\<br />&lt; [[TES2120]] Kvantitatiivsed meetodid\\<br />&lt; [[TMJ2030]] Logistika\\<br />&lt; [[TET2110]] Majandusteooria I\\<br />&lt; [[TET2120]] Majandusteooria II\\<br />&lt; [[TEM2110]] Matemaatika\\<br />&lt; [[TMK2100]] Operatsioonijuhtimine\\<br />&lt; [[TMK2130]] Õpingukorraldus\\<br />&lt; [[TMO2300]] Organisatsioonikäitumine\\<br />&lt; [[TMK2120]] Projektijuhtimine\\<br />&lt; [[TER0210]] Raha ja pangandus\\<br />&lt; [[TER2641]] Rahanduse alused\\<br />&lt; [[TMM2210]] Rahvusvaheline turundus\\<br />&lt; [[ITX0025]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[TTS2110]] Sotsioloogia\\<br />&lt; [[TES2110]] Teadustöö meetodid\\<br />&lt; [[TMT2070]] Töökeskkond ja ergonoomika\\<br />&lt; [[TMM2100]] Turundus\\<br />&lt; [[TMM2270]] Turundusuuring ja turunduse planeerimine\\<br />&lt; [[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)\\<br />&lt; [[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>TVTB03-<strong class="changes">11"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>TVTB03-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>TVTB03-<strong class="changes">07"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "TVTB03</strong>-<strong class="changes">03"&gt;</strong></p></div>
 ip: 89.235.235.166
-ts: 1391203875
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
+ts: 1408885904
+minor: 1
+host: 89.235.223.25
 username: Bot
-revision: 1
-summary: AutomaticUpdate
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
 languages: 
-text: === TVTB03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50159&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[TMM2540]] Ärisuhtlus\\
-	[[TTO2020]] Äritegevuse õiguslik keskkond\\
-	[[HLE2200]] Eesti keel ja kultuur I\\
-	[[TSK0025]] Erialane inglise keel I\\
-	[[TMJ2220]] Ettevõtlus\\
-	[[TMM2170]] E-turundus\\
-	[[TTO2021]] Euroopa Liidu õigus\\
-	[[HHF3081]] Filosoofia\\
-	[[TAK2825]] Finantsanalüüsi alused\\
-	[[TAF2810]] Finantsarvestuse alused\\
-	[[TAF2060]] Finantsarvestuse keskkursus\\
-	[[TER2620]] Finantsjuhtimine\\
-	[[IDK2081]] Infotehnoloogia\\
-	[[TSK0020]] Inglise keel I\\
-	[[TMO2210]] Juhtimine\\
-	[[TAK2830]] Juhtimisarvestus\\
-	[[TMJ2025]] Kinnisvara rahandus\\
-	[[TAK2030]] Kuluarvestus\\
-	[[TTS2320]] Kvalitatiivsed uurimismeetodid\\
-	[[TEM2565]] Kvantitatiivsed meetodid\\
-	[[TMJ2141]] Logistika\\
-	[[TSK0026]] Majandusalane inglise keel I\\
-	[[TSK0027]] Majandusalane inglise keel II\\
-	[[TET2535]] Majandusteooria I\\
-	[[TET2540]] Majandusteooria II\\
-	[[TAF2050]] Maksundus\\
-	[[TEM2520]] Matemaatika\\
-	[[TMK2190]] Operatsioonijuhtimine\\
-	[[UTT0010]] Õpingukorraldus\\
-	[[TMO2220]] Organisatsioonikäitumine\\
-	[[TTR2020]] Projektijuhtimine\\
-	[[TER2575]] Raha ja pangandus\\
-	[[TER2550]] Rahanduse alused\\
-	[[TMM2160]] Rahvusvaheline turundus\\
-	[[ITX0025]] Sissejuhatus infotehnoloogiasse\\
-	[[TTS2310]] Sotsioloogia\\
-	[[TMT2020]] Töökeskkond ja ergonoomika\\
-	[[TMM2150]] Turundus\\
-	[[TMM2120]] Turunduse juhtimine\\
-	[[TMM2560]] Turunduskommunikatsioon I\\
-	[[TMM2340]] Turu-uuring ja turu planeerimine\\
-	[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)\\
-	[[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)\\
-	=== TVTB03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50068&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[TIX2150]] Ärisuhtlus\\
-	[[TIX2320]] Äritegevuse õiguslik keskkond\\
-	[[HLE2200]] Eesti keel ja kultuur I\\
-	[[TSK0025]] Erialane inglise keel I\\
-	[[TIX2220]] Ettevõtlus\\
-	[[TIX2685]] E-turundus\\
-	[[TIX2335]] Euroopa Liidu õigus\\
-	[[TIX3730]] Filosoofia\\
-	[[TIX2825]] Finantsanalüüsi alused\\
-	[[TIX2810]] Finantsarvestuse alused\\
-	[[TIX2610]] Finantsjuhtimine\\
-	[[IDK2081]] Infotehnoloogia\\
-	[[TSK0020]] Inglise keel I\\
-	[[TIX2735]] Juhtimine\\
-	[[TIX2830]] Juhtimisarvestus\\
-	[[TIX2025]] Kinnisvara ökonoomika\\
-	[[TIX2515]] Kvalitatiivsed uurimismeetodid\\
-	[[TIX2565]] Kvantitatiivsed meetodid\\
-	[[TIX2141]] Logistika\\
-	[[TSK0026]] Majandusalane inglise keel I\\
-	[[TSK0027]] Majandusalane inglise keel II\\
-	[[TIX2530]] Majandusteooria I\\
-	[[TIX2540]] Majandusteooria II\\
-	[[TIX2520]] Matemaatika\\
-	[[TIX2120]] Operatsioonijuhtimine\\
-	[[TIX2135]] Õpingukorraldus\\
-	[[TIX2200]] Organisatsioonikäitumine\\
-	[[TIX2165]] Projektijuhtimine\\
-	[[TIX2575]] Raha ja pangandus\\
-	[[TIX2550]] Rahanduse alused\\
-	[[TIX2010]] Rahvusvaheline turundus\\
-	[[ITX0025]] Sissejuhatus infotehnoloogiasse\\
-	[[TIX2310]] Sotsioloogia\\
-	[[TIX2070]] Töökeskkond ja ergonoomika\\
-	[[TIX2100]] Turundus\\
-	[[TIX2175]] Turu-uuring ja turu planeerimine\\
-	[[TIX0050]] Uurimistöö I\\
-	[[TIX0020]] Uurimistöö II\\
-	=== TVTB03/07 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=5078&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLI2020]] Akadeemiline inglise keel\\
-	[[IDU2001]] Äriinfosüsteemid\\
-	[[TIX2150]] Ärisuhtlus\\
-	[[TIX2320]] Äritegevuse õiguslik keskkond\\
-	[[IDY0315]] E-äri\\
-	[[HLI2200]] Eesti keel ja kultuur I\\
-	[[TIX2220]] Ettevõtlus\\
-	[[TIX2330]] Euroopa Liidu õigus\\
-	[[TIX2820]] Finantsanalüüsi alused\\
-	[[TIX2810]] Finantsarvestuse alused\\
-	[[TIX2610]] Finantsjuhtimine\\
-	[[IDK2080]] Infotehnoloogia\\
-	[[HLI2101]] Inglise ärikeel I\\
-	[[HLI2102]] Inglise ärikeel II\\
-	[[HLI2010]] Inglise keel\\
-	[[TIX2830]] Juhtimisarvestus\\
-	[[TIX2020]] Kinnisvara ökonoomika\\
-	[[TIX2560]] Kvantitatiivsed meetodid\\
-	[[TIX2140]] Logistika\\
-	[[TIX2530]] Majandusteooria I\\
-	[[TIX2540]] Majandusteooria II\\
-	[[TIX2520]] Matemaatika\\
-	[[TIX2120]] Operatsioonijuhtimine\\
-	[[TIX2130]] Õpingukorraldus\\
-	[[TIX2200]] Organisatsioonikäitumine\\
-	[[TIX2160]] Projektijuhtimine\\
-	[[TIX2570]] Raha ja pangandus\\
-	[[TIX2550]] Rahanduse alused\\
-	[[TIX2010]] Rahvusvaheline turundus\\
-	[[ITX0025]] Sissejuhatus infotehnoloogiasse\\
-	[[TIX2310]] Sotsioloogia\\
-	[[TIX2510]] Teadustöö meetodid\\
-	[[TIX2070]] Töökeskkond ja ergonoomika\\
-	[[TIX2100]] Turundus\\
-	[[TIX2170]] Turundusuuring ja turunduse planeerimine\\
-	[[TIX0050]] Uurimistöö I\\
-	[[TIX0020]] Uurimistöö II\\
-	=== TVTB03/03 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=1248&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
-	[[HLI2020]] Akadeemiline inglise keel\\
-	[[IDU2001]] Äriinfosüsteemid\\
-	[[TMM2350]] Ärisuhtlus\\
-	[[TTO2120]] Äritegevuse õiguslik keskkond\\
-	[[IDY0315]] E-äri\\
-	[[HLI2200]] Eesti keel ja kultuur I\\
-	[[TMV2200]] Ettevõtlus\\
-	[[TTO2110]] Euroopa Liidu õigus\\
-	[[TAK2020]] Finantsanalüüsi alused\\
-	[[TAF2070]] Finantsarvestuse alused\\
-	[[TER2610]] Finantsjuhtimine\\
-	[[IDK2080]] Infotehnoloogia\\
-	[[HLI2101]] Inglise ärikeel I\\
-	[[HLI2102]] Inglise ärikeel II\\
-	[[HLI2010]] Inglise keel\\
-	[[TMO2400]] Inimressursside juhtimine\\
-	[[TMJ2010]] Kinnisvara ökonoomika\\
-	[[TES2120]] Kvantitatiivsed meetodid\\
-	[[TMJ2030]] Logistika\\
-	[[TET2110]] Majandusteooria I\\
-	[[TET2120]] Majandusteooria II\\
-	[[TEM2110]] Matemaatika\\
-	[[TMK2100]] Operatsioonijuhtimine\\
-	[[TMK2130]] Õpingukorraldus\\
-	[[TMO2300]] Organisatsioonikäitumine\\
-	[[TMK2120]] Projektijuhtimine\\
-	[[TER0210]] Raha ja pangandus\\
-	[[TER2641]] Rahanduse alused\\
-	[[TMM2210]] Rahvusvaheline turundus\\
-	[[ITX0025]] Sissejuhatus infotehnoloogiasse\\
-	[[TTS2110]] Sotsioloogia\\
-	[[TES2110]] Teadustöö meetodid\\
-	[[TMT2070]] Töökeskkond ja ergonoomika\\
-	[[TMM2100]] Turundus\\
-	[[TMM2270]] Turundusuuring ja turunduse planeerimine\\
-	[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)\\
-	[[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)\\
+text: <include "TVTB03-11">
+	
+	<include "TVTB03-09">
+	
+	<include "TVTB03-07">
+	
+	<include "TVTB03-03">
+	
+	
 	
 lastmajor: 1
+keep-ts: 1408885904

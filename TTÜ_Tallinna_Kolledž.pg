@@ -1,26 +1,28 @@
 flags: 01010101010
-blocks: <p>[[BAAB06]] Maastikuarhitektuur<br /><br />[[BDKR02]] Kinnisvara haldamine<br />[[BDRR13]] Kinnisvara korrashoid<br />[[BDMR02]] Majandusarvestus<br />[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus<br /><br /></p>
-diff-minor: <p><strong>Changed:</strong></p>
+blocks: <p>[[BAAB06]] Maastikuarhitektuur</p><p>[[BDKR02]] Kinnisvara haldamine<br />[[BDRR13]] Kinnisvara korrashoid<br />[[BDMR02]] Majandusarvestus<br />[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
+ip: 89.235.235.166
+ts: 1408892849
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 6
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[BDMR02]] Majandusarvestus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[BDMR02]] Majandusarvestus\\<br />&gt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus\\<br />&gt; \\</p></div>
-ip: 89.235.235.166
-ts: 1391265097
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 3
-diff-major: 1
-summary: AutomaticUpdate
+summary: Автоматическое обновление (расписание)
 languages: 
-text: [[BAAB06]] Maastikuarhitektuur\\
-	\\
-	[[BDKR02]] Kinnisvara haldamine\\
-	[[BDRR13]] Kinnisvara korrashoid\\
-	[[BDMR02]] Majandusarvestus\\
-	[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus\\
-	\\
+text: [[BAAB06]] Maastikuarhitektuur
+	
+	[[BDKR02]] Kinnisvara haldamine
+	[[BDRR13]] Kinnisvara korrashoid
+	[[BDMR02]] Majandusarvestus
+	[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus
+	
+	
 	
 lastmajor: 3
-keep-ts: 1391265097
+keep-ts: 1408892849

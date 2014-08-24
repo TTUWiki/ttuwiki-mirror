@@ -1,0 +1,72 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>EAKM07/09 - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50107&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ISS0090]] Arukad hooned<br />[[ISS0120]] Automaatika alused<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEK0080]] Ehituskonstruktsioonid<br />[[EKE8200]] Elutsükli analüüs<br />[[EKK0062]] Gaasivarustus - projekt<br />[[EKE0070]] Geoinformaatika<br />[[EKK0051]] Hoonete sisekliima<br />[[EKV0031]] Hoone veevärk ja kanalisatsioon I<br />[[EKV0033]] Hoone veevärk ja kanalisatsioon II<br />[[EKV0032]] Hoone veevärk ja kanalisatsioon - projekt<br />[[EMH5020]] Hüdro- ja aeromehaanika<br />[[EKE3050]] Hüdroloogia ja vesiehitised<br />[[EKV0041]] Jäätmekäitlus I<br />[[EKV0042]] Jäätmekäitlus II<br />[[EKK0141]] Jahutus ja külmatehnika<br />[[EKK0142]] Jahutus ja külmatehnika - projekt<br />[[EKE0130]] Jätkusuutliku ettevõtluse strateegiline juhtimine<br />[[HHP3540]] Juhtimispsühholoogia<br />[[EKV0051]] Kanalisatsioonivõrk ja pumplad<br />[[EKV0052]] Kanalisatsioonivõrk ja pumplad - projekt<br />[[MTT0050]] Keevitus<br />[[EKE0100]] Keskkonnakorraldus<br />[[EKE0050]] Keskkonnameetmete ökonoomika<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EKE0110]] Keskkonnapoliitika ja -juhtimissüsteemid<br />[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia<br />[[EKK0090]] Keskkonnasäästlik energeetika<br />[[EKE8110]] Keskkonnaseisundi mõjurid ja seire<br />[[EKV0090]] Korrosioonitõrje<br />[[EKK0011]] Küte<br />[[EKK0130]] Küte ja ventilatsioon<br />[[EKK0012]] Küte - projekt<br />[[EKE0040]] Maastikuökoloogia<br />[[EKK0041]] Õhu konditsioneerimine<br />[[EKK0042]] Õhu konditsioneerimine - projekt<br />[[EKK0100]] Õhu kvaliteet ja atmosfääri kaitse<br />[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus<br />[[EKV0053]] Reoveekäitlus<br />[[EKV0054]] Reoveekäitlus - projekt<br />[[MSE0061]] Soojusgeneraatorid<br />[[MSE0062]] Soojusgeneraatorid - ainetöö<br />[[EKK0080]] Soojustehnika<br />[[EKK0031]] Soojusvarustus<br />[[EKK0032]] Soojusvarustus - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[EPJ3940]] Tehnovõrkude ekspluatatsioon<br />[[EKK0110]] Tehnovõrkude renoveerimine<br />[[EKV3103]] Tootmispraktika<br />[[EKV0021]] Ühisveevärk I<br />[[EKV0022]] Ühisveevärk II<br />[[EKV0023]] Ühisveevärk II - projekt<br />[[EKE3030]] Vee keemia ja mikrobioloogia<br />[[EKV0110]] Veekogude veekvaliteet ja veesääst<br />[[EXX0030]] Veetorustikud ja modelleerimine<br />[[EKK0021]] Ventilatsioon<br />[[EKK0022]] Ventilatsioon - projekt</p>
+diff-minor: 
+ts: 1408891336
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EAKM07/09 - Keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50107&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[ISS0090]] Arukad hooned
+	[[ISS0120]] Automaatika alused
+	[[HLE6060]] Eesti keele väljendusõpetus
+	[[EEK0080]] Ehituskonstruktsioonid
+	[[EKE8200]] Elutsükli analüüs
+	[[EKK0062]] Gaasivarustus - projekt
+	[[EKE0070]] Geoinformaatika
+	[[EKK0051]] Hoonete sisekliima
+	[[EKV0031]] Hoone veevärk ja kanalisatsioon I
+	[[EKV0033]] Hoone veevärk ja kanalisatsioon II
+	[[EKV0032]] Hoone veevärk ja kanalisatsioon - projekt
+	[[EMH5020]] Hüdro- ja aeromehaanika
+	[[EKE3050]] Hüdroloogia ja vesiehitised
+	[[EKV0041]] Jäätmekäitlus I
+	[[EKV0042]] Jäätmekäitlus II
+	[[EKK0141]] Jahutus ja külmatehnika
+	[[EKK0142]] Jahutus ja külmatehnika - projekt
+	[[EKE0130]] Jätkusuutliku ettevõtluse strateegiline juhtimine
+	[[HHP3540]] Juhtimispsühholoogia
+	[[EKV0051]] Kanalisatsioonivõrk ja pumplad
+	[[EKV0052]] Kanalisatsioonivõrk ja pumplad - projekt
+	[[MTT0050]] Keevitus
+	[[EKE0100]] Keskkonnakorraldus
+	[[EKE0050]] Keskkonnameetmete ökonoomika
+	[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit
+	[[EKE0110]] Keskkonnapoliitika ja -juhtimissüsteemid
+	[[EKE0060]] Keskkonnariski hindamine ja ökotoksikoloogia
+	[[EKK0090]] Keskkonnasäästlik energeetika
+	[[EKE8110]] Keskkonnaseisundi mõjurid ja seire
+	[[EKV0090]] Korrosioonitõrje
+	[[EKK0011]] Küte
+	[[EKK0130]] Küte ja ventilatsioon
+	[[EKK0012]] Küte - projekt
+	[[EKE0040]] Maastikuökoloogia
+	[[EKK0041]] Õhu konditsioneerimine
+	[[EKK0042]] Õhu konditsioneerimine - projekt
+	[[EKK0100]] Õhu kvaliteet ja atmosfääri kaitse
+	[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus
+	[[EKV0053]] Reoveekäitlus
+	[[EKV0054]] Reoveekäitlus - projekt
+	[[MSE0061]] Soojusgeneraatorid
+	[[MSE0062]] Soojusgeneraatorid - ainetöö
+	[[EKK0080]] Soojustehnika
+	[[EKK0031]] Soojusvarustus
+	[[EKK0032]] Soojusvarustus - projekt
+	[[HLX8040]] Teadusvõõrkeel
+	[[EPJ3940]] Tehnovõrkude ekspluatatsioon
+	[[EKK0110]] Tehnovõrkude renoveerimine
+	[[EKV3103]] Tootmispraktika
+	[[EKV0021]] Ühisveevärk I
+	[[EKV0022]] Ühisveevärk II
+	[[EKV0023]] Ühisveevärk II - projekt
+	[[EKE3030]] Vee keemia ja mikrobioloogia
+	[[EKV0110]] Veekogude veekvaliteet ja veesääst
+	[[EXX0030]] Veetorustikud ja modelleerimine
+	[[EKK0021]] Ventilatsioon
+	[[EKK0022]] Ventilatsioon - projekt
+	
+	
+keep-ts: 1408891336

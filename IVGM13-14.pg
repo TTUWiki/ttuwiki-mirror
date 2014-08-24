@@ -1,0 +1,45 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IVGM13/14 - E-riigi tehnoloogiad ja teenused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50266&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[HHA1530]] Arengupoliitikad ja üleilmastumine<br />[[IDU0320]] Äriinfosüsteemid<br />[[IDU0330]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse<br />[[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused<br />[[IDU0410]] E-demokraatia kontseptsioonid<br />[[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IDU0460]] Ettevõtte äriarhitektuuri arendamine<br />[[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud<br />[[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine<br />[[HOE7210]] E-valitsuse õiguslikud aspektid<br />[[HHL1040]] Haldusjuhtimine ja avalik haldus<br />[[IDU0430]] Infohaldus ja digiarhiivindus<br />[[IDU0405]] Infoühiskonna kontseptsioonid ja põhimõtted<br />[[HHI1110]] Innovatsioon<br />[[IDU0480]] Küberturbe põhialused<br />[[IDU0450]] Meeskonnatöö - projekt<br />[[HHM1030]] Poliitikate kujundamine<br />[[IDU006P]] Praktika<br />[[HHA1450]] Riik ja valitsemine<br />[[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine<br />[[IDU0455]] Sissejuhatus pilvepõhiste süsteemide arendusse<br />[[IDU0470]] Teenuskeskne käsitlus avalikus sektoris<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[IDU0475]] Turvalisus ja privaatsus võrgupõhises maailmas<br />[[IDU0440]] Virtuaalkeskkondade kasutatavus</p>
+diff-minor: 
+ts: 1408891458
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IVGM13/14 - E-riigi tehnoloogiad ja teenused [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50266&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	[[HHA1530]] Arengupoliitikad ja üleilmastumine
+	[[IDU0320]] Äriinfosüsteemid
+	[[IDU0330]] Äriprotsesside modelleerimine ja automatiseerimine
+	[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse
+	[[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused
+	[[IDU0410]] E-demokraatia kontseptsioonid
+	[[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika
+	[[TMJ3331]] Ettevõtlus ja äri planeerimine
+	[[IDU0460]] Ettevõtte äriarhitektuuri arendamine
+	[[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud
+	[[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine
+	[[HOE7210]] E-valitsuse õiguslikud aspektid
+	[[HHL1040]] Haldusjuhtimine ja avalik haldus
+	[[IDU0430]] Infohaldus ja digiarhiivindus
+	[[IDU0405]] Infoühiskonna kontseptsioonid ja põhimõtted
+	[[HHI1110]] Innovatsioon
+	[[IDU0480]] Küberturbe põhialused
+	[[IDU0450]] Meeskonnatöö - projekt
+	[[HHM1030]] Poliitikate kujundamine
+	[[IDU006P]] Praktika
+	[[HHA1450]] Riik ja valitsemine
+	[[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine
+	[[IDU0455]] Sissejuhatus pilvepõhiste süsteemide arendusse
+	[[IDU0470]] Teenuskeskne käsitlus avalikus sektoris
+	[[HHL1250]] Tehnoloogia ja ühiskond
+	[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi
+	[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad
+	[[IDU0475]] Turvalisus ja privaatsus võrgupõhises maailmas
+	[[IDU0440]] Virtuaalkeskkondade kasutatavus
+	
+	
+keep-ts: 1408891458

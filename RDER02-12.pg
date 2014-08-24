@@ -1,0 +1,67 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>RDER02/12 - Masinaehitustehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50191&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine<br />[[RAR2081]] Arvutigraafika I<br />[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid<br />[[RAR1250]] Elektriajamid<br />[[RAA0070]] Elektroonika alused<br />[[RAA0060]] Elektrotehnika alused<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAE0320]] Erialapraktika I<br />[[RAE0330]] Erialapraktika II<br />[[RAH0910]] Ettevõtlus<br />[[RAH0120]] Filosoofia<br />[[RAR0070]] Hüdro- ja pneumoajam<br />[[RAR3111]] Informaatika I<br />[[RAE0220]] Integreeritud tehnoloogiaarendus<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR1990]] Kujutav geomeetria<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAE0270]] Masinaehitustehnoloogia projekt<br />[[RAE0351]] Masinaelemendid<br />[[RAE0352]] Masinaelemendid - projekt<br />[[RAE0341]] Masinamehaanika<br />[[RAE0342]] Masinamehaanika - projekt<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR2610]] Materjalitehnika<br />[[RAE0290]] Metroloogia ja kvaliteet<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAR0061]] Õppepraktika<br />[[RAR2770]] Programmeerimise alused<br />[[RAR3180]] Raalprojekteerimise alused<br />[[RAR3460]] Riski- ja ohutusõpetus<br />[[RAR1300]] Robotitehnika<br />[[RAR1290]] Tehniline füüsika<br />[[RAE0260]] Tehniline joonestamine<br />[[RAE0280]] Tehniline mõõtmine<br />[[RAE0310]] Teoreetiline mehaanika<br />[[RAE0230]] Tolerantsid ja istud<br />[[RAH0920]] Töö- ja palgakorraldus<br />[[RAR0062]] Töökeskkonna praktika<br />[[RAH0950]] Tootlikkuse juhtimine<br />[[RAR3360]] Tootmise plaanimine<br />[[RAE0240]] Tootmisseadmete korrashoid<br />[[RAR3470]] Tootmistehnika alused<br />[[RAE0250]] Tõste- ja edastusmasinad<br />[[RAE0301]] Tugevusõpetus I<br />[[RAE0302]] Tugevusõpetus II<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus</p>
+diff-minor: 
+ts: 1408891562
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == RDER02/12 - Masinaehitustehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50191&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine
+	[[RAR2081]] Arvutigraafika I
+	[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid
+	[[RAR1250]] Elektriajamid
+	[[RAA0070]] Elektroonika alused
+	[[RAA0060]] Elektrotehnika alused
+	[[RAX0511]] Erialane võõrkeel I
+	[[RAX0512]] Erialane võõrkeel II
+	[[RAE0320]] Erialapraktika I
+	[[RAE0330]] Erialapraktika II
+	[[RAH0910]] Ettevõtlus
+	[[RAH0120]] Filosoofia
+	[[RAR0070]] Hüdro- ja pneumoajam
+	[[RAR3111]] Informaatika I
+	[[RAE0220]] Integreeritud tehnoloogiaarendus
+	[[RAH3170]] Keskkonnakaitse
+	[[RAR1990]] Kujutav geomeetria
+	[[RAR3050]] Lineaaralgebra
+	[[RAR3270]] Makro- ja mikroökonoomika
+	[[RAE0270]] Masinaehitustehnoloogia projekt
+	[[RAE0351]] Masinaelemendid
+	[[RAE0352]] Masinaelemendid - projekt
+	[[RAE0341]] Masinamehaanika
+	[[RAE0342]] Masinamehaanika - projekt
+	[[RAR3061]] Matemaatiline analüüs I
+	[[RAR3072]] Matemaatiline analüüs II
+	[[RAR2610]] Materjalitehnika
+	[[RAE0290]] Metroloogia ja kvaliteet
+	[[RAR3210]] Mikroprotsessortehnika
+	[[RAH3140]] Õigusõpetus
+	[[RAR2800]] Õpingukorraldus
+	[[RAR0061]] Õppepraktika
+	[[RAR2770]] Programmeerimise alused
+	[[RAR3180]] Raalprojekteerimise alused
+	[[RAR3460]] Riski- ja ohutusõpetus
+	[[RAR1300]] Robotitehnika
+	[[RAR1290]] Tehniline füüsika
+	[[RAE0260]] Tehniline joonestamine
+	[[RAE0280]] Tehniline mõõtmine
+	[[RAE0310]] Teoreetiline mehaanika
+	[[RAE0230]] Tolerantsid ja istud
+	[[RAH0920]] Töö- ja palgakorraldus
+	[[RAR0062]] Töökeskkonna praktika
+	[[RAH0950]] Tootlikkuse juhtimine
+	[[RAR3360]] Tootmise plaanimine
+	[[RAE0240]] Tootmisseadmete korrashoid
+	[[RAR3470]] Tootmistehnika alused
+	[[RAE0250]] Tõste- ja edastusmasinad
+	[[RAE0301]] Tugevusõpetus I
+	[[RAE0302]] Tugevusõpetus II
+	[[RAX0480]] Üldvõõrkeel
+	[[RAH0740]] Väljendusõpetus
+	
+	
+keep-ts: 1408891562

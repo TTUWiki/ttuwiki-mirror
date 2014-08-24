@@ -1,0 +1,58 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IATB02/09 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50023&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IRZ0030]] Digisignaalide töötlemine<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0150]] Elektroonika<br />[[IRT010P]] Erialapraktika<br />[[IRT0200]] Erialatutvustus<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IRZ0020]] Kodeerimine ja krüpteerimine<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IRM0050]] Mikrolainetehnika - ainetöö<br />[[IRO0010]] Modulatsioon<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IRZ0010]] Pidevsignaalide töötlemine<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[IRO0021]] Raadiosageduslik skeemitehnika<br />[[IRM0040]] Raadioseadmete disain<br />[[IRO0041]] Raadiotehnika - ainetöö<br />[[IRT3930]] Side<br />[[IRT0010]] Sidemeetodid<br />[[IRT0020]] Sidevõrgud<br />[[IRT0060]] Sidevõrgud - ainetöö<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRM0020]] Signaalide transmissioon<br />[[IRZ0040]] Signaalitöötlus - ainetöö<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[ISS0010]] Süsteemiteooria<br />[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus</p>
+diff-minor: 
+ts: 1408891444
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == IATB02/09 - Telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50023&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[IRM0030]] Antennid ja RF elektroonika
+	[[IAF0041]] Arvutid
+	[[ISP0040]] Arvutivõrgud
+	[[IRZ0030]] Digisignaalide töötlemine
+	[[IAY0010]] Diskreetne matemaatika
+	[[IED0150]] Elektroonika
+	[[IRT010P]] Erialapraktika
+	[[IRT0200]] Erialatutvustus
+	[[HHF3080]] Filosoofia
+	[[YFR0011]] Füüsika I
+	[[YFR0012]] Füüsika II
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[IRZ0020]] Kodeerimine ja krüpteerimine
+	[[IRM0010]] Laineväljad
+	[[YMA3710]] Lineaaralgebra
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM3740]] Matemaatiline analüüs II
+	[[TET3070]] Mikro- ja makroökonoomika
+	[[IRM0050]] Mikrolainetehnika - ainetöö
+	[[IRO0010]] Modulatsioon
+	[[ISS0050]] Mõõtmine
+	[[TTO3160]] Õigusõpetus
+	[[UTT0010]] Õpingukorraldus
+	[[IRZ0010]] Pidevsignaalide töötlemine
+	[[IAG0581]] Programmeerimine I
+	[[IAG0582]] Programmeerimine II
+	[[IRO0021]] Raadiosageduslik skeemitehnika
+	[[IRM0040]] Raadioseadmete disain
+	[[IRO0041]] Raadiotehnika - ainetöö
+	[[IRT3930]] Side
+	[[IRT0010]] Sidemeetodid
+	[[IRT0020]] Sidevõrgud
+	[[IRT0060]] Sidevõrgud - ainetöö
+	[[ISC0011]] Sidud, süsteemid, signaalid
+	[[IRM0020]] Signaalide transmissioon
+	[[IRZ0040]] Signaalitöötlus - ainetöö
+	[[IDU3350]] Sissejuhatus infosüsteemidesse
+	[[ITV0010]] Sissejuhatus infotehnoloogiasse
+	[[ISS0010]] Süsteemiteooria
+	[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid
+	[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika
+	[[ISS0110]] Väljendusoskus
+	
+	
+keep-ts: 1408891444

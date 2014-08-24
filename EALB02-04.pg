@@ -1,0 +1,60 @@
+flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>EALB02/04 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=3723&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[TMJ0150]] Äri planeerimine<br />[[TAF3141]] Arvestuse alused<br />[[ETV3180]] Erialapraktika<br />[[ETV0080]] Eriala tutvumispraktika<br />[[TMO0030]] Ettevõtte organisatsioon ja juhtimine<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[TER3200]] Finantsriskid logistikas<br />[[YFR0020]] Füüsika<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[TMO0010]] Juhtimine<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[TTO3280]] Lepinguõigus<br />[[YMA3710]] Lineaaralgebra<br />[[ETV0020]] Logistika<br />[[ETV3131]] Logistika infrastruktuur<br />[[ETV3132]] Logistika infrastruktuur - ainetöö<br />[[TTR0010]] Majandusajalugu<br />[[TTR0020]] Majandusgeograafia<br />[[TEM0222]] Majandusmatemaatika IIE<br />[[TTP0010]] Majanduspoliitika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3210]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[TMK0010]] Operatsioonijuhtimine<br />[[UTT0010]] Õpingukorraldus<br />[[TTO3371]] Rahvusvaheline majandusõigus<br />[[MEA5350]] Rahvusvaheliste vedude lepingud ja normid<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[TES0020]] Statistika<br />[[TMM3670]] Tollinduse alused<br />[[TTO3240]] Tööõigus<br />[[MEA5320]] Transpordiettevõtte infosüsteem<br />[[TMJ3710]] Transpordiökonoomika<br />[[ETV0170]] Transpordiplaneerimise alused<br />[[ETV0120]] Transport<br />[[TMM0100]] Turundus<br />[[TMM0080]] Turunduse juhtimine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[MEA3360]] Varud ja ladustamine<br />[[IDU0130]] Võrgurakendused</p>
+diff-minor: 
+ts: 1408891338
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == EALB02/04 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=3723&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[TMJ0150]] Äri planeerimine
+	[[TAF3141]] Arvestuse alused
+	[[ETV3180]] Erialapraktika
+	[[ETV0080]] Eriala tutvumispraktika
+	[[TMO0030]] Ettevõtte organisatsioon ja juhtimine
+	[[HHF0010]] Filosoofia põhiprobleemid
+	[[TER3200]] Finantsriskid logistikas
+	[[YFR0020]] Füüsika
+	[[IDK0011]] Informaatika I
+	[[IDK0012]] Informaatika II
+	[[TMO0010]] Juhtimine
+	[[YKI3030]] Keemia ja materjaliõpetus
+	[[EKE3710]] Keskkonnakaitse
+	[[TTO3280]] Lepinguõigus
+	[[YMA3710]] Lineaaralgebra
+	[[ETV0020]] Logistika
+	[[ETV3131]] Logistika infrastruktuur
+	[[ETV3132]] Logistika infrastruktuur - ainetöö
+	[[TTR0010]] Majandusajalugu
+	[[TTR0020]] Majandusgeograafia
+	[[TEM0222]] Majandusmatemaatika IIE
+	[[TTP0010]] Majanduspoliitika
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[TET3210]] Mikro- ja makroökonoomika
+	[[TTO3160]] Õigusõpetus
+	[[TMK0010]] Operatsioonijuhtimine
+	[[UTT0010]] Õpingukorraldus
+	[[TTO3371]] Rahvusvaheline majandusõigus
+	[[MEA5350]] Rahvusvaheliste vedude lepingud ja normid
+	[[TMT3820]] Riski- ja ohutusõpetus
+	[[IDU3530]] Sissejuhatus infosüsteemidesse
+	[[TES0020]] Statistika
+	[[TMM3670]] Tollinduse alused
+	[[TTO3240]] Tööõigus
+	[[MEA5320]] Transpordiettevõtte infosüsteem
+	[[TMJ3710]] Transpordiökonoomika
+	[[ETV0170]] Transpordiplaneerimise alused
+	[[ETV0120]] Transport
+	[[TMM0100]] Turundus
+	[[TMM0080]] Turunduse juhtimine
+	[[TMM0860]] Turunduskommunikatsioon I
+	[[MEA3360]] Varud ja ladustamine
+	[[IDU0130]] Võrgurakendused
+	
+	
+keep-ts: 1408891338

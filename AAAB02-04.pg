@@ -1,0 +1,56 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>AAAB02/04 - Elektrotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=4093&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[AAR0020]] Automaatjuhtimise alused<br />[[AAV3333]] Elektriajamid - projekt<br />[[AAV0030]] Elektriajamite üldkursus<br />[[AAR3340]] Elektriaparaadid<br />[[AMM3060]] Elektrimasinad<br />[[AEK3041]] Elektrimaterjalid<br />[[AME0030]] Elektrimõõtmised<br />[[AAV3340]] Elektrivarustus<br />[[AAR3320]] Elektroonika ja jõupooljuhttehnika<br />[[AME3140]] Elektrotehnika I<br />[[AME3150]] Elektrotehnika II<br />[[AMM3090]] Elektrotehnoloogia<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[AAV0020]] Jõuelektroonika<br />[[AEK3011]] Kõrgepingetehnika<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[MHE0061]] Masinatehnika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0070]] Materjalitehnika<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[AAR3310]] Mikroprotsessortehnika<br />[[AAR0010]] Mikroprotsessortehnika - praktikum<br />[[AAR3450]] Mõõtetehnika alused<br />[[UTT0010]] Õpingukorraldus<br />[[AAR399P]] Praktika<br />[[AAV3320]] Raalarvutused elektrotehnikas<br />[[AES0010]] Rakenduslik süsteemiteooria<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[AAV3300]] Sissejuhatus energiatehnikasse<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[MSE0100]] Soojustehnika<br />[[AAR0090]] Tehnoloogia ja ajamid<br />[[AAR0040]] Tootmise automatiseerimine</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == AAAB02/04 - Elektrotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=4093&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel<br />&lt; [[AAR0020]] Automaatjuhtimise alused<br />&lt; [[AAV3333]] Elektriajamid - projekt<br />&lt; [[AAV0030]] Elektriajamite üldkursus<br />&lt; [[AAR3340]] Elektriaparaadid<br />&lt; [[AMM3060]] Elektrimasinad<br />&lt; [[AEK3041]] Elektrimaterjalid<br />&lt; [[AME0030]] Elektrimõõtmised<br />&lt; [[AAV3340]] Elektrivarustus<br />&lt; [[AAR3320]] Elektroonika ja jõupooljuhttehnika<br />&lt; [[AME3140]] Elektrotehnika I<br />&lt; [[AME3150]] Elektrotehnika II<br />&lt; [[AMM3090]] Elektrotehnoloogia<br />&lt; [[HHF3070]] Filosoofia<br />&lt; [[YFR0011]] Füüsika I<br />&lt; [[YFR0012]] Füüsika II<br />&lt; [[IDK0011]] Informaatika I<br />&lt; [[IDK0012]] Informaatika II<br />&lt; [[AAV0020]] Jõuelektroonika<br />&lt; [[AEK3011]] Kõrgepingetehnika<br />&lt; [[YGK3340]] Kujutav geomeetria<br />&lt; [[YMA3710]] Lineaaralgebra<br />&lt; [[MHE0061]] Masinatehnika<br />&lt; [[YMM3731]] Matemaatiline analüüs I<br />&lt; [[YMM0012]] Matemaatiline analüüs II<br />&lt; [[MTM0070]] Materjalitehnika<br />&lt; [[TET3070]] Mikro- ja makroökonoomika<br />&lt; [[AAR3310]] Mikroprotsessortehnika<br />&lt; [[AAR0010]] Mikroprotsessortehnika - praktikum<br />&lt; [[AAR3450]] Mõõtetehnika alused<br />&lt; [[UTT0010]] Õpingukorraldus<br />&lt; [[AAR399P]] Praktika<br />&lt; [[AAV3320]] Raalarvutused elektrotehnikas<br />&lt; [[AES0010]] Rakenduslik süsteemiteooria<br />&lt; [[TMT3360]] Riski- ja ohutusõpetus<br />&lt; [[AAV3300]] Sissejuhatus energiatehnikasse<br />&lt; [[AAR0030]] Sissejuhatus robotitehnikasse<br />&lt; [[MSE0100]] Soojustehnika<br />&lt; [[AAR0090]] Tehnoloogia ja ajamid<br />&lt; [[AAR0040]] Tootmise automatiseerimine</p></div>
+ts: 1408891269
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление (расписание)
+languages: 
+text: == AAAB02/04 - Elektrotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=4093&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[AAR0020]] Automaatjuhtimise alused
+	[[AAV3333]] Elektriajamid - projekt
+	[[AAV0030]] Elektriajamite üldkursus
+	[[AAR3340]] Elektriaparaadid
+	[[AMM3060]] Elektrimasinad
+	[[AEK3041]] Elektrimaterjalid
+	[[AME0030]] Elektrimõõtmised
+	[[AAV3340]] Elektrivarustus
+	[[AAR3320]] Elektroonika ja jõupooljuhttehnika
+	[[AME3140]] Elektrotehnika I
+	[[AME3150]] Elektrotehnika II
+	[[AMM3090]] Elektrotehnoloogia
+	[[HHF3070]] Filosoofia
+	[[YFR0011]] Füüsika I
+	[[YFR0012]] Füüsika II
+	[[IDK0011]] Informaatika I
+	[[IDK0012]] Informaatika II
+	[[AAV0020]] Jõuelektroonika
+	[[AEK3011]] Kõrgepingetehnika
+	[[YGK3340]] Kujutav geomeetria
+	[[YMA3710]] Lineaaralgebra
+	[[MHE0061]] Masinatehnika
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[MTM0070]] Materjalitehnika
+	[[TET3070]] Mikro- ja makroökonoomika
+	[[AAR3310]] Mikroprotsessortehnika
+	[[AAR0010]] Mikroprotsessortehnika - praktikum
+	[[AAR3450]] Mõõtetehnika alused
+	[[UTT0010]] Õpingukorraldus
+	[[AAR399P]] Praktika
+	[[AAV3320]] Raalarvutused elektrotehnikas
+	[[AES0010]] Rakenduslik süsteemiteooria
+	[[TMT3360]] Riski- ja ohutusõpetus
+	[[AAV3300]] Sissejuhatus energiatehnikasse
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[MSE0100]] Soojustehnika
+	[[AAR0090]] Tehnoloogia ja ajamid
+	[[AAR0040]] Tootmise automatiseerimine
+	
+	
+keep-ts: 1408891269
