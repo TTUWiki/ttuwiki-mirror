@@ -1,19 +1,20 @@
-flags: 010
-blocks: <h2>Linnaruumi dimensioonid [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=106304&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Linnaruumi dimensioonid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>106304<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Linnaruumi dimensioonid<br />&gt; <strong class="changes">#SUBURL: Course:</strong>106304</p></div>
+ip: 89.235.235.166
+ts: 1408846388
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=</strong>Linnaruumi dimensioonid</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==</strong>Linnaruumi dimensioonid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=106304&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-ip: 89.235.235.166
-ts: 1391302860
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 2
-diff-major: 1
-summary: AutomaticUpdate
+summary: Refactoring
 languages: 
-text: ==Linnaruumi dimensioonid [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=106304&p_public=1&p_mode=1]
+text: #SUBTITLE Linnaruumi dimensioonid
+	#SUBURL: Course:106304
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 2
-keep-ts: 1391302860
+keep-ts: 1408846388

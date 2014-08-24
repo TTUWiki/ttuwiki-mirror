@@ -1,14 +1,18 @@
-flags: 010
-blocks: <h2>Akadeemiline saksa keel [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=34860&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Akadeemiline saksa keel <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>34860<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Akadeemiline saksa keel<br />&gt; <strong class="changes">#SUBURL: Course:</strong>34860</p></div>
 ip: 89.235.231.110
-ts: 1391342366
-minor: 
-host: 89-235-231-110.saturn.infonet.ee
-username: AlexDaniel
-revision: 1
-summary: ==Akadeemiline saksa keel . . .
+ts: 1408847109
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 2
+diff-major: 
+summary: Refactoring
 languages: 
-text: ==Akadeemiline saksa keel [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=34860&p_public=1&p_mode=1]
+text: #SUBTITLE Akadeemiline saksa keel
+	#SUBURL: Course:34860
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 1
+keep-ts: 1408847109

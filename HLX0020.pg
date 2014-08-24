@@ -1,17 +1,18 @@
-flags: 0101010101010
-blocks: <h2>Akadeemiline võõrkeel [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=30724&amp;p_public=1&amp;p_mode=1]</h2><ul><li>[[HLI0020]] Akadeemiline inglise keel</li><li>[[HLS0020]] Akadeemiline saksa keel</li><li>[[HLS0120]] Akadeemiline prantsuse keel</li><li>[[HLE0120]] Akadeemiline vene keel<br /></li></ul><hr /><p>Inglise (HLI0020), saksa (HLS0020), prantsuse (HLS0120) või vene (HLE0120). Скорее всего пойдет разделение, студенты начнут выбирать разные предметы. Может, входя в этот раздел, здесь вутри будет еще 4 подраздела?</p><p>&#x2013; Аноним 2014-02-02 08:39 UTC</p><hr /><p>Сделал :)</p><p>&#x2013; AlexDaniel 2014-02-02 12:07 UTC</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Сделал :)<br />&gt; -- AlexDaniel 2014-02-02 12:07 UTC</p></div>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Akadeemiline võõrkeel <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>30724<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Akadeemiline võõrkeel<br />&gt; <strong class="changes">#SUBURL: Course:</strong>30724</p></div>
 ip: 89.235.231.110
-ts: 1391342851
-minor: 
-host: 89-235-231-110.saturn.infonet.ee
-username: AlexDaniel
-revision: 7
-diff-major: 1
-summary: Сделал :)
+ts: 1408847111
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 8
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Сделал :)<br />&gt; -- AlexDaniel 2014-02-02 12:07 UTC</p></div>
+summary: Refactoring
 languages: 
-text: ==Akadeemiline võõrkeel [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=30724&p_public=1&p_mode=1]
+text: #SUBTITLE Akadeemiline võõrkeel
+	#SUBURL: Course:30724
 	
 	* [[HLI0020]] Akadeemiline inglise keel
 	* [[HLS0020]] Akadeemiline saksa keel
@@ -32,4 +33,4 @@ text: ==Akadeemiline võõrkeel [http://ois.ttu.ee/portal/page?_pageid=35,428610
 	
 	
 lastmajor: 7
-keep-ts: 1391342851
+keep-ts: 1408847111

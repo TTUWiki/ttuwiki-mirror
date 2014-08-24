@@ -1,19 +1,20 @@
-flags: 01010
-blocks: <h2>Õigusõpetus [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=28071&amp;p_public=1&amp;p_mode=1]</h2><h3>Лекции</h3><p>Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить &#x201c;автомат&#x201d; тем, кто вовремя пришел.</p><h3>Контрольные работы</h3><p>По его словам, смысл этих работ &#x201c;образовательный&#x201d;. То есть можете спокойно подглядывать, всё равно толку от этих контрольных нет.</p><h3>Экзамен</h3><p>Письменный, пять элементарных вопросов. Можете не волноваться.</p><h3>Другое</h3><p>Тем, кто поступил в 2014-ом году, вряд ли придется сдавать этот предмет. У многих он пропал из программы, а на его замену пришел [[HOE6053]].</p><p>А еще он <a class="url http outside" href="http://www.stihi.ru/avtor/lira2006">пишет стихи</a>.</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Õigusõpetus <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>28071<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Õigusõpetus<br />&gt; <strong class="changes">#SUBURL: Course:</strong>28071</p></div>
+ip: 84.52.48.194
+ts: 1408850205
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 5
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">=== Другое</strong></p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].</p></div>
-ip: 84.52.48.194
-ts: 1393128610
-minor: 
-host: sa-84-52-48-194.saturn.infonet.ee
-username: AlexDaniel
-revision: 4
-diff-major: 1
-summary: 
+summary: Refactoring
 languages: 
-text: ==Õigusõpetus [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=28071&p_public=1&p_mode=1]
+text: #SUBTITLE Õigusõpetus
+	#SUBURL: Course:28071
 	
 	===Лекции
 	Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить "автомат" тем, кто вовремя пришел.
@@ -30,4 +31,4 @@ text: ==Õigusõpetus [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=port
 	А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].
 	
 lastmajor: 4
-keep-ts: 1393128610
+keep-ts: 1408850205

@@ -1,19 +1,20 @@
-flags: 010
-blocks: <h2>Haldusjuhtimise eriseminar [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=36851&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Haldusjuhtimise eriseminar <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>36851<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Haldusjuhtimise eriseminar<br />&gt; <strong class="changes">#SUBURL: Course:</strong>36851</p></div>
+ip: 89.235.235.166
+ts: 1408847087
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=</strong>Haldusjuhtimise eriseminar</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==</strong>Haldusjuhtimise eriseminar <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=36851&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-ip: 89.235.235.166
-ts: 1391303208
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 2
-diff-major: 1
-summary: AutomaticUpdate
+summary: Refactoring
 languages: 
-text: ==Haldusjuhtimise eriseminar [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=36851&p_public=1&p_mode=1]
+text: #SUBTITLE Haldusjuhtimise eriseminar
+	#SUBURL: Course:36851
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 2
-keep-ts: 1391303208
+keep-ts: 1408847087

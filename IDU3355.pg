@@ -1,18 +1,19 @@
-flags: 01010
-blocks: <h2>Modelleerimine [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=107195&amp;p_public=1&amp;p_mode=1]</h2><p>Новый предмет, полезность сомнительна.<br />Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br /><img class="url http" src="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" alt="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" /><br />[[File:1017412_676832919022636_1384346730_n.jpg]]</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Modelleerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>107195<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Modelleerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>107195</p></div>
+ip: 84.52.48.194
+ts: 1408847557
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">Новый предмет</strong>, <strong class="changes">полезность сомнительна</strong>.<br />&gt; <strong class="changes">Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br />&gt; http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg<br />&gt; [[File:1017412_676832919022636_1384346730_n.jpg]]</strong></p></div>
-ip: 84.52.48.194
-ts: 1393129039
-minor: 
-host: sa-84-52-48-194.saturn.infonet.ee
-username: AlexDaniel
-revision: 3
-diff-major: 1
-summary: 
+summary: Refactoring
 languages: 
-text: ==Modelleerimine [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=107195&p_public=1&p_mode=1]
+text: #SUBTITLE Modelleerimine
+	#SUBURL: Course:107195
 	
 	
 	Новый предмет, полезность сомнительна.
@@ -21,4 +22,4 @@ text: ==Modelleerimine [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=por
 	[[File:1017412_676832919022636_1384346730_n.jpg]]
 	
 lastmajor: 3
-keep-ts: 1393129039
+keep-ts: 1408847557

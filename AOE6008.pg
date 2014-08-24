@@ -1,19 +1,20 @@
-flags: 010
-blocks: <h2>Laevade prahtimine ja agenteerimine [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=103091&amp;p_public=1&amp;p_mode=1]</h2><p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong>Laevade prahtimine ja agenteerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>103091<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Laevade prahtimine ja agenteerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>103091</p></div>
+ip: 89.235.235.166
+ts: 1408846032
+minor: 1
+host: 89.235.223.25
+username: Bot
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=</strong>Laevade prahtimine ja agenteerimine</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==</strong>Laevade prahtimine ja agenteerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=103091&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-ip: 89.235.235.166
-ts: 1391302701
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
-username: Bot
-revision: 2
-diff-major: 1
-summary: AutomaticUpdate
+summary: Refactoring
 languages: 
-text: ==Laevade prahtimine ja agenteerimine [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=103091&p_public=1&p_mode=1]
+text: #SUBTITLE Laevade prahtimine ja agenteerimine
+	#SUBURL: Course:103091
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 2
-keep-ts: 1391302701
+keep-ts: 1408846032
