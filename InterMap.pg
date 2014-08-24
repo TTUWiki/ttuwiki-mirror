@@ -1,14 +1,13 @@
 flags: 0
-blocks: <p> File <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Fi <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Timetable <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a><br /> Ti <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt;  File <strong class="changes">/u</strong>/<br />&lt;  Fi <strong class="changes">/u</strong>/</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt;  File <strong class="changes">http://files.ttuwiki.org</strong>/<br />&gt;  Fi <strong class="changes">http://files.ttuwiki.org</strong>/</p></div>
+blocks: <p> File <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Fi <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Timetable <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a><br /> Ti <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=122&amp;g=</a><br /> Course <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=">http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=</a></p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  Course http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=</p></div>
 ip: 89.235.231.110
-ts: 1407604142
+ts: 1408851113
 minor: 
-host: 89.235.245.14
+host: 89.235.223.25
 username: AlexDaniel
-revision: 12
+revision: 13
 diff-major: 1
 summary: 
 languages: 
@@ -16,6 +15,7 @@ text:  File http://files.ttuwiki.org/
 	 Fi http://files.ttuwiki.org/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=122&g=
 	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=122&g=
+	 Course http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_public=1&p_mode=1&p_id=
 	
-lastmajor: 12
-keep-ts: 1407604142
+lastmajor: 13
+keep-ts: 1408851113
