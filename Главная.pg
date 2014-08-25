@@ -658,16 +658,16 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
 	</select> <input type="submit" name="" value="Diff" /></form><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
-	<h2>Новости</h2>&lt;Journal 1,10 "^Новость_\d+"&gt;
+	<h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">\\\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">\\</strong></p></div>
+	<div class="old"><p>&lt; &lt;Journal <strong class="changes">1</strong>,10 "^Новость_\d+"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;Journal <strong class="changes">2</strong>,10 "^Новость_\d+"&gt;</p></div>
 ip: 89.235.239.240
-ts: 1408998172
+ts: 1409006180
 minor: 1
 host: 89.235.245.58
 username: AlexDaniel
-revision: 23
+revision: 24
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">\\\\\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">=====Сравнить учебные программы:<br />&gt; &lt;diff ^\w\w\w\w\d\d-\d\d$&gt;<br />&gt; \\\\</strong></p></div>
@@ -682,7 +682,7 @@ text: <include "Õppekavad">
 	<Journal 6,10 "^Вопрос_\d+">
 	
 	==Новости
-	<Journal 1,10 "^Новость_\d+">
+	<Journal 2,10 "^Новость_\d+">
 	
 lastmajor: 22
-keep-ts: 1408998172
+keep-ts: 1409006180
