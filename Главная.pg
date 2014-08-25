@@ -657,26 +657,27 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="YVEM09-09">YVEM09-09</option>
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
-	</select> <input type="submit" name="" value="Diff" /></form><br /><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
+	</select> <input type="submit" name="" value="Diff" /></form><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
 	<h2>Новости</h2>&lt;Journal 1,10 "^Новость_\d+"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">\\\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">\\</strong></p></div>
+ip: 89.235.239.240
+ts: 1408998172
+minor: 1
+host: 89.235.245.58
+username: AlexDaniel
+revision: 23
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">\\\\\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">=====Сравнить учебные программы:<br />&gt; &lt;diff ^\w\w\w\w\d\d-\d\d$&gt;<br />&gt; \\\\</strong></p></div>
-ip: 89.235.239.240
-ts: 1408895814
-minor: 
-host: 89.235.223.25
-username: AlexDaniel
-revision: 22
-diff-major: 1
-summary: Возможность сравнивать учебные программы
+summary: 
 languages: 
 text: <include "Õppekavad">
 	
 	=====Сравнить учебные программы:
 	<diff ^\w\w\w\w\d\d-\d\d$>
-	\\\\
-	
+	\\
 	==Вопросы
 	<Journal 6,10 "^Вопрос_\d+">
 	
@@ -684,4 +685,4 @@ text: <include "Õppekavad">
 	<Journal 1,10 "^Новость_\d+">
 	
 lastmajor: 22
-keep-ts: 1408895814
+keep-ts: 1408998172
