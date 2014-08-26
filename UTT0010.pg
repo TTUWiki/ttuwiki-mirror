@@ -1,22 +1,21 @@
 flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <p>За семестр будет всего пару лекций. В общем-то присутствовать на них не обязательно, там будет просто общая информация об университете и процессе обучения. На первую лекцию все-таки стоит сходить, на ней скорее всего узнаете много нового. А вот на последней делать нечего - в общем-то она просто для того, чтобы люди задали вопросы, которые у них за это время появились. Всю эту информацию можно всегда узнать от однокурсников.</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Õpingukorraldus <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>29293<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Õpingukorraldus<br />&gt; <strong class="changes">#SUBURL: Course:</strong>29293</p></div>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь</strong> не <strong class="changes">хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">За семестр будет всего пару лекций. В общем-то присутствовать на них</strong> не <strong class="changes">обязательно, там будет просто общая информация об университете и процессе обучения. На первую лекцию все-таки стоит сходить, на ней скорее всего узнаете много нового. А вот на последней делать нечего - в общем-то она просто для того, чтобы люди задали вопросы, которые у них за это время появились. Всю эту информацию можно всегда узнать от однокурсников</strong>.</p></div>
 ip: 89.235.235.166
-ts: 1408850295
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Õpingukorraldus</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Õpingukorraldus <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=29293&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1409087832
+minor: 
+host: 89.235.245.58
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Õpingukorraldus
 	#SUBURL: Course:29293
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408850295
+	За семестр будет всего пару лекций. В общем-то присутствовать на них не обязательно, там будет просто общая информация об университете и процессе обучения. На первую лекцию все-таки стоит сходить, на ней скорее всего узнаете много нового. А вот на последней делать нечего - в общем-то она просто для того, чтобы люди задали вопросы, которые у них за это время появились. Всю эту информацию можно всегда узнать от однокурсников.
+	
+lastmajor: 4
+keep-ts: 1409087832
