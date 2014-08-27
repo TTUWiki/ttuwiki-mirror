@@ -1,36 +1,42 @@
-flags: 010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>А почему работаете в какой-то херне? Скажите ей о существовании <a class="url http outside" href="http://pydev.org/">PyDev</a></p><p>&#x2013; AlexDaniel 2014-03-10 07:11 UTC</p></div><div class="userComment"><p>Сам спросил уже.<br />Ей всё равно, да и придумала это не она.</p><p>&#x2013; AlexDaniel 2014-03-18 00:08 UTC</p></div>
+flags: 0
+blocks: <p>Потенциально полезный предмет, однако преподавание г-жи Венделин всю эту полезность перекрывает.</p><p>О чем г-жа Венделин вам не расскажет:<br /></p><ul><li>О <a class="url http outside" href="http://legacy.python.org/dev/peps/pep-0008">PEP*</a></li><li>О существовании нормальных IDE и редакторов.</li><li>О предназначении <a class="url http outside" href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a></li><li>О вычислительной сложности (хотя об этом написано в описании предмета)</li><li>О об установке модулей (pip и прочие)</li></ul><p>Чему г-жа Венделин вас &#x201c;научит&#x201d;:<br /></p><ul><li>Индентации кода пятью пробелами.</li><li>Написанию кода с экспоненциальной сложностью.</li><li>Изобретению велосипедов.</li><li>Использованию рекурсии там, где это не оправдано (например где есть потенциальный риск переполнения стека).</li><li>Созданию UML диаграмм, которые сложнее, чем сама ваша программа.</li></ul><h2>Контрольные</h2><p>Будут две элементарных контрольных. Первая на самые базовые знания. Если они у вас есть, то напишите за 5 минут и лишь зря к восьми утра припретесь (постарайтесь договориться с ней заранее, чтобы прийти под конец). Вторая контрольная чутка сложнее, нужно будет заимпортить кривой код г-жи Венделин и сделать так, чтобы всё это месиво заработало.</p><h2>Экзамен</h2><p>По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед &#x201c;классом&#x201d;.</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Programmeerimise põhikursus <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>107203<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Programmeerimise põhikursus<br />&gt; <strong class="changes">#SUBURL: Course:</strong>107203</p></div>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь</strong> не <strong class="changes">хватает твоих полезных советов.<br />&lt; ----<br />&lt; А почему работаете в какой</strong>-<strong class="changes">то херне? Скажите ей о</strong> существовании [[<strong class="changes">http</strong>://<strong class="changes">pydev</strong>.org<strong class="changes">/|PyDev</strong>]]<br />&lt; <strong class="changes">-- AlexDaniel 2014-03</strong>-<strong class="changes">10 07:11 UTC<br />&lt; ----<br />&lt; Сам спросил уже</strong>.<br />&lt; <strong class="changes">Ей всё равно</strong>, <strong class="changes">да и придумала</strong> это не <strong class="changes">она</strong>.<br />&lt; <strong class="changes">-- AlexDaniel 2014-03</strong>-<strong class="changes">18 00:08 UTC</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Потенциально полезный предмет</strong>, <strong class="changes">однако преподавание г-жи Венделин всю эту полезность перекрывает.<br />&gt; О чем г-жа Венделин вам</strong> не <strong class="changes">расскажет:<br />&gt; * О [[http://legacy.python.org/dev/peps/pep</strong>-<strong class="changes">0008 PEP*]]<br />&gt; * О</strong> существовании <strong class="changes">нормальных IDE и редакторов.<br />&gt; * О предназначении</strong> [[<strong class="changes">https</strong>://<strong class="changes">en.wikipedia</strong>.org<strong class="changes">/wiki/Shebang_%28Unix%29 shebang</strong>]]<br />&gt; <strong class="changes">* О вычислительной сложности (хотя об этом написано в описании предмета)<br />&gt; * О об установке модулей (pip и прочие)<br />&gt; Чему г</strong>-<strong class="changes">жа Венделин вас "научит":<br />&gt; * Индентации кода пятью пробелами</strong>.<br />&gt; <strong class="changes">* Написанию кода с экспоненциальной сложностью.<br />&gt; * Изобретению велосипедов.<br />&gt; * Использованию рекурсии там</strong>, <strong class="changes">где</strong> это не <strong class="changes">оправдано (например где есть потенциальный риск переполнения стека).<br />&gt; * Созданию UML диаграмм, которые сложнее, чем сама ваша программа</strong>.<br />&gt; <strong class="changes">==Контрольные<br />&gt; Будут две элементарных контрольных. Первая на самые базовые знания. Если они у вас есть, то напишите за 5 минут и лишь зря к восьми утра припретесь (постарайтесь договориться с ней заранее, чтобы прийти под конец). Вторая контрольная чутка сложнее, нужно будет заимпортить кривой код г</strong>-<strong class="changes">жи Венделин и сделать так, чтобы всё это месиво заработало.<br />&gt; ==Экзамен<br />&gt; По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед "классом".</strong></p></div>
 ip: 84.52.43.21
-ts: 1408847464
+ts: 1409102570
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 5
+host: 89.235.245.58
+username: AlexDaniel
+revision: 6
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Сам спросил уже.<br />&gt; Ей всё равно, да и придумала это не она.<br />&gt; -- AlexDaniel 2014-03-18 00:08 UTC</p></div>
-summary: Refactoring
+summary: Набросок статьи
 languages: 
 text: #SUBTITLE Programmeerimise põhikursus
 	#SUBURL: Course:107203
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
+	Потенциально полезный предмет, однако преподавание г-жи Венделин всю эту полезность перекрывает.
 	
-	А почему работаете в какой-то херне? Скажите ей о существовании [[http://pydev.org/|PyDev]]
+	О чем г-жа Венделин вам не расскажет:
+	* О [[http://legacy.python.org/dev/peps/pep-0008 PEP*]]
+	* О существовании нормальных IDE и редакторов.
+	* О предназначении [[https://en.wikipedia.org/wiki/Shebang_%28Unix%29 shebang]]
+	* О вычислительной сложности (хотя об этом написано в описании предмета)
+	* О об установке модулей (pip и прочие)
 	
-	-- AlexDaniel 2014-03-10 07:11 UTC
+	Чему г-жа Венделин вас "научит":
+	* Индентации кода пятью пробелами.
+	* Написанию кода с экспоненциальной сложностью.
+	* Изобретению велосипедов.
+	* Использованию рекурсии там, где это не оправдано (например где есть потенциальный риск переполнения стека).
+	* Созданию UML диаграмм, которые сложнее, чем сама ваша программа.
 	
+	==Контрольные
+	Будут две элементарных контрольных. Первая на самые базовые знания. Если они у вас есть, то напишите за 5 минут и лишь зря к восьми утра припретесь (постарайтесь договориться с ней заранее, чтобы прийти под конец). Вторая контрольная чутка сложнее, нужно будет заимпортить кривой код г-жи Венделин и сделать так, чтобы всё это месиво заработало.
 	
-	----
-	
-	Сам спросил уже.
-	Ей всё равно, да и придумала это не она.
-	
-	-- AlexDaniel 2014-03-18 00:08 UTC
-	
+	==Экзамен
+	По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед "классом".
 	
 lastmajor: 4
-keep-ts: 1408847464
+keep-ts: 1409102570
