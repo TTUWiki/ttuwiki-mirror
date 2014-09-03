@@ -1,14 +1,16 @@
 flags: 010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div><div class="userComment"><p>Книги:<br />В.А. Ильин Г.Д. Ким - &#x201c;Линейная алгебра и аналитическая геометрия&#x201d;</p><p>&#x2013; AlexDaniel 2014-09-03 12:21:14</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Книги:<br />&gt; В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"<br />&gt; -- AlexDaniel 2014-09-03 12:21:14</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div><div class="userComment"><h3>Книги:</h3><p>В.А.Ильин Г.Д.Ким &#x201c;Линейная алгебра и аналитическая геометрия&#x201d;</p><h3>Задачники:</h3><p>И.В.Проскуряков &#x201c;Сборник задач по линейной алгебре&#x201d;<br />Д.В.Клетеник &#x201c;Сборник задач по аналитической геометрии&#x201d;</p><p>&#x2013; AlexDaniel 2014-09-03 12:21:14</p></div>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Книги:<br />&lt; В.А. Ильин Г.Д. Ким <strong class="changes">-</strong> "Линейная алгебра и аналитическая геометрия"</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">===</strong>Книги:<br />&gt; В.А.Ильин Г.Д.Ким "Линейная алгебра и аналитическая геометрия"<br />&gt; <strong class="changes">===Задачники:<br />&gt; И.В.Проскуряков "Сборник задач по линейной алгебре"<br />&gt; Д.В.Клетеник "Сборник задач по аналитической геометрии"</strong></p></div>
 ip: 89.235.235.166
-ts: 1409736074
-minor: 
+ts: 1409736313
+minor: 1
 host: 193.40.244.196
 username: AlexDaniel
-revision: 5
-diff-major: 1
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Книги:<br />&gt; В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"<br />&gt; -- AlexDaniel 2014-09-03 12:21:14</p></div>
 summary: Книги: В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"
 languages: 
 text: #SUBTITLE Lineaaralgebra
@@ -24,11 +26,15 @@ text: #SUBTITLE Lineaaralgebra
 	
 	----
 	
-	Книги:
-	В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"
+	===Книги:
+	В.А.Ильин Г.Д.Ким "Линейная алгебра и аналитическая геометрия"
+	
+	===Задачники:
+	И.В.Проскуряков "Сборник задач по линейной алгебре"
+	Д.В.Клетеник "Сборник задач по аналитической геометрии"
 	
 	-- AlexDaniel 2014-09-03 12:21:14
 	
 	
 lastmajor: 5
-keep-ts: 1409736074
+keep-ts: 1409736313
