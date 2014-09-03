@@ -1,19 +1,15 @@
-flags: 010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div><div class="userComment"><h4>Книги:</h4><p>В.А.Ильин Г.Д.Ким &#x201c;Линейная алгебра и аналитическая геометрия&#x201d;</p><h4>Задачники:</h4><p>И.В.Проскуряков &#x201c;Сборник задач по линейной алгебре&#x201d;<br />Д.В.Клетеник &#x201c;Сборник задач по аналитической геометрии&#x201d;</p><p>&#x2013; AlexDaniel 2014-09-03 12:21:14</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">===</strong>Книги:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">====</strong>Книги:</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">===</strong>Задачники:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">====</strong>Задачники:</p></div>
+flags: 01010100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div><div class="userComment"><h4>Книги:</h4><p>В.А.Ильин Г.Д.Ким &#x201c;Линейная алгебра и аналитическая геометрия&#x201d;</p><h4>Задачники:</h4><p>И.В.Проскуряков &#x201c;Сборник задач по линейной алгебре&#x201d;<br />Д.В.Клетеник &#x201c;Сборник задач по аналитической геометрии&#x201d;</p><p>&#x2013; AlexDaniel 2014-09-03 12:21:14</p></div><div class="userComment"><p>Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и отпустит через 25 минут.</p><p>&#x2013; AlexDaniel 2014-09-03 13:59:06</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и отпустит через 25 минут.<br />&gt; -- AlexDaniel 2014-09-03 13:59:06</p></div>
 ip: 89.235.235.166
-ts: 1409741893
-minor: 1
+ts: 1409741946
+minor: 
 host: 84.52.12.115
 username: AlexDaniel
-revision: 7
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Книги:<br />&gt; В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"<br />&gt; -- AlexDaniel 2014-09-03 12:21:14</p></div>
-summary: Книги: В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"
+revision: 8
+diff-major: 1
+summary: Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и . . .
 languages: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL: Course:28187
@@ -38,5 +34,12 @@ text: #SUBTITLE Lineaaralgebra
 	-- AlexDaniel 2014-09-03 12:21:14
 	
 	
-lastmajor: 5
-keep-ts: 1409741893
+	----
+	
+	Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и отпустит через 25 минут.
+	
+	-- AlexDaniel 2014-09-03 13:59:06
+	
+	
+lastmajor: 8
+keep-ts: 1409741946
