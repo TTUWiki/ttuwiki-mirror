@@ -1,15 +1,15 @@
-flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div>
+flags: 010100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2014-09-03 12:17:13</p></div><div class="userComment"><p>Книги:<br />В.А. Ильин Г.Д. Ким - &#x201c;Линейная алгебра и аналитическая геометрия&#x201d;</p><p>&#x2013; AlexDaniel 2014-09-03 12:21:14</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; http://web.zone.ee/sb/<br />&gt; -- AlexDaniel 2014-09-03 12:17:13</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; Книги:<br />&gt; В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"<br />&gt; -- AlexDaniel 2014-09-03 12:21:14</p></div>
 ip: 89.235.235.166
-ts: 1409735834
+ts: 1409736074
 minor: 
 host: 193.40.244.196
 username: AlexDaniel
-revision: 4
+revision: 5
 diff-major: 1
-summary: http://web.zone.ee/sb/
+summary: Книги: В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"
 languages: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL: Course:28187
@@ -22,5 +22,13 @@ text: #SUBTITLE Lineaaralgebra
 	-- AlexDaniel 2014-09-03 12:17:13
 	
 	
-lastmajor: 4
-keep-ts: 1409735834
+	----
+	
+	Книги:
+	В.А. Ильин Г.Д. Ким - "Линейная алгебра и аналитическая геометрия"
+	
+	-- AlexDaniel 2014-09-03 12:21:14
+	
+	
+lastmajor: 5
+keep-ts: 1409736074
