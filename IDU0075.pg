@@ -1,22 +1,26 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Veebiteenused <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>104246<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Veebiteenused<br />&gt; <strong class="changes">#SUBURL: Course:</strong>104246</p></div>
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/">http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/</a></p><p>&#x2013; AlexDaniel 2014-09-05 13:15:47</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/<br />&gt; -- AlexDaniel 2014-09-05 13:15:47</p></div>
 ip: 89.235.235.166
-ts: 1408847515
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Veebiteenused</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Veebiteenused <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=104246&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1409912147
+minor: 
+host: 193.40.244.196
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
 languages: 
 text: #SUBTITLE Veebiteenused
 	#SUBURL: Course:104246
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408847515
+	----
+	
+	http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
+	
+	-- AlexDaniel 2014-09-05 13:15:47
+	
+	
+lastmajor: 4
+keep-ts: 1409912147
