@@ -1,19 +1,20 @@
-flags: 01010101010
+flags: 010101010100
 blocks: &lt;include "EAEI02-12Tartu"&gt;
 	&lt;include "EAEI02-09Tartu"&gt;
 	&lt;include "EAEI02-09"&gt;
 	&lt;include "EAEI02-06"&gt;
-	&lt;include "EAEI02-02"&gt;
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;include "EAEI02-12Tartu"&gt;<br />&lt; &lt;include "EAEI02-09Tartu"&gt;<br />&lt; &lt;include "EAEI02-09"&gt;<br />&lt; &lt;include "EAEI02-06"&gt;<br />&lt; &lt;include "EAEI02-02"&gt;</p></div>
+	&lt;include "EAEI02-02"&gt;
+	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>We&#x2019;re a group of volunteers and starting a new scheme in our community. ekgggaddagfe</p><p>&#x2013; Johnc858 2014-09-16 21:47:48</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; We're a group of volunteers and starting a new scheme in our community. ekgggaddagfe<br />&gt; -- Johnc858 2014-09-16 21:47:48</p></div>
 ip: 89.235.235.166
-ts: 1408891320
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: 
-summary: Автоматическое обновление (расписание)
+ts: 1410893269
+minor: 
+host: 183.224.1.55
+username: Johnc858
+revision: 4
+diff-major: 1
+summary: We're a group of volunteers and starting a new scheme in our community. ekgggaddagfe
 languages: 
 text: <include "EAEI02-12Tartu">
 	
@@ -27,5 +28,12 @@ text: <include "EAEI02-12Tartu">
 	
 	
 	
-lastmajor: 1
-keep-ts: 1408891320
+	----
+	
+	We're a group of volunteers and starting a new scheme in our community. ekgggaddagfe
+	
+	-- Johnc858 2014-09-16 21:47:48
+	
+	
+lastmajor: 4
+keep-ts: 1410893269
