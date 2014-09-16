@@ -1,19 +1,14 @@
 flags: 0
-blocks: <p>Здесь видны последние изменения на сайте</p><p>фвсссс</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; фвсссс</p></div>
+blocks: <p>Здесь видны последние изменения на сайте</p>
 ip: 89.235.239.240
-ts: 1410880201
-minor: 
-host: 5.167.38.133
-username: 
-revision: 4
-diff-major: 1
-summary: 
+ts: 1410880289
+minor: 0
+host: 89.235.230.13
+username: AlexDaniel
+revision: 5
+summary: Откат до 2014-06-13 19:29:23
 languages: 
 text: Здесь видны последние изменения на сайте
 	
-	фвсссс
-	
-lastmajor: 4
-keep-ts: 1410880201
+lastmajor: 5
+keep-ts: 1410880289
