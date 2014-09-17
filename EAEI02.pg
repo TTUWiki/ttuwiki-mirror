@@ -4,17 +4,17 @@ blocks: &lt;include "EAEI02-12Tartu"&gt;
 	&lt;include "EAEI02-09"&gt;
 	&lt;include "EAEI02-06"&gt;
 	&lt;include "EAEI02-02"&gt;
-	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Very nice site! &lt;a href=&#x201c;<a class="url http" href="http://ypxaieo2.com/ooovrry/1.html&quot;&gt;cheap">http://ypxaieo2.com/ooovrry/1.html"&gt;cheap</a> goods&lt;/a&gt;</p><p>&#x2013; <a class="url http outside" href="http://ypxaieo2.com/ooovrry/5.html">Pharmk157</a> 2014-09-17 13:32:19</p></div>
+	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Very nice site! &lt;a href=&#x201c;<a class="url http" href="http://ypxaieo2.com/ooovrry/1.html&quot;&gt;cheap">http://ypxaieo2.com/ooovrry/1.html"&gt;cheap</a> goods&lt;/a&gt;</p><p>&#x2013; <a class="url http outside" href="http://ypxaieo2.com/ooovrry/5.html">Pharmk157</a> 2014-09-17 13:32:19</p></div><div class="userComment"><p>Very nice site! cheap goods <a class="url http" href="http://ypxaieo2.com/ooovrry/4.html">http://ypxaieo2.com/ooovrry/4.html</a></p><p>&#x2013; <a class="url http outside" href="http://ypxaieo2.com/ooovrry/5.html">Pharmb775</a> 2014-09-17 13:32:43</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Very nice site! &lt;a href="http://ypxaieo2.com/ooovrry/1.html"&gt;cheap goods&lt;/a&gt;<br />&gt; -- [http://ypxaieo2.com/ooovrry/5.html Pharmk157] 2014-09-17 13:32:19</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; Very nice site! cheap goods http://ypxaieo2.com/ooovrry/4.html<br />&gt; -- [http://ypxaieo2.com/ooovrry/5.html Pharmb775] 2014-09-17 13:32:43</p></div>
 ip: 89.235.235.166
-ts: 1410949939
+ts: 1410949963
 minor: 
-host: 183.203.23.18
-username: Pharmk157
-revision: 6
+host: 109.251.10.3
+username: Pharmb775
+revision: 7
 diff-major: 1
-summary: Very nice site! <a href="http://ypxaieo2.com/ooovrry/1.html">cheap goods</a>
+summary: Very nice site! cheap goods http://ypxaieo2.com/ooovrry/4.html
 languages: 
 text: <include "EAEI02-12Tartu">
 	
@@ -35,5 +35,12 @@ text: <include "EAEI02-12Tartu">
 	-- [http://ypxaieo2.com/ooovrry/5.html Pharmk157] 2014-09-17 13:32:19
 	
 	
-lastmajor: 6
-keep-ts: 1410949939
+	----
+	
+	Very nice site! cheap goods http://ypxaieo2.com/ooovrry/4.html
+	
+	-- [http://ypxaieo2.com/ooovrry/5.html Pharmb775] 2014-09-17 13:32:43
+	
+	
+lastmajor: 7
+keep-ts: 1410949963
