@@ -1,22 +1,27 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Visuaalne kommunikatsioon I <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>30241<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Visuaalne kommunikatsioon I<br />&gt; <strong class="changes">#SUBURL: Course:</strong>30241</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://cialis7withoutprescription.com/">http://cialis7withoutprescription.com/</a> , , <a class="url http" href="http://cialis9withoutprescription.com/">http://cialis9withoutprescription.com/</a> , , <a class="url http" href="http://order9cialisonline.com/">http://order9cialisonline.com/</a> , , <a class="url http" href="http://purchase9cialis.com/">http://purchase9cialis.com/</a> , , <a class="url http" href="http://www.cashadvancequick9l.com/">http://www.cashadvancequick9l.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://cialis7withoutprescription.com/">cialis</a> 2014-09-20 09:00:15</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://cialis7withoutprescription.com/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , http://www.cashadvancequick9l.com/ ,  ,<br />&gt; -- [http://cialis7withoutprescription.com/ cialis] 2014-09-20 09:00:15</p></div>
 ip: 89.235.235.166
-ts: 1408850355
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Visuaalne kommunikatsioon I</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Visuaalne kommunikatsioon I <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=30241&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1411192815
+minor: 
+host: 85.17.205.213
+username: cialis
+revision: 4
+diff-major: 1
+summary: Hello! http://cialis7withoutprescription.com/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , . . .
 languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon I
 	#SUBURL: Course:30241
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408850355
+	----
+	
+	Hello!
+	http://cialis7withoutprescription.com/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , http://www.cashadvancequick9l.com/ ,  ,
+	
+	-- [http://cialis7withoutprescription.com/ cialis] 2014-09-20 09:00:15
+	
+	
+lastmajor: 4
+keep-ts: 1411192815
