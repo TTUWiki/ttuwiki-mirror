@@ -1,20 +1,16 @@
-flags: 010101010100
+flags: 01010101010
 blocks: &lt;include "EAEI02-12Tartu"&gt;
 	&lt;include "EAEI02-09Tartu"&gt;
 	&lt;include "EAEI02-09"&gt;
 	&lt;include "EAEI02-06"&gt;
-	&lt;include "EAEI02-02"&gt;
-	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://order9viagraonline.com/">http://order9viagraonline.com/</a> , , <a class="url http" href="http://order9cialisonline.com/">http://order9cialisonline.com/</a> , , <a class="url http" href="http://viagra9professionalonline.com/">http://viagra9professionalonline.com/</a> , , <a class="url http" href="http://cialis9superactiveonline.com/">http://cialis9superactiveonline.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://viagra9professionalonline.com/">viagra_professional</a> 2014-09-19 21:57:51</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://order9viagraonline.com/ ,  , http://order9cialisonline.com/ ,  , http://viagra9professionalonline.com/ ,  , http://cialis9superactiveonline.com/ ,  ,<br />&gt; -- [http://viagra9professionalonline.com/ viagra_professional] 2014-09-19 21:57:51</p></div>
+	&lt;include "EAEI02-02"&gt;
 ip: 89.235.235.166
-ts: 1411153071
-minor: 
-host: 5.79.73.142
-username: viagra_professional
-revision: 9
-diff-major: 1
-summary: Hello! http://order9viagraonline.com/ ,  , http://order9cialisonline.com/ ,  , http://viagra9professionalonline.com/ ,  , . . .
+ts: 1411177190
+minor: 0
+host: 89.235.230.13
+username: AlexDaniel
+revision: 10
+summary: Откат до 2014-09-17 17:24:12
 languages: 
 text: <include "EAEI02-12Tartu">
 	
@@ -28,13 +24,5 @@ text: <include "EAEI02-12Tartu">
 	
 	
 	
-	----
-	
-	Hello!
-	http://order9viagraonline.com/ ,  , http://order9cialisonline.com/ ,  , http://viagra9professionalonline.com/ ,  , http://cialis9superactiveonline.com/ ,  ,
-	
-	-- [http://viagra9professionalonline.com/ viagra_professional] 2014-09-19 21:57:51
-	
-	
-lastmajor: 9
-keep-ts: 1411153071
+lastmajor: 10
+keep-ts: 1411177190
