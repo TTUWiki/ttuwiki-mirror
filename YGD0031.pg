@@ -1,15 +1,15 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://cialis7withoutprescription.com/">http://cialis7withoutprescription.com/</a> , , <a class="url http" href="http://cialis9withoutprescription.com/">http://cialis9withoutprescription.com/</a> , , <a class="url http" href="http://order9cialisonline.com/">http://order9cialisonline.com/</a> , , <a class="url http" href="http://purchase9cialis.com/">http://purchase9cialis.com/</a> , , <a class="url http" href="http://www.cashadvancequick9l.com/">http://www.cashadvancequick9l.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://cialis7withoutprescription.com/">cialis</a> 2014-09-20 09:00:15</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://cialis7withoutprescription.com/">http://cialis7withoutprescription.com/</a> , , <a class="url http" href="http://cialis9withoutprescription.com/">http://cialis9withoutprescription.com/</a> , , <a class="url http" href="http://order9cialisonline.com/">http://order9cialisonline.com/</a> , , <a class="url http" href="http://purchase9cialis.com/">http://purchase9cialis.com/</a> , , <a class="url http" href="http://www.cashadvancequick9l.com/">http://www.cashadvancequick9l.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://cialis7withoutprescription.com/">cialis</a> 2014-09-20 09:00:15</p></div><div class="userComment"><p>Hello!<br /><a class="url http" href="http://cycworld2013.net/">http://cycworld2013.net/</a> , , <a class="url http" href="http://cialis9withoutprescription.com/">http://cialis9withoutprescription.com/</a> , , <a class="url http" href="http://order9cialisonline.com/">http://order9cialisonline.com/</a> , , <a class="url http" href="http://purchase9cialis.com/">http://purchase9cialis.com/</a> , , <a class="url http" href="http://www.cashadvancequick9l.com/">http://www.cashadvancequick9l.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://cialis9withoutprescription.com/">without</a> 2014-09-20 09:00:15</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://cialis7withoutprescription.com/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , http://www.cashadvancequick9l.com/ ,  ,<br />&gt; -- [http://cialis7withoutprescription.com/ cialis] 2014-09-20 09:00:15</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://cycworld2013.net/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , http://www.cashadvancequick9l.com/ ,  ,<br />&gt; -- [http://cialis9withoutprescription.com/ without] 2014-09-20 09:00:15</p></div>
 ip: 89.235.235.166
-ts: 1411192815
+ts: 1411192817
 minor: 
 host: 85.17.205.213
-username: cialis
-revision: 4
+username: without
+revision: 5
 diff-major: 1
-summary: Hello! http://cialis7withoutprescription.com/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , . . .
+summary: Hello! http://cycworld2013.net/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , . . .
 languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon I
 	#SUBURL: Course:30241
@@ -23,5 +23,13 @@ text: #SUBTITLE Visuaalne kommunikatsioon I
 	-- [http://cialis7withoutprescription.com/ cialis] 2014-09-20 09:00:15
 	
 	
-lastmajor: 4
-keep-ts: 1411192815
+	----
+	
+	Hello!
+	http://cycworld2013.net/ ,  , http://cialis9withoutprescription.com/ ,  , http://order9cialisonline.com/ ,  , http://purchase9cialis.com/ ,  , http://www.cashadvancequick9l.com/ ,  ,
+	
+	-- [http://cialis9withoutprescription.com/ without] 2014-09-20 09:00:15
+	
+	
+lastmajor: 5
+keep-ts: 1411192817
