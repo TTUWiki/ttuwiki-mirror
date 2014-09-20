@@ -19,20 +19,21 @@ blocks: <pre>^216\.152\.251\.72
 	^183\.203\.23\.18 # 2014-09-17 EAEI02
 	^109\.251\.10\.3 # 2014-09-17 EAEI02
 	^5\.79\.73\.142 # 2014-09-20 EAEI02
-	^46\.165\.225\.198 # 2014-09-20 EAEI02</pre>
+	^46\.165\.225\.198 # 2014-09-20 EAEI02
+	^85\.17\.205\.213 # 2014-09-20 YGD0031</pre>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ^46\.165\.225\.198 # 2014-09-20 EAEI02</p></div>
+	<div class="new"><p>&gt; ^85\.17\.205\.213 # 2014-09-20 YGD0031</p></div>
 ip: 84.52.48.17
-ts: 1411236884
+ts: 1411236909
 minor: 1
 host: 89.235.230.13
 username: AlexDaniel
-revision: 23
+revision: 24
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; ^91\.207<strong class="changes">\.7</strong>\.[0-9<strong class="changes">]+ # 2014-08</strong>-<strong class="changes">10 EAUM12<br />&lt; ^91\.207\.6\.142</strong> # 2014-08-12 EAUM12</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; ^91\.207\.[0-9<strong class="changes">]+\.[0</strong>-<strong class="changes">9]+</strong> # 2014-08-12 EAUM12</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; ^91\.207\.4\.210 # 2014-09-08 EAUM12</p></div>
-summary: EAEI02
+summary: YGD0031
 languages: 
 text: ^216\.152\.251\.72
 	^.*.xdnetworks\.net
@@ -55,6 +56,7 @@ text: ^216\.152\.251\.72
 	^109\.251\.10\.3 # 2014-09-17 EAEI02
 	^5\.79\.73\.142 # 2014-09-20 EAEI02
 	^46\.165\.225\.198 # 2014-09-20 EAEI02
+	^85\.17\.205\.213 # 2014-09-20 YGD0031
 	
 lastmajor: 18
-keep-ts: 1411236884
+keep-ts: 1411236909
