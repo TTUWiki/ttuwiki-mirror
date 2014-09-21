@@ -1,22 +1,27 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Visuaalne kommunikatsioon II <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>30243<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Visuaalne kommunikatsioon II<br />&gt; <strong class="changes">#SUBURL: Course:</strong>30243</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://www.fastcashadvancep9.com/">http://www.fastcashadvancep9.com/</a> , , <a class="url http" href="http://www.cashadvanceonline9l.com/">http://www.cashadvanceonline9l.com/</a> , , <a class="url http" href="http://www.nationalcashadvancep9.com/">http://www.nationalcashadvancep9.com/</a> , , <a class="url http" href="http://www.samedaycash9p.com/">http://www.samedaycash9p.com/</a> , , <a class="url http" href="http://www.cashadvancespayl9.com/">http://www.cashadvancespayl9.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://www.fastcashadvancep9.com/">day</a> 2014-09-21 14:13:34</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,<br />&gt; -- [http://www.fastcashadvancep9.com/ day] 2014-09-21 14:13:34</p></div>
 ip: 89.235.235.166
-ts: 1408850356
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Visuaalne kommunikatsioon II</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Visuaalne kommunikatsioon II <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=30243&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1411298020
+minor: 
+host: 95.211.192.231
+username: day
+revision: 4
+diff-major: 1
+summary: Hello! http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , . . .
 languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon II
 	#SUBURL: Course:30243
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408850356
+	----
+	
+	Hello!
+	http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,
+	
+	-- [http://www.fastcashadvancep9.com/ day] 2014-09-21 14:13:34
+	
+	
+lastmajor: 4
+keep-ts: 1411298020
