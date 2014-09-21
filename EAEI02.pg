@@ -1,16 +1,20 @@
-flags: 01010101010
+flags: 010101010100
 blocks: &lt;include "EAEI02-12Tartu"&gt;
 	&lt;include "EAEI02-09Tartu"&gt;
 	&lt;include "EAEI02-09"&gt;
 	&lt;include "EAEI02-06"&gt;
-	&lt;include "EAEI02-02"&gt;
+	&lt;include "EAEI02-02"&gt;
+	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://www.fastcashadvancep9.com/">http://www.fastcashadvancep9.com/</a> , , <a class="url http" href="http://www.cashadvanceonline9l.com/">http://www.cashadvanceonline9l.com/</a> , , <a class="url http" href="http://www.nationalcashadvancep9.com/">http://www.nationalcashadvancep9.com/</a> , , <a class="url http" href="http://www.samedaycash9p.com/">http://www.samedaycash9p.com/</a> , , <a class="url http" href="http://www.cashadvancespayl9.com/">http://www.cashadvancespayl9.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://www.fastcashadvancep9.com/">lender</a> 2014-09-21 14:13:34</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,<br />&gt; -- [http://www.fastcashadvancep9.com/ lender] 2014-09-21 14:13:34</p></div>
 ip: 89.235.235.166
-ts: 1411236877
-minor: 0
-host: 89.235.230.13
-username: AlexDaniel
-revision: 12
-summary: Откат до 2014-09-20 04:39:50
+ts: 1411298014
+minor: 
+host: 95.211.192.231
+username: lender
+revision: 13
+diff-major: 1
+summary: Hello! http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , . . .
 languages: 
 text: <include "EAEI02-12Tartu">
 	
@@ -24,5 +28,13 @@ text: <include "EAEI02-12Tartu">
 	
 	
 	
-lastmajor: 12
-keep-ts: 1411236877
+	----
+	
+	Hello!
+	http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,
+	
+	-- [http://www.fastcashadvancep9.com/ lender] 2014-09-21 14:13:34
+	
+	
+lastmajor: 13
+keep-ts: 1411298014
