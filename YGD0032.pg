@@ -1,27 +1,16 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Hello!<br /><a class="url http" href="http://www.fastcashadvancep9.com/">http://www.fastcashadvancep9.com/</a> , , <a class="url http" href="http://www.cashadvanceonline9l.com/">http://www.cashadvanceonline9l.com/</a> , , <a class="url http" href="http://www.nationalcashadvancep9.com/">http://www.nationalcashadvancep9.com/</a> , , <a class="url http" href="http://www.samedaycash9p.com/">http://www.samedaycash9p.com/</a> , , <a class="url http" href="http://www.cashadvancespayl9.com/">http://www.cashadvancespayl9.com/</a> , ,</p><p>&#x2013; <a class="url http outside" href="http://www.fastcashadvancep9.com/">day</a> 2014-09-21 14:13:34</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Hello!<br />&gt; http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,<br />&gt; -- [http://www.fastcashadvancep9.com/ day] 2014-09-21 14:13:34</p></div>
+flags: 0
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 ip: 89.235.235.166
-ts: 1411298020
+ts: 1411299226
 minor: 
-host: 95.211.192.231
-username: day
-revision: 4
-diff-major: 1
-summary: Hello! http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , . . .
+host: 89.235.240.224
+username: AlexDaniel
+revision: 5
+summary: Откат до 2014-08-24 06:19:16
 languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon II
 	#SUBURL: Course:30243
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
-	
-	Hello!
-	http://www.fastcashadvancep9.com/ ,  , http://www.cashadvanceonline9l.com/ ,  , http://www.nationalcashadvancep9.com/ ,  , http://www.samedaycash9p.com/ ,  , http://www.cashadvancespayl9.com/ ,  ,
-	
-	-- [http://www.fastcashadvancep9.com/ day] 2014-09-21 14:13:34
-	
-	
-lastmajor: 4
-keep-ts: 1411298020
+lastmajor: 5
+keep-ts: 1411299226
