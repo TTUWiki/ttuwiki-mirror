@@ -1,16 +1,16 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#SUBTITLE Alajaamad<br />&lt; #SUBURL: Course:25873<br />&lt; Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"></strong></p></div>
+flags: 0
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 ip: 89.235.235.166
-ts: 1411583800
+ts: 1411598427
 minor: 
-host: 193.40.244.203
-username: 
-revision: 4
-diff-major: 1
-summary: 
+host: 89.235.222.185
+username: AlexDaniel
+revision: 5
+summary: Откат до 2014-08-24 05:04:27
 languages: 
-text: 
+text: #SUBTITLE Alajaamad
+	#SUBURL: Course:25873
+	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 4
-keep-ts: 1411583800
+lastmajor: 5
+keep-ts: 1411598427
