@@ -1,19 +1,15 @@
-flags: 010
-blocks: <h3>Лекции</h3><p>Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить &#x201c;автомат&#x201d; тем, кто пару раз вовремя пришел.</p><h3>Контрольные работы</h3><p>По его словам, смысл этих работ &#x201c;образовательный&#x201d;. То есть можете спокойно подглядывать, всё равно толку от этих контрольных нет.</p><h3>Экзамен</h3><p>Письменный, пять элементарных вопросов. Можете не волноваться.</p><h3>Другое</h3><p>Тем, кто поступил в 2014-ом году, вряд ли придется сдавать этот предмет. У многих он пропал из программы, а на его замену пришел [[HOE6053]].</p><p>А еще он <a class="url http outside" href="http://www.stihi.ru/avtor/lira2006">пишет стихи</a>.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить "автомат" тем, кто вовремя пришел.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить "автомат" тем, кто <strong class="changes">пару раз</strong> вовремя пришел.</p></div>
+flags: 010100
+blocks: <h3>Лекции</h3><p>Рассказывает интересно, но часто отвлекается на посторонние темы типа советских анекдотов, фертильности Пугачевой, а также просто его жизненных историй. Посещение абсолютно вольное, однако может поставить &#x201c;автомат&#x201d; тем, кто пару раз вовремя пришел.</p><h3>Контрольные работы</h3><p>По его словам, смысл этих работ &#x201c;образовательный&#x201d;. То есть можете спокойно подглядывать, всё равно толку от этих контрольных нет.</p><h3>Экзамен</h3><p>Письменный, пять элементарных вопросов. Можете не волноваться.</p><h3>Другое</h3><p>Тем, кто поступил в 2014-ом году, вряд ли придется сдавать этот предмет. У многих он пропал из программы, а на его замену пришел [[HOE6053]].</p><p>А еще он <a class="url http outside" href="http://www.stihi.ru/avtor/lira2006">пишет стихи</a>.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Конспекты есть тут: <a class="url http" href="http://ttuit.eu/index.php?option=com_jdownloads&amp;Itemid=65&amp;view=summary&amp;lang=ru">http://ttuit.eu/index.php?option=com_jdownloads&amp;Itemid=65&amp;view=summary&amp;lang=ru</a></p><p>&#x2013; AlexDaniel 2014-09-25 12:57:14</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Конспекты есть тут: http://ttuit.eu/index.php?option=com_jdownloads&amp;Itemid=65&amp;view=summary&amp;lang=ru<br />&gt; -- AlexDaniel 2014-09-25 12:57:14</p></div>
 ip: 84.52.48.194
-ts: 1411638948
-minor: 1
+ts: 1411639034
+minor: 
 host: 89.235.236.14
 username: AlexDaniel
-revision: 6
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">=== Другое</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].</p></div>
-summary: 
+revision: 7
+diff-major: 1
+summary: Конспекты есть тут: http://ttuit.eu/index.php?option=com_jdownloads&Itemid=65&view=summary&lang=ru
 languages: 
 text: #SUBTITLE Õigusõpetus
 	#SUBURL: Course:28071
@@ -32,5 +28,12 @@ text: #SUBTITLE Õigusõpetus
 	
 	А еще он [http://www.stihi.ru/avtor/lira2006 пишет стихи].
 	
-lastmajor: 4
-keep-ts: 1411638948
+	----
+	
+	Конспекты есть тут: http://ttuit.eu/index.php?option=com_jdownloads&Itemid=65&view=summary&lang=ru
+	
+	-- AlexDaniel 2014-09-25 12:57:14
+	
+	
+lastmajor: 7
+keep-ts: 1411639034
