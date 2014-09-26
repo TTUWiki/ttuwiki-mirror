@@ -1,20 +1,16 @@
-flags: 010101010100
+flags: 01010101010
 blocks: &lt;include "EAEI02-12Tartu"&gt;
 	&lt;include "EAEI02-09Tartu"&gt;
 	&lt;include "EAEI02-09"&gt;
 	&lt;include "EAEI02-06"&gt;
-	&lt;include "EAEI02-02"&gt;
-	<h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>If you are going for best contents like myself, simply go to see this site all bgeaakdcdkbc</p><p>&#x2013; Johnd751 2014-09-26 10:21:11</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; If you are going for best contents like myself, simply go to see this site all bgeaakdcdkbc<br />&gt; -- Johnd751 2014-09-26 10:21:11</p></div>
+	&lt;include "EAEI02-02"&gt;
 ip: 89.235.235.166
-ts: 1411716071
-minor: 
-host: 12.234.194.19
-username: Johnd751
-revision: 16
-diff-major: 1
-summary: If you are going for best contents like myself, simply go to see this site all bgeaakdcdkbc
+ts: 1411753575
+minor: 0
+host: 89.235.236.14
+username: AlexDaniel
+revision: 17
+summary: Откат до 2014-09-21 14:34:00
 languages: 
 text: <include "EAEI02-12Tartu">
 	
@@ -28,12 +24,5 @@ text: <include "EAEI02-12Tartu">
 	
 	
 	
-	----
-	
-	If you are going for best contents like myself, simply go to see this site all bgeaakdcdkbc
-	
-	-- Johnd751 2014-09-26 10:21:11
-	
-	
-lastmajor: 16
-keep-ts: 1411716071
+lastmajor: 17
+keep-ts: 1411753575
