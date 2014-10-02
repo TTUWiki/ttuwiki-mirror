@@ -1,12 +1,12 @@
-flags: 0
-blocks: <p>This page contains an uploaded file:</p><p><a class="upload" rel="nofollow" href="http://ttuwiki.org?action=download;id=Test;revision=1">Test</a></p>
-ts: 1412259001
+flags: 010
+blocks: <p>DeletedPage</p>
+ts: 1412259024
 minor: 1
 host: 84.52.46.155
 username: AlexDaniel
-revision: 1
-summary: File upload test
+revision: 2
+summary: Deleted
 languages: 
-text: #FILE text/plain 
-	SnVzdCB0ZXN0aW5nIGlmIHVwbG9hZCBmdW5jdGlvbmFsaXR5IHN0aWxsIHdvcmtzLg==
+text: DeletedPage
 	
+keep-ts: 1412259024
