@@ -35,15 +35,16 @@ blocks: <pre>^216\.152\.251\.72
 	^62\.210\.152\.149 # 2014-10-20 ISS0010
 	^62\.210\.167\.213 # 2014-10-20 ISS0010
 	^62\.210\.78\.209 # 2014-10-20 ISS0010
-	^62\.210\.91\.168 # 2014-10-20 ISS0010</pre>
+	^62\.210\.91\.168 # 2014-10-20 ISS0010
+	^65\.49\.14\.147 # 2014-10-20 ISS0010</pre>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ^62\.210\.91\.168 # 2014-10-20 ISS0010</p></div>
+	<div class="new"><p>&gt; ^65\.49\.14\.147 # 2014-10-20 ISS0010</p></div>
 ip: 84.52.48.17
-ts: 1413838200
+ts: 1413838213
 minor: 1
 host: 84.52.48.25
 username: AlexDaniel
-revision: 39
+revision: 40
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; ^91\.207<strong class="changes">\.7</strong>\.[0-9<strong class="changes">]+ # 2014-08</strong>-<strong class="changes">10 EAUM12<br />&lt; ^91\.207\.6\.142</strong> # 2014-08-12 EAUM12</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; ^91\.207\.[0-9<strong class="changes">]+\.[0</strong>-<strong class="changes">9]+</strong> # 2014-08-12 EAUM12</p></div><p><strong>Deleted:</strong></p>
@@ -87,6 +88,7 @@ text: ^216\.152\.251\.72
 	^62\.210\.167\.213 # 2014-10-20 ISS0010
 	^62\.210\.78\.209 # 2014-10-20 ISS0010
 	^62\.210\.91\.168 # 2014-10-20 ISS0010
+	^65\.49\.14\.147 # 2014-10-20 ISS0010
 	
 lastmajor: 18
-keep-ts: 1413838200
+keep-ts: 1413838213
