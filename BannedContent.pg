@@ -1,19 +1,21 @@
 flags: 0
 blocks: <pre>casino
-	payday # 2014-07-11 EAUM12</pre>
+	payday # 2014-07-11 EAUM12
+	donterra</pre>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; payday # 2014-07-11 EAUM12</p></div>
+	<div class="new"><p>&gt; donterra</p></div>
 ip: 89.235.231.98
-ts: 1405092840
+ts: 1413904069
 minor: 1
-host: 89-235-231-98.saturn.infonet.ee
+host: 84.52.48.25
 username: AlexDaniel
-revision: 2
+revision: 3
 diff-major: 
-summary: EAUM12
+summary: 
 languages: 
 text: casino
 	payday # 2014-07-11 EAUM12
+	donterra
 	
 lastmajor: 1
-keep-ts: 1405092840
+keep-ts: 1413904069
