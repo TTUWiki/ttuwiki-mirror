@@ -1,16 +1,15 @@
 flags: 01010101010101010
-blocks: <h3>О сайте:</h3><ul><li>[[Редактирование]] - про возможности этого сайта</li><li>[[FAQ]] - Часто задаваемые вопросы</li><li>[[Необходимые улучшения]] - известные проблемы и предложения по их исправлению</li><li>[[Генерация Страниц]] - страницы с расписаниями и первоначальные страницы для предметов генерируются автоматически.</li></ul><h3>Другие сайты:</h3><ul><li><a target="_new" class="url http newwindow" href="https://www.facebook.com/groups/rusttu/">https://www.facebook.com/groups/rusttu/</a> - Самый быстрый способ получить ответ, если его нет на этом сайте.<br /></li><li><a target="_new" class="url http newwindow" href="http://ttuit.eu/">http://ttuit.eu/</a> - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)<br /></li><li><a target="_new" class="url http newwindow" href="http://starspirals.net/ttu/materjalid/">http://starspirals.net/ttu/materjalid/</a> - Довольно актуальный среди других, последние обновления в 2013-ом году.<br /></li><li><a target="_new" class="url http newwindow" href="http://forum.ee/f68/tallinna-tehnikalikool-tt/">http://forum.ee/f68/tallinna-tehnikalikool-tt/</a> - Очень много хорошей и полезной информации, попробуй найди.<br /></li><li><a target="_new" class="url http newwindow" href="http://hot.ee/iasb02/materials/">http://hot.ee/iasb02/materials/</a> - Заброшен в 2004-ом, но некоторая информация до сих пор актуальна.<br /></li><li><a target="_new" class="url http newwindow" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a><br /></li><li><a target="_new" class="url http newwindow" href="http://annaabi.ee/ylikool-1.html">http://annaabi.ee/ylikool-1.html</a> - Вроде бы и есть какие-то материалы, но для того, чтобы их скачать, необходимо заплатить 3.20€. Не рекомендуется.<br /></li><li><a target="_new" class="url http newwindow" href="http://www.hot.ee/l/las97ttu/comments.html">http://www.hot.ee/l/las97ttu/comments.html</a></li></ul><h4>Архивы:</h4><p>Сделаны на случай, если один из сайтов в какой-то момент вовсе перестанет функционировать. Скачиваете, распаковываете, открываете любой из html файлов в любимом браузере и можете пользоваться сайтом в offline, прямо с вашего компьютера.<br /></p><table class="user"><tr><th>Файл</th><th>Дата</th><th>Размер</th></tr><tr><td>[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]</td><td>2014-02-22</td><td>240.2MB</td></tr><tr><td>[[File:www.hot.ee.zip|hot.ee/iasb02/materials/]]</td><td>2014-02-22</td><td>5.7MB</td></tr><tr><td>[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|частичный]])</td><td>2014-02-22</td><td>315.8MB</td></tr></table>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * [[Генерация Страниц]] - <strong class="changes">многие</strong> страницы генерируются автоматически</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * [[Генерация Страниц]] - страницы <strong class="changes">с расписаниями и первоначальные страницы для предметов</strong> генерируются автоматически<strong class="changes">.</strong></p></div>
+blocks: <h3>О сайте:</h3><ul><li>[[Редактирование]] - про возможности этого сайта</li><li>[[FAQ]] - Часто задаваемые вопросы</li><li>[[Необходимые улучшения]] - известные проблемы и предложения по их исправлению</li><li>[[Генерация Страниц]] - страницы с расписаниями и первоначальные страницы для предметов генерируются автоматически.</li></ul><h3>Другие сайты:</h3><ul><li><a target="_new" class="url http newwindow" href="https://www.facebook.com/groups/rusttu/">https://www.facebook.com/groups/rusttu/</a> - Самый быстрый способ получить ответ, если его нет на этом сайте.<br /></li><li><a target="_new" class="url http newwindow" href="http://ttuit.eu/">http://ttuit.eu/</a> - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)<br /></li><li><a target="_new" class="url http newwindow" href="http://starspirals.net/ttu/materjalid/">http://starspirals.net/ttu/materjalid/</a> - Довольно актуальный среди других, последние обновления в 2013-ом году.<br /></li><li><a target="_new" class="url http newwindow" href="http://forum.ee/f68/tallinna-tehnikalikool-tt/">http://forum.ee/f68/tallinna-tehnikalikool-tt/</a> - Очень много хорошей и полезной информации, попробуй найди.<br /></li><li><a target="_new" class="url http newwindow" href="http://hot.ee/iasb02/materials/">http://hot.ee/iasb02/materials/</a> - Заброшен в 2004-ом, но некоторая информация до сих пор актуальна.<br /></li><li><a target="_new" class="url http newwindow" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a><br /></li><li><a target="_new" class="url http newwindow" href="http://annaabi.ee/ylikool-1.html">http://annaabi.ee/ylikool-1.html</a> - Вроде бы и есть какие-то материалы, но для того, чтобы их скачать, необходимо заплатить 3.20€. Не рекомендуется.<br /></li><li><a target="_new" class="url http newwindow" href="http://www.hot.ee/l/las97ttu/comments.html">http://www.hot.ee/l/las97ttu/comments.html</a><br /></li><li><a target="_new" class="url http newwindow" href="http://iapb12.pbworks.com">http://iapb12.pbworks.com</a> - эстонская вики iapb-шников 2009-го года.</li></ul><h4>Архивы:</h4><p>Сделаны на случай, если один из сайтов в какой-то момент вовсе перестанет функционировать. Скачиваете, распаковываете, открываете любой из html файлов в любимом браузере и можете пользоваться сайтом в offline, прямо с вашего компьютера.<br /></p><table class="user"><tr><th>Файл</th><th>Дата</th><th>Размер</th></tr><tr><td>[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]</td><td>2014-02-22</td><td>240.2MB</td></tr><tr><td>[[File:www.hot.ee.zip|hot.ee/iasb02/materials/]]</td><td>2014-02-22</td><td>5.7MB</td></tr><tr><td>[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|частичный]])</td><td>2014-02-22</td><td>315.8MB</td></tr></table>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; *[new:http://iapb12.pbworks.com] - эстонская вики iapb-шников 2009-го года.</p></div>
 ip: 89.235.239.240
-ts: 1402692013
+ts: 1414092831
 minor: 
-host: 89-235-239-240.saturn.infonet.ee
-username: 
-revision: 29
+host: 89.235.232.183
+username: AlexDaniel
+revision: 30
 diff-major: 1
-summary: 
+summary: Еще один сайт
 languages: 
 text: ===О сайте:
 	* [[Редактирование]] - про возможности этого сайта
@@ -28,6 +27,7 @@ text: ===О сайте:
 	*[new:http://aboutthat.era.ee]
 	*[new:http://annaabi.ee/ylikool-1.html] - Вроде бы и есть какие-то материалы, но для того, чтобы их скачать, необходимо заплатить 3.20€. Не рекомендуется.
 	*[new:http://www.hot.ee/l/las97ttu/comments.html]
+	*[new:http://iapb12.pbworks.com] - эстонская вики iapb-шников 2009-го года.
 	
 	====Архивы:
 	Сделаны на случай, если один из сайтов в какой-то момент вовсе перестанет функционировать. Скачиваете, распаковываете, открываете любой из html файлов в любимом браузере и можете пользоваться сайтом в offline, прямо с вашего компьютера.
@@ -37,5 +37,5 @@ text: ===О сайте:
 	|[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|частичный]])|2014-02-22|315.8MB|
 	
 	
-lastmajor: 29
-keep-ts: 1402692013
+lastmajor: 30
+keep-ts: 1414092831
