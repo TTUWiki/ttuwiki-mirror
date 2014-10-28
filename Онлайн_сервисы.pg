@@ -1,13 +1,12 @@
 flags: 0
-blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a></li></ul>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * https://portal.ttu.ee/</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * https://portal.ttu.ee/ <strong class="changes">или https://webportal.ttu.ee</strong></p></div>
-ts: 1414509955
+blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a></li><li><a class="url http" href="http://docs.ttu.ee/">http://docs.ttu.ee/</a></li></ul>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; * http://docs.ttu.ee/</p></div>
+ts: 1414510353
 minor: 
 host: 89.235.232.183
 username: AlexDaniel
-revision: 7
+revision: 8
 diff-major: 1
 summary: * https://pass.ttu.ee * http://sise.ttu.ee/ * http://home.ttu.ee/ * https://toru.ttu.ee/ * https://dlx.intra.ttu.ee/DocLogix/ * . . .
 languages: 
@@ -20,6 +19,7 @@ text: * https://pass.ttu.ee/
 	* https://dlx.intra.ttu.ee/DocLogix/
 	* https://portal.ttu.ee/ или https://webportal.ttu.ee
 	* http://helpdesk.ttu.ee/
+	* http://docs.ttu.ee/
 	
-lastmajor: 7
-keep-ts: 1414509955
+lastmajor: 8
+keep-ts: 1414510353
