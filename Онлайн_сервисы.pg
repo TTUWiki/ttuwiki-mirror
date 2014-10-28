@@ -1,13 +1,12 @@
 flags: 0
-blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li></ul>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; * https://dlx.intra.ttu.ee/DocLogix/</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; * https://dlx.intra.ttu.ee/DocLogix/</p></div>
-ts: 1414508344
+blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a></li></ul>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; * https://portal.ttu.ee/</p></div>
+ts: 1414509308
 minor: 1
 host: 89.235.232.183
 username: AlexDaniel
-revision: 4
+revision: 5
 diff-major: 
 summary: * https://pass.ttu.ee * http://sise.ttu.ee/ * http://home.ttu.ee/ * https://toru.ttu.ee/ * https://dlx.intra.ttu.ee/DocLogix/ * . . .
 languages: 
@@ -18,6 +17,7 @@ text: * https://pass.ttu.ee/
 	* http://email.ttu.ee/
 	* http://arenguvestlus.ttu.ee/
 	* https://dlx.intra.ttu.ee/DocLogix/
+	* https://portal.ttu.ee/
 	
 lastmajor: 1
-keep-ts: 1414508344
+keep-ts: 1414509308
