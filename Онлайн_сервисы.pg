@@ -1,0 +1,18 @@
+flags: 0
+blocks: <ul><li><a class="url http" href="https://pass.ttu.ee">https://pass.ttu.ee</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="http://home.ttu.ee/">http://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li></ul>
+ts: 1414508098
+minor: 
+host: 89.235.232.183
+username: AlexDaniel
+revision: 1
+summary: * https://pass.ttu.ee * http://sise.ttu.ee/ * http://home.ttu.ee/ * https://toru.ttu.ee/ * https://dlx.intra.ttu.ee/DocLogix/ * . . .
+languages: 
+text: * https://pass.ttu.ee
+	* http://sise.ttu.ee/
+	* http://home.ttu.ee/
+	* https://toru.ttu.ee/
+	* https://dlx.intra.ttu.ee/DocLogix/
+	* http://arenguvestlus.ttu.ee/
+	* http://email.ttu.ee/
+	
+lastmajor: 1
