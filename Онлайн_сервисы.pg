@@ -1,12 +1,12 @@
 flags: 0
-blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a></li><li><a class="url http" href="http://docs.ttu.ee/">http://docs.ttu.ee/</a></li></ul>
+blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a></li><li><a class="url http" href="http://docs.ttu.ee/">http://docs.ttu.ee/</a></li></ul><p><br /><br />А также несколько веб-камер (ссылки на камеры в кабинетах взяты <a class="url http outside" href="http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/">отсюда</a>):<br /></p><ul><li><a class="url http" href="http://webcam1.ttu.ee">http://webcam1.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http" href="http://webcam2.ttu.ee">http://webcam2.ttu.ee</a></li><li><a class="url http" href="http://webcam3.ttu.ee">http://webcam3.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http outside" href="http://193.40.245.129">U05-305</a></li><li><a class="url http outside" href="http://193.40.245.131">U05-115</a></li><li><a class="url http outside" href="http://193.40.245.158">U05-302</a></li><li><a class="url http outside" href="http://193.40.245.180">U05-303</a></li><li><a class="url http outside" href="http://193.40.245.179">U05-304</a></li><li><a class="url http outside" href="http://193.40.245.143">U05-306</a></li><li><a class="url http outside" href="http://193.40.245.181">U05-307</a></li><li><a class="url http outside" href="http://193.40.245.132">Vb-006</a></li><li><a class="url http outside" href="http://193.40.245.182">Vb-201</a></li></ul>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; * http://docs.ttu.ee/</p></div>
-ts: 1414510353
+	<div class="new"><p>&gt; \\\\<br />&gt; А также несколько веб-камер (ссылки на камеры в кабинетах взяты [[http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ отсюда]]):<br />&gt; * http://webcam1.ttu.ee - не работает, но домен есть.<br />&gt; * http://webcam2.ttu.ee<br />&gt; * http://webcam3.ttu.ee - не работает, но домен есть.<br />&gt; * [[http://193.40.245.129 U05-305]]<br />&gt; * [[http://193.40.245.131 U05-115]]<br />&gt; * [[http://193.40.245.158 U05-302]]<br />&gt; * [[http://193.40.245.180 U05-303]]<br />&gt; * [[http://193.40.245.179 U05-304]]<br />&gt; * [[http://193.40.245.143 U05-306]]<br />&gt; * [[http://193.40.245.181 U05-307]]<br />&gt; * [[http://193.40.245.132 Vb-006]]<br />&gt; * [[http://193.40.245.182 Vb-201]]</p></div>
+ts: 1414514714
 minor: 
 host: 89.235.232.183
 username: AlexDaniel
-revision: 8
+revision: 9
 diff-major: 1
 summary: * https://pass.ttu.ee * http://sise.ttu.ee/ * http://home.ttu.ee/ * https://toru.ttu.ee/ * https://dlx.intra.ttu.ee/DocLogix/ * . . .
 languages: 
@@ -21,5 +21,21 @@ text: * https://pass.ttu.ee/
 	* http://helpdesk.ttu.ee/
 	* http://docs.ttu.ee/
 	
-lastmajor: 8
-keep-ts: 1414510353
+	
+	\\\\
+	А также несколько веб-камер (ссылки на камеры в кабинетах взяты [[http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ отсюда]]):
+	* http://webcam1.ttu.ee - не работает, но домен есть.
+	* http://webcam2.ttu.ee
+	* http://webcam3.ttu.ee - не работает, но домен есть.
+	* [[http://193.40.245.129 U05-305]]
+	* [[http://193.40.245.131 U05-115]]
+	* [[http://193.40.245.158 U05-302]]
+	* [[http://193.40.245.180 U05-303]]
+	* [[http://193.40.245.179 U05-304]]
+	* [[http://193.40.245.143 U05-306]]
+	* [[http://193.40.245.181 U05-307]]
+	* [[http://193.40.245.132 Vb-006]]
+	* [[http://193.40.245.182 Vb-201]]
+	
+lastmajor: 9
+keep-ts: 1414514714
