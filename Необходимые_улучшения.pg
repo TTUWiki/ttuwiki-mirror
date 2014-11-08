@@ -1,26 +1,21 @@
-flags: 01010
-blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Возможность сравнения двух учебный программ</h3><p>&#x2013; AlexDaniel 2014-07-28 15:16:19</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; === <strong class="changes">Мобильная версия</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === <strong class="changes">Адаптировать сайт под мобильные телефоны</strong></p></div>
+flags: 010
+blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; === Возможность сравнения двух учебный программ<br />&lt; -- AlexDaniel 2014-07-28 15:16:19</p></div>
 ip: 84.52.39.59
-ts: 1407600999
+ts: 1415473699
 minor: 
-host: 89.235.245.14
+host: 89.235.226.174
 username: AlexDaniel
-revision: 14
+revision: 15
 diff-major: 1
-summary: 
+summary: Готово
 languages: 
 text: === Адаптировать сайт под мобильные телефоны
 	Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?
 	
 	-- AlexDaniel 2014-03-17 23:59 UTC
 	
-	=== Возможность сравнения двух учебный программ
 	
-	-- AlexDaniel 2014-07-28 15:16:19
-	
-	
-lastmajor: 14
-keep-ts: 1407600999
+lastmajor: 15
+keep-ts: 1415473699
