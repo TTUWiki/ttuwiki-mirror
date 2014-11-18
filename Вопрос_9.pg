@@ -1,12 +1,13 @@
 flags: 00
-blocks: <p>IDN0010 Erialatutvustus. Есть ли уже темы для эссе?</p><p>&#x2013; Anna 2014-11-17 23:23:44</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Ответ же тут прозвучал: <a class="url http" href="http://ttuwiki.org/IDN0011">http://ttuwiki.org/IDN0011</a> да и срок сдачи вроде как уже подошел, в прошлом году это 11 число было.</p><p>&#x2013; Artur Gummel 2014-11-18 19:03:06</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи вроде как уже подошел, в прошлом году это 11 число было.<br />&gt; -- Artur Gummel 2014-11-18 19:03:06</p></div>
-ts: 1416330186
+blocks: <p>IDN0010 Erialatutvustus. Есть ли уже темы для эссе?</p><p>&#x2013; Anna 2014-11-17 23:23:44</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Ответ же тут прозвучал: <a class="url http" href="http://ttuwiki.org/IDN0011">http://ttuwiki.org/IDN0011</a> да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p><p>&#x2013; Artur Gummel 2014-11-18 19:03:06</p></div>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи вроде как уже подошел, в прошлом году это 11 число было.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи<strong class="changes">,</strong> вроде как<strong class="changes">,</strong> уже подошел, в прошлом году это 11 число было.</p></div>
+ts: 1416330214
 minor: 
 host: 176.46.125.185
 username: Artur Gummel
-revision: 2
+revision: 3
 diff-major: 1
 summary: Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи вроде как уже подошел, в прошлом году это 11 число было.
 languages: 
@@ -17,10 +18,10 @@ text: IDN0010 Erialatutvustus. Есть ли уже темы для эссе?
 	
 	----
 	
-	Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи вроде как уже подошел, в прошлом году это 11 число было.
+	Ответ же тут прозвучал: http://ttuwiki.org/IDN0011 да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.
 	
 	-- Artur Gummel 2014-11-18 19:03:06
 	
 	
-lastmajor: 2
-keep-ts: 1416330186
+lastmajor: 3
+keep-ts: 1416330214
