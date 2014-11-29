@@ -1,18 +1,18 @@
-flags: 010
-blocks: <p>Новый предмет, полезность сомнительна.<br />Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br /><img class="url http" src="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" alt="http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg" /><br />[[File:1017412_676832919022636_1384346730_n.jpg]]</p>
+flags: 0
+blocks: <p>Новый предмет, полезность сомнительна.<br />Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br /></p><div class="image"><a class="image inter File" href="http://files.ttuwiki.org/1017412_676832919022636_1384346730_n.jpg"><img class="upload" title="File:1017412 676832919022636 1384346730 n.jpg" src="http://files.ttuwiki.org/1017412_676832919022636_1384346730_n.jpg" alt="File:1017412 676832919022636 1384346730 n.jpg" /></a><br /><span class="caption">Суть предмета</span></div>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Modelleerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>107195<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Modelleerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>107195</p></div>
+	<div class="old"><p>&lt; <strong class="changes">http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg</strong><br />&lt; [[File:1017412_676832919022636_1384346730_n.jpg]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">image:</strong>File:1017412_676832919022636_1384346730_n.jpg<strong class="changes">||Суть предмета</strong>]]</p></div>
 ip: 84.52.48.194
-ts: 1408847557
+ts: 1417294709
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 4
+host: 89.235.235.42
+username: AlexDaniel
+revision: 5
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">Новый предмет</strong>, <strong class="changes">полезность сомнительна</strong>.<br />&gt; <strong class="changes">Описание в ÕIS у него очень красивое, а всё сводится к вот этому:<br />&gt; http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg<br />&gt; [[File:1017412_676832919022636_1384346730_n.jpg]]</strong></p></div>
-summary: Refactoring
+summary: 
 languages: 
 text: #SUBTITLE Modelleerimine
 	#SUBURL: Course:107195
@@ -20,8 +20,7 @@ text: #SUBTITLE Modelleerimine
 	
 	Новый предмет, полезность сомнительна.
 	Описание в ÕIS у него очень красивое, а всё сводится к вот этому:
-	http://ttuwiki.org/u/1017412_676832919022636_1384346730_n.jpg
-	[[File:1017412_676832919022636_1384346730_n.jpg]]
+	[[image:File:1017412_676832919022636_1384346730_n.jpg||Суть предмета]]
 	
 lastmajor: 3
-keep-ts: 1408847557
+keep-ts: 1417294709
