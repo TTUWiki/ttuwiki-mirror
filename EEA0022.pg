@@ -1,16 +1,16 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#SUBTITLE Planeerimine ja teed<br />&lt; #SUBURL: Course:100366<br />&lt; Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"></strong></p></div>
+flags: 0
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 ip: 89.235.235.166
-ts: 1419604954
+ts: 1419607925
 minor: 
-host: 82.131.64.149
-username: 
-revision: 4
-diff-major: 1
-summary: 
+host: 89.235.221.197
+username: AlexDaniel
+revision: 5
+summary: Откат до 2014-08-24 05:12:47
 languages: 
-text: 
+text: #SUBTITLE Planeerimine ja teed
+	#SUBURL: Course:100366
+	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 4
-keep-ts: 1419604954
+lastmajor: 5
+keep-ts: 1419607925
