@@ -1,13 +1,13 @@
-flags: 010100
-blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><h3>Расписания для докторантов и заочников</h3><p>&#x2013; AlexDaniel 2015-01-14 00:36:51</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; === Расписания для докторантов и заочников<br />&gt; -- AlexDaniel 2015-01-14 00:36:51</p></div>
+flags: 01010
+blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Расписания для докторантов и заочников</h3><p>&#x2013; AlexDaniel 2015-01-14 00:36:51</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----</p></div>
 ip: 84.52.39.59
-ts: 1421188612
+ts: 1421188620
 minor: 
 host: 82.131.49.239
 username: AlexDaniel
-revision: 16
+revision: 17
 diff-major: 1
 summary: === Расписания для докторантов и заочников 
 languages: 
@@ -17,12 +17,10 @@ text: === Адаптировать сайт под мобильные телеф
 	-- AlexDaniel 2014-03-17 23:59 UTC
 	
 	
-	----
-	
 	=== Расписания для докторантов и заочников
 	
 	-- AlexDaniel 2015-01-14 00:36:51
 	
 	
-lastmajor: 16
-keep-ts: 1421188612
+lastmajor: 17
+keep-ts: 1421188620
