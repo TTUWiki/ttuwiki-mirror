@@ -1,19 +1,19 @@
 flags: 010
-blocks: <h2>Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100353&amp;p_public=1&amp;p_mode=1]</h2><p>Ветер веет с юга&#x2026;.</p>
+blocks: <h2>Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100353&amp;p_public=1&amp;p_mode=1]</h2><p>Материалов нет.</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#SUBTITLE</strong> Optimeerimismeetodid<br />&lt; <strong class="changes">#SUBURL: Course:100353<br />&lt; Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Optimeerimismeetodid <strong class="changes">[http://ois.ttu</strong>.<strong class="changes">ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100353&amp;p_public=1&amp;p_mode=1]<br />&gt; Ветер веет с юга....</strong></p></div>
+	<div class="old"><p>&lt; <strong class="changes">Ветер веет с юга....</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Материалов нет.</strong></p></div>
 ip: 89.235.235.166
-ts: 1422011199
+ts: 1422011837
 minor: 
 host: 77.233.95.115
 username: 
-revision: 4
+revision: 5
 diff-major: 1
 summary: 
 languages: 
 text: ==Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=100353&p_public=1&p_mode=1]
-	Ветер веет с юга....
+	Материалов нет.
 	
-lastmajor: 4
-keep-ts: 1422011199
+lastmajor: 5
+keep-ts: 1422011837
