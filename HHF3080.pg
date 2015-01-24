@@ -1,22 +1,33 @@
 flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h2>Информация</h2><p>Всё в мудле.</p><h2>Лекции</h2><p>Поскольку г-ин Космос больше философию не ведет, теперь с этим предметом всё в порядке. Ведет его теперь интеллигентная, молодая девушка. Ходить довольно интересно.</p><h2>Харьютусы</h2><p>Класс делится на группы, группам выдаются вопросы, вопросы по текстам, которые нужно прочитать к каждому харьютусу.</p><h2>Экзамен</h2><p>Его нет! По этому предмету просто arvestus, поэтому достаточно просто отходить достаточное кол-во харьютусов. Если же вы не ходили, придется писать эссе, но это скорее редкость.</p><p>В целом халява.</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Filosoofia <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100403<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Filosoofia<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100403</p></div>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь</strong> не <strong class="changes">хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Информация<br />&gt; Всё в мудле.<br />&gt; ==Лекции<br />&gt; Поскольку г-ин Космос больше философию не ведет, теперь с этим предметом всё в порядке. Ведет его теперь интеллигентная, молодая девушка. Ходить довольно интересно.<br />&gt; ==Харьютусы<br />&gt; Класс делится на группы, группам выдаются вопросы</strong>, <strong class="changes">вопросы по текстам, которые нужно прочитать к каждому харьютусу.<br />&gt; ==Экзамен<br />&gt; Его нет! По этому предмету просто arvestus, поэтому достаточно просто отходить достаточное кол-во харьютусов. Если же вы</strong> не <strong class="changes">ходили, придется писать эссе, но это скорее редкость.<br />&gt; В целом халява</strong>.</p></div>
 ip: 89.235.235.166
-ts: 1408846898
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Filosoofia</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Filosoofia <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100403&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1422140639
+minor: 
+host: 85.253.71.111
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: Описание предмета
 languages: 
 text: #SUBTITLE Filosoofia
 	#SUBURL: Course:100403
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408846898
+	==Информация
+	Всё в мудле.
+	
+	==Лекции
+	Поскольку г-ин Космос больше философию не ведет, теперь с этим предметом всё в порядке. Ведет его теперь интеллигентная, молодая девушка. Ходить довольно интересно.
+	
+	==Харьютусы
+	Класс делится на группы, группам выдаются вопросы, вопросы по текстам, которые нужно прочитать к каждому харьютусу.
+	
+	==Экзамен
+	Его нет! По этому предмету просто arvestus, поэтому достаточно просто отходить достаточное кол-во харьютусов. Если же вы не ходили, придется писать эссе, но это скорее редкость.
+	
+	В целом халява.
+	
+lastmajor: 4
+keep-ts: 1422140639
