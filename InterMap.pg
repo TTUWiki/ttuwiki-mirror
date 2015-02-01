@@ -1,24 +1,24 @@
 flags: 0
-blocks: <p> File <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Fi <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Timetable <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=141&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=141&amp;g=</a><br /> Ti <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=141&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=141&amp;g=</a></p><p> Course <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=">http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=</a><br /> Kava <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=&amp;p_kava_versioon_id=">http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=&amp;p_kava_versioon_id=</a></p>
+blocks: <p> File <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Fi <a class="url http" href="http://files.ttuwiki.org/">http://files.ttuwiki.org/</a><br /> Timetable <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=142&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=142&amp;g=</a><br /> Ti <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=142&amp;g=">http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=142&amp;g=</a></p><p> Course <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=">http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=</a><br /> Kava <a class="url http" href="http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=&amp;p_kava_versioon_id=">http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=&amp;p_kava_versioon_id=</a></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt;  Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">122</strong>&amp;g=<br />&lt;  Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">122</strong>&amp;g=</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt;  Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">141</strong>&amp;g=<br />&gt;  Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">141</strong>&amp;g=</p></div>
+	<div class="old"><p>&lt;  Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">141</strong>&amp;g=<br />&lt;  Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">141</strong>&amp;g=</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">142</strong>&amp;g=<br />&gt;  Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&amp;_dad=portal&amp;_schema=PORTAL&amp;k=&amp;i=2&amp;a=1&amp;q=1&amp;b=1&amp;c=-1&amp;d=-1&amp;e=-1&amp;e_sem=<strong class="changes">142</strong>&amp;g=</p></div>
 ip: 89.235.231.110
-ts: 1408864724
+ts: 1422813593
 minor: 
-host: 89.235.223.25
+host: 82.131.3.129
 username: AlexDaniel
-revision: 15
+revision: 16
 diff-major: 1
-summary: Новый семестр
+summary: Следующий семестр
 languages: 
 text:  File http://files.ttuwiki.org/
 	 Fi http://files.ttuwiki.org/
-	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=141&g=
-	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=141&g=
+	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=142&g=
+	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=142&g=
 	
 	 Course http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_public=1&p_mode=1&p_id=
 	 Kava http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=&p_kava_versioon_id=
 	
-lastmajor: 15
-keep-ts: 1408864724
+lastmajor: 16
+keep-ts: 1422813593
