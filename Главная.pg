@@ -1,4 +1,4 @@
-flags: 010101010
+flags: 01010101010
 blocks: &lt;include "Õppekavad"&gt;
 	<h5>Сравнить учебные программы:</h5><p><form method="get" action="http://ttuwiki.org" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff">
 	<input name="action" type="hidden" value="pagediff" /><input name="pattern" type="hidden" value="^\w\w\w\w\d\d-\d\d$" /><select name="page1" >
@@ -23,10 +23,6 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="BAAB06-09">BAAB06-09</option>
 	<option value="BAAB06-11">BAAB06-11</option>
 	<option value="BAAB06-13">BAAB06-13</option>
-	<option value="BDÄR02-02">BDÄR02-02</option>
-	<option value="BDÄR02-04">BDÄR02-04</option>
-	<option value="BDÄR02-08">BDÄR02-08</option>
-	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
@@ -34,6 +30,10 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="BDMR02-04">BDMR02-04</option>
 	<option value="BDMR02-09">BDMR02-09</option>
 	<option value="BDRR13-13">BDRR13-13</option>
+	<option value="BDÄR02-02">BDÄR02-02</option>
+	<option value="BDÄR02-04">BDÄR02-04</option>
+	<option value="BDÄR02-08">BDÄR02-08</option>
+	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="EAAM11-11">EAAM11-11</option>
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
@@ -351,10 +351,6 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="BAAB06-09">BAAB06-09</option>
 	<option value="BAAB06-11">BAAB06-11</option>
 	<option value="BAAB06-13">BAAB06-13</option>
-	<option value="BDÄR02-02">BDÄR02-02</option>
-	<option value="BDÄR02-04">BDÄR02-04</option>
-	<option value="BDÄR02-08">BDÄR02-08</option>
-	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
@@ -362,6 +358,10 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="BDMR02-04">BDMR02-04</option>
 	<option value="BDMR02-09">BDMR02-09</option>
 	<option value="BDRR13-13">BDRR13-13</option>
+	<option value="BDÄR02-02">BDÄR02-02</option>
+	<option value="BDÄR02-04">BDÄR02-04</option>
+	<option value="BDÄR02-08">BDÄR02-08</option>
+	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="EAAM11-11">EAAM11-11</option>
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
@@ -657,16 +657,16 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="YVEM09-09">YVEM09-09</option>
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
-	</select> <input type="submit" name="" value="Diff" /></form><br /><br /></p><h2>Вопросы</h2>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
+	</select> <input type="submit" name="" value="Diff" /></form><br /><br /></p><h2>Вопросы</h2><p>[[Задать вопрос]]<br /></p>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
 	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[Задать вопрос]]</p></div>
 ip: 89.235.239.240
-ts: 1422755306
+ts: 1422756767
 minor: 
 host: 85.253.117.63
 username: AlexDaniel
-revision: 25
+revision: 26
 diff-major: 1
 summary: Больше кнопок!
 languages: 
@@ -676,6 +676,7 @@ text: <include "Õppekavad">
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	\\
 	==Вопросы
+	[[Задать вопрос]]
 	<Journal 6,10 "^Вопрос_\d+">
 	
 	[[Задать вопрос]]
@@ -683,5 +684,5 @@ text: <include "Õppekavad">
 	==Новости
 	<Journal 2,10 "^Новость_\d+">
 	
-lastmajor: 25
-keep-ts: 1422755306
+lastmajor: 26
+keep-ts: 1422756767
