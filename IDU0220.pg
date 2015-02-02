@@ -1,22 +1,28 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Andmebaasid I <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100733<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Andmebaasid I<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100733</p></div>
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Видеолекции по предмету:</p><p><a class="url http" href="http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html">http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html</a></p><p>&#x2013; BloodyMary 2015-02-02 22:33:20</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Видеолекции по предмету:<br />&gt; http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html<br />&gt; -- BloodyMary 2015-02-02 22:33:20</p></div>
 ip: 89.235.235.166
-ts: 1408847532
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Andmebaasid I</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Andmebaasid I <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100733&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1422909200
+minor: 
+host: 82.131.3.129
+username: BloodyMary
+revision: 4
+diff-major: 1
+summary: Видеолекции по предмету: http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html
 languages: 
 text: #SUBTITLE Andmebaasid I
 	#SUBURL: Course:100733
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408847532
+	----
+	
+	Видеолекции по предмету:
+	
+	http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html
+	
+	-- BloodyMary 2015-02-02 22:33:20
+	
+	
+lastmajor: 4
+keep-ts: 1422909200
