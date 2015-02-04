@@ -1,16 +1,13 @@
 flags: 0
-blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a> - Всё, кроме публичной папки (Webikodu). Для доступа к ней используйте sftp.</li><li><code>sftp://sftp.ttu.ee/</code></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a> - регистрируемся <a class="url http outside" href="http://www.ttu.ee/tugistruktuur/it-teenused/juhendid-1/teenused-tudengile-4/ttu-e-posti-aadress/?id=32321">тут</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://docs.ttu.ee/">http://docs.ttu.ee/</a> - Всякие документы</li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a> - Видимо, это вообще не для студентов :)</li></ul><p><br /><br />А также несколько веб-камер:<br /></p><ul><li><a class="url http" href="http://webcam1.ttu.ee">http://webcam1.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http" href="http://webcam2.ttu.ee">http://webcam2.ttu.ee</a></li><li><a class="url http" href="http://webcam3.ttu.ee">http://webcam3.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http" href="http://www.robotiklubi.ee/kaamera">http://www.robotiklubi.ee/kaamera</a></li><li><a class="url http outside" href="http://193.40.245.129">U05-305</a> - следующие ссылки взяты <a class="url http outside" href="http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/">отсюда</a> (если просит залогиниться, то логин user, пароль пустой)</li><li><a class="url http outside" href="http://193.40.245.131">U05-115</a></li><li><a class="url http outside" href="http://193.40.245.158">U05-302</a></li><li><a class="url http outside" href="http://193.40.245.180">U05-303</a></li><li><a class="url http outside" href="http://193.40.245.179">U05-304</a></li><li><a class="url http outside" href="http://193.40.245.143">U05-306</a></li><li><a class="url http outside" href="http://193.40.245.181">U05-307</a></li><li><a class="url http outside" href="http://193.40.245.132">Vb-006</a></li><li><a class="url http outside" href="http://193.40.245.182">Vb-201</a></li></ul>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * [[http://193.40.245.129 U05-305]] -  следующие ссылки взяты [[http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ отсюда]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * [[http://193.40.245.129 U05-305]] -  следующие ссылки взяты [[http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ отсюда]] <strong class="changes">(если просит залогиниться, то логин user, пароль пустой)</strong></p></div>
-ts: 1415473532
-minor: 1
-host: 89.235.226.174
+blocks: <ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a class="url http" href="http://sise.ttu.ee/">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a> - Всё, кроме публичной папки (Webikodu). Для доступа к ней используйте sftp.</li><li><code>sftp://sftp.ttu.ee/</code></li><li><a class="url http" href="https://toru.ttu.ee/">https://toru.ttu.ee/</a></li><li><a class="url http" href="http://email.ttu.ee/">http://email.ttu.ee/</a> - регистрируемся <a class="url http outside" href="http://www.ttu.ee/tugistruktuur/it-teenused/juhendid-1/teenused-tudengile-4/ttu-e-posti-aadress/?id=32321">тут</a></li><li><a class="url http" href="http://arenguvestlus.ttu.ee/">http://arenguvestlus.ttu.ee/</a></li><li><a class="url http" href="https://dlx.intra.ttu.ee/DocLogix/">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a class="url http" href="https://portal.ttu.ee/">https://portal.ttu.ee/</a> или <a class="url http" href="https://webportal.ttu.ee">https://webportal.ttu.ee</a></li><li><a class="url http" href="http://docs.ttu.ee/">http://docs.ttu.ee/</a> - Всякие документы</li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a> - Видимо, это вообще не для студентов :)</li><li><a class="url http" href="http://zaurus.ttu.ee/">http://zaurus.ttu.ee/</a> - получение платного софта</li></ul><p><br /><br />А также несколько веб-камер:<br /></p><ul><li><a class="url http" href="http://webcam1.ttu.ee">http://webcam1.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http" href="http://webcam2.ttu.ee">http://webcam2.ttu.ee</a></li><li><a class="url http" href="http://webcam3.ttu.ee">http://webcam3.ttu.ee</a> - не работает, но домен есть.</li><li><a class="url http" href="http://www.robotiklubi.ee/kaamera">http://www.robotiklubi.ee/kaamera</a></li><li><a class="url http outside" href="http://193.40.245.129">U05-305</a> - следующие ссылки взяты <a class="url http outside" href="http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/">отсюда</a> (если просит залогиниться, то логин user, пароль пустой)</li><li><a class="url http outside" href="http://193.40.245.131">U05-115</a></li><li><a class="url http outside" href="http://193.40.245.158">U05-302</a></li><li><a class="url http outside" href="http://193.40.245.180">U05-303</a></li><li><a class="url http outside" href="http://193.40.245.179">U05-304</a></li><li><a class="url http outside" href="http://193.40.245.143">U05-306</a></li><li><a class="url http outside" href="http://193.40.245.181">U05-307</a></li><li><a class="url http outside" href="http://193.40.245.132">Vb-006</a></li><li><a class="url http outside" href="http://193.40.245.182">Vb-201</a></li></ul>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; * http://zaurus.ttu.ee/ - получение платного софта</p></div>
+ts: 1423070197
+minor: 
+host: 89.235.240.149
 username: AlexDaniel
-revision: 18
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * https://home.ttu.ee/<br />&lt; * {{{sftp://sftp.ttu.ee/}}} <strong class="changes">- доступ к своей папке почему-то доступен только через sftp.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * https://home.ttu.ee/ <strong class="changes">- для доступа к публичной папке используйте sftp</strong><br />&gt; * {{{sftp://sftp.ttu.ee/}}}</p></div>
+revision: 19
+diff-major: 1
 summary: 
 languages: 
 text: * https://pass.ttu.ee/
@@ -24,6 +21,7 @@ text: * https://pass.ttu.ee/
 	* https://portal.ttu.ee/ или https://webportal.ttu.ee
 	* http://docs.ttu.ee/ - Всякие документы
 	* http://helpdesk.ttu.ee/ - Видимо, это вообще не для студентов :)
+	* http://zaurus.ttu.ee/ - получение платного софта
 	
 	
 	
@@ -43,5 +41,5 @@ text: * https://pass.ttu.ee/
 	* [[http://193.40.245.132 Vb-006]]
 	* [[http://193.40.245.182 Vb-201]]
 	
-lastmajor: 15
-keep-ts: 1415473532
+lastmajor: 19
+keep-ts: 1423070197
