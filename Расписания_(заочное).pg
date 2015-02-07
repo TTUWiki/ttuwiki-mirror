@@ -1,18 +1,18 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <p><strong>Расписания в картинках здесь: [[Расписания в PNG (заочное)]]</strong><br /><strong>Обычные расписания (стационарное) здесь: [[Расписания в PNG]]</strong></p><p>Последний раз обновлено: <strong>2015-02-07</strong><code></code><br /></p><h2>A-energeetikateaduskond</h2><p><code>[Ti:35559 AAAB20] [Ti:35538 AAAB40] [Ti:35548 AAAB60] [Ti:35558 AAAB80] [Ti:35334 AAVB20] [Ti:35313 AAVB40] [Ti:35323 AAVB60] [Ti:35333 AAVB80] </code><br /></p><h2>E-ehitusteaduskond</h2><p><code>[Ti:35501 EAEI100] [Ti:35491 EAEI120] [Ti:35471 EAEI60] [Ti:35490 EAEI80] </code><br /></p><h2>H-sotsiaalteaduskond</h2><p><code>[Ti:34667 HAHM40] [Ti:35966 HAJB60] [Ti:35443 HAJM20] [Ti:36581 HAJM40] [Ti:36167 HAKB20] [Ti:34529 HAKB40] [Ti:34530 HAKB60] [Ti:36093 HAPM20] </code><br /></p><h2>I-infotehnoloogia teaduskond</h2><p><code>[Ti:36130 IABB40] [Ti:35221 IABB60] [Ti:35231 IABB80] [Ti:36177 IABM20] [Ti:35268 IABM40] [Ti:34695 IAEM60] [Ti:35092 IASB40] [Ti:35102 IASB60] [Ti:35112 IASB80] </code><br /></p><h2>M-mehaanikateaduskond</h2><p><code>[Ti:34612 MATM20] </code><br /></p><h2>R-TTÜ Virumaa Kolledž</h2><p><code>[Ti:36300 RDBR43] [Ti:36320 RDBR84] [Ti:36549 RDER23] [Ti:36489 RDER24] [Ti:36509 RDER64] [Ti:36519 RDIR23] [Ti:36560 RDIR24] [Ti:36539 RDIR64] [Ti:36369 RDKR44] [Ti:36389 RDKR84] [Ti:36561 RDPR23] [Ti:36438 RDPR24] [Ti:36458 RDPR64] </code><br /></p><h2>T-majandusteaduskond</h2><p><code>[Ti:35151 TABBK61] [Ti:35150 TABBK71] [Ti:35152 TABBK72] [Ti:35153 TABBK73] [Ti:35149 TABBK74] [Ti:35165 TABBK81] [Ti:35163 TABBK82] [Ti:35164 TABBK83] [Ti:35166 TABBK84] [Ti:35947 TASB60] </code></p>
+blocks: <p><strong>Расписания в картинках здесь: [[Расписания в PNG (заочное)]]</strong><br /><strong>Обычные расписания (стационарное) здесь: [[Расписания]]</strong></p><p>Последний раз обновлено: <strong>2015-02-07</strong><code></code><br /></p><h2>A-energeetikateaduskond</h2><p><code>[Ti:35559 AAAB20] [Ti:35538 AAAB40] [Ti:35548 AAAB60] [Ti:35558 AAAB80] [Ti:35334 AAVB20] [Ti:35313 AAVB40] [Ti:35323 AAVB60] [Ti:35333 AAVB80] </code><br /></p><h2>E-ehitusteaduskond</h2><p><code>[Ti:35501 EAEI100] [Ti:35491 EAEI120] [Ti:35471 EAEI60] [Ti:35490 EAEI80] </code><br /></p><h2>H-sotsiaalteaduskond</h2><p><code>[Ti:34667 HAHM40] [Ti:35966 HAJB60] [Ti:35443 HAJM20] [Ti:36581 HAJM40] [Ti:36167 HAKB20] [Ti:34529 HAKB40] [Ti:34530 HAKB60] [Ti:36093 HAPM20] </code><br /></p><h2>I-infotehnoloogia teaduskond</h2><p><code>[Ti:36130 IABB40] [Ti:35221 IABB60] [Ti:35231 IABB80] [Ti:36177 IABM20] [Ti:35268 IABM40] [Ti:34695 IAEM60] [Ti:35092 IASB40] [Ti:35102 IASB60] [Ti:35112 IASB80] </code><br /></p><h2>M-mehaanikateaduskond</h2><p><code>[Ti:34612 MATM20] </code><br /></p><h2>R-TTÜ Virumaa Kolledž</h2><p><code>[Ti:36300 RDBR43] [Ti:36320 RDBR84] [Ti:36549 RDER23] [Ti:36489 RDER24] [Ti:36509 RDER64] [Ti:36519 RDIR23] [Ti:36560 RDIR24] [Ti:36539 RDIR64] [Ti:36369 RDKR44] [Ti:36389 RDKR84] [Ti:36561 RDPR23] [Ti:36438 RDPR24] [Ti:36458 RDPR64] </code><br /></p><h2>T-majandusteaduskond</h2><p><code>[Ti:35151 TABBK61] [Ti:35150 TABBK71] [Ti:35152 TABBK72] [Ti:35153 TABBK73] [Ti:35149 TABBK74] [Ti:35165 TABBK81] [Ti:35163 TABBK82] [Ti:35164 TABBK83] [Ti:35166 TABBK84] [Ti:35947 TASB60] </code></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; **Обычные расписания (стационарное) здесь: [[<strong class="changes">pages/</strong>Расписания в PNG]]**</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; **Обычные расписания (стационарное) здесь: [[Расписания в PNG]]**</p></div>
-ts: 1423270476
+	<div class="old"><p>&lt; **Обычные расписания (стационарное) здесь: [[Расписания <strong class="changes">в PNG</strong>]]**</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; **Обычные расписания (стационарное) здесь: [[Расписания]]**</p></div>
+ts: 1423270549
 minor: 1
 host: 82.131.3.129
 username: AlexDaniel
-revision: 2
+revision: 3
 diff-major: 
 summary: Автоматическое обновление
 languages: 
 text: **Расписания в картинках здесь: [[Расписания в PNG (заочное)]]**
-	**Обычные расписания (стационарное) здесь: [[Расписания в PNG]]**
+	**Обычные расписания (стационарное) здесь: [[Расписания]]**
 	
 	Последний раз обновлено: **2015-02-07**####
 	== A-energeetikateaduskond
@@ -31,4 +31,4 @@ text: **Расписания в картинках здесь: [[Расписа�
 	##[Ti:35151 TABBK61] [Ti:35150 TABBK71] [Ti:35152 TABBK72] [Ti:35153 TABBK73] [Ti:35149 TABBK74] [Ti:35165 TABBK81] [Ti:35163 TABBK82] [Ti:35164 TABBK83] [Ti:35166 TABBK84] [Ti:35947 TASB60] ##
 	
 lastmajor: 1
-keep-ts: 1423270476
+keep-ts: 1423270549
