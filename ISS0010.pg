@@ -4,14 +4,17 @@ blocks: <h2>Информация</h2><ul><li><a class="url http" href="http://st
 	или
 	sys = ss([[-1, 2],[0, -4]], [[1],[2]], [[1, 0],[0, 1]], [[0],[0]])</pre><p>Отличия от MATLAB<br /></p><table class="user"><tr><th align="center">MATLAB </th><th align="center">python-control </th></tr><tr><td>rank(m)</td><td><strong>matrix_rank(m)</strong>, не путать с rank(m)</td></tr><tr><td>ss(A, B, C, D)</td><td>ss(A, B, C, D)</td></tr><tr><td>rss(n, m, r)</td><td>нет, в любом случае чаще всего матрицы нам известны</td></tr><tr><td>ctrb(sys)</td><td>ctrb(sys.A, sys.B)</td></tr><tr><td>obsv(sys)</td><td>obsv(sys.A, sys.C)</td></tr><tr><td>eig(sys)</td><td>eig(sys.A)</td></tr><tr><td>tf(sys)</td><td>tf(sys), а также может пригодиться tfdata(sys)</td></tr><tr><td>ltiview(sys)</td><td>Строить графики можно, но не так просто&#x2026;</td></tr><tr><td>dcgain(sys)</td><td>dcgain(sys)</td></tr><tr><td align="right"></td><td>sys.inputs - довольно удобно, можно узнать кол-во входов не глядя на матрицы</td></tr><tr><td align="right"></td><td>sys.outputs</td></tr><tr><td align="right"></td><td>sys.states</td></tr></table><h4>Занятие 2</h4><p>Поскольку подобия simulink в python-control конечно же нет, на следующих занятиях придется использовать <strong>Scilab</strong>.</p><h3>Scilab</h3><p>Большая часть функций совпадает в той или иной мере с MATLAB, что на самом деле обидно, все-таки лучше бы они в чем-то брали пример с Sage.</p><h4>Установка</h4><pre class="real">apt-get install scilab # что может быть проще? :)</pre><h3>Занятие 0</h3><p>Если что-то здесь не указано, значит оно полностью совпадает с синтаксисом MATLAB (ну или я просто забыл что-то написать).<br />Все следующие команды перечислены относительно PDF файлов занятий, выложенных <a class="url http outside" href="http://www.dcc.ttu.ee/las/materjalid.htm">здесь</a>.</p><table class="user"><tr><th align="center">MATLAB </th><th align="center">scilab </th></tr><tr><td>eig(A)</td><td>spec(A)</td></tr><tr><td>poly(A)</td><td>poly(A, &#x2018;x&#x2019;)</td></tr><tr><td>p2 = [1 -2 0 5]</td><td>p2 = poly([5 0 -2 1], &#x2018;x&#x2019;, &#x2018;c&#x2019;) - коэффициенты в обратную сторону. Если не указать третим параметром &#x2018;c&#x2019;, тогда первый массив является списком корней</td></tr><tr><td>conv(p1, p2)</td><td>p1*p2</td></tr></table><h3>Занятие 1</h3><table class="user"><tr><th align="center">MATLAB </th><th align="center">scilab </th></tr><tr><td>ss(A, B, C, D)</td><td>syslin(&#x2019;c&#x2019;,A,B,C[,D]) для непрерывных, syslin(&#x2019;d&#x2019;,A,B,C[,D]) для дискретных</td></tr><tr><td>rss(n, m, r)</td><td>ssrand(<strong>m, r, n</strong>) - обратите внимание на порядок параметров</td></tr><tr><td>ctrb(sys)</td><td>cont_mat(sys)</td></tr><tr><td>obsv(sys)</td><td>obsv_mat(sys)</td></tr><tr><td>eig(sys)</td><td>spec(sys.A)</td></tr><tr><td>tf(sys)</td><td>ss2tf(sys)</td></tr><tr><td>dcgain(sys)</td><td>?</td></tr><tr><td>ltiview(sys)</td><td>? Смотри ниже</td></tr></table><p>Построить графики можно примерно так:<br /></p><pre class="real">t=0:0.01:15
 	y1 = csim('stem', t, sys)
-	plot(t, y1)</pre><h3>Занятие 2</h3><table class="user"><tr><td>eye(4)</td><td>eye(4,4)</td></tr><tr><td>eig(sys)</td><td>spec(sys.A)</td></tr><tr><td>c2d(sys,0.1)</td><td>cls2dls(sys,0.1)</td></tr><tr><td>place</td><td>ppol</td></tr><tr><td>simulink</td><td>xcos</td></tr></table><h3>xcos</h3><p>Код можно писать в <strong>Simulation/Set context</strong>, как использовать переменные из основного окна - я не понял.</p><p>Всё остальное так же, как и в MATLAB. Вот некоторые жлементы, которые могут вам пригодиться:</p><ul><li>Continuous time systems/CLSS - очевидно</li><li>Discrete time systems/DLSS - тоже очевидно</li><li>Mathematical Operations/GAIN_f - пригодится при обратной связи.</li><li>Sources/CLOCK_c для тактирования CSCOPE и дискретных систем.</li><li>Sinks/CSCOPE для просмотра</li><li>Signal Routing/MUX и DEMUX - вряд ли пригодятся, но если что, то они тут.</li><li>Continuous time systems/TIME_DELAY и Discrete time systems/DELAY_f - Иногда при использовании обратной связи можно увидеть ошибку &#x201c;Algebraic loop&#x201d;. Чтобы её обойти, поставьте небольшой delay в обратную связь.</li></ul><p>Выглядеть это будет примерно вот так:<br />&#x2026; ?</p><p>Сразу советую в Simulation/Setup выставить маленький Final integration time, например 30, так как нас будет интересовать лишь начало симуляции.</p><h3>Занятие 3</h3><p>Всё примерно то же самое, что и в занятии 2.</p>
+	plot(t, y1)</pre><h3>Занятие 2</h3><table class="user"><tr><td>eye(4)</td><td>eye(4,4)</td></tr><tr><td>eig(sys)</td><td>spec(sys.A)</td></tr><tr><td>c2d(sys,0.1)</td><td>cls2dls(sys,0.1)</td></tr><tr><td>place</td><td>ppol</td></tr><tr><td>simulink</td><td>xcos</td></tr></table><h3>xcos</h3><p>Код можно писать в <strong>Simulation/Set context</strong>, как использовать переменные из основного окна - я не понял.</p><p>Всё остальное так же, как и в MATLAB. Вот некоторые жлементы, которые могут вам пригодиться:</p><ul><li>Continuous time systems/CLSS - очевидно</li><li>Discrete time systems/DLSS - тоже очевидно</li><li>Mathematical Operations/GAIN_f - пригодится при обратной связи.</li><li>Sources/CLOCK_c для тактирования CSCOPE и дискретных систем.</li><li>Sinks/CSCOPE для просмотра</li><li>Signal Routing/MUX и DEMUX - вряд ли пригодятся, но если что, то они тут.</li><li>Continuous time systems/TIME_DELAY и Discrete time systems/DELAY_f - Иногда при использовании обратной связи можно увидеть ошибку &#x201c;Algebraic loop&#x201d;. Чтобы её обойти, поставьте небольшой delay в обратную связь.</li></ul><p>Сразу советую в Simulation/Setup выставить маленький Final integration time, например 30, так как нас будет интересовать лишь начало симуляции.</p><h3>Занятие 3</h3><p>Всё примерно то же самое, что и в занятии 2.</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; Выглядеть это будет примерно вот так:<br />&lt; ... ?</p></div>
 ip: 89.235.239.240
-ts: 1414176307
-minor: 0
-host: 89.235.232.183
+ts: 1424042254
+minor: 1
+host: 82.131.101.209
 username: AlexDaniel
-revision: 593
-summary: Откат до 2014-10-23 01:52:09
+revision: 594
+diff-major: 
+summary: 
 languages: 
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL: Course:31211
@@ -189,9 +192,6 @@ text: #SUBTITLE Süsteemiteooria
 	 * Signal Routing/MUX и DEMUX - вряд ли пригодятся, но если что, то они тут.
 	 * Continuous time systems/TIME_DELAY и Discrete time systems/DELAY_f - Иногда при использовании обратной связи можно увидеть ошибку "Algebraic loop". Чтобы её обойти, поставьте небольшой delay в обратную связь.
 	
-	Выглядеть это будет примерно вот так:
-	... ?
-	
 	Сразу советую в Simulation/Setup выставить маленький Final integration time, например 30, так как нас будет интересовать лишь начало симуляции.
 	
 	===Занятие 3
@@ -199,4 +199,4 @@ text: #SUBTITLE Süsteemiteooria
 	
 	
 lastmajor: 593
-keep-ts: 1414176307
+keep-ts: 1424042254
