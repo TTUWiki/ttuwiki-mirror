@@ -1,21 +1,32 @@
-flags: 0
-blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Лекции в pdf: http://parsek</strong>.<strong class="changes">yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</strong></p></div>
+flags: 0100
+blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Все материалы:<br /><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss</p><p>Пароль для pdf-ок: abi</p><p>&#x2013; AlexDaniel 2015-03-05 04:19:44</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Все материалы:<br />&gt; http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&gt; Логин: tudeng<br />&gt; Пароль: fyss<br />&gt; Пароль для pdf-ок: abi<br />&gt; -- AlexDaniel 2015-03-05 04:19:44</p></div>
 ip: 89.235.235.166
-ts: 1423818485
+ts: 1425521985
 minor: 
-host: 82.131.101.209
-username: BloodyMary
-revision: 4
+host: 82.131.81.158
+username: AlexDaniel
+revision: 5
 diff-major: 1
-summary: 
+summary: Все материалы: http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/ Логин: tudeng Пароль: fyss . . .
 languages: 
 text: #SUBTITLE Füüsika
 	#SUBURL: Course:31192
 	
 	Лекции в pdf: http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/
 	
-lastmajor: 4
-keep-ts: 1423818485
+	----
+	
+	Все материалы:
+	http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/
+	Логин: tudeng
+	Пароль: fyss
+	
+	Пароль для pdf-ок: abi
+	
+	-- AlexDaniel 2015-03-05 04:19:44
+	
+	
+lastmajor: 5
+keep-ts: 1425521985
