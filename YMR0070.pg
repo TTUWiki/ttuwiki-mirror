@@ -1,22 +1,26 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Tõenäosusteooria ja matemaatiline statistika <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>29428<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Tõenäosusteooria ja matemaatiline statistika<br />&gt; <strong class="changes">#SUBURL: Course:</strong>29428</p></div>
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://web.zone.ee/sb/">http://web.zone.ee/sb/</a></p><p>&#x2013; AlexDaniel 2015-03-23 17:13:50</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; http://web.zone.ee/sb/<br />&gt; -- AlexDaniel 2015-03-23 17:13:50</p></div>
 ip: 89.235.235.166
-ts: 1408850486
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Tõenäosusteooria ja matemaatiline statistika</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Tõenäosusteooria ja matemaatiline statistika <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=29428&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1427123630
+minor: 
+host: 85.253.71.88
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: http://web.zone.ee/sb/
 languages: 
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL: Course:29428
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408850486
+	----
+	
+	http://web.zone.ee/sb/
+	
+	-- AlexDaniel 2015-03-23 17:13:50
+	
+	
+lastmajor: 4
+keep-ts: 1427123630
