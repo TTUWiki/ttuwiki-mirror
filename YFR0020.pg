@@ -1,15 +1,15 @@
-flags: 0100
-blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Все материалы:<br /><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss</p><p>Пароль для pdf-ок: abi</p><p>&#x2013; AlexDaniel 2015-03-05 04:19:44</p></div>
+flags: 010100
+blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Все материалы:<br /><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss</p><p>Пароль для pdf-ок: abi</p><p>&#x2013; AlexDaniel 2015-03-05 04:19:44</p></div><div class="userComment"><p>Второй учебник:<br /><a class="url http" href="http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf">http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf</a></p><p>&#x2013; AlexDaniel 2015-04-28 12:30:42</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Все материалы:<br />&gt; http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&gt; Логин: tudeng<br />&gt; Пароль: fyss<br />&gt; Пароль для pdf-ок: abi<br />&gt; -- AlexDaniel 2015-03-05 04:19:44</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; Второй учебник:<br />&gt; http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf<br />&gt; -- AlexDaniel 2015-04-28 12:30:42</p></div>
 ip: 89.235.235.166
-ts: 1425521985
+ts: 1430213443
 minor: 
-host: 82.131.81.158
+host: 217.71.46.66
 username: AlexDaniel
-revision: 5
+revision: 6
 diff-major: 1
-summary: Все материалы: http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/ Логин: tudeng Пароль: fyss . . .
+summary: Второй учебник: http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf
 languages: 
 text: #SUBTITLE Füüsika
 	#SUBURL: Course:31192
@@ -28,5 +28,13 @@ text: #SUBTITLE Füüsika
 	-- AlexDaniel 2015-03-05 04:19:44
 	
 	
-lastmajor: 5
-keep-ts: 1425521985
+	----
+	
+	Второй учебник:
+	http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf
+	
+	-- AlexDaniel 2015-04-28 12:30:42
+	
+	
+lastmajor: 6
+keep-ts: 1430213443
