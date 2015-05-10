@@ -1,16 +1,15 @@
-flags: 0
-blocks: <p>Видеолекции по предмету:</p><p><a class="url http" href="http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html">http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html</a></p>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; -- BloodyMary 2015-02-02 22:33:20</p></div>
+flags: 0100
+blocks: <p>Видеолекции по предмету:</p><p><a class="url http" href="http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html">http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http outside" href="https://encrypted.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=13&amp;ved=0CCsQFjACOAo&amp;url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&amp;ei=R4VPVaDyBIe_ygPL34HQDw&amp;usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&amp;sig2=qD1B9LR0ufQwwzg1OWze5g&amp;cad=rja">Макросы в LibreOffice Base</a></p><p>&#x2013; AlexDaniel 2015-05-10 19:32:54</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; [[https://encrypted.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=13&amp;ved=0CCsQFjACOAo&amp;url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&amp;ei=R4VPVaDyBIe_ygPL34HQDw&amp;usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&amp;sig2=qD1B9LR0ufQwwzg1OWze5g&amp;cad=rja Макросы в LibreOffice Base]]<br />&gt; -- AlexDaniel 2015-05-10 19:32:54</p></div>
 ip: 89.235.235.166
-ts: 1422909313
+ts: 1431275574
 minor: 
-host: 82.131.3.129
-username: BloodyMary
-revision: 5
+host: 82.131.2.24
+username: AlexDaniel
+revision: 6
 diff-major: 1
-summary: Видеолекции по предмету: http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html
+summary:  . . .
 languages: 
 text: #SUBTITLE Andmebaasid I
 	#SUBURL: Course:100733
@@ -20,5 +19,12 @@ text: #SUBTITLE Andmebaasid I
 	http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html
 	
 	
-lastmajor: 5
-keep-ts: 1422909313
+	----
+	
+	[[https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CCsQFjACOAo&url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&ei=R4VPVaDyBIe_ygPL34HQDw&usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&sig2=qD1B9LR0ufQwwzg1OWze5g&cad=rja Макросы в LibreOffice Base]]
+	
+	-- AlexDaniel 2015-05-10 19:32:54
+	
+	
+lastmajor: 6
+keep-ts: 1431275574
