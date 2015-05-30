@@ -657,18 +657,20 @@ blocks: &lt;include "Õppekavad"&gt;
 	<option value="YVEM09-09">YVEM09-09</option>
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
-	</select> <input type="submit" name="" value="Diff" /></form><br /><br /></p><h2>Вопросы</h2><p>[[Задать вопрос]]<br /></p>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
-	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
+	</select> <input type="submit" name="" value="Сравнить" /></form><br /><br /></p><h2>Вопросы</h2><p>[[Задать вопрос]]<br /></p>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
+	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
+	
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[Задать вопрос]]</p></div>
+	<div class="new"><p>&gt;  </p></div>
 ip: 89.235.239.240
-ts: 1422756767
-minor: 
-host: 85.253.117.63
+ts: 1433003811
+minor: 1
+host: 82.131.2.24
 username: AlexDaniel
-revision: 26
-diff-major: 1
-summary: Больше кнопок!
+revision: 27
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[Задать вопрос]]</p></div>
+summary: 
 languages: 
 text: <include "Õppekavad">
 	
@@ -683,6 +685,7 @@ text: <include "Õppekavad">
 	
 	==Новости
 	<Journal 2,10 "^Новость_\d+">
+	 
 	
 lastmajor: 26
-keep-ts: 1422756767
+keep-ts: 1433003811
