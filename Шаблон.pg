@@ -1,0 +1,40 @@
+flags: 0
+blocks: <p>При создании новых страниц можно воспользоваться данным шаблоном:</p><div class="highlight"><pre><span style="color: #666666">===</span> <span style="border: 1px solid #FF0000">ÐÐ½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ</span>
+	<span style="color: #666666">...</span> <span style="color: #666666">...</span> <span style="color: #666666">...</span>
+	
+	<span style="color: #666666">===</span> <span style="border: 1px solid #FF0000">ÐÐµÐºÑÐ¸Ð¸</span>
+	<span style="color: #666666">...</span> <span style="color: #666666">...</span> <span style="color: #666666">...</span>
+	
+	<span style="color: #666666">===</span> <span style="border: 1px solid #FF0000">ÐÑÐ°ÐºÑÐ¸ÑÐµÑÐºÐ¸Ðµ</span> <span style="border: 1px solid #FF0000">Ð·Ð°Ð½ÑÑÐ¸Ñ</span>
+	<span style="color: #666666">...</span> <span style="color: #666666">...</span> <span style="color: #666666">...</span>
+	
+	<span style="color: #666666">===</span> <span style="border: 1px solid #FF0000">Ð­ÐºÐ·Ð°Ð¼ÐµÐ½</span>
+	<span style="color: #666666">...</span> <span style="color: #666666">...</span> <span style="color: #666666">...</span>
+	</pre></div>
+	<p>Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.</p>
+ts: 1435275138
+minor: 
+host: 85.253.108.211
+username: AlexDaniel
+revision: 1
+summary: При создании новых страниц можно воспользоваться данным шаблоном: {{{ === Информация ... ... ... === Лекции ... ... ... === Практические . . .
+languages: 
+text: При создании новых страниц можно воспользоваться данным шаблоном:
+	
+	{{{
+	=== Информация
+	... ... ...
+	
+	=== Лекции
+	... ... ...
+	
+	=== Практические занятия
+	... ... ...
+	
+	=== Экзамен
+	... ... ...
+	}}}
+	
+	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
+	
+lastmajor: 1
