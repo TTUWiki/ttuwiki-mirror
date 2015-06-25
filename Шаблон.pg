@@ -1,45 +1,51 @@
 flags: 0
-blocks: <p>При создании новых страниц можно воспользоваться данным шаблоном:</p><div class="highlight"><pre>=== Информация
+blocks: <p>При создании новых страниц можно воспользоваться данным шаблоном:</p><div class="highlight"><pre>== Информация
 	... ... ...
 	
-	=== Лекции
+	== Лекции
 	... ... ...
 	
-	=== Практические занятия
+	== Практические занятия
 	... ... ...
 	
-	=== Экзамен
+	== Экзамен
 	... ... ...
 	</pre></div>
 	<p>Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; {{{</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; {{{<strong class="changes">text</strong></p></div>
-ts: 1435275254
+	<div class="old"><p>&lt; <strong class="changes">===</strong> Информация</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==</strong> Информация</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">===</strong> Лекции</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==</strong> Лекции</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">===</strong> Практические занятия</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==</strong> Практические занятия</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">===</strong> Экзамен</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==</strong> Экзамен</p></div>
+ts: 1435276658
 minor: 1
 host: 85.253.108.211
 username: AlexDaniel
-revision: 2
+revision: 3
 diff-major: 
 summary: При создании новых страниц можно воспользоваться данным шаблоном: {{{ === Информация ... ... ... === Лекции ... ... ... === Практические . . .
 languages: 
 text: При создании новых страниц можно воспользоваться данным шаблоном:
 	
 	{{{text
-	=== Информация
+	== Информация
 	... ... ...
 	
-	=== Лекции
+	== Лекции
 	... ... ...
 	
-	=== Практические занятия
+	== Практические занятия
 	... ... ...
 	
-	=== Экзамен
+	== Экзамен
 	... ... ...
 	}}}
 	
 	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
 	
 lastmajor: 1
-keep-ts: 1435275254
+keep-ts: 1435276658
