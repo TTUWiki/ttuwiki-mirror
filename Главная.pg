@@ -1,5 +1,5 @@
 flags: 01010101010
-blocks: &lt;include "Õppekavad"&gt;
+blocks: <p>Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета!</p><p>Здесь вы можете делиться своим опытом и читать советы других.</p><h2>Навигация</h2>&lt;include "Õppekavad"&gt;
 	<h5>Сравнить учебные программы:</h5><p><form method="get" action="http://ttuwiki.org" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff">
 	<input name="action" type="hidden" value="pagediff" /><input name="pattern" type="hidden" value="^\w\w\w\w\d\d-\d\d$" /><select name="page1" >
 	<option value="AAAB02-02">AAAB02-02</option>
@@ -661,31 +661,41 @@ blocks: &lt;include "Õppekavad"&gt;
 	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
 	
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt;  </p></div>
+	<div class="new"><p>&gt; Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета!<br />&gt; Здесь вы можете делиться своим опытом и читать советы других.<br />&gt; == Навигация</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; =====Сравнить учебные программы:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ===== Сравнить учебные программы:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ==Вопросы</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == Вопросы</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ==Новости</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == Новости</p></div>
 ip: 89.235.239.240
-ts: 1433003811
-minor: 1
-host: 82.131.2.24
+ts: 1435438697
+minor: 
+host: 85.253.108.211
 username: AlexDaniel
-revision: 27
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[Задать вопрос]]</p></div>
-summary: 
+revision: 28
+diff-major: 1
+summary: Приветствие
 languages: 
-text: <include "Õppekavad">
+text: Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета!
 	
-	=====Сравнить учебные программы:
+	Здесь вы можете делиться своим опытом и читать советы других.
+	
+	== Навигация
+	<include "Õppekavad">
+	
+	===== Сравнить учебные программы:
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	\\
-	==Вопросы
+	== Вопросы
 	[[Задать вопрос]]
 	<Journal 6,10 "^Вопрос_\d+">
 	
 	[[Задать вопрос]]
 	
-	==Новости
+	== Новости
 	<Journal 2,10 "^Новость_\d+">
 	 
 	
-lastmajor: 26
-keep-ts: 1433003811
+lastmajor: 28
+keep-ts: 1435438697
