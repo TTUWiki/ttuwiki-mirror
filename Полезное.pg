@@ -1,5 +1,5 @@
 flags: 01010101010101010101010101010101010100
-blocks: <h3>Университет:</h3><ul><li>[[Хитрости и прочее]]</li><li>[[Онлайн сервисы]] – те самые ссылки, которые всегда лень искать.</li><li>[[EAP]] – немного информации про ЕАП.</li><li>[[Бесплатная еда]] – как иногда можно подкормиться.</li></ul><h3>Стипендии и пособия:</h3><ul><li><a class="url http" href="http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf">http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf</a> - отличный документ, всем стоит его прочитать.</li></ul><h3>Сравнение учебных программ:</h3><p><form method="get" action="http://ttuwiki.org" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff">
+blocks: <h3>Университет:</h3><ul><li>[[Хитрости и прочее]]</li><li>[[Онлайн сервисы]] – те самые ссылки, которые всегда лень искать.</li><li>[[EAP]] – немного информации про ЕАП.</li><li>[[Бесплатная еда]] – как иногда можно подкормиться.</li></ul><h3>Стипендии и пособия:</h3><ul><li><a class="url http" href="http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf">http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf</a> - отличный документ, всем стоит его прочитать.</li></ul><h3>Сравнение учебных программ:</h3><p>Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите <strong>Сравнить</strong>. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.<br /><form method="get" action="http://ttuwiki.org" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff">
 	<input name="action" type="hidden" value="pagediff" /><input name="pattern" type="hidden" value="^\w\w\w\w\d\d-\d\d$" /><select name="page1" >
 	<option value="AAAB02-02">AAAB02-02</option>
 	<option value="AAAB02-04">AAAB02-04</option>
@@ -22,12 +22,16 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="BAAB06-09">BAAB06-09</option>
 	<option value="BAAB06-11">BAAB06-11</option>
 	<option value="BAAB06-13">BAAB06-13</option>
+	<option value="BAAM06-06">BAAM06-06</option>
+	<option value="BAAM06-09">BAAM06-09</option>
+	<option value="BAAM06-15">BAAM06-15</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
 	<option value="BDMR02-02">BDMR02-02</option>
 	<option value="BDMR02-04">BDMR02-04</option>
 	<option value="BDMR02-09">BDMR02-09</option>
+	<option value="BDMR02-15">BDMR02-15</option>
 	<option value="BDRR13-13">BDRR13-13</option>
 	<option value="BDÄR02-02">BDÄR02-02</option>
 	<option value="BDÄR02-04">BDÄR02-04</option>
@@ -37,17 +41,20 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
 	<option value="EABM03-09">EABM03-09</option>
+	<option value="EABM03-15">EABM03-15</option>
 	<option value="EAED02-02">EAED02-02</option>
 	<option value="EAED02-09">EAED02-09</option>
 	<option value="EAED02-14">EAED02-14</option>
 	<option value="EAEI02-02">EAEI02-02</option>
 	<option value="EAEI02-06">EAEI02-06</option>
 	<option value="EAEI02-09">EAEI02-09</option>
+	<option value="EAEI02-15">EAEI02-15</option>
 	<option value="EAEM07-07">EAEM07-07</option>
 	<option value="EAEM07-09">EAEM07-09</option>
 	<option value="EAKI02-02">EAKI02-02</option>
 	<option value="EAKI02-05">EAKI02-05</option>
 	<option value="EAKI02-09">EAKI02-09</option>
+	<option value="EAKI02-15">EAKI02-15</option>
 	<option value="EAKM07-07">EAKM07-07</option>
 	<option value="EAKM07-09">EAKM07-09</option>
 	<option value="EALB02-02">EALB02-02</option>
@@ -62,15 +69,20 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="EALM02-14">EALM02-14</option>
 	<option value="EATI02-02">EATI02-02</option>
 	<option value="EATI02-09">EATI02-09</option>
+	<option value="EATI02-15">EATI02-15</option>
 	<option value="EATM07-07">EATM07-07</option>
 	<option value="EATM07-09">EATM07-09</option>
 	<option value="EAUI12-13">EAUI12-13</option>
+	<option value="EAUI12-15">EAUI12-15</option>
 	<option value="EAUM12-12">EAUM12-12</option>
+	<option value="EAXM15-15">EAXM15-15</option>
+	<option value="EVEM14-15">EVEM14-15</option>
 	<option value="HAAB02-02">HAAB02-02</option>
 	<option value="HAAB02-04">HAAB02-04</option>
 	<option value="HAAB02-08">HAAB02-08</option>
 	<option value="HAAB02-09">HAAB02-09</option>
 	<option value="HAAB02-11">HAAB02-11</option>
+	<option value="HAAB02-15">HAAB02-15</option>
 	<option value="HAAD06-06">HAAD06-06</option>
 	<option value="HAAD06-09">HAAD06-09</option>
 	<option value="HAAM02-02">HAAM02-02</option>
@@ -89,11 +101,13 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="HAJB08-12">HAJB08-12</option>
 	<option value="HAJB08-14">HAJB08-14</option>
 	<option value="HAJM08-09">HAJM08-09</option>
+	<option value="HAJM08-15">HAJM08-15</option>
 	<option value="HAKB02-02">HAKB02-02</option>
 	<option value="HAKB02-05">HAKB02-05</option>
 	<option value="HAKB02-09">HAKB02-09</option>
 	<option value="HAKB02-10">HAKB02-10</option>
 	<option value="HAKB02-14">HAKB02-14</option>
+	<option value="HALM15-15">HALM15-15</option>
 	<option value="HAPM10-10">HAPM10-10</option>
 	<option value="HAPM10-14">HAPM10-14</option>
 	<option value="HVJM12-12">HVJM12-12</option>
@@ -112,6 +126,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IAEM02-11">IAEM02-11</option>
 	<option value="IALB13-13">IALB13-13</option>
 	<option value="IALB13-14">IALB13-14</option>
+	<option value="IALB13-15">IALB13-15</option>
 	<option value="IAPB02-02">IAPB02-02</option>
 	<option value="IAPB02-09">IAPB02-09</option>
 	<option value="IAPB02-14">IAPB02-14</option>
@@ -119,15 +134,18 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IAPM02-09">IAPM02-09</option>
 	<option value="IAPM02-12">IAPM02-12</option>
 	<option value="IAPM02-14">IAPM02-14</option>
+	<option value="IAPM02-15">IAPM02-15</option>
 	<option value="IAQD02-02">IAQD02-02</option>
 	<option value="IAQD02-09">IAQD02-09</option>
 	<option value="IASB02-02">IASB02-02</option>
 	<option value="IASB02-09">IASB02-09</option>
 	<option value="IASB02-14">IASB02-14</option>
+	<option value="IASB02-15">IASB02-15</option>
 	<option value="IASM02-02">IASM02-02</option>
 	<option value="IASM02-09">IASM02-09</option>
 	<option value="IASM02-11">IASM02-11</option>
 	<option value="IASM02-12">IASM02-12</option>
+	<option value="IASM02-15">IASM02-15</option>
 	<option value="IATB02-02">IATB02-02</option>
 	<option value="IATB02-04">IATB02-04</option>
 	<option value="IATB02-09">IATB02-09</option>
@@ -137,13 +155,17 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IVCM09-09">IVCM09-09</option>
 	<option value="IVCM09-13">IVCM09-13</option>
 	<option value="IVCM09-14">IVCM09-14</option>
+	<option value="IVCM09-15">IVCM09-15</option>
 	<option value="IVEM11-11">IVEM11-11</option>
 	<option value="IVEM11-13">IVEM11-13</option>
 	<option value="IVEM11-14">IVEM11-14</option>
+	<option value="IVEM11-15">IVEM11-15</option>
 	<option value="IVGM13-13">IVGM13-13</option>
 	<option value="IVGM13-14">IVGM13-14</option>
+	<option value="IVGM13-15">IVGM13-15</option>
 	<option value="IVSM09-09">IVSM09-09</option>
 	<option value="IVSM09-13">IVSM09-13</option>
+	<option value="IVSM09-15">IVSM09-15</option>
 	<option value="KAAD02-02">KAAD02-02</option>
 	<option value="KAAD02-09">KAAD02-09</option>
 	<option value="KAKB02-02">KAKB02-02</option>
@@ -166,6 +188,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="KATM02-11">KATM02-11</option>
 	<option value="KAYM09-09">KAYM09-09</option>
 	<option value="KVEM12-13">KVEM12-13</option>
+	<option value="KVEM12-15">KVEM12-15</option>
 	<option value="MADM10-10">MADM10-10</option>
 	<option value="MADM10-13">MADM10-13</option>
 	<option value="MADM10-14">MADM10-14</option>
@@ -181,25 +204,34 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="MAPD02-11">MAPD02-11</option>
 	<option value="MARM06-06">MARM06-06</option>
 	<option value="MARM06-09">MARM06-09</option>
+	<option value="MARM06-15">MARM06-15</option>
 	<option value="MASB02-02">MASB02-02</option>
 	<option value="MASB02-09">MASB02-09</option>
+	<option value="MASB02-15">MASB02-15</option>
 	<option value="MASM02-02">MASM02-02</option>
 	<option value="MASM02-09">MASM02-09</option>
+	<option value="MASM02-15">MASM02-15</option>
 	<option value="MATB02-02">MATB02-02</option>
 	<option value="MATB02-09">MATB02-09</option>
 	<option value="MATM02-02">MATM02-02</option>
 	<option value="MATM02-09">MATM02-09</option>
 	<option value="MATM02-11">MATM02-11</option>
+	<option value="MATM02-15">MATM02-15</option>
 	<option value="MVEB14-14">MVEB14-14</option>
+	<option value="MVEB14-15">MVEB14-15</option>
 	<option value="NAAM06-06">NAAM06-06</option>
 	<option value="NAAM06-09">NAAM06-09</option>
 	<option value="NAEB06-06">NAEB06-06</option>
 	<option value="NAEB06-09">NAEB06-09</option>
+	<option value="NAEB06-15">NAEB06-15</option>
 	<option value="NAEI13-13">NAEI13-13</option>
 	<option value="NAEM06-06">NAEM06-06</option>
 	<option value="NAEM06-09">NAEM06-09</option>
+	<option value="NAEM06-15">NAEM06-15</option>
 	<option value="NAIM14-14">NAIM14-14</option>
+	<option value="NAIM14-15">NAIM14-15</option>
 	<option value="NDFR13-13">NDFR13-13</option>
+	<option value="NDFR14-15">NDFR14-15</option>
 	<option value="RAKM11-12">RAKM11-12</option>
 	<option value="RDBR06-06">RDBR06-06</option>
 	<option value="RDBR06-09">RDBR06-09</option>
@@ -219,8 +251,10 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="RDIR02-12">RDIR02-12</option>
 	<option value="RDKR05-05">RDKR05-05</option>
 	<option value="RDKR05-09">RDKR05-09</option>
+	<option value="RDKR05-15">RDKR05-15</option>
 	<option value="RDPR06-06">RDPR06-06</option>
 	<option value="RDPR06-09">RDPR06-09</option>
+	<option value="RDPR06-15">RDPR06-15</option>
 	<option value="SDER02-02">SDER02-02</option>
 	<option value="SDER02-08">SDER02-08</option>
 	<option value="SDER02-09">SDER02-09</option>
@@ -237,11 +271,13 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="SDVR04-09">SDVR04-09</option>
 	<option value="TAAB02-02">TAAB02-02</option>
 	<option value="TAAB02-09">TAAB02-09</option>
+	<option value="TAAB02-15">TAAB02-15</option>
 	<option value="TAAM02-02">TAAM02-02</option>
 	<option value="TAAM02-09">TAAM02-09</option>
 	<option value="TAAM02-11">TAAM02-11</option>
 	<option value="TAAM02-13">TAAM02-13</option>
 	<option value="TAAM02-14">TAAM02-14</option>
+	<option value="TAAM02-15">TAAM02-15</option>
 	<option value="TABB02-02">TABB02-02</option>
 	<option value="TABB02-05">TABB02-05</option>
 	<option value="TABB02-09">TABB02-09</option>
@@ -264,15 +300,18 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="TASB08-12">TASB08-12</option>
 	<option value="TASB08-13">TASB08-13</option>
 	<option value="TASB08-14">TASB08-14</option>
+	<option value="TASB08-15">TASB08-15</option>
 	<option value="TASM08-08">TASM08-08</option>
 	<option value="TASM08-09">TASM08-09</option>
 	<option value="TASM08-12">TASM08-12</option>
 	<option value="TASM08-13">TASM08-13</option>
 	<option value="TASM08-14">TASM08-14</option>
+	<option value="TASM08-15">TASM08-15</option>
 	<option value="TATM02-02">TATM02-02</option>
 	<option value="TATM02-09">TATM02-09</option>
 	<option value="TATM02-10">TATM02-10</option>
 	<option value="TATM02-12">TATM02-12</option>
+	<option value="TATM02-15">TATM02-15</option>
 	<option value="TVRM12-12">TVRM12-12</option>
 	<option value="TVTB03-03">TVTB03-03</option>
 	<option value="TVTB03-07">TVTB03-07</option>
@@ -283,19 +322,29 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="TVTM03-07">TVTM03-07</option>
 	<option value="TVTM03-09">TVTM03-09</option>
 	<option value="TVTM03-11">TVTM03-11</option>
+	<option value="VAAM15-15">VAAM15-15</option>
 	<option value="VAEM14-14">VAEM14-14</option>
 	<option value="VDFR14-14">VDFR14-14</option>
 	<option value="VDKR14-14">VDKR14-14</option>
+	<option value="VDKR14-15">VDKR14-15</option>
 	<option value="VDLR14-14">VDLR14-14</option>
+	<option value="VDLR14-15">VDLR14-15</option>
 	<option value="VDMR14-14">VDMR14-14</option>
+	<option value="VDMR14-15">VDMR14-15</option>
 	<option value="VDSR14-14">VDSR14-14</option>
+	<option value="VDSR14-15">VDSR14-15</option>
+	<option value="VDTR15-15">VDTR15-15</option>
 	<option value="VDVR14-14">VDVR14-14</option>
+	<option value="VDVR14-15">VDVR14-15</option>
 	<option value="YABM02-02">YABM02-02</option>
 	<option value="YABM02-09">YABM02-09</option>
 	<option value="YADM12-13">YADM12-13</option>
+	<option value="YAEB14-15">YAEB14-15</option>
+	<option value="YAEM14-15">YAEM14-15</option>
 	<option value="YAFB02-02">YAFB02-02</option>
 	<option value="YAFB02-04">YAFB02-04</option>
 	<option value="YAFB02-09">YAFB02-09</option>
+	<option value="YAFB02-16">YAFB02-16</option>
 	<option value="YAFD06-06">YAFD06-06</option>
 	<option value="YAFD06-09">YAFD06-09</option>
 	<option value="YAFM02-02">YAFM02-02</option>
@@ -312,6 +361,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="YALD02-04">YALD02-04</option>
 	<option value="YALD02-09">YALD02-09</option>
 	<option value="YALD02-13">YALD02-13</option>
+	<option value="YALD02-15">YALD02-15</option>
 	<option value="YAMB11-11">YAMB11-11</option>
 	<option value="YAMD06-06">YAMD06-06</option>
 	<option value="YAMD06-09">YAMD06-09</option>
@@ -321,6 +371,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="YARM10-10">YARM10-10</option>
 	<option value="YASB02-02">YASB02-02</option>
 	<option value="YASB02-09">YASB02-09</option>
+	<option value="YASB02-15">YASB02-15</option>
 	<option value="YASM02-02">YASM02-02</option>
 	<option value="YASM02-09">YASM02-09</option>
 	<option value="YASM02-12">YASM02-12</option>
@@ -350,12 +401,16 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="BAAB06-09">BAAB06-09</option>
 	<option value="BAAB06-11">BAAB06-11</option>
 	<option value="BAAB06-13">BAAB06-13</option>
+	<option value="BAAM06-06">BAAM06-06</option>
+	<option value="BAAM06-09">BAAM06-09</option>
+	<option value="BAAM06-15">BAAM06-15</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
 	<option value="BDMR02-02">BDMR02-02</option>
 	<option value="BDMR02-04">BDMR02-04</option>
 	<option value="BDMR02-09">BDMR02-09</option>
+	<option value="BDMR02-15">BDMR02-15</option>
 	<option value="BDRR13-13">BDRR13-13</option>
 	<option value="BDÄR02-02">BDÄR02-02</option>
 	<option value="BDÄR02-04">BDÄR02-04</option>
@@ -365,17 +420,20 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
 	<option value="EABM03-09">EABM03-09</option>
+	<option value="EABM03-15">EABM03-15</option>
 	<option value="EAED02-02">EAED02-02</option>
 	<option value="EAED02-09">EAED02-09</option>
 	<option value="EAED02-14">EAED02-14</option>
 	<option value="EAEI02-02">EAEI02-02</option>
 	<option value="EAEI02-06">EAEI02-06</option>
 	<option value="EAEI02-09">EAEI02-09</option>
+	<option value="EAEI02-15">EAEI02-15</option>
 	<option value="EAEM07-07">EAEM07-07</option>
 	<option value="EAEM07-09">EAEM07-09</option>
 	<option value="EAKI02-02">EAKI02-02</option>
 	<option value="EAKI02-05">EAKI02-05</option>
 	<option value="EAKI02-09">EAKI02-09</option>
+	<option value="EAKI02-15">EAKI02-15</option>
 	<option value="EAKM07-07">EAKM07-07</option>
 	<option value="EAKM07-09">EAKM07-09</option>
 	<option value="EALB02-02">EALB02-02</option>
@@ -390,15 +448,20 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="EALM02-14">EALM02-14</option>
 	<option value="EATI02-02">EATI02-02</option>
 	<option value="EATI02-09">EATI02-09</option>
+	<option value="EATI02-15">EATI02-15</option>
 	<option value="EATM07-07">EATM07-07</option>
 	<option value="EATM07-09">EATM07-09</option>
 	<option value="EAUI12-13">EAUI12-13</option>
+	<option value="EAUI12-15">EAUI12-15</option>
 	<option value="EAUM12-12">EAUM12-12</option>
+	<option value="EAXM15-15">EAXM15-15</option>
+	<option value="EVEM14-15">EVEM14-15</option>
 	<option value="HAAB02-02">HAAB02-02</option>
 	<option value="HAAB02-04">HAAB02-04</option>
 	<option value="HAAB02-08">HAAB02-08</option>
 	<option value="HAAB02-09">HAAB02-09</option>
 	<option value="HAAB02-11">HAAB02-11</option>
+	<option value="HAAB02-15">HAAB02-15</option>
 	<option value="HAAD06-06">HAAD06-06</option>
 	<option value="HAAD06-09">HAAD06-09</option>
 	<option value="HAAM02-02">HAAM02-02</option>
@@ -417,11 +480,13 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="HAJB08-12">HAJB08-12</option>
 	<option value="HAJB08-14">HAJB08-14</option>
 	<option value="HAJM08-09">HAJM08-09</option>
+	<option value="HAJM08-15">HAJM08-15</option>
 	<option value="HAKB02-02">HAKB02-02</option>
 	<option value="HAKB02-05">HAKB02-05</option>
 	<option value="HAKB02-09">HAKB02-09</option>
 	<option value="HAKB02-10">HAKB02-10</option>
 	<option value="HAKB02-14">HAKB02-14</option>
+	<option value="HALM15-15">HALM15-15</option>
 	<option value="HAPM10-10">HAPM10-10</option>
 	<option value="HAPM10-14">HAPM10-14</option>
 	<option value="HVJM12-12">HVJM12-12</option>
@@ -440,6 +505,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IAEM02-11">IAEM02-11</option>
 	<option value="IALB13-13">IALB13-13</option>
 	<option value="IALB13-14">IALB13-14</option>
+	<option value="IALB13-15">IALB13-15</option>
 	<option value="IAPB02-02">IAPB02-02</option>
 	<option value="IAPB02-09">IAPB02-09</option>
 	<option value="IAPB02-14">IAPB02-14</option>
@@ -447,15 +513,18 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IAPM02-09">IAPM02-09</option>
 	<option value="IAPM02-12">IAPM02-12</option>
 	<option value="IAPM02-14">IAPM02-14</option>
+	<option value="IAPM02-15">IAPM02-15</option>
 	<option value="IAQD02-02">IAQD02-02</option>
 	<option value="IAQD02-09">IAQD02-09</option>
 	<option value="IASB02-02">IASB02-02</option>
 	<option value="IASB02-09">IASB02-09</option>
 	<option value="IASB02-14">IASB02-14</option>
+	<option value="IASB02-15">IASB02-15</option>
 	<option value="IASM02-02">IASM02-02</option>
 	<option value="IASM02-09">IASM02-09</option>
 	<option value="IASM02-11">IASM02-11</option>
 	<option value="IASM02-12">IASM02-12</option>
+	<option value="IASM02-15">IASM02-15</option>
 	<option value="IATB02-02">IATB02-02</option>
 	<option value="IATB02-04">IATB02-04</option>
 	<option value="IATB02-09">IATB02-09</option>
@@ -465,13 +534,17 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="IVCM09-09">IVCM09-09</option>
 	<option value="IVCM09-13">IVCM09-13</option>
 	<option value="IVCM09-14">IVCM09-14</option>
+	<option value="IVCM09-15">IVCM09-15</option>
 	<option value="IVEM11-11">IVEM11-11</option>
 	<option value="IVEM11-13">IVEM11-13</option>
 	<option value="IVEM11-14">IVEM11-14</option>
+	<option value="IVEM11-15">IVEM11-15</option>
 	<option value="IVGM13-13">IVGM13-13</option>
 	<option value="IVGM13-14">IVGM13-14</option>
+	<option value="IVGM13-15">IVGM13-15</option>
 	<option value="IVSM09-09">IVSM09-09</option>
 	<option value="IVSM09-13">IVSM09-13</option>
+	<option value="IVSM09-15">IVSM09-15</option>
 	<option value="KAAD02-02">KAAD02-02</option>
 	<option value="KAAD02-09">KAAD02-09</option>
 	<option value="KAKB02-02">KAKB02-02</option>
@@ -494,6 +567,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="KATM02-11">KATM02-11</option>
 	<option value="KAYM09-09">KAYM09-09</option>
 	<option value="KVEM12-13">KVEM12-13</option>
+	<option value="KVEM12-15">KVEM12-15</option>
 	<option value="MADM10-10">MADM10-10</option>
 	<option value="MADM10-13">MADM10-13</option>
 	<option value="MADM10-14">MADM10-14</option>
@@ -509,25 +583,34 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="MAPD02-11">MAPD02-11</option>
 	<option value="MARM06-06">MARM06-06</option>
 	<option value="MARM06-09">MARM06-09</option>
+	<option value="MARM06-15">MARM06-15</option>
 	<option value="MASB02-02">MASB02-02</option>
 	<option value="MASB02-09">MASB02-09</option>
+	<option value="MASB02-15">MASB02-15</option>
 	<option value="MASM02-02">MASM02-02</option>
 	<option value="MASM02-09">MASM02-09</option>
+	<option value="MASM02-15">MASM02-15</option>
 	<option value="MATB02-02">MATB02-02</option>
 	<option value="MATB02-09">MATB02-09</option>
 	<option value="MATM02-02">MATM02-02</option>
 	<option value="MATM02-09">MATM02-09</option>
 	<option value="MATM02-11">MATM02-11</option>
+	<option value="MATM02-15">MATM02-15</option>
 	<option value="MVEB14-14">MVEB14-14</option>
+	<option value="MVEB14-15">MVEB14-15</option>
 	<option value="NAAM06-06">NAAM06-06</option>
 	<option value="NAAM06-09">NAAM06-09</option>
 	<option value="NAEB06-06">NAEB06-06</option>
 	<option value="NAEB06-09">NAEB06-09</option>
+	<option value="NAEB06-15">NAEB06-15</option>
 	<option value="NAEI13-13">NAEI13-13</option>
 	<option value="NAEM06-06">NAEM06-06</option>
 	<option value="NAEM06-09">NAEM06-09</option>
+	<option value="NAEM06-15">NAEM06-15</option>
 	<option value="NAIM14-14">NAIM14-14</option>
+	<option value="NAIM14-15">NAIM14-15</option>
 	<option value="NDFR13-13">NDFR13-13</option>
+	<option value="NDFR14-15">NDFR14-15</option>
 	<option value="RAKM11-12">RAKM11-12</option>
 	<option value="RDBR06-06">RDBR06-06</option>
 	<option value="RDBR06-09">RDBR06-09</option>
@@ -547,8 +630,10 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="RDIR02-12">RDIR02-12</option>
 	<option value="RDKR05-05">RDKR05-05</option>
 	<option value="RDKR05-09">RDKR05-09</option>
+	<option value="RDKR05-15">RDKR05-15</option>
 	<option value="RDPR06-06">RDPR06-06</option>
 	<option value="RDPR06-09">RDPR06-09</option>
+	<option value="RDPR06-15">RDPR06-15</option>
 	<option value="SDER02-02">SDER02-02</option>
 	<option value="SDER02-08">SDER02-08</option>
 	<option value="SDER02-09">SDER02-09</option>
@@ -565,11 +650,13 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="SDVR04-09">SDVR04-09</option>
 	<option value="TAAB02-02">TAAB02-02</option>
 	<option value="TAAB02-09">TAAB02-09</option>
+	<option value="TAAB02-15">TAAB02-15</option>
 	<option value="TAAM02-02">TAAM02-02</option>
 	<option value="TAAM02-09">TAAM02-09</option>
 	<option value="TAAM02-11">TAAM02-11</option>
 	<option value="TAAM02-13">TAAM02-13</option>
 	<option value="TAAM02-14">TAAM02-14</option>
+	<option value="TAAM02-15">TAAM02-15</option>
 	<option value="TABB02-02">TABB02-02</option>
 	<option value="TABB02-05">TABB02-05</option>
 	<option value="TABB02-09">TABB02-09</option>
@@ -592,15 +679,18 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="TASB08-12">TASB08-12</option>
 	<option value="TASB08-13">TASB08-13</option>
 	<option value="TASB08-14">TASB08-14</option>
+	<option value="TASB08-15">TASB08-15</option>
 	<option value="TASM08-08">TASM08-08</option>
 	<option value="TASM08-09">TASM08-09</option>
 	<option value="TASM08-12">TASM08-12</option>
 	<option value="TASM08-13">TASM08-13</option>
 	<option value="TASM08-14">TASM08-14</option>
+	<option value="TASM08-15">TASM08-15</option>
 	<option value="TATM02-02">TATM02-02</option>
 	<option value="TATM02-09">TATM02-09</option>
 	<option value="TATM02-10">TATM02-10</option>
 	<option value="TATM02-12">TATM02-12</option>
+	<option value="TATM02-15">TATM02-15</option>
 	<option value="TVRM12-12">TVRM12-12</option>
 	<option value="TVTB03-03">TVTB03-03</option>
 	<option value="TVTB03-07">TVTB03-07</option>
@@ -611,19 +701,29 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="TVTM03-07">TVTM03-07</option>
 	<option value="TVTM03-09">TVTM03-09</option>
 	<option value="TVTM03-11">TVTM03-11</option>
+	<option value="VAAM15-15">VAAM15-15</option>
 	<option value="VAEM14-14">VAEM14-14</option>
 	<option value="VDFR14-14">VDFR14-14</option>
 	<option value="VDKR14-14">VDKR14-14</option>
+	<option value="VDKR14-15">VDKR14-15</option>
 	<option value="VDLR14-14">VDLR14-14</option>
+	<option value="VDLR14-15">VDLR14-15</option>
 	<option value="VDMR14-14">VDMR14-14</option>
+	<option value="VDMR14-15">VDMR14-15</option>
 	<option value="VDSR14-14">VDSR14-14</option>
+	<option value="VDSR14-15">VDSR14-15</option>
+	<option value="VDTR15-15">VDTR15-15</option>
 	<option value="VDVR14-14">VDVR14-14</option>
+	<option value="VDVR14-15">VDVR14-15</option>
 	<option value="YABM02-02">YABM02-02</option>
 	<option value="YABM02-09">YABM02-09</option>
 	<option value="YADM12-13">YADM12-13</option>
+	<option value="YAEB14-15">YAEB14-15</option>
+	<option value="YAEM14-15">YAEM14-15</option>
 	<option value="YAFB02-02">YAFB02-02</option>
 	<option value="YAFB02-04">YAFB02-04</option>
 	<option value="YAFB02-09">YAFB02-09</option>
+	<option value="YAFB02-16">YAFB02-16</option>
 	<option value="YAFD06-06">YAFD06-06</option>
 	<option value="YAFD06-09">YAFD06-09</option>
 	<option value="YAFM02-02">YAFM02-02</option>
@@ -640,6 +740,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="YALD02-04">YALD02-04</option>
 	<option value="YALD02-09">YALD02-09</option>
 	<option value="YALD02-13">YALD02-13</option>
+	<option value="YALD02-15">YALD02-15</option>
 	<option value="YAMB11-11">YAMB11-11</option>
 	<option value="YAMD06-06">YAMD06-06</option>
 	<option value="YAMD06-09">YAMD06-09</option>
@@ -649,6 +750,7 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="YARM10-10">YARM10-10</option>
 	<option value="YASB02-02">YASB02-02</option>
 	<option value="YASB02-09">YASB02-09</option>
+	<option value="YASB02-15">YASB02-15</option>
 	<option value="YASM02-02">YASM02-02</option>
 	<option value="YASM02-09">YASM02-09</option>
 	<option value="YASM02-12">YASM02-12</option>
@@ -657,23 +759,16 @@ blocks: <h3>Университет:</h3><ul><li>[[Хитрости и проч�
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
 	</select> <input type="submit" name="" value="Сравнить" /></form></p><h3>О сайте:</h3><ul><li>[[Редактирование]] – про возможности этого сайта</li><li>[[Шаблон]] – для создания новых страниц</li><li>[[FAQ]] – Часто задаваемые вопросы</li><li>[[Необходимые улучшения]] – известные проблемы и предложения по их исправлению</li><li>[[Генерация Страниц]] – страницы с расписаниями и первоначальные страницы для предметов генерируются автоматически.</li></ul><h3>Другие сайты:</h3><ul><li><a target="_new" class="url http newwindow" href="https://www.facebook.com/groups/rusttu/">https://www.facebook.com/groups/rusttu/</a> - Самый быстрый способ получить ответ, если его нет на этом сайте.<br /></li><li><a target="_new" class="url http newwindow" href="http://ttuit.eu/">http://ttuit.eu/</a> - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)</li><li>Сначала был <code>http://aboutthat.era.ee</code>, потом <code>http://imcaps.me/tut/</code>, теперь сайт закрывается. Зато автор сделал хорошее дело – выложил всё нажитое за учебные годы! Архив здесь File:TTU_imcaps.zip (<strong>898.8 MB</strong>).<br /></li><li><a target="_new" class="url http newwindow" href="http://starspirals.net/ttu/materjalid/">http://starspirals.net/ttu/materjalid/</a> - Довольно актуальный среди других, последние обновления в 2013-ом году.<br /></li><li><a target="_new" class="url http newwindow" href="http://forum.ee/f68/tallinna-tehnikalikool-tt/">http://forum.ee/f68/tallinna-tehnikalikool-tt/</a> - Очень много хорошей и полезной информации, попробуй найди.<br /></li><li><a target="_new" class="url http newwindow" href="http://hot.ee/iasb02/materials/">http://hot.ee/iasb02/materials/</a> - Заброшен в 2004-ом, но некоторая информация до сих пор актуальна.<br /></li><li><a target="_new" class="url http newwindow" href="http://annaabi.ee/ylikool-1.html">http://annaabi.ee/ylikool-1.html</a> - Вроде бы и есть какие-то материалы, но для того, чтобы их скачать, необходимо заплатить 3.20€. Не рекомендуется.<br /></li><li><a target="_new" class="url http newwindow" href="http://www.hot.ee/l/las97ttu/comments.html">http://www.hot.ee/l/las97ttu/comments.html</a> - Старье какое-то.<br /></li><li><a target="_new" class="url http newwindow" href="http://iapb12.pbworks.com">http://iapb12.pbworks.com</a> - Эстонская вики iapb-шников 2009-го года.<br /></li><li><a target="_new" class="url http newwindow" href="https://github.com/andreireinus?tab=repositories">https://github.com/andreireinus?tab=repositories</a> - исходники для некоторых предметов на гитхабе. Похвально.<br /></li><li><a target="_new" class="url http newwindow" href="http://iasb.me.pn/">http://iasb.me.pn/</a> - набор и так уже всем известных ссылок. Возможно, что когда-нибудь будет свой контент.<br /></li><li><a target="_new" class="url http newwindow" href="http://web.zone.ee/aldas/">http://web.zone.ee/aldas/</a> - какие-то файлы.</li></ul><h4>Архивы:</h4><p>Сделаны на случай, если один из сайтов в какой-то момент вовсе перестанет функционировать. Скачиваете, распаковываете, открываете любой из html файлов в любимом браузере и можете пользоваться сайтом в offline, прямо с вашего компьютера.<br /></p><table class="user"><tr><th>Файл</th><th>Дата</th><th>Размер</th></tr><tr><td>[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]</td><td>2014-02-22</td><td>240.2MB</td></tr><tr><td>[[File:www.hot.ee.zip|hot.ee/iasb02/materials/]]</td><td>2014-02-22</td><td>5.7MB</td></tr><tr><td>[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|частичный]])</td><td>2014-02-22</td><td>315.8MB</td></tr><tr><td>[[File:TTU_imcaps.zip|aboutthat.era.ee]] (предоставлен автором)</td><td>2015-06-02</td><td>898.8 MB</td></tr></table><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Материалы с imcaps.me/tut(практически все предметы на бакалавре, плюс в папке other другие предметы) выложены архивом по ссылке <a class="url http" href="http://we.tl/JGgqW32r2U">http://we.tl/JGgqW32r2U</a>. Страницу imcaps.me/tut я больше не буду содержать, и в скоре удалю оттуда все. Одна только просьба, после того как получите\скачаете фаилы, дайте знать, а также если возникнут любые вопросы, пишите на alexandr1991[at]gmail.com</p><p>&#x2013; imCaps 2015-05-31 16:43:46</p></div><div class="userComment"><p>Ого! Это очень круто!<br />Перезалил пока файл сюда:<br />File:TTU_imcaps.zip<br />Что дальше с ним делать – не уверен. 900 MB это, конечно, жестко. Получается, что либо всё скачиваешь, либо ничего. :)</p><p>После сессии буду переорганизовывать свои файлы, тоже всё залью. Заодно и придумаю, как бы так всё это устроить пошустрее, чтобы людям не приходилось гиговые архивы качать.</p><p>С другой стороны, кто ищет, тот всегда&#x2026; скачает ;)</p><p>&#x2013; AlexDaniel 2015-06-02 01:33:28</p></div><div class="userComment"><p>Смотрю что внутри – вот это да! Респект!</p><p>&#x2013; AlexDaniel 2015-06-02 01:56:52</p></div><div class="userComment"><p>Дипломной там не хватает ))</p><p>&#x2013; imCaps 2015-06-02 10:42:38</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ===Университет:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Университет:</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ===Стипендии и пособия:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Стипендии и пособия:</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ===О сайте:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === <strong class="changes">Сравнение учебных программ:<br />&gt; &lt;diff ^\w\w\w\w\d\d-\d\d$&gt;<br />&gt; ===</strong> О сайте:</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ===Другие сайты:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Другие сайты:</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.</p></div>
 ip: 89.235.239.240
-ts: 1435839754
+ts: 1438900637
 minor: 
-host: 85.253.108.211
+host: 85.253.110.44
 username: AlexDaniel
-revision: 49
+revision: 50
 diff-major: 1
-summary: И здесь сравнение
+summary: Про сравнение учебных программ
 languages: 
 text: === Университет:
 	* [[Хитрости и прочее]]
@@ -685,6 +780,7 @@ text: === Университет:
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - отличный документ, всем стоит его прочитать.
 	
 	=== Сравнение учебных программ:
+	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 	=== О сайте:
@@ -752,5 +848,5 @@ text: === Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-lastmajor: 49
-keep-ts: 1435839754
+lastmajor: 50
+keep-ts: 1438900637
