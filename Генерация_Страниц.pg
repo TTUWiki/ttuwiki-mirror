@@ -1,15 +1,17 @@
 flags: 010100
-blocks: <h3>Программы и предметы</h3><p>Для генерации страниц использовался этот скрипт:</p><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois">parse_ois</a></p><p>Последний раз он запускался 2015-08-06, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p><h3>Расписания</h3><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable">parse_timetable</a></p><h3>Архивы сайтов</h3><p>[[File:get]]</p><p>С данными сайтами проблем нет, выкачиваются максимально:<br /></p><ul><li><a class="url http" href="http://www.hot.ee/iasb02/materials/index.htm">http://www.hot.ee/iasb02/materials/index.htm</a></li><li><a class="url http" href="http://www.starspirals.net/ttu/materjalid/index.php?dir=">http://www.starspirals.net/ttu/materjalid/index.php?dir=</a></li></ul><h4>Проблемные сайты:</h4><h4><a class="url http" href="http://ttuit.eu">http://ttuit.eu</a></h4><p>По какой-то причине часть данных не загружается, из-за чего многие ссылки либо вообще не работают, либо указывают на оригинальный сайт.</p><p><br /><br />Буду рад услышать любые предложения.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a> &#x2192;&#x00a0;<a class="url http" href="http://imcaps.me/tut/">http://imcaps.me/tut/</a></p><p>Я, владелец, выдам архивом по окончанию этого года.</p><p>&#x2013; Аноним 2015-01-25 14:51:46</p></div><div class="userComment"><p>Благодарю! Будет очень здорово.</p><p>В общем-то, архивы я начал собирать тогда, когда ttuit внезапно упал на несколько дней, а ведь там довольно много полезной инфы. То есть цель - сделать так, чтобы полезная информация не пропала. Если бы авторы сами предоставляли доступ к бекапам (будь то архивы на другом сервере или исходники на гитхабе, да что угодно вообще), то, конечно же, такой необходимости бы не было.</p><p>&#x2013; AlexDaniel 2015-01-25 15:25:46</p></div>
+blocks: <h3>Программы и предметы</h3><p>Для генерации страниц использовался этот скрипт:</p><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois">parse_ois</a></p><p>Последний раз он запускался <strong>2015-08-06</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p><h3>Расписания</h3><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable">parse_timetable</a></p><h3>Архивы сайтов</h3><p>[[File:get]]</p><p>С данными сайтами проблем нет, выкачиваются максимально:<br /></p><ul><li><a class="url http" href="http://www.hot.ee/iasb02/materials/index.htm">http://www.hot.ee/iasb02/materials/index.htm</a></li><li><a class="url http" href="http://www.starspirals.net/ttu/materjalid/index.php?dir=">http://www.starspirals.net/ttu/materjalid/index.php?dir=</a></li></ul><h4>Проблемные сайты:</h4><h4><a class="url http" href="http://ttuit.eu">http://ttuit.eu</a></h4><p>По какой-то причине часть данных не загружается, из-за чего многие ссылки либо вообще не работают, либо указывают на оригинальный сайт.</p><p><br /><br />Буду рад услышать любые предложения.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://aboutthat.era.ee">http://aboutthat.era.ee</a> &#x2192;&#x00a0;<a class="url http" href="http://imcaps.me/tut/">http://imcaps.me/tut/</a></p><p>Я, владелец, выдам архивом по окончанию этого года.</p><p>&#x2013; Аноним 2015-01-25 14:51:46</p></div><div class="userComment"><p>Благодарю! Будет очень здорово.</p><p>В общем-то, архивы я начал собирать тогда, когда ttuit внезапно упал на несколько дней, а ведь там довольно много полезной инфы. То есть цель - сделать так, чтобы полезная информация не пропала. Если бы авторы сами предоставляли доступ к бекапам (будь то архивы на другом сервере или исходники на гитхабе, да что угодно вообще), то, конечно же, такой необходимости бы не было.</p><p>&#x2013; AlexDaniel 2015-01-25 15:25:46</p></div>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Последний раз он запускался <strong class="changes">летом 2014</strong>-<strong class="changes">го</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Последний раз он запускался <strong class="changes">2015</strong>-<strong class="changes">08-06</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div>
+	<div class="old"><p>&lt; Последний раз он запускался 2015-08-06<strong class="changes">,</strong> то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Последний раз он запускался <strong class="changes">**</strong>2015-08-06<strong class="changes">**,</strong> то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div>
 ip: 84.52.48.194
-ts: 1438898974
-minor: 
+ts: 1438898988
+minor: 1
 host: 85.253.110.44
 username: AlexDaniel
-revision: 19
-diff-major: 1
+revision: 20
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Последний раз он запускался <strong class="changes">летом 2014</strong>-<strong class="changes">го</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Последний раз он запускался <strong class="changes">2015</strong>-<strong class="changes">08-06</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p></div>
 summary: ÕIS был пропарсен заново
 languages: 
 text: === Программы и предметы
@@ -18,7 +20,7 @@ text: === Программы и предметы
 	
 	[[https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois parse_ois]]
 	
-	Последний раз он запускался 2015-08-06, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.
+	Последний раз он запускался **2015-08-06**, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.
 	
 	=== Расписания
 	
@@ -58,4 +60,4 @@ text: === Программы и предметы
 	
 	
 lastmajor: 19
-keep-ts: 1438898974
+keep-ts: 1438898988
