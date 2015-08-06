@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDMR02/02 - Majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1459&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[BCU0820]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU0300]] Arvestus eelarvelistes asutustes<br />[[BCU0850]] Audiitorkontroll<br />[[BCU0840]] Eelarvestus<br />[[BCU0730]] Eesti majandus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0880]] Finantsanalüüs<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU0540]] Juhtimise infosüsteemid<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU0790]] Kuluarvestus<br />[[BCU0800]] Lepinguõigus<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU0570]] Personalitöö<br />[[BCU0530]] Politoloogia<br />[[BCU0910]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0810]] Raamatupidamisarvestus<br />[[BCU0870]] Raamatupidamise arvutiprogrammid<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0640]] Rahvusvahelised Investeeringud<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0900]] Töö- ja palgakorraldus<br />[[BCU0700]] Töökeskkond ja ergonoomika<br />[[BCU0690]] Tootmiskorraldus<br />[[BCU0491]] Turundus</p>
-diff-minor: 
-ts: 1408891306
+blocks: <h2>BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1459&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[BCU0820]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU0300]] Arvestus eelarvelistes asutustes<br />[[BCU0850]] Audiitorkontroll<br />[[BCU0840]] Eelarvestus<br />[[BCU0730]] Eesti majandus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0880]] Finantsanalüüs<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU0540]] Juhtimise infosüsteemid<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU0790]] Kuluarvestus<br />[[BCU0800]] Lepinguõigus<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU0570]] Personalitöö<br />[[BCU0530]] Politoloogia<br />[[BCU0910]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0810]] Raamatupidamisarvestus<br />[[BCU0870]] Raamatupidamise arvutiprogrammid<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0640]] Rahvusvahelised Investeeringud<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0900]] Töö- ja palgakorraldus<br />[[BCU0700]] Töökeskkond ja ergonoomika<br />[[BCU0690]] Tootmiskorraldus<br />[[BCU0491]] Turundus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDMR02/02 - Majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1459&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDMR02/02 - Majandusarvestus <strong class="changes">ja ettevõtluse juhtimine</strong> [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1459&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div>
+ts: 1438886275
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: == BDMR02/02 - Majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=1459&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=1459&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[BCU0820]] Aastaaruandluse koostamine ja analüüs
 	[[BCU0510]] Ärieetika alused
 	[[BCU0100]] Äriõigus
@@ -54,4 +56,4 @@ text: == BDMR02/02 - Majandusarvestus [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[BCU0491]] Turundus
 	
 	
-keep-ts: 1408891306
+keep-ts: 1438886275

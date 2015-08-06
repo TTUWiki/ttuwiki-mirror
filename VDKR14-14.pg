@@ -1,13 +1,23 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=10582&amp;p_kava_versioon_id=50275&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[VAY0020]] Analüütiline geomeetria<br />[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad<br />[[VAA0120]] CAD projekteerimine<br />[[VAY0462]] Eesti keel II (võõrkeelena)<br />[[VAY0461]] Eesti keel I (võõrkeelena)<br />[[VAY0210]] Eetika ja etikett<br />[[VAA0250]] Elektroonika<br />[[VAA0260]] Elektrotehnika<br />[[VLL0720]] Esmaabi baasõpe (&#x201c;Ellujäämine ekstreemetes olukordades merel&#x201d;)<br />[[VAY0170]] Ettevõtlusõpe<br />[[VAY0130]] Füüsika<br />[[VMV0120]] Hüdromehaanika<br />[[VAY0141]] Informaatika I/1<br />[[VAY0142]] Informaatika I/2<br />[[VAY0160]] Informaatika II<br />[[VLK0211]] Inglise keel I/1<br />[[VLK0212]] Inglise keel I/2<br />[[VLK0213]] Inglise keel II/1<br />[[VLK0214]] Inglise keel II/2<br />[[VLK0215]] Inglise keel III<br />[[VAY0230]] Investeeringute juhtimine<br />[[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus laevas (&#x201c;Ellujäämine ekstreemsetes olukordades merel&#x201d;)<br />[[VAY0240]] Juhtimispsühholoogia<br />[[VAY0440]] Keemia<br />[[VLM0030]] Keevitamise õppepraktika&nbsp;&nbsp;<br />[[VAY0481]] Kehaline kasvatus I<br />[[VAY0500]] Kehaline kasvatus II<br />[[VLK0190]] Keskkonnaohutus<br />[[VMV0300]] Keskkonnatehnika<br />[[VMV0310]] Keskkonnatehnika ja tehnoökoloogia<br />[[VLK0070]] Konditsioneerimisseadmed<br />[[VAA0090]] Kujutav geomeetria<br />[[VLK0200]] Külmatehniliste torusüsteemide montaaž, hooldus, remont<br />[[VLK0131]] Külmutusautomaatikaseadmed, automaatjuhtimissüsteemid I<br />[[VLK0132]] Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II<br />[[VLK0061]] Külmutusseadmete ehitus ja ekspluatatsioon I<br />[[VLK0062]] Külmutusseadmete ehitus ja ekspluatatsioon II<br />[[VLK0063]] Külmutusseadmete ehitus ja ekspluatatsioon III<br />[[VLK0081]] Külmutusseadmete montaaž ja remont I<br />[[VLK0082]] Külmutusseadmete remont ja montaaž II<br />[[VLK0171]] Külmutusseadmete simulaatoripraktika I<br />[[VLK0172]] Külmutusseadmete simulaatoripraktika II<br />[[VLM0260]] Külmutustehnilised elektriseadmed<br />[[VLK0240]] Külmutustehnoloogia<br />[[VLK0140]] Külmutustehnoloogilised seadmed<br />[[VLK0100]] Küte ja ventilatsioon<br />[[VLL0410]] Laevade ehitus<br />[[VLM0120]] Laeva jõuseadmed ja abimehhanismid<br />[[VAY0010]] Lineaaralgebra<br />[[VLK0230]] Lõpueksam: Külmutusautomaat- ja automaatjuhtimisseadmed<br />[[VLK0180]] Lõpueksam: Külmutusseadmete ehitus ja ekspluatatsioon<br />[[VLK0220]] Lõpueksam: Külmutusseadmete remont ja montaaž<br />[[VLM0161]] Lukksepa- ja lõiketöötlemise õppepraktika I<br />[[VLM0162]] Lukksepa- ja lõiketöötlemise õppepraktika II<br />[[VLM0163]] Lukksepa- ja lõiketöötlemise õppepraktika III<br />[[VAA0230]] Masinaelemendid<br />[[VAY0050]] Matemaatiline analüüs I<br />[[VAY0060]] Matemaatiline analüüs II<br />[[VAY0080]] Matemaatiline analüüs (MMF)<br />[[VLL0570]] Merealane inglise keel, STCW<br />[[VAY0250]] Meresõidu ajalugu ja traditsioonid<br />[[VAA0151]] Metallide tehnoloogia, materjalid I<br />[[VAA0152]] Metallide tehnoloogia, materjalid II<br />[[VLL0330]] Ohutus, ohuteave, meeskonnatöö<br />[[VAY0340]] Õiguse alused ja kodanikuühiskond<br />[[VAY0410]] Ökonoomika<br />[[VAY0510]] Õpingukorraldus<br />[[VAY0220]] Projektijuhtimine<br />[[VAY0380]] Raamatupidamise alused<br />[[VLK0090]] Sisekliima<br />[[VLK0120]] Soojuspumbad<br />[[VAA0170]] Standardimine, tolereerimine, mõõtetehnika<br />[[VAY0200]] Suhtekorraldus<br />[[VAA0040]] Tehniline joonestamine<br />[[VLK0160]] Tehnoloogiline praktika<br />[[VAA0101]] Teoreetiline mehaanika I<br />[[VAA0102]] Teoreetiline mehaanika II<br />[[VLK0110]] Termodünaamika ja soojusülekanne<br />[[VLK0040]] Tööohutus, tulekaitse, akvalang<br />[[VLM0190]] Töötervishoid ja tööohutus<br />[[VAA0180]] Tugevusõpetus<br />[[VLK0150]] Tutvumispraktika ettevõttes<br />[[VAY0400]] Üldjuhtimine<br />[[VLK0260]] Vahiteenistuse praktika<br />[[VAY0452]] Vene keel II (võõrkeelena)<br />[[VAY0451]] Vene keel I (võõrkeelena)</p>
-diff-minor: 
-ts: 1408891668
+blocks: <h2>VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=10582&amp;p_kava_versioon_id=50275&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[VAY0020]] Analüütiline geomeetria<br />[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad<br />[[VAA0120]] CAD projekteerimine<br />[[VAY0462]] Eesti keel II (võõrkeelena)<br />[[VAY0461]] Eesti keel I (võõrkeelena)<br />[[VAY0210]] Eetika ja etikett<br />[[VAA0250]] Elektroonika<br />[[VAA0260]] Elektrotehnika<br />[[VLL0720]] Esmaabi baasõpe (&#x201c;Ellujäämine ekstreemsetes olukordades merel&#x201d;)<br />[[VAY0170]] Ettevõtlusõpe<br />[[VAY0130]] Füüsika<br />[[VMV0120]] Hüdromehaanika<br />[[VAY0141]] Informaatika I/1<br />[[VAY0142]] Informaatika I/2<br />[[VAY0160]] Informaatika II<br />[[VLK0211]] Inglise keel I/1<br />[[VLK0212]] Inglise keel I/2<br />[[VLK0213]] Inglise keel II/1<br />[[VLK0214]] Inglise keel II/2<br />[[VLK0215]] Inglise keel III<br />[[VAY0230]] Investeeringute juhtimine<br />[[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus  (&#x201c;Ellujäämine ekstreemsetes olukordades merel&#x201d;)<br />[[VAY0240]] Juhtimispsühholoogia<br />[[VAY0440]] Keemia<br />[[VLM0030]] Keevitamise õppepraktika<br />[[VAY0481]] Kehaline kasvatus I<br />[[VAY0500]] Kehaline kasvatus II<br />[[VLK0190]] Keskkonnaohutus<br />[[VMV0300]] Keskkonnatehnika<br />[[VMV0310]] Keskkonnatehnika ja tehnoökoloogia<br />[[VLK0070]] Konditsioneerimisseadmed<br />[[VAA0090]] Kujutav geomeetria<br />[[VLK0131]] Külmutusautomaatikaseadmed, automaatjuhtimissüsteemid I<br />[[VLK0132]] Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II<br />[[VLK0061]] Külmutusseadmete ehitus ja ekspluatatsioon I<br />[[VLK0062]] Külmutusseadmete ehitus ja ekspluatatsioon II<br />[[VLK0063]] Külmutusseadmete ehitus ja ekspluatatsioon III<br />[[VLK0081]] Külmutusseadmete montaaž ja remont I<br />[[VLK0082]] Külmutusseadmete montaaž ja remont II<br />[[VLK0171]] Külmutusseadmete simulaatoripraktika I<br />[[VLK0172]] Külmutusseadmete simulaatoripraktika II<br />[[VLM0260]] Külmutustehnilised elektriseadmed<br />[[VLK0200]] Külmutustehniliste torusüsteemide montaaž ja remont<br />[[VLK0240]] Külmutustehnoloogia<br />[[VLK0140]] Külmutustehnoloogilised seadmed<br />[[VLK0100]] Küte ja ventilatsioon<br />[[VLL0410]] Laevade ehitus<br />[[VLM0120]] Laeva jõuseadmed ja abimehhanismid<br />[[VAY0010]] Lineaaralgebra<br />[[VLK0230]] Lõpueksam: Külmutusautomaat- ja automaatjuhtimisseadmed<br />[[VLK0180]] Lõpueksam: Külmutusseadmete ehitus ja ekspluatatsioon<br />[[VLK0220]] Lõpueksam: Külmutusseadmete remont ja montaaž<br />[[VLM0161]] Lukksepa- ja lõiketöötlemise õppepraktika I<br />[[VLM0162]] Lukksepa- ja lõiketöötlemise õppepraktika II<br />[[VLM0163]] Lukksepa- ja lõiketöötlemise õppepraktika III<br />[[VAA0230]] Masinaelemendid<br />[[VAY0050]] Matemaatiline analüüs I<br />[[VAY0060]] Matemaatiline analüüs II<br />[[VAY0080]] Matemaatiline analüüs (MMF)<br />[[VLL0570]] Merealane inglise keel, STCW<br />[[VAY0250]] Meresõidu ajalugu ja traditsioonid<br />[[VAA0151]] Metallide tehnoloogia, materjalid I<br />[[VAA0152]] Metallide tehnoloogia, materjalid II<br />[[VLL0330]] Ohutus, ohuteave, meeskonnatöö<br />[[VAY0340]] Õiguse alused ja kodanikuühiskond<br />[[VAY0410]] Ökonoomika<br />[[VAY0510]] Õpingukorraldus<br />[[VAY0220]] Projektijuhtimine<br />[[VAY0380]] Raamatupidamise alused<br />[[VLK0090]] Sisekliima<br />[[VLK0120]] Soojuspumbad<br />[[VAA0170]] Standardimine, tolereerimine, mõõtetehnika<br />[[VAY0200]] Suhtekorraldus<br />[[VAA0040]] Tehniline joonestamine<br />[[VLK0160]] Tehnoloogiline praktika<br />[[VAA0101]] Teoreetiline mehaanika I<br />[[VAA0102]] Teoreetiline mehaanika II<br />[[VLK0110]] Termodünaamika ja soojusülekanne<br />[[VLK0040]] Tööohutus, tulekaitse, akvalang<br />[[VLM0190]] Töötervishoid ja tööohutus<br />[[VAA0180]] Tugevusõpetus<br />[[VLK0150]] Tutvumispraktika ettevõttes<br />[[VAY0400]] Üldjuhtimine<br />[[VLK0260]] Vahiteenistuse praktika<br />[[VAY0452]] Vene keel II (võõrkeelena)<br />[[VAY0451]] Vene keel I (võõrkeelena)</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VLL0720]] Esmaabi baasõpe ("Ellujäämine <strong class="changes">ekstreemetes</strong> olukordades merel")</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VLL0720]] Esmaabi baasõpe ("Ellujäämine <strong class="changes">ekstreemsetes</strong> olukordades merel")</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus <strong class="changes">laevas</strong> ("Ellujäämine ekstreemsetes olukordades merel")</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus  ("Ellujäämine ekstreemsetes olukordades merel")</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VLM0030]] Keevitamise õppepraktika<strong class="changes">&amp;nbsp;&amp;nbsp;</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VLM0030]] Keevitamise õppepraktika</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[VLK0200]] Külmatehniliste torusüsteemide montaaž, hooldus, remont</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VLK0082]] Külmutusseadmete <strong class="changes">remont ja</strong> montaaž II</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VLK0082]] Külmutusseadmete montaaž <strong class="changes">ja remont</strong> II</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[VLK0200]] Külmutustehniliste torusüsteemide montaaž ja remont</p></div>
+ts: 1438887204
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: == VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=10582&p_kava_versioon_id=50275&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[VAY0020]] Analüütiline geomeetria
@@ -18,7 +28,7 @@ text: == VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[VAY0210]] Eetika ja etikett
 	[[VAA0250]] Elektroonika
 	[[VAA0260]] Elektrotehnika
-	[[VLL0720]] Esmaabi baasõpe ("Ellujäämine ekstreemetes olukordades merel")
+	[[VLL0720]] Esmaabi baasõpe ("Ellujäämine ekstreemsetes olukordades merel")
 	[[VAY0170]] Ettevõtlusõpe
 	[[VAY0130]] Füüsika
 	[[VMV0120]] Hüdromehaanika
@@ -31,10 +41,10 @@ text: == VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[VLK0214]] Inglise keel II/2
 	[[VLK0215]] Inglise keel III
 	[[VAY0230]] Investeeringute juhtimine
-	[[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus laevas ("Ellujäämine ekstreemsetes olukordades merel")
+	[[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus  ("Ellujäämine ekstreemsetes olukordades merel")
 	[[VAY0240]] Juhtimispsühholoogia
 	[[VAY0440]] Keemia
-	[[VLM0030]] Keevitamise õppepraktika&nbsp;&nbsp;
+	[[VLM0030]] Keevitamise õppepraktika
 	[[VAY0481]] Kehaline kasvatus I
 	[[VAY0500]] Kehaline kasvatus II
 	[[VLK0190]] Keskkonnaohutus
@@ -42,17 +52,17 @@ text: == VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[VMV0310]] Keskkonnatehnika ja tehnoökoloogia
 	[[VLK0070]] Konditsioneerimisseadmed
 	[[VAA0090]] Kujutav geomeetria
-	[[VLK0200]] Külmatehniliste torusüsteemide montaaž, hooldus, remont
 	[[VLK0131]] Külmutusautomaatikaseadmed, automaatjuhtimissüsteemid I
 	[[VLK0132]] Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II
 	[[VLK0061]] Külmutusseadmete ehitus ja ekspluatatsioon I
 	[[VLK0062]] Külmutusseadmete ehitus ja ekspluatatsioon II
 	[[VLK0063]] Külmutusseadmete ehitus ja ekspluatatsioon III
 	[[VLK0081]] Külmutusseadmete montaaž ja remont I
-	[[VLK0082]] Külmutusseadmete remont ja montaaž II
+	[[VLK0082]] Külmutusseadmete montaaž ja remont II
 	[[VLK0171]] Külmutusseadmete simulaatoripraktika I
 	[[VLK0172]] Külmutusseadmete simulaatoripraktika II
 	[[VLM0260]] Külmutustehnilised elektriseadmed
+	[[VLK0200]] Külmutustehniliste torusüsteemide montaaž ja remont
 	[[VLK0240]] Külmutustehnoloogia
 	[[VLK0140]] Külmutustehnoloogilised seadmed
 	[[VLK0100]] Küte ja ventilatsioon
@@ -98,4 +108,4 @@ text: == VDKR14/14 - Külmutusseadmed [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[VAY0451]] Vene keel I (võõrkeelena)
 	
 	
-keep-ts: 1408891668
+keep-ts: 1438887204

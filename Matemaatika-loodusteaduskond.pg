@@ -1,14 +1,15 @@
-flags: 0101010101010101010101010101010
-blocks: <p>[[YAGB02]] Geenitehnoloogia<br />[[YAMB11]] Maa-teadused<br />[[YASB02]] Rakenduskeemia ja biotehnoloogia<br />[[YAFB02]] Tehniline füüsika</p><p>[[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika<br />[[YABM02]] Biomeditsiinitehnoloogia<br />[[YAGM02]] Geenitehnoloogia<br />[[YAMM07]] Maa-teadused<br />[[YARM10]] Merendus<br />[[YASM02]] Rakenduskeemia ja biotehnoloogia<br />[[YAFM02]] Tehniline füüsika<br />[[YVEM09]] Tervishoiutehnoloogia</p><p>[[YALD02]] Keemia ja geenitehnoloogia<br />[[YAMD06]] Maa-teadused<br />[[YAFD06]] Tehniline füüsika</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[YAGB02]] Geenitehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAMB11]] Maa-teadused<strong class="changes">\\</strong><br />&lt; [[YASB02]] Rakenduskeemia ja biotehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAFB02]] Tehniline füüsika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika<strong class="changes">\\</strong><br />&lt; [[YABM02]] Biomeditsiinitehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAGM02]] Geenitehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAMM07]] Maa-teadused<strong class="changes">\\</strong><br />&lt; [[YARM10]] Merendus<strong class="changes">\\</strong><br />&lt; [[YASM02]] Rakenduskeemia ja biotehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAFM02]] Tehniline füüsika<strong class="changes">\\</strong><br />&lt; [[YVEM09]] Tervishoiutehnoloogia<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[YALD02]] Keemia ja geenitehnoloogia<strong class="changes">\\</strong><br />&lt; [[YAMD06]] Maa-teadused<strong class="changes">\\</strong><br />&lt; [[YAFD06]] Tehniline füüsika<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[YAGB02]] Geenitehnoloogia<br />&gt; [[YAMB11]] Maa-teadused<br />&gt; [[YASB02]] Rakenduskeemia ja biotehnoloogia<br />&gt; [[YAFB02]] Tehniline füüsika<br />&gt; [[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika<br />&gt; [[YABM02]] Biomeditsiinitehnoloogia<br />&gt; [[YAGM02]] Geenitehnoloogia<br />&gt; [[YAMM07]] Maa-teadused<br />&gt; [[YARM10]] Merendus<br />&gt; [[YASM02]] Rakenduskeemia ja biotehnoloogia<br />&gt; [[YAFM02]] Tehniline füüsika<br />&gt; [[YVEM09]] Tervishoiutehnoloogia<br />&gt; [[YALD02]] Keemia ja geenitehnoloogia<br />&gt; [[YAMD06]] Maa-teadused<br />&gt; [[YAFD06]] Tehniline füüsika</p></div>
+flags: 010101010101010101010101010101010
+blocks: <p>[[YAGB02]] Geenitehnoloogia<br />[[YAMB11]] Maa-teadused<br />[[YAEB14]] Maa-teadused ja geotehnoloogia<br />[[YASB02]] Rakenduskeemia ja biotehnoloogia<br />[[YAFB02]] Tehniline füüsika</p><p>[[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika<br />[[YABM02]] Biomeditsiinitehnoloogia<br />[[YAGM02]] Geenitehnoloogia<br />[[YAMM07]] Maa-teadused<br />[[YAEM14]] Maa-teadused ja geotehnoloogia<br />[[YASM02]] Rakenduskeemia ja biotehnoloogia<br />[[YAFM02]] Tehniline füüsika<br />[[YVEM09]] Tervishoiutehnoloogia</p><p>[[YALD02]] Keemia ja geenitehnoloogia<br />[[YAMD06]] Maa-teadused<br />[[YAFD06]] Tehniline füüsika</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">YARM10</strong>]] <strong class="changes">Merendus</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">YAEM14</strong>]] <strong class="changes">Maa-teadused ja geotehnoloogia</strong></p></div>
 ip: 89.235.235.166
-ts: 1408885786
+ts: 1438886454
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 4
+revision: 5
 diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YABM02]] Biomeditsiinitehnoloogia\\<br />&lt; [[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika\\<br />&lt; [[YAFB02]] Tehniline füüsika\\<br />&lt; [[YAFD06]] Tehniline füüsika\\<br />&lt; [[YAFM02]] Tehniline füüsika\\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YAGM02]] Geenitehnoloogia\\<br />&lt; [[YALD02]] Keemia ja geenitehnoloogia\\</p></div><p><strong>Changed:</strong></p>
@@ -17,10 +18,11 @@ diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YASB02]] Rakenduskeemia ja biotehnoloogia\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[YAFM02]] Tehniline füüsika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[YALD02]] Keemia ja geenitehnoloogia\\<br />&gt; [[YAMD06]] Maa-teadused\\<br />&gt; [[YAFD06]] Tehniline füüsika\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: [[YAGB02]] Geenitehnoloogia
 	[[YAMB11]] Maa-teadused
+	[[YAEB14]] Maa-teadused ja geotehnoloogia
 	[[YASB02]] Rakenduskeemia ja biotehnoloogia
 	[[YAFB02]] Tehniline füüsika
 	
@@ -28,7 +30,7 @@ text: [[YAGB02]] Geenitehnoloogia
 	[[YABM02]] Biomeditsiinitehnoloogia
 	[[YAGM02]] Geenitehnoloogia
 	[[YAMM07]] Maa-teadused
-	[[YARM10]] Merendus
+	[[YAEM14]] Maa-teadused ja geotehnoloogia
 	[[YASM02]] Rakenduskeemia ja biotehnoloogia
 	[[YAFM02]] Tehniline füüsika
 	[[YVEM09]] Tervishoiutehnoloogia
@@ -40,4 +42,4 @@ text: [[YAGB02]] Geenitehnoloogia
 	
 	
 lastmajor: 3
-keep-ts: 1408885786
+keep-ts: 1438886454

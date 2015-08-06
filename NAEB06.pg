@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "NAEB06-09"&gt;
+flags: 0101010
+blocks: &lt;include "NAEB06-15"&gt;
+	&lt;include "NAEB06-09"&gt;
 	&lt;include "NAEB06-06"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== NAEB06/09 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50087</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[NTX0010]] Akadeemiline võõrkeel\\<br />&lt; [[NTS0341]] Arvutigraafika I\\<br />&lt; [[NTK0130]] Biogeokeemilised tsüklid ja mullakaitse\\<br />&lt; [[NTU0030]] Eesti keele väljendusõpetus\\<br />&lt; [[NTS0153]] Ehitusgraafika I\\<br />&lt; [[NTK0410]] Elusloodus\\<br />&lt; [[NTK1090]] Erialapraktika\\<br />&lt; [[NTU0040]] Filosoofia\\<br />&lt; [[NTM0311]] Geoinformaatika\\<br />&lt; [[NTS0121]] Informaatika I\\<br />&lt; [[NTS0122]] Informaatika II\\<br />&lt; [[NTS0051]] Jäätmekäitlus I\\<br />&lt; [[NTS0053]] Jäätmekäitlus II\\<br />&lt; [[NTM1120]] Keskkonnafüüsika\\<br />&lt; [[NTK0820]] Keskkonnajuhtimine\\<br />&lt; [[NTK0020]] Keskkonnakaitse\\<br />&lt; [[NTK0340]] Keskkonnakeemia\\<br />&lt; [[NTK0560]] Keskkonnamajanduse alused\\<br />&lt; [[NTM0620]] Keskkonnamõju hindamine\\<br />&lt; [[NTK0520]] Keskkonnaõigus\\<br />&lt; [[NTM0040]] Keskkonnapsühholoogia\\<br />&lt; [[NTK0460]] Keskkonnariski analüüs\\<br />&lt; [[NTS0140]] Kujutav geomeetria\\<br />&lt; [[NTS0160]] Lineaaralgebra\\<br />&lt; [[NTS0171]] Matemaatiline analüüs I\\<br />&lt; [[NTS0172]] Matemaatiline analüüs II\\<br />&lt; [[NTS1130]] Matemaatilised mudelid\\<br />&lt; [[NTS1021]] Materjalide ringlus\\<br />&lt; [[NTK0050]] Mikro- ja makroökonoomika\\<br />&lt; [[NTK0610]] Õhu kvaliteet ja kontroll\\<br />&lt; [[NTK0030]] Õigusõpetus\\<br />&lt; [[NTK1010]] Ökodisain\\<br />&lt; [[NTK0110]] Ökoloogia\\<br />&lt; [[NTK0260]] Ökotoksikoloogia\\<br />&lt; [[NTK0940]] Olelusringi hindamine 1\\<br />&lt; [[NTK0930]] Olelusringi hindamine 2\\<br />&lt; [[NTK0010]] Õpingukorraldus\\<br />&lt; [[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine\\<br />&lt; [[NTK0400]] Projektijuhtimine\\<br />&lt; [[NTS0070]] Riski- ja ohutusõpetus\\<br />&lt; [[NTK0470]] Saastumise ennetamine\\<br />&lt; [[NTK0480]] Sissejuhatus tööstusökoloogiasse\\<br />&lt; [[NTK1020]] Suurtootmise tehnoloogilised protsessid\\<br />&lt; [[NTK0150]] Tarbimine ja tarbijakäitumine\\<br />&lt; [[NTK0440]] Termodünaamika ökosüsteemides\\<br />&lt; [[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[NTK1120]] Tööstusökoloogia komplekspraktika\\<br />&lt; [[NTK1170]] Üldine keemia\\<br />&lt; [[NTK0180]] Veeökosüsteemide keemia ja bioloogia\\<br />&lt; [[NTK0630]] Veereostus ja -kaitse\\<br />&lt; ===</strong> NAEB06<strong class="changes">/06</strong> - <strong class="changes">Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=3959&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[NTK0040]] Akadeemiline võõrkeel\\<br />&lt; [[NTM1180]] Asustuskeskkonna kujunemine\\<br />&lt; [[NTK0130]] Biogeokeemilised tsüklid ja mullakaitse\\<br />&lt; [[NTK0410]] Elusloodus\\<br />&lt; [[NTK0500]] Energiakasutus ja energeetilised ressursid\\<br />&lt; [[NTK0970]] Erialapraktika\\<br />&lt; [[NTM0060]] Filosoofia\\<br />&lt; [[NTK0390]] Füüsika\\<br />&lt; [[NTM0311]] Geoinformaatika\\<br />&lt; [[NTM0312]] Geoinformaatika - ainetöö\\<br />&lt; [[NTS0121]] Informaatika I\\<br />&lt; [[NTS0122]] Informaatika II\\<br />&lt; [[NTS0051]] Jäätmekäitlus I\\<br />&lt; [[NTK0360]] Keemia ja materjaliõpetus\\<br />&lt; [[NTK0380]] Keskkonnafüüsika alused\\<br />&lt; [[NTK0160]] Keskkonnajuhtimine\\<br />&lt; [[NTK0020]] Keskkonnakaitse\\<br />&lt; [[NTK0340]] Keskkonnakeemia\\<br />&lt; [[NTK0560]] Keskkonnamajanduse alused\\<br />&lt; [[NTM0620]] Keskkonnamõju hindamine\\<br />&lt; [[NTK0520]] Keskkonnaõigus\\<br />&lt; [[NTM0040]] Keskkonnapsühholoogia\\<br />&lt; [[NTK0460]] Keskkonnariski analüüs\\<br />&lt; [[NTK0490]] Klimatoloogia\\<br />&lt; [[NTS0140]] Kujutav geomeetria\\<br />&lt; [[NTS0160]] Lineaaralgebra\\<br />&lt; [[NTK0640]] Maavarad, nende kasutamine ja kaitse\\<br />&lt; [[NTS0171]] Matemaatiline analüüs I\\<br />&lt; [[NTS0172]] Matemaatiline analüüs II\\<br />&lt; [[NTS0450]] Matemaatilised mudelid\\<br />&lt; [[NTK0570]] Metroloogia alused\\<br />&lt; [[NTK0050]] Mikro- ja makroökonoomika\\<br />&lt; [[NTK0610]] Õhu kvaliteet ja kontroll\\<br />&lt; [[NTK0030]] Õigusõpetus\\<br />&lt; [[NTK0170]] Ökodisain\\<br />&lt; [[NTK0110]] Ökoloogia\\<br />&lt; [[NTK0260]] Ökotoksikoloogia\\<br />&lt; [[NTK0540]] Olelusringi hindamine\\<br />&lt; [[NTK0010]] Õpingukorraldus\\<br />&lt; [[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused\\<br />&lt; [[NTS0900]] Polümeermaterjalid\\<br />&lt; [[NTK0451]] Projektikorraldus\\<br />&lt; [[NTK0452]] Projektikorraldus - ainetöö\\<br />&lt; [[NTS0070]] Riski- ja ohutusõpetus\\<br />&lt; [[NTK0650]] Säästev transport ja selle korraldamine\\<br />&lt; [[NTK0470]] Saastumise ennetamine\\<br />&lt; [[NTK0550]] Säästvuse alused\\<br />&lt; [[NTK0480]] Sissejuhatus tööstusökoloogiasse\\<br />&lt; [[NTK0150]] Tarbimine ja tarbijakäitumine\\<br />&lt; [[NTM0830]] Tehniline joonestamine\\<br />&lt; [[NTK0440]] Termodünaamika ökosüsteemides\\<br />&lt; [[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[NTK0180]] Veeökosüsteemide keemia ja bioloogia\\<br />&lt; [[NTK0630]] Veereostus ja</strong> -<strong class="changes">kaitse\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>NAEB06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "NAEB06</strong>-<strong class="changes">06"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "NAEB06-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885796
+ts: 1438886464
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "NAEB06-09">
+text: <include "NAEB06-15">
+	
+	<include "NAEB06-09">
 	
 	<include "NAEB06-06">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885796
+keep-ts: 1438886464

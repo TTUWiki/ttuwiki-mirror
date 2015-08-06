@@ -1,13 +1,15 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50247&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HPP8113]] Andragoogika alused<br />[[HHM1130]] Avalik teenistus<br />[[HPP8290]] Erialapraktika<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[TER8610]] Finantsjuhtimine<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1211]] Kohaliku omavalitsuse korraldus<br />[[HPP8105]] Kommunikatsiooni juhtimine<br />[[HPP8115]] Majanduspsühholoogia<br />[[HPP8107]] Meeskonnatöö ja grupiprotsesside juhtimine<br />[[HPP8110]] Muudatuste juhtimine<br />[[HPP8213]] Organisatsiooni areng ja innovatsioon<br />[[HPP8275]] Personali haldamine ja arendamine julgeolekustruktuurides<br />[[HPP8206]] Personali hindamine<br />[[HPP8221]] Personalijuhtimise võrdlev analüüs väike- ja suurettevõtetes<br />[[HPP8203]] Personali planeerimine<br />[[HPP8208]] Personalitöö eetika<br />[[HPP8201]] Personaliuuringud<br />[[HPP8270]] Personali valik ja planeerimine julgeolekustruktuurides<br />[[TMO1350]] Rahvusvaheline personalijuhtimine<br />[[HPP8101]] Teadusmetodoloogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[HPP8215]] Tööelu kvaliteet<br />[[HPP8260]] Töönõustamine ja töötajate probleemide lahendamine<br />[[HOE6025]] Tööõigus<br />[[HPP8103]] Tööpsühholoogia<br />[[HPP8205]] Töötajate arendamine ja koolitamine<br />[[HPP8104]] Töötasustamine ja motiveerimise süsteemid<br />[[TTS1080]] Tööturuprotsessid ja -poliitika<br />[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad</p>
-diff-minor: 
-ts: 1408891400
+blocks: <h2>HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50247&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HPP8113]] Andragoogika alused<br />[[HHM1130]] Avalik teenistus<br />[[HPP8290]] Erialapraktika<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[TER8610]] Finantsjuhtimine<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1211]] Kohaliku omavalitsuse korraldus<br />[[HPP8105]] Kommunikatsiooni juhtimine<br />[[HPP8115]] Majanduspsühholoogia<br />[[HPP8107]] Meeskonnatöö ja grupiprotsesside juhtimine<br />[[HPP8110]] Muudatuste juhtimine<br />[[HPP8213]] Organisatsiooni areng ja innovatsioon<br />[[HPP8275]] Personali haldamine ja arendamine julgeolekustruktuurides<br />[[HPP8206]] Personali hindamine<br />[[HPP8221]] Personalijuhtimise võrdlev analüüs väike- ja suurettevõtetes<br />[[HPP8203]] Personali planeerimine<br />[[HPP8208]] Personalitöö eetika<br />[[HPP8201]] Personaliuuringud<br />[[HPP8270]] Personali valik ja planeerimine julgeolekustruktuurides<br />[[HPP8020]] Rahvusvaheline personalijuhtimine<br />[[HPP8101]] Teadusmetodoloogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[HPP8215]] Tööelu kvaliteet<br />[[HPP8260]] Töönõustamine ja töötajate probleemide lahendamine<br />[[HOE6025]] Tööõigus<br />[[HPP8103]] Tööpsühholoogia<br />[[HPP8205]] Töötajate arendamine ja koolitamine<br />[[HPP8104]] Töötasustamine ja motiveerimise süsteemid<br />[[TTS1080]] Tööturuprotsessid ja -poliitika<br />[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">TMO1350</strong>]] Rahvusvaheline personalijuhtimine</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">HPP8020</strong>]] Rahvusvaheline personalijuhtimine</p></div>
+ts: 1438886361
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: == HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50247&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[HPP8113]] Andragoogika alused
@@ -29,7 +31,7 @@ text: == HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_
 	[[HPP8208]] Personalitöö eetika
 	[[HPP8201]] Personaliuuringud
 	[[HPP8270]] Personali valik ja planeerimine julgeolekustruktuurides
-	[[TMO1350]] Rahvusvaheline personalijuhtimine
+	[[HPP8020]] Rahvusvaheline personalijuhtimine
 	[[HPP8101]] Teadusmetodoloogia
 	[[HLX8040]] Teadusvõõrkeel
 	[[HPP8215]] Tööelu kvaliteet
@@ -42,4 +44,4 @@ text: == HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_
 	[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad
 	
 	
-keep-ts: 1408891400
+keep-ts: 1438886361

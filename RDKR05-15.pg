@@ -1,0 +1,67 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>RDKR05/15 - Kütuste tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50317&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAK0110]] Analüütiline keemia<br />[[RAK0090]] Anorgaaniline keemia<br />[[RAR3130]] Elektrotehnika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2830]] Erialapraktika<br />[[RAK0080]] Erialatutvustus (kütuste tehnoloogia)<br />[[RAH0910]] Ettevõtlus<br />[[RAK0141]] Füüsikaline keemia I<br />[[RAK0142]] Füüsikaline keemia II<br />[[RAK0151]] Gaaside ja vedelike voolamine<br />[[RAK0152]] Gaaside ja vedelike voolamine - praktikum<br />[[RAR3111]] Informaatika I<br />[[RAR3112]] Informaatika II<br />[[RAR3140]] Insenerigraafika<br />[[RAR0610]] Instrumentaalanalüüs<br />[[RAR0520]] Keemia alused<br />[[RAK0210]] Keemiaettevõtete seadmed<br />[[RAR2790]] Keemiatehnoloogia alused<br />[[RAH3170]] Keskkonnakaitse<br />[[RAK0230]] Keskkonnatehnoloogia<br />[[RAK0240]] Kütusetööstuse protsessid ja seadmed - ainetöö<br />[[RAK0161]] Kütuste keemia ja tehnoloogia<br />[[RAK0162]] Kütuste keemia ja tehnoloogia - praktikum<br />[[RAR3050]] Lineaaralgebra<br />[[RAR0590]] Masinatehnika<br />[[RAK0171]] Massileviprotsessid<br />[[RAK0172]] Massileviprotsessid - praktikum<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAE0510]] Materjaliõpetus<br />[[RAH1120]] Meeskonnatöö ja juhtimine<br />[[RAR0670]] Mootorikütused ja määrdeained<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAR2780]] Orgaaniline keemia<br />[[RAK0100]] Orgaaniline keemia - praktikum<br />[[RAK0181]] Põlevkivi keemia ja tehnoloogia<br />[[RAK0182]] Põlevkivi keemia ja tehnoloogia - praktikum<br />[[RAK0250]] Polümeeride keemia ja füüsika<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAK0200]] Riski- ja ohutusõpetus keemiatööstuses<br />[[RAK0220]] Säästlik tootmine<br />[[RAK0191]] Soojusleviprotsessid<br />[[RAK0192]] Soojusleviprotsessid - praktikum<br />[[RAR3090]] Soojustehnika<br />[[RAR0720]] Taastuvkütused<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2820]] Töökeskkonna praktika<br />[[RAR0620]] Tootmisautomaatika<br />[[RAR2810]] Tutvumispraktika<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus</p>
+diff-minor: 
+ts: 1438887382
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == RDKR05/15 - Kütuste tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50317&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[RAK0110]] Analüütiline keemia
+	[[RAK0090]] Anorgaaniline keemia
+	[[RAR3130]] Elektrotehnika
+	[[RAX0511]] Erialane võõrkeel I
+	[[RAX0512]] Erialane võõrkeel II
+	[[RAR2830]] Erialapraktika
+	[[RAK0080]] Erialatutvustus (kütuste tehnoloogia)
+	[[RAH0910]] Ettevõtlus
+	[[RAK0141]] Füüsikaline keemia I
+	[[RAK0142]] Füüsikaline keemia II
+	[[RAK0151]] Gaaside ja vedelike voolamine
+	[[RAK0152]] Gaaside ja vedelike voolamine - praktikum
+	[[RAR3111]] Informaatika I
+	[[RAR3112]] Informaatika II
+	[[RAR3140]] Insenerigraafika
+	[[RAR0610]] Instrumentaalanalüüs
+	[[RAR0520]] Keemia alused
+	[[RAK0210]] Keemiaettevõtete seadmed
+	[[RAR2790]] Keemiatehnoloogia alused
+	[[RAH3170]] Keskkonnakaitse
+	[[RAK0230]] Keskkonnatehnoloogia
+	[[RAK0240]] Kütusetööstuse protsessid ja seadmed - ainetöö
+	[[RAK0161]] Kütuste keemia ja tehnoloogia
+	[[RAK0162]] Kütuste keemia ja tehnoloogia - praktikum
+	[[RAR3050]] Lineaaralgebra
+	[[RAR0590]] Masinatehnika
+	[[RAK0171]] Massileviprotsessid
+	[[RAK0172]] Massileviprotsessid - praktikum
+	[[RAR3061]] Matemaatiline analüüs I
+	[[RAE0510]] Materjaliõpetus
+	[[RAH1120]] Meeskonnatöö ja juhtimine
+	[[RAR0670]] Mootorikütused ja määrdeained
+	[[RAH3140]] Õigusõpetus
+	[[RAR2800]] Õpingukorraldus
+	[[RAR2780]] Orgaaniline keemia
+	[[RAK0100]] Orgaaniline keemia - praktikum
+	[[RAK0181]] Põlevkivi keemia ja tehnoloogia
+	[[RAK0182]] Põlevkivi keemia ja tehnoloogia - praktikum
+	[[RAK0250]] Polümeeride keemia ja füüsika
+	[[RAR0540]] Rakendusmatemaatika
+	[[RAK0200]] Riski- ja ohutusõpetus keemiatööstuses
+	[[RAK0220]] Säästlik tootmine
+	[[RAK0191]] Soojusleviprotsessid
+	[[RAK0192]] Soojusleviprotsessid - praktikum
+	[[RAR3090]] Soojustehnika
+	[[RAR0720]] Taastuvkütused
+	[[RAR1290]] Tehniline füüsika
+	[[RAR2820]] Töökeskkonna praktika
+	[[RAR0620]] Tootmisautomaatika
+	[[RAR2810]] Tutvumispraktika
+	[[RAX0480]] Üldvõõrkeel
+	[[RAH0740]] Väljendusõpetus
+	
+	
+keep-ts: 1438887382

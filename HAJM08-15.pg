@@ -1,0 +1,58 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>HAJM08/15 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50302&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse<br />[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid<br />[[HOE7170]] Autoriõigused ja naabrusõigused<br />[[HOA7023]] Avaliku õiguse eriseminar<br />[[HOE7090]] Biotehnoloogia ja intellektuaalne omand<br />[[HOE7023]] Digitaalsed tõendid<br />[[HOL7022]] EL vabadusel, turvalisusel ja õiglusel rajanev ala<br />[[HOL7021]] EL välissuhete õigus ja poliitika<br />[[HOE7001]] Eraõiguse eriseminar<br />[[IDK0300]] E-riigi infotehnoloogilised lahendused<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[HOE7070]] Euroopa eraõiguse mudelnormid<br />[[HOL7024]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7001]] Euroopa Liidu konstitutsioon<br />[[HOL7020]] Euroopa Liidu õiguse rakendamise meetodid ja praktika<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOE7210]] E-valitsuse õiguslikud aspektid<br />[[HOA7020]] Halduskohtumenetlus<br />[[HOE7050]] IKT õigus<br />[[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse<br />[[HOL7023]] Inimõigused ja tehnoloogia<br />[[HOE7160]] Intellektuaalne omand ja konkurentsiõigus<br />[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus<br />[[HOE7027]] Kindlustusõigus<br />[[HOX7009]] Kinnisvara- ja planeerimisõigus<br />[[HOE7025]] Krediidiasutuste õigus<br />[[HOA7021]] Kriminaalmenetlus<br />[[HOA7022]] Kriminaalõiguse eriseminar<br />[[HOE7150]] Küberkaitse ja õigus<br />[[HOX7020]] Lõputöö 1. seminar<br />[[HOX7021]] Lõputöö 2. seminar<br />[[HOA7007]] Maksuõigus<br />[[IDU0450]] Meeskonnatöö - projekt<br />[[HOX7007]] Õigusalane praktika<br />[[HOX7002]] Õigusteaduse metodoloogia<br />[[HOE7022]] Rahvusvaheline äriõigus<br />[[HOE7060]] Rahvusvaheline eraõigus<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HOE7110]] Tööstusomand<br />[[HOE7021]] Tsiviilkohtumenetlus<br />[[HOE7026]] Väärtpaberituru õigus<br />[[HOX7006]] Vaidluste kohtuväline lahendamine<br />[[HOE7024]] Võrdlev perekonnaõigus</p>
+diff-minor: 
+ts: 1438887034
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == HAJM08/15 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50302&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse
+	[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid
+	[[HOE7170]] Autoriõigused ja naabrusõigused
+	[[HOA7023]] Avaliku õiguse eriseminar
+	[[HOE7090]] Biotehnoloogia ja intellektuaalne omand
+	[[HOE7023]] Digitaalsed tõendid
+	[[HOL7022]] EL vabadusel, turvalisusel ja õiglusel rajanev ala
+	[[HOL7021]] EL välissuhete õigus ja poliitika
+	[[HOE7001]] Eraõiguse eriseminar
+	[[IDK0300]] E-riigi infotehnoloogilised lahendused
+	[[TMJ3331]] Ettevõtlus ja äri planeerimine
+	[[HOE7070]] Euroopa eraõiguse mudelnormid
+	[[HOL7024]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs
+	[[HOL7001]] Euroopa Liidu konstitutsioon
+	[[HOL7020]] Euroopa Liidu õiguse rakendamise meetodid ja praktika
+	[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs
+	[[HOE7210]] E-valitsuse õiguslikud aspektid
+	[[HOA7020]] Halduskohtumenetlus
+	[[HOE7050]] IKT õigus
+	[[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse
+	[[HOL7023]] Inimõigused ja tehnoloogia
+	[[HOE7160]] Intellektuaalne omand ja konkurentsiõigus
+	[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus
+	[[HOE7027]] Kindlustusõigus
+	[[HOX7009]] Kinnisvara- ja planeerimisõigus
+	[[HOE7025]] Krediidiasutuste õigus
+	[[HOA7021]] Kriminaalmenetlus
+	[[HOA7022]] Kriminaalõiguse eriseminar
+	[[HOE7150]] Küberkaitse ja õigus
+	[[HOX7020]] Lõputöö 1. seminar
+	[[HOX7021]] Lõputöö 2. seminar
+	[[HOA7007]] Maksuõigus
+	[[IDU0450]] Meeskonnatöö - projekt
+	[[HOX7007]] Õigusalane praktika
+	[[HOX7002]] Õigusteaduse metodoloogia
+	[[HOE7022]] Rahvusvaheline äriõigus
+	[[HOE7060]] Rahvusvaheline eraõigus
+	[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi
+	[[HOE7110]] Tööstusomand
+	[[HOE7021]] Tsiviilkohtumenetlus
+	[[HOE7026]] Väärtpaberituru õigus
+	[[HOX7006]] Vaidluste kohtuväline lahendamine
+	[[HOE7024]] Võrdlev perekonnaõigus
+	
+	
+keep-ts: 1438887034

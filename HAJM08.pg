@@ -1,20 +1,22 @@
-flags: 0101010
-blocks: &lt;include "HAJM08-09"&gt;
+flags: 010101010
+blocks: &lt;include "HAJM08-15"&gt;
+	&lt;include "HAJM08-09"&gt;
 	&lt;include "HAJM08-08i"&gt;
 	&lt;include "HAJM08-08e"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== HAJM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50116&amp;p_net=intranet</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HOA7005]] Avaliku õiguse eriseminar\\<br />&lt; [[HOX7001]] Eetika juristi tegevuses\\<br />&lt; [[HOE7001]] Eraõiguse eriseminar\\<br />&lt; [[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs\\<br />&lt; [[HOL7001]] Euroopa Liidu konstitutsioon\\<br />&lt; [[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs\\<br />&lt; [[HOX7004]] Euroopa õigusfilosoofia\\<br />&lt; [[HOL7005]] Euroopa rahaliidu õiguslikud alused\\<br />&lt; [[HOE7003]] Finants- ja krediidiasutuste õigus\\<br />&lt; [[HOX7008]] Harjutuskohtuvõistlus\\<br />&lt; [[HOE7002]] Intellektuaalse omandi eriseminar\\<br />&lt; [[HOX7009]] Kinnisvara- ja planeerimisõigus\\<br />&lt; [[HOX7005]] Kohtumenetlus\\<br />&lt; [[HOA7006]] Kriminaalõiguse eriseminar\\<br />&lt; [[HOA7008]] Kriminoloogia\\<br />&lt; [[HOA7007]] Maksuõigus\\<br />&lt; [[HOX7007]] Õigusalane praktika\\<br />&lt; [[HOX7003]] Õiguse võrdlev ajalugu\\<br />&lt; [[HOA7004]] Õiguspoliitika ja õigusloome\\<br />&lt; [[HOX7002]] Õigusteaduse metodoloogia\\<br />&lt; [[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus\\<br />&lt; [[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus\\<br />&lt; [[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused\\<br />&lt; [[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid\\<br />&lt; [[HOR7004]] Rahvusvahelise eraõiguse eriküsimused\\<br />&lt; [[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs\\<br />&lt; [[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[HOX7006]] Vaidluste kohtuväline lahendamine\\<br />&lt; ===</strong> HAJM08<strong class="changes">/08i</strong> - <strong class="changes">Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50131&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HOL7007]] EL institutsionaalne õigus edasijõudnutele\\<br />&lt; [[HOL7011]] EL ja võrdlev maksuõigus\\<br />&lt; [[HOL7009]] EL konkurentsiõiguse aktuaalseid probleeme\\<br />&lt; [[HOL6018]] EL tarbijakaitseõigus\\<br />&lt; [[HOL6015]] Euroopa spordiõigus ja -poliitika\\<br />&lt; [[HOE7002]] Intellektuaalse omandi eriseminar\\<br />&lt; [[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis\\<br />&lt; [[HOR6026]] Meedia ja õigus\\<br />&lt; [[HOR6028]] Mereõigus\\<br />&lt; [[HOX7010]] Õigusalane uurimustöö\\<br />&lt; [[HOR6027]] Õiguse eetika\\<br />&lt; [[HOX7012]] Õigusfilosoofia\\<br />&lt; [[HOE6030]] Perekonna- ja pärimisõigus\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus\\<br />&lt; [[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus\\<br />&lt; [[HOR7007]] Rahvusvaheline kaubandusvaidluste menetlemine\\<br />&lt; [[HOR7011]] Rahvusvaheline majandusõigus edasijõudnutele\\<br />&lt; [[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused\\<br />&lt; [[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid\\<br />&lt; [[HOR7010]] Rahvusvahelised lepingud ja kaubanduskokkulepped\\<br />&lt; [[HOR7009]] Soome õigussüsteem\\<br />&lt; [[HOR6029]] Tsiviil- ja kriminaalkohtu praktika\\<br />&lt; ===</strong> HAJM08<strong class="changes">/08e</strong> - <strong class="changes">Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50130&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HOA7005]] Avaliku õiguse eriseminar\\<br />&lt; [[HOL7007]] EL institutsionaalne õigus edasijõudnutele\\<br />&lt; [[HOL6018]] EL tarbijakaitseõigus\\<br />&lt; [[HOE7001]] Eraõiguse eriseminar\\<br />&lt; [[HOL6015]] Euroopa spordiõigus ja -poliitika\\<br />&lt; [[HOE6027]] Finantsõigus\\<br />&lt; [[HOA7013]] Halduskohtumenetlus\\<br />&lt; [[HOE7002]] Intellektuaalse omandi eriseminar\\<br />&lt; [[HOA6012]] Keskkonnaõigus\\<br />&lt; [[HOA7009]] Kriminaal- ja karistuspoliitika probleemid ja arengud\\<br />&lt; [[HOA7014]] Kriminaalkohtumenetlus\\<br />&lt; [[HOA7006]] Kriminaalõiguse eriseminar\\<br />&lt; [[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis\\<br />&lt; [[HOE6028]] Maksuõigus\\<br />&lt; [[HOR6026]] Meedia ja õigus\\<br />&lt; [[HOR6028]] Mereõigus\\<br />&lt; [[HOX7010]] Õigusalane uurimustöö\\<br />&lt; [[HOR6027]] Õiguse eetika\\<br />&lt; [[HOX7012]] Õigusfilosoofia\\<br />&lt; [[HOA7012]] Õiguskorra sotsioloogia\\<br />&lt; [[HOE6018]] Pankrotiõigus\\<br />&lt; [[HOE6030]] Perekonna- ja pärimisõigus\\<br />&lt; [[HOX6070]] Privaatsus- ja andmekaitseõigus\\<br />&lt; [[HOA7015]] Psühholoogia õigusmenetluses\\<br />&lt; [[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus\\<br />&lt; [[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus\\<br />&lt; [[HOR7007]] Rahvusvaheline kaubandusvaidluste menetlemine\\<br />&lt; [[HOR6015]] Rahvusvaheline lepinguõigus\\<br />&lt; [[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused\\<br />&lt; [[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid\\<br />&lt; [[HOR7009]] Soome õigussüsteem\\<br />&lt; [[HOA7010]] Sotsiaal- ja kriminaalpreventsioon\\<br />&lt; [[HOA7011]] Teoreetiline ja rakenduskriminoloogia\\<br />&lt; [[HOR6029]] Tsiviil</strong>- <strong class="changes">ja kriminaalkohtu praktika\\<br />&lt; [[HOE6029]] Tsiviilkohtumenetlus\\<br />&lt; [[HOA7016]] Väärteomenetlus\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAJM08-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAJM08-<strong class="changes">08i"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HAJM08</strong>-<strong class="changes">08e"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "HAJM08-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885659
+ts: 1438886351
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "HAJM08-09">
+text: <include "HAJM08-15">
+	
+	<include "HAJM08-09">
 	
 	<include "HAJM08-08i">
 	
@@ -23,4 +25,4 @@ text: <include "HAJM08-09">
 	
 	
 lastmajor: 1
-keep-ts: 1408885659
+keep-ts: 1438886351

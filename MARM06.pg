@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "MARM06-09"&gt;
+flags: 0101010
+blocks: &lt;include "MARM06-15"&gt;
+	&lt;include "MARM06-09"&gt;
 	&lt;include "MARM06-06"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== MARM06/09 - Tööstustehnika ja juhtimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50022&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[TMK8300]] Ärieetika\\<br />&lt; [[TTO1100]] Äriõigus\\<br />&lt; [[TMK8290]] Äritegevuse alused\\<br />&lt; [[TMK1140]] Controlling tootmissüsteemides\\<br />&lt; [[MET0140]] E-tootmine\\<br />&lt; [[HPP8102]] Inimfaktor inseneriteaduses\\<br />&lt; [[TTP8310]] Innovatsiooni juhtimine\\<br />&lt; [[MET0170]] Inseneri- ja juhtimispraktika\\<br />&lt; [[MHT0060]] Kvaliteedijuhtimine\\<br />&lt; [[HHA1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria\\<br />&lt; [[TEM8300]] Operatsioonianalüüs\\<br />&lt; [[TMK0080]] Projektijuhtimine\\<br />&lt; [[TMK8280]] Rahvusvaheline ettevõtlus\\<br />&lt; [[MES8600]] Samaaegne tootearendus\\<br />&lt; [[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud\\<br />&lt; [[MET0131]] Tehnoloogiapõhine ettevõtlus ja innovatsioon I\\<br />&lt; [[MET0132]] Tehnoloogiapõhine ettevõtlus ja innovatsioon II\\<br />&lt; [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad\\<br />&lt; [[TMM8790]] Tööstuslik turundus\\<br />&lt; [[MET8120]] Töötlemise simulatsiooni rakendusi\\<br />&lt; [[MES8610]] Tootmise juhtimise infosüsteemid\\<br />&lt; [[MET0160]] Tootmise optimaalne planeerimine\\<br />&lt; [[MET8130]] Tootmise plaanimine ja juhtimine\\<br />&lt; [[TMJ8820]] Tootmise varustamise juhtimine\\<br />&lt; [[TMK8340]] Tootmiskorraldus\\<br />&lt; [[MET0150]] Tootmistehnika\\<br />&lt; ===</strong> MARM06<strong class="changes">/06</strong> - <strong class="changes">Tööstustehnika ja juhtimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=4052&amp;p_net=intranet&amp;p_lang=ET&amp;</strong><strong class="changes">p_rezhiim=0</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[TMK8300]] Ärieetika\\<br />&lt; [[TMK8290]] Äritegevuse alused\\<br />&lt; [[TMV8270]] Ettevõtlus ja väikeettevõtted\\<br />&lt; [[TTP8310]] Innovatsiooni juhtimine\\<br />&lt; [[MHT0060]] Kvaliteedijuhtimine\\<br />&lt; [[MET8150]] Magistriseminarid\\<br />&lt; [[TEM8100]] Operatsioonianalüüs\\<br />&lt; [[TMK8280]] Rahvusvaheline ettevõtlus\\<br />&lt; [[MES8600]] Samaaegne tootearendus\\<br />&lt; [[TES8140]] Statistiline analüüs\\<br />&lt; [[TMM8790]] Tööstuslik turundus\\<br />&lt; [[MET8120]] Töötlemise simulatsiooni rakendusi\\<br />&lt; [[MES8610]] Tootmise juhtimise infosüsteemid\\<br />&lt; [[MET8130]] Tootmise plaanimine ja juhtimine\\<br />&lt; [[TMJ8810]] Tootmise varustamise juhtimine\\<br />&lt; [[TMK8330]] Tootmiskorraldus\\<br />&lt; [[MET8110]] Tootmistehnika\\<br />&lt; [[MET8160]] Tootmistehnoloogia eripeatükid\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>MARM06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "MARM06-06"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "MARM06-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885775
+ts: 1438886440
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "MARM06-09">
+text: <include "MARM06-15">
+	
+	<include "MARM06-09">
 	
 	<include "MARM06-06">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885775
+keep-ts: 1438886440

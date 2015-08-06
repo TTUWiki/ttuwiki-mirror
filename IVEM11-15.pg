@@ -1,0 +1,50 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IVEM11/15 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50308&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEE0740]] Biomeditsiinielektroonika<br />[[DBR0160]] Biosensoorika<br />[[IEE0420]] Elektronsüsteemid - kompleksprojekt<br />[[IED0150]] Elektroonika<br />[[IED3100]] Elektroonika- ja sidetööstus<br />[[IED3090]] Erialapraktika<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IEE0620]] Intelligentne energia haldus<br />[[IEE0440]] Kanalkodeerimine<br />[[IED3040]] Kiipdisain<br />[[IAY0550]] Kiipsüsteemide disain<br />[[IEE0610]] Kognitiivne side<br />[[IAG0420]] Küberturbe põhialused ja juhtimine<br />[[MHK0031]] Mehhatroonikasüsteemid<br />[[IED3030]] Mikroelektroonika<br />[[IEE0010]] Mikrokontrollerite programmeerimine C-keeles<br />[[IRT0180]] Multimeedia tehnoloogiad<br />[[IED3070]] Nanoelektroonika<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[IED3020]] Pooljuhtseadiste simuleerimine<br />[[IEE0630]] Prototüüpimine I<br />[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus<br />[[IEE0510]] Reaalaja sardsüsteemid<br />[[IAY0330]] Sardsüsteemid<br />[[IEE0410]] Sidetehnoloogiad<br />[[IRO0140]] Signaalide aegruumilise töötlemise meetodid<br />[[IRZ0140]] Signaalid ja signaalitöötlus<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[IEE0450]] Süsteemiaspektid sides<br />[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus<br />[[IEE0210]] Tarkade asjade võrgud<br />[[IEM3020]] Test ja diagnostika<br />[[IEE0430]] Võrgutehnoloogiad</p>
+diff-minor: 
+ts: 1438887072
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == IVEM11/15 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50308&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IED3010]] Analoog/digitaal skeemide disain
+	[[IEM3040]] Andmehõivesüsteemid
+	[[IEE0740]] Biomeditsiinielektroonika
+	[[DBR0160]] Biosensoorika
+	[[IEE0420]] Elektronsüsteemid - kompleksprojekt
+	[[IED0150]] Elektroonika
+	[[IED3100]] Elektroonika- ja sidetööstus
+	[[IED3090]] Erialapraktika
+	[[TMJ1030]] Ettevõtlus ja äri planeerimine
+	[[IEE0620]] Intelligentne energia haldus
+	[[IEE0440]] Kanalkodeerimine
+	[[IED3040]] Kiipdisain
+	[[IAY0550]] Kiipsüsteemide disain
+	[[IEE0610]] Kognitiivne side
+	[[IAG0420]] Küberturbe põhialused ja juhtimine
+	[[MHK0031]] Mehhatroonikasüsteemid
+	[[IED3030]] Mikroelektroonika
+	[[IEE0010]] Mikrokontrollerite programmeerimine C-keeles
+	[[IRT0180]] Multimeedia tehnoloogiad
+	[[IED3070]] Nanoelektroonika
+	[[IEM3010]] Navigeerimine ja positsioneerimine
+	[[IED3020]] Pooljuhtseadiste simuleerimine
+	[[IEE0630]] Prototüüpimine I
+	[[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus
+	[[IEE0510]] Reaalaja sardsüsteemid
+	[[IAY0330]] Sardsüsteemid
+	[[IEE0410]] Sidetehnoloogiad
+	[[IRO0140]] Signaalide aegruumilise töötlemise meetodid
+	[[IRZ0140]] Signaalid ja signaalitöötlus
+	[[AAR0030]] Sissejuhatus robotitehnikasse
+	[[IEE0450]] Süsteemiaspektid sides
+	[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus
+	[[IEE0210]] Tarkade asjade võrgud
+	[[IEM3020]] Test ja diagnostika
+	[[IEE0430]] Võrgutehnoloogiad
+	
+	
+keep-ts: 1438887072

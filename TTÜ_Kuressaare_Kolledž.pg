@@ -1,28 +1,27 @@
-flags: 0101010101010
-blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[SDER02]] Elektroonsed süsteemid<br />[[SDSR10]] Meretehnika ja väikelaevaehitus<br />[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[MATB02]] Tootearendus ja tootmistehnika</p></div>
+flags: 01010101010
+blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[SDER02]] Elektroonsed süsteemid<br />[[SDSR10]] Meretehnika ja väikelaevaehitus<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
 ip: 89.235.235.166
-ts: 1408892848
+ts: 1438887185
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 6
+revision: 7
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: [[MATB02]] Tootearendus ja tootmistehnika
 	
 	[[SDER02]] Elektroonsed süsteemid
 	[[SDSR10]] Meretehnika ja väikelaevaehitus
-	[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus
 	[[SDTR02]] Turismi- ja toitlustuskorraldus
 	[[SDVR04]] Väikeettevõtlus
 	
 	
 	
 lastmajor: 3
-keep-ts: 1408892848
+keep-ts: 1438887185

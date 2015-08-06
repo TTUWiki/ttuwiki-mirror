@@ -1,0 +1,46 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>BAAM06/09 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50111&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTM1150]] Avalik esinemine<br />[[NTM0580]] Detailplaneeringu koostamine<br />[[NTM1040]] Esteetika<br />[[NTM1210]] Ettevõtte majandamine<br />[[NTM1010]] Graafika<br />[[NTM0720]] Haljasalade hooldamine ja majandamine<br />[[NTM0390]] Haljasalade kujundamine<br />[[NTK0680]] Juhtimine<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTM1130]] Krokii<br />[[NTM0320]] Kultuurmaastikud<br />[[NTM0410]] Kunsti- ja arhitektuuriteose lugemine<br />[[NTM1050]] Loovus<br />[[NTM1160]] Maalimine<br />[[NTM0380]] Maastikuanalüüs<br />[[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika<br />[[NTM0700]] Maastikukujundus<br />[[NTM1100]] Magistripraktika<br />[[NTM0510]] Maketiõpetus<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTM0810]] Projekteerimine ja maastikuehitus<br />[[NTM0370]] Restaureerimise üldkursus<br />[[NTM0870]] Sissejuhatus semiootikasse<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTM0590]] Teed, tänavad, liiklus ja tehnorajatised<br />[[NTM1170]] Transpordigeograafia<br />[[NTM1140]] Transpordiplaneerimine<br />[[NTM1110]] Üldplaneeringu koostamine<br />[[NTM1290]] Universaalne disain maastikuarhitektuuris</p>
+diff-minor: 
+ts: 1438886978
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == BAAM06/09 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=50111&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NTM1150]] Avalik esinemine
+	[[NTM0580]] Detailplaneeringu koostamine
+	[[NTM1040]] Esteetika
+	[[NTM1210]] Ettevõtte majandamine
+	[[NTM1010]] Graafika
+	[[NTM0720]] Haljasalade hooldamine ja majandamine
+	[[NTM0390]] Haljasalade kujundamine
+	[[NTK0680]] Juhtimine
+	[[NTM0070]] Juhtimispsühholoogia
+	[[NTM0620]] Keskkonnamõju hindamine
+	[[NTM1130]] Krokii
+	[[NTM0320]] Kultuurmaastikud
+	[[NTM0410]] Kunsti- ja arhitektuuriteose lugemine
+	[[NTM1050]] Loovus
+	[[NTM1160]] Maalimine
+	[[NTM0380]] Maastikuanalüüs
+	[[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika
+	[[NTM0700]] Maastikukujundus
+	[[NTM1100]] Magistripraktika
+	[[NTM0510]] Maketiõpetus
+	[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu
+	[[NTM0810]] Projekteerimine ja maastikuehitus
+	[[NTM0370]] Restaureerimise üldkursus
+	[[NTM0870]] Sissejuhatus semiootikasse
+	[[NTK0690]] Teadustöö metodoloogia
+	[[NTX0020]] Teadusvõõrkeel
+	[[NTM0590]] Teed, tänavad, liiklus ja tehnorajatised
+	[[NTM1170]] Transpordigeograafia
+	[[NTM1140]] Transpordiplaneerimine
+	[[NTM1110]] Üldplaneeringu koostamine
+	[[NTM1290]] Universaalne disain maastikuarhitektuuris
+	
+	
+keep-ts: 1438886978

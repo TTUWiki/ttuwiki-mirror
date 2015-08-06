@@ -1,0 +1,49 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IVSM09/15 - Tarkvaratehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50313&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[ITI8590]] Algoritmide ja andmestruktuuride erikursus<br />[[MTAT.03.238]] Algoritmika<br />[[MTAT.03.183]] Andmekaeve<br />[[MTAT.03.231]] Äriprotsesside juhtimine<br />[[MTAT.03.229]] Ettevõttesüsteemide integreerimine<br />[[MTAT.03.270]] Ettevõtte tarkvara seminar<br />[[ITI8580]] Hübriidsüsteemid<br />[[ITX8301]] Magistriseminar I<br />[[ITX8302]] Magistriseminar II<br />[[ITX8510]] Menetluspraktika<br />[[ITX8511]] Menetluspraktika infotehnoloogias<br />[[MTAT.03.262]] Mobiilirakenduste loomine<br />[[IDY0201]] Nõuete analüüs<br />[[MTAT.08.308]] Ontoloogiate arendus<br />[[IDX8500]] Õpetamispraktika<br />[[MTAT.00.023]] Õppemetoodiline töö<br />[[ITT8060]] Programmeerimise erikursus<br />[[ITI8510]] Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine<br />[[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused<br />[[ITI8520]] Reaalaja tarkvaratehnika<br />[[MTAT.03.245]] Sotsiaalinformaatika<br />[[MTAT.03.083]] Süsteemide modelleerimine<br />[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus<br />[[MTAT.03.243]] Tarkvaraarenduse juhtimine<br />[[IDY0204]] Tarkvara kvaliteet ja standardid<br />[[IDU8520]] Tarkvaraprojekt<br />[[ITI8531]] Tarkvara süntees ja verifitseerimine<br />[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid<br />[[MTAT.03.190]] Tekstialgoritmid<br />[[MTAT.07.015]] Turvalise programmeerimise meetodid<br />[[MTAT.07.016]] Turvalise programmeerimise meetodid: projektitöö<br />[[MTAT.03.307]] Turvalise tarkvaradisaini põhimõtted<br />[[MTAT.03.295]] Väle tarkvaraarendus</p>
+diff-minor: 
+ts: 1438887077
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == IVSM09/15 - Tarkvaratehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50313&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	[[ITI8590]] Algoritmide ja andmestruktuuride erikursus
+	[[MTAT.03.238]] Algoritmika
+	[[MTAT.03.183]] Andmekaeve
+	[[MTAT.03.231]] Äriprotsesside juhtimine
+	[[MTAT.03.229]] Ettevõttesüsteemide integreerimine
+	[[MTAT.03.270]] Ettevõtte tarkvara seminar
+	[[ITI8580]] Hübriidsüsteemid
+	[[ITX8301]] Magistriseminar I
+	[[ITX8302]] Magistriseminar II
+	[[ITX8510]] Menetluspraktika
+	[[ITX8511]] Menetluspraktika infotehnoloogias
+	[[MTAT.03.262]] Mobiilirakenduste loomine
+	[[IDY0201]] Nõuete analüüs
+	[[MTAT.08.308]] Ontoloogiate arendus
+	[[IDX8500]] Õpetamispraktika
+	[[MTAT.00.023]] Õppemetoodiline töö
+	[[ITT8060]] Programmeerimise erikursus
+	[[ITI8510]] Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine
+	[[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused
+	[[ITI8520]] Reaalaja tarkvaratehnika
+	[[MTAT.03.245]] Sotsiaalinformaatika
+	[[MTAT.03.083]] Süsteemide modelleerimine
+	[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus
+	[[MTAT.03.243]] Tarkvaraarenduse juhtimine
+	[[IDY0204]] Tarkvara kvaliteet ja standardid
+	[[IDU8520]] Tarkvaraprojekt
+	[[ITI8531]] Tarkvara süntees ja verifitseerimine
+	[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid
+	[[MTAT.03.190]] Tekstialgoritmid
+	[[MTAT.07.015]] Turvalise programmeerimise meetodid
+	[[MTAT.07.016]] Turvalise programmeerimise meetodid: projektitöö
+	[[MTAT.03.307]] Turvalise tarkvaradisaini põhimõtted
+	[[MTAT.03.295]] Väle tarkvaraarendus
+	
+	
+keep-ts: 1438887077

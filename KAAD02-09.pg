@@ -1,13 +1,14 @@
-flags: 0101010101010101010101010101010101010101010101010101010
-blocks: <h2>KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50140&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi<br />[[KMP9010]] Insenerlik polümeeriteadus<br />[[HHP9010]] Juhtimispsühholoogia<br />[[KXX9100]] Keemia- ja materjalitehnoloogia doktorikursus 1<br />[[KXX9110]] Keemia- ja materjalitehnoloogia doktorikursus 2<br />[[KXX9120]] Keemia- ja materjalitehnoloogia doktorikursus 3<br />[[KXX9130]] Keemia- ja materjalitehnoloogia doktoriseminar 1<br />[[KXX9140]] Keemia- ja materjalitehnoloogia doktoriseminar 2<br />[[KXX9150]] Keemia- ja materjalitehnoloogia doktoriseminar 3<br />[[HHP9030]] Kõrgkoolididaktika<br />[[KXX9060]] Õpetamispraktika<br />[[TMK9310]] Projektijuhtimine<br />[[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia<br />[[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I<br />[[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II<br />[[KYF9011]] Täiendavad peatükid füüsikalisest keemiast I<br />[[KYF9012]] Täiendavad peatükid füüsikalisest keemiast II<br />[[KTO9010]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast I<br />[[KTT9011]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[KAK9080]] Valitud probleemid keskkonnakeemiast<br />[[KAK9090]] Valitud probleemid keskkonnatehnoloogiast<br />[[KMP9020]] Valitud probleemid polümeermaterjalidest<br />[[KMM9020]] Valitud probleemid puitmaterjalidest<br />[[KMT9021]] Valitud probleemid tekstiilimaterjalidest</p>
-diff-minor: 
-ts: 1408891464
+flags: 010101010101010101010101010101010101010101010101010101010
+blocks: <h2>KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50140&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi<br />[[KMP9010]] Insenerlik polümeeriteadus<br />[[HHP9010]] Juhtimispsühholoogia<br />[[KXX9100]] Keemia- ja materjalitehnoloogia doktorikursus 1<br />[[KXX9110]] Keemia- ja materjalitehnoloogia doktorikursus 2<br />[[KXX9120]] Keemia- ja materjalitehnoloogia doktorikursus 3<br />[[KXX9130]] Keemia- ja materjalitehnoloogia doktoriseminar 1<br />[[KXX9140]] Keemia- ja materjalitehnoloogia doktoriseminar 2<br />[[KXX9150]] Keemia- ja materjalitehnoloogia doktoriseminar 3<br />[[HHP9030]] Kõrgkoolididaktika<br />[[KXX9060]] Õpetamispraktika<br />[[TMK9310]] Projektijuhtimine<br />[[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia<br />[[KYF9030]] Sissejuhatus doktoriõpingutesse<br />[[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I<br />[[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II<br />[[KYF9011]] Täiendavad peatükid füüsikalisest keemiast I<br />[[KYF9012]] Täiendavad peatükid füüsikalisest keemiast II<br />[[KTO9010]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast I<br />[[KTT9011]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[KAK9080]] Valitud probleemid keskkonnakeemiast<br />[[KAK9090]] Valitud probleemid keskkonnatehnoloogiast<br />[[KMP9020]] Valitud probleemid polümeermaterjalidest<br />[[KMM9020]] Valitud probleemid puitmaterjalidest<br />[[KMT9021]] Valitud probleemid tekstiilimaterjalidest</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[KYF9030]] Sissejuhatus doktoriõpingutesse</p></div>
+ts: 1438886411
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: == KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=50140&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi
@@ -23,6 +24,7 @@ text: == KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/p
 	[[KXX9060]] Õpetamispraktika
 	[[TMK9310]] Projektijuhtimine
 	[[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia
+	[[KYF9030]] Sissejuhatus doktoriõpingutesse
 	[[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I
 	[[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II
 	[[KYF9011]] Täiendavad peatükid füüsikalisest keemiast I
@@ -38,4 +40,4 @@ text: == KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/p
 	[[KMT9021]] Valitud probleemid tekstiilimaterjalidest
 	
 	
-keep-ts: 1408891464
+keep-ts: 1438886411

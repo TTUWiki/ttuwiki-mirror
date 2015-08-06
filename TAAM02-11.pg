@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAM02/11 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50161&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TSX1010]] Erialane võõrkeel II<br />[[TET1040]] Euroopa Liidu majandus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TTK1030]] Keskkonna ja loodusressursside arvestus<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TTR1110]] Maksundus ja fiskaalpoliitika<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES1030]] Mitmemõõtmeline statistiline analüüs<br />[[TES1040]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TTR1090]] Sotsiaalne tasuvusanalüüs<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
-diff-minor: 
-ts: 1408891603
+blocks: <h2>TAAM02/11 - Rakenduslik majandusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50161&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TSX1010]] Erialane võõrkeel II<br />[[TET1040]] Euroopa Liidu majandus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TTK1030]] Keskkonna ja loodusressursside arvestus<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TTR1110]] Maksundus ja fiskaalpoliitika<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES1030]] Mitmemõõtmeline statistiline analüüs<br />[[TES1040]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TTR1090]] Sotsiaalne tasuvusanalüüs<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAAM02/11 - <strong class="changes">Avaliku sektori majandus</strong> [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50161&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAAM02/11 - <strong class="changes">Rakenduslik majandusteadus</strong> [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50161&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div>
+ts: 1438887155
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: == TAAM02/11 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50161&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TAAM02/11 - Rakenduslik majandusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50161&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[TTP1050]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
 	[[TTP1020]] Eesti majandus
@@ -36,4 +38,4 @@ text: == TAAM02/11 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pa
 	[[TTX199P]] Tööpraktika
 	
 	
-keep-ts: 1408891603
+keep-ts: 1438887155

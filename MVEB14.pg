@@ -1,20 +1,22 @@
-flags: 010
-blocks: &lt;include "MVEB14-14"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== MVEB14/14 - Integreeritud tehnoloogiad [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50256</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[MER0060]] APJ tootmisseadmete programmeerimine\\<br />&lt; [[MES0040]] Automatiseerimistehnika\\<br />&lt; [[MHD0072]] Dünaamika\\<br />&lt; [[HLE2210]] Eesti keel ja kultuur I\\<br />&lt; [[AAV0060]] Elektriajamid ja jõuelektroonika\\<br />&lt; [[IED0150]] Elektroonika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[MES0080]] Hüdro- ja pneumoajam\\<br />&lt; [[HOE6052]] Intellektuaalse omandi õigus\\<br />&lt; [[KYF0250]] Jätkusuutliku energeetika põhialused\\<br />&lt; [[YKI0130]] Keemia ja materjaliõpetus\\<br />&lt; [[YGK0010]] Kujutav geomeetria\\<br />&lt; [[UTT0050]] Kursuseprojekt 1\\<br />&lt; [[UTT0060]] Kursuseprojekt 2\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[ETV3110]] Logistika alused\\<br />&lt; [[MHD0030]] Masinamehaanika\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM0012]] Matemaatiline analüüs II\\<br />&lt; [[MTM0120]] Materjali ja tehnoloogia valik\\<br />&lt; [[MTM0070]] Materjalitehnika\\<br />&lt; [[MHK0030]] Mehhatroonika\\<br />&lt; [[MHT0010]] Metroloogia ja mõõtetehnika\\<br />&lt; [[IDK2015]] Objekt</strong>-<strong class="changes">orienteeritud programmeerimine\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[KMP0330]] Polümeermaterjalid: saamine ja omadused\\<br />&lt; [[MES0150]] Probleemilahendus\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[MER0150]] Raalprojekteerimine\\<br />&lt; [[AAR0030]] Sissejuhatus robotitehnikasse\\<br />&lt; [[MSE0100]] Soojustehnika\\<br />&lt; [[MHD0071]] Staatika ja kinemaatika\\<br />&lt; [[HHL1250]] Tehnoloogia ja ühiskond\\<br />&lt; [[TMT0050]] Töökeskkond ja ergonoomika\\<br />&lt; [[MED0010]] Tööstusdisaini alused\\<br />&lt; [[MET0011]] Tootmistehnika alused I\\<br />&lt; [[MHE0011]] Tugevusõpetus I\\<br />&lt; [[MHE0012]] Tugevusõpetus II\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "MVEB14</strong>-<strong class="changes">14"&gt;</strong></p></div>
+flags: 01010
+blocks: &lt;include "MVEB14-15"&gt;
+	&lt;include "MVEB14-14"&gt;
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "MVEB14-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885791
+ts: 1438886461
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "MVEB14-14">
+text: <include "MVEB14-15">
+	
+	<include "MVEB14-14">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885791
+keep-ts: 1438886461

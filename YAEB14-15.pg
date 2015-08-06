@@ -1,0 +1,82 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>YAEB14/15 - Maa-teadused ja geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50295&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NGG0012]] Ajalooline geoloogia<br />[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YMR5720]] Diferentsiaalvõrrandid<br />[[EPM3500]] Ehitusmaterjalid<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[YFR0310]] Füüsikaliste protsesside modelleerimine<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[EKE0070]] Geoinformaatika<br />[[NGG0170]] Geoloogiline kaardistamine<br />[[NGG0175]] Geoloogiline kaardistamine - praktikum<br />[[AKG0302]] Geoloogilised uuringumeetodid<br />[[AKM0355]] Geostatistika<br />[[AKM0361]] Geotehnoloogia praktika<br />[[AKM0360]] Geotehnoloogia üldkursus<br />[[EMH0031]] Hüdraulika I<br />[[NGG0120]] Hüdrogeoloogia ja hüdroloogia alused<br />[[EMH5020]] Hüdro- ja aeromehaanika<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[AKG0030]] Insenerigeoloogia alused<br />[[ETG0100]] Kartograafia<br />[[YKI0020]] Keemia alused<br />[[YKI0130]] Keemia ja materjaliõpetus<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[AKM0359]] Kivimimehaanika, raimamine ja töötlemine<br />[[YGK3340]] Kujutav geomeetria<br />[[NSO0110]] Läänemeri<br />[[YMA3710]] Lineaaralgebra<br />[[NGG0160]] Litoloogia ja settekivimite petrograafia<br />[[AKM0356]] Lõhketööd<br />[[AKG0222]] Maavarade ja keskkonna geoloogia<br />[[AKM0150]] Mäenduslik keskkonnakaitse<br />[[AKM0352]] Mäenduslik modelleerimine<br />[[AKM0354]] Mäetööd ja mäemasinad<br />[[MHE0061]] Masinatehnika<br />[[YMR0020]] Matemaatikapaketid<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[MTM0070]] Materjalitehnika<br />[[NSO8054]] Meteoroloogilised ja okeanograafilised teenused<br />[[NSO7050]] Meteoroloogiliste vaatluste meetodid<br />[[YFR0140]] Metroloogia alused<br />[[NGG0150]] Mineraalid, kivimid, setendid<br />[[NSO8059]] Mõõdistustööd okeanograafias<br />[[HOX6032]] Õigusõpetus<br />[[NSO8052]] Okeanograafia-meteoroloogia praktika I<br />[[NSO8053]] Okeanograafia-meteoroloogia praktika II<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[IDK1011]] Programmeerimise algkursus<br />[[NGG0115]] Rannikuprotsessid ja randade evolutsioon<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[NGG0131]] Stratigraafia ja paleontoloogia alused<br />[[NGG0140]] Struktuurigeoloogia ja geodünaamika<br />[[YGK3350]] Tehniline joonestamine<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[NGG0011]] Üldgeoloogia ja Eesti geoloogia põhijooned<br />[[EKE0160]] Üldine hüdroloogia<br />[[NSO7022]] Üldine klimatoloogia<br />[[NSO7021]] Üldine meteoroloogia<br />[[NSO8021]] Üldine okeanograafia ja limnoloogia<br />[[NSO0120]] Veekogude ökoloogia ja keskkonnakaitse</p>
+ts: 1438887448
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 1
+summary: Автоматическое обновление
+languages: 
+text: == YAEB14/15 - Maa-teadused ja geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=50295&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[NGG0012]] Ajalooline geoloogia
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[YKA0011]] Analüütiline keemia
+	[[YKI0031]] Anorgaaniline keemia I
+	[[YMR5720]] Diferentsiaalvõrrandid
+	[[EPM3500]] Ehitusmaterjalid
+	[[TMJ0110]] Ettevõtluse alused
+	[[HHF3080]] Filosoofia
+	[[YFR0011]] Füüsika I
+	[[YFR0012]] Füüsika II
+	[[YFR0310]] Füüsikaliste protsesside modelleerimine
+	[[ETG0011]] Geodeesia I
+	[[ETG0012]] Geodeesia II
+	[[ETG0013]] Geodeesia õppepraktika
+	[[ETG3511]] Geograafiline infosüsteem GIS I
+	[[EKE0070]] Geoinformaatika
+	[[NGG0170]] Geoloogiline kaardistamine
+	[[NGG0175]] Geoloogiline kaardistamine - praktikum
+	[[AKG0302]] Geoloogilised uuringumeetodid
+	[[AKM0355]] Geostatistika
+	[[AKM0361]] Geotehnoloogia praktika
+	[[AKM0360]] Geotehnoloogia üldkursus
+	[[EMH0031]] Hüdraulika I
+	[[NGG0120]] Hüdrogeoloogia ja hüdroloogia alused
+	[[EMH5020]] Hüdro- ja aeromehaanika
+	[[IDK0092]] Informaatika II (tehnika)
+	[[IDK0091]] Informaatika I (tehnika)
+	[[AKG0030]] Insenerigeoloogia alused
+	[[ETG0100]] Kartograafia
+	[[YKI0020]] Keemia alused
+	[[YKI0130]] Keemia ja materjaliõpetus
+	[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit
+	[[AKM0359]] Kivimimehaanika, raimamine ja töötlemine
+	[[YGK3340]] Kujutav geomeetria
+	[[NSO0110]] Läänemeri
+	[[YMA3710]] Lineaaralgebra
+	[[NGG0160]] Litoloogia ja settekivimite petrograafia
+	[[AKM0356]] Lõhketööd
+	[[AKG0222]] Maavarade ja keskkonna geoloogia
+	[[AKM0150]] Mäenduslik keskkonnakaitse
+	[[AKM0352]] Mäenduslik modelleerimine
+	[[AKM0354]] Mäetööd ja mäemasinad
+	[[MHE0061]] Masinatehnika
+	[[YMR0020]] Matemaatikapaketid
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM3740]] Matemaatiline analüüs II
+	[[MTM0070]] Materjalitehnika
+	[[NSO8054]] Meteoroloogilised ja okeanograafilised teenused
+	[[NSO7050]] Meteoroloogiliste vaatluste meetodid
+	[[YFR0140]] Metroloogia alused
+	[[NGG0150]] Mineraalid, kivimid, setendid
+	[[NSO8059]] Mõõdistustööd okeanograafias
+	[[HOX6032]] Õigusõpetus
+	[[NSO8052]] Okeanograafia-meteoroloogia praktika I
+	[[NSO8053]] Okeanograafia-meteoroloogia praktika II
+	[[YTG0050]] Ökoloogia ja looduskaitse
+	[[UTT0010]] Õpingukorraldus
+	[[IDK1011]] Programmeerimise algkursus
+	[[NGG0115]] Rannikuprotsessid ja randade evolutsioon
+	[[TMT3360]] Riski- ja ohutusõpetus
+	[[IDU3530]] Sissejuhatus infosüsteemidesse
+	[[NGG0131]] Stratigraafia ja paleontoloogia alused
+	[[NGG0140]] Struktuurigeoloogia ja geodünaamika
+	[[YGK3350]] Tehniline joonestamine
+	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika
+	[[NGG0011]] Üldgeoloogia ja Eesti geoloogia põhijooned
+	[[EKE0160]] Üldine hüdroloogia
+	[[NSO7022]] Üldine klimatoloogia
+	[[NSO7021]] Üldine meteoroloogia
+	[[NSO8021]] Üldine okeanograafia ja limnoloogia
+	[[NSO0120]] Veekogude ökoloogia ja keskkonnakaitse
+	

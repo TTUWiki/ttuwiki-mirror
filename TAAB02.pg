@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "TAAB02-09"&gt;
+flags: 0101010
+blocks: &lt;include "TAAB02-15"&gt;
+	&lt;include "TAAB02-09"&gt;
 	&lt;include "TAAB02-02"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== TAAB02/09 - Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50045&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[TTR0070]] Avalikud suhted\\<br />&lt; [[TTR0170]] Avaliku sektori ökonoomika\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[TSX0020]] Erialane võõrkeel I\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF3060]] Filosoofia\\<br />&lt; [[TAF0070]] Finantsarvestuse alused\\<br />&lt; [[TTR0160]] Finantsarvestus ja -juhtimine avalikus sektoris\\<br />&lt; [[TTR0150]] Fiskaalpoliitika alused\\<br />&lt; [[IDK0022]] Informaatika II (majandus ja humanitaar)\\<br />&lt; [[IDK0021]] Informaatika I (majandus ja humanitaar)\\<br />&lt; [[TTP0020]] Innovatsioonipoliitika\\<br />&lt; [[TMM0230]] Interaktiivne turundus\\<br />&lt; [[TMO0010]] Juhtimine\\<br />&lt; [[TTK0020]] Keskkonnaökonoomika\\<br />&lt; [[TTX0050]] Linna- ja keskkonnauuringute metodoloogia\\<br />&lt; [[TTR0010]] Majandusajalugu\\<br />&lt; [[TTK0030]] Majandusgeograafia\\<br />&lt; [[TEM0220]] Majandusmatemaatika I\\<br />&lt; [[TEM0230]] Majandusmatemaatika II\\<br />&lt; [[TTP0010]] Majanduspoliitika\\<br />&lt; [[TTS0050]] Majandussotsioloogia\\<br />&lt; [[TET0020]] Makroökonoomika põhikursus\\<br />&lt; [[TAF0050]] Maksundus\\<br />&lt; [[TET0010]] Mikroökonoomika põhikursus\\<br />&lt; [[TTO0010]] Õiguse alused\\<br />&lt; [[TES0040]] Ökonomeetria\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TTR0060]] Projektijuhtimine avalikus sektoris\\<br />&lt; [[HHP3200]] Psühholoogia ja loogika\\<br />&lt; [[TER0220]] Raha ja pangandus\\<br />&lt; [[TER0420]] Rahanduse alused\\<br />&lt; [[TET0050]] Rahvusvahelise majanduse alused\\<br />&lt; [[TTK0010]] Sissejuhatus keskkonnapoliitikasse ja keskkonnaõigusesse\\<br />&lt; [[TTR0090]] Sissejuhatus linnaökonoomikasse\\<br />&lt; [[TTS0030]] Sissejuhatus urbanistikasse\\<br />&lt; [[TTR0110]] Sotsiaalse tasuvusanalüüsi alused\\<br />&lt; [[TES0020]] Statistika\\<br />&lt; [[TES0010]] Teadustöö ja majandusuuringute alused\\<br />&lt; [[TMK0100]] Töö- ja palgakorraldus\\<br />&lt; [[TMT0050]] Töökeskkond ja ergonoomika\\<br />&lt; [[TTX099P]] Tööpraktika\\<br />&lt; [[TXX0030]] Uurimistöö I\\<br />&lt; [[TXX0040]] Uurimistöö II\\<br />&lt; ===</strong> TAAB02<strong class="changes">/02</strong> - <strong class="changes">Avaliku sektori majandus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=711&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[TTO0020]] Äriõigus\\<br />&lt; [[TTR0070]] Avalikud suhted\\<br />&lt; [[TTR0030]] Avaliku sektori ökonoomika\\<br />&lt; [[HLE6440]] Eesti keel\\<br />&lt; [[TTR0050]] Euroopa Liidu institutsioonid\\<br />&lt; [[HHF3060]] Filosoofia\\<br />&lt; [[TAF0030]] Finantsarvestus\\<br />&lt; [[TAF0070]] Finantsarvestuse alused\\<br />&lt; [[TER0620]] Finantsturud ja -institutsioonid\\<br />&lt; [[IDK0011]] Informaatika I\\<br />&lt; [[IDK0012]] Informaatika II\\<br />&lt; [[TTP0020]] Innovatsioonipoliitika\\<br />&lt; [[TMO0010]] Juhtimine\\<br />&lt; [[TTR0040]] Keskkonnaökonoomika\\<br />&lt; [[TTR0010]] Majandusajalugu\\<br />&lt; [[TTR0020]] Majandusgeograafia\\<br />&lt; [[TEM0220]] Majandusmatemaatika I\\<br />&lt; [[TEM0221]] Majandusmatemaatika II\\<br />&lt; [[TTP0010]] Majanduspoliitika\\<br />&lt; [[TES0030]] Majandusstatistika\\<br />&lt; [[TET0040]] Majandusteooria ja</strong> -<strong class="changes">meetodi ajalugu\\<br />&lt; [[TET0020]] Makroökonoomika põhikursus\\<br />&lt; [[TAF0040]] Maksundus ja riigieelarve\\<br />&lt; [[TET0010]] Mikroökonoomika põhikursus\\<br />&lt; [[TTO0010]] Õiguse alused\\<br />&lt; [[TES0040]] Ökonomeetria\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[TMO0040]] Organisatsioonikäitumine\\<br />&lt; [[TER0640]] Pangandus\\<br />&lt; [[TXX0060]] Põhiõppe uurimistöö\\<br />&lt; [[TTR0060]] Projektijuhtimine avalikus sektoris\\<br />&lt; [[HHP3200]] Psühholoogia ja loogika\\<br />&lt; [[TER0210]] Raha ja pangandus\\<br />&lt; [[TER0420]] Rahanduse alused\\<br />&lt; [[TET0030]] Rahvusvaheline majandus\\<br />&lt; [[TTS0010]] Sotsioloogia\\<br />&lt; [[TES0020]] Statistika\\<br />&lt; [[TES0010]] Teadustöö ja majandusuuringute alused\\<br />&lt; [[TMT0050]] Töökeskkond ja ergonoomika\\<br />&lt; [[TXX077P]] Tööpraktika\\<br />&lt; [[TMM0100]] Turundus\\<br />&lt; [[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>TAAB02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "TAAB02</strong>-<strong class="changes">02"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "TAAB02-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885850
+ts: 1438887148
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "TAAB02-09">
+text: <include "TAAB02-15">
+	
+	<include "TAAB02-09">
 	
 	<include "TAAB02-02">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885850
+keep-ts: 1438887148

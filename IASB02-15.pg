@@ -1,0 +1,59 @@
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IASB02/15 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50309&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLI0020]] Akadeemiline inglise keel<br />[[IAG0090]] Algoritmid ja andmestruktuurid<br />[[ISS0090]] Arukad hooned<br />[[IAY0520]] Arvutiarhitektuurid<br />[[IAF0041]] Arvutid<br />[[IXX1420]] Arvutid ja süsteemid - projekt<br />[[IXX1430]] Arvutisüsteemid - projekt<br />[[IAY0140]] Arvutite aritmeetika ja loogika<br />[[ISP0040]] Arvutivõrgud<br />[[YMR5730]] Arvutusmeetodid<br />[[ISS0021]] Automaatjuhtimissüsteemid<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[IAY0150]] Digitaalsüsteemid<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0150]] Elektroonika<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[YFR0020]] Füüsika<br />[[YFT0320]] Füüsikaliste protsesside modelleerimine<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[ISP1410]] Küberfüüsikalised süsteemid<br />[[YMA3710]] Lineaaralgebra<br />[[YMA0071]] Lineaaralgebra rakendusmeetodid<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[ISS0050]] Mõõtmine<br />[[HOE6053]] Õigusõpetus infotehnoloogidele<br />[[UTT0010]] Õpingukorraldus<br />[[IXX0700]] Praktika<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[ISP0011]] Reaalaja tarkvaratehnika<br />[[ITT0050]] Rekursiooni- ja keerukusteooria<br />[[IAX0230]] Sardsüsteemide alused<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IXX0510]] Sissejuhatus erialasse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IAX0250]] Süsteemide diagnostika<br />[[ISS0010]] Süsteemiteooria<br />[[IXX1410]] Tarkvara - projekt<br />[[IAG0100]] Tarkvaratehnika<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus</p>
+diff-minor: 
+ts: 1438887059
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == IASB02/15 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50309&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLI0020]] Akadeemiline inglise keel
+	[[IAG0090]] Algoritmid ja andmestruktuurid
+	[[ISS0090]] Arukad hooned
+	[[IAY0520]] Arvutiarhitektuurid
+	[[IAF0041]] Arvutid
+	[[IXX1420]] Arvutid ja süsteemid - projekt
+	[[IXX1430]] Arvutisüsteemid - projekt
+	[[IAY0140]] Arvutite aritmeetika ja loogika
+	[[ISP0040]] Arvutivõrgud
+	[[YMR5730]] Arvutusmeetodid
+	[[ISS0021]] Automaatjuhtimissüsteemid
+	[[YMR0010]] Diferentsiaalvõrrandid
+	[[IAY0150]] Digitaalsüsteemid
+	[[IAY0010]] Diskreetne matemaatika
+	[[IED0150]] Elektroonika
+	[[TMJ0110]] Ettevõtluse alused
+	[[HHF3080]] Filosoofia
+	[[YFR0020]] Füüsika
+	[[YFT0320]] Füüsikaliste protsesside modelleerimine
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[ISP1410]] Küberfüüsikalised süsteemid
+	[[YMA3710]] Lineaaralgebra
+	[[YMA0071]] Lineaaralgebra rakendusmeetodid
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM3740]] Matemaatiline analüüs II
+	[[ISS0050]] Mõõtmine
+	[[HOE6053]] Õigusõpetus infotehnoloogidele
+	[[UTT0010]] Õpingukorraldus
+	[[IXX0700]] Praktika
+	[[IAG0581]] Programmeerimine I
+	[[IAG0582]] Programmeerimine II
+	[[ISP0011]] Reaalaja tarkvaratehnika
+	[[ITT0050]] Rekursiooni- ja keerukusteooria
+	[[IAX0230]] Sardsüsteemide alused
+	[[IRT3930]] Side
+	[[ISC0011]] Sidud, süsteemid, signaalid
+	[[IXX0510]] Sissejuhatus erialasse
+	[[ITV0010]] Sissejuhatus infotehnoloogiasse
+	[[IAX0250]] Süsteemide diagnostika
+	[[ISS0010]] Süsteemiteooria
+	[[IXX1410]] Tarkvara - projekt
+	[[IAG0100]] Tarkvaratehnika
+	[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika
+	[[ISS0110]] Väljendusoskus
+	
+	
+keep-ts: 1438887059

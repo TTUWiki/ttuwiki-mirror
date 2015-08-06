@@ -1,13 +1,14 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TVTM03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50158&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TMM2080]] Äriturundus<br />[[TET2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TMJ2060]] Ettevõtlus ja väikeettevõtted<br />[[TER2605]] Ettevõtte rahandus<br />[[TMM2520]] E-turundus<br />[[TTO2350]] Euroopa Ühenduse õigus<br />[[TER2750]] Finantsjuhtimine<br />[[TTP2350]] Innovatsiooni juhtimine<br />[[TMO2180]] Juhtimine<br />[[TMJ2050]] Juhtimismäng<br />[[TSK2001]] Kultuuridevaheline suhtlemine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TAF2845]] Majandusarvestus<br />[[TTR2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TER2581]] Raha ja finantsteenused<br />[[TER2580]] Raha ja pangandus<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[TMO2040]] Rahvusvaheline inimressursi juhtimine<br />[[TET2595]] Rahvusvaheline majandus<br />[[TAF2080]] Rahvusvaheline maksundus<br />[[TES8140]] Statistiline analüüs<br />[[TMO2190]] Strateegiline juhtimine<br />[[TMJ2040]] Tarneahela juhtimine<br />[[TMM2740]] Turunduskommunikatsioon<br />[[TMM2700]] Turundusuuring</p>
-diff-minor: 
-ts: 1408891663
+flags: 010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>TVTM03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50158&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TMM2080]] Äriturundus<br />[[TET2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TMJ2060]] Ettevõtlus ja väikeettevõtted<br />[[TER2605]] Ettevõtte rahandus<br />[[TMM2520]] E-turundus<br />[[TTO2350]] Euroopa Ühenduse õigus<br />[[TER2750]] Finantsjuhtimine<br />[[TTP2350]] Innovatsiooni juhtimine<br />[[TMO2180]] Juhtimine<br />[[TMJ2050]] Juhtimismäng<br />[[TSK2001]] Kultuuridevaheline suhtlemine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TAF2845]] Majandusarvestus<br />[[TTR2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TER2581]] Raha ja finantsteenused<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[TMO2040]] Rahvusvaheline inimressursi juhtimine<br />[[TET2595]] Rahvusvaheline majandus<br />[[TAF2080]] Rahvusvaheline maksundus<br />[[TES8140]] Statistiline analüüs<br />[[TMO2190]] Strateegiline juhtimine<br />[[TMJ2040]] Tarneahela juhtimine<br />[[TMM2740]] Turunduskommunikatsioon<br />[[TMM2700]] Turundusuuring</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TER2580]] Raha ja pangandus</p></div>
+ts: 1438887196
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: == TVTM03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50158&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
 	[[TMK8300]] Ärieetika
@@ -31,7 +32,6 @@ text: == TVTM03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page
 	[[TAF2845]] Majandusarvestus
 	[[TTR2355]] Projekti juhtimine ja tulude-kulude analüüs
 	[[TER2581]] Raha ja finantsteenused
-	[[TER2580]] Raha ja pangandus
 	[[TMK8280]] Rahvusvaheline ettevõtlus
 	[[TMO2040]] Rahvusvaheline inimressursi juhtimine
 	[[TET2595]] Rahvusvaheline majandus
@@ -43,4 +43,4 @@ text: == TVTM03/11 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page
 	[[TMM2700]] Turundusuuring
 	
 	
-keep-ts: 1408891663
+keep-ts: 1438887196

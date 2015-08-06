@@ -1,20 +1,22 @@
-flags: 0101010
-blocks: &lt;include "IVEM11-14"&gt;
+flags: 010101010
+blocks: &lt;include "IVEM11-15"&gt;
+	&lt;include "IVEM11-14"&gt;
 	&lt;include "IVEM11-13"&gt;
 	&lt;include "IVEM11-11"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== IVEM11/14 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50249&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IED3010]] Analoog/digitaal skeemide disain\\<br />&lt; [[IEM3040]] Andmehõivesüsteemid\\<br />&lt; [[IEE0740]] Biomeditsiinielektroonika\\<br />&lt; [[DBR0160]] Biosensoorika\\<br />&lt; [[IEE0420]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IED3100]] Elektroonika- ja sidetööstus\\<br />&lt; [[IED3090]] Erialapraktika\\<br />&lt; [[TMJ1030]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[IEE0620]] Intelligentne energia haldus\\<br />&lt; [[IED3040]] Kiipdisain\\<br />&lt; [[IAY0550]] Kiipsüsteemide disain\\<br />&lt; [[IEE0610]] Kognitiivne side\\<br />&lt; [[IAG0420]] Küberturbe põhialused ja juhtimine\\<br />&lt; [[KYP0090]] Materjalid mikrotehnoloogiale\\<br />&lt; [[MHK0031]] Mehhatroonikasüsteemid\\<br />&lt; [[IED3030]] Mikroelektroonika\\<br />&lt; [[IEE0010]] Mikrokontrollerite programmeerimine C-keeles\\<br />&lt; [[IRT0180]] Multimeedia tehnoloogiad\\<br />&lt; [[IEM3010]] Navigeerimine ja positsioneerimine\\<br />&lt; [[IED3020]] Pooljuhtseadiste simuleerimine\\<br />&lt; [[IEE0630]] Prototüüpimine I\\<br />&lt; [[IEE0640]] Prototüüpimine II\\<br />&lt; [[HOE7250]] Rahvusvaheline intellektuaalse omandi õigus\\<br />&lt; [[IEE0510]] Reaalaja sardsüsteemid\\<br />&lt; [[IAY0330]] Sardsüsteemid\\<br />&lt; [[IEE0410]] Sidetehnoloogiad\\<br />&lt; [[IRO0140]] Signaalide aegruumilise töötlemise meetodid\\<br />&lt; [[AAR0030]] Sissejuhatus robotitehnikasse\\<br />&lt; [[IEE0210]] Tarkade asjade võrgud\\<br />&lt; [[IEM3020]] Test ja diagnostika\\<br />&lt; [[IRT0210]] Võrgutehnoloogiad\\<br />&lt; ===</strong> IVEM11<strong class="changes">/13</strong> - <strong class="changes">Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50228&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IED3010]] Analoog/digitaal skeemide disain\\<br />&lt; [[DBR0210]] Anatoomia ja füsioloogia\\<br />&lt; [[IEM3040]] Andmehõivesüsteemid\\<br />&lt; [[IEM3240]] Biomeditsiinielektroonika\\<br />&lt; [[DBB0220]] Biomeditsiiniseadmed\\<br />&lt; [[DBR0150]] Biosensoorika\\<br />&lt; [[IAY0340]] Digitaalsüsteemide modelleerimine ja süntees\\<br />&lt; [[IEX3010]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IEX3020]] Elektroonika erikursus\\<br />&lt; [[IED3100]] Elektroonika- ja sidetööstus\\<br />&lt; [[IED3090]] Erialapraktika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[TMJ1030]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[IEM3220]] Füsioloogia ja tehnika\\<br />&lt; [[ITX8062]] Infosüsteemide massründed ja kaitse\\<br />&lt; [[IBX0030]] Innovaatika ja loov probleemilahendus\\<br />&lt; [[IEM0100]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[IED3040]] Kiipdisain\\<br />&lt; [[IAY0550]] Kiipsüsteemide disain\\<br />&lt; [[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused\\<br />&lt; [[ITX8043]] Küberturbe põhialused ja juhtimine\\<br />&lt; [[ITX8042]] Kurivara\\<br />&lt; [[IED3030]] Mikroelektroonika\\<br />&lt; [[IED3070]] Nanoelektroonika\\<br />&lt; [[IEM3010]] Navigeerimine ja positsioneerimine\\<br />&lt; [[DBB0300]] Optoelektroonika ja integraaloptika\\<br />&lt; [[IED3020]] Pooljuhtseadiste simuleerimine\\<br />&lt; [[IEM3030]] Reaalaja sardsüsteemid\\<br />&lt; [[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused\\<br />&lt; [[IBX0020]] Robootika\\<br />&lt; [[IEA3010]] Sensorvõrgud\\<br />&lt; [[IRO0140]] Signaalide aegruumilise töötlemise meetodid\\<br />&lt; [[IRZ0140]] Signaalid ja signaalitöötlus\\<br />&lt; [[IED3060]] Tahkiselektroonika\\<br />&lt; [[IEM3020]] Test ja diagnostika\\<br />&lt; [[IED0320]] Toiteseadmed\\<br />&lt; ===</strong> IVEM11<strong class="changes">/11</strong> - <strong class="changes">Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50164&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IED3010]] Analoog/digitaal skeemide disain\\<br />&lt; [[DBR0210]] Anatoomia ja füsioloogia\\<br />&lt; [[IEM3040]] Andmehõivesüsteemid\\<br />&lt; [[IEM3240]] Biomeditsiinielektroonika\\<br />&lt; [[DBB0220]] Biomeditsiiniseadmed\\<br />&lt; [[DBR0150]] Biosensoorika\\<br />&lt; [[IAY0540]] Digitaalsüsteemide modelleerimine ja süntees\\<br />&lt; [[IEX3010]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IEX3020]] Elektroonika erikursus\\<br />&lt; [[IED3080]] Elektroonika- ja sidetööstus\\<br />&lt; [[IED3090]] Erialapraktika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[TMJ1030]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[IEM3220]] Füsioloogia ja tehnika\\<br />&lt; [[ITX8062]] Infosüsteemide massründed ja kaitse\\<br />&lt; [[IED3040]] Kiipdisain\\<br />&lt; [[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused\\<br />&lt; [[ITX8043]] Küberturbe põhialused ja juhtimine\\<br />&lt; [[ITX8042]] Kurivara\\<br />&lt; [[IED3030]] Mikroelektroonika\\<br />&lt; [[IED3070]] Nanoelektroonika\\<br />&lt; [[IEM3010]] Navigeerimine ja positsioneerimine\\<br />&lt; [[DBB0300]] Optoelektroonika ja integraaloptika\\<br />&lt; [[IED3020]] Pooljuhtseadiste simuleerimine\\<br />&lt; [[IEM3030]] Reaalaja sardsüsteemid\\<br />&lt; [[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused\\<br />&lt; [[IAY0570]] Riist</strong>- <strong class="changes">ja tarkvara koosdisain\\<br />&lt; [[IBX0020]] Robootika\\<br />&lt; [[IEA3010]] Sensorvõrgud\\<br />&lt; [[IRO0140]] Signaalide aegruumilise töötlemise meetodid\\<br />&lt; [[IRZ0140]] Signaalid ja signaalitöötlus\\<br />&lt; [[IED3060]] Tahkiselektroonika\\<br />&lt; [[IEM3020]] Test ja diagnostika\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IVEM11-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IVEM11-<strong class="changes">13"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IVEM11</strong>-<strong class="changes">11"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "IVEM11-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885721
+ts: 1438886400
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "IVEM11-14">
+text: <include "IVEM11-15">
+	
+	<include "IVEM11-14">
 	
 	<include "IVEM11-13">
 	
@@ -23,4 +25,4 @@ text: <include "IVEM11-14">
 	
 	
 lastmajor: 1
-keep-ts: 1408885721
+keep-ts: 1438886400

@@ -1,20 +1,20 @@
 flags: 010
-blocks: &lt;include "NAIM14-14"&gt;
+blocks: &lt;include "NAIM14-15"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== NAIM14/14 - Ruumiline planeerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50214&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[NTM1150]] Avalik esinemine\\<br />&lt; [[NTM1440]] Detailplaneeringu koostamine\\<br />&lt; [[NTM1690]] Erialapraktika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[NTM0311]] Geoinformaatika\\<br />&lt; [[NTS0100]] Insenerieetika\\<br />&lt; [[NTK0680]] Juhtimine\\<br />&lt; [[NTM0620]] Keskkonnamõju hindamine\\<br />&lt; [[NTM1630]] Kogukondlik ja majandusareng ning omavalitsuse toimimine\\<br />&lt; [[NTM0320]] Kultuurmaastikud\\<br />&lt; [[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\<br />&lt; [[NTM0880]] Maastikuarhitektuuri teooria ja problemaatika\\<br />&lt; [[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\<br />&lt; [[NTM1640]] Nüüdisaegne planeerimine ja jätkusuutlikkus\\<br />&lt; [[NTM0340]] Õigusõpetus\\<br />&lt; [[NTM0350]] Plaanimine ja teed\\<br />&lt; [[NTM1680]] Planeerimise stuudio\\<br />&lt; [[NTM0810]] Projekteerimine ja maastikuehitus\\<br />&lt; [[NTK0690]] Teadustöö metodoloogia\\<br />&lt; [[NTX0020]] Teadusvõõrkeel\\<br />&lt; [[NTM1110]] Üldplaneeringu koostamine\\<br />&lt; [[NTM1610]] Üleilmsed suundumused ja sotsiaalpoliitika\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "NAIM14-14"&gt;</strong></p></div>
+	<div class="old"><p>&lt; &lt;include "NAIM14-<strong class="changes">14</strong>"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;include "NAIM14-<strong class="changes">15</strong>"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885803
+ts: 1438887120
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "NAIM14-14">
+text: <include "NAIM14-15">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885803
+keep-ts: 1438887120

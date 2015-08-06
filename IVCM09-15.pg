@@ -1,0 +1,67 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>IVCM09/15 - Küberkaitse [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50316&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDN0110]] Andmekaevandamine ja võrgustike analüüs<br />[[ITX8200]] Arvutite ja seadmete analüüs<br />[[ITX8205]] Arvutivõrgu ja võrguliikluse analüüs<br />[[ITV8060]] Arvutivõrkude turvalisus<br />[[HOE7023]] Digitaalsed tõendid<br />[[ITX8220]] Digitaalse ekspertiisi erikursus I<br />[[ITX8221]] Digitaalse ekspertiisi erikursus II<br />[[ITX8230]] Digitaalse ekspertiisi seminar<br />[[HLI2200]] Eesti keel ja kultuur I<br />[[TMJ0110]] Ettevõtluse alused<br />[[ITX8090]] Info- ja küberturbe tagamine organisatsioonides<br />[[ITC8070]] Infosüsteemide ründed ja kaitse<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus<br />[[ITV0055]] Kaasaegsete operatsioonisüsteemide ülevaade<br />[[MTAT.07.020]] Krüptograafia uurimisprojekt<br />[[MTAT.07.019]] Krüptograafia uurimisseminar<br />[[MTAT.07.014]] Krüptograafilised protokollid<br />[[MTAT.07.002]] Krüptoloogia I<br />[[MTAT.07.003]] Krüptoloogia II<br />[[ITC8010]] Küberjulgeoleku õiguslikud alused<br />[[ITC8050]] Küberjulgeoleku strateegia ja operatsioonide alused<br />[[ITX8050]] Küberkaitse erikursus<br />[[ITX8040]] Küberkaitse eriseminar<br />[[ITX8043]] Küberturbe põhialused ja juhtimine<br />[[ITX8042]] Kurivara<br />[[ITX8060]] Kurivara II<br />[[IDU0450]] Meeskonnatöö - projekt<br />[[ITX8071]] Monitooringulahendused küberkaitses<br />[[HPP8410]] Organisatsiooniteooria ja -psühholoogia<br />[[ITX8512]] Praktika<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[IDK1011]] Programmeerimise algkursus<br />[[MTAT.07.017]] Rakenduslik krüptograafia<br />[[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine<br />[[ITX8080]] Rünnete ja kaitse simuleerimine<br />[[ITX0025]] Sissejuhatus infotehnoloogiasse<br />[[MTAT.03.248]] Sissejuhatus interneti-psühholoogiasse<br />[[ITX8110]] Sissejuhatus kombinatoorikasse ja krüptograafiasse<br />[[MTAT.07.018]] Sõjakunsti ajalugu: antiikajast võrgupõhise sõjapidamiseni<br />[[MTAT.03.245]] Sotsiaalinformaatika<br />[[MTAT.08.021]] Süsteemihaldus<br />[[HLX8040]] Teadusvõõrkeel<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HPP8540]] Tehnopsühholoogia<br />[[ITX8210]] Turvaintsidendi halduse ja küberkriminalistika meetodid<br />[[MTAT.07.015]] Turvalise programmeerimise meetodid<br />[[MTAT.07.016]] Turvalise programmeerimise meetodid: projektitöö<br />[[MTAT.03.307]] Turvalise tarkvaradisaini põhimõtted<br />[[ITC8060]] Võrguprotokollide disain<br />[[ITV8040]] Võrgutehnoloogia I<br />[[ITV8050]] Võrgutehnoloogia II</p>
+diff-minor: 
+ts: 1438887069
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == IVCM09/15 - Küberkaitse [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50316&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[IDN0110]] Andmekaevandamine ja võrgustike analüüs
+	[[ITX8200]] Arvutite ja seadmete analüüs
+	[[ITX8205]] Arvutivõrgu ja võrguliikluse analüüs
+	[[ITV8060]] Arvutivõrkude turvalisus
+	[[HOE7023]] Digitaalsed tõendid
+	[[ITX8220]] Digitaalse ekspertiisi erikursus I
+	[[ITX8221]] Digitaalse ekspertiisi erikursus II
+	[[ITX8230]] Digitaalse ekspertiisi seminar
+	[[HLI2200]] Eesti keel ja kultuur I
+	[[TMJ0110]] Ettevõtluse alused
+	[[ITX8090]] Info- ja küberturbe tagamine organisatsioonides
+	[[ITC8070]] Infosüsteemide ründed ja kaitse
+	[[IBX0030]] Innovaatika ja loov probleemilahendus
+	[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus
+	[[ITV0055]] Kaasaegsete operatsioonisüsteemide ülevaade
+	[[MTAT.07.020]] Krüptograafia uurimisprojekt
+	[[MTAT.07.019]] Krüptograafia uurimisseminar
+	[[MTAT.07.014]] Krüptograafilised protokollid
+	[[MTAT.07.002]] Krüptoloogia I
+	[[MTAT.07.003]] Krüptoloogia II
+	[[ITC8010]] Küberjulgeoleku õiguslikud alused
+	[[ITC8050]] Küberjulgeoleku strateegia ja operatsioonide alused
+	[[ITX8050]] Küberkaitse erikursus
+	[[ITX8040]] Küberkaitse eriseminar
+	[[ITX8043]] Küberturbe põhialused ja juhtimine
+	[[ITX8042]] Kurivara
+	[[ITX8060]] Kurivara II
+	[[IDU0450]] Meeskonnatöö - projekt
+	[[ITX8071]] Monitooringulahendused küberkaitses
+	[[HPP8410]] Organisatsiooniteooria ja -psühholoogia
+	[[ITX8512]] Praktika
+	[[HOX6070]] Privaatsus- ja andmekaitseõigus
+	[[IDK1011]] Programmeerimise algkursus
+	[[MTAT.07.017]] Rakenduslik krüptograafia
+	[[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine
+	[[ITX8080]] Rünnete ja kaitse simuleerimine
+	[[ITX0025]] Sissejuhatus infotehnoloogiasse
+	[[MTAT.03.248]] Sissejuhatus interneti-psühholoogiasse
+	[[ITX8110]] Sissejuhatus kombinatoorikasse ja krüptograafiasse
+	[[MTAT.07.018]] Sõjakunsti ajalugu: antiikajast võrgupõhise sõjapidamiseni
+	[[MTAT.03.245]] Sotsiaalinformaatika
+	[[MTAT.08.021]] Süsteemihaldus
+	[[HLX8040]] Teadusvõõrkeel
+	[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi
+	[[HPP8540]] Tehnopsühholoogia
+	[[ITX8210]] Turvaintsidendi halduse ja küberkriminalistika meetodid
+	[[MTAT.07.015]] Turvalise programmeerimise meetodid
+	[[MTAT.07.016]] Turvalise programmeerimise meetodid: projektitöö
+	[[MTAT.03.307]] Turvalise tarkvaradisaini põhimõtted
+	[[ITC8060]] Võrguprotokollide disain
+	[[ITV8040]] Võrgutehnoloogia I
+	[[ITV8050]] Võrgutehnoloogia II
+	
+	
+keep-ts: 1438887069

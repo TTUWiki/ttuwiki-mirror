@@ -1,21 +1,24 @@
-flags: 01010101010
-blocks: &lt;include "EAKI02-10Tartu"&gt;
+flags: 0101010101010
+blocks: &lt;include "EAKI02-15"&gt;
+	&lt;include "EAKI02-10Tartu"&gt;
 	&lt;include "EAKI02-09Tartu"&gt;
 	&lt;include "EAKI02-09"&gt;
 	&lt;include "EAKI02-05"&gt;
 	&lt;include "EAKI02-02"&gt;
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;include "EAKI02-10Tartu"&gt;<br />&lt; &lt;include "EAKI02-09Tartu"&gt;<br />&lt; &lt;include "EAKI02-09"&gt;<br />&lt; &lt;include "EAKI02-05"&gt;<br />&lt; &lt;include "EAKI02-02"&gt;</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "EAKI02-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408891328
+ts: 1438886300
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 3
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "EAKI02-10Tartu">
+text: <include "EAKI02-15">
+	
+	<include "EAKI02-10Tartu">
 	
 	<include "EAKI02-09Tartu">
 	
@@ -28,4 +31,4 @@ text: <include "EAKI02-10Tartu">
 	
 	
 lastmajor: 1
-keep-ts: 1408891328
+keep-ts: 1438886300

@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "RDKR05-09"&gt;
+flags: 0101010
+blocks: &lt;include "RDKR05-15"&gt;
+	&lt;include "RDKR05-09"&gt;
 	&lt;include "RDKR05-05"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== RDKR05/09 - Kütuste tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50032&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[RAR0600]] Analüütiline keemia\\<br />&lt; [[RAR0551]] Anorgaaniline keemia\\<br />&lt; [[RAR0552]] Anorgaaniline keemia - praktikum\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAX0511]] Erialane võõrkeel I\\<br />&lt; [[RAX0512]] Erialane võõrkeel II\\<br />&lt; [[RAR2830]] Erialapraktika\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAH0120]] Filosoofia\\<br />&lt; [[RAR0571]] Füüsikaline keemia\\<br />&lt; [[RAR0572]] Füüsikaline keemia - praktikum\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR3112]] Informaatika II\\<br />&lt; [[RAH0140]] Insenerieetika\\<br />&lt; [[RAR3140]] Insenerigraafika\\<br />&lt; [[RAR0610]] Instrumentaalanalüüs\\<br />&lt; [[RAR0520]] Keemia alused\\<br />&lt; [[RAR2790]] Keemiatehnoloogia alused\\<br />&lt; [[RAR0730]] Keskkonna ja vee tehnoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAR0693]] Kütusetööstuse protsessid ja seadmed - ainetöö\\<br />&lt; [[RAR0691]] Kütusetööstuse protsessid ja seadmed I\\<br />&lt; [[RAR0692]] Kütusetööstuse protsessid ja seadmed II\\<br />&lt; [[RAR0650]] Kütuste keemia ja tehnoloogia\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR0670]] Mootorikütused ja määrdeained\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR2800]] Õpingukorraldus\\<br />&lt; [[RAR2780]] Orgaaniline keemia\\<br />&lt; [[RAR0562]] Orgaaniline keemia - praktikum\\<br />&lt; [[RAR0660]] Põlevkivikeemia ja tehnoloogia\\<br />&lt; [[RAR0630]] Polümeeride keemia ja füüsika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR0711]] Reaktsiooniprotsessid\\<br />&lt; [[RAR0712]] Reaktsiooniprotsessid - ainetöö\\<br />&lt; [[RAR0510]] Riski- ja ohutusõpetus\\<br />&lt; [[RAR0680]] Säästev tehnoloogia\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR0700]] Süsteemianalüüs ja otsustamine\\<br />&lt; [[RAR0720]] Taastuvkütused\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR0530]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[RAR2820]] Töökeskkonna praktika\\<br />&lt; [[RAR0620]] Tootmisautomaatika\\<br />&lt; [[RAR2810]] Tutvumispraktika\\<br />&lt; [[RAX0480]] Üldvõõrkeel\\<br />&lt; [[RAH0740]] Väljendusõpetus\\<br />&lt; ===</strong> RDKR05<strong class="changes">/05</strong> - <strong class="changes">Kütuste tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=3593&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[RAR0600]] Analüütiline keemia\\<br />&lt; [[RAR0551]] Anorgaaniline keemia\\<br />&lt; [[RAR0552]] Anorgaaniline keemia - praktikum\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAH0130]] Erialane inglise keel\\<br />&lt; [[RAR0760]] Erialapraktika\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAH0120]] Filosoofia\\<br />&lt; [[RAR0571]] Füüsikaline keemia\\<br />&lt; [[RAR0572]] Füüsikaline keemia - praktikum\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR3112]] Informaatika II\\<br />&lt; [[RAH0140]] Insenerieetika\\<br />&lt; [[RAR3140]] Insenerigraafika\\<br />&lt; [[RAR0610]] Instrumentaalanalüüs\\<br />&lt; [[RAR0520]] Keemia alused\\<br />&lt; [[RAR0730]] Keskkonna ja vee tehnoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAR0693]] Kütusetööstuse protsessid ja seadmed - ainetöö\\<br />&lt; [[RAR0691]] Kütusetööstuse protsessid ja seadmed I\\<br />&lt; [[RAR0692]] Kütusetööstuse protsessid ja seadmed II\\<br />&lt; [[RAR0650]] Kütuste keemia ja tehnoloogia\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR0640]] Materjalitehnika\\<br />&lt; [[RAR0670]] Mootorikütused ja määrdeained\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR0010]] Õpingukorraldus\\<br />&lt; [[RAR0561]] Orgaaniline keemia\\<br />&lt; [[RAR0562]] Orgaaniline keemia - praktikum\\<br />&lt; [[RAR0660]] Põlevkivikeemia ja tehnoloogia\\<br />&lt; [[RAR0630]] Polümeeride keemia ja füüsika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR0711]] Reaktsiooniprotsessid\\<br />&lt; [[RAR0712]] Reaktsiooniprotsessid - ainetöö\\<br />&lt; [[RAR0510]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[RAR0680]] Säästev tehnoloogia\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR0700]] Süsteemianalüüs ja otsustamine\\<br />&lt; [[RAR0720]] Taastuvkütused\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR0530]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[RAR0750]] Töökeskkonna praktika\\<br />&lt; [[RAR0620]] Tootmisautomaatika\\<br />&lt; [[RAR0740]] Tutvumispraktika\\<br />&lt; [[RAH0070]] Väljenduskunsti alused\\<br />&lt; [[RAX0031]] Võõrkeel I\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>RDKR05-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "RDKR05</strong>-<strong class="changes">05"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "RDKR05-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885827
+ts: 1438887134
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "RDKR05-09">
+text: <include "RDKR05-15">
+	
+	<include "RDKR05-09">
 	
 	<include "RDKR05-05">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885827
+keep-ts: 1438887134

@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "IVGM13-14"&gt;
+flags: 0101010
+blocks: &lt;include "IVGM13-15"&gt;
+	&lt;include "IVGM13-14"&gt;
 	&lt;include "IVGM13-13"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== IVGM13/14 - E-riigi tehnoloogiad ja teenused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50266&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid\\<br />&lt; [[HHA1530]] Arengupoliitikad ja üleilmastumine\\<br />&lt; [[IDU0320]] Äriinfosüsteemid\\<br />&lt; [[IDU0330]] Äriprotsesside modelleerimine ja automatiseerimine\\<br />&lt; [[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse\\<br />&lt; [[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused\\<br />&lt; [[IDU0410]] E-demokraatia kontseptsioonid\\<br />&lt; [[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika\\<br />&lt; [[TMJ3331]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[IDU0460]] Ettevõtte äriarhitektuuri arendamine\\<br />&lt; [[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud\\<br />&lt; [[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine\\<br />&lt; [[HOE7210]] E-valitsuse õiguslikud aspektid\\<br />&lt; [[HHL1040]] Haldusjuhtimine ja avalik haldus\\<br />&lt; [[IDU0430]] Infohaldus ja digiarhiivindus\\<br />&lt; [[IDU0405]] Infoühiskonna kontseptsioonid ja põhimõtted\\<br />&lt; [[HHI1110]] Innovatsioon\\<br />&lt; [[IDU0480]] Küberturbe põhialused\\<br />&lt; [[IDU0450]] Meeskonnatöö - projekt\\<br />&lt; [[HHM1030]] Poliitikate kujundamine\\<br />&lt; [[IDU006P]] Praktika\\<br />&lt; [[HHA1450]] Riik ja valitsemine\\<br />&lt; [[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine\\<br />&lt; [[IDU0455]] Sissejuhatus pilvepõhiste süsteemide arendusse\\<br />&lt; [[IDU0470]] Teenuskeskne käsitlus avalikus sektoris\\<br />&lt; [[HHL1250]] Tehnoloogia ja ühiskond\\<br />&lt; [[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi\\<br />&lt; [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad\\<br />&lt; [[IDU0475]] Turvalisus ja privaatsus võrgupõhises maailmas\\<br />&lt; [[IDU0440]] Virtuaalkeskkondade kasutatavus\\<br />&lt; ===</strong> IVGM13<strong class="changes">/13</strong> - <strong class="changes">E-riigi tehnoloogiad ja teenused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50217&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid\\<br />&lt; [[HHA1530]] Arengupoliitikad ja üleilmastumine\\<br />&lt; [[IDU0320]] Äriinfosüsteemid\\<br />&lt; [[IDU0330]] Äriprotsesside modelleerimine ja automatiseerimine\\<br />&lt; [[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse\\<br />&lt; [[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused\\<br />&lt; [[IDU0410]] E-demokraatia kontseptsioonid\\<br />&lt; [[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika\\<br />&lt; [[TMJ3331]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[IDU0460]] Ettevõtte äriarhitektuuri arendamine\\<br />&lt; [[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud\\<br />&lt; [[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine\\<br />&lt; [[HOE7210]] E-valitsuse õiguslikud aspektid\\<br />&lt; [[HHL1040]] Haldusjuhtimine ja avalik haldus\\<br />&lt; [[IDU0430]] Infohaldus ja digiarhiivindus\\<br />&lt; [[IDU0405]] Infoühiskonna kontseptsioonid ja põhimõtted\\<br />&lt; [[HHI1110]] Innovatsioon\\<br />&lt; [[IDU0450]] Meeskonnatöö - projekt\\<br />&lt; [[HHM1030]] Poliitikate kujundamine\\<br />&lt; [[IDU006P]] Praktika\\<br />&lt; [[HHA1450]] Riik ja valitsemine\\<br />&lt; [[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine\\<br />&lt; [[IDU0435]] Sissejuhatus infoühiskonna tehnoloogiatesse ja e-valitsemisesse\\<br />&lt; [[IDU0455]] Sissejuhatus pilvepõhiste süsteemide arendusse\\<br />&lt; [[IDU0470]] Teenuskeskne käsitlus avalikus sektoris\\<br />&lt; [[HHL1250]] Tehnoloogia ja ühiskond\\<br />&lt; [[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi\\<br />&lt; [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis</strong>-<strong class="changes">majanduslikud paradigmad\\<br />&lt; [[IDU0475]] Turvalisus ja privaatsus võrgupõhises maailmas\\<br />&lt; [[IDU0440]] Virtuaalkeskkondade kasutatavus\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IVGM13-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IVGM13</strong>-<strong class="changes">13"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "IVGM13-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885724
+ts: 1438886403
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "IVGM13-14">
+text: <include "IVGM13-15">
+	
+	<include "IVGM13-14">
 	
 	<include "IVGM13-13">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885724
+keep-ts: 1438886403

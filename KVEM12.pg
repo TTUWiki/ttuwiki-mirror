@@ -1,20 +1,22 @@
-flags: 010
-blocks: &lt;include "KVEM12-13"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== KVEM12/13 - Puidu- ja plastitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50205&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_mode=1&amp;p_from=]<br />&lt; [[KMP0340]] Biopolümeerid: põhiolemus, tootmine ja kasutamine\\<br />&lt; [[KMX0550]] CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes\\<br />&lt; [[TMJ3380]] Ettevõtlus ja väikeettevõtte juhtimine\\<br />&lt; [[KCM0350]] Materjalide biolagunemine\\<br />&lt; [[KMM0570]] Mööblitööstuse tehnoloogia\\<br />&lt; [[KMM0580]] Pehme mööbli tehnoloogia\\<br />&lt; [[KMP0311]] Plastitööstuse tehnoloogia 1\\<br />&lt; [[KMP0312]] Plastitööstuse tehnoloogia 2\\<br />&lt; [[KMP0350]] Polümeermaterjalide katsetamine\\<br />&lt; [[KMP0330]] Polümeermaterjalid: saamine ja omadused\\<br />&lt; [[KMP0320]] Polümeersete materjalide analüüsimeetodid\\<br />&lt; [[KMX0410]] Projekt 1\\<br />&lt; [[KMX0420]] Projekt 2\\<br />&lt; [[KMX0430]] Projekt 3\\<br />&lt; [[KMM0400]] Puidu ehitus, omadused ja esmatöötlus\\<br />&lt; [[KMM0460]] Puidu</strong>- <strong class="changes">ja plastijäätmete ringlussevõtt ja energiakasutus\\<br />&lt; [[KMM0420]] Puidutööstuse tehnoloogia\\<br />&lt; [[KMM0450]] Puitpolümeerkomposiidid\\<br />&lt; [[KAK8220]] Säästlik/puhtam tootmine\\<br />&lt; [[KMX0370]] Sissejuhatus õpingutesse\\<br />&lt; [[TES8140]] Statistiline analüüs\\<br />&lt; [[KYF0170]] Teadustöö ja innovatsioon\\<br />&lt; [[MER0070]] Toodete ja protsesside modelleerimine\\<br />&lt; [[MET8130]] Tootmise plaanimine ja juhtimine\\<br />&lt; [[KCM0360]] Tselluloosi tehnoloogiad\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "KVEM12</strong>-<strong class="changes">13"&gt;</strong></p></div>
+flags: 01010
+blocks: &lt;include "KVEM12-15"&gt;
+	&lt;include "KVEM12-13"&gt;
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "KVEM12-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885757
+ts: 1438886426
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "KVEM12-13">
+text: <include "KVEM12-15">
+	
+	<include "KVEM12-13">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885757
+keep-ts: 1438886426

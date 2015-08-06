@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "IALB13-14"&gt;
+flags: 0101010
+blocks: &lt;include "IALB13-15"&gt;
+	&lt;include "IALB13-14"&gt;
 	&lt;include "IALB13-13"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== IALB13/14 - Elektroonika ja telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50257&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[ITX0040]] Andmeturve\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[YMR5730]] Arvutusmeetodid\\<br />&lt; [[IAY0150]] Digitaalsüsteemid\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[ITT0030]] Diskreetne matemaatika II\\<br />&lt; [[AME0011]] Elektromagnetilise ühilduvuse alused\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[IXX0520]] Erialatutvustus\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[IEM0200]] Informatsioon ja füüsika\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[IRT0130]] Kodeerimismeetodid\\<br />&lt; [[IRM0110]] Laineväljad ja antennid\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMA0071]] Lineaaralgebra rakendusmeetodid\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[YMR0050]] Operatsioonianalüüs\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IED0270]] Praktika\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[IED0290]] Sensoorika\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IRO0150]] Signaalitöötlus I\\<br />&lt; [[IRZ0160]] Signaalitöötlus II\\<br />&lt; [[IDU3350]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[IED0300]] Skeemitehnika I\\<br />&lt; [[IED0310]] Skeemitehnika II\\<br />&lt; [[IED3050]] SPICE simulatsioonid\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[YMR0170]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; ===</strong> IALB13<strong class="changes">/13</strong> - <strong class="changes">Elektroonika ja telekommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50232&amp;p_net=intranet&amp;p_lang=ET&amp;</strong><strong class="changes">p_rezhiim=0</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[ITX0040]] Andmeturve\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IAY0150]] Digitaalsüsteemid\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[AME0011]] Elektromagnetilise ühilduvuse alused\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[IXX0520]] Erialatutvustus\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[IEM0200]] Informatsioon ja füüsika\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[IRT0130]] Kodeerimismeetodid\\<br />&lt; [[IRM0110]] Laineväljad ja antennid\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IED0270]] Praktika\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[IED0290]] Sensoorika\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IRO0150]] Signaalitöötlus I\\<br />&lt; [[IRZ0160]] Signaalitöötlus II\\<br />&lt; [[IDU3350]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[IED0300]] Skeemitehnika I\\<br />&lt; [[IED0310]] Skeemitehnika II\\<br />&lt; [[IED3050]] SPICE simulatsioonid\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[YMR0170]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IALB13-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IALB13-13"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "IALB13-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885688
+ts: 1438886370
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "IALB13-14">
+text: <include "IALB13-15">
+	
+	<include "IALB13-14">
 	
 	<include "IALB13-13">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885688
+keep-ts: 1438886370

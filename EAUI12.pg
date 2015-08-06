@@ -1,20 +1,22 @@
-flags: 010
-blocks: &lt;include "EAUI12-13"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== EAUI12/13 - Arhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50218&amp;p_net=intranet</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[EEA7130]] 3D programmide õpe\\<br />&lt; [[EEA7140]] Arhitekt, arhitektuur ja eetika\\<br />&lt; [[EEA7350]] Arhitektuuri ajalugu I\\<br />&lt; [[EEA7351]] Arhitektuuri ja linnaehituse ajalugu 19.saj. teisest poolest tänapäevani\\<br />&lt; [[EEA7391]] Arhitektuurne alustusprojekt ÜI. Arhitektuursed ruumid\\<br />&lt; [[EEA7431]] Arhitektuurne mudelprojekteerimine (BIM) I\\<br />&lt; [[EEA7432]] Arhitektuurne mudelprojekteerimine (BIM) II\\<br />&lt; [[EEA7433]] Arhitektuurne mudelprojekteerimine (BIM) III\\<br />&lt; [[EEA7434]] Arhitektuurne mudelprojekteerimine (BIM) IV\\<br />&lt; [[EEA7401]] Arhitektuurne projekt EI. Eramu\\<br />&lt; [[EEA7403]] Arhitektuurne projekt EIII. Korterelamu\\<br />&lt; [[EEA7402]] Arhitektuurne projekt EII. Tüüpkorterelamu\\<br />&lt; [[EEA7030]] Arhitektuurne projekt III. Restaureerimine ja interjöörid\\<br />&lt; [[EEA7020]] Arhitektuurne projekt II. Olulise linnaehitusliku tähtsusega objekt\\<br />&lt; [[EEA7010]] Arhitektuurne projekt I. Ühiskondlik hoone - saalehitis\\<br />&lt; [[EEA7393]] Arhitektuurne projekt ÜIII. Avaliku kasutusega hoone\\<br />&lt; [[EEA7392]] Arhitektuurne projekt ÜII. Väike ühiskondlik hoone - paviljon\\<br />&lt; [[HHR0012]] Avalik haldus\\<br />&lt; [[EEA7120]] BIM\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[EEA7180]] Ehitusakustika\\<br />&lt; [[EPJ0110]] Ehituse maksumuse hindamine\\<br />&lt; [[EEA0031]] Ehitusfüüsika\\<br />&lt; [[EEK0066]] Ehituskonstruktsioonid arhitektidele, kivi\\<br />&lt; [[EEK0036]] Ehituskonstruktsioonid arhitektidele, metallkonstruktsioonid\\<br />&lt; [[EEK0056]] Ehituskonstruktsioonid arhitektidele, puit\\<br />&lt; [[EEK0026]] Ehituskonstruktsioonid arhitektidele, raudbetoon\\<br />&lt; [[EPM3500]] Ehitusmaterjalid\\<br />&lt; [[EMD0024]] Ehitusmehaanika arhitektidele\\<br />&lt; [[TTO0050]] Ehitusõigus\\<br />&lt; [[EPT0110]] Ehitustehnoloogia\\<br />&lt; [[AAV3351]] Elektervalgustus arhitektidele\\<br />&lt; [[EKK0320]] Energiatõhusus ja sisekliima hoonete planeerimisel\\<br />&lt; [[EEA7360]] Esteetika\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[EEA7440]] Fotograafia\\<br />&lt; [[ETG0013]] Geodeesia õppepraktika\\<br />&lt; [[ETG0010]] Geodeesia põhialused\\<br />&lt; [[EEK0072]] Geotehnika alused\\<br />&lt; [[EEK0090]] Hoonete konstruktsioonid arhitektidele\\<br />&lt; [[EKV0081]] Hoonete tehnovõrgud ja -seadmed\\<br />&lt; [[EEA7160]] Interjöör\\<br />&lt; [[EEA7370]] Interjööri ajalugu\\<br />&lt; [[EEA7301]] Joonistamine I\\<br />&lt; [[EEA7302]] Joonistamine II\\<br />&lt; [[EEA7303]] Joonistamine III\\<br />&lt; [[EEA7304]] Joonistamine IV\\<br />&lt; [[EEA7470]] Joonistamise ja maalipraktika\\<br />&lt; [[EEA7080]] Kaasaegse arhitektuuri ajalugu\\<br />&lt; [[EEA7070]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[EPJ3815]] Kinnisvara haldamine ja kohalik omavalitsus\\<br />&lt; [[EEA7311]] Kompositsioon I\\<br />&lt; [[EEA7312]] Kompositsioon II\\<br />&lt; [[YGK0010]] Kujutav geomeetria\\<br />&lt; [[EEA7380]] Kultuuriajalugu\\<br />&lt; [[EEA7341]] Kunstiajalugu I\\<br />&lt; [[EEA7342]] Kunstiajalugu II\\<br />&lt; [[EEA7412]] Linnaehituse projektide stuudio. Planeerimisprojekt LII. Avaliku ruumi, väljaku planeering\\<br />&lt; [[EEA7411]] Linnaehituse projektide stuudio. Planeerimisprojekt LI. Madaltihe elamukvartal\\<br />&lt; [[EEA7040]] Linnaehituslik planeerimine. Planeerimisprojekt I. Energiatõhus linnakvartal\\<br />&lt; [[EEA7060]] Linnaehituslik planeerimine. Planeerimisprojekt III\\<br />&lt; [[EEA7050]] Linnaehituslik planeerimine. Planeerimisprojekt II. Planeering linna keskuses\\<br />&lt; [[TTS1100]] Linna- ja eluasemesotsioloogia\\<br />&lt; [[TTX1130]] Linna</strong>- <strong class="changes">ja keskkonnapoliitika: juhtumiuuring\\<br />&lt; [[ETT0090]] Linnaliiklus\\<br />&lt; [[EEA7090]] Linnaruumi dimensioonid\\<br />&lt; [[EEA7190]] Loomiskunsti õpetus\\<br />&lt; [[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine\\<br />&lt; [[EEA7321]] Maalimine I\\<br />&lt; [[EEA7322]] Maalimine II\\<br />&lt; [[EEA7420]] Maastiku kujundus\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[EEA7413]] Planeerimisprojekt LIII. Linnaehituslik analüüs, üldplaneering\\<br />&lt; [[EEA7200]] Praktika\\<br />&lt; [[EPJ0040]] Projektijuhtimine ehituses\\<br />&lt; [[EEA7150]] Restaureerimise projekti põhialused\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[EMD0011]] Tehniline mehaanika I\\<br />&lt; [[EMD0013]] Tehniline mehaanika II arhitektidele\\<br />&lt; [[ETV6010]] Transpordiinfrastruktuuri planeerimise alused\\<br />&lt; [[TXX0025]] Uurimistöö\\<br />&lt; [[EEA7460]] Vaatluspraktika\\<br />&lt; [[EEA7330]] Värvusõpetus\\<br />&lt; [[EEA7170]] Vertikaalplaneerimine\\<br />&lt; [[EEA7480]] Vormiõpetus\\<br />&lt; [[EEA7100]] XXI sajandi linnaehituslikud arengusuunad\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "EAUI12</strong>-<strong class="changes">13"&gt;</strong></p></div>
+flags: 01010
+blocks: &lt;include "EAUI12-15"&gt;
+	&lt;include "EAUI12-13"&gt;
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "EAUI12-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885625
+ts: 1438886317
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "EAUI12-13">
+text: <include "EAUI12-15">
+	
+	<include "EAUI12-13">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885625
+keep-ts: 1438886317

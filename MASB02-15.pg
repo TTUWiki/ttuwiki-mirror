@@ -1,0 +1,55 @@
+flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>MASB02/15 - Soojusenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50298&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MHD0072]] Dünaamika<br />[[AME0070]] Elektriahelad ja elektroonika alused<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[MSJ0020]] Hüdrogaasimehaanika<br />[[IDK0092]] Informaatika II (tehnika)<br />[[MSE0160]] Katlatehnika<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK0010]] Kujutav geomeetria<br />[[MSE0011]] Kütused ja põlemisteooria<br />[[MSE0012]] Kütused ja põlemisteooria - praktikum<br />[[YMA3710]] Lineaaralgebra<br />[[MHE0041]] Masinaelemendid I<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MST0023]] Mõõtevahendid soojustehnikas<br />[[MHT0013]] Mõõtmise alused<br />[[UTT0010]] Õpingukorraldus<br />[[MSJ001P]] Praktika<br />[[MER0150]] Raalprojekteerimine<br />[[UTT0040]] Rakendusmatemaatika<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[MSE0340]] Sissejuhatus soojusenergeetikasse<br />[[MST0013]] Soojus- ja massilevi I<br />[[MST0014]] Soojus- ja massilevi II<br />[[MST0130]] Soojusjõuseadmete projekteerimine - projekt<br />[[MSE0045]] Soojusmajandus ja energiatõhusus<br />[[MST0022]] Soojustehnilised mõõtmised - praktikum<br />[[MSE0170]] Soojusvarustussüsteemid<br />[[MHD0071]] Staatika ja kinemaatika<br />[[MST0120]] Taastuvenergiaallikad<br />[[YGK3350]] Tehniline joonestamine<br />[[MTM0010]] Tehnomaterjalid<br />[[MSJ0011]] Termodünaamika I<br />[[MSJ0012]] Termodünaamika II<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
+diff-minor: 
+ts: 1438887103
+minor: 1
+host: 85.253.110.44
+username: Bot
+revision: 2
+diff-major: 
+summary: Автоматическое обновление
+languages: 
+text: == MASB02/15 - Soojusenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50298&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+	[[HLX0020]] Akadeemiline võõrkeel
+	[[MHD0072]] Dünaamika
+	[[AME0070]] Elektriahelad ja elektroonika alused
+	[[TMJ0110]] Ettevõtluse alused
+	[[YFR0012]] Füüsika II
+	[[MSJ0020]] Hüdrogaasimehaanika
+	[[IDK0092]] Informaatika II (tehnika)
+	[[MSE0160]] Katlatehnika
+	[[YKI3030]] Keemia ja materjaliõpetus
+	[[EKE0140]] Keskkonnakaitse ja säästev areng
+	[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia
+	[[YGK0010]] Kujutav geomeetria
+	[[MSE0011]] Kütused ja põlemisteooria
+	[[MSE0012]] Kütused ja põlemisteooria - praktikum
+	[[YMA3710]] Lineaaralgebra
+	[[MHE0041]] Masinaelemendid I
+	[[YMM3731]] Matemaatiline analüüs I
+	[[YMM0012]] Matemaatiline analüüs II
+	[[MST0023]] Mõõtevahendid soojustehnikas
+	[[MHT0013]] Mõõtmise alused
+	[[UTT0010]] Õpingukorraldus
+	[[MSJ001P]] Praktika
+	[[MER0150]] Raalprojekteerimine
+	[[UTT0040]] Rakendusmatemaatika
+	[[TMT3820]] Riski- ja ohutusõpetus
+	[[MSE0340]] Sissejuhatus soojusenergeetikasse
+	[[MST0013]] Soojus- ja massilevi I
+	[[MST0014]] Soojus- ja massilevi II
+	[[MST0130]] Soojusjõuseadmete projekteerimine - projekt
+	[[MSE0045]] Soojusmajandus ja energiatõhusus
+	[[MST0022]] Soojustehnilised mõõtmised - praktikum
+	[[MSE0170]] Soojusvarustussüsteemid
+	[[MHD0071]] Staatika ja kinemaatika
+	[[MST0120]] Taastuvenergiaallikad
+	[[YGK3350]] Tehniline joonestamine
+	[[MTM0010]] Tehnomaterjalid
+	[[MSJ0011]] Termodünaamika I
+	[[MSJ0012]] Termodünaamika II
+	[[MHE0011]] Tugevusõpetus I
+	[[MHE0012]] Tugevusõpetus II
+	
+	
+keep-ts: 1438887103

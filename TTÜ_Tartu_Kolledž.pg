@@ -1,15 +1,18 @@
 flags: 01010101010101010101010101010
-blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[BAAB06]] Maastikuarhitektuur<br />[[MAHB02]] Mehhatroonika<br />[[NAEB06]] Tööstusökoloogia<br />[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[NAAM06]] Maastikuarhitektuur<br />[[NAIM14]] Ruumiline planeerimine<br />[[NAEM06]] Tööstusökoloogia</p><p>[[NAEI13]] Ehitus<br />[[EAKI02]] Keskkonnatehnika<br />[[EATI02]] Teedeehitus ja geodeesia<br />[[EAEI02]] Tööstus- ja tsiviilehitus</p><p>[[NDFR13]] Küber-füüsikaline süsteemitehnika</p>
+blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[NAEB06]] Keskkonnajuhtimine<br />[[BAAB06]] Maastikuarhitektuur<br />[[MAHB02]] Mehhatroonika<br />[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[BAAM06]] Maastikuarhitektuur<br />[[NAIM14]] Ruumiline planeerimine<br />[[NAEM06]] Tööstusökoloogia</p><p>[[NAEI13]] Ehitus<br />[[EAKI02]] Keskkonnatehnika<br />[[EATI02]] Teedeehitus ja geodeesia<br />[[EAEI02]] Tööstus- ja tsiviilehitus</p><p>[[NDFR14]] Küberfüüsikaline süsteemitehnika</p>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[AAVB02]] Elektroenergeetika<br />&gt; [[AAAB02]] Elektrotehnika<br />&gt; [[BAAB06]] Maastikuarhitektuur<br />&gt; [[MAHB02]] Mehhatroonika</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[MATB02]] Tootearendus ja tootmistehnika</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[EAKI02]] Keskkonnatehnika<br />&gt; [[EATI02]] Teedeehitus ja geodeesia<br />&gt; [[EAEI02]] Tööstus- ja tsiviilehitus</p></div>
+	<div class="new"><p>&gt; [[NAEB06]] Keskkonnajuhtimine</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">NAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">BAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">NDFR13</strong>]] <strong class="changes">Küber-füüsikaline</strong> süsteemitehnika</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">NDFR14</strong>]] <strong class="changes">Küberfüüsikaline</strong> süsteemitehnika</p></div>
 ip: 89.235.235.166
-ts: 1408892849
+ts: 1438887187
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 6
+revision: 7
 diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Deleted:</strong></p>
@@ -18,16 +21,16 @@ diff-major: <p><strong>Deleted:</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia\\<br />&lt; [[NAEI13]] Ehitus\\<br />&lt; [[NAEM06]] Tööstusökoloogia\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[NAEM06]] Tööstusökoloogia\\<br />&gt; \\<br />&gt; [[NAEI13]] Ehitus\\<br />&gt; [[EAKI02]] Keskkonnatehnika\\<br />&gt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&gt; [[EATI02]] Transpordiehitus\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
 text: [[AAVB02]] Elektroenergeetika
 	[[AAAB02]] Elektrotehnika
+	[[NAEB06]] Keskkonnajuhtimine
 	[[BAAB06]] Maastikuarhitektuur
 	[[MAHB02]] Mehhatroonika
-	[[NAEB06]] Tööstusökoloogia
 	[[MATB02]] Tootearendus ja tootmistehnika
 	
-	[[NAAM06]] Maastikuarhitektuur
+	[[BAAM06]] Maastikuarhitektuur
 	[[NAIM14]] Ruumiline planeerimine
 	[[NAEM06]] Tööstusökoloogia
 	
@@ -36,9 +39,9 @@ text: [[AAVB02]] Elektroenergeetika
 	[[EATI02]] Teedeehitus ja geodeesia
 	[[EAEI02]] Tööstus- ja tsiviilehitus
 	
-	[[NDFR13]] Küber-füüsikaline süsteemitehnika
+	[[NDFR14]] Küberfüüsikaline süsteemitehnika
 	
 	
 	
 lastmajor: 3
-keep-ts: 1408892849
+keep-ts: 1438887187

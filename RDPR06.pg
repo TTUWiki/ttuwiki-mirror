@@ -1,23 +1,25 @@
-flags: 01010
-blocks: &lt;include "RDPR06-09"&gt;
+flags: 0101010
+blocks: &lt;include "RDPR06-15"&gt;
+	&lt;include "RDPR06-09"&gt;
 	&lt;include "RDPR06-06"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== RDPR06/09 - Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50038&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[RAR2410]] Alajaamad\\<br />&lt; [[RAR1230]] Automaatika alused\\<br />&lt; [[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\<br />&lt; [[RAR2360]] Elektervalgustus\\<br />&lt; [[RAR2340]] Elektriajamite üldkursus\\<br />&lt; [[RAR2490]] Elektriaparaadid\\<br />&lt; [[RAR2380]] Elektrijaamad\\<br />&lt; [[RAR2350]] Elektrimasinad\\<br />&lt; [[RAR2500]] Elektrivarustus\\<br />&lt; [[RAR2390]] Elektrivõrgud\\<br />&lt; [[RAR2430]] Elektroonika ja jõupooljuhttehnika\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAR2460]] Energiasüsteemid\\<br />&lt; [[RAR2370]] Energiasüsteemide ökonoomika\\<br />&lt; [[RAX0511]] Erialane võõrkeel I\\<br />&lt; [[RAX0512]] Erialane võõrkeel II\\<br />&lt; [[RAR2513]] Erialapraktika I\\<br />&lt; [[RAR2514]] Erialapraktika II\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAR2320]] Geoloogia alused\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR1220]] Jõuelektroonika\\<br />&lt; [[RAR2400]] Keskkonnageoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAH0450]] Keskkonnakaitse mäetööstuses\\<br />&lt; [[RAR2470]] Kõrgepingeseadmed\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR3210]] Mikroprotsessortehnika\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR2800]] Õpingukorraldus\\<br />&lt; [[RAR2511]] Õppepraktika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR2110]] Riski- ja ohutusõpetus\\<br />&lt; [[RAR2310]] Sissejuhatus energiatehnikasse\\<br />&lt; [[RAR2440]] Soojusgeneraatorid\\<br />&lt; [[RAR2330]] Soojusjõuseadmed\\<br />&lt; [[RAR2450]] Soojusmajandus\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR2420]] Tehnoloogia ja ajamid\\<br />&lt; [[RAR2512]] Töökeskkonna praktika\\<br />&lt; [[RAX0480]] Üldvõõrkeel\\<br />&lt; [[RAH0740]] Väljendusõpetus\\<br />&lt; ===</strong> RDPR06<strong class="changes">/06</strong> - <strong class="changes">Energiatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=3983&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[RAR2410]] Alajaamad\\<br />&lt; [[RAR1230]] Automaatika alused\\<br />&lt; [[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus\\<br />&lt; [[RAR2360]] Elektervalgustus\\<br />&lt; [[RAR2340]] Elektriajamite üldkursus\\<br />&lt; [[RAR2490]] Elektriaparaadid\\<br />&lt; [[RAR2380]] Elektrijaamad\\<br />&lt; [[RAR2350]] Elektrimasinad\\<br />&lt; [[RAR2500]] Elektrivarustus\\<br />&lt; [[RAR2390]] Elektrivõrgud\\<br />&lt; [[RAR2430]] Elektroonika ja jõupooljuhttehnika\\<br />&lt; [[RAR3130]] Elektrotehnika\\<br />&lt; [[RAR2460]] Energiasüsteemid\\<br />&lt; [[RAR2370]] Energiasüsteemide ökonoomika\\<br />&lt; [[RAX0511]] Erialane võõrkeel I\\<br />&lt; [[RAX0512]] Erialane võõrkeel II\\<br />&lt; [[RAR2513]] Erialapraktika I\\<br />&lt; [[RAR2514]] Erialapraktika II\\<br />&lt; [[RAR0200]] Ettevõtte majandusõpetus\\<br />&lt; [[RAR2320]] Geoloogia alused\\<br />&lt; [[RAR3111]] Informaatika I\\<br />&lt; [[RAR1220]] Jõuelektroonika\\<br />&lt; [[RAR2400]] Keskkonnageoloogia\\<br />&lt; [[RAH3170]] Keskkonnakaitse\\<br />&lt; [[RAH0450]] Keskkonnakaitse mäetööstuses\\<br />&lt; [[RAR2470]] Kõrgepingeseadmed\\<br />&lt; [[RAR3050]] Lineaaralgebra\\<br />&lt; [[RAR3270]] Makro- ja mikroökonoomika\\<br />&lt; [[RAR0590]] Masinatehnika\\<br />&lt; [[RAR3061]] Matemaatiline analüüs I\\<br />&lt; [[RAR3210]] Mikroprotsessortehnika\\<br />&lt; [[RAH3140]] Õigusõpetus\\<br />&lt; [[RAR0010]] Õpingukorraldus\\<br />&lt; [[RAR2511]] Õppepraktika\\<br />&lt; [[RAR0540]] Rakendusmatemaatika\\<br />&lt; [[RAR2110]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[RAR2310]] Sissejuhatus energiatehnikasse\\<br />&lt; [[RAR2440]] Soojusgeneraatorid\\<br />&lt; [[RAR2330]] Soojusjõuseadmed\\<br />&lt; [[RAR2450]] Soojusmajandus\\<br />&lt; [[RAR3090]] Soojustehnika\\<br />&lt; [[RAR2480]] Soojustehnilised mõõtmised ja automaatika\\<br />&lt; [[RAH0020]] Suuline eneseväljendus\\<br />&lt; [[RAR0461]] Tehniline füüsika I\\<br />&lt; [[RAR0462]] Tehniline füüsika II\\<br />&lt; [[RAR2420]] Tehnoloogia ja ajamid\\<br />&lt; [[RAR2512]] Töökeskkonna praktika\\<br />&lt; [[RAX0480]] Üldvõõrkeel\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>RDPR06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "RDPR06</strong>-<strong class="changes">06"&gt;</strong></p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "RDPR06-15"&gt;</p></div>
 ip: 89.235.235.166
-ts: 1408885830
+ts: 1438887137
 minor: 1
-host: 89.235.223.25
+host: 85.253.110.44
 username: Bot
-revision: 2
+revision: 3
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: Автоматическое обновление
 languages: 
-text: <include "RDPR06-09">
+text: <include "RDPR06-15">
+	
+	<include "RDPR06-09">
 	
 	<include "RDPR06-06">
 	
 	
 	
 lastmajor: 1
-keep-ts: 1408885830
+keep-ts: 1438887137
