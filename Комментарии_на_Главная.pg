@@ -1,20 +1,19 @@
-flags: 01010100
-blocks: <p><div class="userComment">Здесь можно обсуждать весь сайт :)</p><p>&#x2013; AlexDaniel 2014-02-25 14:59 UTC</p></div><div class="userComment"><p>Это ВикиДвижок или это самосборка сайта такая?</p><p>&#x2013; Misha 2014-02-25 15:08 UTC</p></div><div class="userComment"><p>Скорее что-то среднее между этими двумя вариантами :)<br />Движок OddMuse, который, например, используется на <a class="url http" href="http://www.emacswiki.org/">http://www.emacswiki.org/</a></p><p>&#x2013; AlexDaniel 2014-02-25 16:06 UTC</p></div>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Движок OddMuse, который используется на http://www.emacswiki.org/</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Движок OddMuse, который<strong class="changes">, например,</strong> используется на http://www.emacswiki.org/</p></div>
+flags: 0101010100
+blocks: <p><div class="userComment">DeletedPage</p><p>Здесь можно обсуждать весь сайт :)</p><p>&#x2013; AlexDaniel 2014-02-25 14:59 UTC</p></div><div class="userComment"><p>Это ВикиДвижок или это самосборка сайта такая?</p><p>&#x2013; Misha 2014-02-25 15:08 UTC</p></div><div class="userComment"><p>Скорее что-то среднее между этими двумя вариантами :)<br />Движок OddMuse, который, например, используется на <a class="url http" href="http://www.emacswiki.org/">http://www.emacswiki.org/</a></p><p>&#x2013; AlexDaniel 2014-02-25 16:06 UTC</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
 ip: 84.52.48.194
-ts: 1393344433
-minor: 1
-host: sa-84-52-48-194.saturn.infonet.ee
+ts: 1439991419
+minor: 
+host: 85.253.110.118
 username: AlexDaniel
-revision: 6
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Скорее что-то среднее между этими двумя вариантами :)<br />&gt; Движок OddMuse, который используется на http://www.emacswiki.org/<br />&gt; -- AlexDaniel 2014-02-25 16:06 UTC</p></div>
-summary: Скорее что-то среднее между этими двумя вариантами :) Движок OddMuse, который используется на http://www.emacswiki.org/
+revision: 7
+diff-major: 1
+summary: перенесено
 languages: 
-text: Здесь можно обсуждать весь сайт :)
+text: DeletedPage
+	
+	Здесь можно обсуждать весь сайт :)
 	
 	-- AlexDaniel 2014-02-25 14:59 UTC
 	
@@ -34,5 +33,5 @@ text: Здесь можно обсуждать весь сайт :)
 	-- AlexDaniel 2014-02-25 16:06 UTC
 	
 	
-lastmajor: 5
-keep-ts: 1393344433
+lastmajor: 7
+keep-ts: 1439991419
