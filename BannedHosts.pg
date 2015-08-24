@@ -32,17 +32,19 @@ blocks: <pre>^216\.152\.251\.72
 	^37\.59\.32\.148 # 2014-10-20 ISS0010
 	^62\.210\.[0-9]+\.[0-9]+ # 2014-10-20 ISS0010
 	^65\.49\.14\.147 # 2014-10-20 ISS0010
-	^94\.23\.251\.211 # 2014-10-20 ISS0010</pre>
-diff-minor: <p><strong>Changed:</strong></p>
+	^94\.23\.251\.211 # 2014-10-20 ISS0010
+	^188\.143\.232\.35 # 2015-08-24 ISS0010</pre>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ^188\.143\.232\.35 # 2015-08-24 ISS0010</p></div>
+ip: 84.52.48.17
+ts: 1440436657
+minor: 1
+host: 82.131.83.221
+username: AlexDaniel
+revision: 43
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; ^62\.210<strong class="changes">\.122\.209 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.142\.7 # 2014</strong>-<strong class="changes">10-20 ISS0010<br />&lt; ^62\.210\.152\.149 # 2014-10</strong>-<strong class="changes">20 ISS0010<br />&lt; ^62\.210\.167\.213 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.78\.209 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.91\.168</strong> # 2014-10-20 ISS0010</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; ^62\.210<strong class="changes">\.[0</strong>-<strong class="changes">9]+\.[0</strong>-<strong class="changes">9]+</strong> # 2014-10-20 ISS0010</p></div>
-ip: 84.52.48.17
-ts: 1413838266
-minor: 
-host: 84.52.48.25
-username: AlexDaniel
-revision: 42
-diff-major: 1
 summary: ISS0010
 languages: 
 text: ^216\.152\.251\.72
@@ -79,6 +81,7 @@ text: ^216\.152\.251\.72
 	^62\.210\.[0-9]+\.[0-9]+ # 2014-10-20 ISS0010
 	^65\.49\.14\.147 # 2014-10-20 ISS0010
 	^94\.23\.251\.211 # 2014-10-20 ISS0010
+	^188\.143\.232\.35 # 2015-08-24 ISS0010
 	
 lastmajor: 42
-keep-ts: 1413838266
+keep-ts: 1440436657
