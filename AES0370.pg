@@ -1,22 +1,26 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Hajatootmise ühendamine elektrivõrguga <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>106072<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Hajatootmise ühendamine elektrivõrguga<br />&gt; <strong class="changes">#SUBURL: Course:</strong>106072</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Esimene loeng sügisel 2015 toimub  31. Augustil kell  17:45-19:15 ruumis U05-104</p><p>&#x2013; Аноним 2015-08-31 15:03:52</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Esimene loeng sügisel 2015 toimub  31. Augustil kell  17:45-19:15 ruumis U05-104<br />&gt; -- Аноним 2015-08-31 15:03:52</p></div>
 ip: 89.235.235.166
-ts: 1408845900
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Hajatootmise ühendamine elektrivõrguga</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Hajatootmise ühendamine elektrivõrguga <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=106072&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1441022632
+minor: 
+host: 193.40.244.196
+username: 
+revision: 4
+diff-major: 1
+summary: Esimene loeng sügisel 2015 toimub  31. Augustil kell  17:45-19:15 ruumis U05-104
 languages: 
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL: Course:106072
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408845900
+	----
+	
+	Esimene loeng sügisel 2015 toimub  31. Augustil kell  17:45-19:15 ruumis U05-104
+	
+	-- Аноним 2015-08-31 15:03:52
+	
+	
+lastmajor: 4
+keep-ts: 1441022632
