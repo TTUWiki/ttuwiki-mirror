@@ -1,20 +1,20 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <p><strong>Расписания в картинках здесь: [[Расписания в PNG (заочное)]]</strong><br /><strong>Обычные расписания (стационарное) здесь: [[Расписания]]</strong></p><p>Последний раз обновлено: <strong>2015-08-31</strong><code></code><br /></p><h2>A-energeetikateaduskond</h2><p><code>[TiK:37818 AAAB10] [TiK:37300 AAAB30] [TiK:37289 AAAB50] [TiK:37299 AAAB70] [TiK:37846 AAVB10] [TiK:37167 AAVB30] [TiK:37156 AAVB50] [TiK:37166 AAVB70] </code><br /></p><h2>E-ehitusteaduskond</h2><p><code>[TiK:37270 EAEI110] [TiK:37250 EAEI70] [TiK:37269 EAEI90] </code><br /></p><h2>H-sotsiaalteaduskond</h2><p><code>[TiK:38623 HAJB10] [TiK:38408 HAJM10] [TiK:37222 HAJM30] [TiK:38549 HAKB10] [TiK:37708 HAKB30] [TiK:36729 HAKB50] [TiK:38577 HAPM10] [TiK:37643 HAPM30] </code><br /></p><h2>I-infotehnoloogia teaduskond</h2><p><code>[TiK:37671 IABB50] [TiK:37118 IABB70] [TiK:38530 IABM10] [TiK:37718 IABM30] [TiK:37137 IABM50] [TiK:37046 IASB50] [TiK:37056 IASB70] </code><br /></p><h2>M-mehaanikateaduskond</h2><p><code>[TiK:38243 MATM10] [TiK:36775 MATM30] </code><br /></p><h2>R-TTÜ Virumaa Kolledž</h2><p><code>[TiK:39321 RDBR13] [TiK:39310 RDBR14] [TiK:39065 RDBR53] [TiK:39085 RDBR94] [TiK:39320 RDDR14] [TiK:39279 RDER13] [TiK:39280 RDER14] [TiK:39199 RDER33] [TiK:39322 RDER34] [TiK:39219 RDER74] [TiK:39229 RDIR33] [TiK:39001 RDIR34] [TiK:39249 RDIR74] [TiK:39290 RDKR14] [TiK:39116 RDKR54] [TiK:39136 RDKR94] [TiK:39158 RDPR33] [TiK:39002 RDPR34] [TiK:39178 RDPR74] </code><br /></p><h2>T-majandusteaduskond</h2><p><code>[TiK:37084 TABBK71] [TiK:37085 TABBK72] [TiK:37086 TABBK73] [TiK:37087 TABBK74] </code></p>
+blocks: <p><strong>Расписания в картинках здесь: [[Расписания в PNG (заочное)]]</strong><br /><strong>Обычные расписания (стационарное) здесь: [[Расписания]]</strong></p><p>Последний раз обновлено: <strong>2015-09-01</strong><code></code><br /></p><h2>A-energeetikateaduskond</h2><p><code>[TiK:37818 AAAB10] [TiK:37300 AAAB30] [TiK:37289 AAAB50] [TiK:37299 AAAB70] [TiK:37846 AAVB10] [TiK:37167 AAVB30] [TiK:37156 AAVB50] [TiK:37166 AAVB70] </code><br /></p><h2>E-ehitusteaduskond</h2><p><code>[TiK:37270 EAEI110] [TiK:37250 EAEI70] [TiK:37269 EAEI90] </code><br /></p><h2>H-sotsiaalteaduskond</h2><p><code>[TiK:38623 HAJB10] [TiK:38408 HAJM10] [TiK:37222 HAJM30] [TiK:38549 HAKB10] [TiK:37708 HAKB30] [TiK:36729 HAKB50] [TiK:38577 HAPM10] [TiK:37643 HAPM30] </code><br /></p><h2>I-infotehnoloogia teaduskond</h2><p><code>[TiK:37671 IABB50] [TiK:37118 IABB70] [TiK:38530 IABM10] [TiK:37718 IABM30] [TiK:37137 IABM50] [TiK:37046 IASB50] [TiK:37056 IASB70] </code><br /></p><h2>M-mehaanikateaduskond</h2><p><code>[TiK:38243 MATM10] [TiK:36775 MATM30] </code><br /></p><h2>R-TTÜ Virumaa Kolledž</h2><p><code>[TiK:39321 RDBR13] [TiK:39310 RDBR14] [TiK:39065 RDBR53] [TiK:39085 RDBR94] [TiK:39320 RDDR14] [TiK:39279 RDER13] [TiK:39280 RDER14] [TiK:39199 RDER33] [TiK:39322 RDER34] [TiK:39219 RDER74] [TiK:39229 RDIR33] [TiK:39001 RDIR34] [TiK:39249 RDIR74] [TiK:39290 RDKR14] [TiK:39116 RDKR54] [TiK:39136 RDKR94] [TiK:39158 RDPR33] [TiK:39002 RDPR34] [TiK:39178 RDPR74] </code><br /></p><h2>T-majandusteaduskond</h2><p><code>[TiK:37084 TABBK71] [TiK:37085 TABBK72] [TiK:37086 TABBK73] [TiK:37087 TABBK74] </code></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Последний раз обновлено: **2015-08-<strong class="changes">26</strong>**####</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Последний раз обновлено: **2015-08-<strong class="changes">31</strong>**####</p></div>
-ts: 1440973133
+	<div class="old"><p>&lt; Последний раз обновлено: **2015-<strong class="changes">08</strong>-<strong class="changes">31</strong>**####</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Последний раз обновлено: **2015-<strong class="changes">09</strong>-<strong class="changes">01</strong>**####</p></div>
+ts: 1441132758
 minor: 
-host: 82.131.0.18
+host: 82.131.7.230
 username: Bot
-revision: 11
+revision: 12
 diff-major: 1
 summary: Автоматическое обновление
 languages: 
 text: **Расписания в картинках здесь: [[Расписания в PNG (заочное)]]**
 	**Обычные расписания (стационарное) здесь: [[Расписания]]**
 	
-	Последний раз обновлено: **2015-08-31**####
+	Последний раз обновлено: **2015-09-01**####
 	== A-energeetikateaduskond
 	##[TiK:37818 AAAB10] [TiK:37300 AAAB30] [TiK:37289 AAAB50] [TiK:37299 AAAB70] [TiK:37846 AAVB10] [TiK:37167 AAVB30] [TiK:37156 AAVB50] [TiK:37166 AAVB70] ##
 	== E-ehitusteaduskond
@@ -31,5 +31,5 @@ text: **Расписания в картинках здесь: [[Расписа�
 	##[TiK:37084 TABBK71] [TiK:37085 TABBK72] [TiK:37086 TABBK73] [TiK:37087 TABBK74] ##
 	
 	
-lastmajor: 11
-keep-ts: 1440973133
+lastmajor: 12
+keep-ts: 1441132758
