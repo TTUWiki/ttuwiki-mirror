@@ -1,22 +1,27 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Loogiline programmeerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100803<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Loogiline programmeerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100803</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http" href="https://courses.cs.ttu.ee/pages/ITI0021">https://courses.cs.ttu.ee/pages/ITI0021</a></li><li><a class="url http" href="https://moodle.hitsa.ee/enrol/index.php?id=5901">https://moodle.hitsa.ee/enrol/index.php?id=5901</a></li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; * https://courses.cs.ttu.ee/pages/ITI0021<br />&gt; * https://moodle.hitsa.ee/enrol/index.php?id=5901<br />&gt; -- AlexDaniel 2015-09-03 10:51:12</p></div>
 ip: 89.235.235.166
-ts: 1408847799
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Loogiline programmeerimine</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Loogiline programmeerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100803&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1441266672
+minor: 
+host: 213.168.4.167
+username: AlexDaniel
+revision: 4
+diff-major: 1
+summary: * https://courses.cs.ttu.ee/pages/ITI0021 * https://moodle.hitsa.ee/enrol/index.php?id=5901
 languages: 
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL: Course:100803
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408847799
+	----
+	
+	* https://courses.cs.ttu.ee/pages/ITI0021
+	* https://moodle.hitsa.ee/enrol/index.php?id=5901
+	
+	-- AlexDaniel 2015-09-03 10:51:12
+	
+	
+lastmajor: 4
+keep-ts: 1441266672
