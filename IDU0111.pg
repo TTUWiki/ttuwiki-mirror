@@ -1,15 +1,15 @@
-flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>О предмете (требования, учебный план)</p><p><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx</a></p><p>&#x2013; MaryBoom 2015-08-06 17:17:06</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>О предмете (требования, учебный план)</p><p><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx</a></p><p>&#x2013; MaryBoom 2015-08-06 17:17:06</p></div><div class="userComment"><p>Все материалы: <a class="url http" href="http://cloud.ld.ttu.ee/idu0111/">http://cloud.ld.ttu.ee/idu0111/</a></p><p>&#x2013; AlexDaniel 2015-09-03 14:07:24</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; О предмете (требования, учебный план)<br />&gt; http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx<br />&gt; -- MaryBoom 2015-08-06 17:17:06</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; Все материалы: http://cloud.ld.ttu.ee/idu0111/<br />&gt; -- AlexDaniel 2015-09-03 14:07:24</p></div>
 ip: 89.235.235.166
-ts: 1438870626
+ts: 1441278444
 minor: 
-host: 85.253.110.44
-username: MaryBoom
-revision: 4
+host: 193.40.244.196
+username: AlexDaniel
+revision: 5
 diff-major: 1
-summary: О предмете (требования, учебный план) http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
+summary: Все материалы: http://cloud.ld.ttu.ee/idu0111/
 languages: 
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL: Course:105065
@@ -24,5 +24,12 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	-- MaryBoom 2015-08-06 17:17:06
 	
 	
-lastmajor: 4
-keep-ts: 1438870626
+	----
+	
+	Все материалы: http://cloud.ld.ttu.ee/idu0111/
+	
+	-- AlexDaniel 2015-09-03 14:07:24
+	
+	
+lastmajor: 5
+keep-ts: 1441278444
