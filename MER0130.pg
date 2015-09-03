@@ -1,19 +1,19 @@
 flags: 010
-blocks: <h2>Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100353&amp;p_public=1&amp;p_mode=1]</h2><p>Материалов нет.</p>
+blocks: <h2>Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100353&amp;p_public=1&amp;p_mode=1]</h2><p><a class="url http outside" href="http://staff.ttu.ee/~jmajak/optimeerimine.html">Õppematerjalid</a></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Ветер веет с юга....</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Материалов нет.</strong></p></div>
+	<div class="old"><p>&lt; <strong class="changes">Материалов нет</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[http://staff</strong>.<strong class="changes">ttu.ee/~jmajak/optimeerimine.html Õppematerjalid]</strong></p></div>
 ip: 89.235.235.166
-ts: 1422011837
+ts: 1441266145
 minor: 
-host: 77.233.95.115
+host: 86.110.37.246
 username: 
-revision: 5
+revision: 6
 diff-major: 1
 summary: 
 languages: 
 text: ==Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=100353&p_public=1&p_mode=1]
-	Материалов нет.
+	[http://staff.ttu.ee/~jmajak/optimeerimine.html Õppematerjalid]
 	
-lastmajor: 5
-keep-ts: 1422011837
+lastmajor: 6
+keep-ts: 1441266145
