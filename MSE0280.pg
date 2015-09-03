@@ -1,22 +1,26 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Hajaenergeetika planeerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>106023<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Hajaenergeetika planeerimine<br />&gt; <strong class="changes">#SUBURL: Course:</strong>106023</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Õppematerjalid asuvad: <a class="url http" href="http://velar.ee/mse0280-hajaenergeetika-planeerimine/">http://velar.ee/mse0280-hajaenergeetika-planeerimine/</a></p><p>&#x2013; Аноним 2015-09-03 09:20:16</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Õppematerjalid asuvad: http://velar.ee/mse0280-hajaenergeetika-planeerimine/<br />&gt; -- Аноним 2015-09-03 09:20:16</p></div>
 ip: 89.235.235.166
-ts: 1408848352
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Hajaenergeetika planeerimine</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Hajaenergeetika planeerimine <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=106023&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1441261216
+minor: 
+host: 86.110.37.246
+username: 
+revision: 4
+diff-major: 1
+summary: Õppematerjalid asuvad: http://velar.ee/mse0280-hajaenergeetika-planeerimine/
 languages: 
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL: Course:106023
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1408848352
+	----
+	
+	Õppematerjalid asuvad: http://velar.ee/mse0280-hajaenergeetika-planeerimine/
+	
+	-- Аноним 2015-09-03 09:20:16
+	
+	
+lastmajor: 4
+keep-ts: 1441261216
