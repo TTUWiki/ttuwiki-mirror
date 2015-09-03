@@ -1,13 +1,19 @@
 flags: 0
-blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni.</p>
-ts: 1441281012
-minor: 1
+blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. <strong class="changes">Samuti võite mulle kirjutada: **alex.jakimenko+ttuwiki@gmail.com**.</strong></p></div>
+ts: 1441282625
+minor: 
 host: 193.40.244.196
 username: AlexDaniel
-revision: 1
+revision: 2
+diff-major: 1
 summary: Tere tulemast mitteametlikku TTÜ wikisse
 languages: 
 text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).
 	
-	Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni.
+	Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: **alex.jakimenko+ttuwiki@gmail.com**.
 	
+lastmajor: 2
+keep-ts: 1441282625
