@@ -1,15 +1,15 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http" href="https://courses.cs.ttu.ee/pages/ITI0021">https://courses.cs.ttu.ee/pages/ITI0021</a></li><li><a class="url http" href="https://moodle.hitsa.ee/enrol/index.php?id=5901">https://moodle.hitsa.ee/enrol/index.php?id=5901</a></li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http" href="https://courses.cs.ttu.ee/pages/ITI0021">https://courses.cs.ttu.ee/pages/ITI0021</a></li><li><a class="url http" href="https://moodle.hitsa.ee/enrol/index.php?id=5901">https://moodle.hitsa.ee/enrol/index.php?id=5901</a></li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div><div class="userComment"><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>&#x2013; AlexDaniel 2015-09-03 14:02:26</p></div>
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; * https://courses.cs.ttu.ee/pages/ITI0021<br />&gt; * https://moodle.hitsa.ee/enrol/index.php?id=5901<br />&gt; -- AlexDaniel 2015-09-03 10:51:12</p></div>
+	<div class="new"><p>&gt; ----<br />&gt; На первой лекции просто болтовня про правила игры, через 50 минут отпускает.<br />&gt; -- AlexDaniel 2015-09-03 14:02:26</p></div>
 ip: 89.235.235.166
-ts: 1441266672
+ts: 1441278146
 minor: 
-host: 213.168.4.167
+host: 193.40.244.196
 username: AlexDaniel
-revision: 4
+revision: 5
 diff-major: 1
-summary: * https://courses.cs.ttu.ee/pages/ITI0021 * https://moodle.hitsa.ee/enrol/index.php?id=5901
+summary: На первой лекции просто болтовня про правила игры, через 50 минут отпускает.
 languages: 
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL: Course:100803
@@ -23,5 +23,12 @@ text: #SUBTITLE Loogiline programmeerimine
 	-- AlexDaniel 2015-09-03 10:51:12
 	
 	
-lastmajor: 4
-keep-ts: 1441266672
+	----
+	
+	На первой лекции просто болтовня про правила игры, через 50 минут отпускает.
+	
+	-- AlexDaniel 2015-09-03 14:02:26
+	
+	
+lastmajor: 5
+keep-ts: 1441278146
