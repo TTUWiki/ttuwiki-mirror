@@ -1,22 +1,20 @@
 flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <p>Õppematerjal asub: <a class="url http" href="http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf">http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf</a></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Tuumareaktorid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100950<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Tuumareaktorid<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100950</p></div>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Õppematerjal asub: http://www</strong>.<strong class="changes">ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf</strong></p></div>
 ip: 89.235.235.166
-ts: 1408848373
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Tuumareaktorid</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Tuumareaktorid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=100950&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+ts: 1441262112
+minor: 
+host: 86.110.37.246
+username: 
+revision: 4
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Tuumareaktorid
 	#SUBURL: Course:100950
-	Эта страница пуста, здесь не хватает твоих полезных советов.
+	Õppematerjal asub: http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf
 	
-lastmajor: 2
-keep-ts: 1408848373
+lastmajor: 4
+keep-ts: 1441262112
