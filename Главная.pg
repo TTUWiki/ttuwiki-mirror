@@ -760,18 +760,20 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
 	</select> <input type="submit" name="" value="Сравнить" /></form><br /><br /></p><h2>Вопросы</h2><p>[[Задать вопрос]]<br /></p>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
-	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^Новость_\d+"&gt;
+	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^(Новость|Uudis)_\d+"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &lt;Journal 2,10 <strong class="changes">"^Новость_</strong>\d+"&gt;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &lt;Journal 2,10 <strong class="changes">"^(Новость|Uudis)_</strong>\d+"&gt;</p></div>
+ip: 89.235.239.240
+ts: 1441280824
+minor: 1
+host: 193.40.244.196
+username: AlexDaniel
+revision: 33
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета<strong class="changes">!</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета <strong class="changes">(сайт, который все могут редактировать)!</strong></p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; == Eestikeelne info<br />&gt; **Kui soovite näha eestikeelset versiooni, palun lugege [[Uudis 5]].**</p></div>
-ip: 89.235.239.240
-ts: 1441280521
-minor: 
-host: 193.40.244.196
-username: AlexDaniel
-revision: 32
-diff-major: 1
 summary: Kui soovite näha eestikeelset versiooni, palun lugege Uudis 5
 languages: 
 text: Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
@@ -797,7 +799,7 @@ text: Добро пожаловать на неофициальную русск
 	[[Задать вопрос]]
 	
 	== Новости
-	<Journal 2,10 "^Новость_\d+">
+	<Journal 2,10 "^(Новость|Uudis)_\d+">
 	
 lastmajor: 32
-keep-ts: 1441280521
+keep-ts: 1441280824
