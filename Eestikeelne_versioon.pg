@@ -1,14 +1,16 @@
 flags: 00
-blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere,</p><p>Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.</p><p>Parmat,<br />Erik</p><p>&#x2013; Аноним 2015-09-04 11:49:32</p></div>
-diff-minor: <p><strong>Added:</strong></p>
+blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere,</p><p>Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.</p><p>Parmat,</p><p>&#x2013; Erik 2015-09-04 11:49:32</p></div>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Erik</strong><br />&lt; -- <strong class="changes">Аноним</strong> 2015-09-04 11:49:32</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; -- <strong class="changes">Erik</strong> 2015-09-04 11:49:32</p></div>
+ts: 1441365694
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Tere,<br />&gt; Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.<br />&gt; Parmat,<br />&gt; Erik<br />&gt; -- Аноним 2015-09-04 11:49:32</p></div>
-ts: 1441356572
-minor: 
-host: 213.219.109.18
-username: 
-revision: 3
-diff-major: 1
-summary: Tere, Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne. Parmat, Erik
+summary: Аноним -> Erik
 languages: 
 text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).
 	
@@ -21,10 +23,9 @@ text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle
 	Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.
 	
 	Parmat,
-	Erik
 	
-	-- Аноним 2015-09-04 11:49:32
+	-- Erik 2015-09-04 11:49:32
 	
 	
 lastmajor: 3
-keep-ts: 1441356572
+keep-ts: 1441365694
