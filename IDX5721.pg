@@ -1,15 +1,17 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>В мудле курс называется <strong>ID_2015 Software quality (Tarkvara kvaliteet)</strong>, пароля нет.</p><p>&#x2013; AlexDaniel 2015-09-02 09:09:50</p></div><div class="userComment"><p>Вместо старого <a class="url http" href="https://hitsa.moodle.ee/">https://hitsa.moodle.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>&#x2013; AlexDaniel 2015-09-04 22:35:18</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Вместо старого https://hitsa.moodle.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.<br />&gt; -- AlexDaniel 2015-09-04 22:35:18</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>В мудле курс называется <strong>ID_2015 Software quality (Tarkvara kvaliteet)</strong>, пароля нет.</p><p>&#x2013; AlexDaniel 2015-09-02 09:09:50</p></div><div class="userComment"><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>&#x2013; AlexDaniel 2015-09-04 22:35:18</p></div>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Вместо старого https://<strong class="changes">hitsa.</strong>moodle.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Вместо старого https://moodle.<strong class="changes">hitsa.</strong>ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.</p></div>
 ip: 89.235.235.166
-ts: 1441395318
-minor: 
+ts: 1441395351
+minor: 1
 host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: 1
-summary: Вместо старого https://hitsa.moodle.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить . . .
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Вместо старого https://hitsa.moodle.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.<br />&gt; -- AlexDaniel 2015-09-04 22:35:18</p></div>
+summary: fixed link
 languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL: Course:26827
@@ -24,10 +26,10 @@ text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	
 	----
 	
-	Вместо старого https://hitsa.moodle.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.
+	Вместо старого https://moodle.hitsa.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.
 	
 	-- AlexDaniel 2015-09-04 22:35:18
 	
 	
 lastmajor: 5
-keep-ts: 1441395318
+keep-ts: 1441395351
