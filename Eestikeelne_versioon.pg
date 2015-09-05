@@ -1,16 +1,14 @@
 flags: 00
-blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere,</p><p>Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.</p><p>Parimat,</p><p>&#x2013; Erik 2015-09-04 11:49:32</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Parmat</strong>,</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Parimat</strong>,</p></div>
-ts: 1441365752
-minor: 1
+blocks: <p>Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).</p><p>Hetkel on see veebileht ainult venekeelne. Kui teil on soovi teha muudatusi eesti keeles, jätke siia kommentaar ja ma teen eestikeelse versiooni. Samuti võite mulle kirjutada: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere,</p><p>Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.</p><p>Parimat,</p><p>&#x2013; Erik 2015-09-04 11:49:32</p></div><div class="userComment"><p>Aitäh kommentaari eest, Erik!</p><p>Jah, ilmselt peab ka eestikeelse versiooni tegema.<br />Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna ma üksi ei jõua mitmes keeles teksti lisada (eriti arvestades sellega, et eestikeelse teksti lisamine võtab mul palju rohkem aega), ei näinud mõtet teha eestikeelset versiooni.</p><p>Arvan, et hakkan eestikeelse versiooniga tegelema järgmise nädala lõpus. Aga sellega seoses tekib mitut küsimust. Näiteks, kui eesti lehel puudub informatsioon, aga venekeelsel on olemas, kas kasutaja peaks siis venekeelset infot nägema?</p><p>Kui rääkida sellest, et info erinevates keeltes on täiesti eraldatud (näiteks nagu Wikipeedias), siis asi on selge. Aga ma usun, et see ei ole parim variant.</p><p>Mul oleks hea meel kuulda, kuidas võiks see asi kasutajate jaoks välja näha.</p><p>&#x2013; AlexDaniel 2015-09-05 17:33:01</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Aitäh kommentaari eest, Erik!<br />&gt; Jah, ilmselt peab ka eestikeelse versiooni tegema.<br />&gt; Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna ma üksi ei jõua mitmes keeles teksti lisada (eriti arvestades sellega, et eestikeelse teksti lisamine võtab mul palju rohkem aega), ei näinud mõtet teha eestikeelset versiooni.<br />&gt; Arvan, et hakkan eestikeelse versiooniga tegelema järgmise nädala lõpus. Aga sellega seoses tekib mitut küsimust. Näiteks, kui eesti lehel puudub informatsioon, aga venekeelsel on olemas, kas kasutaja peaks siis venekeelset infot nägema?<br />&gt; Kui rääkida sellest, et info erinevates keeltes on täiesti eraldatud (näiteks nagu Wikipeedias), siis asi on selge. Aga ma usun, et see ei ole parim variant.<br />&gt; Mul oleks hea meel kuulda, kuidas võiks see asi kasutajate jaoks välja näha.<br />&gt; -- AlexDaniel 2015-09-05 17:33:01</p></div>
+ts: 1441463581
+minor: 
 host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Tere,<br />&gt; Ilmselt oleks Teie sait tunduvalt edukam ning kasulikum, kui see oleks eesti- või inglisekeelne.<br />&gt; Parmat,<br />&gt; Erik<br />&gt; -- Аноним 2015-09-04 11:49:32</p></div>
-summary: Parmat -> Parimat
+revision: 6
+diff-major: 1
+summary: Aitäh kommentaari eest, Erik! Jah, ilmselt peab ka eestikeelse versiooni tegema. Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna . . .
 languages: 
 text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta).
 	
@@ -27,5 +25,21 @@ text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle
 	-- Erik 2015-09-04 11:49:32
 	
 	
-lastmajor: 3
-keep-ts: 1441365752
+	----
+	
+	Aitäh kommentaari eest, Erik!
+	
+	Jah, ilmselt peab ka eestikeelse versiooni tegema.
+	Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna ma üksi ei jõua mitmes keeles teksti lisada (eriti arvestades sellega, et eestikeelse teksti lisamine võtab mul palju rohkem aega), ei näinud mõtet teha eestikeelset versiooni.
+	
+	Arvan, et hakkan eestikeelse versiooniga tegelema järgmise nädala lõpus. Aga sellega seoses tekib mitut küsimust. Näiteks, kui eesti lehel puudub informatsioon, aga venekeelsel on olemas, kas kasutaja peaks siis venekeelset infot nägema?
+	
+	Kui rääkida sellest, et info erinevates keeltes on täiesti eraldatud (näiteks nagu Wikipeedias), siis asi on selge. Aga ma usun, et see ei ole parim variant.
+	
+	Mul oleks hea meel kuulda, kuidas võiks see asi kasutajate jaoks välja näha.
+	
+	-- AlexDaniel 2015-09-05 17:33:01
+	
+	
+lastmajor: 6
+keep-ts: 1441463581
