@@ -1,22 +1,23 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Energiasalvestid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>105998<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Energiasalvestid<br />&gt; <strong class="changes">#SUBURL: Course:</strong>105998</p></div>
+blocks: <p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&amp;materjalid=1440">Õppematerjalid</a><br /></p><h2>Kirjandus</h2><p><a class="url http outside" href="http://www.ester.ee/record=b4484414*est">Energiasalvestid ja -salvestustehnoloogiad</a></p>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1408845839
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Energiasalvestid</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Energiasalvestid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=105998&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Energiasalvestid
 	#SUBURL: Course:105998
-	Эта страница пуста, здесь не хватает твоих полезных советов.
+	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
+	==Kirjandus
+	[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
 	
-lastmajor: 2
-keep-ts: 1408845839
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[http://www</strong>.<strong class="changes">ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&amp;materjalid=1440 Õppematerjalid]<br />&gt; ==Kirjandus<br />&gt; [http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]</strong></p></div>
+flags: 0
+ts: 1441716025
+minor: 
+username: 
+host: 193.40.244.196
+revision: 4
+keep-ts: 1441716025
