@@ -1,13 +1,19 @@
-flags: 010
-blocks: &lt;Journal 10 "^Вопрос_\d+"&gt;
+flags: 01010
+blocks: <p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Вы можете **[[Задать вопрос|задать свой вопрос]]**.<br />&gt; \\</p></div>
 lastmajorsummary: Список всех вопросов
-ts: 1441903674
-minor: 
+ts: 1441903754
+minor: 1
 host: 82.131.7.230
 username: AlexDaniel
-revision: 1
+revision: 2
+diff-major: 
 summary: Список всех вопросов
 languages: 
-text: <Journal 10 "^Вопрос_\d+">
+text: Вы можете **[[Задать вопрос|задать свой вопрос]]**.
+	\\
+	<Journal 10 "^Вопрос_\d+">
 	
 lastmajor: 1
+keep-ts: 1441903754
