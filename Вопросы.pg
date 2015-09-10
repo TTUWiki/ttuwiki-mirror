@@ -1,0 +1,13 @@
+flags: 010
+blocks: &lt;Journal 10 "^Вопрос_\d+"&gt;
+lastmajorsummary: Список всех вопросов
+ts: 1441903674
+minor: 
+host: 82.131.7.230
+username: AlexDaniel
+revision: 1
+summary: Список всех вопросов
+languages: 
+text: <Journal 10 "^Вопрос_\d+">
+	
+lastmajor: 1
