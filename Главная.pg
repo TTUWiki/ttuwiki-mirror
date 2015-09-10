@@ -1,4 +1,3 @@
-flags: 0101010101010
 blocks: <p>Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!</p><p>Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий лайфхак – так поделись же им с остальными на <a class="url http outside" href="http://ttuwiki.org">TTUWiki</a>!</p><p>Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.</p><h2>Eestikeelne info</h2><p><strong>Kui soovite näha eestikeelset versiooni, palun lugege [[Eestikeelne versioon]].</strong></p><h2>Навигация</h2>&lt;include "Õppekavad"&gt;
 	<h5>Сравнить учебные программы:</h5><p>Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите <strong>Сравнить</strong>. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.<br /><form method="get" action="http://ttuwiki.org" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff">
 	<input name="action" type="hidden" value="pagediff" /><input name="pattern" type="hidden" value="^\w\w\w\w\d\d-\d\d$" /><select name="page1" >
@@ -26,6 +25,10 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="BAAM06-06">BAAM06-06</option>
 	<option value="BAAM06-09">BAAM06-09</option>
 	<option value="BAAM06-15">BAAM06-15</option>
+	<option value="BDÄR02-02">BDÄR02-02</option>
+	<option value="BDÄR02-04">BDÄR02-04</option>
+	<option value="BDÄR02-08">BDÄR02-08</option>
+	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
@@ -34,10 +37,6 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="BDMR02-09">BDMR02-09</option>
 	<option value="BDMR02-15">BDMR02-15</option>
 	<option value="BDRR13-13">BDRR13-13</option>
-	<option value="BDÄR02-02">BDÄR02-02</option>
-	<option value="BDÄR02-04">BDÄR02-04</option>
-	<option value="BDÄR02-08">BDÄR02-08</option>
-	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="EAAM11-11">EAAM11-11</option>
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
@@ -405,6 +404,10 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="BAAM06-06">BAAM06-06</option>
 	<option value="BAAM06-09">BAAM06-09</option>
 	<option value="BAAM06-15">BAAM06-15</option>
+	<option value="BDÄR02-02">BDÄR02-02</option>
+	<option value="BDÄR02-04">BDÄR02-04</option>
+	<option value="BDÄR02-08">BDÄR02-08</option>
+	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="BDKR02-02">BDKR02-02</option>
 	<option value="BDKR02-06">BDKR02-06</option>
 	<option value="BDKR02-09">BDKR02-09</option>
@@ -413,10 +416,6 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="BDMR02-09">BDMR02-09</option>
 	<option value="BDMR02-15">BDMR02-15</option>
 	<option value="BDRR13-13">BDRR13-13</option>
-	<option value="BDÄR02-02">BDÄR02-02</option>
-	<option value="BDÄR02-04">BDÄR02-04</option>
-	<option value="BDÄR02-08">BDÄR02-08</option>
-	<option value="BDÄR02-09">BDÄR02-09</option>
 	<option value="EAAM11-11">EAAM11-11</option>
 	<option value="EABM03-03">EABM03-03</option>
 	<option value="EABM03-05">EABM03-05</option>
@@ -759,19 +758,11 @@ blocks: <p>Добро пожаловать на неофициальную ру�
 	<option value="YVEM09-09">YVEM09-09</option>
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
-	</select> <input type="submit" name="" value="Сравнить" /></form><br /><br /></p><h2>Вопросы</h2><p>[[Задать вопрос]]<br /></p>&lt;Journal 6,10 "^Вопрос_\d+"&gt;
-	<p>[[Задать вопрос]]</p><h2>Новости</h2>&lt;Journal 2,10 "^(Новость|Uudis)_\d+"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; **Kui soovite näha eestikeelset versiooni, palun lugege [[<strong class="changes">Uudis 0</strong>]].**</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; **Kui soovite näha eestikeelset versiooni, palun lugege [[<strong class="changes">Eestikeelne versioon</strong>]].**</p></div>
+	</select> <input type="submit" name="" value="Сравнить" /></form><br /><br /></p><h2>Новости</h2>&lt;Journal 2,10 "^(Новость|Uudis)_\d+"&gt;
+lastmajorsummary: Упрощаем главную страницу: вынесены вопросы
 ip: 89.235.239.240
-ts: 1441281070
-minor: 
-host: 193.40.244.196
-username: AlexDaniel
-revision: 35
 diff-major: 1
-summary: Uudis 5 -> Eestikeelne versioon
+summary: Упрощаем главную страницу: вынесены вопросы
 languages: 
 text: Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
 	
@@ -789,14 +780,17 @@ text: Добро пожаловать на неофициальную русск
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	\\
-	== Вопросы
-	[[Задать вопрос]]
-	<Journal 6,10 "^Вопрос_\d+">
-	
-	[[Задать вопрос]]
 	
 	== Новости
 	<Journal 2,10 "^(Новость|Uudis)_\d+">
 	
-lastmajor: 35
-keep-ts: 1441281070
+lastmajor: 36
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; == Вопросы<br />&lt; [[Задать вопрос]]<br />&lt; &lt;Journal 6,10 "^Вопрос_\d+"&gt;<br />&lt; [[Задать вопрос]]</p></div>
+flags: 0101010
+ts: 1441903438
+minor: 
+username: AlexDaniel
+host: 82.131.7.230
+revision: 36
+keep-ts: 1441903438
