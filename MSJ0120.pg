@@ -1,8 +1,9 @@
-blocks: <p><a class="url http outside" href="http://staff.ttu.ee/~dedov/Soojuspumbad">Õppematerjalid</a></p><p>[[File:soojuspump.jpeg]]</p>
+blocks: <p><a class="url http outside" href="http://staff.ttu.ee/~dedov/Soojuspumbad">Õppematerjalid</a></p><p>[[File:soojuspump.jpeg]]</p><p>[[image:soojuspump.jpeg Soojuspump|Soojuspump Soojustehnika Instituudis]]</p>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -10,14 +11,15 @@ text: #SUBTITLE Soojuspumbad
 	
 	[[File:soojuspump.jpeg]]
 	
-languages: 
-lastmajor: 6
+	[[image:soojuspump.jpeg Soojuspump|Soojuspump Soojustehnika Instituudis]]
+	
+lastmajor: 7
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[File:soojuspump.jpeg]]</p></div>
-flags: 010
-ts: 1441948574
+	<div class="new"><p>&gt; [[image:soojuspump.jpeg Soojuspump|Soojuspump Soojustehnika Instituudis]]</p></div>
+flags: 01010
+ts: 1441953904
 minor: 
-host: 86.110.37.246
 username: 
-revision: 6
-keep-ts: 1441948574
+host: 86.110.37.246
+revision: 7
+keep-ts: 1441953904
