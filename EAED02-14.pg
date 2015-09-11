@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010
-blocks: <h2>EAED02/14 - Ehitus ja keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50245&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[EAX9033]] Arhitektuuri ja urbanistika eriõpe I<br />[[EAX9034]] Arhitektuuri ja urbanistika eriõpe II<br />[[EXX9010]] Doktoriseminar<br />[[EXX9033]] Doktoritöö temaatika eriõpe ehituses I<br />[[EXX9034]] Doktoritöö temaatika eriõpe ehituses II<br />[[EXX9051]] Erialased ettekanded<br />[[HHI9010]] Innovatsioon<br />[[YMR9040]] Inseneristatistika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[EMX9033]] Keskkonna- ja rannikutehnika eriõpe I<br />[[EMX9034]] Keskkonna- ja rannikutehnika eriõpe II<br />[[HHP9030]] Kõrgkoolididaktika<br />[[ELV9010]] Logistika eripeatükid<br />[[EXX9021]] Õpetamispraktika<br />[[ELT9010]] Tarneahela kavandamise eripeatükid<br />[[TMM9240]] Teadusartiklite kirjutamine inglise keeles<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[ELP9010]] Transpordi planeerimise eripeatükid</p>
-diff-minor: 
-ts: 1408891319
+blocks: <h2>EAED02/14 - Ehitus ja keskkonnatehnika [Kava:50245 〔Õppekava ÕIS-is〕]</h2><p>[[EAX9033]] Arhitektuuri ja urbanistika eriõpe I<br />[[EAX9034]] Arhitektuuri ja urbanistika eriõpe II<br />[[EXX9010]] Doktoriseminar<br />[[EXX9033]] Doktoritöö temaatika eriõpe ehituses I<br />[[EXX9034]] Doktoritöö temaatika eriõpe ehituses II<br />[[EXX9051]] Erialased ettekanded<br />[[HHI9010]] Innovatsioon<br />[[YMR9040]] Inseneristatistika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[EMX9033]] Keskkonna- ja rannikutehnika eriõpe I<br />[[EMX9034]] Keskkonna- ja rannikutehnika eriõpe II<br />[[HHP9030]] Kõrgkoolididaktika<br />[[ELV9010]] Logistika eripeatükid<br />[[EXX9021]] Õpetamispraktika<br />[[ELT9010]] Tarneahela kavandamise eripeatükid<br />[[TMM9240]] Teadusartiklite kirjutamine inglise keeles<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[ELP9010]] Transpordi planeerimise eripeatükid</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAED02/14 - Ehitus ja keskkonnatehnika Kava:50245</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAED02/14 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50245 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == EAED02/14 - Ehitus ja keskkonnatehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50245&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == EAED02/14 - Ehitus ja keskkonnatehnika [Kava:50245 〔Õppekava ÕIS-is〕]
 	[[EAX9033]] Arhitektuuri ja urbanistika eriõpe I
 	[[EAX9034]] Arhitektuuri ja urbanistika eriõpe II
 	[[EXX9010]] Doktoriseminar
@@ -31,4 +33,4 @@ text: == EAED02/14 - Ehitus ja keskkonnatehnika [http://ois.ttu.ee/portal/page?_
 	[[ELP9010]] Transpordi planeerimise eripeatükid
 	
 	
-keep-ts: 1408891319
+keep-ts: 1441924149

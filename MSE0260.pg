@@ -1,18 +1,15 @@
 flags: 00
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Õppematerjalid asuvad: <a class="url http" href="http://velar.ee/mse0260-hajaobjekti-projekt/">http://velar.ee/mse0260-hajaobjekti-projekt/</a></p><p>&#x2013; Аноним 2015-09-03 09:18:48</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Õppematerjalid asuvad: http://velar.ee/mse0260-hajaobjekti-projekt/<br />&gt; -- Аноним 2015-09-03 09:18:48</p></div>
 ip: 89.235.235.166
-ts: 1441261128
-minor: 
-host: 86.110.37.246
-username: 
-revision: 4
-diff-major: 1
-summary: Õppematerjalid asuvad: http://velar.ee/mse0260-hajaobjekti-projekt/
+ts: 1441924448
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Hajaobjekti projekt
-	#SUBURL: Course:106022
+	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -23,4 +20,4 @@ text: #SUBTITLE Hajaobjekti projekt
 	
 	
 lastmajor: 4
-keep-ts: 1441261128
+keep-ts: 1441924448

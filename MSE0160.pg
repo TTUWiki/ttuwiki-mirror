@@ -1,20 +1,16 @@
 flags: 0
 blocks: <p>Õppematerjal asub: <a class="url http" href="http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika_2015.pdf">http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika_2015.pdf</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Õppematerjal asub: http://www</strong>.<strong class="changes">ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika_2015.pdf</strong></p></div>
 ip: 89.235.235.166
-ts: 1441262227
-minor: 
-host: 86.110.37.246
-username: 
-revision: 4
-diff-major: 1
-summary: 
+ts: 1441924448
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Katlatehnika
-	#SUBURL: Course:101007
+	#SUBURL [Course:101007 〔Õppeaine ÕIS-is〕]
 	Õppematerjal asub: http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika_2015.pdf
 	
 lastmajor: 4
-keep-ts: 1441262227
+keep-ts: 1441924448

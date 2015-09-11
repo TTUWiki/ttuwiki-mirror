@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BAAM06/15 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50293&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[EEA7130]] 3D programmide õpe<br />[[HHR0012]] Avalik haldus<br />[[BCU5040]] Digitaalne maastikuanalüüs ja GIS edasijõudnutele<br />[[HHF3080]] Filosoofia<br />[[ETG0012]] Geodeesia II<br />[[EEK0077]] Geotehnika alused maastikuarhitektidele<br />[[BCU4910]] Hüdroloogia ja vesiehitised<br />[[BCU4980]] Jäätmekäitlus maastikuarhitektidele<br />[[EEA7470]] Joonistamise ja maalipraktika<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[BCU4990]] Konstruktsioonide lühikursus<br />[[EEA7380]] Kultuuriajalugu<br />[[ETT0090]] Linnaliiklus<br />[[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine<br />[[EEA7321]] Maalimine I<br />[[BCU5000]] Maastikuarhitektuuri valikprojekt: interdistsiplinaarsed väljakutsed<br />[[BCU4940]] Maastikuprojekt V: Erialased piirid<br />[[BCU4950]] Maastikuprojekt VI: Disain<br />[[BCU4960]] Maastikuprojekt VII: Ehitus ja vertikaalplaneerimine<br />[[BCU4970]] Maastikuprojekt VIII: Keeruliste maastike strateegiad ja planeerimine<br />[[BCU5030]] Muinsuskaitse filosoofia ja ajalugu<br />[[EEA7413]] Planeerimisprojekt LIII. Linnaehituslik analüüs, üldplaneering<br />[[BCU4920]] Praktika: projekteerimine<br />[[BCU4930]] Praktika: välitööd ja ekskursioonid<br />[[BCU3360]] Projektijuhtimine<br />[[BCU5050]] Rannikuprotsessid<br />[[BCU5010]] Taimeökoloogia välipraktika<br />[[BCU4900]] Tootearendus ja turundus<br />[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused<br />[[BCU5020]] Universaalne disain maastikuarhitektuuris<br />[[EEA7480]] Vormiõpetus</p>
-diff-minor: 
-ts: 1438886979
+blocks: <h2>BAAM06/15 - Maastikuarhitektuur [Kava:50293 〔Õppekava ÕIS-is〕]</h2><p>[[EEA7130]] 3D programmide õpe<br />[[HHR0012]] Avalik haldus<br />[[BCU5040]] Digitaalne maastikuanalüüs ja GIS edasijõudnutele<br />[[HHF3080]] Filosoofia<br />[[ETG0012]] Geodeesia II<br />[[EEK0077]] Geotehnika alused maastikuarhitektidele<br />[[BCU4910]] Hüdroloogia ja vesiehitised<br />[[BCU4980]] Jäätmekäitlus maastikuarhitektidele<br />[[EEA7470]] Joonistamise ja maalipraktika<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[BCU4990]] Konstruktsioonide lühikursus<br />[[EEA7380]] Kultuuriajalugu<br />[[ETT0090]] Linnaliiklus<br />[[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine<br />[[EEA7321]] Maalimine I<br />[[BCU5000]] Maastikuarhitektuuri valikprojekt: interdistsiplinaarsed väljakutsed<br />[[BCU4940]] Maastikuprojekt V: Erialased piirid<br />[[BCU4950]] Maastikuprojekt VI: Disain<br />[[BCU4960]] Maastikuprojekt VII: Ehitus ja vertikaalplaneerimine<br />[[BCU4970]] Maastikuprojekt VIII: Keeruliste maastike strateegiad ja planeerimine<br />[[BCU5030]] Muinsuskaitse filosoofia ja ajalugu<br />[[EEA7413]] Planeerimisprojekt LIII. Linnaehituslik analüüs, üldplaneering<br />[[BCU4920]] Praktika: projekteerimine<br />[[BCU4930]] Praktika: välitööd ja ekskursioonid<br />[[BCU3360]] Projektijuhtimine<br />[[BCU5050]] Rannikuprotsessid<br />[[BCU5010]] Taimeökoloogia välipraktika<br />[[BCU4900]] Tootearendus ja turundus<br />[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused<br />[[BCU5020]] Universaalne disain maastikuarhitektuuris<br />[[EEA7480]] Vormiõpetus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BAAM06/15 - Maastikuarhitektuur Kava:50293</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BAAM06/15 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50293 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == BAAM06/15 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=50293&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == BAAM06/15 - Maastikuarhitektuur [Kava:50293 〔Õppekava ÕIS-is〕]
 	[[EEA7130]] 3D programmide õpe
 	[[HHR0012]] Avalik haldus
 	[[BCU5040]] Digitaalne maastikuanalüüs ja GIS edasijõudnutele
@@ -43,4 +45,4 @@ text: == BAAM06/15 - Maastikuarhitektuur [http://ois.ttu.ee/portal/page?_pageid=
 	[[EEA7480]] Vormiõpetus
 	
 	
-keep-ts: 1438886979
+keep-ts: 1441924148

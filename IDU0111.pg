@@ -1,18 +1,15 @@
 flags: 00
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>О предмете (требования, учебный план)</p><p><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx</a></p><p>&#x2013; MaryBoom 2015-08-06 17:17:06</p></div><div class="userComment"><p>Все материалы: <a class="url http" href="http://cloud.ld.ttu.ee/idu0111/">http://cloud.ld.ttu.ee/idu0111/</a></p><p>&#x2013; AlexDaniel 2015-09-03 14:07:24</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Все материалы: http://cloud.ld.ttu.ee/idu0111/<br />&gt; -- AlexDaniel 2015-09-03 14:07:24</p></div>
 ip: 89.235.235.166
-ts: 1441278444
-minor: 
-host: 193.40.244.196
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: 1
-summary: Все материалы: http://cloud.ld.ttu.ee/idu0111/
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
-	#SUBURL: Course:105065
+	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -32,4 +29,4 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	
 	
 lastmajor: 5
-keep-ts: 1441278444
+keep-ts: 1441924447

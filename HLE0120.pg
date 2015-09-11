@@ -1,20 +1,16 @@
 flags: 0
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Akadeemiline vene keel <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>34880<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Akadeemiline vene keel<br />&gt; <strong class="changes">#SUBURL: Course:</strong>34880</p></div>
 ip: 89.235.231.110
-ts: 1408847094
+ts: 1441924446
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
-diff-major: 
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 3
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Akadeemiline vene keel
-	#SUBURL: Course:34880
+	#SUBURL [Course:34880 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 1
-keep-ts: 1408847094
+keep-ts: 1441924446

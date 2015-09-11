@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>YABM02/02 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=1041&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DBR0010]] Anatoomia ja füsioloogia<br />[[DBR0090]] Bioelektromagnetism<br />[[YKB3330]] Biofüüsika<br />[[DBB0020]] Biomeditsiiniseadmed<br />[[DBR0020]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[DBB0030]] Erialased seminarid ja ettekanded<br />[[DBB0060]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[YTG0011]] Geenitehnoloogia I<br />[[DBR0050]] Kiirguse bioloogiline mõju<br />[[DBR0070]] Kvaliteet radioloogias<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[EMR0050]] Modelleerimise alused<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[DBR0140]] Närviteaduse alused<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[DBR0060]] Pildidiagnostika füüsikalised alused<br />[[DBB0040]] Praktika<br />[[ITI0010]] Programmeerimise põhikursus<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[ITV0020]] Süsteemprogrammeerimine keeles C<br />[[HLX8040]] Teadusvõõrkeel</p>
-diff-minor: 
-ts: 1408891683
+blocks: <h2>YABM02/02 - Biomeditsiinitehnoloogia [Kava:1041 〔Õppekava ÕIS-is〕]</h2><p>[[DBR0010]] Anatoomia ja füsioloogia<br />[[DBR0090]] Bioelektromagnetism<br />[[YKB3330]] Biofüüsika<br />[[DBB0020]] Biomeditsiiniseadmed<br />[[DBR0020]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[DBB0030]] Erialased seminarid ja ettekanded<br />[[DBB0060]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[YTG0011]] Geenitehnoloogia I<br />[[DBR0050]] Kiirguse bioloogiline mõju<br />[[DBR0070]] Kvaliteet radioloogias<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[EMR0050]] Modelleerimise alused<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[DBR0140]] Närviteaduse alused<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[DBR0060]] Pildidiagnostika füüsikalised alused<br />[[DBB0040]] Praktika<br />[[ITI0010]] Programmeerimise põhikursus<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[ITV0020]] Süsteemprogrammeerimine keeles C<br />[[HLX8040]] Teadusvõõrkeel</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YABM02/02 - Biomeditsiinitehnoloogia Kava:1041</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YABM02/02 - Biomeditsiinitehnoloogia <strong class="changes">[</strong>Kava:1041 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == YABM02/02 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=1041&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == YABM02/02 - Biomeditsiinitehnoloogia [Kava:1041 〔Õppekava ÕIS-is〕]
 	[[DBR0010]] Anatoomia ja füsioloogia
 	[[DBR0090]] Bioelektromagnetism
 	[[YKB3330]] Biofüüsika
@@ -36,4 +38,4 @@ text: == YABM02/02 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pa
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-keep-ts: 1408891683
+keep-ts: 1441924154

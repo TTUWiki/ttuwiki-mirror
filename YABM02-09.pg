@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010
-blocks: <h2>YABM02/09 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50030&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DBR0210]] Anatoomia ja füsioloogia<br />[[DBR0250]] Bioelektromagnetism<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[IAY0150]] Digitaalsüsteemid<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[DBB0230]] Erialased seminarid ja ettekanded<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[DBR0230]] Kiirguse bioloogiline mõju<br />[[DBR0280]] Kvaliteet radioloogias<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[DBR0130]] Mõõtmised füsioloogias<br />[[DBR0260]] Närviteaduse alused<br />[[DBB0070]] Optoelektroonika ja integraaloptika<br />[[DBR0220]] Piltdiagnostika füüsikalised alused<br />[[DBB0040]] Praktika<br />[[IRT3930]] Side<br />[[HLX8040]] Teadusvõõrkeel</p>
-diff-minor: 
-ts: 1408891684
+blocks: <h2>YABM02/09 - Biomeditsiinitehnoloogia [Kava:50030 〔Õppekava ÕIS-is〕]</h2><p>[[DBR0210]] Anatoomia ja füsioloogia<br />[[DBR0250]] Bioelektromagnetism<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt<br />[[DBR0030]] Digitaalne signaali- ja pilditöötlus<br />[[IAY0150]] Digitaalsüsteemid<br />[[DBR0080]] Elektromagnetväljad ja -lained<br />[[DBB0230]] Erialased seminarid ja ettekanded<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon<br />[[DBR0040]] Füsioloogiliste signaalide töötlus<br />[[DBR0230]] Kiirguse bioloogiline mõju<br />[[DBR0280]] Kvaliteet radioloogias<br />[[DBB0010]] Mikrolaine- ja optiline tehnika<br />[[DBR0130]] Mõõtmised füsioloogias<br />[[DBR0260]] Närviteaduse alused<br />[[DBB0070]] Optoelektroonika ja integraaloptika<br />[[DBR0220]] Piltdiagnostika füüsikalised alused<br />[[DBB0040]] Praktika<br />[[IRT3930]] Side<br />[[HLX8040]] Teadusvõõrkeel</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YABM02/09 - Biomeditsiinitehnoloogia Kava:50030</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YABM02/09 - Biomeditsiinitehnoloogia <strong class="changes">[</strong>Kava:50030 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == YABM02/09 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50030&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == YABM02/09 - Biomeditsiinitehnoloogia [Kava:50030 〔Õppekava ÕIS-is〕]
 	[[DBR0210]] Anatoomia ja füsioloogia
 	[[DBR0250]] Bioelektromagnetism
 	[[DBB0220]] Biomeditsiiniseadmed
@@ -33,4 +35,4 @@ text: == YABM02/09 - Biomeditsiinitehnoloogia [http://ois.ttu.ee/portal/page?_pa
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-keep-ts: 1408891684
+keep-ts: 1441924154

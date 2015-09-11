@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IABB02/02 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=655&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0120]] Andmebaaside programmeerimine<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[TMT0040]] Ergonoomika<br />[[IDU001P]] Erialapraktika<br />[[HHF3070]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[YFR0020]] Füüsika<br />[[IAG0081]] Informaatika I<br />[[IDK0031]] Informaatika II<br />[[IDK0032]] Informaatika II - projekt<br />[[TMM0230]] Interaktiivne turundus<br />[[EKE3710]] Keskkonnakaitse<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IDU0050]] Objektorienteeritud disain<br />[[IDK0020]] Objektorienteeritud programmeerimine Javas<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[ITI0010]] Programmeerimise põhikursus<br />[[IDU0140]] Rakendusarhitektuurid I<br />[[IRT3930]] Side<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[IDK0040]] Võrgurakendused I</p>
-diff-minor: 
-ts: 1408891406
+blocks: <h2>IABB02/02 - Äriinfotehnoloogia [Kava:655 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0120]] Andmebaaside programmeerimine<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[TMT0040]] Ergonoomika<br />[[IDU001P]] Erialapraktika<br />[[HHF3070]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[YFR0020]] Füüsika<br />[[IAG0081]] Informaatika I<br />[[IDK0031]] Informaatika II<br />[[IDK0032]] Informaatika II - projekt<br />[[TMM0230]] Interaktiivne turundus<br />[[EKE3710]] Keskkonnakaitse<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IDU0050]] Objektorienteeritud disain<br />[[IDK0020]] Objektorienteeritud programmeerimine Javas<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[ITI0010]] Programmeerimise põhikursus<br />[[IDU0140]] Rakendusarhitektuurid I<br />[[IRT3930]] Side<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[IDK0040]] Võrgurakendused I</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABB02/02 - Äriinfotehnoloogia Kava:655</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABB02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:655 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IABB02/02 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=655&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IABB02/02 - Äriinfotehnoloogia [Kava:655 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IDU0120]] Andmebaaside programmeerimine
 	[[IDU3381]] Andmebaaside projekteerimine
@@ -49,4 +51,4 @@ text: == IABB02/02 - Äriinfotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=
 	[[IDK0040]] Võrgurakendused I
 	
 	
-keep-ts: 1408891406
+keep-ts: 1441924150

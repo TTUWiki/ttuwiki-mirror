@@ -1,21 +1,17 @@
 flags: 010
 blocks: <p>С 2014-го года этот предмет является продолжением [[TTO3160]].</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">С 2014-го года этот предмет является продолжением [[TTO3160]].</strong></p></div>
 ip: 89.235.235.166
-ts: 1411638902
-minor: 
-host: 89.235.236.14
+ts: 1441924446
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 1
-summary: 
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Õigusõpetus infotehnoloogidele
-	#SUBURL: Course:108415
+	#SUBURL [Course:108415 〔Õppeaine ÕIS-is〕]
 	
 	С 2014-го года этот предмет является продолжением [[TTO3160]].
 	
 lastmajor: 4
-keep-ts: 1411638902
+keep-ts: 1441924446

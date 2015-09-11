@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EALM02/09 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50043&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TTO1030]] Äritegevuse õiguslik keskkond<br />[[YMR5730]] Arvutusmeetodid<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[ETV0050]] Hinnakujundus transpordis<br />[[IDU0040]] Infosüsteemi strateegiline juhtimine ja arendamine<br />[[TMJ8610]] Investeeringute analüüs ja juhtimine<br />[[TMJ8640]] Jõustruktuuride logistika<br />[[ETV0110]] Kaubavedu<br />[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses<br />[[ETV0210]] Liikluse prognoosimeetodid<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETV0130]] Maakasutus ja transport<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[ETV0220]] Praktika<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[ETV0150]] Regionaalplaneerimine<br />[[TMT8740]] Riskiõpetuse erikursus<br />[[ETV0190]] Sõitjatevedu<br />[[ISS0030]] Süsteemide modelleerimine<br />[[ISS0010]] Süsteemiteooria<br />[[ETV0160]] Tagastuslogistika ja pakkimine<br />[[TMJ1080]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETV0170]] Transpordiplaneerimise alused<br />[[ETV0180]] Transpordiprojektide hindamine<br />[[ETV0140]] Transporditeenuste valik<br />[[ETT0081]] Transpordiuuringud ja prognoos<br />[[TMM1280]] Turundussimulatsioon</p>
-diff-minor: 
-ts: 1408891345
+blocks: <h2>EALM02/09 - Logistika [Kava:50043 〔Õppekava ÕIS-is〕]</h2><p>[[TTO1030]] Äritegevuse õiguslik keskkond<br />[[YMR5730]] Arvutusmeetodid<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[ETV0050]] Hinnakujundus transpordis<br />[[IDU0040]] Infosüsteemi strateegiline juhtimine ja arendamine<br />[[TMJ8610]] Investeeringute analüüs ja juhtimine<br />[[TMJ8640]] Jõustruktuuride logistika<br />[[ETV0110]] Kaubavedu<br />[[EKE8240]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses<br />[[ETV0210]] Liikluse prognoosimeetodid<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETV0130]] Maakasutus ja transport<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[ETV0220]] Praktika<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[ETV0150]] Regionaalplaneerimine<br />[[TMT8740]] Riskiõpetuse erikursus<br />[[ETV0190]] Sõitjatevedu<br />[[ISS0030]] Süsteemide modelleerimine<br />[[ISS0010]] Süsteemiteooria<br />[[ETV0160]] Tagastuslogistika ja pakkimine<br />[[TMJ1080]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0130]] Transpordiehituse põhialused<br />[[ETV0170]] Transpordiplaneerimise alused<br />[[ETV0180]] Transpordiprojektide hindamine<br />[[ETV0140]] Transporditeenuste valik<br />[[ETT0081]] Transpordiuuringud ja prognoos<br />[[TMM1280]] Turundussimulatsioon</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EALM02/09 - Logistika Kava:50043</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EALM02/09 - Logistika <strong class="changes">[</strong>Kava:50043 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == EALM02/09 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50043&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == EALM02/09 - Logistika [Kava:50043 〔Õppekava ÕIS-is〕]
 	[[TTO1030]] Äritegevuse õiguslik keskkond
 	[[YMR5730]] Arvutusmeetodid
 	[[TAF8280]] Finantsarvestus ja -aruandlus
@@ -42,4 +44,4 @@ text: == EALM02/09 - Logistika [http://ois.ttu.ee/portal/page?_pageid=35,428589&
 	[[TMM1280]] Turundussimulatsioon
 	
 	
-keep-ts: 1408891345
+keep-ts: 1441924149

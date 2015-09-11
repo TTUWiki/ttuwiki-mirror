@@ -1,20 +1,16 @@
 flags: 0
 blocks: <p><a class="url http outside" href="http://velar.ee/mse0100-soojustehnika">Õppematerjal</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">[http://velar</strong>.<strong class="changes">ee/mse0100-soojustehnika Õppematerjal]</strong></p></div>
 ip: 89.235.235.166
-ts: 1441298183
-minor: 
-host: 86.110.37.246
-username: 
-revision: 4
-diff-major: 1
-summary: 
+ts: 1441924448
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Soojustehnika
-	#SUBURL: Course:30482
+	#SUBURL [Course:30482 〔Õppeaine ÕIS-is〕]
 	[http://velar.ee/mse0100-soojustehnika Õppematerjal]
 	
 lastmajor: 4
-keep-ts: 1441298183
+keep-ts: 1441924448

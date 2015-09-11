@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IASM02/02 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1057&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ISP0030]] Agentsüsteemid<br />[[IAG0050]] Algoritmikeelte analüüs<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAG0020]] Andmebaasi võrguliidesed<br />[[IEM0030]] Andmehõivesüsteemid<br />[[ISS0090]] Arukad hooned<br />[[IAF0030]] Arvutitehnika erikursus I<br />[[IAY0110]] Arvutitehnika erikursus II<br />[[IAY0090]] Arvutitehnika - projekt<br />[[ISC0021]] ASIC disain<br />[[ISC0022]] ASIC disain - projekt<br />[[ISS0060]] Automaatikavahendid<br />[[ISS0022]] Automaatjuhtimissüsteemide jätkukursus<br />[[ISS0080]] Automatiseerimine ja protsessijuhtimine<br />[[IAY0100]] Digitaalsüsteemide erikursus<br />[[IAY0080]] Digitaaltehnika erikursus<br />[[TMT0040]] Ergonoomika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHP8202]] Juhtimispsühholoogia<br />[[IAY0130]] Kiipsüsteemi disain<br />[[IAG0110]] Masinprojekteerimise alused<br />[[MHK0030]] Mehhatroonika<br />[[IED0090]] Mikroelektroonika<br />[[IAY0021]] Mikroprotsessorsüsteemid I<br />[[IAY0022]] Mikroprotsessorsüsteemid II<br />[[IAY0060]] Paralleelarhitektuurid<br />[[IAY0210]] Praktika<br />[[IAG0010]] Programmeerimise erikursus I<br />[[IAG0040]] Programmeerimise erikursus II (Java)<br />[[ISS0070]] Programmeeritavad kontrollerid<br />[[IAF0020]] Programmeeritavad loogikaskeemid<br />[[ISP0020]] Reaalajasüsteemid - projekt<br />[[IAY0070]] Riist- ja tarkvara koosdisain<br />[[IAY0040]] Riistvara kirjelduskeeled ja modelleerimine<br />[[IAY0180]] Sardmikrokontrollerite riistvara ja tarkvara<br />[[ISC0012]] Sidud, süsteemid, signaalid - jätkukursus<br />[[IRZ0070]] Signaaliprotsessorid<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[ISS0030]] Süsteemide modelleerimine<br />[[IAG0030]] Süsteemitarkvara - projekt<br />[[ISS0040]] Süsteemitehnika - projekt<br />[[ISS9100]] Süsteemitehnika seminar<br />[[ISP0012]] Tarkvara dünaamika<br />[[IAG0060]] Tarkvara projektijuhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[ITT0020]] Tehisintellekti algoritmid<br />[[ISP0050]] Tööstuslik andmeside<br />[[IAF0010]] Veakindlad süsteemid<br />[[IAY0050]] VLSI süntees</p>
-diff-minor: 
-ts: 1408891438
+blocks: <h2>IASM02/02 - Arvutisüsteemid [Kava:1057 〔Õppekava ÕIS-is〕]</h2><p>[[ISP0030]] Agentsüsteemid<br />[[IAG0050]] Algoritmikeelte analüüs<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAG0020]] Andmebaasi võrguliidesed<br />[[IEM0030]] Andmehõivesüsteemid<br />[[ISS0090]] Arukad hooned<br />[[IAF0030]] Arvutitehnika erikursus I<br />[[IAY0110]] Arvutitehnika erikursus II<br />[[IAY0090]] Arvutitehnika - projekt<br />[[ISC0021]] ASIC disain<br />[[ISC0022]] ASIC disain - projekt<br />[[ISS0060]] Automaatikavahendid<br />[[ISS0022]] Automaatjuhtimissüsteemide jätkukursus<br />[[ISS0080]] Automatiseerimine ja protsessijuhtimine<br />[[IAY0100]] Digitaalsüsteemide erikursus<br />[[IAY0080]] Digitaaltehnika erikursus<br />[[TMT0040]] Ergonoomika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHP8202]] Juhtimispsühholoogia<br />[[IAY0130]] Kiipsüsteemi disain<br />[[IAG0110]] Masinprojekteerimise alused<br />[[MHK0030]] Mehhatroonika<br />[[IED0090]] Mikroelektroonika<br />[[IAY0021]] Mikroprotsessorsüsteemid I<br />[[IAY0022]] Mikroprotsessorsüsteemid II<br />[[IAY0060]] Paralleelarhitektuurid<br />[[IAY0210]] Praktika<br />[[IAG0010]] Programmeerimise erikursus I<br />[[IAG0040]] Programmeerimise erikursus II (Java)<br />[[ISS0070]] Programmeeritavad kontrollerid<br />[[IAF0020]] Programmeeritavad loogikaskeemid<br />[[ISP0020]] Reaalajasüsteemid - projekt<br />[[IAY0070]] Riist- ja tarkvara koosdisain<br />[[IAY0040]] Riistvara kirjelduskeeled ja modelleerimine<br />[[IAY0180]] Sardmikrokontrollerite riistvara ja tarkvara<br />[[ISC0012]] Sidud, süsteemid, signaalid - jätkukursus<br />[[IRZ0070]] Signaaliprotsessorid<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[ISS0030]] Süsteemide modelleerimine<br />[[IAG0030]] Süsteemitarkvara - projekt<br />[[ISS0040]] Süsteemitehnika - projekt<br />[[ISS9100]] Süsteemitehnika seminar<br />[[ISP0012]] Tarkvara dünaamika<br />[[IAG0060]] Tarkvara projektijuhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[ITT0020]] Tehisintellekti algoritmid<br />[[ISP0050]] Tööstuslik andmeside<br />[[IAF0010]] Veakindlad süsteemid<br />[[IAY0050]] VLSI süntees</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IASM02/02 - Arvutisüsteemid Kava:1057</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IASM02/02 - Arvutisüsteemid <strong class="changes">[</strong>Kava:1057 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IASM02/02 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=1057&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IASM02/02 - Arvutisüsteemid [Kava:1057 〔Õppekava ÕIS-is〕]
 	[[ISP0030]] Agentsüsteemid
 	[[IAG0050]] Algoritmikeelte analüüs
 	[[IDU3381]] Andmebaaside projekteerimine
@@ -61,4 +63,4 @@ text: == IASM02/02 - Arvutisüsteemid [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[IAY0050]] VLSI süntees
 	
 	
-keep-ts: 1408891438
+keep-ts: 1441924150

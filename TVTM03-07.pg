@@ -1,17 +1,17 @@
 flags: 010101010101010101010101010101010101010101010
-blocks: <h2>TVTM03/07 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=5081&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2600]] Ärirahandus<br />[[TIX2080]] Äriturundus<br />[[TIX2630]] Baltimere maade ja Venemaa majandus<br />[[HLI2210]] Eesti keel ja kultuur<br />[[IDY8105]] E-kaubanduse arendused<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2620]] Euroopa Liidu majandus<br />[[TIX2340]] Euroopa Liidu õigus<br />[[IDK2080]] Infotehnoloogia<br />[[TIX2640]] Innovatsiooni juhtimine<br />[[TIX2840]] Majandusarvestus<br />[[TIX2850]] Maksundus<br />[[TIX2350]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2040]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2590]] Rahvusvaheline majandusteooria<br />[[TIX2030]] Riskide ja ohutuse haldamise ökonoomika<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2190]] Strateegiline juhtimine</p>
+blocks: <h2>TVTM03/07 - Rahvusvaheline ärikorraldus [Kava:5081 〔Õppekava ÕIS-is〕]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2600]] Ärirahandus<br />[[TIX2080]] Äriturundus<br />[[TIX2630]] Baltimere maade ja Venemaa majandus<br />[[HLI2210]] Eesti keel ja kultuur<br />[[IDY8105]] E-kaubanduse arendused<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2620]] Euroopa Liidu majandus<br />[[TIX2340]] Euroopa Liidu õigus<br />[[IDK2080]] Infotehnoloogia<br />[[TIX2640]] Innovatsiooni juhtimine<br />[[TIX2840]] Majandusarvestus<br />[[TIX2850]] Maksundus<br />[[TIX2350]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2040]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2590]] Rahvusvaheline majandusteooria<br />[[TIX2030]] Riskide ja ohutuse haldamise ökonoomika<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2190]] Strateegiline juhtimine</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[TIX2640]] <strong class="changes">Innovatsioonijuhtimine</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[TIX2640]] <strong class="changes">Innovatsiooni juhtimine</strong></p></div>
-ts: 1438887194
+	<div class="old"><p>&lt; == TVTM03/07 - Rahvusvaheline ärikorraldus Kava:5081</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTM03/07 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:5081 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TVTM03/07 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=5081&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TVTM03/07 - Rahvusvaheline ärikorraldus [Kava:5081 〔Õppekava ÕIS-is〕]
 	[[TIX8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
 	[[TIX2600]] Ärirahandus
@@ -35,4 +35,4 @@ text: == TVTM03/07 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page
 	[[TIX2190]] Strateegiline juhtimine
 	
 	
-keep-ts: 1438887194
+keep-ts: 1441924154

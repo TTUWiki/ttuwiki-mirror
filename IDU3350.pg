@@ -1,22 +1,15 @@
 flags: 01010
 blocks: <p>Программа курса:<br />[[File:idu3350.pdf]]</p><p>Материалы лекций:<br /><a class="url http" href="http://maurus.ttu.ee/yld_index.php">http://maurus.ttu.ee/yld_index.php</a></p><p>Пример проекта, который нужно сдать к концу семестра:<br />[[File:Primer_proekta_Ehitusfirma.pdf]]</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.<br />&lt; <strong class="changes">----</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Программа курса:<br />&gt; [[File:idu3350</strong>.<strong class="changes">pdf]]</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Пример проекта, который нужно сдать к концу семестра<strong class="changes">.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Пример проекта, который нужно сдать к концу семестра<strong class="changes">:</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; -- Artur Gummel 2014-09-10 10:37:32</p></div>
 ip: 89.235.235.166
-ts: 1410339120
-minor: 
-host: 176.46.125.185
-username: Artur Gummel
-revision: 5
-diff-major: 1
-summary: Материалы лекций: http://maurus.ttu.ee/yld_index.php Пример проекта, который нужно сдать к концу семестра. . . .
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Sissejuhatus infosüsteemidesse
-	#SUBURL: Course:26901
+	#SUBURL [Course:26901 〔Õppeaine ÕIS-is〕]
 	
 	Программа курса:
 	[[File:idu3350.pdf]]
@@ -29,4 +22,4 @@ text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	
 	
 lastmajor: 5
-keep-ts: 1410339120
+keep-ts: 1441924447

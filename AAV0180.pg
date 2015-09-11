@@ -1,23 +1,19 @@
+flags: 0
 blocks: <p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&amp;materjalid=1440">Õppematerjalid</a><br /></p><h2>Kirjandus</h2><p><a class="url http outside" href="http://www.ester.ee/record=b4484414*est">Energiasalvestid ja -salvestustehnoloogiad</a></p>
 lastmajorsummary: 
 ip: 89.235.235.166
-diff-major: 1
-summary: 
+ts: 1441924443
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Energiasalvestid
-	#SUBURL: Course:105998
+	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
 	==Kirjandus
 	[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
 	
 lastmajor: 4
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">[http://www</strong>.<strong class="changes">ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&amp;materjalid=1440 Õppematerjalid]<br />&gt; ==Kirjandus<br />&gt; [http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]</strong></p></div>
-flags: 0
-ts: 1441716025
-minor: 
-username: 
-host: 193.40.244.196
-revision: 4
-keep-ts: 1441716025
+keep-ts: 1441924443

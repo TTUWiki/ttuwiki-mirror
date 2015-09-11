@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IVEM11/11 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50164&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[DBR0210]] Anatoomia ja füsioloogia<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEM3240]] Biomeditsiinielektroonika<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0150]] Biosensoorika<br />[[IAY0540]] Digitaalsüsteemide modelleerimine ja süntees<br />[[IEX3010]] Elektronsüsteemid - kompleksprojekt<br />[[IEX3020]] Elektroonika erikursus<br />[[IED3080]] Elektroonika- ja sidetööstus<br />[[IED3090]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IEM3220]] Füsioloogia ja tehnika<br />[[ITX8062]] Infosüsteemide massründed ja kaitse<br />[[IED3040]] Kiipdisain<br />[[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused<br />[[ITX8043]] Küberturbe põhialused ja juhtimine<br />[[ITX8042]] Kurivara<br />[[IED3030]] Mikroelektroonika<br />[[IED3070]] Nanoelektroonika<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[DBB0300]] Optoelektroonika ja integraaloptika<br />[[IED3020]] Pooljuhtseadiste simuleerimine<br />[[IEM3030]] Reaalaja sardsüsteemid<br />[[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused<br />[[IAY0570]] Riist- ja tarkvara koosdisain<br />[[IBX0020]] Robootika<br />[[IEA3010]] Sensorvõrgud<br />[[IRO0140]] Signaalide aegruumilise töötlemise meetodid<br />[[IRZ0140]] Signaalid ja signaalitöötlus<br />[[IED3060]] Tahkiselektroonika<br />[[IEM3020]] Test ja diagnostika</p>
-diff-minor: 
-ts: 1408891454
+blocks: <h2>IVEM11/11 - Elektroonika ja kommunikatsioon [Kava:50164 〔Õppekava ÕIS-is〕]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[DBR0210]] Anatoomia ja füsioloogia<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEM3240]] Biomeditsiinielektroonika<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0150]] Biosensoorika<br />[[IAY0540]] Digitaalsüsteemide modelleerimine ja süntees<br />[[IEX3010]] Elektronsüsteemid - kompleksprojekt<br />[[IEX3020]] Elektroonika erikursus<br />[[IED3080]] Elektroonika- ja sidetööstus<br />[[IED3090]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IEM3220]] Füsioloogia ja tehnika<br />[[ITX8062]] Infosüsteemide massründed ja kaitse<br />[[IED3040]] Kiipdisain<br />[[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused<br />[[ITX8043]] Küberturbe põhialused ja juhtimine<br />[[ITX8042]] Kurivara<br />[[IED3030]] Mikroelektroonika<br />[[IED3070]] Nanoelektroonika<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[DBB0300]] Optoelektroonika ja integraaloptika<br />[[IED3020]] Pooljuhtseadiste simuleerimine<br />[[IEM3030]] Reaalaja sardsüsteemid<br />[[ITI8500]] Reaalaja sardsüsteemide teoreetilised alused<br />[[IAY0570]] Riist- ja tarkvara koosdisain<br />[[IBX0020]] Robootika<br />[[IEA3010]] Sensorvõrgud<br />[[IRO0140]] Signaalide aegruumilise töötlemise meetodid<br />[[IRZ0140]] Signaalid ja signaalitöötlus<br />[[IED3060]] Tahkiselektroonika<br />[[IEM3020]] Test ja diagnostika</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IVEM11/11 - Elektroonika ja kommunikatsioon Kava:50164</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IVEM11/11 - Elektroonika ja kommunikatsioon <strong class="changes">[</strong>Kava:50164 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924151
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IVEM11/11 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50164&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IVEM11/11 - Elektroonika ja kommunikatsioon [Kava:50164 〔Õppekava ÕIS-is〕]
 	[[IED3010]] Analoog/digitaal skeemide disain
 	[[DBR0210]] Anatoomia ja füsioloogia
 	[[IEM3040]] Andmehõivesüsteemid
@@ -45,4 +47,4 @@ text: == IVEM11/11 - Elektroonika ja kommunikatsioon [http://ois.ttu.ee/portal/p
 	[[IEM3020]] Test ja diagnostika
 	
 	
-keep-ts: 1408891454
+keep-ts: 1441924151

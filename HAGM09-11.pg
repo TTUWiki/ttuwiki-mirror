@@ -1,19 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAGM09/11 - Tehnoloogia valitsemine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50168&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHA1530]] Arengupoliitikad ja üleilmastumine<br />[[HHI0022]] Äri eripärad ELis, Venemaal ja idapartnerlusriikides<br />[[HHI1421]] Äristrateegiad. Äriplaneerimine, toote ja teenuse planeerimine ning arendamine<br />[[HHI1920]] Avalik haldus ja innovatsioon<br />[[HHL1220]] Empiirilis-ajalooline majandusteadus<br />[[HHI0017]] Eriseminar<br />[[HHI0114]] Ettevõtlus ja tehnoloogia juhtimine<br />[[HHA1500]] Ettevõtlus, valitsemine ja rahvusvaheline majandus. Juhtumiuuringud<br />[[HHL1191]] E-Valitsemine<br />[[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng<br />[[HHL1040]] Haldusjuhtimine ja avalik haldus<br />[[HHI1930]] Innovatsioonisüsteemid<br />[[HHI0015]] Internetiturundus<br />[[HHI0018]] Kultuur, identiteet ja ideoloogia: olulised perspektiivid mõistmaks Venemaad ja idapartnerlusriike<br />[[HHI1050]] Magistriseminar<br />[[HHI1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria<br />[[HHM1030]] Poliitikate kujundamine<br />[[HHX1090]] Praktika<br />[[HHL1080]] Rahvusvahelised organisatsioonid<br />[[HHA1450]] Riik ja valitsemine<br />[[HHA1400]] Sissejuhatus kapitalismi tüpoloogiasse<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHI0041]] Teadmus- ja innovatsiooniprotsesside juhtimine<br />[[HHI0014]] Tehnoloogia ettevõtlus<br />[[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[HHA1510]] Väikeriigid<br />[[HHI0016]] Venemaa ja idanaabruspoliitika majandus- ja äripoliitika keskkond ning institutsioonid<br />[[HHI0021]] Venemaa ja idapartnerlusriikide õigussüsteemid: võrdlev lähenemine<br />[[HHI0020]] Venemaa majandus</p>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHX1081]] Euroopa Liit ja mitmetasandiline valitsemine</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHL0014]] Kaasaegse Venemaa ühiskond ja kultuur</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHI0012]] Majandus ja ärikliima Venemaal</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHL0015]] Venemaa õigussüsteem ja regulatsioonid praktikas<br />&lt; [[HHI1430]] Venemaa poliitökonoomia</p></div>
-ts: 1438886343
+blocks: <h2>HAGM09/11 - Tehnoloogia valitsemine [Kava:50168 〔Õppekava ÕIS-is〕]</h2><p>[[HHA1530]] Arengupoliitikad ja üleilmastumine<br />[[HHI0022]] Äri eripärad ELis, Venemaal ja idapartnerlusriikides<br />[[HHI1421]] Äristrateegiad. Äriplaneerimine, toote ja teenuse planeerimine ning arendamine<br />[[HHI1920]] Avalik haldus ja innovatsioon<br />[[HHL1220]] Empiirilis-ajalooline majandusteadus<br />[[HHI0017]] Eriseminar<br />[[HHI0114]] Ettevõtlus ja tehnoloogia juhtimine<br />[[HHA1500]] Ettevõtlus, valitsemine ja rahvusvaheline majandus. Juhtumiuuringud<br />[[HHL1191]] E-Valitsemine<br />[[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng<br />[[HHL1040]] Haldusjuhtimine ja avalik haldus<br />[[HHI1930]] Innovatsioonisüsteemid<br />[[HHI0015]] Internetiturundus<br />[[HHI0018]] Kultuur, identiteet ja ideoloogia: olulised perspektiivid mõistmaks Venemaad ja idapartnerlusriike<br />[[HHI1050]] Magistriseminar<br />[[HHI1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria<br />[[HHM1030]] Poliitikate kujundamine<br />[[HHX1090]] Praktika<br />[[HHL1080]] Rahvusvahelised organisatsioonid<br />[[HHA1450]] Riik ja valitsemine<br />[[HHA1400]] Sissejuhatus kapitalismi tüpoloogiasse<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHI0041]] Teadmus- ja innovatsiooniprotsesside juhtimine<br />[[HHI0014]] Tehnoloogia ettevõtlus<br />[[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[HHA1510]] Väikeriigid<br />[[HHI0016]] Venemaa ja idanaabruspoliitika majandus- ja äripoliitika keskkond ning institutsioonid<br />[[HHI0021]] Venemaa ja idapartnerlusriikide õigussüsteemid: võrdlev lähenemine<br />[[HHI0020]] Venemaa majandus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAGM09/11 - Tehnoloogia valitsemine Kava:50168</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAGM09/11 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50168 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAGM09/11 - Tehnoloogia valitsemine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50168&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAGM09/11 - Tehnoloogia valitsemine [Kava:50168 〔Õppekava ÕIS-is〕]
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
 	[[HHI0022]] Äri eripärad ELis, Venemaal ja idapartnerlusriikides
 	[[HHI1421]] Äristrateegiad. Äriplaneerimine, toote ja teenuse planeerimine ning arendamine
@@ -47,4 +45,4 @@ text: == HAGM09/11 - Tehnoloogia valitsemine [http://ois.ttu.ee/portal/page?_pag
 	[[HHI0020]] Venemaa majandus
 	
 	
-keep-ts: 1438886343
+keep-ts: 1441924149

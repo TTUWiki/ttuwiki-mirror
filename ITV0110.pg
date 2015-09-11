@@ -1,18 +1,15 @@
-flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I">http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I</a></p><p>&#x2013; AlexDaniel 2014-09-02 17:31:57</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I<br />&gt; -- AlexDaniel 2014-09-02 17:31:57</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I">http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I</a></p><p>&#x2013; AlexDaniel 2014-09-02 17:31:57</p></div>
 ip: 89.235.235.166
-ts: 1409668318
-minor: 
-host: 84.52.12.115
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 1
-summary: http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Võrgurakendused I
-	#SUBURL: Course:100882
+	#SUBURL [Course:100882 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -23,4 +20,4 @@ text: #SUBTITLE Võrgurakendused I
 	
 	
 lastmajor: 4
-keep-ts: 1409668318
+keep-ts: 1441924447

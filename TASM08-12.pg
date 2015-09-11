@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50199&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis<br />[[HOL7006]] Euroopa Liidu konstitutsioon<br />[[TSE1020]] Euroopa majanduslik integratsioon<br />[[TSE1010]] Euroopa poliitiline integratsioon<br />[[TSK1028]] Hiina majandus täna ja homme<br />[[TSP1025]] Hiina poliitilised ja majanduslikud suhted USA ja Venemaaga 20.-21.sajandil<br />[[TSP1027]] Hiina ühiskond ja poliitika 20. ja 21. sajandil<br />[[TSP1026]] Hiina välispoliitika 20. ja 21. sajandil<br />[[TSK1010]] Inglise keel V<br />[[TSK1011]] Inglise keel VI<br />[[TSP1023]] Islamimaade majandus ja rahandus<br />[[TSP1024]] Julgeolekupoliitika Kaug-Idas 20. sajandi teisel poolel ja 21. sajandil<br />[[TSP1090]] Julgeoleku teooriad<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TSK1027]] Kultuuridevahelise kommunikatsiooni dialoogiline käsitlus<br />[[TSP1030]] Magistritöö seminar<br />[[TSP1011]] Poliitikateaduse üldkursus<br />[[TSK1020]] Prantsuse keel V<br />[[TSK1021]] Prantsuse keel VI<br />[[TSP1012]] Rahvusvaheline majandus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[TSP1020]] Rahvusvahelised läbirääkimised<br />[[TSP1050]] Rahvusvahelised suhted II<br />[[TSP1110]] Rahvusvaheliste konfliktide reguleerimine<br />[[TSP1080]] Rahvusvaheliste organisatsioonide analüüs<br />[[TSP1060]] Rahvusvaheliste suhete teooriad<br />[[TSP1010]] Rahvusvaheliste suhete uurimismeetodid<br />[[TSP1070]] Rahvusvaheliste süsteemide võrdlev analüüs<br />[[TSK1060]] Saksa keel V<br />[[TSK1061]] Saksa keel VI<br />[[TSK1030]] Teadusliku uurimistöö metodoloogia<br />[[TSP1140]] Transatlantiline koostöö<br />[[TSP1120]] USA välis- ja julgeolekupoliitika<br />[[TSP1100]] Uurimisseminar ja praktika<br />[[TSP1130]] Venemaa välis- ja julgeolekupoliitika<br />[[TSP1040]] Võrdlev poliitikateadus</p>
-diff-minor: 
-ts: 1408891638
+blocks: <h2>TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50199 〔Õppekava ÕIS-is〕]</h2><p>[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis<br />[[HOL7006]] Euroopa Liidu konstitutsioon<br />[[TSE1020]] Euroopa majanduslik integratsioon<br />[[TSE1010]] Euroopa poliitiline integratsioon<br />[[TSK1028]] Hiina majandus täna ja homme<br />[[TSP1025]] Hiina poliitilised ja majanduslikud suhted USA ja Venemaaga 20.-21.sajandil<br />[[TSP1027]] Hiina ühiskond ja poliitika 20. ja 21. sajandil<br />[[TSP1026]] Hiina välispoliitika 20. ja 21. sajandil<br />[[TSK1010]] Inglise keel V<br />[[TSK1011]] Inglise keel VI<br />[[TSP1023]] Islamimaade majandus ja rahandus<br />[[TSP1024]] Julgeolekupoliitika Kaug-Idas 20. sajandi teisel poolel ja 21. sajandil<br />[[TSP1090]] Julgeoleku teooriad<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TSK1027]] Kultuuridevahelise kommunikatsiooni dialoogiline käsitlus<br />[[TSP1030]] Magistritöö seminar<br />[[TSP1011]] Poliitikateaduse üldkursus<br />[[TSK1020]] Prantsuse keel V<br />[[TSK1021]] Prantsuse keel VI<br />[[TSP1012]] Rahvusvaheline majandus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[TSP1020]] Rahvusvahelised läbirääkimised<br />[[TSP1050]] Rahvusvahelised suhted II<br />[[TSP1110]] Rahvusvaheliste konfliktide reguleerimine<br />[[TSP1080]] Rahvusvaheliste organisatsioonide analüüs<br />[[TSP1060]] Rahvusvaheliste suhete teooriad<br />[[TSP1010]] Rahvusvaheliste suhete uurimismeetodid<br />[[TSP1070]] Rahvusvaheliste süsteemide võrdlev analüüs<br />[[TSK1060]] Saksa keel V<br />[[TSK1061]] Saksa keel VI<br />[[TSK1030]] Teadusliku uurimistöö metodoloogia<br />[[TSP1140]] Transatlantiline koostöö<br />[[TSP1120]] USA välis- ja julgeolekupoliitika<br />[[TSP1100]] Uurimisseminar ja praktika<br />[[TSP1130]] Venemaa välis- ja julgeolekupoliitika<br />[[TSP1040]] Võrdlev poliitikateadus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50199</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50199 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50199&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50199 〔Õppekava ÕIS-is〕]
 	[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis
 	[[HOL7006]] Euroopa Liidu konstitutsioon
 	[[TSE1020]] Euroopa majanduslik integratsioon
@@ -48,4 +50,4 @@ text: == TASM08/12 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [http://oi
 	[[TSP1040]] Võrdlev poliitikateadus
 	
 	
-keep-ts: 1408891638
+keep-ts: 1441924153

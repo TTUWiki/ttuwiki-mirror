@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HALM15/15 - Kutseõpetaja [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50183&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[KAN7030]] Andragoogika<br />[[KAT7019]] Areng ja õppimine<br />[[HPI0390]] Eetika ja insenerieetika<br />[[KAV7055]] Erialapraktika<br />[[KAT7020]] Erivajadustega õppija<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IFI7084]] Haridustehnoloogia koolis<br />[[KAK7013]] Haridusuuringute alused ja meetodid<br />[[CPX0190]] Inseneripedagoogika<br />[[KAT7007]] Kasvatusteadus ja -filosoofia<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[KAV7024]] Kutseõpetaja professionaalsus<br />[[KAV7041]] Kutseõppedidaktika<br />[[KAV7028]] Kutsepedagoogika<br />[[KAV7012]] Kutsepedagoogiline praktika I<br />[[KAV7013]] Kutsepedagoogiline praktika II<br />[[HPI0410]] Laboratoorse õppetöö didaktika<br />[[KAV7051]] Magistritöö seminar<br />[[KAN7009]] Meetodid täiskasvanute koolituses<br />[[KAV7004]] Mentorlus kutsekoolis<br />[[KAL7016]] Mitmekultuuriline õpikeskkond<br />[[KAT7018]] Õpetaja koolis ja ühiskonnas<br />[[KAT7021]] Õpetaja kui juht ja nõustaja<br />[[KAT7006]] Õpetaja kui uurija<br />[[KAT7023]] Õpi- ja käitumisraskustega õpilane ainetunnis<br />[[CPX0220]] Õpiobjekti loomise vahendid<br />[[KAV7035]] Õppekava koostamine ja arendamine kutsehariduses<br />[[KAT7003]] Õppekeskkond ja selle kujundamine<br />[[KAV7031]] Õppeprotsessi juhtimine kutsehariduses<br />[[KAV7053]] Õppevahendid kutsehariduses<br />[[KAV7016]] Õppimine töökohal<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[HPP8120]] Organisatsioonisuhtlemine<br />[[PSP6021]] Pedagoogiline psühholoogia<br />[[MES0160]] Standardid ja kvaliteet<br />[[HPI0380]] Tehnikaõppe didaktika - inseneripedagoogika praktikum<br />[[HPI0400]] Tehnilised õppevahendid, IKT, meedia ja e-õpe<br />[[HPP8215]] Tööelu kvaliteet<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HPP8109]] Tööohutus ja töötervishoid<br />[[HPP8103]] Tööpsühholoogia<br />[[MES7630]] Tootearendus ja innovatsioon<br />[[KAV7033]] Tööturg ja kutseharidus<br />[[KAV7036]] Uurimismetoodika<br />[[HPI0230]] Väljendusoskus ja akadeemiline kirjutamine</p>
-diff-minor: 
-ts: 1438887039
+blocks: <h2>HALM15/15 - Kutseõpetaja [Kava:50183 〔Õppekava ÕIS-is〕]</h2><p>[[KAN7030]] Andragoogika<br />[[KAT7019]] Areng ja õppimine<br />[[HPI0390]] Eetika ja insenerieetika<br />[[KAV7055]] Erialapraktika<br />[[KAT7020]] Erivajadustega õppija<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IFI7084]] Haridustehnoloogia koolis<br />[[KAK7013]] Haridusuuringute alused ja meetodid<br />[[CPX0190]] Inseneripedagoogika<br />[[KAT7007]] Kasvatusteadus ja -filosoofia<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[KAV7024]] Kutseõpetaja professionaalsus<br />[[KAV7041]] Kutseõppedidaktika<br />[[KAV7028]] Kutsepedagoogika<br />[[KAV7012]] Kutsepedagoogiline praktika I<br />[[KAV7013]] Kutsepedagoogiline praktika II<br />[[HPI0410]] Laboratoorse õppetöö didaktika<br />[[KAV7051]] Magistritöö seminar<br />[[KAN7009]] Meetodid täiskasvanute koolituses<br />[[KAV7004]] Mentorlus kutsekoolis<br />[[KAL7016]] Mitmekultuuriline õpikeskkond<br />[[KAT7018]] Õpetaja koolis ja ühiskonnas<br />[[KAT7021]] Õpetaja kui juht ja nõustaja<br />[[KAT7006]] Õpetaja kui uurija<br />[[KAT7023]] Õpi- ja käitumisraskustega õpilane ainetunnis<br />[[CPX0220]] Õpiobjekti loomise vahendid<br />[[KAV7035]] Õppekava koostamine ja arendamine kutsehariduses<br />[[KAT7003]] Õppekeskkond ja selle kujundamine<br />[[KAV7031]] Õppeprotsessi juhtimine kutsehariduses<br />[[KAV7053]] Õppevahendid kutsehariduses<br />[[KAV7016]] Õppimine töökohal<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[HPP8120]] Organisatsioonisuhtlemine<br />[[PSP6021]] Pedagoogiline psühholoogia<br />[[MES0160]] Standardid ja kvaliteet<br />[[HPI0380]] Tehnikaõppe didaktika - inseneripedagoogika praktikum<br />[[HPI0400]] Tehnilised õppevahendid, IKT, meedia ja e-õpe<br />[[HPP8215]] Tööelu kvaliteet<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HPP8109]] Tööohutus ja töötervishoid<br />[[HPP8103]] Tööpsühholoogia<br />[[MES7630]] Tootearendus ja innovatsioon<br />[[KAV7033]] Tööturg ja kutseharidus<br />[[KAV7036]] Uurimismetoodika<br />[[HPI0230]] Väljendusoskus ja akadeemiline kirjutamine</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HALM15/15 - Kutseõpetaja Kava:50183</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HALM15/15 - Kutseõpetaja <strong class="changes">[</strong>Kava:50183 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HALM15/15 - Kutseõpetaja [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50183&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HALM15/15 - Kutseõpetaja [Kava:50183 〔Õppekava ÕIS-is〕]
 	[[KAN7030]] Andragoogika
 	[[KAT7019]] Areng ja õppimine
 	[[HPI0390]] Eetika ja insenerieetika
@@ -57,4 +59,4 @@ text: == HALM15/15 - Kutseõpetaja [http://ois.ttu.ee/portal/page?_pageid=35,428
 	[[HPI0230]] Väljendusoskus ja akadeemiline kirjutamine
 	
 	
-keep-ts: 1438887039
+keep-ts: 1441924150

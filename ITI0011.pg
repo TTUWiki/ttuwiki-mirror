@@ -1,18 +1,15 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Страница курса: <a class="url http" href="http://courses.cs.ttu.ee/pages/ITI0011">http://courses.cs.ttu.ee/pages/ITI0011</a><br />Группа с новостями курса: <a class="url http" href="https://groups.google.com/forum/#!forum/iti0011">https://groups.google.com/forum/#!forum/iti0011</a></p><p>&#x2013; Artur Gummel 2014-09-10 10:54:04</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Страница курса: http://courses.cs.ttu.ee/pages/ITI0011<br />&gt; Группа с новостями курса: https://groups.google.com/forum/#!forum/iti0011<br />&gt; -- Artur Gummel 2014-09-10 10:54:04</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Страница курса: <a class="url http" href="http://courses.cs.ttu.ee/pages/ITI0011">http://courses.cs.ttu.ee/pages/ITI0011</a><br />Группа с новостями курса: <a class="url http" href="https://groups.google.com/forum/#!forum/iti0011">https://groups.google.com/forum/#!forum/iti0011</a></p><p>&#x2013; Artur Gummel 2014-09-10 10:54:04</p></div>
 ip: 89.235.235.166
-ts: 1410335644
-minor: 
-host: 176.46.125.185
-username: Artur Gummel
-revision: 4
-diff-major: 1
-summary: Страница курса: http://courses.cs.ttu.ee/pages/ITI0011 Группа с новостями курса: https://groups.google.com/forum/#!forum/iti0011
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Programmeerimise põhikursus Javas
-	#SUBURL: Course:100805
+	#SUBURL [Course:100805 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -24,4 +21,4 @@ text: #SUBTITLE Programmeerimise põhikursus Javas
 	
 	
 lastmajor: 4
-keep-ts: 1410335644
+keep-ts: 1441924447

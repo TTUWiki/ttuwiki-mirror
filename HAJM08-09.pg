@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAJM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50116&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HOA7005]] Avaliku õiguse eriseminar<br />[[HOX7001]] Eetika juristi tegevuses<br />[[HOE7001]] Eraõiguse eriseminar<br />[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7001]] Euroopa Liidu konstitutsioon<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOX7004]] Euroopa õigusfilosoofia<br />[[HOL7005]] Euroopa rahaliidu õiguslikud alused<br />[[HOE7003]] Finants- ja krediidiasutuste õigus<br />[[HOX7008]] Harjutuskohtuvõistlus<br />[[HOE7002]] Intellektuaalse omandi eriseminar<br />[[HOX7009]] Kinnisvara- ja planeerimisõigus<br />[[HOX7005]] Kohtumenetlus<br />[[HOA7006]] Kriminaalõiguse eriseminar<br />[[HOA7008]] Kriminoloogia<br />[[HOA7007]] Maksuõigus<br />[[HOX7007]] Õigusalane praktika<br />[[HOX7003]] Õiguse võrdlev ajalugu<br />[[HOA7004]] Õiguspoliitika ja õigusloome<br />[[HOX7002]] Õigusteaduse metodoloogia<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid<br />[[HOR7004]] Rahvusvahelise eraõiguse eriküsimused<br />[[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs<br />[[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse<br />[[HLX8040]] Teadusvõõrkeel<br />[[HOX7006]] Vaidluste kohtuväline lahendamine</p>
-diff-minor: 
-ts: 1408891391
+blocks: <h2>HAJM08/09 - Õigusteadus [Kava:50116 〔Õppekava ÕIS-is〕]</h2><p>[[HOA7005]] Avaliku õiguse eriseminar<br />[[HOX7001]] Eetika juristi tegevuses<br />[[HOE7001]] Eraõiguse eriseminar<br />[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7001]] Euroopa Liidu konstitutsioon<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOX7004]] Euroopa õigusfilosoofia<br />[[HOL7005]] Euroopa rahaliidu õiguslikud alused<br />[[HOE7003]] Finants- ja krediidiasutuste õigus<br />[[HOX7008]] Harjutuskohtuvõistlus<br />[[HOE7002]] Intellektuaalse omandi eriseminar<br />[[HOX7009]] Kinnisvara- ja planeerimisõigus<br />[[HOX7005]] Kohtumenetlus<br />[[HOA7006]] Kriminaalõiguse eriseminar<br />[[HOA7008]] Kriminoloogia<br />[[HOA7007]] Maksuõigus<br />[[HOX7007]] Õigusalane praktika<br />[[HOX7003]] Õiguse võrdlev ajalugu<br />[[HOA7004]] Õiguspoliitika ja õigusloome<br />[[HOX7002]] Õigusteaduse metodoloogia<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid<br />[[HOR7004]] Rahvusvahelise eraõiguse eriküsimused<br />[[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs<br />[[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse<br />[[HLX8040]] Teadusvõõrkeel<br />[[HOX7006]] Vaidluste kohtuväline lahendamine</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAJM08/09 - Õigusteadus Kava:50116</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAJM08/09 - Õigusteadus <strong class="changes">[</strong>Kava:50116 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAJM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50116&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAJM08/09 - Õigusteadus [Kava:50116 〔Õppekava ÕIS-is〕]
 	[[HOA7005]] Avaliku õiguse eriseminar
 	[[HOX7001]] Eetika juristi tegevuses
 	[[HOE7001]] Eraõiguse eriseminar
@@ -41,4 +43,4 @@ text: == HAJM08/09 - Õigusteadus [http://ois.ttu.ee/portal/page?_pageid=35,4285
 	[[HOX7006]] Vaidluste kohtuväline lahendamine
 	
 	
-keep-ts: 1408891391
+keep-ts: 1441924150

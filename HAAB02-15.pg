@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAB02/15 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50311&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHL0171]] Avalik eetika ja korruptsioon<br />[[HHX0050]] Avaliku halduse bakalaureuseeksam<br />[[HHL0042]] Avaliku halduse valikkursus<br />[[HHM1151]] Avaliku sektori disainilabor<br />[[IDK0041]] Digikirjaoskus I<br />[[HHM1141]] Eesti riik ja kohalik omavalitsus<br />[[IDK0301]] E-riigi infotehnoloogilised lahendused<br />[[HHI0033]] Ettevõtlus, innovatsioon ja riik<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HHL0150]] Euroopa Liit<br />[[TAF0070]] Finantsarvestuse alused<br />[[HHI0034]] Globaliseerumine ja valitsemine<br />[[HOA7003]] Haldusõigus<br />[[HHL1011]] Halduspoliitika valikkursus<br />[[HHM1142]] Haldusreformid<br />[[HHM1143]] Juhtimisoskused<br />[[HHM1153]] Kultuur ja meedia<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HHM0016]] Mittetulundussektor<br />[[HOA6014]] Normitehnika<br />[[UTT0010]] Õpingukorraldus<br />[[HHM1152]] Organisatsioon ja juhtimine<br />[[HHL0025]] Poliitika analüüsi tehnikad<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0161]] Poliitikate kujundamine<br />[[HHL0130]] Politoloogia alused<br />[[HHX0071]] Praktika<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[TER0420]] Rahanduse alused<br />[[HOA7002]] Riigiõigus<br />[[HHL1170]] Riigi rahandus<br />[[HHL0026]] Riigiteaduste valikkursus<br />[[HHL0024]] Sotsiaalteaduste klassikud<br />[[TES0020]] Statistika<br />[[HHM1150]] Tänapäeva ühiskonna väljakutsed<br />[[HHL0221]] Teaduspõhine analüüs<br />[[HHI0132]] techEstonia - Ettevõtliku riigi innovatsioonilabor<br />[[HOE6020]] Tööõigus<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
-diff-minor: 
-ts: 1438887021
+blocks: <h2>HAAB02/15 - Avalik haldus ja riigiteadused [Kava:50311 〔Õppekava ÕIS-is〕]</h2><p>[[HHL0171]] Avalik eetika ja korruptsioon<br />[[HHX0050]] Avaliku halduse bakalaureuseeksam<br />[[HHL0042]] Avaliku halduse valikkursus<br />[[HHM1151]] Avaliku sektori disainilabor<br />[[IDK0041]] Digikirjaoskus I<br />[[HHM1141]] Eesti riik ja kohalik omavalitsus<br />[[IDK0301]] E-riigi infotehnoloogilised lahendused<br />[[HHI0033]] Ettevõtlus, innovatsioon ja riik<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HHL0150]] Euroopa Liit<br />[[TAF0070]] Finantsarvestuse alused<br />[[HHI0034]] Globaliseerumine ja valitsemine<br />[[HOA7003]] Haldusõigus<br />[[HHL1011]] Halduspoliitika valikkursus<br />[[HHM1142]] Haldusreformid<br />[[HHM1143]] Juhtimisoskused<br />[[HHM1153]] Kultuur ja meedia<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HHM0016]] Mittetulundussektor<br />[[HOA6014]] Normitehnika<br />[[UTT0010]] Õpingukorraldus<br />[[HHM1152]] Organisatsioon ja juhtimine<br />[[HHL0025]] Poliitika analüüsi tehnikad<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0161]] Poliitikate kujundamine<br />[[HHL0130]] Politoloogia alused<br />[[HHX0071]] Praktika<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[TER0420]] Rahanduse alused<br />[[HOA7002]] Riigiõigus<br />[[HHL1170]] Riigi rahandus<br />[[HHL0026]] Riigiteaduste valikkursus<br />[[HHL0024]] Sotsiaalteaduste klassikud<br />[[TES0020]] Statistika<br />[[HHM1150]] Tänapäeva ühiskonna väljakutsed<br />[[HHL0221]] Teaduspõhine analüüs<br />[[HHI0132]] techEstonia - Ettevõtliku riigi innovatsioonilabor<br />[[HOE6020]] Tööõigus<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAB02/15 - Avalik haldus ja riigiteadused Kava:50311</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAB02/15 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50311 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAAB02/15 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50311&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAAB02/15 - Avalik haldus ja riigiteadused [Kava:50311 〔Õppekava ÕIS-is〕]
 	[[HHL0171]] Avalik eetika ja korruptsioon
 	[[HHX0050]] Avaliku halduse bakalaureuseeksam
 	[[HHL0042]] Avaliku halduse valikkursus
@@ -51,4 +53,4 @@ text: == HAAB02/15 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/pa
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-keep-ts: 1438887021
+keep-ts: 1441924149

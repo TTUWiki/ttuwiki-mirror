@@ -1,20 +1,15 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Здесь находится хороший учебник, по которому в принципе составлены лекции, правда учебник английский, но думаю есть и на русском.</p><p><a class="url http" href="http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf">http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf</a><br />_____________________________________________</p><p>А тут ссылка на лекции</p><p><a class="url http" href="http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html">http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html</a></p><p>&#x2013; Аноним 2014-02-24 22:05 UTC</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Sidemeetodid <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>29757<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Sidemeetodid<br />&gt; <strong class="changes">#SUBURL: Course:</strong>29757</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Здесь находится хороший учебник, по которому в принципе составлены лекции, правда учебник английский, но думаю есть и на русском.</p><p><a class="url http" href="http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf">http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf</a><br />_____________________________________________</p><p>А тут ссылка на лекции</p><p><a class="url http" href="http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html">http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html</a></p><p>&#x2013; Аноним 2014-02-24 22:05 UTC</p></div>
 ip: 84.50.22.158
-ts: 1408847703
+ts: 1441924447
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 4
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Здесь находится хороший учебник, по которому в принципе составлены лекции, правда учебник английский, но думаю есть и на русском.<br />&gt; http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf<br />&gt; _____________________________________________<br />&gt; А тут ссылка на лекции<br />&gt; http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html<br />&gt; -- Аноним 2014-02-24 22:05 UTC</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Sidemeetodid
-	#SUBURL: Course:29757
+	#SUBURL [Course:29757 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -32,4 +27,4 @@ text: #SUBTITLE Sidemeetodid
 	
 	
 lastmajor: 3
-keep-ts: 1408847703
+keep-ts: 1441924447

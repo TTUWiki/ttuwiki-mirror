@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>KATB02/02 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=813&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[YKL3311]] Biokeemia<br />[[YKL3312]] Biokeemia - praktikum<br />[[YKB5220]] Biotehnoloogia  I<br />[[YKB3221]] Biotehnoloogia II<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[KTT0070]] Ensüümid toidu töötlemisel<br />[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[KYF0021]] Füüsikaline keemia I<br />[[KYF0022]] Füüsikaline keemia II<br />[[KYF0030]] Füüsikaline keemia - praktikum<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[YGK3360]] Insenerigraafika<br />[[YKI0020]] Keemia alused<br />[[KAT3181]] Keemiatehnika alused<br />[[KAT3182]] Keemiatehnika alused - projekt<br />[[YGK3340]] Kujutav geomeetria<br />[[KTT0110]] Kvalimeetria<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KTT0011]] Mikrobioloogia<br />[[KTT0012]] Mikrobioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[KT0310P]] Praktika<br />[[HHA3030]] Sotsioloogia<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika<br />[[KTO3210]] Toiduainekeemia<br />[[KTT0090]] Toiduinformaatika<br />[[KTO0060]] Toidu sensoorne analüüs<br />[[KTT0100]] Toidu töötlemise alused<br />[[KTO0011]] Toitumisõpetus<br />[[KTO0012]] Toitumisõpetus - praktikum</p>
-diff-minor: 
-ts: 1408891482
+blocks: <h2>KATB02/02 - Toidutehnika ja tootearendus [Kava:813 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[YKL3311]] Biokeemia<br />[[YKL3312]] Biokeemia - praktikum<br />[[YKB5220]] Biotehnoloogia  I<br />[[YKB3221]] Biotehnoloogia II<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[KTT0070]] Ensüümid toidu töötlemisel<br />[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[KYF0021]] Füüsikaline keemia I<br />[[KYF0022]] Füüsikaline keemia II<br />[[KYF0030]] Füüsikaline keemia - praktikum<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[YGK3360]] Insenerigraafika<br />[[YKI0020]] Keemia alused<br />[[KAT3181]] Keemiatehnika alused<br />[[KAT3182]] Keemiatehnika alused - projekt<br />[[YGK3340]] Kujutav geomeetria<br />[[KTT0110]] Kvalimeetria<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KTT0011]] Mikrobioloogia<br />[[KTT0012]] Mikrobioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[KT0310P]] Praktika<br />[[HHA3030]] Sotsioloogia<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika<br />[[KTO3210]] Toiduainekeemia<br />[[KTT0090]] Toiduinformaatika<br />[[KTO0060]] Toidu sensoorne analüüs<br />[[KTT0100]] Toidu töötlemise alused<br />[[KTO0011]] Toitumisõpetus<br />[[KTO0012]] Toitumisõpetus - praktikum</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KATB02/02 - Toidutehnika ja tootearendus Kava:813</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KATB02/02 - Toidutehnika ja tootearendus <strong class="changes">[</strong>Kava:813 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924151
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == KATB02/02 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=92&p_kava_versioon_id=813&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == KATB02/02 - Toidutehnika ja tootearendus [Kava:813 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0010]] Analüütiline keemia
 	[[YKA0020]] Analüütiline keemia - praktikum
@@ -57,4 +59,4 @@ text: == KATB02/02 - Toidutehnika ja tootearendus [http://ois.ttu.ee/portal/page
 	[[KTO0012]] Toitumisõpetus - praktikum
 	
 	
-keep-ts: 1408891482
+keep-ts: 1441924151

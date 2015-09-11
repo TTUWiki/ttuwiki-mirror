@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAUM12/12 - Linnaehitus ja hoonete projekteerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50197&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[EEA7130]] 3D programmide õpe<br />[[EEA7140]] Arhitekt, arhitektuur ja eetika<br />[[EEA7030]] Arhitektuurne projekt III. Restaureerimine ja interjöörid<br />[[EEA7020]] Arhitektuurne projekt II. Olulise linnaehitusliku tähtsusega objekt<br />[[EEA7010]] Arhitektuurne projekt I. Ühiskondlik hoone - saalehitis<br />[[HHR0012]] Avalik haldus<br />[[EEA7120]] BIM<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA7180]] Ehitusakustika<br />[[EKK0250]] Energiatõhusus ja selle majanduslik hindamine<br />[[EKK0320]] Energiatõhusus ja sisekliima hoonete planeerimisel<br />[[EKK0330]] Hoone tehnosüsteemid (arhitektidele)<br />[[EEK0090]] Hoonete konstruktsioonid arhitektidele<br />[[EEA7160]] Interjöör<br />[[EEA7080]] Kaasaegse arhitektuuri ajalugu<br />[[EEA7070]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EPJ3815]] Kinnisvara haldamine ja kohalik omavalitsus<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[EEA7040]] Linnaehituslik planeerimine. Planeerimisprojekt I. Energiatõhus linnakvartal<br />[[EEA7060]] Linnaehituslik planeerimine. Planeerimisprojekt III<br />[[EEA7050]] Linnaehituslik planeerimine. Planeerimisprojekt II. Planeering linna keskuses<br />[[TTS1100]] Linna- ja eluasemesotsioloogia<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[EEA7090]] Linnaruumi dimensioonid<br />[[EEA7190]] Loomiskunsti õpetus<br />[[EEA7200]] Praktika<br />[[EEA7150]] Restaureerimise projekti põhialused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused<br />[[EEA7170]] Vertikaalplaneerimine<br />[[EEA7100]] XXI sajandi linnaehituslikud arengusuunad</p>
-diff-minor: 
-ts: 1408891357
+blocks: <h2>EAUM12/12 - Linnaehitus ja hoonete projekteerimine [Kava:50197 〔Õppekava ÕIS-is〕]</h2><p>[[EEA7130]] 3D programmide õpe<br />[[EEA7140]] Arhitekt, arhitektuur ja eetika<br />[[EEA7030]] Arhitektuurne projekt III. Restaureerimine ja interjöörid<br />[[EEA7020]] Arhitektuurne projekt II. Olulise linnaehitusliku tähtsusega objekt<br />[[EEA7010]] Arhitektuurne projekt I. Ühiskondlik hoone - saalehitis<br />[[HHR0012]] Avalik haldus<br />[[EEA7120]] BIM<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA7180]] Ehitusakustika<br />[[EKK0250]] Energiatõhusus ja selle majanduslik hindamine<br />[[EKK0320]] Energiatõhusus ja sisekliima hoonete planeerimisel<br />[[EKK0330]] Hoone tehnosüsteemid (arhitektidele)<br />[[EEK0090]] Hoonete konstruktsioonid arhitektidele<br />[[EEA7160]] Interjöör<br />[[EEA7080]] Kaasaegse arhitektuuri ajalugu<br />[[EEA7070]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit<br />[[EPJ3815]] Kinnisvara haldamine ja kohalik omavalitsus<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[EEA7040]] Linnaehituslik planeerimine. Planeerimisprojekt I. Energiatõhus linnakvartal<br />[[EEA7060]] Linnaehituslik planeerimine. Planeerimisprojekt III<br />[[EEA7050]] Linnaehituslik planeerimine. Planeerimisprojekt II. Planeering linna keskuses<br />[[TTS1100]] Linna- ja eluasemesotsioloogia<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[EEA7090]] Linnaruumi dimensioonid<br />[[EEA7190]] Loomiskunsti õpetus<br />[[EEA7200]] Praktika<br />[[EEA7150]] Restaureerimise projekti põhialused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETV6010]] Transpordiinfrastruktuuri planeerimise alused<br />[[EEA7170]] Vertikaalplaneerimine<br />[[EEA7100]] XXI sajandi linnaehituslikud arengusuunad</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine Kava:50197</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine <strong class="changes">[</strong>Kava:50197 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == EAUM12/12 - Linnaehitus ja hoonete projekteerimine [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50197&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == EAUM12/12 - Linnaehitus ja hoonete projekteerimine [Kava:50197 〔Õppekava ÕIS-is〕]
 	[[EEA7130]] 3D programmide õpe
 	[[EEA7140]] Arhitekt, arhitektuur ja eetika
 	[[EEA7030]] Arhitektuurne projekt III. Restaureerimine ja interjöörid
@@ -45,4 +47,4 @@ text: == EAUM12/12 - Linnaehitus ja hoonete projekteerimine [http://ois.ttu.ee/p
 	[[EEA7100]] XXI sajandi linnaehituslikud arengusuunad
 	
 	
-keep-ts: 1408891357
+keep-ts: 1441924149

@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAPM02/15 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50314&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[ITI8590]] Algoritmide ja andmestruktuuride erikursus<br />[[ITX004P]] Erialapraktika<br />[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IDU0210]] Hajusarhitektuurid<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[ITT0040]] Loogika arvutiteaduses<br />[[ITX8301]] Magistriseminar I<br />[[ITX8302]] Magistriseminar II<br />[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine<br />[[ITI8565]] Masinõpe<br />[[YMR0050]] Operatsioonianalüüs<br />[[ITX829P]] Õpetamispraktika<br />[[ITT8060]] Programmeerimise erikursus<br />[[IDU0191]] Protsessitehnika infosüsteemide arendamisel<br />[[IDU0192]] Protsessitehnika infosüsteemide arendamisel - projekt<br />[[ITI8510]] Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine<br />[[ITT0050]] Rekursiooni- ja keerukusteooria<br />[[ITV0071]] Semantika ja analüütiline filosoofia<br />[[ITX8530]] Tarkvaraarenduse meeskonnaprojekt: tellimus<br />[[ITX8540]] Tarkvaraarenduse teaduspõhine meeskonnaprojekt: startup<br />[[IDU1550]] Tarkvara arhitektuur ja disain<br />[[IDX1511]] Tarkvara protsessid ja kvaliteet<br />[[ITI8531]] Tarkvara süntees ja verifitseerimine<br />[[ITI8610]] Tarkvara töökindlus<br />[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur</p>
-diff-minor: 
-ts: 1438887055
+blocks: <h2>IAPM02/15 - Informaatika [Kava:50314 〔Õppekava ÕIS-is〕]</h2><p>[[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[ITI8590]] Algoritmide ja andmestruktuuride erikursus<br />[[ITX004P]] Erialapraktika<br />[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IDU0210]] Hajusarhitektuurid<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[ITT0040]] Loogika arvutiteaduses<br />[[ITX8301]] Magistriseminar I<br />[[ITX8302]] Magistriseminar II<br />[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine<br />[[ITI8565]] Masinõpe<br />[[YMR0050]] Operatsioonianalüüs<br />[[ITX829P]] Õpetamispraktika<br />[[ITT8060]] Programmeerimise erikursus<br />[[IDU0191]] Protsessitehnika infosüsteemide arendamisel<br />[[IDU0192]] Protsessitehnika infosüsteemide arendamisel - projekt<br />[[ITI8510]] Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine<br />[[ITT0050]] Rekursiooni- ja keerukusteooria<br />[[ITV0071]] Semantika ja analüütiline filosoofia<br />[[ITX8530]] Tarkvaraarenduse meeskonnaprojekt: tellimus<br />[[ITX8540]] Tarkvaraarenduse teaduspõhine meeskonnaprojekt: startup<br />[[IDU1550]] Tarkvara arhitektuur ja disain<br />[[IDX1511]] Tarkvara protsessid ja kvaliteet<br />[[ITI8531]] Tarkvara süntees ja verifitseerimine<br />[[ITI8610]] Tarkvara töökindlus<br />[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAPM02/15 - Informaatika Kava:50314</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAPM02/15 - Informaatika <strong class="changes">[</strong>Kava:50314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IAPM02/15 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=50314&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IAPM02/15 - Informaatika [Kava:50314 〔Õppekava ÕIS-is〕]
 	[[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[ITI8590]] Algoritmide ja andmestruktuuride erikursus
 	[[ITX004P]] Erialapraktika
@@ -42,4 +44,4 @@ text: == IAPM02/15 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,4285
 	[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur
 	
 	
-keep-ts: 1438887055
+keep-ts: 1441924150

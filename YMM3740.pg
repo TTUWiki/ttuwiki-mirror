@@ -1,20 +1,15 @@
 flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Пискунов 1 и 2</p><p>[[File:piskunov.zip]]</p><p>&#x2013; Atomsk 2014-02-25 23:20 UTC</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Matemaatiline analüüs II <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>28199<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Matemaatiline analüüs II<br />&gt; <strong class="changes">#SUBURL: Course:</strong>28199</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Пискунов 1 и 2</p><p>[[File:piskunov.zip]]</p><p>&#x2013; Atomsk 2014-02-25 23:20 UTC</p></div>
 ip: 84.52.48.194
-ts: 1408850478
+ts: 1441924452
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 6
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Ваш комментарий...<br />&gt; -- Atomsk 2014-02-25 23:20 UTC</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 7
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Matemaatiline analüüs II
-	#SUBURL: Course:28199
+	#SUBURL [Course:28199 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -27,4 +22,4 @@ text: #SUBTITLE Matemaatiline analüüs II
 	
 	
 lastmajor: 4
-keep-ts: 1408850478
+keep-ts: 1441924452

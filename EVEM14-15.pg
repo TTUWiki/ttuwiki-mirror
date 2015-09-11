@@ -1,15 +1,17 @@
 flags: 01010101010101010101010
-blocks: <h2>EVEM14/15 - Euroopa arhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50289&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[EAA0090]] Arhitektuuri ja linnaehitusteooriate peegeldused 1 [TTÜ workshop]<br />[[EAA0100]] Arhitektuuri ja linnaehitusteooriate peegeldused 2<br />[[EAA0060]] Arhitektuuriruumi kujunemine [Workshop Innsbruck]<br />[[EAA0020]] Arhitektuurne projekt [Põhja-Euroopa workshop]<br />[[EAA0080]] Eksperimentaalne arhitektuur [Lõuna-Euroopa workshop]<br />[[EAA0010]] Linnaehituse strateegiad /Jätkusuutlik linnaehituslik transformeering Tallinna näitel<br />[[EAA0030]] Linnaehituslikud muudatused [Workshop Ljubljana]<br />[[EAA0070]] Linnaruumi kujunemine<br />[[EAA0050]] Ruumi strateegiad  [Workshop Berlin]<br />[[EAA0040]] Uuenev linnaruum [Workshop Haifa]</p>
-diff-minor: 
-ts: 1438887017
+blocks: <h2>EVEM14/15 - Euroopa arhitektuur [Kava:50289 〔Õppekava ÕIS-is〕]</h2><p>[[EAA0090]] Arhitektuuri ja linnaehitusteooriate peegeldused 1 [TTÜ workshop]<br />[[EAA0100]] Arhitektuuri ja linnaehitusteooriate peegeldused 2<br />[[EAA0060]] Arhitektuuriruumi kujunemine [Workshop Innsbruck]<br />[[EAA0020]] Arhitektuurne projekt [Põhja-Euroopa workshop]<br />[[EAA0080]] Eksperimentaalne arhitektuur [Lõuna-Euroopa workshop]<br />[[EAA0010]] Linnaehituse strateegiad /Jätkusuutlik linnaehituslik transformeering Tallinna näitel<br />[[EAA0030]] Linnaehituslikud muudatused [Workshop Ljubljana]<br />[[EAA0070]] Linnaruumi kujunemine<br />[[EAA0050]] Ruumi strateegiad  [Workshop Berlin]<br />[[EAA0040]] Uuenev linnaruum [Workshop Haifa]</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EVEM14/15 - Euroopa arhitektuur Kava:50289</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EVEM14/15 - Euroopa arhitektuur <strong class="changes">[</strong>Kava:50289 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == EVEM14/15 - Euroopa arhitektuur [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=89&p_kava_versioon_id=50289&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == EVEM14/15 - Euroopa arhitektuur [Kava:50289 〔Õppekava ÕIS-is〕]
 	[[EAA0090]] Arhitektuuri ja linnaehitusteooriate peegeldused 1 [TTÜ workshop]
 	[[EAA0100]] Arhitektuuri ja linnaehitusteooriate peegeldused 2
 	[[EAA0060]] Arhitektuuriruumi kujunemine [Workshop Innsbruck]
@@ -22,4 +24,4 @@ text: == EVEM14/15 - Euroopa arhitektuur [http://ois.ttu.ee/portal/page?_pageid=
 	[[EAA0040]] Uuenev linnaruum [Workshop Haifa]
 	
 	
-keep-ts: 1438887017
+keep-ts: 1441924149

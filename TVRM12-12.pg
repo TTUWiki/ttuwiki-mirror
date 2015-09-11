@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TVRM12/12 - Rahandus ja majandusanalüüs [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50185&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSK1012]] Analüütiline kirjutamine ja esitlemine<br />[[IDN0200]] Andmekaevandamine ja võrgustike analüüs<br />[[TET2409]] Arengutrendid maailmamajanduses<br />[[TER2412]] Ärianalüüsi meetodid<br />[[IDU0300]] Äriinfosüsteemid<br />[[TTR2030]] Avaliku sektori ökonoomika<br />[[TET2401]] Avatud majanduse makroökonoomika<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TEX055P]] Erialapraktika<br />[[TMJ2110]] Ettevõte ja ärikeskkond<br />[[TER2407]] Ettevõtte rahandus<br />[[TER2401]] Finantsanalüüs<br />[[TAF2110]] Finantsarvestus ja -aruandlus<br />[[TER2413]] Finantsjuhtimine<br />[[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng<br />[[IDK1080]] Informaatika analüütikutele<br />[[TET2404]] Institutsiooniökonoomika<br />[[TER2403]] Investeeringute analüüs<br />[[IDK1232]] Juhtimisotsuste kvantitatiivne analüüs<br />[[TET2407]] Konkurentsiökonoomika<br />[[TER2404]] Määratud maksetega instrumendid<br />[[TEX2401]] Magistriseminar<br />[[TER2402]] Majandusmõte ja -metodoloogia<br />[[TET2406]] Makroökonoomika<br />[[TET2402]] Mänguteooria rakendused juhtimisotsustes<br />[[TET2405]] Mikroökonoomika<br />[[TES2403]] Mitmemõõtmeline statistiline analüüs<br />[[TER2409]] Ohjamine ja koordinatsioon majanduses<br />[[HOE7005]] Õigus ja maksundus<br />[[TES2401]] Ökonomeetria I<br />[[TES2402]] Ökonomeetria II<br />[[TMO2230]] Organisatsioonikäitumine<br />[[TER2406]] Portfellijuhtimine<br />[[TER2408]] Raha, turud ja finantsvahendus<br />[[TET2403]] Rahvusvaheline majandus<br />[[TER2411]] Riskijuhtimine<br />[[TAK2050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[TER2405]] Tuletisväärtpaberid</p>
-diff-minor: 
-ts: 1408891652
+blocks: <h2>TVRM12/12 - Rahandus ja majandusanalüüs [Kava:50185 〔Õppekava ÕIS-is〕]</h2><p>[[TSK1012]] Analüütiline kirjutamine ja esitlemine<br />[[IDN0200]] Andmekaevandamine ja võrgustike analüüs<br />[[TET2409]] Arengutrendid maailmamajanduses<br />[[TER2412]] Ärianalüüsi meetodid<br />[[IDU0300]] Äriinfosüsteemid<br />[[TTR2030]] Avaliku sektori ökonoomika<br />[[TET2401]] Avatud majanduse makroökonoomika<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TEX055P]] Erialapraktika<br />[[TMJ2110]] Ettevõte ja ärikeskkond<br />[[TER2407]] Ettevõtte rahandus<br />[[TER2401]] Finantsanalüüs<br />[[TAF2110]] Finantsarvestus ja -aruandlus<br />[[TER2413]] Finantsjuhtimine<br />[[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng<br />[[IDK1080]] Informaatika analüütikutele<br />[[TET2404]] Institutsiooniökonoomika<br />[[TER2403]] Investeeringute analüüs<br />[[IDK1232]] Juhtimisotsuste kvantitatiivne analüüs<br />[[TET2407]] Konkurentsiökonoomika<br />[[TER2404]] Määratud maksetega instrumendid<br />[[TEX2401]] Magistriseminar<br />[[TER2402]] Majandusmõte ja -metodoloogia<br />[[TET2406]] Makroökonoomika<br />[[TET2402]] Mänguteooria rakendused juhtimisotsustes<br />[[TET2405]] Mikroökonoomika<br />[[TES2403]] Mitmemõõtmeline statistiline analüüs<br />[[TER2409]] Ohjamine ja koordinatsioon majanduses<br />[[HOE7005]] Õigus ja maksundus<br />[[TES2401]] Ökonomeetria I<br />[[TES2402]] Ökonomeetria II<br />[[TMO2230]] Organisatsioonikäitumine<br />[[TER2406]] Portfellijuhtimine<br />[[TER2408]] Raha, turud ja finantsvahendus<br />[[TET2403]] Rahvusvaheline majandus<br />[[TER2411]] Riskijuhtimine<br />[[TAK2050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[TER2405]] Tuletisväärtpaberid</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVRM12/12 - Rahandus ja majandusanalüüs Kava:50185</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVRM12/12 - Rahandus ja majandusanalüüs <strong class="changes">[</strong>Kava:50185 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TVRM12/12 - Rahandus ja majandusanalüüs [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50185&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TVRM12/12 - Rahandus ja majandusanalüüs [Kava:50185 〔Õppekava ÕIS-is〕]
 	[[TSK1012]] Analüütiline kirjutamine ja esitlemine
 	[[IDN0200]] Andmekaevandamine ja võrgustike analüüs
 	[[TET2409]] Arengutrendid maailmamajanduses
@@ -51,4 +53,4 @@ text: == TVRM12/12 - Rahandus ja majandusanalüüs [http://ois.ttu.ee/portal/pag
 	[[TER2405]] Tuletisväärtpaberid
 	
 	
-keep-ts: 1408891652
+keep-ts: 1441924154

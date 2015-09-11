@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010
-blocks: <h2>NAEM06/15 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50291&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[NTK1230]] Asjaajamine ja raamatupidamise alused<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0500]] Energiakasutus ja energeetilised ressursid<br />[[NTK1200]] Ettevõtlus ja äri planeerimine<br />[[NTK1240]] Jäätmete taaskasutus<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTS0270]] Logistika alused<br />[[NTK1050]] Magistripraktika<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTK1150]] Materjalivoogude analüüs<br />[[NTK1010]] Ökodisain<br />[[NTK1130]] Ökoinnovatsioon<br />[[NTK0930]] Olelusringi hindamine 2<br />[[NTK1110]] Praktiline keskkonnaökonoomika<br />[[NTK0750]] Säästev areng<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTK1020]] Suurtootmise tehnoloogilised protsessid<br />[[NTS1530]] Taastuvenergiate tehnoloogiad<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1100]] Tööstusökoloogia töövahendid<br />[[NTS1360]] Turundus<br />[[NTK0630]] Veereostus ja -kaitse</p>
-diff-minor: 
-ts: 1438887367
+blocks: <h2>NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]</h2><p>[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[NTK1230]] Asjaajamine ja raamatupidamise alused<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0500]] Energiakasutus ja energeetilised ressursid<br />[[NTK1200]] Ettevõtlus ja äri planeerimine<br />[[NTK1240]] Jäätmete taaskasutus<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTS0270]] Logistika alused<br />[[NTK1050]] Magistripraktika<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTK1150]] Materjalivoogude analüüs<br />[[NTK1010]] Ökodisain<br />[[NTK1130]] Ökoinnovatsioon<br />[[NTK0930]] Olelusringi hindamine 2<br />[[NTK1110]] Praktiline keskkonnaökonoomika<br />[[NTK0750]] Säästev areng<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTK1020]] Suurtootmise tehnoloogilised protsessid<br />[[NTS1530]] Taastuvenergiate tehnoloogiad<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1100]] Tööstusökoloogia töövahendid<br />[[NTS1360]] Turundus<br />[[NTK0630]] Veereostus ja -kaitse</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEM06/15 - Tööstusökoloogia Kava:50291</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEM06/15 - Tööstusökoloogia <strong class="changes">[</strong>Kava:50291 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == NAEM06/15 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50291&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]
 	[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[NTK1230]] Asjaajamine ja raamatupidamise alused
 	[[NTK0720]] Bioloogiline mitmekesisus
@@ -38,4 +40,4 @@ text: == NAEM06/15 - Tööstusökoloogia [http://ois.ttu.ee/portal/page?_pageid=
 	[[NTK0630]] Veereostus ja -kaitse
 	
 	
-keep-ts: 1438887367
+keep-ts: 1441924152

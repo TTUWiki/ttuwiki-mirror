@@ -1,5 +1,3 @@
-flags: 01010
-blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Расписания для докторантов</h3><p>&#x2013; AlexDaniel 2015-01-14 00:36:51</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; === Расписания для докторантов <strong class="changes">и заочников</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; === Расписания для докторантов</p></div>

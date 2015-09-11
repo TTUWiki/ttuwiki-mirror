@@ -1,20 +1,16 @@
 flags: 0
 blocks: <p><a class="url http outside" href="http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf">Õppematerjal</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Õppematerjal asub:</strong> http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">[</strong>http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf <strong class="changes">Õppematerjal]</strong></p></div>
 ip: 89.235.235.166
-ts: 1441273468
-minor: 
-host: 86.110.37.246
-username: 
-revision: 5
-diff-major: 1
-summary: 
+ts: 1441924448
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Tuumareaktorid
-	#SUBURL: Course:100950
+	#SUBURL [Course:100950 〔Õppeaine ÕIS-is〕]
 	[http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf Õppematerjal]
 	
 lastmajor: 5
-keep-ts: 1441273468
+keep-ts: 1441924448

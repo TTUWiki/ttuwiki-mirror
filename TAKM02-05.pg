@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAKM02/05 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=3661&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMJ8130]] Ärilogistika<br />[[TMM1210]] Ärisuhtlus<br />[[TTO1030]] Äritegevuse õiguslik keskkond<br />[[TMO1090]] Äriühingute valitsemine<br />[[TTP1020]] Eesti majandus<br />[[TMV8260]] Ettevõtlus<br />[[TER8640]] Ettevõtte rahandus<br />[[TTP1040]] Euroopa Liidu majanduspoliitika ja ärikeskkond<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[TER1364]] Finants- ja väärtpaberianalüüs<br />[[TER8120]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8230]] Juhtimine<br />[[TAK8350]] Juhtimisarvestus<br />[[TMO8320]] Juhtimise konsulteerimine<br />[[TEM8190]] Juhtimisinfo töötlemine<br />[[TMV1050]] Juhtimismäng<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[TAF1080]] Magistriseminar<br />[[TET8280]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8310]] Organisatsioonikäitumine<br />[[TMO8130]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TER8111]] Raha ja pangandus<br />[[TMM1110]] Rahvusvaheline turundus<br />[[TMO8240]] Strateegiline juhtimine<br />[[TMK1100]] Tehnoloogia juhtimine<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[TMK1110]] Tootmiskorraldus<br />[[TMM8830]] Turunduse kontseptsioonid<br />[[TMM8860]] Turunduskommunikatsioon  II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1100]] Uurimistöö</p>
-diff-minor: 
-ts: 1408891621
+blocks: <h2>TAKM02/05 - Ärikorraldus [Kava:3661 〔Õppekava ÕIS-is〕]</h2><p>[[TMJ8130]] Ärilogistika<br />[[TMM1210]] Ärisuhtlus<br />[[TTO1030]] Äritegevuse õiguslik keskkond<br />[[TMO1090]] Äriühingute valitsemine<br />[[TTP1020]] Eesti majandus<br />[[TMV8260]] Ettevõtlus<br />[[TER8640]] Ettevõtte rahandus<br />[[TTP1040]] Euroopa Liidu majanduspoliitika ja ärikeskkond<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8280]] Finantsarvestus ja -aruandlus<br />[[TER1364]] Finants- ja väärtpaberianalüüs<br />[[TER8120]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8230]] Juhtimine<br />[[TAK8350]] Juhtimisarvestus<br />[[TMO8320]] Juhtimise konsulteerimine<br />[[TEM8190]] Juhtimisinfo töötlemine<br />[[TMV1050]] Juhtimismäng<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[TAF1080]] Magistriseminar<br />[[TET8280]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8310]] Organisatsioonikäitumine<br />[[TMO8130]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TER8111]] Raha ja pangandus<br />[[TMM1110]] Rahvusvaheline turundus<br />[[TMO8240]] Strateegiline juhtimine<br />[[TMK1100]] Tehnoloogia juhtimine<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[TMK1110]] Tootmiskorraldus<br />[[TMM8830]] Turunduse kontseptsioonid<br />[[TMM8860]] Turunduskommunikatsioon  II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1100]] Uurimistöö</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAKM02/05 - Ärikorraldus Kava:3661</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAKM02/05 - Ärikorraldus <strong class="changes">[</strong>Kava:3661 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TAKM02/05 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=3661&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TAKM02/05 - Ärikorraldus [Kava:3661 〔Õppekava ÕIS-is〕]
 	[[TMJ8130]] Ärilogistika
 	[[TMM1210]] Ärisuhtlus
 	[[TTO1030]] Äritegevuse õiguslik keskkond
@@ -49,4 +51,4 @@ text: == TAKM02/05 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428
 	[[TXX1100]] Uurimistöö
 	
 	
-keep-ts: 1408891621
+keep-ts: 1441924153

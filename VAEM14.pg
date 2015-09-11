@@ -6,8 +6,8 @@ minor: 1
 host: 89.235.223.25
 username: Bot
 revision: 2
-diff-major: 
 summary: Автоматическое обновление (расписание)
+diff-major: 
 languages: 
 text: <include "VAEM14-14">
 	

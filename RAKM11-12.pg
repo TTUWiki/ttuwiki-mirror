@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010
-blocks: <h2>RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=50177&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAH0810]] Akadeemiline eesti keel<br />[[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused<br />[[RAS0140]] Instrumentaalanalüüsi erikursus<br />[[RAH0840]] Intellektuaalomand ja innovatsioon<br />[[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses<br />[[RAS0010]] Kütusetööstuse ökonoomika ja juhtimine<br />[[RAS0070]] Kütusetööstuse protsessid<br />[[RAS0110]] Kütusetööstuse protsesside juhtimine<br />[[RAS0090]] Kütuste keemia ja tehnoloogia<br />[[RAS0050]] Kütuste klassifitseerimine ja standardimine<br />[[RAS0040]] Leviprotsessid<br />[[RAS0150]] Magistripraktika<br />[[RAM0040]] Matemaatika erikursus<br />[[RAS0020]] Orgaanilise keemia erikursus<br />[[RAS0080]] Protsesside bilansid ja projekteerimine<br />[[RAS0030]] Protsesside termodünaamika<br />[[RAS0121]] Reaktsioonitehnika ja reaktorid<br />[[RAS0122]] Reaktsioonitehnika ja reaktorid - projekt<br />[[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest<br />[[RAH0830]] Teadusliku uurimistöö alused<br />[[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia</p>
-diff-minor: 
-ts: 1408891548
+blocks: <h2>RAKM11/12 - Kütuste keemia ja tehnoloogia [Kava:50177 〔Õppekava ÕIS-is〕]</h2><p>[[RAH0810]] Akadeemiline eesti keel<br />[[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused<br />[[RAS0140]] Instrumentaalanalüüsi erikursus<br />[[RAH0840]] Intellektuaalomand ja innovatsioon<br />[[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses<br />[[RAS0010]] Kütusetööstuse ökonoomika ja juhtimine<br />[[RAS0070]] Kütusetööstuse protsessid<br />[[RAS0110]] Kütusetööstuse protsesside juhtimine<br />[[RAS0090]] Kütuste keemia ja tehnoloogia<br />[[RAS0050]] Kütuste klassifitseerimine ja standardimine<br />[[RAS0040]] Leviprotsessid<br />[[RAS0150]] Magistripraktika<br />[[RAM0040]] Matemaatika erikursus<br />[[RAS0020]] Orgaanilise keemia erikursus<br />[[RAS0080]] Protsesside bilansid ja projekteerimine<br />[[RAS0030]] Protsesside termodünaamika<br />[[RAS0121]] Reaktsioonitehnika ja reaktorid<br />[[RAS0122]] Reaktsioonitehnika ja reaktorid - projekt<br />[[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest<br />[[RAH0830]] Teadusliku uurimistöö alused<br />[[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RAKM11/12 - Kütuste keemia ja tehnoloogia Kava:50177</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RAKM11/12 - Kütuste keemia ja tehnoloogia <strong class="changes">[</strong>Kava:50177 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=50177&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == RAKM11/12 - Kütuste keemia ja tehnoloogia [Kava:50177 〔Õppekava ÕIS-is〕]
 	[[RAH0810]] Akadeemiline eesti keel
 	[[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused
 	[[RAS0140]] Instrumentaalanalüüsi erikursus
@@ -33,4 +35,4 @@ text: == RAKM11/12 - Kütuste keemia ja tehnoloogia [http://ois.ttu.ee/portal/pa
 	[[RAH0820]] Teadusvõõrkeel ja erialaterminoloogia
 	
 	
-keep-ts: 1408891548
+keep-ts: 1441924152

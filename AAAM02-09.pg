@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50058&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[AAR3380]] Automaatikasüsteemide raalprojekteerimine<br />[[AAR0120]] Elektertransport<br />[[AAV3350]] Elektervalgustus<br />[[AAV0090]] Elektriajamid - projekt<br />[[AAV0040]] Elektriajamite erikursus<br />[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine<br />[[AMM0010]] Elektrimasinate raalprojekteerimine<br />[[AAV0150]] Elektripaigaldised<br />[[AAV0140]] Elektriseadmete tõrked ja töökindlus<br />[[AAV3380]] Elektrivarustuse raalprojekteerimine<br />[[AAV0160]] Elektrivarustuse tulevikuvisioonid<br />[[AME0021]] Elektromagnetiline ühilduvus<br />[[AAR3390]] Elektroonikaseadmete raalprojekteerimine<br />[[AME0050]] Elektrotehnika erikursus<br />[[AMM3090]] Elektrotehnoloogia<br />[[AEK0040]] Energiapoliitika<br />[[AAV0170]] Energiatarbimise juhtimine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[AAR0130]] Hoone automaatikasüsteemid<br />[[AAV0130]] Inseneritöö alused<br />[[AAV0050]] Jõuelektroonika erikursus<br />[[IDK0061]] Keel C ja objektorienteeritud programmeerimine<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[AAR0080]] Robotitehnika erikursus<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV0300]] Tööpraktika 2<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AAR0070]] Tootmise automatiseerimise erikursus<br />[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas<br />[[AMM0031]] Väljateooria</p>
-diff-minor: 
-ts: 1408891273
+blocks: <h2>AAAM02/09 - Elektriajamid ja jõuelektroonika [Kava:50058 〔Õppekava ÕIS-is〕]</h2><p>[[AAR3380]] Automaatikasüsteemide raalprojekteerimine<br />[[AAR0120]] Elektertransport<br />[[AAV3350]] Elektervalgustus<br />[[AAV0090]] Elektriajamid - projekt<br />[[AAV0040]] Elektriajamite erikursus<br />[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine<br />[[AMM0010]] Elektrimasinate raalprojekteerimine<br />[[AAV0150]] Elektripaigaldised<br />[[AAV0140]] Elektriseadmete tõrked ja töökindlus<br />[[AAV3380]] Elektrivarustuse raalprojekteerimine<br />[[AAV0160]] Elektrivarustuse tulevikuvisioonid<br />[[AME0021]] Elektromagnetiline ühilduvus<br />[[AAR3390]] Elektroonikaseadmete raalprojekteerimine<br />[[AME0050]] Elektrotehnika erikursus<br />[[AMM3090]] Elektrotehnoloogia<br />[[AEK0040]] Energiapoliitika<br />[[AAV0170]] Energiatarbimise juhtimine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[AAR0130]] Hoone automaatikasüsteemid<br />[[AAV0130]] Inseneritöö alused<br />[[AAV0050]] Jõuelektroonika erikursus<br />[[IDK0061]] Keel C ja objektorienteeritud programmeerimine<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[AAR0080]] Robotitehnika erikursus<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV0300]] Tööpraktika 2<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AAR0070]] Tootmise automatiseerimise erikursus<br />[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas<br />[[AMM0031]] Väljateooria</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAAM02/09 - Elektriajamid ja jõuelektroonika Kava:50058</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAAM02/09 - Elektriajamid ja jõuelektroonika <strong class="changes">[</strong>Kava:50058 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=50058&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == AAAM02/09 - Elektriajamid ja jõuelektroonika [Kava:50058 〔Õppekava ÕIS-is〕]
 	[[AAR3380]] Automaatikasüsteemide raalprojekteerimine
 	[[AAR0120]] Elektertransport
 	[[AAV3350]] Elektervalgustus
@@ -46,4 +48,4 @@ text: == AAAM02/09 - Elektriajamid ja jõuelektroonika [http://ois.ttu.ee/portal
 	[[AMM0031]] Väljateooria
 	
 	
-keep-ts: 1408891273
+keep-ts: 1441924148

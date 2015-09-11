@@ -1,17 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TVTM03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50060&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2085]] Äriturundus<br />[[TIX2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2605]] Ettevõtte rahandus<br />[[TIX2680]] E-turundus<br />[[TIX2345]] Euroopa Ühenduse õigus<br />[[TIX2750]] Finantsjuhtimine<br />[[TIX2640]] Innovatsiooni juhtimine<br />[[TIX2730]] Juhtimine<br />[[TIX2690]] Juhtimismäng<br />[[TIX2720]] Kultuuridevaheline suhtlemine<br />[[TIX2670]] Magistriseminar<br />[[TIX2845]] Majandusarvestus<br />[[TIX2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX2580]] Raha ja pangandus<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2045]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2595]] Rahvusvaheline majandus<br />[[TIX2860]] Rahvusvaheline maksundus<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2710]] Strateegiline juhtimine<br />[[TIX2660]] Tootmise varustamise juhtimine<br />[[TIX2740]] Turunduskommunikatsioon<br />[[TIX2700]] Turundusuuring</p>
+blocks: <h2>TVTM03/09 - Rahvusvaheline ärikorraldus [Kava:50060 〔Õppekava ÕIS-is〕]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2085]] Äriturundus<br />[[TIX2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2605]] Ettevõtte rahandus<br />[[TIX2680]] E-turundus<br />[[TIX2345]] Euroopa Ühenduse õigus<br />[[TIX2750]] Finantsjuhtimine<br />[[TIX2640]] Innovatsiooni juhtimine<br />[[TIX2730]] Juhtimine<br />[[TIX2690]] Juhtimismäng<br />[[TIX2720]] Kultuuridevaheline suhtlemine<br />[[TIX2670]] Magistriseminar<br />[[TIX2845]] Majandusarvestus<br />[[TIX2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX2580]] Raha ja pangandus<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2045]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2595]] Rahvusvaheline majandus<br />[[TIX2860]] Rahvusvaheline maksundus<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2710]] Strateegiline juhtimine<br />[[TIX2660]] Tootmise varustamise juhtimine<br />[[TIX2740]] Turunduskommunikatsioon<br />[[TIX2700]] Turundusuuring</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[TIX2640]] <strong class="changes">Innovatsioonijuhtimine</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[TIX2640]] <strong class="changes">Innovatsiooni juhtimine</strong></p></div>
-ts: 1438887195
+	<div class="old"><p>&lt; == TVTM03/09 - Rahvusvaheline ärikorraldus Kava:50060</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTM03/09 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50060 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TVTM03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50060&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TVTM03/09 - Rahvusvaheline ärikorraldus [Kava:50060 〔Õppekava ÕIS-is〕]
 	[[TIX8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
 	[[TIX2085]] Äriturundus
@@ -41,4 +41,4 @@ text: == TVTM03/09 - Rahvusvaheline ärikorraldus [http://ois.ttu.ee/portal/page
 	[[TIX2700]] Turundusuuring
 	
 	
-keep-ts: 1438887195
+keep-ts: 1441924154

@@ -1,18 +1,15 @@
 flags: 010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Программа курса и правила &#x201c;игры&#x201d;:<br />[[File:programma_kursa.pdf]]</p><p>Материалы лекций:<br />[[File:lekcii_po_ekonomike.rar]]</p><p>Если на лекции можно не ходить, то на практики обязательно, иначе самим будет сложно разобраться во всех задачах.</p><p>&#x2013; Artur Gummel 2014-09-10 10:51:30</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Программа курса и правила "игры": <br />&gt; [[File:programma_kursa.pdf]]<br />&gt; Материалы лекций:<br />&gt; [[File:lekcii_po_ekonomike.rar]]<br />&gt; Если на лекции можно не ходить, то на практики обязательно, иначе самим будет сложно разобраться во всех задачах.<br />&gt; -- Artur Gummel 2014-09-10 10:51:30</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Программа курса и правила &#x201c;игры&#x201d;:<br />[[File:programma_kursa.pdf]]</p><p>Материалы лекций:<br />[[File:lekcii_po_ekonomike.rar]]</p><p>Если на лекции можно не ходить, то на практики обязательно, иначе самим будет сложно разобраться во всех задачах.</p><p>&#x2013; Artur Gummel 2014-09-10 10:51:30</p></div>
 ip: 89.235.235.166
-ts: 1410335490
-minor: 
-host: 176.46.125.185
-username: Artur Gummel
-revision: 4
-diff-major: 1
-summary: Программа курса и правила "игры":  [[File:programma_kursa.pdf]] Материалы лекций: [[File:lekcii_po_ekonomike.rar]] Если на лекции можно не . . .
+ts: 1441924450
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Mikro- ja makroökonoomika
-	#SUBURL: Course:27751
+	#SUBURL [Course:27751 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -29,4 +26,4 @@ text: #SUBTITLE Mikro- ja makroökonoomika
 	
 	
 lastmajor: 4
-keep-ts: 1410335490
+keep-ts: 1441924450

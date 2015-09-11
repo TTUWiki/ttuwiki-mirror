@@ -1,13 +1,14 @@
 flags: 0
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1408885118
+ts: 1441924452
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 1
-summary: Автоматическое обновление (новые предметы)
-languages: 
+host: 82.131.7.230
+username: AlexDaniel
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Merendusettevõtte tegevuse finantseerimine, algkursus
-	#SUBURL: Course:109086
+	#SUBURL [Course:109086 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+keep-ts: 1441924452

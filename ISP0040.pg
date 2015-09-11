@@ -1,18 +1,15 @@
-flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Сайт преподавателя - <a class="url http" href="http://reinpx.wix.com/rp3#!__arvutivorgud">http://reinpx.wix.com/rp3#!__arvutivorgud</a></p><p>&#x2013; Аноним 2014-02-25 08:44 UTC</p></div><div class="userComment"><p>Весной 2015-го пароль от moodle был <strong>192.168.15.83</strong>.</p><p>&#x2013; AlexDaniel 2015-04-15 21:32:49</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Весной 2015-го пароль от moodle был **192.168.15.83**.<br />&gt; -- AlexDaniel 2015-04-15 21:32:49</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Сайт преподавателя - <a class="url http" href="http://reinpx.wix.com/rp3#!__arvutivorgud">http://reinpx.wix.com/rp3#!__arvutivorgud</a></p><p>&#x2013; Аноним 2014-02-25 08:44 UTC</p></div><div class="userComment"><p>Весной 2015-го пароль от moodle был <strong>192.168.15.83</strong>.</p><p>&#x2013; AlexDaniel 2015-04-15 21:32:49</p></div>
 ip: 193.40.244.196
-ts: 1429122769
-minor: 
-host: 82.131.49.192
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: 1
-summary: Весной 2015-го пароль от moodle был **192.168.15.83**.
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Arvutivõrgud
-	#SUBURL: Course:31236
+	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -30,4 +27,4 @@ text: #SUBTITLE Arvutivõrgud
 	
 	
 lastmajor: 5
-keep-ts: 1429122769
+keep-ts: 1441924447

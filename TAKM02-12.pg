@@ -1,23 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAKM02/12 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50198&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMK1090]] Äriprotsesside juhtimine<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TTO1040]] Äritegevuse õiguslik keskkond<br />[[TMO1091]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[TTP1020]] Eesti majandus<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[TER8640]] Ettevõtte rahandus<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8290]] Finantsarvestus ja -aruandlus<br />[[TER8610]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8231]] Juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TMJ1220]] Juhtimismäng<br />[[TMO1370]] Kategooria juhtimine<br />[[TMO1360]] Kaubanduse alused<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TET8290]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8131]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TMO8241]] Strateegiline juhtimine<br />[[TMJ1081]] Tarneahela juhtimine<br />[[TMT1180]] Tööelu kvaliteedi juhtimine<br />[[TMK1210]] Tootmis- ja teeninduskorraldus<br />[[TMM1020]] Turunduse kontseptsioonid<br />[[TMM1550]] Turunduskommunikatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1110]] Uurimistöö</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TMK1090]] Äriprotsesside juhtimine</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">TMJ8260</strong>]] Ettevõtlus</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">TMJ3331</strong>]] Ettevõtlus <strong class="changes">ja äri planeerimine</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TMO1370]] Kategooria juhtimine<br />&gt; [[TMO1360]] Kaubanduse alused</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TMO8310]] Organisatsioonikäitumine</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">TMJ1080</strong>]] Tarneahela juhtimine</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">TMJ1081</strong>]] Tarneahela juhtimine</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TMX1010]] Töö-ökonoomika<br />&lt; [[TTO1060]] Tööseadusandlus<br />&lt; [[TMO1240]] Töö tasustamine</p></div>
-ts: 1438887167
+blocks: <h2>TAKM02/12 - Ärikorraldus [Kava:50198 〔Õppekava ÕIS-is〕]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMK1090]] Äriprotsesside juhtimine<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TTO1040]] Äritegevuse õiguslik keskkond<br />[[TMO1091]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[TTP1020]] Eesti majandus<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[TER8640]] Ettevõtte rahandus<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8290]] Finantsarvestus ja -aruandlus<br />[[TER8610]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8231]] Juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TMJ1220]] Juhtimismäng<br />[[TMO1370]] Kategooria juhtimine<br />[[TMO1360]] Kaubanduse alused<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TET8290]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8131]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TMO8241]] Strateegiline juhtimine<br />[[TMJ1081]] Tarneahela juhtimine<br />[[TMT1180]] Tööelu kvaliteedi juhtimine<br />[[TMK1210]] Tootmis- ja teeninduskorraldus<br />[[TMM1020]] Turunduse kontseptsioonid<br />[[TMM1550]] Turunduskommunikatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1110]] Uurimistöö</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAKM02/12 - Ärikorraldus Kava:50198</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAKM02/12 - Ärikorraldus <strong class="changes">[</strong>Kava:50198 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TAKM02/12 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50198&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TAKM02/12 - Ärikorraldus [Kava:50198 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMK1090]] Äriprotsesside juhtimine
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
@@ -56,4 +50,4 @@ text: == TAKM02/12 - Ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428
 	[[TXX1110]] Uurimistöö
 	
 	
-keep-ts: 1438887167
+keep-ts: 1441924153

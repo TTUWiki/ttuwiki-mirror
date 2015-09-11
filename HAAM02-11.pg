@@ -1,20 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAM02/11 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50166&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHM1130]] Avalik teenistus<br />[[HHM1131]] Avaliku halduse erikursus<br />[[HHL1321]] Avaliku halduse teooria ja filosoofia<br />[[HHM1090]] Avaliku ja erasektori koostöö<br />[[HHL1330]] Avaliku sektori finantsjuhtimine<br />[[HHI0114]] Ettevõtlus ja tehnoloogia juhtimine<br />[[HHX1081]] Euroopa Liit ja mitmetasandiline valitsemine<br />[[HHL1191]] E-Valitsemine<br />[[HHR0091]] E-valitsemine kohalikus omavalitsuses<br />[[HHR0092]] E-valitsemise instrumendid ja meetodid<br />[[HHR1210]] Kohaliku omavalitsuse korraldus<br />[[HHR1181]] Kohaliku omavalitsuse majanduse alused<br />[[HOA7017]] Kohaliku omavalitsuse õiguse alused<br />[[HHR1171]] Kohaliku omavalitsuse poliitika<br />[[HHM1050]] Kvaliteedijuhtimine avalikus sektoris<br />[[HHL1300]] Õigusaktide majanduslik analüüs<br />[[HHM1020]] Personalijuhtimine avalikus sektoris<br />[[HHL1180]] Poliitika analüüs ja hindamine<br />[[HHM1030]] Poliitikate kujundamine<br />[[HHX1071]] Praktika<br />[[HHM1140]] Riigiasutuste juhtimine<br />[[HHL8011]] Riik ja avalik haldus klassikalises hiina ja islami traditsioonis<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHM1100]] Tulemusjuhtimine avalikus sektoris<br />[[HHA1510]] Väikeriigid<br />[[HHM1081]] Võrdlev avalik haldus<br />[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[HHI0114]] Ettevõtlus ja tehnoloogia juhtimine</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">HLI8750</strong>]] <strong class="changes">Inglise teaduskeel</strong><br />&lt; [[<strong class="changes">EPJ3815</strong>]] <strong class="changes">Kinnisvara haldamine</strong> ja <strong class="changes">kohalik omavalitsus</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">HHR0091</strong>]] <strong class="changes">E-valitsemine kohalikus omavalitsuses</strong><br />&gt; [[<strong class="changes">HHR0092</strong>]] <strong class="changes">E-valitsemise instrumendid</strong> ja <strong class="changes">meetodid</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHI1040]] Magistriseminar</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[HHM1060]] Projektijuhtimine avalikus sektoris</p></div>
-ts: 1438886340
+blocks: <h2>HAAM02/11 - Avalik haldus [Kava:50166 〔Õppekava ÕIS-is〕]</h2><p>[[HHM1130]] Avalik teenistus<br />[[HHM1131]] Avaliku halduse erikursus<br />[[HHL1321]] Avaliku halduse teooria ja filosoofia<br />[[HHM1090]] Avaliku ja erasektori koostöö<br />[[HHL1330]] Avaliku sektori finantsjuhtimine<br />[[HHI0114]] Ettevõtlus ja tehnoloogia juhtimine<br />[[HHX1081]] Euroopa Liit ja mitmetasandiline valitsemine<br />[[HHL1191]] E-Valitsemine<br />[[HHR0091]] E-valitsemine kohalikus omavalitsuses<br />[[HHR0092]] E-valitsemise instrumendid ja meetodid<br />[[HHR1210]] Kohaliku omavalitsuse korraldus<br />[[HHR1181]] Kohaliku omavalitsuse majanduse alused<br />[[HOA7017]] Kohaliku omavalitsuse õiguse alused<br />[[HHR1171]] Kohaliku omavalitsuse poliitika<br />[[HHM1050]] Kvaliteedijuhtimine avalikus sektoris<br />[[HHL1300]] Õigusaktide majanduslik analüüs<br />[[HHM1020]] Personalijuhtimine avalikus sektoris<br />[[HHL1180]] Poliitika analüüs ja hindamine<br />[[HHM1030]] Poliitikate kujundamine<br />[[HHX1071]] Praktika<br />[[HHM1140]] Riigiasutuste juhtimine<br />[[HHL8011]] Riik ja avalik haldus klassikalises hiina ja islami traditsioonis<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHM1100]] Tulemusjuhtimine avalikus sektoris<br />[[HHA1510]] Väikeriigid<br />[[HHM1081]] Võrdlev avalik haldus<br />[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAM02/11 - Avalik haldus Kava:50166</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAM02/11 - Avalik haldus <strong class="changes">[</strong>Kava:50166 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAAM02/11 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50166&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAAM02/11 - Avalik haldus [Kava:50166 〔Õppekava ÕIS-is〕]
 	[[HHM1130]] Avalik teenistus
 	[[HHM1131]] Avaliku halduse erikursus
 	[[HHL1321]] Avaliku halduse teooria ja filosoofia
@@ -44,4 +41,4 @@ text: == HAAM02/11 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428
 	[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad
 	
 	
-keep-ts: 1438886340
+keep-ts: 1441924149

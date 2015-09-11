@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDER02/07 - Masinaehitustehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=361&amp;p_kava_versioon_id=5072&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[RAR0110]] Arvestuse alused<br />[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid<br />[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus<br />[[RAR3190]] Elektroonika<br />[[RAR3130]] Elektrotehnika<br />[[RAH0060]] Erialane inglise keel<br />[[RAR0063]] Erialapraktika I<br />[[RAR0064]] Erialapraktika II<br />[[RAR3410]] Ettevõtlus<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR0070]] Hüdro- ja pneumoajam<br />[[RAR3111]] Informaatika I<br />[[RAR3112]] Informaatika II<br />[[RAR3140]] Insenerigraafika<br />[[RAR3310]] Juhtimine<br />[[RAR3320]] Juhtimine - ainetöö<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3330]] Kvaliteeditehnika<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR0050]] Masinate projekteerimine<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR2610]] Materjalitehnika<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAR3100]] Mõõtmine ja mõõtevahendid<br />[[RAH3140]] Õigusõpetus<br />[[RAR0010]] Õpingukorraldus<br />[[RAR0061]] Õppepraktika<br />[[RAH0050]] Organisatsioonipsühholoogia<br />[[RAR3180]] Raalprojekteerimise alused<br />[[RAR3300]] Rakendusstatistika<br />[[RAR3460]] Riski- ja ohutusõpetus<br />[[RAR3340]] Seadmete remondi plaanimine<br />[[RAR3090]] Soojustehnika<br />[[RAH0020]] Suuline eneseväljendus<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2590]] Teoreetiline mehaanika<br />[[RAR3390]] Töö- ja palgakorraldus<br />[[RAR0062]] Töökeskkonna praktika<br />[[RAR0140]] Tööstusettevõtte infosüsteemid<br />[[RAR0080]] Tootearendus ja probleemilahendus<br />[[RAR0130]] Tootearendusprojekti juhtimine ja ettevõtte asutamine<br />[[RAR3370]] Tootlikkuse juhtimine<br />[[RAR3360]] Tootmise plaanimine<br />[[RAR3470]] Tootmistehnika alused<br />[[RAR2600]] Tugevusõpetus<br />[[RAR0120]] Turundus<br />[[RAX0031]] Võõrkeel I<br />[[RAX0032]] Võõrkeel II</p>
-diff-minor: 
-ts: 1408891560
+blocks: <h2>RDER02/07 - Masinaehitustehnoloogia [Kava:5072 〔Õppekava ÕIS-is〕]</h2><p>[[RAR0110]] Arvestuse alused<br />[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid<br />[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus<br />[[RAR3190]] Elektroonika<br />[[RAR3130]] Elektrotehnika<br />[[RAH0060]] Erialane inglise keel<br />[[RAR0063]] Erialapraktika I<br />[[RAR0064]] Erialapraktika II<br />[[RAR3410]] Ettevõtlus<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR0070]] Hüdro- ja pneumoajam<br />[[RAR3111]] Informaatika I<br />[[RAR3112]] Informaatika II<br />[[RAR3140]] Insenerigraafika<br />[[RAR3310]] Juhtimine<br />[[RAR3320]] Juhtimine - ainetöö<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3330]] Kvaliteeditehnika<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR0050]] Masinate projekteerimine<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR2610]] Materjalitehnika<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAR3100]] Mõõtmine ja mõõtevahendid<br />[[RAH3140]] Õigusõpetus<br />[[RAR0010]] Õpingukorraldus<br />[[RAR0061]] Õppepraktika<br />[[RAH0050]] Organisatsioonipsühholoogia<br />[[RAR3180]] Raalprojekteerimise alused<br />[[RAR3300]] Rakendusstatistika<br />[[RAR3460]] Riski- ja ohutusõpetus<br />[[RAR3340]] Seadmete remondi plaanimine<br />[[RAR3090]] Soojustehnika<br />[[RAH0020]] Suuline eneseväljendus<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2590]] Teoreetiline mehaanika<br />[[RAR3390]] Töö- ja palgakorraldus<br />[[RAR0062]] Töökeskkonna praktika<br />[[RAR0140]] Tööstusettevõtte infosüsteemid<br />[[RAR0080]] Tootearendus ja probleemilahendus<br />[[RAR0130]] Tootearendusprojekti juhtimine ja ettevõtte asutamine<br />[[RAR3370]] Tootlikkuse juhtimine<br />[[RAR3360]] Tootmise plaanimine<br />[[RAR3470]] Tootmistehnika alused<br />[[RAR2600]] Tugevusõpetus<br />[[RAR0120]] Turundus<br />[[RAX0031]] Võõrkeel I<br />[[RAX0032]] Võõrkeel II</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDER02/07 - Masinaehitustehnoloogia Kava:5072</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDER02/07 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:5072 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == RDER02/07 - Masinaehitustehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=361&p_kava_versioon_id=5072&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == RDER02/07 - Masinaehitustehnoloogia [Kava:5072 〔Õppekava ÕIS-is〕]
 	[[RAR0110]] Arvestuse alused
 	[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid
 	[[RAH0010]] Eesti keele ortograafia ja kirjalik eneseväljendus
@@ -62,4 +64,4 @@ text: == RDER02/07 - Masinaehitustehnoloogia [http://ois.ttu.ee/portal/page?_pag
 	[[RAX0032]] Võõrkeel II
 	
 	
-keep-ts: 1408891560
+keep-ts: 1441924152

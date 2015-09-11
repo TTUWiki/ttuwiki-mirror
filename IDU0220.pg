@@ -1,18 +1,15 @@
-flags: 01010100
-blocks: <p>Видеолекции по предмету:</p><p><a class="url http" href="http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html">http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http outside" href="https://encrypted.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=13&amp;ved=0CCsQFjACOAo&amp;url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&amp;ei=R4VPVaDyBIe_ygPL34HQDw&amp;usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&amp;sig2=qD1B9LR0ufQwwzg1OWze5g&amp;cad=rja">Макросы в LibreOffice Base</a></p><p>&#x2013; AlexDaniel 2015-05-10 19:32:54</p></div><div class="userComment"><p><a class="url http outside" href="https://wiki.openoffice.org/wiki/Documentation/BASIC_Guide/Database_Access">Еще немного про макросы</a></p><p>&#x2013; AlexDaniel 2015-05-10 19:47:54</p></div><div class="userComment"><p><a class="url http outside" href="http://www.baseprogramming.com/BaseMacros.pdf">и еще</a></p><p>&#x2013; AlexDaniel 2015-05-13 02:32:11</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; [[http://www.baseprogramming.com/BaseMacros.pdf и еще]]<br />&gt; -- AlexDaniel 2015-05-13 02:32:11</p></div>
+flags: 00
+blocks: <p>Видеолекции по предмету:</p><p><a class="url http" href="http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html">http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http outside" href="https://encrypted.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=13&amp;ved=0CCsQFjACOAo&amp;url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&amp;ei=R4VPVaDyBIe_ygPL34HQDw&amp;usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&amp;sig2=qD1B9LR0ufQwwzg1OWze5g&amp;cad=rja">Макросы в LibreOffice Base</a></p><p>&#x2013; AlexDaniel 2015-05-10 19:32:54</p></div><div class="userComment"><p><a class="url http outside" href="https://wiki.openoffice.org/wiki/Documentation/BASIC_Guide/Database_Access">Еще немного про макросы</a></p><p>&#x2013; AlexDaniel 2015-05-10 19:47:54</p></div><div class="userComment"><p><a class="url http outside" href="http://www.baseprogramming.com/BaseMacros.pdf">и еще</a></p><p>&#x2013; AlexDaniel 2015-05-13 02:32:11</p></div>
 ip: 89.235.235.166
-ts: 1431473531
-minor: 
-host: 82.131.2.24
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 8
-diff-major: 1
-summary: [и еще]
+revision: 9
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Andmebaasid I
-	#SUBURL: Course:100733
+	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
 	Видеолекции по предмету:
 	
@@ -41,4 +38,4 @@ text: #SUBTITLE Andmebaasid I
 	
 	
 lastmajor: 8
-keep-ts: 1431473531
+keep-ts: 1441924447

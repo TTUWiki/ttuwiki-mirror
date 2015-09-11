@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TASB08/15 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50330&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TSK0309]] Avalik esinemine<br />[[TMJ0110]] Ettevõtluse alused<br />[[TSE0012]] Euroopa integratsioon<br />[[TTP2200]] Euroopa Liidu õigus<br />[[TSE0024]] Euroopa Liidu poliitikad<br />[[TSE0030]] Euroopa Liidu ühine välis- ja julgeolekupoliitika<br />[[HHF3080]] Filosoofia<br />[[TSK0160]] Globaliseerumine ja globaalprobleemid<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TMO2210]] Juhtimine<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TSK0301]] Kirjalik eneseväljendus I<br />[[TSK0303]] Kirjalik eneseväljendus II<br />[[TSK2001]] Kultuuridevaheline suhtlemine<br />[[TSS2321]] Kvalitatiivsed meetodid<br />[[TSK0013]] Loogika<br />[[TSK0141]] Maailma religioonide võrdlev analüüs<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[TTO0010]] Õiguse alused<br />[[UTT0010]] Õpingukorraldus<br />[[TMO2220]] Organisatsioonikäitumine<br />[[TSP0010]] Poliitiline filosoofia<br />[[TSP0250]] Poliitiline geograafia<br />[[TSP0100]] Praktika<br />[[TSP0011]] Rahvusvaheline poliitökonoomia<br />[[TSP0043]] Rahvusvahelised julgeoleku-uuringud<br />[[TSP0032]] Rahvusvahelised konfliktid<br />[[TSP0081]] Rahvusvahelised organisatsioonid<br />[[TSP0072]] Rahvusvahelised suhted kaasajal<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu<br />[[TSP0006]] Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TMM0100]] Turundus<br />[[TSS0001]] Ühiskond, kultuur, indiviid<br />[[TSP0120]] USA sise- ja välispoliitika<br />[[TSK0120]] Uurimistöö alused<br />[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)<br />[[TSX0003]] Uurimistöö II (Põhiõppe uurimistöö)<br />[[TSP0130]] Venemaa ja SRÜ riigid<br />[[TSX0001]] Võõrkeel I<br />[[TSX0002]] Võõrkeel II<br />[[TSE0040]] XX sajandi Euroopa ajalugu</p>
-diff-minor: 
-ts: 1438887411
+blocks: <h2>TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]</h2><p>[[TSK0309]] Avalik esinemine<br />[[TMJ0110]] Ettevõtluse alused<br />[[TSE0012]] Euroopa integratsioon<br />[[TTP2200]] Euroopa Liidu õigus<br />[[TSE0024]] Euroopa Liidu poliitikad<br />[[TSE0030]] Euroopa Liidu ühine välis- ja julgeolekupoliitika<br />[[HHF3080]] Filosoofia<br />[[TSK0160]] Globaliseerumine ja globaalprobleemid<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TMO2210]] Juhtimine<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TSK0301]] Kirjalik eneseväljendus I<br />[[TSK0303]] Kirjalik eneseväljendus II<br />[[TSK2001]] Kultuuridevaheline suhtlemine<br />[[TSS2321]] Kvalitatiivsed meetodid<br />[[TSK0013]] Loogika<br />[[TSK0141]] Maailma religioonide võrdlev analüüs<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[TTO0010]] Õiguse alused<br />[[UTT0010]] Õpingukorraldus<br />[[TMO2220]] Organisatsioonikäitumine<br />[[TSP0010]] Poliitiline filosoofia<br />[[TSP0250]] Poliitiline geograafia<br />[[TSP0100]] Praktika<br />[[TSP0011]] Rahvusvaheline poliitökonoomia<br />[[TSP0043]] Rahvusvahelised julgeoleku-uuringud<br />[[TSP0032]] Rahvusvahelised konfliktid<br />[[TSP0081]] Rahvusvahelised organisatsioonid<br />[[TSP0072]] Rahvusvahelised suhted kaasajal<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu<br />[[TSP0006]] Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TMM0100]] Turundus<br />[[TSS0001]] Ühiskond, kultuur, indiviid<br />[[TSP0120]] USA sise- ja välispoliitika<br />[[TSK0120]] Uurimistöö alused<br />[[TXX0050]] Uurimistöö I (Alusõppe uurimistöö)<br />[[TSX0003]] Uurimistöö II (Põhiõppe uurimistöö)<br />[[TSP0130]] Venemaa ja SRÜ riigid<br />[[TSX0001]] Võõrkeel I<br />[[TSX0002]] Võõrkeel II<br />[[TSE0040]] XX sajandi Euroopa ajalugu</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASB08/15 - Rahvusvahelised suhted Kava:50330</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASB08/15 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TASB08/15 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50330&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]
 	[[TSK0309]] Avalik esinemine
 	[[TMJ0110]] Ettevõtluse alused
 	[[TSE0012]] Euroopa integratsioon
@@ -57,4 +59,4 @@ text: == TASB08/15 - Rahvusvahelised suhted [http://ois.ttu.ee/portal/page?_page
 	[[TSE0040]] XX sajandi Euroopa ajalugu
 	
 	
-keep-ts: 1438887411
+keep-ts: 1441924153

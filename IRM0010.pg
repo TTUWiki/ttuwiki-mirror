@@ -1,20 +1,15 @@
 flags: 0
 blocks: <p>Ходить на лекции не обязательно, но на харьютусы лучше походить, т.к. по ним пишется две контрольные. Контрольные не сложные.</p><p>Лабораторная работа состоит из разных работ, но делаются все за один раз, второй раз уже приходите их защищать.</p><p>Экзамен устный, в начале преподаватель дает два вопроса, вы идете готовиться в библиотеку смело на 3-4 часа, выписываете ответы на свой листок и потом по нему уже отвечаете. Очень любит много формул, а особенно, как их вывели. Без них трудно рассчитывать на нормальную оценку.</p><p>Здесь находятся лекции и другие материалы </p><p><a class="url http" href="http://www.lr.ttu.ee/irm/lainevaljad/">http://www.lr.ttu.ee/irm/lainevaljad/</a></p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Laineväljad <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>29755<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Laineväljad<br />&gt; <strong class="changes">#SUBURL: Course:</strong>29755</p></div>
 ip: 84.52.48.194
-ts: 1408847671
+ts: 1441924447
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 5
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Ходить на лекции не обязательно, но на харьютусы лучше походить, т.к. по ним пишется две контрольные. Контрольные не сложные. <br />&gt; Лабораторная работа состоит из разных работ, но делаются все за один раз, второй раз уже приходите их защищать. <br />&gt; Экзамен устный, в начале преподаватель дает два вопроса, вы идете готовиться в библиотеку смело на 3-4 часа, выписываете ответы на свой листок и потом по нему уже отвечаете. Очень любит много формул, а особенно, как их вывели. Без них трудно рассчитывать на нормальную оценку.<br />&gt; Здесь находятся лекции и другие материалы <br />&gt; http://www.lr.ttu.ee/irm/lainevaljad/<br />&gt; -- Аноним 2014-02-25 08:44 UTC</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Laineväljad
-	#SUBURL: Course:29755
+	#SUBURL [Course:29755 〔Õppeaine ÕIS-is〕]
 	
 	Ходить на лекции не обязательно, но на харьютусы лучше походить, т.к. по ним пишется две контрольные. Контрольные не сложные. 
 	
@@ -27,4 +22,4 @@ text: #SUBTITLE Laineväljad
 	http://www.lr.ttu.ee/irm/lainevaljad/
 	
 lastmajor: 3
-keep-ts: 1408847671
+keep-ts: 1441924447

@@ -1,13 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YASB02/15 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50318&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[YKI0140]] Aine ehitus<br />[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0070]] Ametipraktika<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YKL0061]] Biokeemia I<br />[[YKL0062]] Biokeemia II<br />[[YKB1130]] Biotehnoloogia I<br />[[IDK0041]] Digikirjaoskus I<br />[[IDK0042]] Digikirjaoskus II<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YKI0100]] Elementide keemia<br />[[YTP0101]] Ensümoloogia alused<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKI0020]] Keemia alused<br />[[KYF0130]] Keemia andmekogud ja infootsing<br />[[KAT3181]] Keemiatehnika alused<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0070]] Looduslike ühendite keemia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[HOX6032]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YKX0001]] Sissejuhatus erialasse<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[YKB3200]] Üldloodusteadus</p>
-ts: 1438887470
+blocks: <h2>YASB02/15 - Rakenduskeemia ja biotehnoloogia [Kava:50318 〔Õppekava ÕIS-is〕]</h2><p>[[YKI0140]] Aine ehitus<br />[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0070]] Ametipraktika<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YKL0061]] Biokeemia I<br />[[YKL0062]] Biokeemia II<br />[[YKB1130]] Biotehnoloogia I<br />[[IDK0041]] Digikirjaoskus I<br />[[IDK0042]] Digikirjaoskus II<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YKI0100]] Elementide keemia<br />[[YTP0101]] Ensümoloogia alused<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKI0020]] Keemia alused<br />[[KYF0130]] Keemia andmekogud ja infootsing<br />[[KAT3181]] Keemiatehnika alused<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0070]] Looduslike ühendite keemia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[HOX6032]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YKX0001]] Sissejuhatus erialasse<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[YKB3200]] Üldloodusteadus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YASB02/15 - Rakenduskeemia ja biotehnoloogia Kava:50318</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YASB02/15 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50318 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 1
-summary: Автоматическое обновление
+host: 82.131.7.230
+username: AlexDaniel
+revision: 3
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == YASB02/15 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50318&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == YASB02/15 - Rakenduskeemia ja biotehnoloogia [Kava:50318 〔Õppekava ÕIS-is〕]
 	[[YKI0140]] Aine ehitus
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0070]] Ametipraktika
@@ -50,3 +54,4 @@ text: == YASB02/15 - Rakenduskeemia ja biotehnoloogia [http://ois.ttu.ee/portal/
 	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika
 	[[YKB3200]] Üldloodusteadus
 	
+keep-ts: 1441924155

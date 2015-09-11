@@ -1,5 +1,5 @@
-flags: 010100
-blocks: <p>Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?</p><p>&#x2013; AlexDaniel 2014-03-18 02:51:25</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Всем всё понятно :))</p><p>&#x2013; AlexDaniel 2014-08-25 23:23:04</p></div>
+flags: 00
+blocks: <p>Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?</p><p>&#x2013; AlexDaniel 2014-03-18 02:51:25</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Всем всё понятно :))</p><p>&#x2013; AlexDaniel 2014-08-25 23:23:04</p></div>
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
 ip: 89.235.239.240

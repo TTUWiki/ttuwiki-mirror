@@ -1,21 +1,15 @@
 flags: 01010101010101010101010101010101010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>[[File:ArgoUML_abi_2010.pdf]]</p><p>[[File:JSPupr_2010.pdf]]</p><p>[[File:SPJackson_2010.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:TUND_C5.pdf]]</p><p>[[File:TUND_C6.pdf]]</p><p>[[File:TUND_C7.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:Tund2_C2_rusP_2010.pdf]]</p><p>[[File:TUND3_C1_P_2010.pdf]]</p><p>[[File:Tund2_C1_rus_2010.pdf]]</p><p>[[File:TUND6_C1_2010.pdf]]</p><p>[[File:TUND8_ptr_P.pdf]]</p><p>[[File:TUND10_KLASS2.pdf]]</p><p>[[File:TUNDC9.pdf]]</p><p>[[File:UML_ActivityDiagram_2010.pdf]]</p><p>&#x2013; Atomsk 2014-02-25 23:19 UTC</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Programmeerimise põhikursus keeles C <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100200<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Programmeerimise põhikursus keeles C<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100200</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>[[File:ArgoUML_abi_2010.pdf]]</p><p>[[File:JSPupr_2010.pdf]]</p><p>[[File:SPJackson_2010.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:titul_list.pdf]]</p><p>[[File:TUND_C5.pdf]]</p><p>[[File:TUND_C6.pdf]]</p><p>[[File:TUND_C7.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:TUND_C8.pdf]]</p><p>[[File:Tund2_C2_rusP_2010.pdf]]</p><p>[[File:TUND3_C1_P_2010.pdf]]</p><p>[[File:Tund2_C1_rus_2010.pdf]]</p><p>[[File:TUND6_C1_2010.pdf]]</p><p>[[File:TUND8_ptr_P.pdf]]</p><p>[[File:TUND10_KLASS2.pdf]]</p><p>[[File:TUNDC9.pdf]]</p><p>[[File:UML_ActivityDiagram_2010.pdf]]</p><p>&#x2013; Atomsk 2014-02-25 23:19 UTC</p></div>
 ip: 84.52.48.194
-ts: 1408847465
+ts: 1441924447
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 6
-diff-major: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; Ваш комментарий...</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; -- Atomsk 2014-02-25 23:19 UTC<br />&lt; ----<br />&lt; Ваш комментарий...</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 7
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Programmeerimise põhikursus keeles C
-	#SUBURL: Course:100200
+	#SUBURL [Course:100200 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -61,4 +55,4 @@ text: #SUBTITLE Programmeerimise põhikursus keeles C
 	-- Atomsk 2014-02-25 23:19 UTC
 	
 lastmajor: 5
-keep-ts: 1408847465
+keep-ts: 1441924447

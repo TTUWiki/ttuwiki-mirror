@@ -1,22 +1,16 @@
 flags: 0
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Inimese-masina suhted <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>31418<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Inimese-masina suhted<br />&gt; <strong class="changes">#SUBURL: Course:</strong>31418</p></div>
 ip: 89.235.235.166
-ts: 1408848228
+ts: 1441924448
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=</strong>Inimese-masina suhted</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Inimese-masina suhted <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=31418&amp;p_public=1&amp;p_mode=1]</strong></p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Inimese-masina suhted
-	#SUBURL: Course:31418
+	#SUBURL [Course:31418 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 2
-keep-ts: 1408848228
+keep-ts: 1441924448

@@ -1,18 +1,15 @@
-flags: 0100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/">http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/</a></p><p>&#x2013; AlexDaniel 2014-09-05 13:15:47</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/<br />&gt; -- AlexDaniel 2014-09-05 13:15:47</p></div>
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/">http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/</a></p><p>&#x2013; AlexDaniel 2014-09-05 13:15:47</p></div>
 ip: 89.235.235.166
-ts: 1409912147
-minor: 
-host: 193.40.244.196
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 1
-summary: http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Veebiteenused
-	#SUBURL: Course:104246
+	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -23,4 +20,4 @@ text: #SUBTITLE Veebiteenused
 	
 	
 lastmajor: 4
-keep-ts: 1409912147
+keep-ts: 1441924447

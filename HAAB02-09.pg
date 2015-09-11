@@ -1,17 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAB02/09 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50015&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HHL0170]] Avalik eetika<br />[[HPP0030]] Avalikkussuhted<br />[[HHX0050]] Avaliku halduse bakalaureuseeksam<br />[[HHL0250]] Diplomaatia<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[HHM0150]] Eesti riik ja avalik haldus<br />[[HHL0150]] Euroopa Liit<br />[[TAF0030]] Finantsarvestus<br />[[HHM0160]] Haldusjuhtimine<br />[[HOA7003]] Haldusõigus<br />[[HHL0160]] Halduspoliitika<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HHI0050]] Innovatsioon<br />[[HHL0140]] Keskkonnapoliitika<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HHM0016]] Mittetulundussektor<br />[[HOA6014]] Normitehnika<br />[[UTT0010]] Õpingukorraldus<br />[[HPP0020]] Organisatsioonipsühholoogia alused<br />[[HHM0090]] Organisatsiooniteooria<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0130]] Politoloogia alused<br />[[HHX0070]] Praktika<br />[[HHM0080]] Projektijuhtimine<br />[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus<br />[[HHM0070]] Riigihanked<br />[[HHL1280]] Riigi- ja õigusõpetus<br />[[HOA7002]] Riigiõigus<br />[[HHL1170]] Riigi rahandus<br />[[HHL0240]] Sissejuhatus avalikku haldusesse<br />[[HHL0230]] Sotsiaalpoliitika<br />[[HHL0190]] Sotsioloogia alused<br />[[TES0020]] Statistika<br />[[HHL0220]] Teadustöö alused<br />[[HHI0030]] Tehnoloogia valitsemine<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
+blocks: <h2>HAAB02/09 - Avalik haldus ja riigiteadused [Kava:50015 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HHL0170]] Avalik eetika<br />[[HPP0030]] Avalikkussuhted<br />[[HHX0050]] Avaliku halduse bakalaureuseeksam<br />[[HHL0250]] Diplomaatia<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[HHM0150]] Eesti riik ja avalik haldus<br />[[HHL0150]] Euroopa Liit<br />[[TAF0030]] Finantsarvestus<br />[[HHM0160]] Haldusjuhtimine<br />[[HOA7003]] Haldusõigus<br />[[HHL0160]] Halduspoliitika<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HHI0050]] Innovatsioon<br />[[HHL0140]] Keskkonnapoliitika<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HHM0016]] Mittetulundussektor<br />[[HOA6014]] Normitehnika<br />[[UTT0010]] Õpingukorraldus<br />[[HPP0020]] Organisatsioonipsühholoogia alused<br />[[HHM0090]] Organisatsiooniteooria<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0130]] Politoloogia alused<br />[[HHX0070]] Praktika<br />[[HHM0080]] Projektijuhtimine<br />[[HHR0100]] Regionaalpoliitika ja kohalik omavalitsus<br />[[HHM0070]] Riigihanked<br />[[HHL1280]] Riigi- ja õigusõpetus<br />[[HOA7002]] Riigiõigus<br />[[HHL1170]] Riigi rahandus<br />[[HHL0240]] Sissejuhatus avalikku haldusesse<br />[[HHL0230]] Sotsiaalpoliitika<br />[[HHL0190]] Sotsioloogia alused<br />[[TES0020]] Statistika<br />[[HHL0220]] Teadustöö alused<br />[[HHI0030]] Tehnoloogia valitsemine<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAB02/09 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50015&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAB02/09 - Avalik haldus <strong class="changes">ja riigiteadused</strong> [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50015&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div>
-ts: 1438886334
+	<div class="old"><p>&lt; == HAAB02/09 - Avalik haldus ja riigiteadused Kava:50015</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAB02/09 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAAB02/09 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50015&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAAB02/09 - Avalik haldus ja riigiteadused [Kava:50015 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HHL0170]] Avalik eetika
 	[[HPP0030]] Avalikkussuhted
@@ -53,4 +53,4 @@ text: == HAAB02/09 - Avalik haldus ja riigiteadused [http://ois.ttu.ee/portal/pa
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-keep-ts: 1438886334
+keep-ts: 1441924149

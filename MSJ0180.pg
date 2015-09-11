@@ -1,10 +1,16 @@
+flags: 0
 blocks: <p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html">Õppematerjal</a></p><p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html"> Automaatjuhtimise alused</a></p><h2>Kirjandus:</h2><ul><li>L. Einer. Automaatregulaatorid. Kirjastus “Valgus”, Tallinn, 1974<br />Pao C. Chau: Process control. A first course with MATLAB. Cambridge<br />University Press. 2002.<br /></li><li>V. J. Rotatš. Teoria avtomatitšeskogo upravlenija teploenergetitšeskimi<br />protsessami. (“Soojusenergeetiliste protsesside automaatjuhtimise<br />teooria”)<br /></li><li><a class="url http" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html">http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html</a></li></ul>
 lastmajorsummary: 
 ip: 89.235.235.166
-diff-major: 1
-summary: 
+ts: 1441924448
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Soojusautomaatika
-	#SUBURL: Course:100963
+	#SUBURL [Course:100963 〔Õppeaine ÕIS-is〕]
 	[[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html Õppematerjal]]
 	
 	[[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html  Automaatjuhtimise alused]]
@@ -19,14 +25,5 @@ text: #SUBTITLE Soojusautomaatika
 	teooria”)
 	*http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html
 	
-languages: 
 lastmajor: 5
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; == Kirjandus:<br />&gt;  <br />&gt; *L. Einer. Automaatregulaatorid. Kirjastus “Valgus”, Tallinn, 1974<br />&gt; Pao C. Chau: Process control. A first course with MATLAB. Cambridge<br />&gt; University Press. 2002.<br />&gt; *V. J. Rotatš. Teoria avtomatitšeskogo upravlenija teploenergetitšeskimi<br />&gt; protsessami. (“Soojusenergeetiliste protsesside automaatjuhtimise<br />&gt; teooria”)<br />&gt; *http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html</p></div>
-flags: 0
-ts: 1441697558
-minor: 
-host: 193.40.244.196
-username: 
-revision: 5
-keep-ts: 1441697558
+keep-ts: 1441924448

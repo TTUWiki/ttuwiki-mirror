@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>NDFR14/15 - Küberfüüsikaline süsteemitehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50206&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[NTX0010]] Akadeemiline võõrkeel<br />[[NTR0120]] Algoritmid ja andmestruktuurid<br />[[NTR0220]] Arukad hooned<br />[[NTS0341]] Arvutigraafika I<br />[[NTR0010]] Automaatika alused<br />[[NTR0080]] Automaatjuhtimissüsteemid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0260]] Ehitusfüüsika<br />[[NTR0060]] Elektroonika<br />[[NTR0260]] Erialane inglise keel<br />[[NTR0250]] Erialapraktika I<br />[[NTR0240]] Erialapraktika II<br />[[NTK1260]] Ettevõtluse alused<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0311]] Geoinformaatika<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTR0270]] Inimese ja arvuti interaktsioon<br />[[NTS0100]] Insenerieetika<br />[[NTK1140]] Keskkonnahoiu tehnoloogiad<br />[[NTK0020]] Keskkonnakaitse<br />[[NTR0190]] Küberfüüsikalised süsteemid<br />[[NTR0200]] Küberturbe põhialused ja juhtimine<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTR0130]] Mehhatroonika<br />[[NTR0110]] Mikroprotsessorsüsteemid<br />[[NTR0070]] Mõõtmine<br />[[NTK0010]] Õpingukorraldus<br />[[NTR0090]] Programmeerimine Javas<br />[[NTR0100]] Programmeerimine keeles C<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTR0150]] Sensorsignaalitöötlus<br />[[NTR0140]] Sensorvõrgud<br />[[NTR0050]] Side<br />[[NTR0020]] Sissejuhatus erialasse (küberfüüsikaline süsteemitehnika)<br />[[NTR0170]] Sissejuhatus reaalaja tarkvaratehnikasse<br />[[NTR0040]] Süsteemiteooria<br />[[NTR0210]] Tarkvara dünaamika<br />[[NTR0180]] Tarkvaratehnika<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTR0230]] Töökeskkonna praktika<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1170]] Üldine keemia<br />[[NTR0030]] Võrgurakendused</p>
-diff-minor: 
-ts: 1438887370
+blocks: <h2>NDFR14/15 - Küberfüüsikaline süsteemitehnika [Kava:50206 〔Õppekava ÕIS-is〕]</h2><p>[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[NTX0010]] Akadeemiline võõrkeel<br />[[NTR0120]] Algoritmid ja andmestruktuurid<br />[[NTR0220]] Arukad hooned<br />[[NTS0341]] Arvutigraafika I<br />[[NTR0010]] Automaatika alused<br />[[NTR0080]] Automaatjuhtimissüsteemid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0260]] Ehitusfüüsika<br />[[NTR0060]] Elektroonika<br />[[NTR0260]] Erialane inglise keel<br />[[NTR0250]] Erialapraktika I<br />[[NTR0240]] Erialapraktika II<br />[[NTK1260]] Ettevõtluse alused<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0311]] Geoinformaatika<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTR0270]] Inimese ja arvuti interaktsioon<br />[[NTS0100]] Insenerieetika<br />[[NTK1140]] Keskkonnahoiu tehnoloogiad<br />[[NTK0020]] Keskkonnakaitse<br />[[NTR0190]] Küberfüüsikalised süsteemid<br />[[NTR0200]] Küberturbe põhialused ja juhtimine<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTR0130]] Mehhatroonika<br />[[NTR0110]] Mikroprotsessorsüsteemid<br />[[NTR0070]] Mõõtmine<br />[[NTK0010]] Õpingukorraldus<br />[[NTR0090]] Programmeerimine Javas<br />[[NTR0100]] Programmeerimine keeles C<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTR0150]] Sensorsignaalitöötlus<br />[[NTR0140]] Sensorvõrgud<br />[[NTR0050]] Side<br />[[NTR0020]] Sissejuhatus erialasse (küberfüüsikaline süsteemitehnika)<br />[[NTR0170]] Sissejuhatus reaalaja tarkvaratehnikasse<br />[[NTR0040]] Süsteemiteooria<br />[[NTR0210]] Tarkvara dünaamika<br />[[NTR0180]] Tarkvaratehnika<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTR0230]] Töökeskkonna praktika<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1170]] Üldine keemia<br />[[NTR0030]] Võrgurakendused</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika Kava:50206</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika <strong class="changes">[</strong>Kava:50206 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == NDFR14/15 - Küberfüüsikaline süsteemitehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=1115&p_kava_versioon_id=50206&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == NDFR14/15 - Küberfüüsikaline süsteemitehnika [Kava:50206 〔Õppekava ÕIS-is〕]
 	[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTR0120]] Algoritmid ja andmestruktuurid
@@ -62,4 +64,4 @@ text: == NDFR14/15 - Küberfüüsikaline süsteemitehnika [http://ois.ttu.ee/por
 	[[NTR0030]] Võrgurakendused
 	
 	
-keep-ts: 1438887370
+keep-ts: 1441924152

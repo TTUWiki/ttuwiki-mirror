@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=444&amp;p_kava_versioon_id=50091&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IRT0030]] Andmeside<br />[[IAF0041]] Arvutid<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK1091]] Diplomipraktika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[SKK0121]] Elektroonika alused<br />[[SKK0122]] Elektroonika alused - projekt<br />[[SKK0090]] Elektroonika komponendid<br />[[AME3130]] Elektrotehnika<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0240]] Filosoofia<br />[[SKK0023]] Füüsika I<br />[[SKK0024]] Füüsika II<br />[[SKK0011]] Informaatika I<br />[[SKK0012]] Informaatika II<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[IEM0100]] Juhtimine ja side elektronsüsteemides<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0033]] Matemaatiline analüüs II<br />[[IED0130]] Mikroelektroonika<br />[[SKK0100]] Mõõtetehnika alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0170]] Õppepraktika<br />[[SKK0380]] Projektijuhtimine<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[SKK0015]] Sissejuhatus arvutivõrkudesse<br />[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll<br />[[SKK1050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK1140]] Tööõigus<br />[[SKK0160]] Toote ja tehnoloogia arendus<br />[[SKK0180]] Tootmispraktika</p>
-diff-minor: 
-ts: 1408891579
+blocks: <h2>SDER02/09 - Elektroonsed süsteemid [Kava:50091 〔Õppekava ÕIS-is〕]</h2><p>[[IRT0030]] Andmeside<br />[[IAF0041]] Arvutid<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK1091]] Diplomipraktika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[SKK0121]] Elektroonika alused<br />[[SKK0122]] Elektroonika alused - projekt<br />[[SKK0090]] Elektroonika komponendid<br />[[AME3130]] Elektrotehnika<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0240]] Filosoofia<br />[[SKK0023]] Füüsika I<br />[[SKK0024]] Füüsika II<br />[[SKK0011]] Informaatika I<br />[[SKK0012]] Informaatika II<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[IEM0100]] Juhtimine ja side elektronsüsteemides<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0320]] Logistika<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0033]] Matemaatiline analüüs II<br />[[IED0130]] Mikroelektroonika<br />[[SKK0100]] Mõõtetehnika alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0170]] Õppepraktika<br />[[SKK0380]] Projektijuhtimine<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[SKK0015]] Sissejuhatus arvutivõrkudesse<br />[[SKK0150]] Süsteemide arvutijuhtimine ja kontroll<br />[[SKK1050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK1140]] Tööõigus<br />[[SKK0160]] Toote ja tehnoloogia arendus<br />[[SKK0180]] Tootmispraktika</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == SDER02/09 - Elektroonsed süsteemid Kava:50091</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == SDER02/09 - Elektroonsed süsteemid <strong class="changes">[</strong>Kava:50091 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=444&p_kava_versioon_id=50091&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == SDER02/09 - Elektroonsed süsteemid [Kava:50091 〔Õppekava ÕIS-is〕]
 	[[IRT0030]] Andmeside
 	[[IAF0041]] Arvutid
 	[[SKK1010]] Arvutigraafika algkursus
@@ -53,4 +55,4 @@ text: == SDER02/09 - Elektroonsed süsteemid [http://ois.ttu.ee/portal/page?_pag
 	[[SKK0180]] Tootmispraktika
 	
 	
-keep-ts: 1408891579
+keep-ts: 1441924153

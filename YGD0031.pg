@@ -1,16 +1,16 @@
 flags: 0
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
 ip: 89.235.235.166
-ts: 1411236902
-minor: 0
-host: 89.235.230.13
+ts: 1441924452
+minor: 1
+host: 82.131.7.230
 username: AlexDaniel
-revision: 86
-summary: Откат до 2014-08-24 06:19:15
+revision: 87
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon I
-	#SUBURL: Course:30241
+	#SUBURL [Course:30241 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 86
-keep-ts: 1411236902
+keep-ts: 1441924452

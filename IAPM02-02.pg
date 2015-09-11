@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAPM02/02 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1015&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[ITV0090]] Andmebaaside administreerimine<br />[[IAG0020]] Andmebaasi võrguliidesed<br />[[ITI0090]] Arvutigraafika teooria ja praktika<br />[[IDN5590]] Eksperimentaalsed sõresüsteemid<br />[[TMT0040]] Ergonoomika<br />[[IDU002P]] Erialapraktika<br />[[IDN8061]] Eriseminar magistrantidele<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[ITI0060]] Formaalsed meetodid<br />[[IDU5570]] Infosüsteemide arendamise tehnoloogia<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[ITI0041]] Loogika arvutiteaduses<br />[[ITI0020]] Loogiline programmeerimine<br />[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine<br />[[IDU3191]] Meeskonnatöö infosüsteemi arendamisel<br />[[IDU3192]] Meeskonnatöö infosüsteemi arendamisel - projekt<br />[[IDX5040]] Multimeedia<br />[[IDU0050]] Objektorienteeritud disain<br />[[IAG0120]] Operatsioonisüsteemid<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[IDU0150]] Rakendusarhitektuurid II<br />[[ITV0080]] Rakendusliku loogika süvakursus<br />[[ITI0070]] Rekursiooniteooria<br />[[ITV0070]] Semantika ja analüütiline filosoofia<br />[[IDS0010]] Sissejuhatus andmeturbesse<br />[[IDS0020]] Sissejuhatus krüptograafiasse<br />[[IDU0160]] Süsteemiarhitektuurid<br />[[IDK3770]] Tabelarvutussüsteemid<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö<br />[[ITV0060]] Teadmiste otsing, formaliseerimine ja hoidmine<br />[[HLX8040]] Teadusvõõrkeel<br />[[IDK5590]] Translaatorite koostamine<br />[[IDK5210]] Visuaalprogrammeerimine<br />[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia</p>
-diff-minor: 
-ts: 1408891427
+blocks: <h2>IAPM02/02 - Informaatika [Kava:1015 〔Õppekava ÕIS-is〕]</h2><p>[[ITV0090]] Andmebaaside administreerimine<br />[[IAG0020]] Andmebaasi võrguliidesed<br />[[ITI0090]] Arvutigraafika teooria ja praktika<br />[[IDN5590]] Eksperimentaalsed sõresüsteemid<br />[[TMT0040]] Ergonoomika<br />[[IDU002P]] Erialapraktika<br />[[IDN8061]] Eriseminar magistrantidele<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[ITI0060]] Formaalsed meetodid<br />[[IDU5570]] Infosüsteemide arendamise tehnoloogia<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[ITI0041]] Loogika arvutiteaduses<br />[[ITI0020]] Loogiline programmeerimine<br />[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine<br />[[IDU3191]] Meeskonnatöö infosüsteemi arendamisel<br />[[IDU3192]] Meeskonnatöö infosüsteemi arendamisel - projekt<br />[[IDX5040]] Multimeedia<br />[[IDU0050]] Objektorienteeritud disain<br />[[IAG0120]] Operatsioonisüsteemid<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[IDU0150]] Rakendusarhitektuurid II<br />[[ITV0080]] Rakendusliku loogika süvakursus<br />[[ITI0070]] Rekursiooniteooria<br />[[ITV0070]] Semantika ja analüütiline filosoofia<br />[[IDS0010]] Sissejuhatus andmeturbesse<br />[[IDS0020]] Sissejuhatus krüptograafiasse<br />[[IDU0160]] Süsteemiarhitektuurid<br />[[IDK3770]] Tabelarvutussüsteemid<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö<br />[[ITV0060]] Teadmiste otsing, formaliseerimine ja hoidmine<br />[[HLX8040]] Teadusvõõrkeel<br />[[IDK5590]] Translaatorite koostamine<br />[[IDK5210]] Visuaalprogrammeerimine<br />[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAPM02/02 - Informaatika Kava:1015</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAPM02/02 - Informaatika <strong class="changes">[</strong>Kava:1015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IAPM02/02 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=1015&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IAPM02/02 - Informaatika [Kava:1015 〔Õppekava ÕIS-is〕]
 	[[ITV0090]] Andmebaaside administreerimine
 	[[IAG0020]] Andmebaasi võrguliidesed
 	[[ITI0090]] Arvutigraafika teooria ja praktika
@@ -51,4 +53,4 @@ text: == IAPM02/02 - Informaatika [http://ois.ttu.ee/portal/page?_pageid=35,4285
 	[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia
 	
 	
-keep-ts: 1408891427
+keep-ts: 1441924150

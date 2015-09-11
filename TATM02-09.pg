@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TATM02/09 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50057&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TMO1090]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[HOL7010]] EL siseturuõigus<br />[[TMO100P]] Erialapraktika<br />[[TER1420]] Ettevõtte rahandus<br />[[TER1420]] Ettevõtte rahandus (kõrvaleriala)<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TER1499]] Ettevõtte väärtuse hindamine (kõrvaleriala)<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TAF1010]] Finantsaruandlus ja -analüüs (kõrvaleriala)<br />[[TMO1021]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ1050]] Juhtimismäng<br />[[TMJ1091]] Kinnisvaraturundus<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TMK1150]] Operatsioonijuhtimine<br />[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TAF1130]] Rahvusvaheline arvestus<br />[[TAF1130]] Rahvusvaheline arvestus (kõrvaleriala)<br />[[TMM1220]] Rahvusvaheline turundus<br />[[TMO1041]] Strateegiline juhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine (kõrvaleriala)<br />[[TMM1180]] Strateegiline turundus<br />[[TMM1290]] Tarbijakäitumine<br />[[TMJ1081]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMM1070]] Tollindus<br />[[TMM1050]] Turunduskommunikatsioon II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM1230]] Turundusuuring II</p>
-diff-minor: 
-ts: 1408891643
+blocks: <h2>TATM02/09 - Juhtimine ja turundus [Kava:50057 〔Õppekava ÕIS-is〕]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[TMO1090]] Äriühingute valitsemine<br />[[TMM1490]] Brändi juhtimine<br />[[HOL7010]] EL siseturuõigus<br />[[TMO100P]] Erialapraktika<br />[[TER1420]] Ettevõtte rahandus<br />[[TER1420]] Ettevõtte rahandus (kõrvaleriala)<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TER1499]] Ettevõtte väärtuse hindamine (kõrvaleriala)<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TAF1010]] Finantsaruandlus ja -analüüs (kõrvaleriala)<br />[[TMO1021]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ1050]] Juhtimismäng<br />[[TMJ1091]] Kinnisvaraturundus<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TMK1150]] Operatsioonijuhtimine<br />[[TMO1071]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TAF1130]] Rahvusvaheline arvestus<br />[[TAF1130]] Rahvusvaheline arvestus (kõrvaleriala)<br />[[TMM1220]] Rahvusvaheline turundus<br />[[TMO1041]] Strateegiline juhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine (kõrvaleriala)<br />[[TMM1180]] Strateegiline turundus<br />[[TMM1290]] Tarbijakäitumine<br />[[TMJ1081]] Tarneahela juhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMM1070]] Tollindus<br />[[TMM1050]] Turunduskommunikatsioon II<br />[[TMM1280]] Turundussimulatsioon<br />[[TMM1230]] Turundusuuring II</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TATM02/09 - Juhtimine ja turundus Kava:50057</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TATM02/09 - Juhtimine ja turundus <strong class="changes">[</strong>Kava:50057 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == TATM02/09 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=93&p_kava_versioon_id=50057&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == TATM02/09 - Juhtimine ja turundus [Kava:50057 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
 	[[TMO1090]] Äriühingute valitsemine
@@ -49,4 +51,4 @@ text: == TATM02/09 - Juhtimine ja turundus [http://ois.ttu.ee/portal/page?_pagei
 	[[TMM1230]] Turundusuuring II
 	
 	
-keep-ts: 1408891643
+keep-ts: 1441924153

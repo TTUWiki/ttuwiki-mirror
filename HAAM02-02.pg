@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAM02/02 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=1229&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HHA3280]] Arengupoliitikad ja üleilmastumine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HHL1120]] Euroopa Liidu õigussüsteem<br />[[HHL1030]] Euroopa Liidu poliitikad II<br />[[HHL1150]] E-valitsemine<br />[[IDU5050]] Haldusinfosüsteemid<br />[[HHL1100]] Haldusõigus<br />[[HUP5630]] Haridusökonoomika<br />[[HUP1020]] Haridussüsteemi juhtimine<br />[[HHA1150]] Innovatsiooni- ja tööstuspoliitika<br />[[HHA3260]] Innovatsioonisüsteemid<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II<br />[[HHA0120]] Kulturoloogia<br />[[HHX1011]] Magistriseminar I<br />[[HHX1012]] Magistriseminar II<br />[[TET8150]] Mikro- ja makroökonoomika<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[HHP1010]] Organisatsioonipsühholoogia<br />[[HHA1160]] Poliitikate analüüs<br />[[HHX1020]] Praktika<br />[[HHR1050]] Säästliku arengu strateegia<br />[[HHF8160]] Sotsiaalfilosoofia<br />[[TMO1040]] Strateegiline juhtimine<br />[[HHP8201]] Suhtlemispsühholoogia<br />[[HHF9020]] Teadusfilosoofia<br />[[HHX1040]] Teadustöö meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHA3270]] Tehnoloogia poliitikate ajalugu<br />[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad</p>
-diff-minor: 
-ts: 1408891369
+blocks: <h2>HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]</h2><p>[[HHA3280]] Arengupoliitikad ja üleilmastumine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HHL1120]] Euroopa Liidu õigussüsteem<br />[[HHL1030]] Euroopa Liidu poliitikad II<br />[[HHL1150]] E-valitsemine<br />[[IDU5050]] Haldusinfosüsteemid<br />[[HHL1100]] Haldusõigus<br />[[HUP5630]] Haridusökonoomika<br />[[HUP1020]] Haridussüsteemi juhtimine<br />[[HHA1150]] Innovatsiooni- ja tööstuspoliitika<br />[[HHA3260]] Innovatsioonisüsteemid<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II<br />[[HHA0120]] Kulturoloogia<br />[[HHX1011]] Magistriseminar I<br />[[HHX1012]] Magistriseminar II<br />[[TET8150]] Mikro- ja makroökonoomika<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[HHP1010]] Organisatsioonipsühholoogia<br />[[HHA1160]] Poliitikate analüüs<br />[[HHX1020]] Praktika<br />[[HHR1050]] Säästliku arengu strateegia<br />[[HHF8160]] Sotsiaalfilosoofia<br />[[TMO1040]] Strateegiline juhtimine<br />[[HHP8201]] Suhtlemispsühholoogia<br />[[HHF9020]] Teadusfilosoofia<br />[[HHX1040]] Teadustöö meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHA3270]] Tehnoloogia poliitikate ajalugu<br />[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAM02/02 - Avalik haldus Kava:1229</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAM02/02 - Avalik haldus <strong class="changes">[</strong>Kava:1229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HAAM02/02 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=1229&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]
 	[[HHA3280]] Arengupoliitikad ja üleilmastumine
 	[[TTR1030]] Avaliku sektori ökonoomika
 	[[HHL1120]] Euroopa Liidu õigussüsteem
@@ -43,4 +45,4 @@ text: == HAAM02/02 - Avalik haldus [http://ois.ttu.ee/portal/page?_pageid=35,428
 	[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad
 	
 	
-keep-ts: 1408891369
+keep-ts: 1441924149

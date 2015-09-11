@@ -1,33 +1,31 @@
-flags: 0100
-blocks: <h2>Лекции:</h2><p>На лекциях дают представление о ИТ области, какие возможности имеются для реализации. На каждую из лекций будут приходить люди из ИТ области и рассказывать как они начинали работать, в каких проектах участвовали/участвуют. Посещение лекций не обязательно, никто вас отмечать не будет.</p><h2>Зачет:</h2><p>Для получения зачета необходимо написать эссе на 1-2 страницы А4. Темы эссе будут выданы где-то на 8 неделе. Получить зачет элементарно.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Если темы эссе уже есть, то не подскажете, где их можно посмотреть?</p><p>&#x2013; Anna 2014-10-23 18:16:17</p></div><div class="userComment"><p>В прошлом году тема эссе была одна. Вот требования к прошлогоднему эссе:<br /></p><pre class="real">pikkus 1-2 lk., A4 formaat, font 12, eesti voi vene, doc voi pdf
-	kuusik@cc.ttu.ee
-	rein.kuusik1@ttu.ee
-	hiljemalt 11.11.2013
+flags: 00
+blocks: <h2>Лекции:</h2><p>На лекциях дают представление о ИТ области, какие возможности имеются для реализации. На каждую из лекций будут приходить люди из ИТ области и рассказывать как они начинали работать, в каких проектах участвовали/участвуют. Посещение лекций не обязательно, никто вас отмечать не будет.</p><h2>Зачет:</h2><p>Для получения зачета необходимо написать эссе на 1-2 страницы А4. Темы эссе будут выданы где-то на 8 неделе. Получить зачет элементарно.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Если темы эссе уже есть, то не подскажете, где их можно посмотреть?</p><p>&#x2013; Anna 2014-10-23 18:16:17</p></div><div class="userComment"><p>В прошлом году тема эссе была одна. Вот требования к прошлогоднему эссе:<br /></p><div class="highlight"><pre>pikkus <span style="color: #666666">1-2</span> lk<span style="color: #666666">.</span>, A4 formaat, font <span style="color: #666666">12</span>, eesti voi vene, doc voi pdf
+	kuusik<span style="color: #19177C">@cc</span><span style="color: #666666">.</span>ttu<span style="color: #666666">.</span>ee
+	rein<span style="color: #666666">.</span>kuusik1<span style="color: #19177C">@ttu</span><span style="color: #666666">.</span>ee
+	hiljemalt <span style="color: #666666">11.11.2013</span>
 	maili subject: essee
 	
-	Содержание
-	1)Почему выбрали специальность "информатика"?
-	2)Все ли отвечает ожиданиям?
-	3)Что нравится? Что не нравится? Что могло бы быть лучше?
-	4)Мои проблемы в учебе
-	5)Работаете или нет? Если работаете, то как влияет на учебу работа? Дает ли учеба 
-	необходимые знания для работы? Если рассматривать со стороны работы, то что могло
-	бы быть в учебе/в учебной программе по-другому? Если не работаете, то когда
-	планируете идти на работу и почему?</pre><p>В этом году может что-то и поменялось, лучше переспросить :)</p><p>&#x2013; Artur Gummel 2014-10-23 22:31:54</p></div><div class="userComment"><p>Вряд ли что-то изменилось. Вот вопросы 2009-го года:<br /><a class="url http" href="http://iapb12.pbworks.com/w/page/10117794/Erialatutvustus%20-%20IDN0011">http://iapb12.pbworks.com/w/page/10117794/Erialatutvustus%20-%20IDN0011</a></p><p>&#x2013; AlexDaniel 2014-10-23 22:49:04</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; 5)Работаете или нет? Если работаете, то как влияет на учебу работа? Дает ли учеба необходимые знания для работы? Если рассматривать со стороны работы, то что могло бы быть в учебе/в учебной программе по-другому? Если не работаете, то когда планируете идти на работу и почему?</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; 5)Работаете или нет? Если работаете, то как влияет на учебу работа? Дает ли учеба <br />&gt; необходимые знания для работы? Если рассматривать со стороны работы, то что могло<br />&gt; бы быть в учебе/в учебной программе по-другому? Если не работаете, то когда<br />&gt; планируете идти на работу и почему?</p></div>
+	<span style="border: 1px solid #FF0000">Ð¡Ð¾Ð´ÐµÑÐ¶Ð°Ð½Ð¸Ðµ</span>
+	<span style="color: #666666">1</span>)<span style="border: 1px solid #FF0000">ÐÐ¾ÑÐµÐ¼Ñ</span> <span style="border: 1px solid #FF0000">Ð²ÑÐ±ÑÐ°Ð»Ð¸</span> <span style="border: 1px solid #FF0000">ÑÐ¿ÐµÑÐ¸Ð°Ð»ÑÐ½Ð¾ÑÑÑ</span> <span style="color: #BA2121">&quot;Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸ÐºÐ°&quot;</span>?
+	<span style="color: #666666">2</span>)<span style="border: 1px solid #FF0000">ÐÑÐµ</span> <span style="border: 1px solid #FF0000">Ð»Ð¸</span> <span style="border: 1px solid #FF0000">Ð¾ÑÐ²ÐµÑÐ°ÐµÑ</span> <span style="border: 1px solid #FF0000">Ð¾Ð¶Ð¸Ð´Ð°Ð½Ð¸ÑÐ¼</span>?
+	<span style="color: #666666">3</span>)<span style="border: 1px solid #FF0000">Ð§ÑÐ¾</span> <span style="border: 1px solid #FF0000">Ð½ÑÐ°Ð²Ð¸ÑÑÑ</span>? <span style="border: 1px solid #FF0000">Ð§ÑÐ¾</span> <span style="border: 1px solid #FF0000">Ð½Ðµ</span> <span style="border: 1px solid #FF0000">Ð½ÑÐ°Ð²Ð¸ÑÑÑ</span>? <span style="border: 1px solid #FF0000">Ð§ÑÐ¾</span> <span style="border: 1px solid #FF0000">Ð¼Ð¾Ð³Ð»Ð¾</span> <span style="border: 1px solid #FF0000">Ð±Ñ</span> <span style="border: 1px solid #FF0000">Ð±ÑÑÑ</span> <span style="border: 1px solid #FF0000">Ð»ÑÑÑÐµ</span>?
+	<span style="color: #666666">4</span>)<span style="border: 1px solid #FF0000">ÐÐ¾Ð¸</span> <span style="border: 1px solid #FF0000">Ð¿ÑÐ¾Ð±Ð»ÐµÐ¼Ñ</span> <span style="border: 1px solid #FF0000">Ð²</span> <span style="border: 1px solid #FF0000">ÑÑÐµÐ±Ðµ</span>
+	<span style="color: #666666">5</span>)<span style="border: 1px solid #FF0000">Ð Ð°Ð±Ð¾ÑÐ°ÐµÑÐµ</span> <span style="border: 1px solid #FF0000">Ð¸Ð»Ð¸</span> <span style="border: 1px solid #FF0000">Ð½ÐµÑ</span>? <span style="border: 1px solid #FF0000">ÐÑÐ»Ð¸</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÐ°ÐµÑÐµ</span>, <span style="border: 1px solid #FF0000">ÑÐ¾</span> <span style="border: 1px solid #FF0000">ÐºÐ°Ðº</span> <span style="border: 1px solid #FF0000">Ð²Ð»Ð¸ÑÐµÑ</span> <span style="border: 1px solid #FF0000">Ð½Ð°</span> <span style="border: 1px solid #FF0000">ÑÑÐµÐ±Ñ</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÐ°</span>? <span style="border: 1px solid #FF0000">ÐÐ°ÐµÑ</span> <span style="border: 1px solid #FF0000">Ð»Ð¸</span> <span style="border: 1px solid #FF0000">ÑÑÐµÐ±Ð°</span> 
+	<span style="border: 1px solid #FF0000">Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼ÑÐµ</span> <span style="border: 1px solid #FF0000">Ð·Ð½Ð°Ð½Ð¸Ñ</span> <span style="border: 1px solid #FF0000">Ð´Ð»Ñ</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÑ</span>? <span style="border: 1px solid #FF0000">ÐÑÐ»Ð¸</span> <span style="border: 1px solid #FF0000">ÑÐ°ÑÑÐ¼Ð°ÑÑÐ¸Ð²Ð°ÑÑ</span> <span style="border: 1px solid #FF0000">ÑÐ¾</span> <span style="border: 1px solid #FF0000">ÑÑÐ¾ÑÐ¾Ð½Ñ</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÑ</span>, <span style="border: 1px solid #FF0000">ÑÐ¾</span> <span style="border: 1px solid #FF0000">ÑÑÐ¾</span> <span style="border: 1px solid #FF0000">Ð¼Ð¾Ð³Ð»Ð¾</span>
+	<span style="border: 1px solid #FF0000">Ð±Ñ</span> <span style="border: 1px solid #FF0000">Ð±ÑÑÑ</span> <span style="border: 1px solid #FF0000">Ð²</span> <span style="border: 1px solid #FF0000">ÑÑÐµÐ±Ðµ</span><span style="color: #666666">/</span><span style="border: 1px solid #FF0000">Ð²</span> <span style="border: 1px solid #FF0000">ÑÑÐµÐ±Ð½Ð¾Ð¹</span> <span style="border: 1px solid #FF0000">Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ðµ</span> <span style="border: 1px solid #FF0000">Ð¿Ð¾</span><span style="color: #666666">-</span><span style="border: 1px solid #FF0000">Ð´ÑÑÐ³Ð¾Ð¼Ñ</span>? <span style="border: 1px solid #FF0000">ÐÑÐ»Ð¸</span> <span style="border: 1px solid #FF0000">Ð½Ðµ</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÐ°ÐµÑÐµ</span>, <span style="border: 1px solid #FF0000">ÑÐ¾</span> <span style="border: 1px solid #FF0000">ÐºÐ¾Ð³Ð´Ð°</span>
+	<span style="border: 1px solid #FF0000">Ð¿Ð»Ð°Ð½Ð¸ÑÑÐµÑÐµ</span> <span style="border: 1px solid #FF0000">Ð¸Ð´ÑÐ¸</span> <span style="border: 1px solid #FF0000">Ð½Ð°</span> <span style="border: 1px solid #FF0000">ÑÐ°Ð±Ð¾ÑÑ</span> <span style="border: 1px solid #FF0000">Ð¸</span> <span style="border: 1px solid #FF0000">Ð¿Ð¾ÑÐµÐ¼Ñ</span>?
+	</pre></div>
+	<p>В этом году может что-то и поменялось, лучше переспросить :)</p><p>&#x2013; Artur Gummel 2014-10-23 22:31:54</p></div><div class="userComment"><p>Вряд ли что-то изменилось. Вот вопросы 2009-го года:<br /><a class="url http" href="http://iapb12.pbworks.com/w/page/10117794/Erialatutvustus%20-%20IDN0011">http://iapb12.pbworks.com/w/page/10117794/Erialatutvustus%20-%20IDN0011</a></p><p>&#x2013; AlexDaniel 2014-10-23 22:49:04</p></div>
 ip: 89.235.235.166
-ts: 1414479403
-minor: 
-host: 176.46.125.185
-username: Artur Gummel
-revision: 12
-diff-major: 1
-summary: 
+ts: 1441924447
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+revision: 13
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Erialatutvustus
-	#SUBURL: Course:100854
+	#SUBURL [Course:100854 〔Õppeaine ÕIS-is〕]
 	
 	
 	==Лекции:
@@ -79,4 +77,4 @@ text: #SUBTITLE Erialatutvustus
 	
 	
 lastmajor: 12
-keep-ts: 1414479403
+keep-ts: 1441924447

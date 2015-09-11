@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>IAEM02/02 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1092&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IEM0030]] Andmehõivesüsteemid<br />[[ISC0021]] ASIC disain<br />[[IEM0070]] Biomeditsiinielektroonika<br />[[IEX0010]] Elektronsüsteemid - kompleksprojekt<br />[[IED0070]] Elektroonika erikursus I<br />[[IEM0060]] Elektroonika erikursus II<br />[[TMT0040]] Ergonoomika<br />[[IED0120]] Erialapraktika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[IED0080]] Kiipdisain<br />[[IAY0130]] Kiipsüsteemi disain<br />[[IEM0080]] Kõne analüüs ja süntees<br />[[MHK0030]] Mehhatroonika<br />[[IED0060]] Mikro- ja nanoelektroonika<br />[[IED0140]] Mikrolülituste skeemitehnika<br />[[IEM0040]] Mobiilsed navigatsioonisüsteemid<br />[[IED0190]] Optoelektroonika ja integraaloptika<br />[[IRM0090]] RF disaini paketid<br />[[IAY0070]] Riist- ja tarkvara koosdisain<br />[[IAY0040]] Riistvara kirjelduskeeled ja modelleerimine<br />[[IED0050]] Sensoorika<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[HLX8040]] Teadusvõõrkeel<br />[[IEM0020]] Test ja diagnostika elektroonikas</p>
-diff-minor: 
-ts: 1408891417
+blocks: <h2>IAEM02/02 - Elektroonika ja bioonika [Kava:1092 〔Õppekava ÕIS-is〕]</h2><p>[[IEM0030]] Andmehõivesüsteemid<br />[[ISC0021]] ASIC disain<br />[[IEM0070]] Biomeditsiinielektroonika<br />[[IEX0010]] Elektronsüsteemid - kompleksprojekt<br />[[IED0070]] Elektroonika erikursus I<br />[[IEM0060]] Elektroonika erikursus II<br />[[TMT0040]] Ergonoomika<br />[[IED0120]] Erialapraktika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[IED0080]] Kiipdisain<br />[[IAY0130]] Kiipsüsteemi disain<br />[[IEM0080]] Kõne analüüs ja süntees<br />[[MHK0030]] Mehhatroonika<br />[[IED0060]] Mikro- ja nanoelektroonika<br />[[IED0140]] Mikrolülituste skeemitehnika<br />[[IEM0040]] Mobiilsed navigatsioonisüsteemid<br />[[IED0190]] Optoelektroonika ja integraaloptika<br />[[IRM0090]] RF disaini paketid<br />[[IAY0070]] Riist- ja tarkvara koosdisain<br />[[IAY0040]] Riistvara kirjelduskeeled ja modelleerimine<br />[[IED0050]] Sensoorika<br />[[IEM0050]] Sensorsignaalitöötlus<br />[[HLX8040]] Teadusvõõrkeel<br />[[IEM0020]] Test ja diagnostika elektroonikas</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAEM02/02 - Elektroonika ja bioonika Kava:1092</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAEM02/02 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:1092 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == IAEM02/02 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=91&p_kava_versioon_id=1092&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == IAEM02/02 - Elektroonika ja bioonika [Kava:1092 〔Õppekava ÕIS-is〕]
 	[[IEM0030]] Andmehõivesüsteemid
 	[[ISC0021]] ASIC disain
 	[[IEM0070]] Biomeditsiinielektroonika
@@ -36,4 +38,4 @@ text: == IAEM02/02 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pa
 	[[IEM0020]] Test ja diagnostika elektroonikas
 	
 	
-keep-ts: 1408891417
+keep-ts: 1441924150

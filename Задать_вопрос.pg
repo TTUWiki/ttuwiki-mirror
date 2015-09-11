@@ -2,8 +2,8 @@ blocks: <h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос
 	<h2>Задать вопрос</h2><p>Здесь вы можете задать любой вопрос.</p><p>Все вопросы видны на [[Вопросы|отдельной странице]].</p>
 lastmajorsummary: Вопросы перенесены сюда
 ip: 89.235.239.240
-diff-major: 1
 summary: Вопросы перенесены сюда
+diff-major: 1
 languages: 
 text: == Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
@@ -24,7 +24,7 @@ diff-minor: <p><strong>Added:</strong></p>
 flags: 01010
 ts: 1441903640
 minor: 
-username: AlexDaniel
 host: 82.131.7.230
+username: AlexDaniel
 revision: 3
 keep-ts: 1441903640

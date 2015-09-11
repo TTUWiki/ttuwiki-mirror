@@ -1,15 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YVEM09/09 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50125&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[DMK1080]] Andmete kodeerimine meditsiinis<br />[[IDY0275]] Äriinfosüsteemid<br />[[IAF0041]] Arvutid<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[DMK1010]] Epidemioloogia<br />[[DMK1500]] Erialased ettekanded ja seminarid<br />[[DMK1090]] E-tervise alused<br />[[DMK1020]] Haiguseõpetus ja arstiabi<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[HLI8750]] Inglise teaduskeel<br />[[DMK1070]] Inimese õpetus<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega<br />[[DMK1400]] Magistriseminar<br />[[DMK1100]] Meditsiiniline kuvamine ja andmehõive<br />[[DMK1200]] Meditsiinis kasutatavad signaalid<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[IDY0201]] Nõuete analüüs<br />[[IDK1011]] Programmeerimise algkursus<br />[[IDK0075]] Sissejuhatus sensorvõrkudesse<br />[[IDK0071]] Tarkvaratehnika<br />[[DMK1040]] Terviseedendus<br />[[DMK1300]] Töö tervishoiuettevõttes<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
-diff-minor: 
-ts: 1408891730
+blocks: <h2>YVEM09/09 - Tervishoiutehnoloogia [Kava:50125 〔Õppekava ÕIS-is〕]</h2><p>[[DMK1080]] Andmete kodeerimine meditsiinis<br />[[IDY0275]] Äriinfosüsteemid<br />[[IAF0041]] Arvutid<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[DMK1010]] Epidemioloogia<br />[[DMK1500]] Erialased ettekanded ja seminarid<br />[[DMK1090]] E-tervise alused<br />[[DMK1020]] Haiguseõpetus ja arstiabi<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[HLI8750]] Inglise teaduskeel<br />[[DMK1070]] Inimese õpetus<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[DMK1600]] Magistriõppepraktika koostöös tööstuspartneritega<br />[[DMK1400]] Magistriseminar<br />[[DMK1100]] Meditsiiniline kuvamine ja andmehõive<br />[[DMK1200]] Meditsiinis kasutatavad signaalid<br />[[DMK1030]] Meditsiiniteooria ja -eetika<br />[[IDY0201]] Nõuete analüüs<br />[[IDK1011]] Programmeerimise algkursus<br />[[IDK0075]] Sissejuhatus sensorvõrkudesse<br />[[IDK0071]] Tarkvaratehnika<br />[[DMK1040]] Terviseedendus<br />[[DMK1300]] Töö tervishoiuettevõttes<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YVEM09/09 - Tervishoiutehnoloogia Kava:50125</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YVEM09/09 - Tervishoiutehnoloogia <strong class="changes">[</strong>Kava:50125 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == YVEM09/09 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50125&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == YVEM09/09 - Tervishoiutehnoloogia [Kava:50125 〔Õppekava ÕIS-is〕]
 	[[DMK1080]] Andmete kodeerimine meditsiinis
 	[[IDY0275]] Äriinfosüsteemid
 	[[IAF0041]] Arvutid
@@ -40,4 +42,4 @@ text: == YVEM09/09 - Tervishoiutehnoloogia [http://ois.ttu.ee/portal/page?_pagei
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-keep-ts: 1408891730
+keep-ts: 1441924155

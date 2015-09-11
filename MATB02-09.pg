@@ -1,17 +1,17 @@
 flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>MATB02/09 - Tootearendus ja tootmistehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50005&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MER0060]] APJ tootmisseadmete programmeerimine<br />[[MES0040]] Automatiseerimistehnika<br />[[MHD0072]] Dünaamika<br />[[AME0070]] Elektriahelad ja elektroonika alused<br />[[MEX0030]] Eriõppe projekt<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[EMH5020]] Hüdro- ja aeromehaanika<br />[[IDK0092]] Informaatika II (tehnika)<br />[[MES0010]] Integreeritud tootearendus<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[MXX0060]] Keevitus ja keeviskonstruktsioonid<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK0010]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[EMD5110]] Lõplike elementide meetod<br />[[MHE0041]] Masinaelemendid I<br />[[MHE0042]] Masinaelemendid II<br />[[MHD0030]] Masinamehaanika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0120]] Materjali ja tehnoloogia valik<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[UTT0010]] Õpingukorraldus<br />[[MHE0050]] Põhiõppe projekt<br />[[MES0150]] Probleemilahendus<br />[[MER0150]] Raalprojekteerimine<br />[[UTT0040]] Rakendusmatemaatika<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[EMD0040]] Sissejuhatus laevaehitusse<br />[[MEA0050]] Sõidukite ja mehhanismide dünaamika<br />[[MSE0100]] Soojustehnika<br />[[MHD0071]] Staatika ja kinemaatika<br />[[UTT0020]] Tehniline hüdro- ja aeromehaanika<br />[[YGK3350]] Tehniline joonestamine<br />[[MTT0110]] Tehnoloogiline praktika<br />[[MTM0010]] Tehnomaterjalid<br />[[MEX0010]] Töökeskkonna praktika<br />[[MET0030]] Tootmisseadmed ja -süsteemid<br />[[MET0011]] Tootmistehnika alused I<br />[[MET0012]] Tootmistehnika alused II<br />[[MEA5370]] Transpordivahendid<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TMJ0110]] Ettevõtluse alused</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TET3070]] Mikro- ja makroökonoomika</p></div>
-ts: 1438886453
+blocks: <h2>MATB02/09 - Tootearendus ja tootmistehnika [Kava:50005 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MER0060]] APJ tootmisseadmete programmeerimine<br />[[MES0040]] Automatiseerimistehnika<br />[[MHD0072]] Dünaamika<br />[[AME0070]] Elektriahelad ja elektroonika alused<br />[[MEX0030]] Eriõppe projekt<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[EMH5020]] Hüdro- ja aeromehaanika<br />[[IDK0092]] Informaatika II (tehnika)<br />[[MES0010]] Integreeritud tootearendus<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[MXX0060]] Keevitus ja keeviskonstruktsioonid<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK0010]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[EMD5110]] Lõplike elementide meetod<br />[[MHE0041]] Masinaelemendid I<br />[[MHE0042]] Masinaelemendid II<br />[[MHD0030]] Masinamehaanika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0120]] Materjali ja tehnoloogia valik<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[UTT0010]] Õpingukorraldus<br />[[MHE0050]] Põhiõppe projekt<br />[[MES0150]] Probleemilahendus<br />[[MER0150]] Raalprojekteerimine<br />[[UTT0040]] Rakendusmatemaatika<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[EMD0040]] Sissejuhatus laevaehitusse<br />[[MEA0050]] Sõidukite ja mehhanismide dünaamika<br />[[MSE0100]] Soojustehnika<br />[[MHD0071]] Staatika ja kinemaatika<br />[[UTT0020]] Tehniline hüdro- ja aeromehaanika<br />[[YGK3350]] Tehniline joonestamine<br />[[MTT0110]] Tehnoloogiline praktika<br />[[MTM0010]] Tehnomaterjalid<br />[[MEX0010]] Töökeskkonna praktika<br />[[MET0030]] Tootmisseadmed ja -süsteemid<br />[[MET0011]] Tootmistehnika alused I<br />[[MET0012]] Tootmistehnika alused II<br />[[MEA5370]] Transpordivahendid<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MATB02/09 - Tootearendus ja tootmistehnika Kava:50005</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MATB02/09 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:50005 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == MATB02/09 - Tootearendus ja tootmistehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=95&p_kava_versioon_id=50005&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == MATB02/09 - Tootearendus ja tootmistehnika [Kava:50005 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MER0060]] APJ tootmisseadmete programmeerimine
 	[[MES0040]] Automatiseerimistehnika
@@ -60,4 +60,4 @@ text: == MATB02/09 - Tootearendus ja tootmistehnika [http://ois.ttu.ee/portal/pa
 	[[MHE0012]] Tugevusõpetus II
 	
 	
-keep-ts: 1438886453
+keep-ts: 1441924152

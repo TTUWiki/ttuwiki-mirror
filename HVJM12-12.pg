@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HVJM12/12 - Tehnoloogiaõigus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50186&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid<br />[[HOE7170]] Autoriõigused ja naabrusõigused<br />[[HOE7090]] Biotehnoloogia ja intellektuaalne omand<br />[[HOE7130]] E-kaubandus<br />[[IDK0300]] E-riigi infotehnoloogilised lahendused<br />[[HOE7070]] Euroopa eraõiguse mudelnormid<br />[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOX7008]] Harjutuskohtuvõistlus<br />[[HOE7050]] IKT õigus<br />[[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse<br />[[HOE7160]] Intellektuaalne omand ja konkurentsiõigus<br />[[HOE7180]] Intellektuaalomandi Due Diligence<br />[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus<br />[[HOE7020]] Kosmoseõigus ja kommunikatsioon<br />[[HOE7150]] Küberkaitse ja õigus<br />[[HOE7100]] Külalisloengute sari: Õigus ja tehnoloogia praktikas<br />[[HOE7030]] Meedia ja õigus<br />[[HOE7080]] Põhiõigused<br />[[HOE7200]] Praktika<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOE7060]] Rahvusvaheline eraõigus<br />[[HOE7190]] Reklaamiõigus<br />[[HOE7010]] Sissejuhatus tehnoloogiaõigusesse<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HOE7110]] Tööstusomand</p>
-diff-minor: 
-ts: 1408891402
+blocks: <h2>HVJM12/12 - Tehnoloogiaõigus [Kava:50186 〔Õppekava ÕIS-is〕]</h2><p>[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid<br />[[HOE7170]] Autoriõigused ja naabrusõigused<br />[[HOE7090]] Biotehnoloogia ja intellektuaalne omand<br />[[HOE7130]] E-kaubandus<br />[[IDK0300]] E-riigi infotehnoloogilised lahendused<br />[[HOE7070]] Euroopa eraõiguse mudelnormid<br />[[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOX7008]] Harjutuskohtuvõistlus<br />[[HOE7050]] IKT õigus<br />[[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse<br />[[HOE7160]] Intellektuaalne omand ja konkurentsiõigus<br />[[HOE7180]] Intellektuaalomandi Due Diligence<br />[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus<br />[[HOE7020]] Kosmoseõigus ja kommunikatsioon<br />[[HOE7150]] Küberkaitse ja õigus<br />[[HOE7100]] Külalisloengute sari: Õigus ja tehnoloogia praktikas<br />[[HOE7030]] Meedia ja õigus<br />[[HOE7080]] Põhiõigused<br />[[HOE7200]] Praktika<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOE7060]] Rahvusvaheline eraõigus<br />[[HOE7190]] Reklaamiõigus<br />[[HOE7010]] Sissejuhatus tehnoloogiaõigusesse<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HOE7110]] Tööstusomand</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HVJM12/12 - Tehnoloogiaõigus Kava:50186</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HVJM12/12 - Tehnoloogiaõigus <strong class="changes">[</strong>Kava:50186 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == HVJM12/12 - Tehnoloogiaõigus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=90&p_kava_versioon_id=50186&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == HVJM12/12 - Tehnoloogiaõigus [Kava:50186 〔Õppekava ÕIS-is〕]
 	[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid
 	[[HOE7170]] Autoriõigused ja naabrusõigused
 	[[HOE7090]] Biotehnoloogia ja intellektuaalne omand
@@ -39,4 +41,4 @@ text: == HVJM12/12 - Tehnoloogiaõigus [http://ois.ttu.ee/portal/page?_pageid=35
 	[[HOE7110]] Tööstusomand
 	
 	
-keep-ts: 1408891402
+keep-ts: 1441924150

@@ -1,15 +1,17 @@
 flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAGB02/11 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50157&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YTM0033]] Arengubioloogia<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[YKL0060]] Biokeemia<br />[[DMK0041]] Biomeditsiin<br />[[YTG0020]] Botaanika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YTP0101]] Ensümoloogia alused<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[YTM0060]] Geneetika<br />[[YTP0070]] Genoomika ja proteoomika<br />[[YTM0051]] Histoloogia ja koetehnoloogia<br />[[YTD0034]] Immunoloogia I<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YTD0040]] Katseloomade tehnika<br />[[YKI0020]] Keemia alused<br />[[YTD0016]] Kliinilis-laboratoorsed meetodid<br />[[YTX0030]] Laboratooriumi praktika<br />[[YMA3710]] Lineaaralgebra<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[KTT0012]] Mikrobioloogia - praktikum<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTD0011]] Molekulaardiagnostika<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[YTM0041]] Neurobioloogia I<br />[[TTO3160]] Õigusõpetus<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[MHT0030]] Rakendusstatistika<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YTG0130]] Viroloogia<br />[[YTG0030]] Zooloogia<br />[[YTG0070]] Zooloogia ja botaanika välipraktikum</p>
-diff-minor: 
-ts: 1408891700
+blocks: <h2>YAGB02/11 - Geenitehnoloogia [Kava:50157 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YTM0033]] Arengubioloogia<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[YKL0060]] Biokeemia<br />[[DMK0041]] Biomeditsiin<br />[[YTG0020]] Botaanika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YTP0101]] Ensümoloogia alused<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[YTM0060]] Geneetika<br />[[YTP0070]] Genoomika ja proteoomika<br />[[YTM0051]] Histoloogia ja koetehnoloogia<br />[[YTD0034]] Immunoloogia I<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YTD0040]] Katseloomade tehnika<br />[[YKI0020]] Keemia alused<br />[[YTD0016]] Kliinilis-laboratoorsed meetodid<br />[[YTX0030]] Laboratooriumi praktika<br />[[YMA3710]] Lineaaralgebra<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[KTT0012]] Mikrobioloogia - praktikum<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTD0011]] Molekulaardiagnostika<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[YTM0041]] Neurobioloogia I<br />[[TTO3160]] Õigusõpetus<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[MHT0030]] Rakendusstatistika<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YTG0130]] Viroloogia<br />[[YTG0030]] Zooloogia<br />[[YTG0070]] Zooloogia ja botaanika välipraktikum</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAGB02/11 - Geenitehnoloogia Kava:50157</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAGB02/11 - Geenitehnoloogia <strong class="changes">[</strong>Kava:50157 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == YAGB02/11 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=94&p_kava_versioon_id=50157&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == YAGB02/11 - Geenitehnoloogia [Kava:50157 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0011]] Analüütiline keemia
 	[[YKI0031]] Anorgaaniline keemia I
@@ -56,4 +58,4 @@ text: == YAGB02/11 - Geenitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,
 	[[YTG0070]] Zooloogia ja botaanika välipraktikum
 	
 	
-keep-ts: 1408891700
+keep-ts: 1441924155

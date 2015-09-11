@@ -1,15 +1,17 @@
 flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAGB02/02 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=804&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[AKM0170]] Allmaarajatised<br />[[AKG0040]] Eesti geoloogia<br />[[EPM3500]] Ehitusmaterjalid<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[AKG0070]] Geoloogia - ainetöö<br />[[AKG0010]] Geoloogia alused<br />[[AKG0050]] Geoloogia õppepraktika<br />[[AKM0030]] Geostatistika<br />[[AKM0010]] Geotehnoloogia üldkursus<br />[[EMH0031]] Hüdraulika I<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[AKG0030]] Insenerigeoloogia alused<br />[[MHD0010]] Insenerimehaanika<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[AKG0150]] Keskkonnageoloogia<br />[[AKM0140]] Kivimimehaanika<br />[[AKM0130]] Kivimi raimamine ja töötlemine<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[AKM0120]] Lõhketööd<br />[[AKG0060]] Maavarade geoloogia<br />[[AKM0101]] Maavaramajandus<br />[[AKM0102]] Maavaramajandus - ainetöö<br />[[AKM0160]] Mäemasinad<br />[[AKM0150]] Mäenduslik keskkonnakaitse<br />[[AKM0110]] Mäe-õppepraktika<br />[[AKM0020]] Mäetööd<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[AKG0020]] Mineraalid ja kivimid<br />[[UTT0010]] Õpingukorraldus<br />[[MTT0020]] Õppetöökojad<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[MHT0030]] Rakendusstatistika<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[YGK3350]] Tehniline joonestamine</p>
-diff-minor: 
-ts: 1408891277
+blocks: <h2>AAGB02/02 - Geotehnoloogia [Kava:804 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[AKM0170]] Allmaarajatised<br />[[AKG0040]] Eesti geoloogia<br />[[EPM3500]] Ehitusmaterjalid<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[AKG0070]] Geoloogia - ainetöö<br />[[AKG0010]] Geoloogia alused<br />[[AKG0050]] Geoloogia õppepraktika<br />[[AKM0030]] Geostatistika<br />[[AKM0010]] Geotehnoloogia üldkursus<br />[[EMH0031]] Hüdraulika I<br />[[EMH0020]] Hüdraulika ja hüdromeetria<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[AKG0030]] Insenerigeoloogia alused<br />[[MHD0010]] Insenerimehaanika<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[AKG0150]] Keskkonnageoloogia<br />[[AKM0140]] Kivimimehaanika<br />[[AKM0130]] Kivimi raimamine ja töötlemine<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[AKM0120]] Lõhketööd<br />[[AKG0060]] Maavarade geoloogia<br />[[AKM0101]] Maavaramajandus<br />[[AKM0102]] Maavaramajandus - ainetöö<br />[[AKM0160]] Mäemasinad<br />[[AKM0150]] Mäenduslik keskkonnakaitse<br />[[AKM0110]] Mäe-õppepraktika<br />[[AKM0020]] Mäetööd<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[AKG0020]] Mineraalid ja kivimid<br />[[UTT0010]] Õpingukorraldus<br />[[MTT0020]] Õppetöökojad<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[MHT0030]] Rakendusstatistika<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[YGK3350]] Tehniline joonestamine</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAGB02/02 - Geotehnoloogia Kava:804</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAGB02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:804 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 diff-major: 
-summary: Автоматическое обновление (расписание)
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == AAGB02/02 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=88&p_kava_versioon_id=804&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == AAGB02/02 - Geotehnoloogia [Kava:804 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[AKM0170]] Allmaarajatised
 	[[AKG0040]] Eesti geoloogia
@@ -60,4 +62,4 @@ text: == AAGB02/02 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,42
 	[[YGK3350]] Tehniline joonestamine
 	
 	
-keep-ts: 1408891277
+keep-ts: 1441924148

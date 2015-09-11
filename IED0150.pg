@@ -1,22 +1,15 @@
-flags: 010100
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>[[File:Error: There was a problem uploading your file (try a smaller file).]]</p><p>&#x2013; Atomsk 2014-02-26 00:07 UTC</p></div><div class="userComment"><p>Ого, файл не загрузился. Поднял лимит до 100MB. Попробуй еще раз ;)</p><p>&#x2013; AlexDaniel 2014-02-26 00:10 UTC</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Elektroonika <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>37210<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Elektroonika<br />&gt; <strong class="changes">#SUBURL: Course:</strong>37210</p></div>
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>[[File:Error: There was a problem uploading your file (try a smaller file).]]</p><p>&#x2013; Atomsk 2014-02-26 00:07 UTC</p></div><div class="userComment"><p>Ого, файл не загрузился. Поднял лимит до 100MB. Попробуй еще раз ;)</p><p>&#x2013; AlexDaniel 2014-02-26 00:10 UTC</p></div>
 ip: 84.52.48.194
-ts: 1408847603
+ts: 1441924447
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 6
-diff-major: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; Ваш комментарий...</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Ого, файл не загрузился. Поднял лимит до 100MB.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Ого, файл не загрузился. Поднял лимит до 100MB. <strong class="changes">Попробуй еще раз ;)</strong></p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 7
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Elektroonika
-	#SUBURL: Course:37210
+	#SUBURL [Course:37210 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -35,4 +28,4 @@ text: #SUBTITLE Elektroonika
 	
 	
 lastmajor: 5
-keep-ts: 1408847603
+keep-ts: 1441924447

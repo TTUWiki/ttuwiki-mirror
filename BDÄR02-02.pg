@@ -1,17 +1,17 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=1431&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</h2><p>[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0630]] Ärisuhtlus ja -läbirääkimised<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0452]] Äritegevuse alused - ainetöö<br />[[BCU0141]] Arvestuse alused<br />[[BCU0710]] Balti mere regiooni majandus<br />[[BCU0730]] Eesti majandus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0660]] Euroopa Liidu majandus<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0540]] Juhtimise infosüsteemid<br />[[BCU0750]] Keskkonnaökonoomika<br />[[BCU0650]] Logistika ja transport<br />[[BCU0590]] Majandusgeograafia<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU0570]] Personalitöö<br />[[BCU0530]] Politoloogia<br />[[BCU0770]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0600]] Rahvusvaheline ärikorraldus<br />[[BCU0680]] Rahvusvaheline finantsjuhtimine<br />[[BCU0670]] Rahvusvaheline juhtimine<br />[[BCU0550]] Rahvusvaheline majandus<br />[[BCU0620]] Rahvusvaheline majandusõigus<br />[[BCU0610]] Rahvusvaheline turundus<br />[[BCU0640]] Rahvusvahelised Investeeringud<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0560]] Strateegiline juhtimine<br />[[BCU0700]] Töökeskkond ja ergonoomika<br />[[BCU0690]] Tootmiskorraldus<br />[[BCU0491]] Turundus<br />[[BCU0492]] Turundus - ainetöö<br />[[BCU0580]] Venemaa majandus</p>
+flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+blocks: <h2>BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [Kava:1431 〔Õppekava ÕIS-is〕]</h2><p>[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0630]] Ärisuhtlus ja -läbirääkimised<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0452]] Äritegevuse alused - ainetöö<br />[[BCU0141]] Arvestuse alused<br />[[BCU0710]] Balti mere regiooni majandus<br />[[BCU0730]] Eesti majandus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0660]] Euroopa Liidu majandus<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0540]] Juhtimise infosüsteemid<br />[[BCU0750]] Keskkonnaökonoomika<br />[[BCU0650]] Logistika ja transport<br />[[BCU0590]] Majandusgeograafia<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU0570]] Personalitöö<br />[[BCU0530]] Politoloogia<br />[[BCU0770]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0600]] Rahvusvaheline ärikorraldus<br />[[BCU0680]] Rahvusvaheline finantsjuhtimine<br />[[BCU0670]] Rahvusvaheline juhtimine<br />[[BCU0550]] Rahvusvaheline majandus<br />[[BCU0620]] Rahvusvaheline majandusõigus<br />[[BCU0610]] Rahvusvaheline turundus<br />[[BCU0640]] Rahvusvahelised Investeeringud<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0560]] Strateegiline juhtimine<br />[[BCU0700]] Töökeskkond ja ergonoomika<br />[[BCU0690]] Tootmiskorraldus<br />[[BCU0491]] Turundus<br />[[BCU0492]] Turundus - ainetöö<br />[[BCU0580]] Venemaa majandus</p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=<strong class="changes">444</strong>&amp;p_kava_versioon_id=1431&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=<strong class="changes">342</strong>&amp;p_kava_versioon_id=1431&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]</p></div>
-ts: 1438886267
+	<div class="old"><p>&lt; == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus Kava:1431</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:1431 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
 diff-major: 
-summary: Автоматическое обновление
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
-text: == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=342&p_kava_versioon_id=1431&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=]
+text: == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [Kava:1431 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU0100]] Äriõigus
 	[[BCU0630]] Ärisuhtlus ja -läbirääkimised
@@ -58,4 +58,4 @@ text: == BDÄR02/02 - Rahvusvaheline majandus ja ärikorraldus [http://ois.ttu.e
 	[[BCU0580]] Venemaa majandus
 	
 	
-keep-ts: 1438886267
+keep-ts: 1441924148

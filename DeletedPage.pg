@@ -6,8 +6,8 @@ host: 89.235.237.48
 username: AlexDaniel
 revision: 1
 summary: Эта страница была удалена. Спам является одной из возможных причин.
-languages: 
 text: Эта страница была удалена.
 	Спам является одной из возможных причин.
 	
+languages: 
 lastmajor: 1

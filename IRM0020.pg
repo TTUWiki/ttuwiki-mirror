@@ -1,20 +1,15 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 id="commentsHeading">Комментарии:</h2><div class="userComment"><p>Тут находятся лекции и др. материалы </p><p><a class="url http" href="http://www.lr.ttu.ee/irm/transmissioon/">http://www.lr.ttu.ee/irm/transmissioon/</a></p><p>&#x2013; Аноним 2014-02-24 22:10 UTC</p></div>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Signaalide transmissioon <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>29759<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Signaalide transmissioon<br />&gt; <strong class="changes">#SUBURL: Course:</strong>29759</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Тут находятся лекции и др. материалы </p><p><a class="url http" href="http://www.lr.ttu.ee/irm/transmissioon/">http://www.lr.ttu.ee/irm/transmissioon/</a></p><p>&#x2013; Аноним 2014-02-24 22:10 UTC</p></div>
 ip: 84.50.22.158
-ts: 1408847672
+ts: 1441924447
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 4
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Тут находятся лекции и др. материалы <br />&gt; http://www.lr.ttu.ee/irm/transmissioon/<br />&gt; -- Аноним 2014-02-24 22:10 UTC</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Signaalide transmissioon
-	#SUBURL: Course:29759
+	#SUBURL [Course:29759 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	----
@@ -27,4 +22,4 @@ text: #SUBTITLE Signaalide transmissioon
 	
 	
 lastmajor: 3
-keep-ts: 1408847672
+keep-ts: 1441924447

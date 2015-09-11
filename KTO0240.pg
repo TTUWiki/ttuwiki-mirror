@@ -1,21 +1,16 @@
 flags: 0
 blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==</strong>Toitlustusettevõtte projekteerimise alused <strong class="changes">[http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_id=</strong>100405<strong class="changes">&amp;p_public=1&amp;p_mode=1]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#SUBTITLE</strong> Toitlustusettevõtte projekteerimise alused<br />&gt; <strong class="changes">#SUBURL: Course:</strong>100405</p></div>
 ip: 84.52.43.21
-ts: 1408848078
+ts: 1441924448
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 5
-diff-major: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----<br />&lt; :))))) хорошо пишешь<br />&lt; -- [http://radiopodarok.ru необычный подарок] 2014-03-16 21:00 UTC</p></div>
-summary: Refactoring
+host: 82.131.7.230
+username: AlexDaniel
+revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Toitlustusettevõtte projekteerimise alused
-	#SUBURL: Course:100405
+	#SUBURL [Course:100405 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 4
-keep-ts: 1408848078
+keep-ts: 1441924448
