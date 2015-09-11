@@ -1,18 +1,18 @@
-flags: 01010101010
-blocks: <h3>Поддерживается большая часть из этого:</h3><p><img class="url http" src="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" alt="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" /><br /><br /></p><h3>И <a class="url http outside" href="http://www.wikicreole.org/wiki/CreoleAdditions/">дополнительно</a> еще это:</h3><ul><li><code>; Definition : lists.</code></li><li><code>"""Blockquotes."""</code></li><li><code>''Inline quotes.''</code></li><li><code>^^Superscripted text.^^</code></li><li><code>,,Subscripted text.,,</code></li><li><code>##Monospaced text.##</code></li><li><code>%%Small caps text.%%</code></li></ul><h3>Ссылки:</h3><table class="user"><tr><th>Pattern </th><th>Result</th></tr><tr><td><code>http://www.ttu.ee/</code></td><td><a class="url http" href="http://www.ttu.ee/">http://www.ttu.ee/</a></td></tr><tr><td><code>[http://www.ttu.ee/]</code></td><td>[http://www.ttu.ee/]</td></tr><tr><td><code>[http://www.ttu.ee/ text]</code></td><td><a class="url http outside" href="http://www.ttu.ee/">text</a></td></tr><tr><td><code>[[Главная]]</code></td><td>[[Главная]]</td></tr><tr><td><code>[[[Главная]]]</code></td><td>[[[Главная]]]</td></tr><tr><td><code>[[Главная|text]]</code></td><td>[[Главная|text]]</td></tr></table><p><br />Опробовать возможности можно [[Scratch|здесь]].</p>
+blocks: <h3>Тестовая страница</h3><p>Опробовать возможности <strong>можно [[Scratch|здесь]]</strong>.</p><h3>Поддерживается большая часть из этого:</h3><p><img class="url http" src="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" alt="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" /><br /><br /></p><h3>И <a class="url http outside" href="http://www.wikicreole.org/wiki/CreoleAdditions/">дополнительно</a> еще это:</h3><ul><li><code>; Definition : lists.</code></li><li><code>"""Blockquotes."""</code></li><li><code>''Inline quotes.''</code></li><li><code>^^Superscripted text.^^</code></li><li><code>,,Subscripted text.,,</code></li><li><code>##Monospaced text.##</code></li><li><code>%%Small caps text.%%</code></li></ul><h3>Ссылки:</h3><table class="user"><tr><th>Pattern </th><th>Result</th></tr><tr><td><code>http://www.ttu.ee/</code></td><td><a class="url http" href="http://www.ttu.ee/">http://www.ttu.ee/</a></td></tr><tr><td><code>[http://www.ttu.ee/]</code></td><td>[http://www.ttu.ee/]</td></tr><tr><td><code>[http://www.ttu.ee/ text]</code></td><td><a class="url http outside" href="http://www.ttu.ee/">text</a></td></tr><tr><td><code>[[Главная]]</code></td><td>[[Главная]]</td></tr><tr><td><code>[[[Главная]]]</code></td><td>[[[Главная]]]</td></tr><tr><td><code>[[Главная|text]]</code></td><td>[[Главная|text]]</td></tr></table><h3>Загрузка:</h3><p>Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида <code>[[File:название файла]]</code>. Это просто сокращенный вариант ссылки <code>[[http://files.ttuwiki.org/название файла]]</code>.</p><p>Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой <code>image:</code>, то есть вот так: <code>[[image:File:название файла]]</code>. Таким образом, картинка будет показана прямо на сайте.</p><p>Если хотите, чтобы картинка отображалась справа, то вместо <code>image:</code> можно написать <code>image/right:</code>, то есть <code>[[image/right:File:название файла]]</code>.</p><p><strong>Результат</strong> смотрите, например, <strong>на [[MSJ0120]]</strong>.</p>
+lastmajorsummary: более заметная ссылка на Scratch
 ip: 89.235.231.110
-ts: 1391357281
-minor: 
-host: 89-235-231-110.saturn.infonet.ee
-username: AlexDaniel
-revision: 1
-summary: ===Поддерживается большая часть из этого: http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png \\ ===И . . .
+diff-major: 1
+summary: более заметная ссылка на Scratch
 languages: 
-text: ===Поддерживается большая часть из этого:
+text: === Тестовая страница
+	Опробовать возможности **можно [[Scratch|здесь]]**.
+	
+	=== Поддерживается большая часть из этого:
 	
 	http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png
 	\\
-	===И [http://www.wikicreole.org/wiki/CreoleAdditions/ дополнительно] еще это:
+	
+	=== И [http://www.wikicreole.org/wiki/CreoleAdditions/ дополнительно] еще это:
 	* {{{; Definition : lists.}}}
 	* {{{"""Blockquotes."""}}}
 	* {{{''Inline quotes.''}}}
@@ -21,7 +21,7 @@ text: ===Поддерживается большая часть из этого:
 	* {{{##Monospaced text.##}}}
 	* {{{%%Small caps text.%%}}}
 	
-	===Ссылки:
+	=== Ссылки:
 	|=Pattern |=Result|
 	|{{{http://www.ttu.ee/}}} |http://www.ttu.ee/ |
 	|{{{[http://www.ttu.ee/]}}} |[http://www.ttu.ee/] |
@@ -30,7 +30,30 @@ text: ===Поддерживается большая часть из этого:
 	|{{{[[[Главная]]]}}} |[[[Главная]]] |
 	|{{{[[Главная|text]]}}} |[[Главная|text]] |
 	
-	\\
-	Опробовать возможности можно [[Scratch|здесь]].
+	=== Загрузка:
+	Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида {{{[[File:название файла]]}}}. Это просто сокращенный вариант ссылки {{{[[http://files.ttuwiki.org/название файла]]}}}.
 	
-lastmajor: 1
+	Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой {{{image:}}}, то есть вот так: {{{[[image:File:название файла]]}}}. Таким образом, картинка будет показана прямо на сайте.
+	
+	Если хотите, чтобы картинка отображалась справа, то вместо {{{image:}}} можно написать ##image/right:##, то есть {{{[[image/right:File:название файла]]}}}.
+	
+	**Результат** смотрите, например, **на [[MSJ0120]]**.
+	
+	
+lastmajor: 2
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===Поддерживается большая часть из этого:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">Тестовая страница<br />&gt; Опробовать возможности **можно [[Scratch|здесь]]**.<br />&gt; ===</strong> Поддерживается большая часть из этого:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===И [http://www.wikicreole.org/wiki/CreoleAdditions/ дополнительно] еще это:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === И [http://www.wikicreole.org/wiki/CreoleAdditions/ дополнительно] еще это:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===Ссылки:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === Ссылки:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">\\<br />&lt; Опробовать возможности</strong> можно [[<strong class="changes">Scratch|здесь]].</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== Загрузка:<br />&gt; Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида {{{[[File:название файла]]}}}. Это просто сокращенный вариант ссылки {{{[[http://files.ttuwiki.org/название файла]]}}}.<br />&gt; Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой {{{image:}}}, то есть вот так: {{{[[image:File:название файла]]}}}. Таким образом, картинка будет показана прямо на сайте.<br />&gt; Если хотите, чтобы картинка отображалась справа, то вместо {{{image:}}}</strong> можно <strong class="changes">написать ##image/right:##, то есть {{{[[image/right:File:название файла]]}}}.<br />&gt; **Результат** смотрите, например, **на</strong> [[<strong class="changes">MSJ0120]]**.</strong></p></div>
+flags: 0101010101010
+ts: 1441963861
+minor: 
+username: AlexDaniel
+host: 82.131.7.230
+revision: 2
+keep-ts: 1441963861
