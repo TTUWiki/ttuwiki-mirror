@@ -1,26 +1,26 @@
-blocks: <p><a class="image right inter File" href="http://files.ttuwiki.org/soojuspump.jpeg"><img class="upload" title="Soojuspump Soojustehnika Instituudis" src="http://files.ttuwiki.org/soojuspump.jpeg" alt="Soojuspump Soojustehnika Instituudis" /></a></p><p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://staff.ttu.ee/~dedov/Soojuspumbad">Õppejõu koduleht</a></li></ul>
-lastmajorsummary: fixed image, võib olla oleks parem jätta ruumi teiste materjalide jaoks ka
+blocks: <p><a class="image right inter File" href="http://files.ttuwiki.org/soojuspump.jpeg"><img class="upload" title="Soojuspump Soojustehnika Instituudis" src="http://files.ttuwiki.org/soojuspump.jpeg" alt="Soojuspump Soojustehnika Instituudis" /></a></p><p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://staff.ttu.ee/~dedov/Soojuspumbad">Õppeaine koduleht</a></li></ul>
+lastmajorsummary: Õppejõu -> Õppeaine
 ip: 89.235.235.166
 diff-major: 1
-summary: fixed image, võib olla oleks parem jätta ruumi teiste materjalide jaoks ka
+summary: Õppejõu -> Õppeaine
+languages: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
 	[[image/right:File:soojuspump.jpeg|Soojuspump Soojustehnika Instituudis]]
 	
 	Õppematerjalid:
-	* [http://staff.ttu.ee/~dedov/Soojuspumbad Õppejõu koduleht]
+	* [http://staff.ttu.ee/~dedov/Soojuspumbad Õppeaine koduleht]
 	
 	
-languages: 
-lastmajor: 10
+lastmajor: 11
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppematerjalid</strong>]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Õppematerjalid:<br />&gt; *</strong> [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppejõu koduleht</strong>]</p></div>
+	<div class="old"><p>&lt; * [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppejõu</strong> koduleht]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppeaine</strong> koduleht]</p></div>
 flags: 0
-ts: 1441963639
+ts: 1442318731
 minor: 
-host: 82.131.7.230
 username: AlexDaniel
-revision: 10
-keep-ts: 1441963639
+host: 82.131.7.230
+revision: 11
+keep-ts: 1442318731
