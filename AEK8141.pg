@@ -1,16 +1,28 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  <a class="url http outside" href="http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=25839">ÕIS</a>&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹<br /></p><h2>Kirjandus:</h2><ol><li>.Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</li><li>Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.</li><li>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.</li><li>Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</li></ol>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924444
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924444
+	==Õppematerjalid:
+	Asuvad õppeaine  [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_public=1&p_mode=1&p_id=25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹
+	==Kirjandus:
+	#.Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.
+	#Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.
+	#Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.
+	#Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj
+	
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid:<br />&gt; Asuvad õppeaine  [http://ois</strong>.<strong class="changes">ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹<br />&gt; ==Kirjandus:<br />&gt; #.Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.<br />&gt; #Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.<br />&gt; #Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.<br />&gt; #Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</strong></p></div>
+flags: 0
+ts: 1442324121
+minor: 
+username: 
+host: 193.40.244.196
+revision: 5
+keep-ts: 1442324121
