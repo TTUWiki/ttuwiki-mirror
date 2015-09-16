@@ -1,19 +1,19 @@
 flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>В мудле курс называется <strong>ID_2015 Software quality (Tarkvara kvaliteet)</strong>, пароля нет.</p><p>&#x2013; AlexDaniel 2015-09-02 09:09:50</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>В мудле курс называется <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, пароля нет.</p><p>&#x2013; AlexDaniel 2015-09-02 09:09:50</p></div>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; #SUBURL<strong class="changes">:</strong> Course:26827</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; #SUBURL <strong class="changes">[</strong>Course:26827 <strong class="changes">〔Õppeaine ÕIS-is〕]</strong></p></div>
+	<div class="old"><p>&lt; В мудле курс называется <strong class="changes">**</strong>ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)**,</strong> пароля нет.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; В мудле курс называется <strong class="changes">[[https://moodle.hitsa.ee/course/view.php?id=13969</strong> ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)]],</strong> пароля нет.</p></div>
 ip: 89.235.235.166
-ts: 1441924447
+ts: 1442394419
 minor: 1
-host: 82.131.7.230
+host: 193.40.244.196
 username: AlexDaniel
-revision: 9
+revision: 10
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; В мудле курс называется **ID_2015 Software quality (Tarkvara kvaliteet)**, пароля нет <strong class="changes">(**там есть какие-то материалы, но по крайней мере с 2015-го года используется новый мудл**).</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; В мудле курс называется **ID_2015 Software quality (Tarkvara kvaliteet)**, пароля нет<strong class="changes">.</strong></p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; ----<br />&lt; Вместо старого https://moodle.hitsa.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.<br />&lt; -- AlexDaniel 2015-09-04 22:35:18</p></div>
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+summary: link
 languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
@@ -21,10 +21,10 @@ text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	
 	----
 	
-	В мудле курс называется **ID_2015 Software quality (Tarkvara kvaliteet)**, пароля нет.
+	В мудле курс называется [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], пароля нет.
 	
 	-- AlexDaniel 2015-09-02 09:09:50
 	
 	
 lastmajor: 8
-keep-ts: 1441924447
+keep-ts: 1442394419
