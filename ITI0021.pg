@@ -1,17 +1,17 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http" href="https://courses.cs.ttu.ee/pages/ITI0021">https://courses.cs.ttu.ee/pages/ITI0021</a></li><li><a class="url http" href="https://moodle.hitsa.ee/enrol/index.php?id=5901">https://moodle.hitsa.ee/enrol/index.php?id=5901</a></li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div><div class="userComment"><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>&#x2013; AlexDaniel 2015-09-03 14:02:26</p></div><div class="userComment"><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>&#x2013; AlexDaniel 2015-09-04 22:38:09</p></div>
+flags: 0100
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http outside" href="https://courses.cs.ttu.ee/pages/ITI0021">Wiki</a></li><li>[Moodle:5901 Moodle]</li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div><div class="userComment"><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>&#x2013; AlexDaniel 2015-09-03 14:02:26</p></div><div class="userComment"><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>&#x2013; AlexDaniel 2015-09-04 22:38:09</p></div>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; #SUBURL<strong class="changes">:</strong> Course:100803</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; #SUBURL <strong class="changes">[</strong>Course:100803 <strong class="changes">〔Õppeaine ÕIS-is〕]</strong></p></div>
+	<div class="old"><p>&lt; * https://courses.cs.ttu.ee/pages/ITI0021<br />&lt; * <strong class="changes">https://moodle.hitsa.ee/enrol/index.php?id=</strong>5901</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * <strong class="changes">[</strong>https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Wiki]</strong><br />&gt; * <strong class="changes">[Moodle:</strong>5901 <strong class="changes">Moodle]</strong></p></div>
 ip: 89.235.235.166
-ts: 1441924447
+ts: 1442598817
 minor: 1
 host: 82.131.7.230
 username: AlexDaniel
-revision: 8
+revision: 9
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Вместо старого https://moodle.hitsa.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить пароль, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.<br />&gt; -- AlexDaniel 2015-09-04 22:38:09</p></div>
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+summary: Moodle:
 languages: 
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
@@ -19,8 +19,8 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	----
 	
-	* https://courses.cs.ttu.ee/pages/ITI0021
-	* https://moodle.hitsa.ee/enrol/index.php?id=5901
+	* [https://courses.cs.ttu.ee/pages/ITI0021 Wiki]
+	* [Moodle:5901 Moodle]
 	
 	-- AlexDaniel 2015-09-03 10:51:12
 	
@@ -40,4 +40,4 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 lastmajor: 6
-keep-ts: 1441924447
+keep-ts: 1442598817
