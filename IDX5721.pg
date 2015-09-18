@@ -1,9 +1,8 @@
-blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a></li></ul>
+blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a><br /></li><li><a class="url http" href="http://deepthought.ttu.ee/users/tepandi/we-tk.html">http://deepthought.ttu.ee/users/tepandi/we-tk.html</a></li></ul>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
@@ -12,16 +11,17 @@ text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	*[[http://tepandi.ee/tks-loeng.pdf Konspekt]]
 	*[[http://jaak.tepinfo.ee/ Õppejõu kodulehekülg]]
 	* http://www.tud.ttu.ee/im/Jekaterina.Ivask/
+	*http://deepthought.ttu.ee/users/tepandi/we-tk.html
 	
 	
-	
-lastmajor: 13
+languages: 
+lastmajor: 14
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; *[[http://tepandi.ee/tks-loeng.pdf Konspekt]]<br />&gt; *[[http://jaak.tepinfo.ee/ Õppejõu kodulehekülg]]</p></div>
+	<div class="new"><p>&gt; *http://deepthought.ttu.ee/users/tepandi/we-tk.html</p></div>
 flags: 0
-ts: 1442562677
+ts: 1442563681
 minor: 
-username: 
 host: 86.110.37.246
-revision: 13
-keep-ts: 1442562677
+username: 
+revision: 14
+keep-ts: 1442563681
