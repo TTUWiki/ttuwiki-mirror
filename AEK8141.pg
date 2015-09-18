@@ -1,28 +1,28 @@
-blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹<br /></p><h2>Kirjandus:</h2><ol><li>.Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</li><li>Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.</li><li>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.</li><li>Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</li></ol>
-lastmajorsummary: "Course:" shortcut
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹<br /></p><h2>Kirjandus:</h2><ol><li>Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</li><li>Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.</li><li>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.</li><li>Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</li></ol>
+lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
-summary: "Course:" shortcut
+summary: 
+languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
 	==Õppematerjalid:
 	Asuvad õppeaine  [Course:25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹
 	==Kirjandus:
-	#.Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.
+	#Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.
 	#Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.
 	#Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.
 	#Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj
 	
-languages: 
-lastmajor: 6
+lastmajor: 7
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Asuvad õppeaine  [<strong class="changes">http://ois.ttu.ee/portal/page?_pageid=35,428610&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_public=1&amp;p_mode=1&amp;p_id=</strong>25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Asuvad õppeaine  [<strong class="changes">Course:</strong>25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p></div>
+	<div class="old"><p>&lt; <strong class="changes">#.</strong>Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#</strong>Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</p></div>
 flags: 010
-ts: 1442395747
+ts: 1442554720
 minor: 
-host: 193.40.244.196
-username: AlexDaniel
-revision: 6
-keep-ts: 1442395747
+username: 
+host: 86.110.37.246
+revision: 7
+keep-ts: 1442554720
