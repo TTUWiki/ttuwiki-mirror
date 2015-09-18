@@ -1,26 +1,27 @@
-blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥</li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a></li></ul>
+blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a></li></ul>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
 	== Materials
 	* Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊 , but  requires user registration 😥
+	*[[http://tepandi.ee/tks-loeng.pdf Konspekt]]
+	*[[http://jaak.tepinfo.ee/ Õppejõu kodulehekülg]]
 	* http://www.tud.ttu.ee/im/Jekaterina.Ivask/
 	
 	
 	
-languages: 
-lastmajor: 12
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊 <strong class="changes">, but  requires user registration 😥</strong></p></div>
+lastmajor: 13
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; *[[http://tepandi.ee/tks-loeng.pdf Konspekt]]<br />&gt; *[[http://jaak.tepinfo.ee/ Õppejõu kodulehekülg]]</p></div>
 flags: 0
-ts: 1442562415
+ts: 1442562677
 minor: 
-host: 86.110.37.246
 username: 
-revision: 12
-keep-ts: 1442562415
+host: 86.110.37.246
+revision: 13
+keep-ts: 1442562677
