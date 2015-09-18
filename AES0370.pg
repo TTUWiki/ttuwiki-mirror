@@ -1,18 +1,17 @@
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2>Õppematerjal</h2><p>Õppejõud jagab lahkesti oma konspekti loengus osalejatele. Õppejõu õppematerjal on ka <a class="url http outside" href="https://ois.ttu.ee/portal/page?_pageid=35,428206&amp;_dad=portal&amp;_schema=PORTAL&amp;p_id=4263&amp;p_from_aine=1&amp;p_mode=3&amp;p_popup=Y">ÕIS'is</a> aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥</p><h2>Kirjandus</h2><ol><li>.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012.</li><li>M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. <a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud.</a> Tallinn. 2007. 546 lk.</li><li>Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.</li><li>Technical Guideline. Generating Plants Connected to the Medium-Voltage Network. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</li><li>Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.</li><li>Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk</li></ol>
+blocks: <h2>Õppematerjal</h2><p>Õppejõud jagab lahkesti oma konspekti loengus osalejatele. Õppejõu õppematerjal on ka <a class="url http outside" href="https://ois.ttu.ee/portal/page?_pageid=35,428206&amp;_dad=portal&amp;_schema=PORTAL&amp;p_id=4263&amp;p_from_aine=1&amp;p_mode=3&amp;p_popup=Y">ÕIS'is</a> aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥</p><h2>Kirjandus</h2><ol><li>.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012.</li><li>M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. <a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud.</a> Tallinn. 2007. 546 lk.</li><li>Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.</li><li>Technical Guideline. Generating Plants Connected to the Medium-Voltage Network. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</li><li>Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.</li><li>Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk</li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 	==Õppematerjal
 	
 	Õppejõud jagab lahkesti oma konspekti loengus osalejatele. Õppejõu õppematerjal on ka [[https://ois.ttu.ee/portal/page?_pageid=35,428206&_dad=portal&_schema=PORTAL&p_id=4263&p_from_aine=1&p_mode=3&p_popup=Y ÕIS'is]] aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥
 	
 	==Kirjandus
+	
 	#.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012. 
 	#M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. [[http://www.ester.ee/record=b2347094*est Jaotusvõrgud.]] Tallinn. 2007. 546 lk.
 	#Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.
@@ -20,14 +19,14 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.
 	#Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk
 	
-lastmajor: 6
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; Esimene loeng sügisel 2015 toimub  31. Augustil kell  17:45-19:15 ruumis U05</strong>-<strong class="changes">104<br />&lt; -- Аноним 2015</strong>-<strong class="changes">08</strong>-<strong class="changes">31 15:03:52</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; Õppejõud jagab lahkesti oma konspekti loengus osalejatele. Õppejõu õppematerjal on ka [[https://ois.ttu.ee/portal/page?_pageid=35,428206&amp;_dad=portal&amp;_schema=PORTAL&amp;p_id=4263&amp;p_from_aine=1&amp;p_mode=3&amp;p_popup=Y ÕIS'is]] aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥<br />&gt; ==Kirjandus<br />&gt; #.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012. <br />&gt; #M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. [[http://www.ester.ee/record=b2347094*est Jaotusvõrgud.]] Tallinn. 2007. 546 lk.<br />&gt; #Short</strong>-<strong class="changes">circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.<br />&gt; #Technical Guideline. Generating Plants Connected to the Medium</strong>-<strong class="changes">Voltage Network. BDEW Bundesverband der Energie</strong>- <strong class="changes">und Wasserwirtschaft e.V. 2008. 130 pg.<br />&gt; #Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.<br />&gt; #Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk</strong></p></div>
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; Эта страница пуста, здесь не хватает твоих полезных советов.</p></div>
 flags: 0
-ts: 1442598934
+ts: 1442598953
 minor: 
-username: 
 host: 86.110.37.246
-revision: 6
-keep-ts: 1442598934
+username: 
+revision: 7
+keep-ts: 1442598953
