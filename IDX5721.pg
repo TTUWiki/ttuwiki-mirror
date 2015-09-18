@@ -1,26 +1,26 @@
-blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊</li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a></li></ul>
-lastmajorsummary: info
+blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥</li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a></li></ul>
+lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
-summary: info
-languages: 
+summary: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
 	== Materials
-	* Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊
+	* Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊 , but  requires user registration 😥
 	* http://www.tud.ttu.ee/im/Jekaterina.Ivask/
 	
 	
 	
-lastmajor: 11
+languages: 
+lastmajor: 12
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----<br />&lt; В мудле курс называется</strong> [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], <strong class="changes">пароля нет</strong>.<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-02 09:09:50</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Materials<br />&gt; * Moodle</strong> [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], <strong class="changes">**no password**. 😊<br />&gt; * http://www.tud.ttu.ee/im/Jekaterina</strong>.<strong class="changes">Ivask/</strong></p></div>
+	<div class="old"><p>&lt; * Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊 <strong class="changes">, but  requires user registration 😥</strong></p></div>
 flags: 0
-ts: 1442395461
+ts: 1442562415
 minor: 
-username: AlexDaniel
-host: 193.40.244.196
-revision: 11
-keep-ts: 1442395461
+host: 86.110.37.246
+username: 
+revision: 12
+keep-ts: 1442562415
