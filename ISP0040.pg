@@ -1,30 +1,29 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Сайт преподавателя - <a class="url http" href="http://reinpx.wix.com/rp3#!__arvutivorgud">http://reinpx.wix.com/rp3#!__arvutivorgud</a></p><p>&#x2013; Аноним 2014-02-25 08:44 UTC</p></div><div class="userComment"><p>Весной 2015-го пароль от moodle был <strong>192.168.15.83</strong>.</p><p>&#x2013; AlexDaniel 2015-04-15 21:32:49</p></div>
+blocks: <h2>Materials:</h2><ul><li><a class="url http outside" href="http://reinpx.wix.com/rp3#!__arvutivorgud">Õppejõu koduleht</a></li><li>[Moodle:9723 Moodle] – requires a password 😥 (was <strong>192.168.15.83</strong> in 2015)</li></ul><h2>Note to Russian or English students</h2><p>You <strong>cannot</strong> pass this course without knowing Estionian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.</p><p>Some students did not like this so much, so they had to write to dean&#x2019;s office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.</p>
+lastmajorsummary: Info
 ip: 193.40.244.196
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 6
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: Info
 languages: 
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
+	== Materials:
+	* [[http://reinpx.wix.com/rp3#!__arvutivorgud Õppejõu koduleht]]
+	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.15.83** in 2015)
 	
-	Сайт преподавателя - http://reinpx.wix.com/rp3#!__arvutivorgud
+	== Note to Russian or English students
+	You **cannot** pass this course without knowing Estionian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.
 	
-	-- Аноним 2014-02-25 08:44 UTC
+	Some students did not like this so much, so they had to write to dean's office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.
 	
-	
-	----
-	
-	Весной 2015-го пароль от moodle был **192.168.15.83**.
-	
-	-- AlexDaniel 2015-04-15 21:32:49
-	
-	
-lastmajor: 5
-keep-ts: 1441924447
+lastmajor: 7
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----<br />&lt; Сайт преподавателя -</strong> http://reinpx.wix.com/rp3#!__arvutivorgud<br />&lt; <strong class="changes">-- Аноним 2014-02-25 08</strong>:<strong class="changes">44 UTC<br />&lt; ----<br />&lt; Весной 2015-го пароль от moodle был</strong> **192.168.15.83<strong class="changes">**.<br />&lt; -- AlexDaniel</strong> 2015<strong class="changes">-04-15 21:32:49</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Materials:<br />&gt; * [[</strong>http://reinpx.wix.com/rp3#!__arvutivorgud <strong class="changes">Õppejõu koduleht]]<br />&gt; * [Moodle</strong>:<strong class="changes">9723 Moodle] – requires a password 😥 (was</strong> **192.168.15.83<strong class="changes">** in</strong> 2015<strong class="changes">)<br />&gt; == Note to Russian or English students<br />&gt; You **cannot** pass this course without knowing Estionian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.<br />&gt; Some students did not like this so much, so they had to write to dean's office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.</strong></p></div>
+flags: 010
+ts: 1442600318
+minor: 
+username: AlexDaniel
+host: 82.131.7.230
+revision: 7
+keep-ts: 1442600318
