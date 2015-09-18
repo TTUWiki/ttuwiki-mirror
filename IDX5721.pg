@@ -1,27 +1,29 @@
-blocks: <h2>Materials</h2><ul><li>Moodle <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=13969">ID_2015 Software quality (Tarkvara kvaliteet)</a>, <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a><br /></li><li><a class="url http" href="http://deepthought.ttu.ee/users/tepandi/we-tk.html">http://deepthought.ttu.ee/users/tepandi/we-tk.html</a></li></ul>
+blocks: <h2>Materials</h2><ul><li>Moodle [Moodle:13969 ID_2015 Software quality (Tarkvara kvaliteet)], <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a><br /></li><li><a class="url http" href="http://deepthought.ttu.ee/users/tepandi/we-tk.html">http://deepthought.ttu.ee/users/tepandi/we-tk.html</a></li></ul>
 lastmajorsummary: 
 ip: 89.235.235.166
-diff-major: 1
-summary: 
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; *http://deepthought.ttu.ee/users/tepandi/we-tk.html</p></div>
+summary: Moodle:
+languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
 	== Materials
-	* Moodle [[https://moodle.hitsa.ee/course/view.php?id=13969 ID_2015 Software quality (Tarkvara kvaliteet)]], **no password**. 😊 , but  requires user registration 😥
+	* Moodle [Moodle:13969 ID_2015 Software quality (Tarkvara kvaliteet)], **no password**. 😊 , but  requires user registration 😥
 	*[[http://tepandi.ee/tks-loeng.pdf Konspekt]]
 	*[[http://jaak.tepinfo.ee/ Õppejõu kodulehekülg]]
 	* http://www.tud.ttu.ee/im/Jekaterina.Ivask/
 	*http://deepthought.ttu.ee/users/tepandi/we-tk.html
 	
 	
-languages: 
 lastmajor: 14
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; *http://deepthought.ttu.ee/users/tepandi/we-tk.html</p></div>
-flags: 0
-ts: 1442563681
-minor: 
-host: 86.110.37.246
-username: 
-revision: 14
-keep-ts: 1442563681
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * Moodle <strong class="changes">[[https://moodle.hitsa.ee/course/view.php?id=</strong>13969 ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)]],</strong> **no password**. 😊 , but  requires user registration 😥</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * Moodle <strong class="changes">[Moodle:</strong>13969 ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)],</strong> **no password**. 😊 , but  requires user registration 😥</p></div>
+flags: 010
+ts: 1442598908
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+revision: 15
+keep-ts: 1442598908
