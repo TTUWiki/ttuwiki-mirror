@@ -1,8 +1,9 @@
-blocks: <h3>Õppematerjal</h3><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h3>Кirjandus</h3><p>Põhiõpikuks on <a class="url http outside" href="http://www.ester.ee/record=b2756390*est">Õigusõpetus</a>.</p><h4>Sügis 2015</h4><p>iseseisev töö KOHTUTE SEADUSe kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</p>
+blocks: <h3>Õppematerjal</h3><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h3>Кirjandus</h3><p>Põhiõpikuks on <a class="url http outside" href="http://www.ester.ee/record=b2756390*est">Õigusõpetus</a>.</p><h4>Upcoming events</h4><p>iseseisev töö <a class="url http outside" href="https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv">KOHTUTE SEADUS</a>&#x2019;e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</p>
 lastmajorsummary: 
 ip: 84.52.48.194
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Õigusõpetus
 	#SUBURL [Course:28071 〔Õppeaine ÕIS-is〕]
 	
@@ -12,17 +13,17 @@ text: #SUBTITLE Õigusõpetus
 	===Кirjandus
 	Põhiõpikuks on [[http://www.ester.ee/record=b2756390*est Õigusõpetus]].
 	
-	====Sügis 2015
-	iseseisev töö KOHTUTE SEADUSe kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.
+	====Upcoming events
+	iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.
 	
-languages: 
-lastmajor: 12
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ====Sügis 2015<br />&gt; iseseisev töö KOHTUTE SEADUSe kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.</p></div>
+lastmajor: 13
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ====<strong class="changes">Sügis 2015</strong><br />&lt; iseseisev töö KOHTUTE <strong class="changes">SEADUSe</strong> kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ====<strong class="changes">Upcoming events</strong><br />&gt; iseseisev töö <strong class="changes">[[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv</strong> KOHTUTE <strong class="changes">SEADUS]]'e</strong> kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.</p></div>
 flags: 010
-ts: 1442642776
+ts: 1442644024
 minor: 
-host: 86.110.37.246
 username: 
-revision: 12
-keep-ts: 1442642776
+host: 86.110.37.246
+revision: 13
+keep-ts: 1442644024
