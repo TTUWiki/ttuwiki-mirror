@@ -1,8 +1,9 @@
-blocks: <h3>Õppematerjal</h3><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h3>Кirjandus</h3><p>Põhiõpikuks on <a class="url http outside" href="http://www.ester.ee/record=b2756390*est">Õigusõpetus</a>.</p><h4>Upcoming events</h4><ol><li>iseseisev töö <a class="url http outside" href="https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv">KOHTUTE SEADUS</a>&#x2019;e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</li><li>Essee kirjutamine. <strong>tähtaeg 2. november 2015.</strong> Ajakulu 3 t.</li></ol>
+blocks: <h3>Õppematerjal</h3><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h3>Кirjandus</h3><p>Põhiõpikuks on <a class="url http outside" href="http://www.ester.ee/record=b2756390*est">Õigusõpetus</a>.</p><h4>Upcoming events</h4><ol><li>iseseisev töö <a class="url http outside" href="https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv">KOHTUTE SEADUS</a>&#x2019;e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</li><li>I kontrolltöö toimub 26. oktoober loengu ruumis</li><li>Essee kirjutamine. <strong>tähtaeg 2. november 2015.</strong> Ajakulu 3 t.</li><li>II kontrolltöö toimub   <strong>7.detsember</strong> loengu ruumis</li><li>Arvestus toimub  <strong>14. detsember</strong> loengu ruumis</li></ol>
 lastmajorsummary: 
 ip: 84.52.48.194
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Õigusõpetus
 	#SUBURL [Course:28071 〔Õppeaine ÕIS-is〕]
 	
@@ -15,17 +16,23 @@ text: #SUBTITLE Õigusõpetus
 	====Upcoming events
 	#iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.
 	
-	#Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.
 	
-languages: 
-lastmajor: 14
+	# I kontrolltöö toimub 26. oktoober loengu ruumis
+	
+	# Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.
+	
+	# II kontrolltöö toimub   **7.detsember** loengu ruumis
+	
+	# Arvestus toimub  **14. detsember** loengu ruumis
+	
+lastmajor: 15
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#</strong>iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.<br />&gt; <strong class="changes">#Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.</strong></p></div>
+	<div class="old"><p>&lt; #Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; # <strong class="changes">I kontrolltöö toimub 26. oktoober loengu ruumis<br />&gt; #</strong> Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.<br />&gt; <strong class="changes"># II kontrolltöö toimub   **7.detsember** loengu ruumis<br />&gt; # Arvestus toimub  **14. detsember** loengu ruumis</strong></p></div>
 flags: 010
-ts: 1442644379
+ts: 1442823562
 minor: 
-host: 86.110.37.246
 username: 
-revision: 14
-keep-ts: 1442644379
+host: 89.235.194.24
+revision: 15
+keep-ts: 1442823562
