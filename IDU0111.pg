@@ -1,43 +1,27 @@
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>О предмете (требования, учебный план)</p><p><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx</a></p><p>&#x2013; MaryBoom 2015-08-06 17:17:06</p></div><div class="userComment"><p>Все материалы: <a class="url http" href="http://cloud.ld.ttu.ee/idu0111/">http://cloud.ld.ttu.ee/idu0111/</a></p><p>&#x2013; AlexDaniel 2015-09-03 14:07:24</p></div><div class="userComment"><p><a class="url http" href="http://193.40.244.77/idu0330/idu0111praktikum/">http://193.40.244.77/idu0330/idu0111praktikum/</a></p><p>&#x2013; AlexDaniel 2015-09-20 17:15:49</p></div>
-lastmajorsummary: http://193.40.244.77/idu0330/idu0111praktikum/
+blocks: <h2>Материалы</h2><ul><li><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx</a></li><li><a class="url http" href="http://cloud.ld.ttu.ee/idu0111/">http://cloud.ld.ttu.ee/idu0111/</a></li><li><a class="url http" href="http://193.40.244.77/idu0330/idu0111praktikum/">http://193.40.244.77/idu0330/idu0111praktikum/</a> – тут требования по предмету.</li></ul>
+lastmajorsummary: Info
 ip: 89.235.235.166
 diff-major: 1
-summary: http://193.40.244.77/idu0330/idu0111praktikum/
-languages: 
+summary: Info
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
-	
-	О предмете (требования, учебный план)
-	
-	http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
-	
-	-- MaryBoom 2015-08-06 17:17:06
+	== Материалы
+	* http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
+	* http://cloud.ld.ttu.ee/idu0111/
+	* http://193.40.244.77/idu0330/idu0111praktikum/ – тут требования по предмету.
 	
 	
-	----
 	
-	Все материалы: http://cloud.ld.ttu.ee/idu0111/
-	
-	-- AlexDaniel 2015-09-03 14:07:24
-	
-	
-	----
-	
-	http://193.40.244.77/idu0330/idu0111praktikum/
-	
-	-- AlexDaniel 2015-09-20 17:15:49
-	
-	
-lastmajor: 7
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; http://193.40.244.77/idu0330/idu0111praktikum/<br />&gt; -- AlexDaniel 2015-09-20 17:15:49</p></div>
-flags: 00
-ts: 1442758549
+languages: 
+lastmajor: 8
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----<br />&lt; О предмете (требования, учебный план)</strong><br />&lt; http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx<br />&lt; <strong class="changes">-- MaryBoom 2015-08-06 17:17:06<br />&lt; ----<br />&lt; Все материалы:</strong> http://cloud.ld.ttu.ee/idu0111/<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-03 14:07:24<br />&lt; ----</strong><br />&lt; http://193.40.244.77/idu0330/idu0111praktikum/<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-20 17:15:49</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Материалы<br />&gt; *</strong> http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx<br />&gt; <strong class="changes">*</strong> http://cloud.ld.ttu.ee/idu0111/<br />&gt; <strong class="changes">*</strong> http://193.40.244.77/idu0330/idu0111praktikum/ <strong class="changes">– тут требования по предмету.</strong></p></div>
+flags: 0
+ts: 1442846586
 minor: 
+host: 82.131.3.43
 username: AlexDaniel
-host: 82.131.7.230
-revision: 7
-keep-ts: 1442758549
+revision: 8
+keep-ts: 1442846586
