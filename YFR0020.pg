@@ -1,17 +1,50 @@
-flags: 0100
-blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Все материалы:<br /><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss</p><p>Пароль для pdf-ок: abi</p><p>&#x2013; AlexDaniel 2015-03-05 04:19:44</p></div><div class="userComment"><p>Второй учебник:<br /><a class="url http" href="http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf">http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf</a></p><p>&#x2013; AlexDaniel 2015-04-28 12:30:42</p></div><div class="userComment"><p>Какие-то материалы по лабам:<br /><a class="url http" href="http://web.zone.ee/aldas/fyysika/">http://web.zone.ee/aldas/fyysika/</a></p><p>&#x2013; BloodyMary 2015-05-02 01:14:40</p></div><div class="userComment"><p>Первый задачник:</p><p>[[File:Fsika_I_lesanded_scan_vastustega.pdf]]</p><p>&#x2013; BloodyMary 2015-05-07 20:36:27</p></div>
+blocks: <p>Лекции в pdf: <a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a></p><h2>Лабы (первая часть)</h2><p>Заливайте свои в пустые места:</p><ol><li>[[File:praks1_1.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks1_9.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks1_17.zip]]</li></ol><h2>Лабы (вторая часть)</h2><ol><li></li><li></li><li></li><li></li><li>[[File:praks2_5.zip]]</li><li></li><li>[[File:praks2_7.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks2_14.zip]]</li></ol><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Все материалы:<br /><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss</p><p>Пароль для pdf-ок: abi</p><p>&#x2013; AlexDaniel 2015-03-05 04:19:44</p></div><div class="userComment"><p>Второй учебник:<br /><a class="url http" href="http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf">http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf</a></p><p>&#x2013; AlexDaniel 2015-04-28 12:30:42</p></div><div class="userComment"><p>Какие-то материалы по лабам:<br /><a class="url http" href="http://web.zone.ee/aldas/fyysika/">http://web.zone.ee/aldas/fyysika/</a></p><p>&#x2013; BloodyMary 2015-05-02 01:14:40</p></div><div class="userComment"><p>Первый задачник:</p><p>[[File:Fsika_I_lesanded_scan_vastustega.pdf]]</p><p>&#x2013; BloodyMary 2015-05-07 20:36:27</p></div>
+lastmajorsummary: Лабы
 ip: 89.235.235.166
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 9
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: Лабы
 languages: 
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
 	Лекции в pdf: http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/
+	
+	== Лабы (первая часть)
+	Заливайте свои в пустые места:
+	
+	# [[File:praks1_1.zip]]
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+	# [[File:praks1_9.zip]]
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+	# [[File:praks1_17.zip]]
+	
+	== Лабы (вторая часть)
+	#
+	#
+	#
+	#
+	# [[File:praks2_5.zip]]
+	#
+	# [[File:praks2_7.zip]]
+	#
+	#
+	#
+	#
+	#
+	#
+	# [[File:praks2_14.zip]]
 	
 	----
 	
@@ -50,5 +83,13 @@ text: #SUBTITLE Füüsika
 	-- BloodyMary 2015-05-07 20:36:27
 	
 	
-lastmajor: 8
-keep-ts: 1441924452
+lastmajor: 10
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; == Лабы (первая часть)<br />&gt; Заливайте свои в пустые места:<br />&gt; # [[File:praks1_1.zip]]<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; # [[File:praks1_9.zip]]<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; # [[File:praks1_17.zip]]<br />&gt; == Лабы (вторая часть)<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; # [[File:praks2_5.zip]]<br />&gt; #<br />&gt; # [[File:praks2_7.zip]]<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; # [[File:praks2_14.zip]]</p></div>
+flags: 0101010101010100
+ts: 1442870254
+minor: 
+username: AlexDaniel
+host: 82.131.3.43
+revision: 10
+keep-ts: 1442870254
