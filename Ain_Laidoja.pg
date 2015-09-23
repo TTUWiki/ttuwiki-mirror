@@ -1,16 +1,15 @@
-flags: 0101010101010101010101010101010
-blocks: <h2>Sügissemester 2015</h2><p>Õppeained:<br /></p><ul><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AES0250]] - Elektrienergia hajatootmine<br /></li><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AAV0180]] - Energiasalvestid<br /></li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine<br /></li><li>[[AES3136]] - Energiasüsteemide ökonoomika<br /></li><li>[[MSE0280]] - Hajaenergeetika planeerimine<br /></li><li>[[MSE0260]] - Hajaobjekti projekt<br /></li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga<br /></li><li>[[MSJ0030]] - Loodushoid energeetikas<br /></li><li>[[MXX0040]] - Magistriseminar<br /></li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad<br /></li><li>[[MSJ0060]] - Soojuselektrijaamad<br /></li><li>[[HLX8040]] - Teadusvõõrkeel<br /></li><li>[[TTO3160]] - Õigusõpetus</li></ul>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; *[[AES0250]]	Elektrienergia hajatootmine<br />&lt; *[[AEK8141]]	Elektriseadmed ja -edastus<br />&lt; *[[AAV0180]]	Energiasalvestid<br />&lt; *[[AES0200]]	Energiasüsteemi strateegiline arendamine<br />&lt; *[[AES3136]]	Energiasüsteemide ökonoomika<br />&lt; *[[MSE0280]]	Hajaenergeetika planeerimine<br />&lt; *[[MSE0260]]	Hajaobjekti projekt<br />&lt; *[[AES0370]]	Hajatootmise ühendamine elektrivõrguga<br />&lt; *[[MSJ0030]]	Loodushoid energeetikas<br />&lt; *[[MXX0040]]	Magistriseminar<br />&lt; *[[MSJ0340]]	Põlevkivi termilise töötlemise tehnoloogiad<br />&lt; *[[MSJ0060]]	Soojuselektrijaamad<br />&lt; *[[HLX8040]]	Teadusvõõrkeel<br />&lt; *[[TTO3160]]	Õigusõpetus</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; *[[AES0250]] <strong class="changes">-</strong>	Elektrienergia hajatootmine<br />&gt; *[[AEK8141]] <strong class="changes">-</strong>	Elektriseadmed ja -edastus<br />&gt; *[[AAV0180]] <strong class="changes">-</strong>	Energiasalvestid<br />&gt; *[[AES0200]] <strong class="changes">-</strong>	Energiasüsteemi strateegiline arendamine<br />&gt; *[[AES3136]] <strong class="changes">-</strong>	Energiasüsteemide ökonoomika<br />&gt; *[[MSE0280]] <strong class="changes">-</strong>	Hajaenergeetika planeerimine<br />&gt; *[[MSE0260]] <strong class="changes">-</strong>	Hajaobjekti projekt<br />&gt; *[[AES0370]] <strong class="changes">-</strong>	Hajatootmise ühendamine elektrivõrguga<br />&gt; *[[MSJ0030]] <strong class="changes">-</strong>	Loodushoid energeetikas<br />&gt; *[[MXX0040]] <strong class="changes">-</strong>	Magistriseminar<br />&gt; *[[MSJ0340]] <strong class="changes">-</strong>	Põlevkivi termilise töötlemise tehnoloogiad<br />&gt; *[[MSJ0060]] <strong class="changes">-</strong>	Soojuselektrijaamad<br />&gt; *[[HLX8040]] <strong class="changes">-</strong>	Teadusvõõrkeel<br />&gt; *[[TTO3160]] <strong class="changes">-</strong>	Õigusõpetus</p></div>
-lastmajorsummary: == Sügissemester 2015 Õppeained: * AEK8141 - Elektriseadmed ja -edastus 
-ts: 1443033268
+flags: 01010101010101010101010101010100
+blocks: <h2>Sügissemester 2015</h2><p>Õppeained:<br /></p><ul><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AES0250]] - Elektrienergia hajatootmine<br /></li><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AAV0180]] - Energiasalvestid<br /></li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine<br /></li><li>[[AES3136]] - Energiasüsteemide ökonoomika<br /></li><li>[[MSE0280]] - Hajaenergeetika planeerimine<br /></li><li>[[MSE0260]] - Hajaobjekti projekt<br /></li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga<br /></li><li>[[MSJ0030]] - Loodushoid energeetikas<br /></li><li>[[MXX0040]] - Magistriseminar<br /></li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad<br /></li><li>[[MSJ0060]] - Soojuselektrijaamad<br /></li><li>[[HLX8040]] - Teadusvõõrkeel<br /></li><li>[[TTO3160]] - Õigusõpetus</li></ul><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere tulemast wiki-sse! 😊</p><p>&#x2013; AlexDaniel 2015-09-23 21:43:14</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Tere tulemast wiki-sse! 😊<br />&gt; -- AlexDaniel 2015-09-23 21:43:14</p></div>
+lastmajorsummary: Tere tulemast wiki-sse! 😊
+ts: 1443033794
 minor: 
-host: 86.110.37.246
-username: Ain_Laidoja
-revision: 3
+host: 82.131.3.43
+username: AlexDaniel
+revision: 4
 diff-major: 1
-summary: == Sügissemester 2015 Õppeained: * AEK8141 - Elektriseadmed ja -edastus 
+summary: Tere tulemast wiki-sse! 😊
 languages: 
 text: == Sügissemester 2015
 	
@@ -33,5 +32,12 @@ text: == Sügissemester 2015
 	*[[TTO3160]] -	Õigusõpetus
 	
 	
-lastmajor: 3
-keep-ts: 1443033268
+	----
+	
+	Tere tulemast wiki-sse! 😊
+	
+	-- AlexDaniel 2015-09-23 21:43:14
+	
+	
+lastmajor: 4
+keep-ts: 1443033794
