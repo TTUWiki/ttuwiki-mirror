@@ -1,17 +1,37 @@
-flags: 010
-blocks: <h2>Sügissemester 2015</h2><p>Õppeained:<br /></p><ul><li>[[AEK8141]] - Elektriseadmed ja -edastus</li></ul>
+flags: 0101010101010101010101010101010
+blocks: <h2>Sügissemester 2015</h2><p>Õppeained:<br /></p><ul><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AES0250]] Elektrienergia hajatootmine<br /></li><li>[[AEK8141]] Elektriseadmed ja -edastus<br /></li><li>[[AAV0180]] Energiasalvestid<br /></li><li>[[AES0200]] Energiasüsteemi strateegiline arendamine<br /></li><li>[[AES3136]] Energiasüsteemide ökonoomika<br /></li><li>[[MSE0280]] Hajaenergeetika planeerimine<br /></li><li>[[MSE0260]] Hajaobjekti projekt<br /></li><li>[[AES0370]] Hajatootmise ühendamine elektrivõrguga<br /></li><li>[[MSJ0030]] Loodushoid energeetikas<br /></li><li>[[MXX0040]] Magistriseminar<br /></li><li>[[MSJ0340]] Põlevkivi termilise töötlemise tehnoloogiad<br /></li><li>[[MSJ0060]] Soojuselektrijaamad<br /></li><li>[[HLX8040]] Teadusvõõrkeel<br /></li><li>[[TTO3160]] Õigusõpetus</li></ul>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">* [[</strong>AEK8141]] - Elektriseadmed ja -edastus</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">*[[</strong>AEK8141]] - Elektriseadmed ja -edastus<br />&gt; <strong class="changes">*[[AES0250]]	Elektrienergia hajatootmine<br />&gt; *[[AEK8141]]	Elektriseadmed ja -edastus<br />&gt; *[[AAV0180]]	Energiasalvestid<br />&gt; *[[AES0200]]	Energiasüsteemi strateegiline arendamine<br />&gt; *[[AES3136]]	Energiasüsteemide ökonoomika<br />&gt; *[[MSE0280]]	Hajaenergeetika planeerimine<br />&gt; *[[MSE0260]]	Hajaobjekti projekt<br />&gt; *[[AES0370]]	Hajatootmise ühendamine elektrivõrguga<br />&gt; *[[MSJ0030]]	Loodushoid energeetikas<br />&gt; *[[MXX0040]]	Magistriseminar<br />&gt; *[[MSJ0340]]	Põlevkivi termilise töötlemise tehnoloogiad<br />&gt; *[[MSJ0060]]	Soojuselektrijaamad<br />&gt; *[[HLX8040]]	Teadusvõõrkeel<br />&gt; *[[TTO3160]]	Õigusõpetus</strong></p></div>
 lastmajorsummary: == Sügissemester 2015 Õppeained: * AEK8141 - Elektriseadmed ja -edastus 
-ts: 1443032846
+ts: 1443033177
 minor: 
 host: 86.110.37.246
 username: Ain_Laidoja
-revision: 1
+revision: 2
+diff-major: 1
 summary: == Sügissemester 2015 Õppeained: * AEK8141 - Elektriseadmed ja -edastus 
 languages: 
 text: == Sügissemester 2015
 	
 	
 	Õppeained:
-	* [[AEK8141]] - Elektriseadmed ja -edastus
+	*[[AEK8141]] - Elektriseadmed ja -edastus
+	*[[AES0250]]	Elektrienergia hajatootmine
+	*[[AEK8141]]	Elektriseadmed ja -edastus
+	*[[AAV0180]]	Energiasalvestid
+	*[[AES0200]]	Energiasüsteemi strateegiline arendamine
+	*[[AES3136]]	Energiasüsteemide ökonoomika
+	*[[MSE0280]]	Hajaenergeetika planeerimine
+	*[[MSE0260]]	Hajaobjekti projekt
+	*[[AES0370]]	Hajatootmise ühendamine elektrivõrguga
+	*[[MSJ0030]]	Loodushoid energeetikas
+	*[[MXX0040]]	Magistriseminar
+	*[[MSJ0340]]	Põlevkivi termilise töötlemise tehnoloogiad
+	*[[MSJ0060]]	Soojuselektrijaamad
+	*[[HLX8040]]	Teadusvõõrkeel
+	*[[TTO3160]]	Õigusõpetus
 	
-lastmajor: 1
+	
+lastmajor: 2
+keep-ts: 1443033177
