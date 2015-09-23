@@ -1,8 +1,9 @@
-blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><p><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</p><h2>Kirjandus:</h2><ol><li>Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</li><li>Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.</li><li>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.</li><li>Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</li></ol>
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile (jako.kilter@ttu.ee) ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu e-mailile</li></ol><h2>Kirjandus:</h2><ol><li>Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.</li><li>Tiigimägi,E. Elektrivõrgud.TTÜ,Tallinn,1997,128 lk.</li><li>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.</li><li>Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj</li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -11,7 +12,10 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	====Upcoming events
 	
-	**02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.
+	#**02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.
+	#**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile (jako.kilter@ttu.ee) ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast
+	hiljem esitatud töid ei arvestata!**
+	#**07.12** Seminari tagasiside õppejõu e-mailile
 	
 	==Kirjandus:
 	#Risthein,E.Sissejuhatus energiatehnikasse.TTÜ,Tall.2007,260 lk.
@@ -19,14 +23,14 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J.Jaotusvõrgud.TTÜ,Tall.2007,546 lk.
 	#Meldorf,M.,Tikk,T.Elektrivõrgu operatiivj
 	
-languages: 
-lastmajor: 8
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ====Upcoming events<br />&gt; **02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</p></div>
+lastmajor: 9
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">**</strong>02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#**</strong>02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.<br />&gt; <strong class="changes">#**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile (jako.kilter@ttu.ee) ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast<br />&gt; hiljem esitatud töid ei arvestata!**<br />&gt; #**07.12** Seminari tagasiside õppejõu e-mailile</strong></p></div>
 flags: 010
-ts: 1442997060
+ts: 1442999451
 minor: 
-host: 86.110.37.246
 username: 
-revision: 8
-keep-ts: 1442997060
+host: 86.110.37.246
+revision: 9
+keep-ts: 1442999451
