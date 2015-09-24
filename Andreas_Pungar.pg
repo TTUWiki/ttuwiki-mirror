@@ -1,15 +1,26 @@
-flags: 0
-blocks: <h2>Sügissemester 2015</h2>
+flags: 01010101010
+blocks: <h2>Sügissemester 2015</h2><p>[[EEA0021]] Arhitektuur<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EMD0021]] Ehitusmehaanika I<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[EEA0021]] Arhitektuur<br />&gt; [[EPJ0120]] Ehitushanke juhtimine<br />&gt; [[EMD0021]] Ehitusmehaanika I<br />&gt; [[EXX0023]] Hüdrotehnilised ehitised sadamates<br />&gt; [[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused</p></div>
 lastmajorsummary: == Sügissemester 2015 
-ts: 1443120421
+ts: 1443120597
 minor: 
 host: 86.110.37.246
 username: Andreas_Pungar
-revision: 1
+revision: 2
+diff-major: 1
 summary: == Sügissemester 2015 
 languages: 
 text: == Sügissemester 2015
 	
 	
 	
-lastmajor: 1
+	[[EEA0021]] Arhitektuur
+	[[EPJ0120]] Ehitushanke juhtimine
+	[[EMD0021]] Ehitusmehaanika I
+	[[EXX0023]] Hüdrotehnilised ehitised sadamates
+	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused
+	
+	
+lastmajor: 2
+keep-ts: 1443120597
