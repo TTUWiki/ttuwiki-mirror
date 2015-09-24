@@ -1,16 +1,23 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h2>Õppematerjalid</h2><p><a class="url http outside" href="http://www.staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf">Ehitusmehaanika raamat</a></p>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924445
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Ehitusmehaanika I
 	#SUBURL [Course:101360 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924445
+	==Õppematerjalid
+	[http://www.staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf Ehitusmehaanika raamat]
+	
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://www</strong>.<strong class="changes">staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf Ehitusmehaanika raamat]</strong></p></div>
+flags: 0
+ts: 1443120865
+minor: 
+username: Andreas_Pungar
+host: 86.110.37.246
+revision: 5
+keep-ts: 1443120865
