@@ -1,10 +1,11 @@
-blocks: <p>Поступил в 2013-ом на ÄriIT.</p><h2>Осенний семетр 2015-го года</h2><p>Расписание моей группы: [Timetable:37672 IABB51]</p><p>В этом семестре взял:<br /></p><ul><li>[[TMT0040]] - Ergonoomika</li><li>[[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine</li><li>[[IDU0230]] - Andmebaasid II</li><li>[[ITI0021]] - Loogiline programmeerimine</li><li>[[IDX5721]] - Tarkvara kvaliteet ja standardid</li><li>[[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö</li></ul><h3>Интересные статьи:</h3><h5>Использование <a class="url http outside" href="https://en.wikipedia.org/wiki/Free_software">free software</a> в ТТУ:</h5><ul><li>[[IAF0041|Arvutid]] - как делать лабораторные работы в <a class="url http outside" href="http://www.geda-project.org/">gEDA</a>.</li><li>[[ISS0010|Süsteemiteooria]] - как делать лабы в <a class="url http outside" href="http://www.scilab.org/">Scilab</a>, а также немного про <a class="url http outside" href="http://www.sagemath.org/">Sage</a> и <a class="url http outside" href="http://sourceforge.net/projects/python-control/">python-control</a>.</li><li>[[IDK0015|Andmetöötlus]] - практика в <a class="url http outside" href="http://www.libreoffice.org/">LibreOffice</a>.</li></ul>
-lastmajorsummary: Мои предметы в текущем семестре
+blocks: <p>Поступил в 2013-ом на ÄriIT.</p><p>Email: <strong>alex.jakimenko+ttuwiki@gmail.com</strong>.</p><h2>Осенний семетр 2015-го года</h2><p>Расписание моей группы: [Timetable:37672 IABB51]</p><p>В этом семестре взял:<br /></p><ul><li>[[TMT0040]] - Ergonoomika</li><li>[[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine</li><li>[[IDU0230]] - Andmebaasid II</li><li>[[ITI0021]] - Loogiline programmeerimine</li><li>[[IDX5721]] - Tarkvara kvaliteet ja standardid</li><li>[[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö</li></ul><h3>Интересные статьи:</h3><h5>Использование <a class="url http outside" href="https://en.wikipedia.org/wiki/Free_software">free software</a> в ТТУ:</h5><ul><li>[[IAF0041|Arvutid]] - как делать лабораторные работы в <a class="url http outside" href="http://www.geda-project.org/">gEDA</a>.</li><li>[[ISS0010|Süsteemiteooria]] - как делать лабы в <a class="url http outside" href="http://www.scilab.org/">Scilab</a>, а также немного про <a class="url http outside" href="http://www.sagemath.org/">Sage</a> и <a class="url http outside" href="http://sourceforge.net/projects/python-control/">python-control</a>.</li><li>[[IDK0015|Andmetöötlus]] - практика в <a class="url http outside" href="http://www.libreoffice.org/">LibreOffice</a>.</li></ul>
+lastmajorsummary: email
 ip: 89.235.239.240
 diff-major: 1
-summary: Мои предметы в текущем семестре
-languages: 
+summary: email
 text: Поступил в 2013-ом на ÄriIT.
+	
+	Email: **alex.jakimenko+ttuwiki@gmail.com**.
 	
 	== Осенний семетр 2015-го года
 	Расписание моей группы: [Timetable:37672 IABB51]
@@ -25,13 +26,14 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-lastmajor: 5
+languages: 
+lastmajor: 6
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; == Осенний семетр 2015-го года<br />&gt; Расписание моей группы: [Timetable:37672 IABB51]<br />&gt; В этом семестре взял:<br />&gt; * [[TMT0040]] - Ergonoomika<br />&gt; * [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine<br />&gt; * [[IDU0230]] - Andmebaasid II<br />&gt; * [[ITI0021]] - Loogiline programmeerimine<br />&gt; * [[IDX5721]] - Tarkvara kvaliteet ja standardid<br />&gt; * [[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö</p></div>
+	<div class="new"><p>&gt; Email: **alex.jakimenko+ttuwiki@gmail.com**.</p></div>
 flags: 010101010101010101010
-ts: 1443027671
+ts: 1443110449
 minor: 
-username: AlexDaniel
 host: 82.131.3.43
-revision: 5
-keep-ts: 1443027671
+username: AlexDaniel
+revision: 6
+keep-ts: 1443110449
