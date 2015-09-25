@@ -1,14 +1,26 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
+flags: 00
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development">https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development</a></p><p>&#x2013; AlexDaniel 2015-09-25 22:34:29</p></div>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development<br />&gt; -- AlexDaniel 2015-09-25 22:34:29</p></div>
+lastmajorsummary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
+ts: 1443209669
+minor: 
+host: 84.52.29.248
 username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 3
+diff-major: 1
+summary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+	----
+	
+	https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
+	
+	-- AlexDaniel 2015-09-25 22:34:29
+	
+	
 languages: 
-keep-ts: 1441924447
+lastmajor: 3
+keep-ts: 1443209669
