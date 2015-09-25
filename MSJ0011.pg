@@ -1,9 +1,8 @@
-blocks: <h2>Kirjandus</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b1736585*est">Thermodynamics, An Engineering Approach</a> by Y.A. Gengel and M.A. Boles</li><li><a class="url http outside" href="http://www.ester.ee/record=b1280600*est">Fundamentals of Engineering Thermodynamics</a>, Jhon R. Howell, Richard O. Buckius</li><li><a class="url http outside" href="http://www.ester.ee/record=b1242207*est">Termodünaamika</a>, A.Ots.Tallinn, 1972.</li></ol>
+blocks: <h2>Kirjandus</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b1736585*est">Thermodynamics, An Engineering Approach</a> by Y.A. Gengel and M.A. Boles</li><li><a class="url http outside" href="http://www.ester.ee/record=b1280600*est">Fundamentals of Engineering Thermodynamics</a>, Jhon R. Howell, Richard O. Buckius</li><li><a class="url http outside" href="http://www.ester.ee/record=b1242207*est">Termodünaamika</a>, A.Ots.Tallinn, 1972. <a class="url http outside" href="http://digi.lib.ttu.ee/i/?109">PDF</a></li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Termodünaamika I
 	#SUBURL [Course:31058 〔Õppeaine ÕIS-is〕]
 	
@@ -11,16 +10,17 @@ text: #SUBTITLE Termodünaamika I
 	
 	#[http://www.ester.ee/record=b1736585*est Thermodynamics, An Engineering Approach]  by Y.A. Gengel and M.A. Boles
 	#[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], Jhon R. Howell, Richard O. Buckius
-	#[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.
+	#[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.  [http://digi.lib.ttu.ee/i/?109 PDF]
 	
-lastmajor: 5
+languages: 
+lastmajor: 6
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Kirjandus<br />&gt; #[http://www.ester.ee/record=b1736585*est Thermodynamics, An Engineering Approach]  by Y.A. Gengel and M.A. Boles<br />&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], Jhon R. Howell, Richard O. Buckius<br />&gt; #[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn</strong>, <strong class="changes">1972</strong>.</p></div>
+	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.  <strong class="changes">[http://digi.lib.ttu.ee/i/?109 PDF]</strong></p></div>
 flags: 0
-ts: 1443157772
+ts: 1443158085
 minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 5
-keep-ts: 1443157772
+username: Ain_Laidoja
+revision: 6
+keep-ts: 1443158085
