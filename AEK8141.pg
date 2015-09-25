@@ -1,8 +1,9 @@
-blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile (jako.kilter@ttu.ee) ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu e-mailile</li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b1053792*est">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li></ol>
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">jako.kilter@ttu.ee</a>] ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu  <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">e-mailile</a></li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b1053792*est">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -12,9 +13,9 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	====Upcoming events
 	
 	#**02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.
-	#**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile (jako.kilter@ttu.ee) ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast
+	#**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile [mailto:jako.kilter@ttu.ee jako.kilter@ttu.ee]] ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast
 	hiljem esitatud töid ei arvestata!**
-	#**07.12** Seminari tagasiside õppejõu e-mailile
+	#**07.12** Seminari tagasiside õppejõu  [mailto:jako.kilter@ttu.ee e-mailile]
 	
 	==Kirjandus:
 	#[http://www.ester.ee/record=b2290660*est Sissejuhatus energiatehnikasse] Risthein,E..TTÜ,Tall.2007,260 lk.
@@ -22,15 +23,16 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2347094*est Jaotusvõrgud] Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	
-languages: 
-lastmajor: 10
+lastmajor: 11
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#</strong>Risthein,E<strong class="changes">.Sissejuhatus energiatehnikasse.</strong>TTÜ,Tall.2007,260 lk.<br />&lt; <strong class="changes">#</strong>Tiigimägi,E. <strong class="changes">Elektrivõrgud</strong>.TTÜ,Tallinn,1997,128 lk.<br />&lt; <strong class="changes">#</strong>Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J<strong class="changes">.Jaotusvõrgud.</strong>TTÜ,Tall.2007,546 lk.<br />&lt; <strong class="changes">#</strong>Meldorf,M.,Tikk,T.<strong class="changes">Elektrivõrgu operatiivj</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#[http://www.ester.ee/record=b2290660*est Sissejuhatus energiatehnikasse]</strong> Risthein,E<strong class="changes">..</strong>TTÜ,Tall.2007,260 lk.<br />&gt; <strong class="changes">#[http://www.ester.ee/record=b1053792*est Elektrivõrgud]</strong>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.<br />&gt; <strong class="changes">#[http://www.ester.ee/record=b2347094*est Jaotusvõrgud]</strong> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J<strong class="changes">..</strong>TTÜ,Tall.2007,546 lk.<br />&gt; <strong class="changes">#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem]</strong> Meldorf,M.,Tikk,T.</p></div>
+	<div class="old"><p>&lt; #**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <strong class="changes">(</strong>jako.kilter@ttu.ee<strong class="changes">)</strong> ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <strong class="changes">[mailto:</strong>jako.kilter@ttu.ee <strong class="changes">jako.kilter@ttu.ee]]</strong> ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #**07.12** Seminari tagasiside õppejõu e-mailile</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #**07.12** Seminari tagasiside õppejõu  <strong class="changes">[mailto:jako.kilter@ttu.ee</strong> e-mailile<strong class="changes">]</strong></p></div>
 flags: 010
-ts: 1443156895
+ts: 1443195343
 minor: 
-host: 86.110.37.246
 username: Ain_Laidoja
-revision: 10
-keep-ts: 1443156895
+host: 86.110.37.246
+revision: 11
+keep-ts: 1443195343
