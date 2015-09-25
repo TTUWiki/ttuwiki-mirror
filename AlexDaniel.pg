@@ -1,13 +1,12 @@
-blocks: <p>Поступил в 2013-ом на ÄriIT.</p><p>Email: <strong><a class="url mailto" href="mailto:alex.jakimenko+ttuwiki@gmail.com">mailto:alex.jakimenko+ttuwiki@gmail.com</a> </strong></p><h2>Осенний семетр 2015-го года</h2><p>Расписание моей группы: [Timetable:37672 IABB51]</p><p>В этом семестре взял:<br /></p><ul><li>[[TMT0040]] - Ergonoomika</li><li>[[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine</li><li>[[IDU0230]] - Andmebaasid II</li><li>[[ITI0021]] - Loogiline programmeerimine</li><li>[[IDX5721]] - Tarkvara kvaliteet ja standardid</li><li>[[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö</li></ul><h3>Интересные статьи:</h3><h5>Использование <a class="url http outside" href="https://en.wikipedia.org/wiki/Free_software">free software</a> в ТТУ:</h5><ul><li>[[IAF0041|Arvutid]] - как делать лабораторные работы в <a class="url http outside" href="http://www.geda-project.org/">gEDA</a>.</li><li>[[ISS0010|Süsteemiteooria]] - как делать лабы в <a class="url http outside" href="http://www.scilab.org/">Scilab</a>, а также немного про <a class="url http outside" href="http://www.sagemath.org/">Sage</a> и <a class="url http outside" href="http://sourceforge.net/projects/python-control/">python-control</a>.</li><li>[[IDK0015|Andmetöötlus]] - практика в <a class="url http outside" href="http://www.libreoffice.org/">LibreOffice</a>.</li></ul>
-lastmajorsummary: email
+blocks: <p>Поступил в 2013-ом на ÄriIT.</p><p>Email: <a class="url mailto outside" href="mailto:alex.jakimenko+ttuwiki@gmail.com">alex.jakimenko+ttuwiki@gmail.com</a></p><h2>Осенний семетр 2015-го года</h2><p>Расписание моей группы: [Timetable:37672 IABB51]</p><p>В этом семестре взял:<br /></p><ul><li>[[TMT0040]] - Ergonoomika</li><li>[[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine</li><li>[[IDU0230]] - Andmebaasid II</li><li>[[ITI0021]] - Loogiline programmeerimine</li><li>[[IDX5721]] - Tarkvara kvaliteet ja standardid</li><li>[[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö</li></ul><h3>Интересные статьи:</h3><h5>Использование <a class="url http outside" href="https://en.wikipedia.org/wiki/Free_software">free software</a> в ТТУ:</h5><ul><li>[[IAF0041|Arvutid]] - как делать лабораторные работы в <a class="url http outside" href="http://www.geda-project.org/">gEDA</a>.</li><li>[[ISS0010|Süsteemiteooria]] - как делать лабы в <a class="url http outside" href="http://www.scilab.org/">Scilab</a>, а также немного про <a class="url http outside" href="http://www.sagemath.org/">Sage</a> и <a class="url http outside" href="http://sourceforge.net/projects/python-control/">python-control</a>.</li><li>[[IDK0015|Andmetöötlus]] - практика в <a class="url http outside" href="http://www.libreoffice.org/">LibreOffice</a>.</li></ul>
+lastmajorsummary: better looking mailto: link
 ip: 89.235.239.240
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Email: **alex.jakimenko+ttuwiki@gmail.com<strong class="changes">**.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Email: **<strong class="changes">mailto:</strong>alex.jakimenko+ttuwiki@gmail.com<strong class="changes">**</strong></p></div>
-summary: email
+diff-major: 1
+summary: better looking mailto: link
+languages: 
 text: Поступил в 2013-ом на ÄriIT.
 	
-	Email: **mailto:alex.jakimenko+ttuwiki@gmail.com **
+	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
 	== Осенний семетр 2015-го года
 	Расписание моей группы: [Timetable:37672 IABB51]
@@ -28,15 +27,14 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-languages: 
-lastmajor: 7
+lastmajor: 9
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Email: **mailto:alex.jakimenko+ttuwiki@gmail.com**</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Email: **mailto:alex.jakimenko+ttuwiki@gmail.com **</p></div>
+	<div class="old"><p>&lt; Email: <strong class="changes">**</strong>mailto:alex.jakimenko+ttuwiki@gmail.com <strong class="changes">**</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Email: <strong class="changes">[[</strong>mailto:alex.jakimenko+ttuwiki@gmail.com <strong class="changes">alex.jakimenko+ttuwiki@gmail.com]]</strong></p></div>
 flags: 010101010101010101010
-ts: 1443110644
-minor: 1
-host: 82.131.3.43
+ts: 1443176674
+minor: 
 username: AlexDaniel
-revision: 8
-keep-ts: 1443110644
+host: 82.131.3.43
+revision: 9
+keep-ts: 1443176674
