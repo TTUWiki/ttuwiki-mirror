@@ -1,8 +1,10 @@
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Moodle:7610</p><p>Passwords in 2015 (S):<br /></p><table class="user"><tr><td align="center">T 10:00 - 11:30</td><td align="center">T1000_TMT0040</td></tr><tr><td align="center">N 08:00 - 09:30</td><td align="center">N815_TMT0040</td></tr><tr><td align="center">N 10:00 - 11:30</td><td align="center">N1000_TMT0040</td></tr><tr><td align="center">N 12:00 - 13:30</td><td align="center">N1200_TMT0040</td></tr><tr><td align="center">N 14:00 - 15:30</td><td align="center">N1400_TMT0040</td></tr><tr><td align="center">N 16:00 - 17:30</td><td align="center">N1600_TMT0040</td></tr></table><p>&#x2013; AlexDaniel 2015-09-29 03:34:13</p></div>
+blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Moodle:7610</p><p>Passwords in 2015 (S):<br /></p><table class="user"><tr><th align="center">Time </th><th align="center">Password </th></tr><tr><td align="center">T 10:00 - 11:30</td><td align="center">T1000_TMT0040</td></tr><tr><td align="center">N 08:00 - 09:30</td><td align="center">N815_TMT0040</td></tr><tr><td align="center">N 10:00 - 11:30</td><td align="center">N1000_TMT0040</td></tr><tr><td align="center">N 12:00 - 13:30</td><td align="center">N1200_TMT0040</td></tr><tr><td align="center">N 14:00 - 15:30</td><td align="center">N1400_TMT0040</td></tr><tr><td align="center">N 16:00 - 17:30</td><td align="center">N1600_TMT0040</td></tr></table><p>&#x2013; AlexDaniel 2015-09-29 03:34:13</p></div>
 lastmajorsummary: moodle passwords
 ip: 89.235.235.166
-diff-major: 1
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Passwords in 2015 (S):<br />&gt; | T 10:00 - 11:30 | T1000_TMT0040 |<br />&gt; | N 08:00 - 09:30 | N815_TMT0040 |<br />&gt; | N 10:00 - 11:30 | N1000_TMT0040 |<br />&gt; | N 12:00 - 13:30 | N1200_TMT0040 |<br />&gt; | N 14:00 - 15:30 | N1400_TMT0040 |<br />&gt; | N 16:00 - 17:30 | N1600_TMT0040 |</p></div>
 summary: moodle passwords
+languages: 
 text: #SUBTITLE Ergonoomika
 	#SUBURL [Course:31627 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -12,6 +14,7 @@ text: #SUBTITLE Ergonoomika
 	Moodle:7610
 	
 	Passwords in 2015 (S):
+	|= Time |= Password |
 	| T 10:00 - 11:30 | T1000_TMT0040 |
 	| N 08:00 - 09:30 | N815_TMT0040 |
 	| N 10:00 - 11:30 | N1000_TMT0040 |
@@ -22,14 +25,13 @@ text: #SUBTITLE Ergonoomika
 	-- AlexDaniel 2015-09-29 03:34:13
 	
 	
-languages: 
 lastmajor: 6
 diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Passwords in 2015 (S):<br />&gt; | T 10:00 - 11:30 | T1000_TMT0040 |<br />&gt; | N 08:00 - 09:30 | N815_TMT0040 |<br />&gt; | N 10:00 - 11:30 | N1000_TMT0040 |<br />&gt; | N 12:00 - 13:30 | N1200_TMT0040 |<br />&gt; | N 14:00 - 15:30 | N1400_TMT0040 |<br />&gt; | N 16:00 - 17:30 | N1600_TMT0040 |</p></div>
+	<div class="new"><p>&gt; |= Time |= Password |</p></div>
 flags: 0100
-ts: 1443487303
-minor: 
-host: 82.131.0.212
+ts: 1443490288
+minor: 1
 username: AlexDaniel
-revision: 6
-keep-ts: 1443487303
+host: 82.131.0.212
+revision: 7
+keep-ts: 1443490288
