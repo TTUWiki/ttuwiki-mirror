@@ -1,9 +1,8 @@
-blocks: <h3>Õppematerjal</h3><p><a class="url http outside" href="https://www.energia.ee/et/koostoo-oppeasutustega">Õppematerjal</a></p><h4>Upcoming events</h4><p><strong>30.09</strong> Simon-Erik Ollus FORTUM OYJ - Vice President (Soome). Electricity market development in Nordic/Baltic and Russia.</p>
+blocks: <h3>Õppematerjal</h3><p><a class="url http outside" href="https://www.energia.ee/et/koostoo-oppeasutustega">Õppematerjal</a></p><h4>Upcoming events</h4><p><strong>07.10</strong> Heikko Mäe - Eesti Energia, energiakaubanduse juht. Energiakaubandus, riskimaandus, füüsilised- ja finantstehingud.</p>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -14,18 +13,18 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	 
 	====Upcoming events
 	
-	**30.09**	Simon-Erik Ollus FORTUM OYJ - Vice President (Soome). Electricity market development in Nordic/Baltic and Russia.
+	**07.10**	Heikko Mäe - Eesti Energia, energiakaubanduse juht. Energiakaubandus, riskimaandus, füüsilised- ja finantstehingud.
 	
 	
-	
-lastmajor: 7
+languages: 
+lastmajor: 8
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; **<strong class="changes">23</strong>.09**	<strong class="changes">Innovatsioon elektri</strong>-<strong class="changes">jaotusvõrkudes. Tarmo Mere</strong> - <strong class="changes">Elektrilevi juhatuse esimees</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; **<strong class="changes">30</strong>.09**	<strong class="changes">Simon</strong>-<strong class="changes">Erik Ollus FORTUM OYJ</strong> - <strong class="changes">Vice President (Soome). Electricity market development in Nordic/Baltic and Russia</strong>.</p></div>
+	<div class="old"><p>&lt; **<strong class="changes">30</strong>.<strong class="changes">09</strong>**	<strong class="changes">Simon</strong>-<strong class="changes">Erik Ollus FORTUM OYJ</strong> - <strong class="changes">Vice President (Soome). Electricity market development in Nordic/Baltic and Russia</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; **<strong class="changes">07</strong>.<strong class="changes">10</strong>**	<strong class="changes">Heikko Mäe</strong> - <strong class="changes">Eesti Energia, energiakaubanduse juht. Energiakaubandus, riskimaandus, füüsilised</strong>- <strong class="changes">ja finantstehingud</strong>.</p></div>
 flags: 0
-ts: 1443166874
+ts: 1443639688
 minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 7
-keep-ts: 1443166874
+username: Ain_Laidoja
+revision: 8
+keep-ts: 1443639688
