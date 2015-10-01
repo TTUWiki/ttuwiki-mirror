@@ -1,8 +1,9 @@
-blocks: <h2>Õppematerjal</h2><ul><li><a class="url http outside" href="https://ois.ttu.ee/ois2/docs/KODUL.426302.10.2014_15:44:02/LoenguKonspekt1Pt.pdf">Konspekt</a><br /></li><li>Õppejõu õppematerjal on ka <a class="url http outside" href="https://ois.ttu.ee/portal/page?_pageid=35,428206&amp;_dad=portal&amp;_schema=PORTAL&amp;p_id=4263&amp;p_from_aine=1&amp;p_mode=3&amp;p_popup=Y">ÕIS'is</a> aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥</li></ul><h2>Kirjandus</h2><ol><li>.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012.</li><li>M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. <a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud.</a> Tallinn. 2007. 546 lk.</li><li>Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.</li><li>Technical Guideline. Generating Plants Connected to the Medium-Voltage Network. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</li><li>Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.</li><li>Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk</li></ol>
+blocks: <h2>Õppematerjal</h2><ul><li><a class="url http outside" href="https://ois.ttu.ee/ois2/docs/KODUL.426302.10.2014_15:44:02/LoenguKonspekt1Pt.pdf">Konspekt</a><br /></li><li>Õppejõu õppematerjal on ka <a class="url http outside" href="https://ois.ttu.ee/portal/page?_pageid=35,428206&amp;_dad=portal&amp;_schema=PORTAL&amp;p_id=4263&amp;p_from_aine=1&amp;p_mode=3&amp;p_popup=Y">ÕIS'is</a> aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥</li></ul><h2>Kirjandus</h2><ol><li>.Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012.</li><li>M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. <a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud.</a> Tallinn. 2007. 546 lk.</li><li>Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.</li><li>Technical Guideline. Generating Plants Connected to the Medium-Voltage Network. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</li><li>Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard <a class="url http outside" href="https://www.evs.ee/tooted/evs-en-50160-2010">EVS EN 50160</a>. 2007. 22 lk.</li><li>Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk</li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
@@ -17,18 +18,17 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. [[http://www.ester.ee/record=b2347094*est Jaotusvõrgud.]] Tallinn. 2007. 546 lk.
 	#Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.
 	#Technical Guideline. Generating Plants Connected to the Medium-Voltage Network. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.
-	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160. 2007. 22 lk.
+	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard [[https://www.evs.ee/tooted/evs-en-50160-2010 EVS EN 50160]]. 2007. 22 lk.
 	#Ü. Treufeldt. Lühised elektrisüsteemides. Tallinn. 2002. 158 lk
 	
-languages: 
-lastmajor: 9
+lastmajor: 10
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">[[</strong>https://ois.ttu.ee/ois2/docs/KODUL.426302.10.2014_15:44:02/LoenguKonspekt1Pt.pdf Konspekt]] </p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">*[[</strong>https://ois.ttu.ee/ois2/docs/KODUL.426302.10.2014_15:44:02/LoenguKonspekt1Pt.pdf Konspekt]] </p></div>
+	<div class="old"><p>&lt; #Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard EVS EN 50160<strong class="changes">.</strong> 2007. 22 lk.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard <strong class="changes">[[https://www.evs.ee/tooted/evs-en-50160-2010</strong> EVS EN 50160<strong class="changes">]].</strong> 2007. 22 lk.</p></div>
 flags: 0
-ts: 1442599429
+ts: 1443686042
 minor: 
+username: Ain_Laidoja
 host: 86.110.37.246
-username: 
-revision: 9
-keep-ts: 1442599429
+revision: 10
+keep-ts: 1443686042
