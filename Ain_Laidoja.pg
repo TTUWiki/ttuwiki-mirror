@@ -1,21 +1,21 @@
-flags: 01010101010101010101010101010100
-blocks: <h2>Sügissemester 2015</h2><p>Õppeained:<br /></p><ul><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AES0250]] - Elektrienergia hajatootmine<br /></li><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AAV0180]] - Energiasalvestid<br /></li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine<br /></li><li>[[AES3136]] - Energiasüsteemide ökonoomika<br /></li><li>[[MSE0280]] - Hajaenergeetika planeerimine<br /></li><li>[[MSE0260]] - Hajaobjekti projekt<br /></li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga<br /></li><li>[[MSJ0030]] - Loodushoid energeetikas<br /></li><li>[[MXX0040]] - Magistriseminar<br /></li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad<br /></li><li>[[MSJ0060]] - Soojuselektrijaamad<br /></li><li>[[HLX8040]] - Teadusvõõrkeel<br /></li><li>[[TTO3160]] - Õigusõpetus</li></ul><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere tulemast wiki-sse! 😊</p><p>&#x2013; AlexDaniel 2015-09-23 21:43:14</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Tere tulemast wiki-sse! 😊<br />&gt; -- AlexDaniel 2015-09-23 21:43:14</p></div>
-lastmajorsummary: Tere tulemast wiki-sse! 😊
-ts: 1443033794
+flags: 010101010101010101010101010100
+blocks: <h2>Sügissemester 2015</h2><p>Õppeained:</p><ul><li>[[AES0250]] - Elektrienergia hajatootmine<br /></li><li>[[AEK8141]] - Elektriseadmed ja -edastus<br /></li><li>[[AAV0180]] - Energiasalvestid<br /></li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine<br /></li><li>[[AES3136]] - Energiasüsteemide ökonoomika<br /></li><li>[[MSE0280]] - Hajaenergeetika planeerimine<br /></li><li>[[MSE0260]] - Hajaobjekti projekt<br /></li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga<br /></li><li>[[MSJ0030]] - Loodushoid energeetikas<br /></li><li>[[MXX0040]] - Magistriseminar<br /></li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad<br /></li><li>[[MSJ0060]] - Soojuselektrijaamad<br /></li><li>[[HLX8040]] - Teadusvõõrkeel<br /></li><li>[[TTO3160]] - Õigusõpetus</li></ul><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere tulemast wiki-sse! 😊</p><p>&#x2013; AlexDaniel 2015-09-23 21:43:14</p></div>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; *[[AEK8141]] - Elektriseadmed ja -edastus</p></div>
+lastmajorsummary: 
+ts: 1443678486
 minor: 
-host: 82.131.3.43
-username: AlexDaniel
-revision: 4
+host: 86.110.37.246
+username: Ain_Laidoja
+revision: 5
 diff-major: 1
-summary: Tere tulemast wiki-sse! 😊
+summary: 
 languages: 
 text: == Sügissemester 2015
 	
 	
 	Õppeained:
-	*[[AEK8141]] - Elektriseadmed ja -edastus
+	
 	*[[AES0250]] -	Elektrienergia hajatootmine
 	*[[AEK8141]] -	Elektriseadmed ja -edastus
 	*[[AAV0180]] -	Energiasalvestid
@@ -39,5 +39,5 @@ text: == Sügissemester 2015
 	-- AlexDaniel 2015-09-23 21:43:14
 	
 	
-lastmajor: 4
-keep-ts: 1443033794
+lastmajor: 5
+keep-ts: 1443678486
