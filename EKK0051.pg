@@ -1,16 +1,29 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h2>Õppematerjal</h2><h2>Kirjandus</h2><ol><li>Seppänen, M. Seppänen. Hoone sisekliima kujundamine. Tallinn, Koolibri, 1998.</li><li>Enno Abel <a class="url http outside" href="http://www.ester.ee/record=b4434678*est">Hoonete energiatarve ja sisekliima</a></li></ol>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924445
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Hoonete sisekliima
 	#SUBURL [Course:101601 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924445
+	==Õppematerjal
+	
+	
+	==Kirjandus
+	
+	#Seppänen, M. Seppänen. Hoone sisekliima kujundamine. Tallinn, Koolibri, 1998.
+	
+	# Enno Abel [http://www.ester.ee/record=b4434678*est Hoonete energiatarve ja sisekliima]
+	
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; ==Kirjandus<br />&gt; #Seppänen</strong>, <strong class="changes">M</strong>. <strong class="changes">Seppänen. Hoone sisekliima kujundamine. Tallinn, Koolibri, 1998.<br />&gt; # Enno Abel [http://www.ester.ee/record=b4434678*est Hoonete energiatarve ja sisekliima]</strong></p></div>
+flags: 0
+ts: 1443703030
+minor: 
+username: Ain_Laidoja
+host: 193.40.244.196
+revision: 5
+keep-ts: 1443703030
