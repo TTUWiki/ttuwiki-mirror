@@ -1,16 +1,14 @@
 flags: 0101010101010101010101010101010
-blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Täiendavalt</h2><ol><li>[[RAKM11-12]]</li></ol>
+blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><ol><li>[[RAKM11-12]]</li></ol>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">====</strong>Õppeained:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==</strong>Õppeained:</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; Tere tulemast wiki</strong>-<strong class="changes">sse! 😊<br />&lt; -- AlexDaniel 2015-09-23 21:43:14</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Täiendavalt<br />&gt; #[[RAKM11</strong>-<strong class="changes">12]]</strong></p></div>
+	<div class="old"><p>&lt; ==<strong class="changes">Täiendavalt</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ==<strong class="changes">Lisaks:</strong></p></div>
 lastmajorsummary: 
-ts: 1444024526
+ts: 1444024546
 minor: 
 host: 86.110.37.246
 username: Ain_Laidoja
-revision: 7
+revision: 8
 diff-major: 1
 summary: 
 languages: 
@@ -34,9 +32,9 @@ text: == Sügissemester 2015
 	#[[HLX8040]] -	Teadusvõõrkeel
 	#[[TTO3160]] -	Õigusõpetus
 	
-	==Täiendavalt
+	==Lisaks:
 	
 	#[[RAKM11-12]]
 	
-lastmajor: 7
-keep-ts: 1444024526
+lastmajor: 8
+keep-ts: 1444024546
