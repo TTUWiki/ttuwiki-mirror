@@ -1,16 +1,25 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h2>Õppematerjalid</h2><p><a class="url http outside" href="http://data.vk.edu.ee/RAKM/Kutuste_klassifits_harjutused">Õppeaine kodulehekülg</a></p>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924450
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Kütuste klassifitseerimine ja standardimine
 	#SUBURL [Course:105564 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924450
+	
+	==Õppematerjalid
+	
+	[http://data.vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]
+	
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]</strong></p></div>
+flags: 0
+ts: 1444025546
+minor: 
+username: Ain_Laidoja
+host: 86.110.37.246
+revision: 5
+keep-ts: 1444025546
