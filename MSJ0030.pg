@@ -1,16 +1,29 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><p>&#x2026;</p><h4>Upcoming events</h4><ol><li>Kodutöö esitamise tähtaeg <strong>2015-11-13 16:00</strong></li></ol>
+lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924448
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+summary: 
 languages: 
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924448
+	===Õppematerjal
+	...
+	
+	===Кirjandus
+	...
+	
+	====Upcoming events
+	#Kodutöö esitamise tähtaeg **2015-11-13 16:00**
+	
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">===Õppematerjal<br />&gt; ...<br />&gt; ===Кirjandus<br />&gt; ...<br />&gt; ====Upcoming events<br />&gt; #Kodutöö esitamise tähtaeg **2015-11-13 16:00**</strong></p></div>
+flags: 0
+ts: 1444045268
+minor: 
+username: Ain_Laidoja
+host: 193.40.244.196
+revision: 5
+keep-ts: 1444045268
