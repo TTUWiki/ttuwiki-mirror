@@ -1,14 +1,14 @@
-flags: 010101010101010101010101010101010
-blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><ol><li>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</li></ol>
+flags: 01010101010101010101010101010101010
+blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li></ol>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; #[[RAKM11-12]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; #[[RAKM11-12]] <strong class="changes">--  [Kava:50177 〔Õppekava ÕIS-is〕]</strong></p></div>
+	<div class="old"><p>&lt; <strong class="changes">#[[</strong>RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[[</strong>RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]<br />&gt; <strong class="changes">#[[RAS0070]] Kütusetööstuse protsessid</strong></p></div>
 lastmajorsummary: 
-ts: 1444024658
+ts: 1444025276
 minor: 
 host: 86.110.37.246
 username: Ain_Laidoja
-revision: 9
+revision: 10
 diff-major: 1
 summary: 
 languages: 
@@ -34,7 +34,9 @@ text: == Sügissemester 2015
 	
 	==Lisaks:
 	
-	#[[RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]
+	[[RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]
 	
-lastmajor: 9
-keep-ts: 1444024658
+	#[[RAS0070]] Kütusetööstuse protsessid
+	
+lastmajor: 10
+keep-ts: 1444025276
