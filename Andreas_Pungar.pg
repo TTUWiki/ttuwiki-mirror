@@ -1,15 +1,15 @@
-flags: 010101010100
-blocks: <h2>Sügissemester 2015</h2><p>[[EEA0021]] Arhitektuur<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EMD0021]] Ehitusmehaanika I<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Tere tulemast wiki-sse!</p><p>Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊</p><p>&#x2013; AlexDaniel 2015-09-24 23:17:20</p></div>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Tere tulemast wiki-sse!<br />&gt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&gt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
-lastmajorsummary: Tere tulemast wiki-sse! Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊
-ts: 1443125840
+flags: 01010101010
+blocks: <h2>Sügissemester 2015</h2><p>[[EEA0021]] Arhitektuur<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EMD0021]] Ehitusmehaanika I<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; Tere tulemast wiki-sse!<br />&lt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&lt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
+lastmajorsummary: 
+ts: 1444150376
 minor: 
-host: 82.131.3.43
-username: AlexDaniel
-revision: 3
+host: 86.110.37.246
+username: 
+revision: 4
 diff-major: 1
-summary: Tere tulemast wiki-sse! Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊
+summary: 
 languages: 
 text: == Sügissemester 2015
 	
@@ -22,14 +22,5 @@ text: == Sügissemester 2015
 	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused
 	
 	
-	----
-	
-	Tere tulemast wiki-sse!
-	
-	Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊
-	
-	-- AlexDaniel 2015-09-24 23:17:20
-	
-	
-lastmajor: 3
-keep-ts: 1443125840
+lastmajor: 4
+keep-ts: 1444150376
