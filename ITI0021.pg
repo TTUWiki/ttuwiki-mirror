@@ -1,49 +1,38 @@
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li><a class="url http outside" href="https://courses.cs.ttu.ee/pages/ITI0021">Wiki</a></li><li>[Moodle:5901 Moodle]</li></ul><p>&#x2013; AlexDaniel 2015-09-03 10:51:12</p></div><div class="userComment"><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>&#x2013; AlexDaniel 2015-09-03 14:02:26</p></div><div class="userComment"><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>&#x2013; AlexDaniel 2015-09-04 22:38:09</p></div><div class="userComment"><p><a class="url http" href="http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc">http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</a></p><p>&#x2013; AlexDaniel 2015-09-26 14:31:13</p></div>
-lastmajorsummary: http://193.40.251.102/tiki-index.php?page=ITI0020&offset=&sort_mode=comment_desc
+blocks: <h2>Materials</h2><ul><li><a class="url http outside" href="https://courses.cs.ttu.ee/pages/ITI0021">Wiki</a></li><li>[Moodle:5901 Moodle]</li></ul><h2>Примечания</h2><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>Еще есть какие-то старые материалы: <a class="url http" href="http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc">http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</a></p>
+lastmajorsummary: Page refactoring
 ip: 89.235.235.166
 diff-major: 1
-summary: http://193.40.251.102/tiki-index.php?page=ITI0020&offset=&sort_mode=comment_desc
-languages: 
+summary: Page refactoring
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
-	
+	== Materials
 	* [https://courses.cs.ttu.ee/pages/ITI0021 Wiki]
 	* [Moodle:5901 Moodle]
 	
-	-- AlexDaniel 2015-09-03 10:51:12
-	
-	
-	----
-	
+	== Примечания
 	На первой лекции просто болтовня про правила игры, через 50 минут отпускает.
-	
-	-- AlexDaniel 2015-09-03 14:02:26
-	
-	
-	----
 	
 	Вместо старого https://moodle.hitsa.ee/ используется https://ained.ttu.ee/. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на https://ained.ttu.ee/course/ и там находите предмет.
 	
-	-- AlexDaniel 2015-09-04 22:38:09
+	Еще есть какие-то старые материалы: http://193.40.251.102/tiki-index.php?page=ITI0020&offset=&sort_mode=comment_desc
 	
 	
-	----
 	
-	http://193.40.251.102/tiki-index.php?page=ITI0020&offset=&sort_mode=comment_desc
-	
-	-- AlexDaniel 2015-09-26 14:31:13
-	
-	
-lastmajor: 10
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc<br />&gt; -- AlexDaniel 2015-09-26 14:31:13</p></div>
-flags: 0100
-ts: 1443267074
+languages: 
+lastmajor: 11
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Materials</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015-09-03 10:51:12<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Примечания</strong></p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; -- AlexDaniel 2015-09-03 14:02:26<br />&lt; ----</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015</strong>-<strong class="changes">09-04 22:38</strong>:<strong class="changes">09<br />&lt; ----</strong><br />&lt; http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-26 14:31:13</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Еще есть какие</strong>-<strong class="changes">то старые материалы</strong>: http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</p></div>
+flags: 010
+ts: 1444254307
 minor: 
+host: 85.253.111.195
 username: AlexDaniel
-host: 82.131.3.43
-revision: 10
-keep-ts: 1443267074
+revision: 11
+keep-ts: 1444254307
