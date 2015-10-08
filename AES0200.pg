@@ -1,8 +1,9 @@
-blocks: <h3>Õppematerjal</h3><p><a class="url http outside" href="https://www.energia.ee/et/koostoo-oppeasutustega">Õppematerjal</a></p><h4>Upcoming events</h4><table class="user"><tr><td align="center"><strong>14.Oktoober</strong></td><td>Innar Kaasik - Eesti Energia, taastuvenergia ja väikekoostootmise juht.<br /> Taastuvenergia ja jäätmemajanduse roll energiamajanduses. Soojusäri  <br /> väljakutsed.</td></tr></table>
+blocks: <h3>Õppematerjal</h3><p><a class="url http outside" href="https://www.energia.ee/et/koostoo-oppeasutustega">Õppematerjal</a></p><h4>Upcoming events</h4><table class="user"><tr><td align="center"><strong>14.Oktoober</strong></td><td>Innar Kaasik - Eesti Energia, taastuvenergia ja väikekoostootmise juht.<br /> Taastuvenergia ja jäätmemajanduse roll energiamajanduses. <strong>Soojusäri</strong><br /> väljakutsed.</td></tr></table>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -14,19 +15,18 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	====Upcoming events
 	
 	| **14.Oktoober** |Innar Kaasik - Eesti Energia, taastuvenergia ja väikekoostootmise juht.
-	               Taastuvenergia ja jäätmemajanduse roll energiamajanduses. Soojusäri  
+	               Taastuvenergia ja jäätmemajanduse roll energiamajanduses. **Soojusäri**  
 	                väljakutsed.
 	
 	
-languages: 
-lastmajor: 10
+lastmajor: 11
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; **14.<strong class="changes">10</strong>** Innar Kaasik - Eesti Energia, taastuvenergia ja väikekoostootmise juht.<br />&lt; Taastuvenergia ja jäätmemajanduse roll energiamajanduses. Soojusäri väljakutsed.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">|</strong> **14.<strong class="changes">Oktoober</strong>** <strong class="changes">|</strong>Innar Kaasik - Eesti Energia, taastuvenergia ja väikekoostootmise juht.<br />&gt;                Taastuvenergia ja jäätmemajanduse roll energiamajanduses. Soojusäri  <br />&gt;                 väljakutsed.</p></div>
+	<div class="old"><p>&lt;                Taastuvenergia ja jäätmemajanduse roll energiamajanduses. Soojusäri  </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;                Taastuvenergia ja jäätmemajanduse roll energiamajanduses. <strong class="changes">**</strong>Soojusäri<strong class="changes">**</strong>  </p></div>
 flags: 0
-ts: 1444284100
+ts: 1444284138
 minor: 
-host: 86.110.37.246
 username: Ain_Laidoja
-revision: 10
-keep-ts: 1444284100
+host: 86.110.37.246
+revision: 11
+keep-ts: 1444284138
