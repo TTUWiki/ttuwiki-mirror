@@ -1,13 +1,14 @@
-flags: 0101010101010101010101010101010101010
-blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #[[RAS0050]] Kütuste klassifitseerimine ja standardimine</p></div>
+flags: 010101010101010101010101010101010101010
+blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #[[HLX8040]] -	Teadusvõõrkeel</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #[[HLX8040]] -	Teadusvõõrkeel   <strong class="changes">mis on tegelikult [[HLI8750]]</strong></p></div>
 lastmajorsummary: 
-ts: 1444025588
+ts: 1444328308
 minor: 
 host: 86.110.37.246
 username: Ain_Laidoja
-revision: 11
+revision: 12
 diff-major: 1
 summary: 
 languages: 
@@ -28,7 +29,7 @@ text: == Sügissemester 2015
 	#[[MXX0040]] -Magistriseminar
 	#[[MSJ0340]] -	Põlevkivi termilise töötlemise tehnoloogiad
 	#[[MSJ0060]] -	Soojuselektrijaamad
-	#[[HLX8040]] -	Teadusvõõrkeel
+	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]]
 	#[[TTO3160]] -	Õigusõpetus
 	
 	==Lisaks:
@@ -38,5 +39,5 @@ text: == Sügissemester 2015
 	#[[RAS0070]] Kütusetööstuse protsessid
 	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
 	
-lastmajor: 11
-keep-ts: 1444025588
+lastmajor: 12
+keep-ts: 1444328308
