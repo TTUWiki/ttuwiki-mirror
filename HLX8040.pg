@@ -1,9 +1,8 @@
-blocks: <h2>Course material</h2><p>Course material is handed over during lessons.<br />There is no proper course material available for download. Some help is in <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=2880">Moodle</a>, but Moodle itself is real agony</p><h2>Upcoming Events</h2><ul><li>Last Lesson is hold on <strong>Nov. 12th</strong><br /></li><li>Informative presentation either <strong>19 or 23 or 26th November</strong></li></ul><h2>Examination</h2><p>Examination is well described <a class="url http outside" href="http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf">here</a></p>
+blocks: <h2>Course material</h2><p>Course material is handed over during lessons.<br />There is no proper course material available for download. Some help is in <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=2880">Moodle</a>, but Moodle itself is real agony</p><h2>Upcoming Events</h2><ul><li>Last Lesson is hold on <strong>Nov. 12th</strong><br /></li><li>Informative presentation either <strong>19 or 23 or 26th November</strong></li></ul><h2>Examination</h2><p>Examination procedure is well described <a class="url http outside" href="http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf">here</a></p>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Teadusvõõrkeel
 	#SUBURL [Course:30760 〔Õppeaine ÕIS-is〕]
 	
@@ -20,16 +19,17 @@ text: #SUBTITLE Teadusvõõrkeel
 	
 	==Examination
 	
-	Examination is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
+	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-lastmajor: 7
+languages: 
+lastmajor: 8
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; There is no proper course material available. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Course material is handed over during lessons.</strong><br />&gt; There is no proper course material available <strong class="changes">for download</strong>. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony</p></div>
+	<div class="old"><p>&lt; Examination is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Examination <strong class="changes">procedure</strong> is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]</p></div>
 flags: 0
-ts: 1444327823
+ts: 1444327847
 minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 7
-keep-ts: 1444327823
+username: Ain_Laidoja
+revision: 8
+keep-ts: 1444327847
