@@ -1,9 +1,8 @@
-blocks: <h2>Course material</h2><p>There is no proper course material available. Some help is in <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=2880">Moodle</a>, but Moodle itself is real agony</p><h2>Upcoming Events</h2><ul><li>Last Lesson is hold on <strong>Nov. 12th</strong><br /></li><li>Informative presentation either <strong>19 or 23 or 26th November</strong></li></ul><h2>Examination</h2>
+blocks: <h2>Course material</h2><p>There is no proper course material available. Some help is in <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=2880">Moodle</a>, but Moodle itself is real agony</p><h2>Upcoming Events</h2><ul><li>Last Lesson is hold on <strong>Nov. 12th</strong><br /></li><li>Informative presentation either <strong>19 or 23 or 26th November</strong></li></ul><h2>Examination</h2><p>Examination is well described <a class="url http outside" href="http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf">here</a></p>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Teadusvõõrkeel
 	#SUBURL [Course:30760 〔Õppeaine ÕIS-is〕]
 	
@@ -20,15 +19,16 @@ text: #SUBTITLE Teadusvõõrkeel
 	
 	==Examination
 	
+	Examination is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Course material<br />&gt; There is no proper course material available</strong>. <strong class="changes">Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony<br />&gt; ==Upcoming Events<br />&gt; *Last Lesson is hold on **Nov. 12th**<br />&gt; *Informative presentation either **19 or 23 or 26th November**<br />&gt; ==Examination</strong></p></div>
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Examination is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]</p></div>
 flags: 0
-ts: 1444327433
+ts: 1444327739
 minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 5
-keep-ts: 1444327433
+username: Ain_Laidoja
+revision: 6
+keep-ts: 1444327739
