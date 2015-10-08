@@ -1,8 +1,9 @@
-blocks: <h2>Õppematerjal</h2><p><a class="url http outside" href="http://velar.ee/mse0260-hajaobjekti-projekt">Õppeaine koduleht</a></p><h2>Кirjandus</h2><h2>Upcoming events</h2><p><strong>12.10</strong> Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p>
+blocks: <h2>Õppematerjal</h2><p><a class="url http outside" href="http://velar.ee/mse0260-hajaobjekti-projekt">Õppeaine koduleht</a></p><h2>Кirjandus</h2><h2>Upcoming events</h2><p><strong>12.10 19:15</strong> Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Hajaobjekti projekt
 	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	
@@ -14,16 +15,16 @@ text: #SUBTITLE Hajaobjekti projekt
 	 
 	==Upcoming events
 	
-	**12.10** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel
+	**12.10 19:15** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel
 	
-languages: 
-lastmajor: 7
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; **12.10** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p></div>
+lastmajor: 8
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; **12.10** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; **12.10 <strong class="changes">19:15</strong>** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p></div>
 flags: 0
-ts: 1444283747
+ts: 1444283891
 minor: 
+username: Ain_Laidoja
 host: 86.110.37.246
-username: 
-revision: 7
-keep-ts: 1444283747
+revision: 8
+keep-ts: 1444283891
