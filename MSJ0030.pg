@@ -1,9 +1,8 @@
-blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><p>&#x2026;</p><h4>Upcoming events</h4><ol><li>Kodutöö esitamise tähtaeg <strong>2015-11-13 16:00</strong></li></ol>
+blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><p>&#x2026;</p><h4>Upcoming events</h4><ol><li><strong>30.Oktoober</strong> Meelis Eltermann loeng CO2 teemal</li><li>Kodutöö esitamise tähtaeg <strong>2015-11-13 16:00</strong></li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
 	
@@ -14,16 +13,17 @@ text: #SUBTITLE Loodushoid energeetikas
 	...
 	
 	====Upcoming events
+	# **30.Oktoober** Meelis Eltermann loeng CO2 teemal
 	#Kodutöö esitamise tähtaeg **2015-11-13 16:00**
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">===Õppematerjal<br />&gt; ...<br />&gt; ===Кirjandus<br />&gt; ...<br />&gt; ====Upcoming events<br />&gt; #Kodutöö esitamise tähtaeg **2015-11-13 16:00**</strong></p></div>
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; # **30.Oktoober** Meelis Eltermann loeng CO2 teemal</p></div>
 flags: 0
-ts: 1444045268
+ts: 1444396048
 minor: 
-username: Ain_Laidoja
 host: 193.40.244.196
-revision: 5
-keep-ts: 1444045268
+username: Ain_Laidoja
+revision: 6
+keep-ts: 1444396048
