@@ -1,8 +1,9 @@
-blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">jako.kilter@ttu.ee</a>] ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu  <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">e-mailile</a></li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b1053792*est">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li><li>week 46or 47 alajaama külastus</li></ol>
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">jako.kilter@ttu.ee</a>] ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu  <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">e-mailile</a></li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b1053792*est">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2347094*est">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li><li><strong>week 46 or 47</strong> alajaama külastus</li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -21,16 +22,16 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b1053792*est Elektrivõrgud]Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.
 	#[http://www.ester.ee/record=b2347094*est Jaotusvõrgud] Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
-	# week 46or 47 alajaama külastus
+	# **week 46 or 47** alajaama külastus
 	
-languages: 
-lastmajor: 12
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; # week 46or 47 alajaama külastus</p></div>
+lastmajor: 13
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; # week <strong class="changes">46or</strong> 47 alajaama külastus</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; # <strong class="changes">**</strong>week <strong class="changes">46 or</strong> 47<strong class="changes">**</strong> alajaama külastus</p></div>
 flags: 010
-ts: 1444388816
+ts: 1444388843
 minor: 
-host: 193.40.244.196
 username: Ain_Laidoja
-revision: 12
-keep-ts: 1444388816
+host: 193.40.244.196
+revision: 13
+keep-ts: 1444388843
