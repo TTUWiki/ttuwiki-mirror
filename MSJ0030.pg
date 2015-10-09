@@ -1,8 +1,9 @@
-blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><p>&#x2026;</p><h4>Upcoming events</h4><ol><li><strong>30.Oktoober</strong> Meelis Eltermann loeng CO2 teemal</li><li>Kodutöö esitamise tähtaeg <strong>2015-11-13 16:00</strong></li></ol>
+blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2774663*est">Kliimapettus</a></li></ol><h4>Upcoming events</h4><ol><li><strong>2015-10-30</strong> - <a class="url http outside" href="http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond">Meelis Eldermann'i</a> loeng CO2 teemal</li><li><strong>2015-11-13 16:00</strong> - Kodutöö esitamise tähtaeg </li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
+languages: 
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
 	
@@ -10,20 +11,22 @@ text: #SUBTITLE Loodushoid energeetikas
 	...
 	
 	===Кirjandus
-	...
+	# [http://www.ester.ee/record=b2774663*est Kliimapettus]
 	
 	====Upcoming events
-	# **30.Oktoober** Meelis Eltermann loeng CO2 teemal
-	#Kodutöö esitamise tähtaeg **2015-11-13 16:00**
+	# **2015-10-30** - [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond Meelis Eldermann'i] loeng CO2 teemal
+	#**2015-11-13 16:00** - Kodutöö esitamise tähtaeg 
 	
-languages: 
-lastmajor: 6
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; # **30.Oktoober** Meelis Eltermann loeng CO2 teemal</p></div>
+lastmajor: 7
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">...</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"># [http://www.ester.ee/record=b2774663*est Kliimapettus]</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; # **30<strong class="changes">.Oktoober</strong>** Meelis <strong class="changes">Eltermann</strong> loeng CO2 teemal<br />&lt; <strong class="changes">#Kodutöö esitamise tähtaeg **</strong>2015-11-13 16:00**</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; # **<strong class="changes">2015-10-</strong>30** <strong class="changes">- [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond</strong> Meelis <strong class="changes">Eldermann'i]</strong> loeng CO2 teemal<br />&gt; <strong class="changes">#**</strong>2015-11-13 16:00** <strong class="changes">- Kodutöö esitamise tähtaeg</strong> </p></div>
 flags: 0
-ts: 1444396048
+ts: 1444409334
 minor: 
-host: 193.40.244.196
 username: Ain_Laidoja
-revision: 6
-keep-ts: 1444396048
+host: 86.110.37.246
+revision: 7
+keep-ts: 1444409334
