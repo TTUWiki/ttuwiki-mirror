@@ -1,18 +1,19 @@
 flags: 010101010101010101010101010101010101010
-blocks: <h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol><h2>Abiks Viki kirjutamisel</h2><table class="user"><tr><th>Kirjutad vikisse</th><th>Kuvatakse vikis</th></tr><tr><td align="center"><code>text == Suur pealikiri </code></td><td align="right">==Suur pealkiri</td></tr><tr><td align="center"><code>text **rasvane kiri </code></td><td align="right"><strong>rasvane kiri</strong></td></tr><tr><td align="center"><code>text //kaldkiri </code></td><td align="right"><em>kaldkiri</em></td></tr></table>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; | {{{text **rasvane kiri }}} | <strong class="changes">*</strong>rasvane kiri</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; | {{{text **rasvane kiri }}} | <strong class="changes">**</strong>rasvane kiri</p></div>
+blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja">kodulehekülg</a></p><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol><h2>Abiks Viki kirjutamisel</h2><table class="user"><tr><th>Kirjutad vikisse</th><th>Kuvatakse vikis</th></tr><tr><td align="center"><code>text == Suur pealikiri </code></td><td align="right">==Suur pealkiri</td></tr><tr><td align="center"><code>text **rasvane kiri </code></td><td align="right"><strong>rasvane kiri</strong></td></tr><tr><td align="center"><code>text //kaldkiri </code></td><td align="right"><em>kaldkiri</em></td></tr></table>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]</p></div>
 lastmajorsummary: 
-ts: 1444456017
+ts: 1444463052
 minor: 
 host: 86.110.37.246
 username: Ain_Laidoja
-revision: 15
+revision: 16
 diff-major: 1
 summary: 
 languages: 
-text: == Sügissemester 2015
+text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
+	
+	== Sügissemester 2015
 	
 	
 	==Õppeained:
@@ -47,5 +48,5 @@ text: == Sügissemester 2015
 	| {{{text //kaldkiri }}} | //kaldkiri
 	
 	
-lastmajor: 15
-keep-ts: 1444456017
+lastmajor: 16
+keep-ts: 1444463052
