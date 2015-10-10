@@ -9,24 +9,28 @@ blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web
 	|Text text text text text|Text text text text text|Text text text text text|
 	| Text Center | Text Right|Text Left |
 	</pre></div>
-	<p>Kuvatakse vikis:<br /></p><table class="user"><tr><th>Päis1 Left </th><th align="right">Päis1 Right</th><th align="center">Päis1 Center </th></tr><tr><td>Text text text text text</td><td>Text text text text text</td><td>Text text text text text</td></tr><tr><td align="center">Text Center </td><td align="right">Text Right</td><td>Text Left </td></tr></table><h3>Kood</h3><p>Kirjutad vikisse:<br /><code>{{{</code><br /><code>print(&#x2019;hello world&#x2019;);</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><div class="highlight"><pre><span style="color: #008000; font-weight: bold">print</span>(<span style="color: #BA2121">&#39;hello world&#39;</span>);
+	<p>Kuvatakse vikis:<br /></p><table class="user"><tr><th>Päis1 Left </th><th align="right">Päis1 Right</th><th align="center">Päis1 Center </th></tr><tr><td>Text text text text text</td><td>Text text text text text</td><td>Text text text text text</td></tr><tr><td align="center">Text Center </td><td align="right">Text Right</td><td>Text Left </td></tr></table><h3>Kood</h3><p>Kirjutad vikisse:<br /><code>{{{</code><br /><code>print('hello world');</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><div class="highlight"><pre><span style="color: #008000; font-weight: bold">print</span>(<span style="color: #BA2121">&#39;hello world&#39;</span>);
 	</pre></div>
-	<p>If autodetection does not work, then you have to specify your language manually.<br />Kirjutad vikisse:<br /><code>{{{python</code><br /><code>print(&#x2019;hello world&#x2019;);</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><div class="highlight"><pre><span style="color: #008000; font-weight: bold">print</span>(<span style="color: #BA2121">&#39;hello world&#39;</span>);
+	<p>If autodetection does not work, then you have to specify your language manually.<br />Kirjutad vikisse:<br /><code>{{{python</code><br /><code>print('hello world');</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><div class="highlight"><pre><span style="color: #008000; font-weight: bold">print</span>(<span style="color: #BA2121">&#39;hello world&#39;</span>);
 	</pre></div>
 	<p>If you want to display just text without syntax highlighting, then use <code>{{{text</code></p>
-diff-minor: <p><strong>Deleted:</strong></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">##{{{##<br />&lt; ##</strong>print('hello world<strong class="changes">');##<br />&lt; ##}}}##</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">{{{{{{}}}<br />&gt; {{{</strong>print('hello world<strong class="changes">');}}}<br />&gt; {{{}}}}}}</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">##{{{</strong>python<strong class="changes">##<br />&lt; ##</strong>print('hello world<strong class="changes">');##<br />&lt; ##}}}##</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">{{{{{{</strong>python<strong class="changes">}}}<br />&gt; {{{</strong>print('hello world<strong class="changes">');}}}<br />&gt; {{{}}}}}}</strong></p></div>
+lastmajorsummary: Tabel + stuff, pealkirjad kahjuks ei saa olla tabelis
+ts: 1444475578
+minor: 1
+host: 85.253.111.195
+username: AlexDaniel
+revision: 19
+diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; | {{{== Suur pealikiri}}}  | Suur pealkiri |</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ==Pealkirjad<br />&gt; Kirjutad vikisse:<br />&gt; {{{<br />&gt; == Suur pealikiri<br />&gt; === Pealikiri<br />&gt; ==== Pealikiri<br />&gt; ===== Pealikiri<br />&gt; ====== Pealikiri<br />&gt; }}}<br />&gt; Kuvatakse vikis:<br />&gt; == Suur pealikiri<br />&gt; === Pealikiri<br />&gt; ==== Pealikiri<br />&gt; ===== Pealikiri<br />&gt; ====== Pealikiri</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Kuvatakse vikis</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Kuvatakse vikis<strong class="changes">:</strong></p></div>
-lastmajorsummary: Tabel + stuff, pealkirjad kahjuks ei saa olla tabelis
-ts: 1444475186
-minor: 
-host: 85.253.111.195
-username: AlexDaniel
-revision: 18
-diff-major: 1
-summary: Tabel + stuff, pealkirjad kahjuks ei saa olla tabelis
+summary: {{{ }}}
 languages: 
 text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
@@ -109,9 +113,9 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	===Kood
 	Kirjutad vikisse:
-	##{{{##
-	##print('hello world');##
-	##}}}##
+	{{{{{{}}}
+	{{{print('hello world');}}}
+	{{{}}}}}}
 	
 	Kuvatakse vikis:
 	{{{
@@ -120,9 +124,9 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	If autodetection does not work, then you have to specify your language manually.
 	Kirjutad vikisse:
-	##{{{python##
-	##print('hello world');##
-	##}}}##
+	{{{{{{python}}}
+	{{{print('hello world');}}}
+	{{{}}}}}}
 	
 	Kuvatakse vikis:
 	{{{python
@@ -133,4 +137,4 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	
 lastmajor: 18
-keep-ts: 1444475186
+keep-ts: 1444475578
