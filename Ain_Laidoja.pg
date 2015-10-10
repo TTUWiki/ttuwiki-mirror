@@ -1,5 +1,5 @@
 flags: 0101010101010101010101010101010101010101010101010
-blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja">kodulehekülg</a></p><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol><h2>Abiks Viki kirjutamisel</h2><table class="user"><tr><th align="center">Kirjutad vikisse </th><th align="center">Kuvatakse vikis </th></tr><tr><td align="center"><code>rasvane kiri</code></td><td align="center"><strong>rasvane kiri</strong></td></tr><tr><td align="center"><code>//kaldkiri//</code></td><td align="center"><em>kaldkiri</em></td></tr></table><h2>Pealkirjad</h2><p>Kirjutad vikisse:<br /></p><div class="highlight"><pre><span style="color: #666666">==</span> Suur pealikiri
+blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja">kodulehekülg</a></p><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol><h2>Abiks Viki kirjutamisel</h2><table class="user"><tr><th align="center">Kirjutad vikisse </th><th align="center">Kuvatakse vikis </th></tr><tr><td align="center"><code>**rasvane kiri**</code></td><td align="center"><strong>rasvane kiri</strong></td></tr><tr><td align="center"><code>//kaldkiri//</code></td><td align="center"><em>kaldkiri</em></td></tr></table><h2>Pealkirjad</h2><p>Kirjutad vikisse:<br /></p><div class="highlight"><pre><span style="color: #666666">==</span> Suur pealikiri
 	<span style="color: #666666">===</span> Pealikiri
 	<span style="color: #666666">====</span> Pealikiri
 	<span style="color: #666666">=====</span> Pealikiri
@@ -15,22 +15,20 @@ blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web
 	</pre></div>
 	<p>If you want to display just text without syntax highlighting, then use <code>{{{text</code></p>
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">##{{{##<br />&lt; ##</strong>print('hello world<strong class="changes">');##<br />&lt; ##}}}##</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">{{{{{{}}}<br />&gt; {{{</strong>print('hello world<strong class="changes">');}}}<br />&gt; {{{}}}}}}</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">##{{{</strong>python<strong class="changes">##<br />&lt; ##</strong>print('hello world<strong class="changes">');##<br />&lt; ##}}}##</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">{{{{{{</strong>python<strong class="changes">}}}<br />&gt; {{{</strong>print('hello world<strong class="changes">');}}}<br />&gt; {{{}}}}}}</strong></p></div>
+	<div class="old"><p>&lt; | <strong class="changes">{{{</strong>rasvane kiri<strong class="changes">}}}</strong> | **rasvane kiri** |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | <strong class="changes">{{{**</strong>rasvane kiri<strong class="changes">**}}}</strong> | **rasvane kiri** |</p></div>
 lastmajorsummary: Tabel + stuff, pealkirjad kahjuks ei saa olla tabelis
-ts: 1444475578
+ts: 1444489902
 minor: 1
 host: 85.253.111.195
 username: AlexDaniel
-revision: 19
+revision: 20
 diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; | {{{== Suur pealikiri}}}  | Suur pealkiri |</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ==Pealkirjad<br />&gt; Kirjutad vikisse:<br />&gt; {{{<br />&gt; == Suur pealikiri<br />&gt; === Pealikiri<br />&gt; ==== Pealikiri<br />&gt; ===== Pealikiri<br />&gt; ====== Pealikiri<br />&gt; }}}<br />&gt; Kuvatakse vikis:<br />&gt; == Suur pealikiri<br />&gt; === Pealikiri<br />&gt; ==== Pealikiri<br />&gt; ===== Pealikiri<br />&gt; ====== Pealikiri</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Kuvatakse vikis</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Kuvatakse vikis<strong class="changes">:</strong></p></div>
-summary: {{{ }}}
+summary: rasvane kiri
 languages: 
 text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
@@ -64,7 +62,7 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	==Abiks Viki kirjutamisel
 	
 	|= Kirjutad vikisse |= Kuvatakse vikis |
-	| {{{rasvane kiri}}} | **rasvane kiri** |
+	| {{{**rasvane kiri**}}} | **rasvane kiri** |
 	| {{{//kaldkiri//}}} | //kaldkiri// |
 	
 	==Pealkirjad
@@ -137,4 +135,4 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	
 lastmajor: 18
-keep-ts: 1444475578
+keep-ts: 1444489902
