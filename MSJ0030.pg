@@ -1,14 +1,13 @@
-blocks: <h3>Õppematerjal</h3><p>&#x2026;</p><h3>Кirjandus</h3><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2774663*est">Kliimapettus</a></li></ol><h4>Upcoming events</h4><ol><li><strong>2015-10-30</strong> - <a class="url http outside" href="http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond">Meelis Eldermann'i</a> loeng CO2 teemal</li><li><strong>2015-11-13 16:00</strong> - Kodutöö esitamise tähtaeg </li></ol>
+blocks: <h3>Õppematerjal</h3><ol><li>Kasvuhoonegaaside levimise vähendamine - riigikogulase arvamus. <a class="url http outside" href="http://tv.delfi.ee/varia/ekspressi-video-igor-grazin-divesinikmonooksiidi-leviku-takistamisest.d?id=69759267">Igor Gräzin divesinikmonooksiidi leviku takistamisest</a></li></ol><h3>Кirjandus</h3><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2774663*est">Kliimapettus</a></li></ol><h4>Upcoming events</h4><ol><li><strong>2015-10-30</strong> - <a class="url http outside" href="http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond">Meelis Eldermann'i</a> loeng CO2 teemal</li><li><strong>2015-11-13 16:00</strong> - Kodutöö esitamise tähtaeg </li></ol>
 lastmajorsummary: 
 ip: 89.235.235.166
 diff-major: 1
 summary: 
-languages: 
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
 	
 	===Õppematerjal
-	...
+	# Kasvuhoonegaaside levimise vähendamine - riigikogulase arvamus.  [http://tv.delfi.ee/varia/ekspressi-video-igor-grazin-divesinikmonooksiidi-leviku-takistamisest.d?id=69759267 Igor Gräzin divesinikmonooksiidi leviku takistamisest]
 	
 	===Кirjandus
 	# [http://www.ester.ee/record=b2774663*est Kliimapettus]
@@ -17,16 +16,15 @@ text: #SUBTITLE Loodushoid energeetikas
 	# **2015-10-30** - [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond Meelis Eldermann'i] loeng CO2 teemal
 	#**2015-11-13 16:00** - Kodutöö esitamise tähtaeg 
 	
-lastmajor: 7
+languages: 
+lastmajor: 8
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">...</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"># [http://www.ester.ee/record=b2774663*est Kliimapettus]</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; # **30<strong class="changes">.Oktoober</strong>** Meelis <strong class="changes">Eltermann</strong> loeng CO2 teemal<br />&lt; <strong class="changes">#Kodutöö esitamise tähtaeg **</strong>2015-11-13 16:00**</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; # **<strong class="changes">2015-10-</strong>30** <strong class="changes">- [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond</strong> Meelis <strong class="changes">Eldermann'i]</strong> loeng CO2 teemal<br />&gt; <strong class="changes">#**</strong>2015-11-13 16:00** <strong class="changes">- Kodutöö esitamise tähtaeg</strong> </p></div>
+	<div class="new"><p>&gt; <strong class="changes"># Kasvuhoonegaaside levimise vähendamine - riigikogulase arvamus.  [http://tv.delfi.ee/varia/ekspressi-video-igor-grazin-divesinikmonooksiidi-leviku-takistamisest.d?id=69759267 Igor Gräzin divesinikmonooksiidi leviku takistamisest]</strong></p></div>
 flags: 0
-ts: 1444409334
+ts: 1444459415
 minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 7
-keep-ts: 1444409334
+username: Ain_Laidoja
+revision: 8
+keep-ts: 1444459415
