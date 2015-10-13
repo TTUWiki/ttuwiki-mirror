@@ -1,11 +1,22 @@
-blocks: <h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
+host: 82.131.4.24
+flags: 01010
+lastmajorsummary: Moved to Ask
+keep-ts: 1444705215
+summary: Moved to Ask
+username: AlexDaniel
+revision: 4
+blocks: <p>DeletedPage</p><h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
 	<h2>Задать вопрос</h2><p>Здесь вы можете задать любой вопрос.</p><p>Все вопросы видны на [[Вопросы|отдельной странице]].</p>
-lastmajorsummary: Вопросы перенесены сюда
-ip: 89.235.239.240
-summary: Вопросы перенесены сюда
-diff-major: 1
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
 languages: 
-text: == Последний вопрос
+lastmajor: 4
+minor: 
+ip: 89.235.239.240
+diff-major: 1
+text: DeletedPage
+	
+	== Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
 	
@@ -16,15 +27,4 @@ text: == Последний вопрос
 	Все вопросы видны на [[Вопросы|отдельной странице]].
 	
 	
-lastmajor: 3
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; == Последний вопрос<br />&gt; &lt;Journal 1,10 "^Вопрос_\d+"&gt;<br />&gt; == Задать вопрос</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Он будет виден</strong> на <strong class="changes">главной</strong> странице<strong class="changes">.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Все вопросы видны</strong> на <strong class="changes">[[Вопросы|отдельной</strong> странице<strong class="changes">]].</strong></p></div>
-flags: 01010
-ts: 1441903640
-minor: 
-host: 82.131.7.230
-username: AlexDaniel
-revision: 3
-keep-ts: 1441903640
+ts: 1444705215
