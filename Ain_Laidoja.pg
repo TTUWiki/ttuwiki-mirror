@@ -1,13 +1,23 @@
-username: 
-ts: 1444736667
-summary: Wiki cheatsheet moved to Formatting
+summary: Russian
+blocks: <p>Minu TTÜ <a href="http://www.tud.ttu.ee/web/Ain.Laidoja" class="url http outside">kodulehekülg</a></p><div class="translation_buttons"><a class="translation" href="#" id="t-2-1-link">ENG</a><a id="t-2-2-link" href="#" class="translation">EST</a><a class="translation" href="#" id="t-2-3-link">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Articles:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Alternatives to expensive District Heating</a></p></div><div class="lang 3" id="t-2-3"><p>Статьи:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Альтернативы дорогому теплоснабжению</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
+lastmajor: 23
+languages: 
+ts: 1444780723
+lastmajorsummary: Russian
+revision: 23
+keep-ts: 1444780723
+host: 82.131.4.24
 text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	#ENG
-	
 	Articles:
 	
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatives to expensive District Heating]
+	
+	#RUS
+	Статьи:
+	
+	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Альтернативы дорогому теплоснабжению]
 	
 	== Sügissemester 2015
 	
@@ -36,15 +46,6 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[RAS0070]] Kütusetööstuse protsessid
 	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
 	
-host: 82.131.4.24
+username: AlexDaniel
 flags: 010101010101010101010101010101010101010
-diff-major: 1
-lastmajorsummary: Wiki cheatsheet moved to Formatting
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ==Abiks Viki kirjutamisel<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{**rasvane kiri**}}} | **rasvane kiri** |<br />&lt; | {{{//kaldkiri//}}} | //kaldkiri// |<br />&lt; ==Pealkirjad<br />&lt; Kirjutad vikisse:<br />&lt; {{{<br />&lt; == Suur pealikiri<br />&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; }}}<br />&lt; Kuvatakse vikis:<br />&lt; == Suur pealikiri<br />&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; ==Lingid<br />&lt; …<br />&lt; ==Intermap<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{Moodle:1420}}}  | Moodle:1420 |<br />&lt; | {{{NewMoodle:3}}} | NewMoodle:3 |<br />&lt; You can also use these shortcuts with any other link pattern.<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3] |<br />&lt; | {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3 Aine Moodle-is] |<br />&lt; | {{{[[NewMoodle:3|Aine Moodle-is]]}}} | [[NewMoodle:3|Aine Moodle-is]] |<br />&lt; ===Tabel<br />&lt; Kirjutad vikisse:<br />&lt; {{{text<br />&lt; |=Päis1 Left |= Päis1 Right|= Päis1 Center |<br />&lt; |Text text text text text|Text text text text text|Text text text text text|<br />&lt; | Text Center | Text Right|Text Left |<br />&lt; }}}<br />&lt; Kuvatakse vikis:<br />&lt; |=Päis1 Left |= Päis1 Right|= Päis1 Center |<br />&lt; |Text text text text text|Text text text text text|Text text text text text|<br />&lt; | Text Center | Text Right|Text Left |<br />&lt; ===Kood<br />&lt; Kirjutad vikisse:<br />&lt; {{{{{{}}}<br />&lt; {{{print('hello world');}}}<br />&lt; {{{}}}}}}<br />&lt; Kuvatakse vikis:<br />&lt; {{{<br />&lt; print('hello world');<br />&lt; }}}<br />&lt; If autodetection does not work, then you have to specify your language manually.<br />&lt; Kirjutad vikisse:<br />&lt; {{{{{{python}}}<br />&lt; {{{print('hello world');}}}<br />&lt; {{{}}}}}}<br />&lt; Kuvatakse vikis:<br />&lt; {{{python<br />&lt; print('hello world');<br />&lt; }}}<br />&lt; If you want to display just text without syntax highlighting, then use ##{{{text##</p></div>
 minor: 
-languages: 
-lastmajor: 22
-blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja">kodulehekülg</a></p><div class="translation_buttons"><a class="translation" id="t-2-1-link" href="#">ENG</a><a href="#" class="translation" id="t-2-2-link">EST</a><a id="t-2-3-link" class="translation" href="#">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Articles:</p><p><a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf">Alternatives to expensive District Heating</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
-revision: 22
-keep-ts: 1444736667
