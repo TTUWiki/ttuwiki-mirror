@@ -1,14 +1,20 @@
-flags: 0
-blocks: <p>Здесь видны последние изменения на сайте</p>
-ip: 89.235.239.240
-ts: 1410880289
-minor: 0
-host: 89.235.230.13
-username: AlexDaniel
-revision: 5
-summary: Откат до 2014-06-13 19:29:23
 languages: 
-text: Здесь видны последние изменения на сайте
+minor: 
+username: AlexDaniel
+keep-ts: 1444705297
+ts: 1444705297
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
+summary: Moved to Recent Changes
+ip: 89.235.239.240
+lastmajor: 6
+host: 82.131.4.24
+flags: 0
+diff-major: 1
+lastmajorsummary: Moved to Recent Changes
+blocks: <p>DeletedPage</p><p>Здесь видны последние изменения на сайте</p>
+revision: 6
+text: DeletedPage
 	
-lastmajor: 5
-keep-ts: 1410880289
+	Здесь видны последние изменения на сайте
+	
