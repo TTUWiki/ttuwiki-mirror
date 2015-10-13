@@ -1,27 +1,6 @@
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #ENG<br />&gt; Articles:<br />&gt; [http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatives to expensive District Heating]</p></div>
-ts: 1444712555
-blocks: <p>Minu TTÜ <a href="http://www.tud.ttu.ee/web/Ain.Laidoja" class="url http outside">kodulehekülg</a></p><div class="translation_buttons"><a href="#" id="t-2-1-link" class="translation">ENG</a><a href="#" class="translation" id="t-2-2-link">EST</a><a class="translation" id="t-2-3-link" href="#">RUS</a></div><div class="translation"><div class="lang 1" id="t-2-1"><p>Articles:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Alternatives to expensive District Heating</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol><h2>Abiks Viki kirjutamisel</h2><table class="user"><tr><th align="center">Kirjutad vikisse </th><th align="center">Kuvatakse vikis </th></tr><tr><td align="center"><code>**rasvane kiri**</code></td><td align="center"><strong>rasvane kiri</strong></td></tr><tr><td align="center"><code>//kaldkiri//</code></td><td align="center"><em>kaldkiri</em></td></tr></table><h2>Pealkirjad</h2><p>Kirjutad vikisse:<br /></p><p><strong>sh: pygmentize: command not found
-	</strong></p><pre>== Suur pealikiri
-	=== Pealikiri
-	==== Pealikiri
-	===== Pealikiri
-	====== Pealikiri</pre><p>Kuvatakse vikis:<br /></p><h2>Suur pealikiri</h2><h3>Pealikiri</h3><h4>Pealikiri</h4><h5>Pealikiri</h5><h6>Pealikiri</h6><h2>Lingid</h2><p>…</p><h2>Intermap</h2><table class="user"><tr><th align="center">Kirjutad vikisse </th><th align="center">Kuvatakse vikis </th></tr><tr><td align="center"><code>Moodle:1420</code></td><td align="center">Moodle:1420</td></tr><tr><td align="center"><code>NewMoodle:3</code></td><td align="center">NewMoodle:3</td></tr></table><p>You can also use these shortcuts with any other link pattern.<br /></p><table class="user"><tr><th align="center">Kirjutad vikisse </th><th align="center">Kuvatakse vikis </th></tr><tr><td align="center"><code>[NewMoodle:3 Aine Moodle-is]</code></td><td align="center">[NewMoodle:3]</td></tr><tr><td align="center"><code>[NewMoodle:3 Aine Moodle-is]</code></td><td align="center">[NewMoodle:3 Aine Moodle-is]</td></tr><tr><td align="right"><code>[[NewMoodle:3|Aine Moodle-is]]</code></td><td align="right">[[NewMoodle:3|Aine Moodle-is]]</td></tr></table><h3>Tabel</h3><p>Kirjutad vikisse:<br /></p><p><strong>sh: pygmentize: command not found
-	</strong></p><pre>|=Päis1 Left |= Päis1 Right|= Päis1 Center |
-	|Text text text text text|Text text text text text|Text text text text text|
-	| Text Center | Text Right|Text Left |</pre><p>Kuvatakse vikis:<br /></p><table class="user"><tr><th>Päis1 Left </th><th align="right">Päis1 Right</th><th align="center">Päis1 Center </th></tr><tr><td>Text text text text text</td><td>Text text text text text</td><td>Text text text text text</td></tr><tr><td align="center">Text Center </td><td align="right">Text Right</td><td>Text Left </td></tr></table><h3>Kood</h3><p>Kirjutad vikisse:<br /><code>{{{</code><br /><code>print('hello world');</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><p><strong>sh: pygmentize: command not found
-	</strong></p><pre>print('hello world');</pre><p>If autodetection does not work, then you have to specify your language manually.<br />Kirjutad vikisse:<br /><code>{{{python</code><br /><code>print('hello world');</code><br /><code>}}}</code></p><p>Kuvatakse vikis:<br /></p><p><strong>sh: pygmentize: command not found
-	</strong></p><pre>print('hello world');</pre><p>If you want to display just text without syntax highlighting, then use <code>{{{text</code></p>
-languages: 
 username: 
-diff-major: 1
-lastmajor: 21
-minor: 
-summary: 
-revision: 21
-keep-ts: 1444712555
-host: 86.110.37.246
-lastmajorsummary: 
+ts: 1444736667
+summary: Wiki cheatsheet moved to Formatting
 text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	#ENG
@@ -57,79 +36,15 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[RAS0070]] Kütusetööstuse protsessid
 	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
 	
-	==Abiks Viki kirjutamisel
-	
-	|= Kirjutad vikisse |= Kuvatakse vikis |
-	| {{{**rasvane kiri**}}} | **rasvane kiri** |
-	| {{{//kaldkiri//}}} | //kaldkiri// |
-	
-	==Pealkirjad
-	Kirjutad vikisse:
-	{{{
-	== Suur pealikiri
-	=== Pealikiri
-	==== Pealikiri
-	===== Pealikiri
-	====== Pealikiri
-	}}}
-	
-	Kuvatakse vikis:
-	== Suur pealikiri
-	=== Pealikiri
-	==== Pealikiri
-	===== Pealikiri
-	====== Pealikiri
-	
-	==Lingid
-	…
-	
-	==Intermap
-	|= Kirjutad vikisse |= Kuvatakse vikis |
-	| {{{Moodle:1420}}}  | Moodle:1420 |
-	| {{{NewMoodle:3}}} | NewMoodle:3 |
-	
-	You can also use these shortcuts with any other link pattern.
-	|= Kirjutad vikisse |= Kuvatakse vikis |
-	| {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3] |
-	| {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3 Aine Moodle-is] |
-	| {{{[[NewMoodle:3|Aine Moodle-is]]}}} | [[NewMoodle:3|Aine Moodle-is]] |
-	
-	===Tabel
-	Kirjutad vikisse:
-	{{{text
-	|=Päis1 Left |= Päis1 Right|= Päis1 Center |
-	|Text text text text text|Text text text text text|Text text text text text|
-	| Text Center | Text Right|Text Left |
-	}}}
-	
-	Kuvatakse vikis:
-	|=Päis1 Left |= Päis1 Right|= Päis1 Center |
-	|Text text text text text|Text text text text text|Text text text text text|
-	| Text Center | Text Right|Text Left |
-	
-	===Kood
-	Kirjutad vikisse:
-	{{{{{{}}}
-	{{{print('hello world');}}}
-	{{{}}}}}}
-	
-	Kuvatakse vikis:
-	{{{
-	print('hello world');
-	}}}
-	
-	If autodetection does not work, then you have to specify your language manually.
-	Kirjutad vikisse:
-	{{{{{{python}}}
-	{{{print('hello world');}}}
-	{{{}}}}}}
-	
-	Kuvatakse vikis:
-	{{{python
-	print('hello world');
-	}}}
-	
-	If you want to display just text without syntax highlighting, then use ##{{{text##
-	
-	
-flags: 0101010101010101010101010101010101010101010101010
+host: 82.131.4.24
+flags: 010101010101010101010101010101010101010
+diff-major: 1
+lastmajorsummary: Wiki cheatsheet moved to Formatting
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ==Abiks Viki kirjutamisel<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{**rasvane kiri**}}} | **rasvane kiri** |<br />&lt; | {{{//kaldkiri//}}} | //kaldkiri// |<br />&lt; ==Pealkirjad<br />&lt; Kirjutad vikisse:<br />&lt; {{{<br />&lt; == Suur pealikiri<br />&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; }}}<br />&lt; Kuvatakse vikis:<br />&lt; == Suur pealikiri<br />&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; ==Lingid<br />&lt; …<br />&lt; ==Intermap<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{Moodle:1420}}}  | Moodle:1420 |<br />&lt; | {{{NewMoodle:3}}} | NewMoodle:3 |<br />&lt; You can also use these shortcuts with any other link pattern.<br />&lt; |= Kirjutad vikisse |= Kuvatakse vikis |<br />&lt; | {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3] |<br />&lt; | {{{[NewMoodle:3 Aine Moodle-is]}}} | [NewMoodle:3 Aine Moodle-is] |<br />&lt; | {{{[[NewMoodle:3|Aine Moodle-is]]}}} | [[NewMoodle:3|Aine Moodle-is]] |<br />&lt; ===Tabel<br />&lt; Kirjutad vikisse:<br />&lt; {{{text<br />&lt; |=Päis1 Left |= Päis1 Right|= Päis1 Center |<br />&lt; |Text text text text text|Text text text text text|Text text text text text|<br />&lt; | Text Center | Text Right|Text Left |<br />&lt; }}}<br />&lt; Kuvatakse vikis:<br />&lt; |=Päis1 Left |= Päis1 Right|= Päis1 Center |<br />&lt; |Text text text text text|Text text text text text|Text text text text text|<br />&lt; | Text Center | Text Right|Text Left |<br />&lt; ===Kood<br />&lt; Kirjutad vikisse:<br />&lt; {{{{{{}}}<br />&lt; {{{print('hello world');}}}<br />&lt; {{{}}}}}}<br />&lt; Kuvatakse vikis:<br />&lt; {{{<br />&lt; print('hello world');<br />&lt; }}}<br />&lt; If autodetection does not work, then you have to specify your language manually.<br />&lt; Kirjutad vikisse:<br />&lt; {{{{{{python}}}<br />&lt; {{{print('hello world');}}}<br />&lt; {{{}}}}}}<br />&lt; Kuvatakse vikis:<br />&lt; {{{python<br />&lt; print('hello world');<br />&lt; }}}<br />&lt; If you want to display just text without syntax highlighting, then use ##{{{text##</p></div>
+minor: 
+languages: 
+lastmajor: 22
+blocks: <p>Minu TTÜ <a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja">kodulehekülg</a></p><div class="translation_buttons"><a class="translation" id="t-2-1-link" href="#">ENG</a><a href="#" class="translation" id="t-2-2-link">EST</a><a id="t-2-3-link" class="translation" href="#">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Articles:</p><p><a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf">Alternatives to expensive District Heating</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
+revision: 22
+keep-ts: 1444736667
