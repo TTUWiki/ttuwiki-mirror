@@ -1,27 +1,17 @@
-flags: 0
-blocks: <h3>Адаптировать сайт под мобильные телефоны</h3><p>Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?</p><p>&#x2013; AlexDaniel 2014-03-17 23:59 UTC</p><h3>Расписания для докторантов</h3><p>&#x2013; AlexDaniel 2015-01-14 00:36:51</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; === Расписания для докторантов <strong class="changes">и заочников</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Расписания для докторантов</p></div>
-ip: 84.52.39.59
-ts: 1423307742
-minor: 
-host: 82.131.3.129
-username: AlexDaniel
-revision: 18
+lastmajor: 19
 diff-major: 1
-summary: Для заочников сделано.
+summary: Content moved to GitHub issues
+text: 
+	
+minor: 
+host: 82.131.4.24
+ip: 84.52.39.59
+lastmajorsummary: Content moved to GitHub issues
+username: 
 languages: 
-text: === Адаптировать сайт под мобильные телефоны
-	Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?
-	
-	-- AlexDaniel 2014-03-17 23:59 UTC
-	
-	
-	=== Расписания для докторантов
-	
-	-- AlexDaniel 2015-01-14 00:36:51
-	
-	
-lastmajor: 18
-keep-ts: 1423307742
+ts: 1444734203
+revision: 19
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== Адаптировать сайт под мобильные телефоны<br />&lt; Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?<br />&lt; -- AlexDaniel 2014-03-17 23:59 UTC<br />&lt; === Расписания для докторантов<br />&lt; -- AlexDaniel 2015-01-14 00:36:51</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"></strong></p></div>
+keep-ts: 1444734203
