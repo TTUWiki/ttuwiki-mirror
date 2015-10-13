@@ -1,13 +1,16 @@
-flags: 010
-blocks: &lt;Journal 10 "^Новость_\d+"&gt;
-lastmajorsummary: Новости сайта теперь здесь
-ts: 1441903868
-minor: 
-host: 82.131.7.230
 username: AlexDaniel
-revision: 1
-summary: Новости сайта теперь здесь
-languages: 
-text: <Journal 10 "^Новость_\d+">
+keep-ts: 1444779766
+ts: 1444779766
+lastmajorsummary: Moved to News
+revision: 2
+blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
+flags: 010
+text: DeletedPage
 	
-lastmajor: 1
+	<Journal 10 "^Новость_\d+">
+	
+minor: 
+lastmajor: 2
+summary: Moved to News
+languages: 
+host: 82.131.4.24
