@@ -1,0 +1,13 @@
+minor: 
+languages: 
+lastmajorsummary: Moved
+summary: Moved
+blocks: &lt;Journal 10 "^Новость_\d+"&gt;
+lastmajor: 1
+text: <Journal 10 "^Новость_\d+">
+	
+username: AlexDaniel
+host: 82.131.4.24
+ts: 1444779775
+revision: 1
+flags: 010
