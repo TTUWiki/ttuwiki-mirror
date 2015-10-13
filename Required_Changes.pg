@@ -1,0 +1,21 @@
+flags: 0
+host: 82.131.4.24
+lastmajor: 1
+blocks: <div class="translation_buttons"><a class="translation" id="t-2-1-link" href="#">ENG</a><a href="#" id="t-2-2-link" class="translation">EST</a><a id="t-2-3-link" class="translation" href="#">RUS</a></div><div class="translation"><div id="t-2-1" class="lang 1"><p>If you have found some bug on this website, please create a new <a href="https://github.com/TTUWiki/ttuwiki-website/issues" class="url http outside">issue on GitHub</a>. Feature requests are welcome too!</p><p>If you have no GitHub account (or if you do not want to create one) then just leave a comment here!</p></div><div class="lang 3 selected" id="t-2-3"><p>Если вы нашли проблему на этом сайте, создайте новый <a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-website/issues">issue на GitHub-е</a>. Там же можно писать любые другие предложения!</p><p>Если у вас нет аккаунта на GitHub (или если вы не хотите его создавать), тогда просто оставьте комментарий здесь!</p>
+minor: 
+lastmajorsummary: Explain bug reports and feature requests
+username: 
+summary: Explain bug reports and feature requests
+ts: 1444734696
+revision: 1
+text: #ENG
+	If you have found some bug on this website, please create a new [[https://github.com/TTUWiki/ttuwiki-website/issues issue on GitHub]]. Feature requests are welcome too!
+	
+	If you have no GitHub account (or if you do not want to create one) then just leave a comment here!
+	
+	#RUS
+	Если вы нашли проблему на этом сайте, создайте новый [[https://github.com/TTUWiki/ttuwiki-website/issues issue на GitHub-е]]. Там же можно писать любые другие предложения!
+	
+	Если у вас нет аккаунта на GitHub (или если вы не хотите его создавать), тогда просто оставьте комментарий здесь!
+	
+languages: 
