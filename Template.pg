@@ -1,0 +1,43 @@
+username: AlexDaniel
+languages: 
+host: 82.131.4.24
+minor: 
+lastmajor: 1
+text: #RUS
+	
+	При создании новых страниц можно воспользоваться данным шаблоном:
+	
+	{{{text
+	== Информация
+	... ... ...
+	
+	== Лекции
+	... ... ...
+	
+	== Практические занятия
+	... ... ...
+	
+	== Экзамен
+	... ... ...
+	}}}
+	
+	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
+	
+blocks: <div class="translation_buttons"><a class="translation" id="t-2-1-link" href="#">ENG</a><a class="translation" id="t-2-2-link" href="#">EST</a><a class="translation" href="#" id="t-2-3-link">RUS</a></div><div class="translation"><div class="lang 3" id="t-2-3"><p>При создании новых страниц можно воспользоваться данным шаблоном:</p><div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%">== Информация
+	... ... ...
+	
+	== Лекции
+	... ... ...
+	
+	== Практические занятия
+	... ... ...
+	
+	== Экзамен
+	... ... ...
+	</pre></div>
+	<p>Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.</p>
+lastmajorsummary: Moved
+summary: Moved
+revision: 1
+flags: 0
+ts: 1444779829
