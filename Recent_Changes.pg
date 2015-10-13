@@ -1,24 +1,26 @@
-keep-ts: 1444776115
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  </p></div>
+languages: 
+minor: 1
+lastmajorsummary: English translation
 flags: 01010
-blocks: <p>#ENG
-	</p><div class="translation_buttons"><a class="translation" id="t-2-1-link" href="#">ENG</a><a class="translation" href="#" id="t-2-2-link">EST</a><a id="t-2-3-link" href="#" class="translation">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Here you can see the list of all recent edits.</p><p>#RUS
-	</p></div><div class="lang 3" id="t-2-3"><p>Здесь видны последние изменения на сайте.</p>
-lastmajor: 2
-revision: 4
 summary: touch
+blocks: <p>#ENG
+	Here you can see the list of all recent edits.</p><p>#RUS
+	Здесь видны последние изменения на сайте.<br /> </p>
+host: 82.131.4.24
 text: #ENG
 	Here you can see the list of all recent edits.
 	
 	#RUS
 	Здесь видны последние изменения на сайте.
+	 
 	
-ts: 1444776115
-lastmajorsummary: English translation
+revision: 5
+ts: 1444776184
 username: AlexDaniel
-minor: 1
-host: 82.131.4.24
-languages: 
+keep-ts: 1444776184
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Здесь видны последние изменения на сайте</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; Here you can see the list of all recent edits.<br />&gt; #RUS</strong><br />&gt; Здесь видны последние изменения на сайте<strong class="changes">.</strong></p></div>
-diff-minor: 
+lastmajor: 2
