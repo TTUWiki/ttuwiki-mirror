@@ -1,24 +1,18 @@
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Главная]]<br />&lt; [[Полезное]]<br />&lt; [[Расписания]]<br />&lt; [[<strong class="changes">Задать вопрос</strong>]]<br />&lt; [[<strong class="changes">Последние изменения</strong>]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#LANG_NO_BUTTONS EST</strong><br />&gt; [[<strong class="changes">Home|Pealeht]]<br />&gt; [[Stuff|Kasulik info]]<br />&gt; [[Timetables|Tunniplaanid]]<br />&gt; [[Ask|Küsi]]<br />&gt; [[Recent Changes|Viimased muudatused]]<br />&gt; #LANG_NO_BUTTONS ENG<br />&gt; [[Home]]<br />&gt; [[Stuff|Useful Stuff]]<br />&gt; [[Timetables]]<br />&gt; [[Ask]]<br />&gt; [[Recent Changes]]<br />&gt; #LANG_NO_BUTTONS RUS<br />&gt; [[Home|</strong>Главная]]<br />&gt; [[<strong class="changes">Stuff|</strong>Полезное]]<br />&gt; [[<strong class="changes">Timetables|</strong>Расписания]]<br />&gt; [[<strong class="changes">Ask|Спросить]]<br />&gt; [[Recent Changes|Изменения]]<br />&gt; #LANG_END<br />&gt; [[lang:en ENG]]<br />&gt; [[lang:ee EST</strong>]]<br />&gt; [[<strong class="changes">lang:ru RUS</strong>]]</p></div>
-languages: 
-summary: Stuff -> Useful Stuff
-username: AlexDaniel
+revision: 7
+flags: 0101010101010101010101010101010101010
+minor: 
 host: 82.131.4.24
-minor: 1
-keep-ts: 1444704973
-lastmajorsummary: 
-ip: 89.235.239.240
+summary: Useful stuff = Kasulik info?
+username: AlexDaniel
+languages: 
+ts: 1444705394
 diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Stuff<strong class="changes">|Kasulik info</strong>]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">Useful</strong> Stuff]]</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">Stuff|</strong>Useful Stuff]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[Useful Stuff]]</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Stuff|Полезное]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">Useful</strong> Stuff|Полезное]]</p></div>
+	<div class="old"><p>&lt; [[Useful Stuff]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[Useful Stuff<strong class="changes">|Kasulik info</strong>]]</p></div>
+diff-major: 1
 text: #LANG_NO_BUTTONS EST
 	[[Home|Pealeht]]
-	[[Useful Stuff]]
+	[[Useful Stuff|Kasulik info]]
 	[[Timetables|Tunniplaanid]]
 	[[Ask|Küsi]]
 	[[Recent Changes|Viimased muudatused]]
@@ -40,8 +34,8 @@ text: #LANG_NO_BUTTONS EST
 	[[lang:ee EST]]
 	[[lang:ru RUS]]
 	
-lastmajor: 5
-flags: 0101010101010101010101010101010101010
-ts: 1444704973
-blocks: <div class="translation"><div id="t-2-2" class="lang 2"><p>[[Home|Pealeht]]<br />[[Useful Stuff]]<br />[[Timetables|Tunniplaanid]]<br />[[Ask|Küsi]]<br />[[Recent Changes|Viimased muudatused]]<br /></p></div><div class="lang 1" id="t-2-1"><p>[[Home]]<br />[[Useful Stuff]]<br />[[Timetables]]<br />[[Ask]]<br />[[Recent Changes]]<br /></p></div><div class="lang 3 selected" id="t-2-3"><p>[[Home|Главная]]<br />[[Useful Stuff|Полезное]]<br />[[Timetables|Расписания]]<br />[[Ask|Спросить]]<br />[[Recent Changes|Изменения]]<br /></p></div></div><p>[[lang:en ENG]]<br />[[lang:ee EST]]<br />[[lang:ru RUS]]</p>
-revision: 6
+blocks: <div class="translation"><div id="t-2-2" class="lang 2"><p>[[Home|Pealeht]]<br />[[Useful Stuff|Kasulik info]]<br />[[Timetables|Tunniplaanid]]<br />[[Ask|Küsi]]<br />[[Recent Changes|Viimased muudatused]]<br /></p></div><div id="t-2-1" class="lang 1 selected"><p>[[Home]]<br />[[Useful Stuff]]<br />[[Timetables]]<br />[[Ask]]<br />[[Recent Changes]]<br /></p></div><div id="t-2-3" class="lang 3"><p>[[Home|Главная]]<br />[[Useful Stuff|Полезное]]<br />[[Timetables|Расписания]]<br />[[Ask|Спросить]]<br />[[Recent Changes|Изменения]]<br /></p></div></div><p>[[lang:en ENG]]<br />[[lang:ee EST]]<br />[[lang:ru RUS]]</p>
+lastmajorsummary: Useful stuff = Kasulik info?
+ip: 89.235.239.240
+keep-ts: 1444705394
+lastmajor: 7
