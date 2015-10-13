@@ -1,22 +1,23 @@
-summary: English translation
-keep-ts: 1444707732
-revision: 2
-languages: 
-flags: 0
+keep-ts: 1444707921
+ts: 1444707921
 lastmajor: 2
+username: 
 text: #ENG
 	Here you can see the list of all recent edits.
 	
 	#RUS
 	Здесь видны последние изменения на сайте.
 	
-diff-minor: <p><strong>Changed:</strong></p>
+	
+languages: 
+revision: 3
+flags: 0
+diff-minor: 
+lastmajorsummary: English translation
+blocks: <div class="translation_buttons"><a id="t-2-1-link" class="translation" href="#">ENG</a><a href="#" class="translation" id="t-2-2-link">EST</a><a id="t-2-3-link" class="translation" href="#">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Here you can see the list of all recent edits.</p></div><div id="t-2-3" class="lang 3"><p>Здесь видны последние изменения на сайте.</p>
+host: 82.131.4.24
+diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Здесь видны последние изменения на сайте</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; Here you can see the list of all recent edits.<br />&gt; #RUS</strong><br />&gt; Здесь видны последние изменения на сайте<strong class="changes">.</strong></p></div>
-username: 
-ts: 1444707732
-lastmajorsummary: English translation
-blocks: <div><a id="t-2-1-link" class="translation" href="#">ENG</a><a class="translation" id="t-2-2-link" href="#">EST</a><a href="#" id="t-2-3-link" class="translation">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Here you can see the list of all recent edits.</p></div><div class="lang 3" id="t-2-3"><p>Здесь видны последние изменения на сайте.</p>
-host: 82.131.4.24
-diff-major: 1
-minor: 
+summary: English translation
+minor: 1
