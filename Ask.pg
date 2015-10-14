@@ -1,9 +1,8 @@
+username: AlexDaniel
 flags: 0101010
-ts: 1444780399
-languages: 
-blocks: <h2>Last question / … / Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
-	<h2>Ask your question / … / Задать вопрос</h2><div class="translation_buttons"><a class="translation" href="#" id="t-2-1-link">ENG</a><a class="translation" href="#" id="t-2-2-link">EST</a><a class="translation" href="#" id="t-2-3-link">RUS</a></div><div class="translation"><div id="t-2-1" class="lang 1 selected"><p>Here you can ask your question.</p><p>All questions are listed on [[Questions|another page]].</p></div><div class="lang 3" id="t-2-3"><p>Здесь вы можете задать любой вопрос.</p><p>Все вопросы видны на [[Questions|отдельной странице]].</p>
-text: == Last question / … / Последний вопрос
+lastmajor: 2
+host: 82.131.4.24
+text: == Last question / Viimane küsimus / Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
 	== Ask your question / … / Задать вопрос
@@ -19,10 +18,11 @@ text: == Last question / … / Последний вопрос
 	
 	
 minor: 1
-revision: 3
+languages: 
+ts: 1444780851
+blocks: <h2>Last question / Viimane küsimus / Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
+	<h2>Ask your question / … / Задать вопрос</h2><div class="translation_buttons"><a id="t-2-1-link" class="translation" href="#">ENG</a><a id="t-2-2-link" class="translation" href="#">EST</a><a href="#" id="t-2-3-link" class="translation">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Here you can ask your question.</p><p>All questions are listed on [[Questions|another page]].</p></div><div id="t-2-3" class="lang 3"><p>Здесь вы можете задать любой вопрос.</p><p>Все вопросы видны на [[Questions|отдельной странице]].</p>
 lastmajorsummary: Translations
-host: 82.131.4.24
-lastmajor: 2
 summary: Translations
-username: AlexDaniel
-keep-ts: 1444780399
+revision: 4
+keep-ts: 1444780851
