@@ -1,12 +1,12 @@
-summary: Russian
-blocks: <p>Minu TTÜ <a href="http://www.tud.ttu.ee/web/Ain.Laidoja" class="url http outside">kodulehekülg</a></p><div class="translation_buttons"><a class="translation" href="#" id="t-2-1-link">ENG</a><a id="t-2-2-link" href="#" class="translation">EST</a><a class="translation" href="#" id="t-2-3-link">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Articles:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Alternatives to expensive District Heating</a></p></div><div class="lang 3" id="t-2-3"><p>Статьи:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Альтернативы дорогому теплоснабжению</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li></ol>
-lastmajor: 23
+flags: 010101010101010101010101010101010101010
+lastmajorsummary: Kõik Õppekavad & Kõik ained
+keep-ts: 1444836985
+blocks: <p>Minu TTÜ <a href="http://www.tud.ttu.ee/web/Ain.Laidoja" class="url http outside">kodulehekülg</a></p><div class="translation_buttons"><a id="t-2-1-link" href="#" class="translation">ENG</a><a class="translation" id="t-2-2-link" href="#">EST</a><a id="t-2-3-link" href="#" class="translation">RUS</a></div><div class="translation"><div class="lang 1 selected" id="t-2-1"><p>Articles:</p><p><a href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf" class="url http outside">Alternatives to expensive District Heating</a></p></div><div id="t-2-3" class="lang 3"><p>Статьи:</p><p><a class="url http outside" href="http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf">Альтернативы дорогому теплоснабжению</a></p></div></div><h2>Sügissemester 2015</h2><h2>Õppeained:</h2><ol><li>[[AES0250]] - Elektrienergia hajatootmine</li><li>[[AEK8141]] - Elektriseadmed ja -edastus</li><li>[[AAV0180]] - Energiasalvestid</li><li>[[AES0200]] - Energiasüsteemi strateegiline arendamine</li><li>[[AES3136]] - Energiasüsteemide ökonoomika</li><li>[[MSE0280]] -Hajaenergeetika planeerimine</li><li>[[MSE0260]] -Hajaobjekti projekt</li><li>[[AES0370]] - Hajatootmise ühendamine elektrivõrguga</li><li>[[MSJ0030]] - Loodushoid energeetikas</li><li>[[MXX0040]] -Magistriseminar</li><li>[[MSJ0340]] - Põlevkivi termilise töötlemise tehnoloogiad</li><li>[[MSJ0060]] - Soojuselektrijaamad</li><li>[[HLX8040]] - Teadusvõõrkeel   mis on tegelikult [[HLI8750]]</li><li>[[TTO3160]] - Õigusõpetus</li></ol><h2>Lisaks:</h2><p>[[RAKM11-12]] &#x2013;  [Kava:50177 〔Õppekava ÕIS-is〕]</p><ol><li>[[RAS0070]] Kütusetööstuse protsessid</li><li>[[RAS0050]] Kütuste klassifitseerimine ja standardimine</li><li><a class="url http outside" href="http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D">Kõik Õppekavad</a></li><li><a href="http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs-" class="url http outside">Kõik ained</a></li></ol>
+revision: 24
+username: AlexDaniel
+ts: 1444836985
+summary: Kõik Õppekavad & Kõik ained
 languages: 
-ts: 1444780723
-lastmajorsummary: Russian
-revision: 23
-keep-ts: 1444780723
-host: 82.131.4.24
 text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	#ENG
@@ -46,6 +46,9 @@ text: Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[RAS0070]] Kütusetööstuse protsessid
 	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
 	
-username: AlexDaniel
-flags: 010101010101010101010101010101010101010
+	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
+	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik ained]]
+	
+host: 82.131.4.24
 minor: 
+lastmajor: 24
