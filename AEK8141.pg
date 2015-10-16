@@ -1,13 +1,11 @@
-keep-ts: 1444995360
-ts: 1444995360
-username: 
-minor: 
-lastmajor: 16
-ip: 89.235.235.166
-flags: 010
-blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <a href="mailto:jako.kilter@ttu.ee" class="url mailto outside">jako.kilter@ttu.ee</a>] ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu  <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">e-mailile</a></li><li><strong>23.okt</strong> Loeng kell 17:45</li><li><strong>week 46 or 47</strong> alajaama külastus</li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a href="http://www.ester.ee/record=b1053792*est" class="url http outside">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a href="http://www.ester.ee/record=b2347094*est" class="url http outside">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li><li><a class="url http outside" href="http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf">Siemens Power Engineering Guide</a></li></ol>
-host: 193.40.244.217
+lastmajorsummary: 
 languages: 
+blocks: <h2>Õppematerjalid:</h2><p>Asuvad õppeaine  [Course:25839 ÕIS]&#x2019;i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹</p><h4>Upcoming events</h4><ol><li><strong>02.10</strong> Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.</li><li><strong>23.10</strong> Loeng kell 17:45</li><li><strong>23.11</strong> Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">jako.kilter@ttu.ee</a>] ja <strong>paberil</strong> elektroenergeetika instituudi sekretäri kätte). <strong>Tähtajast<br />hiljem esitatud töid ei arvestata!</strong></li><li><strong>07.12</strong> Seminari tagasiside õppejõu  <a class="url mailto outside" href="mailto:jako.kilter@ttu.ee">e-mailile</a></li><li><strong>week 46 or 47</strong> alajaama külastus</li></ol><h2>Kirjandus:</h2><ol><li><a class="url http outside" href="http://www.ester.ee/record=b2290660*est">Sissejuhatus energiatehnikasse</a> Risthein,E..TTÜ,Tall.2007,260 lk.</li><li><a href="http://www.ester.ee/record=b1053792*est" class="url http outside">Elektrivõrgud</a>Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.</li><li><a href="http://www.ester.ee/record=b2347094*est" class="url http outside">Jaotusvõrgud</a> Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.</li><li><a class="url http outside" href="http://www.ester.ee/record=b2668039*est">Elektrivõrgu operatiivjuhtimissüsteem</a> Meldorf,M.,Tikk,T.</li><li><a href="http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf" class="url http outside">Siemens Power Engineering Guide</a></li></ol>
+flags: 010
+username: 
+ip: 89.235.235.166
+minor: 
+keep-ts: 1445004566
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -17,10 +15,10 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	====Upcoming events
 	
 	#**02.10**	Referaadi  Teema peab olema kinnitatud hiljemalt 02. oktoober 2015.
+	# **23.10** Loeng kell 17:45
 	#**23.11** Tähtaeg – 23. november 2015 kell: 17:00 (Töö esitada elektroonilise versioonina õppejõu maili aadressile [mailto:jako.kilter@ttu.ee jako.kilter@ttu.ee]] ja **paberil** elektroenergeetika instituudi sekretäri kätte). **Tähtajast
 	hiljem esitatud töid ei arvestata!**
 	#**07.12** Seminari tagasiside õppejõu  [mailto:jako.kilter@ttu.ee e-mailile]
-	# **23.okt** Loeng kell 17:45
 	# **week 46 or 47** alajaama külastus
 	
 	==Kirjandus:
@@ -30,6 +28,8 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
-lastmajorsummary: 
-revision: 16
+host: 86.110.37.246
 summary: 
+lastmajor: 17
+revision: 17
+ts: 1445004566
