@@ -1,17 +1,24 @@
-blocks: <h3>Õppematerjal</h3><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h3>Кirjandus</h3><p>Põhiõpikuks on <a class="url http outside" href="http://www.ester.ee/record=b2756390*est">Õigusõpetus</a>.</p><h4>Upcoming events</h4><ol><li>iseseisev töö <a class="url http outside" href="https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv">KOHTUTE SEADUS</a>&#x2019;e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</li><li>I kontrolltöö toimub <strong>26. oktoober</strong> loengu ruumis</li><li>Essee kirjutamine. <strong>tähtaeg 2. november 2015.</strong> Ajakulu 3 t.</li><li>Loe läbi üks artiklitest (Rosentau E-tempora, e-mores või Tupay, Mikiver E-riik ja põhiõigused) ja esita foorumis üks mõte, mis sul artiklit lugedes tekkis. Mõtte maht 100 sõna. <strong>Tähtaeg 30. november 2015.</strong></li><li>II kontrolltöö toimub   <strong>7.detsember</strong> loengu ruumis</li><li>Arvestus toimub  <strong>14. detsember</strong> loengu ruumis</li></ol>
-lastmajorsummary: 
-ip: 84.52.48.194
-diff-major: 1
 summary: 
-languages: 
+lastmajor: 18
+ip: 84.52.48.194
+lastmajorsummary: 
+flags: 010
+blocks: <h2>Õppematerjal</h2><p>Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.</p><h2>Кirjandus</h2><p>Põhiõpikuks on <a href="http://www.ester.ee/record=b2756390*est" class="url http outside">Õigusõpetus</a>.</p><h2>Veebiloengud</h2><ol><li><a href="https://www.youtube.com/watch?v=N10tfHKrwgs" class="url http outside">Töölepingu seaduse 5 aasta rakenduspraktika</a> Ajakulu 2h.</li><li><a href="https://www.youtube.com/watch?v=tFcV8dd1q4g" class="url http outside">Töö- ja puhkeaeg</a> Ajakulu 2h.</li></ol><h4>Upcoming events</h4><ol><li>iseseisev töö <a href="https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv" class="url http outside">KOHTUTE SEADUS</a>&#x2019;e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. <strong>Tähtaeg 28. sept 2015</strong>. Ajakulu 3 t.</li><li>I kontrolltöö toimub <strong>26. oktoober</strong> loengu ruumis</li><li>Essee kirjutamine. <strong>tähtaeg 2. november 2015.</strong> Ajakulu 3 t.</li><li>Loe läbi üks artiklitest (Rosentau E-tempora, e-mores või Tupay, Mikiver E-riik ja põhiõigused) ja esita foorumis üks mõte, mis sul artiklit lugedes tekkis. Mõtte maht 100 sõna. <strong>Tähtaeg 30. november 2015.</strong></li><li>II kontrolltöö toimub   <strong>7.detsember</strong> loengu ruumis</li><li>Arvestus toimub  <strong>14. detsember</strong> loengu ruumis</li></ol>
+revision: 18
+username: 
 text: #SUBTITLE Õigusõpetus
 	#SUBURL [Course:28071 〔Õppeaine ÕIS-is〕]
 	
-	===Õppematerjal
+	==Õppematerjal
 	Asub [Moodle:1420 Moodle] keskkonnas ja vajab ligipääsuks kasutajaks registreerimist ja salasõna 😥.
 	
-	===Кirjandus
+	==Кirjandus
 	Põhiõpikuks on [[http://www.ester.ee/record=b2756390*est Õigusõpetus]].
+	
+	==Veebiloengud
+	
+	# [https://www.youtube.com/watch?v=N10tfHKrwgs Töölepingu seaduse 5 aasta rakenduspraktika]  Ajakulu 2h.
+	# [https://www.youtube.com/watch?v=tFcV8dd1q4g Töö- ja puhkeaeg] Ajakulu 2h.
 	
 	====Upcoming events
 	#iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.
@@ -27,13 +34,8 @@ text: #SUBTITLE Õigusõpetus
 	
 	# Arvestus toimub  **14. detsember** loengu ruumis
 	
-lastmajor: 17
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; # Loe läbi üks artiklitest (Rosentau E-tempora, e-mores või Tupay, Mikiver E-riik ja põhiõigused) ja esita foorumis üks mõte, mis sul artiklit lugedes tekkis. Mõtte maht 100 sõna.  **Tähtaeg 30. november 2015.**</p></div>
-flags: 010
-ts: 1443801386
-minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 17
-keep-ts: 1443801386
+ts: 1445076754
+minor: 
+languages: 
+keep-ts: 1445076754
