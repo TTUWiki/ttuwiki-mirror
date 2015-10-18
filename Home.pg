@@ -1,4 +1,5 @@
-minor: 1
+revision: 12
+lastmajorsummary: EST translation added
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -23,16 +24,15 @@ text: #ENG
 	== Faculties / Teaduskonnad / Факультеты
 	<include "Õppekavad">
 	
-	===== Compare Programmes / Õppekava võrdlemine / Сравнить учебные программы:
+	===== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-lastmajorsummary: EST translation added
+minor: 1
+keep-ts: 1445155473
+summary: translations
 username: MaryBoom
-lastmajor: 10
-keep-ts: 1445155421
-languages: 
-ts: 1445155421
-revision: 11
-summary: EST translation added
 host: 85.253.53.160
+lastmajor: 10
+ts: 1445155473
+languages: 
