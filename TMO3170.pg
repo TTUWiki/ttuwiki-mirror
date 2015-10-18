@@ -1,17 +1,9 @@
-flags: 0100
-blocks: <h2>Информация</h2><p>Для допуска к экзамену необходимо написать реферат на основе англо- и эстоноязычных статей. Также необходимо сделать презентацию своего реферата перед другими студентами.</p><h2>Лекции</h2><p>Можно не посещать, на слайдах много информации и все они есть в мудле.</p><h2>Практические занятия</h2><p>Харьютусы прогуливать не советуется, за каждый пропуск снимаются пункты от итоговой оценки.</p><h2>Экзамен</h2><p>Предмет заканчивается письменным экзаменом, к которому довольно сложно подготовиться (немалый объем информации), однако весь материал есть на слайдах в moodle. Вопросы без вариантов ответа, поля для ответов достаточно большие, отвечать лучше развернуто.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>[Moodle:706293 Moodle]<br />пароль ojtm2015</p><p>&#x2013; AlexDaniel 2015-03-05 22:00:05</p></div>
+flags: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">https://moodle.hitsa.ee/mod/folder/view.php?id=</strong>706293</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[Moodle:</strong>706293 <strong class="changes">Moodle]</strong></p></div>
-ip: 89.235.235.166
-ts: 1442598717
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 7
 diff-major: 
-summary: Moodle:
-languages: 
+keep-ts: 1442598717
 text: #SUBTITLE Organisatsiooni ja juhtimise teooriad ja meetodid
 	#SUBURL [Course:33883 〔Õppeaine ÕIS-is〕]
 	
@@ -37,5 +29,13 @@ text: #SUBTITLE Organisatsiooni ja juhtimise teooriad ja meetodid
 	-- AlexDaniel 2015-03-05 22:00:05
 	
 	
+languages: 
+summary: Moodle:
+revision: 7
+minor: 1
+blocks: [Course:33883 〔Õppeaine ÕIS-is〕]
+ts: 1442598717
+ip: 89.235.235.166
+host: 82.131.7.230
 lastmajor: 5
-keep-ts: 1442598717
+username: AlexDaniel

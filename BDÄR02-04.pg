@@ -1,16 +1,4 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus [Kava:3694 〔Õppekava ÕIS-is〕]</h2><p>[[BCU0510]] Ärieetika alused<br />[[BCU1910]] Ärilogistika<br />[[BCU0100]] Äriõigus<br />[[BCU0630]] Ärisuhtlus ja -läbirääkimised<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0452]] Äritegevuse alused - ainetöö<br />[[BCU0141]] Arvestuse alused<br />[[BCU1900]] E-äri<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0660]] Euroopa Liidu majandus<br />[[BCU1990]] Globaalne hange<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1930]] Inimressursi juhtimine<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0750]] Keskkonnaökonoomika<br />[[BCU1970]] Kliendi lojaalsuse kujundamine<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU0760]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU0530]] Politoloogia<br />[[BCU0770]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0680]] Rahvusvaheline finantsjuhtimine<br />[[BCU0550]] Rahvusvaheline majandus<br />[[BCU0620]] Rahvusvaheline majandusõigus<br />[[BCU0610]] Rahvusvaheline turundus<br />[[BCU2050]] Rahvusvahelised investeeringud<br />[[BCU2020]] Soome keel<br />[[BCU1950]] Soome majandus<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0560]] Strateegiline juhtimine<br />[[BCU2000]] Tarbijakäitumine<br />[[BCU1980]] Teenuste turundus<br />[[BCU0491]] Turundus<br />[[BCU0492]] Turundus - ainetöö<br />[[BCU1920]] Turundus jaekaubanduses<br />[[BCU1960]] Väärtusahela juhtimine</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus Kava:3694</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:3694 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus [Kava:3694 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU1910]] Ärilogistika
@@ -62,3 +50,15 @@ text: == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus [Kava:3694 〔Õp
 	
 	
 keep-ts: 1441924148
+ts: 1441924148
+username: AlexDaniel
+minor: 1
+revision: 5
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus Kava:3694</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDÄR02/04 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:3694 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+blocks: 
+host: 82.131.7.230
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

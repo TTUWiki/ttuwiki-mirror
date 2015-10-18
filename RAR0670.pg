@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+blocks: [Course:37697 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+languages: 
+flags: 1
+host: 82.131.7.230
 ts: 1441924449
 minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Mootorikütused ja määrdeained
 	#SUBURL [Course:37697 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
+lastmajor: 2
+revision: 4

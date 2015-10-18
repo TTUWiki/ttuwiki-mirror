@@ -1,13 +1,9 @@
-flags: 0
-blocks: <div class="image"><a class="image inter File" href="http://files.ttuwiki.org/hadouken.jpeg"><img class="upload" title="File:hadouken.jpeg" src="http://files.ttuwiki.org/hadouken.jpeg" alt="File:hadouken.jpeg" /></a><br /><span class="caption">Суть предмета</span></div><p>Потенциально полезный предмет, однако преподавание г-жи Венделин всю эту полезность перекрывает.</p><p>О чем г-жа Венделин вам не расскажет:<br /></p><ul><li>О <a class="url http outside" href="http://legacy.python.org/dev/peps/pep-0008">PEP8</a></li><li>О существовании нормальных IDE и редакторов.</li><li>О предназначении <a class="url http outside" href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a></li><li>О вычислительной сложности (хотя об этом написано в описании предмета)</li><li>О об установке модулей (pip и прочие)</li></ul><p>Чему г-жа Венделин вас &#x201c;научит&#x201d;:<br /></p><ul><li>Индентации кода пятью пробелами.</li><li>Написанию кода с экспоненциальной сложностью.</li><li>Изобретению велосипедов.</li><li>Использованию рекурсии там, где это не оправдано (например где есть потенциальный риск переполнения стека).</li><li>Созданию UML диаграмм, которые сложнее, чем сама ваша программа.</li></ul><h2>Контрольные</h2><p>Будут две элементарных контрольных. Первая на самые базовые знания. Если они у вас есть, то напишите за 5 минут и лишь зря к восьми утра припретесь (постарайтесь договориться с ней заранее, чтобы прийти под конец). Вторая контрольная чутка сложнее, нужно будет заимпортить кривой код г-жи Венделин и сделать так, чтобы всё это месиво заработало.</p><h2>Экзамен</h2><p>По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед &#x201c;классом&#x201d;.</p>
-ip: 84.52.43.21
-ts: 1441924446
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
+lastmajor: 8
+minor: 1
+ip: 84.52.43.21
 revision: 10
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+flags: 1
 text: #SUBTITLE Programmeerimise põhikursus
 	#SUBURL [Course:107203 〔Õppeaine ÕIS-is〕]
 	
@@ -36,5 +32,9 @@ text: #SUBTITLE Programmeerimise põhikursus
 	==Экзамен
 	По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед "классом".
 	
-lastmajor: 8
+blocks: [Course:107203 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+languages: 
+username: AlexDaniel
 keep-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,16 +1,12 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>SDTR02/02 - Turismi- ja toitlustuskorraldus [Kava:1471 〔Õppekava ÕIS-is〕]</h2><p>[[SKK0440]] 2. võõrkeel erialakeelena<br />[[SKK0830]] Diplomipraktika<br />[[SKK3500]] Etikett ja protokoll<br />[[TMV3550]] Ettevõtlus<br />[[SKK0240]] Filosoofia<br />[[TAK3910]] Finantsanalüüs<br />[[SKK0500]] Hotellinduse alused<br />[[SKK3391]] Hotelli teenindusprotsess<br />[[SKK3392]] Hotelli teenindusprotsess - ainetöö<br />[[SKK3410]] Hotellitöö seadusandlus ja standardid<br />[[SKK3111]] Informaatika I<br />[[SKK3112]] Informaatika II<br />[[SKK0400]] Inglise erialakeel<br />[[SKK3030]] Inglise keel<br />[[SKK0360]] Juhtimise alused<br />[[SKK3270]] Kaubatundmine<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0600]] Klienditeenindus<br />[[SKK3080]] Kultuurilugu<br />[[SKK0820]] Kutsepraktika<br />[[SKK0320]] Logistika<br />[[SKK0710]] Maailma ja Eesti turismigeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0031]] Matemaatiline analüüs I<br />[[KTT3733]] Mikrobioloogia ja toiduhügieen<br />[[KTT3734]] Mikrobioloogia ja toiduhügieen - praktikum<br />[[SKK0250]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0800]] Õppepraktika I<br />[[SKK0810]] Õppepraktika II<br />[[YKO3501]] Orgaaniline keemia<br />[[SKK0370]] Personalijuhtimine<br />[[SKK3370]] Praktiline toiduvalmistamine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK3420]] Puhastus-koristustööd<br />[[SKK0330]] Raamatupidamise alused<br />[[SKK3230]] Rahvusvaheline turism<br />[[SKK0720]] Reisibüroo töö<br />[[SKK3360]] Restoraniteenindus<br />[[SKK3040]] Saksa keel<br />[[SKK3050]] Soome keel<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[KTO3341]] Toiduainekeemia<br />[[KTO0100]] Toiduohutus<br />[[SKK3200]] Toiduvalmistamise alused<br />[[SKK0620]] Toiduvalmistamise tehnoloogia I<br />[[SKK0631]] Toiduvalmistamise tehnoloogia II<br />[[SKK0632]] Toiduvalmistamise tehnoloogia II - ainetöö<br />[[SKK0610]] Toitlustusettevõtete seadmed<br />[[KTO3330]] Toitumisõpetus<br />[[SKK0700]] Turismimajanduse alused<br />[[SKK3470]] Turismipoliitika<br />[[SKK0350]] Turunduse alused<br />[[SKK3480]] Turundus toitlustuses ja majutuses<br />[[YKI3070]] Üldine keemia<br />[[SKK0270]] Väljendus- ja esinemisoskus<br />[[SKK3060]] Vene keel võõrkeelena</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == SDTR02/02 - Turismi- ja toitlustuskorraldus Kava:1471</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == SDTR02/02 - Turismi- ja toitlustuskorraldus <strong class="changes">[</strong>Kava:1471 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
+blocks: 
+ts: 1441924153
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
 languages: 
+minor: 1
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == SDTR02/02 - Turismi- ja toitlustuskorraldus [Kava:1471 〔Õppekava ÕIS-is〕]
 	[[SKK0440]] 2. võõrkeel erialakeelena
 	[[SKK0830]] Diplomipraktika
@@ -72,4 +68,8 @@ text: == SDTR02/02 - Turismi- ja toitlustuskorraldus [Kava:1471 〔Õppekava ÕI
 	[[SKK3060]] Vene keel võõrkeelena
 	
 	
+flags: 
 keep-ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == SDTR02/02 - Turismi- ja toitlustuskorraldus Kava:1471</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == SDTR02/02 - Turismi- ja toitlustuskorraldus <strong class="changes">[</strong>Kava:1471 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

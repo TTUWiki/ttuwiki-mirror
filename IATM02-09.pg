@@ -1,16 +1,3 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IATM02/09 - Telekommunikatsioon [Kava:50024 〔Õppekava ÕIS-is〕]</h2><p>[[IRZ0090]] Adaptiivne signaalitöötlus<br />[[IRT0030]] Andmeside<br />[[YMR5730]] Arvutusmeetodid<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[IRO0080]] Digitaalne spektraalanalüüs<br />[[IRO0100]] Elektromagnetiline ühildavus sidetehnikas<br />[[TMT0040]] Ergonoomika<br />[[IRT020P]] Erialapraktika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[IRZ0060]] Häirekindlus<br />[[IRZ0120]] Hajaspekter sides<br />[[IRT0090]] Helitehnika ja akustika<br />[[IRO0050]] Infoedastusseadmed<br />[[IRZ0050]] Infohankesüsteemid<br />[[IRO0060]] Infosüsteemide elektriseadmed<br />[[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused<br />[[IRO0070]] Kõrgsageduslik signaalitöötlus<br />[[IRM0060]] Mobiilsete juurdepääsuvõrkude plaanimine<br />[[IRT0070]] Multimeedia teenused<br />[[IRM0090]] RF disaini paketid<br />[[IRT0040]] Sideseadmed<br />[[IRM0070]] Sideseadmete disain<br />[[IRM0100]] Sideseadmete mudeldamine<br />[[IRT0050]] Sidesüsteemid<br />[[IRO0120]] Sidesüsteemide analüüs<br />[[IRO0110]] Sidetehnilised standardid<br />[[IRT0120]] Sideteooria<br />[[IRZ0070]] Signaaliprotsessorid<br />[[HLX8040]] Teadusvõõrkeel<br />[[IRT0110]] Televisiooni- ja videotehnika</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IATM02/09 - Telekommunikatsioon Kava:50024</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IATM02/09 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50024 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IATM02/09 - Telekommunikatsioon [Kava:50024 〔Õppekava ÕIS-is〕]
 	[[IRZ0090]] Adaptiivne signaalitöötlus
 	[[IRT0030]] Andmeside
@@ -45,3 +32,16 @@ text: == IATM02/09 - Telekommunikatsioon [Kava:50024 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924150
+revision: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IATM02/09 - Telekommunikatsioon Kava:50024</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IATM02/09 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50024 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+diff-major: 
+blocks: 
+ts: 1441924150
+languages: 
+username: AlexDaniel
+flags: 
+host: 82.131.7.230

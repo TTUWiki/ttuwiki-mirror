@@ -1,16 +1,13 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAEM07/07 - Tööstus- ja tsiviilehitus [Kava:4037 〔Õppekava ÕIS-is〕]</h2><p>[[EEA0020]] Arhitektuur<br />[[EEA0030]] Arhitektuur - projekt I<br />[[EEA0040]] Arhitektuur - projekt II<br />[[TTO0020]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[EER0030]] Ehitiste katsetamine<br />[[EEP3580]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EEA3622]] Ehitusfüüsika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[TTO0050]] Ehitusõigus<br />[[EPT0012]] Ehitustehnoloogia II<br />[[EPT0013]] Ehitustehnoloogia - projekt<br />[[EMD0020]] Elastsusõpetus<br />[[EEG8400]] Geotehnilise projekteerimise erikursus<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0021]] Hüdrotehnilised ehitised sadamates<br />[[EXX0022]] Hüdrotehnilised ehitised sadamates - projekt<br />[[EPJ0050]] Infotehnoloogia ehituses<br />[[MTT0050]] Keevitus<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ3770]] Kinnisvaraökonoomika<br />[[EER0022]] Kivikonstruktsioonid - projekt<br />[[EPM3850]] Korrosioonikaitse ehituses<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[EEA8520]] Linnaehitus<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[AKG0200]] Mere geotehnika<br />[[EET8491]] Metallkonstruktsioonide erikursus<br />[[EET8492]] Metallkonstruktsioonide erikursus - projekt<br />[[EET0013]] Metallkonstruktsioonid II<br />[[EET0014]] Metallkonstruktsioonid II - projekt<br />[[EET0012]] Metallkonstruktsioonid I - projekt<br />[[EEA3640]] Plaanimine ja teed<br />[[EPJ3790]] Plaanimine ja turg<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEP0020]] Puitkonstruktsioonide erikursus<br />[[EEP0013]] Puitkonstruktsioonid - praktikum<br />[[EEP0012]] Puitkonstruktsioonid - projekt<br />[[EET0050]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EER8411]] Raudbetoonkonstruktsioonide erikursus<br />[[EER8412]] Raudbetoonkonstruktsioonide erikursus - projekt<br />[[EER0013]] Raudbetoonkonstruktsioonid II<br />[[EER0014]] Raudbetoonkonstruktsioonid II - projekt<br />[[EER0012]] Raudbetoonkonstruktsioonid I - projekt<br />[[EER0015]] Raudbetoonkonstruktsioonid - praktikum<br />[[EMH0121]] Sadamate planeerimine<br />[[EMH0122]] Sadamate planeerimine - projekt<br />[[EMH0151]] Sadamate tehnovõrgud ja -seadmed<br />[[EMH0152]] Sadamate tehnovõrgud ja -seadmed - projekt<br />[[HLX8040]] Teadusvõõrkeel<br />[[TTS1050]] Urbanistika<br />[[HHR0060]] Väljendus- ja vaidlusõpetus<br />[[EEG3450]] Vesiehitiste projekteerimine<br />[[EEG3442]] Vundamendid - projekt</p>
+flags: 
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+diff-major: 
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEM07/07 - Tööstus- ja tsiviilehitus Kava:4037</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEM07/07 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:4037 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
 text: == EAEM07/07 - Tööstus- ja tsiviilehitus [Kava:4037 〔Õppekava ÕIS-is〕]
 	[[EEA0020]] Arhitektuur
 	[[EEA0030]] Arhitektuur - projekt I
@@ -76,4 +73,7 @@ text: == EAEM07/07 - Tööstus- ja tsiviilehitus [Kava:4037 〔Õppekava ÕIS-is
 	[[EEG3442]] Vundamendid - projekt
 	
 	
+languages: 
 keep-ts: 1441924149
+ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

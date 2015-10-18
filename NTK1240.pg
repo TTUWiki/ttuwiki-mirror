@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924449
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Jäätmete taaskasutus
 	#SUBURL [Course:109784 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+flags: 1
 keep-ts: 1441924449
+revision: 2
+username: AlexDaniel
+languages: 
+ts: 1441924449
+host: 82.131.7.230
+blocks: [Course:109784 〔Õppeaine ÕIS-is〕]

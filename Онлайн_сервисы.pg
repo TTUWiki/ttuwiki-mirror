@@ -1,9 +1,12 @@
-lastmajorsummary: Moved to Subdomains
-flags: 0
 username: AlexDaniel
-host: 82.131.4.24
-languages: 
+summary: Moved to Subdomains
+revision: 20
+lastmajorsummary: Moved to Subdomains
+blocks: 
+flags: 
 minor: 
+host: 82.131.4.24
+lastmajor: 20
 text: DeletedPage
 	
 	* https://pass.ttu.ee/
@@ -37,9 +40,6 @@ text: DeletedPage
 	* [[http://193.40.245.132 Vb-006]]
 	* [[http://193.40.245.182 Vb-201]]
 	
-blocks: <p>DeletedPage</p><ul><li><a class="url http" href="https://pass.ttu.ee/">https://pass.ttu.ee/</a></li><li><a href="http://sise.ttu.ee/" class="url http">http://sise.ttu.ee/</a></li><li><a class="url http" href="https://home.ttu.ee/">https://home.ttu.ee/</a> - Всё, кроме публичной папки (Webikodu). Для доступа к ней используйте sftp.</li><li><code>sftp://sftp.ttu.ee/</code></li><li><a href="https://toru.ttu.ee/" class="url http">https://toru.ttu.ee/</a></li><li><a href="http://email.ttu.ee/" class="url http">http://email.ttu.ee/</a> - регистрируемся <a href="http://www.ttu.ee/tugistruktuur/it-teenused/juhendid-1/teenused-tudengile-4/ttu-e-posti-aadress/?id=32321" class="url http outside">тут</a></li><li><a href="http://arenguvestlus.ttu.ee/" class="url http">http://arenguvestlus.ttu.ee/</a></li><li><a href="https://dlx.intra.ttu.ee/DocLogix/" class="url http">https://dlx.intra.ttu.ee/DocLogix/</a></li><li><a href="https://portal.ttu.ee/" class="url http">https://portal.ttu.ee/</a> или <a href="https://webportal.ttu.ee" class="url http">https://webportal.ttu.ee</a></li><li><a href="http://docs.ttu.ee/" class="url http">http://docs.ttu.ee/</a> - Всякие документы</li><li><a class="url http" href="http://helpdesk.ttu.ee/">http://helpdesk.ttu.ee/</a> - Видимо, это вообще не для студентов :)</li><li><a class="url http" href="http://zaurus.ttu.ee/">http://zaurus.ttu.ee/</a> - получение платного софта</li></ul><p><br /><br />А также несколько веб-камер:<br /></p><ul><li><a href="http://webcam1.ttu.ee" class="url http">http://webcam1.ttu.ee</a> - не работает, но домен есть.</li><li><a href="http://webcam2.ttu.ee" class="url http">http://webcam2.ttu.ee</a></li><li><a href="http://webcam3.ttu.ee" class="url http">http://webcam3.ttu.ee</a> - не работает, но домен есть.</li><li><a href="http://www.robotiklubi.ee/kaamera" class="url http">http://www.robotiklubi.ee/kaamera</a></li><li><a class="url http outside" href="http://193.40.245.129">U05-305</a> - следующие ссылки взяты <a class="url http outside" href="http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/">отсюда</a> (если просит залогиниться, то логин user, пароль пустой)</li><li><a href="http://193.40.245.131" class="url http outside">U05-115</a></li><li><a href="http://193.40.245.158" class="url http outside">U05-302</a></li><li><a href="http://193.40.245.180" class="url http outside">U05-303</a></li><li><a class="url http outside" href="http://193.40.245.179">U05-304</a></li><li><a class="url http outside" href="http://193.40.245.143">U05-306</a></li><li><a href="http://193.40.245.181" class="url http outside">U05-307</a></li><li><a class="url http outside" href="http://193.40.245.132">Vb-006</a></li><li><a href="http://193.40.245.182" class="url http outside">Vb-201</a></li></ul>
-revision: 20
-ts: 1444779262
-lastmajor: 20
+languages: 
 keep-ts: 1444779262
-summary: Moved to Subdomains
+ts: 1444779262

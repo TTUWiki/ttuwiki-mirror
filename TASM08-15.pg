@@ -1,16 +1,7 @@
-flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50331 〔Õppekava ÕIS-is〕]</h2><p>[[TSX1101]] Erialane võõrkeel I<br />[[TSX1102]] Erialane võõrkeel II<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[TSE1012]] Euroopa Liidu poliitikate analüüs<br />[[TSE1011]] Euroopa majanduslik ja poliitiline integratsioon<br />[[TSE1023]] Euroopa välispoliitika<br />[[TSK1028]] Hiina majandus täna ja homme<br />[[TSP1025]] Hiina poliitilised ja majanduslikud suhted USA ja Venemaaga 20.-21.sajandil<br />[[TSP1027]] Hiina ühiskond ja poliitika 20. ja 21. sajandil<br />[[TSP1026]] Hiina välispoliitika 20. ja 21. sajandil<br />[[TSP1023]] Islamimaade majandus ja rahandus<br />[[TSP1024]] Julgeolekupoliitika Kaug-Idas 20. sajandi teisel poolel ja 21. sajandil<br />[[TSP1090]] Julgeoleku teooriad<br />[[TSK1027]] Kultuuridevahelise kommunikatsiooni dialoogiline käsitlus<br />[[TSP1031]] Magistritöö seminar<br />[[TSK1000]] Metodoloogia I<br />[[TSS1021]] Metodoloogia II<br />[[TSP1111]] Poliitikateaduse üldkursus<br />[[TET1070]] Rahvusvaheline majandus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[TSP1021]] Rahvusvahelised läbirääkimised<br />[[TSP1051]] Rahvusvahelised suhted - aktuaalseid küsimusi<br />[[TSP1019]] Rahvusvaheliste konfliktide reguleerimine<br />[[TSP1081]] Rahvusvaheliste organisatsioonide analüüs<br />[[TSP1060]] Rahvusvaheliste suhete teooriad<br />[[TSP1009]] Rahvusvaheliste suhete uurimismeetodid<br />[[TSP1100]] Uurimisseminar ja praktika<br />[[TSP1040]] Võrdlev poliitikateadus</p>
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50331</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50331 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50331 〔Õppekava ÕIS-is〕]
 	[[TSX1101]] Erialane võõrkeel I
 	[[TSX1102]] Erialane võõrkeel II
@@ -42,4 +33,13 @@ text: == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:5033
 	[[TSP1040]] Võrdlev poliitikateadus
 	
 	
+revision: 4
+ts: 1441924153
+languages: 
+blocks: 
+username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+host: 82.131.7.230
+minor: 1
 keep-ts: 1441924153

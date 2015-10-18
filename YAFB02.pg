@@ -1,19 +1,8 @@
-flags: 010101010
-blocks: &lt;include "YAFB02-16"&gt;
-	&lt;include "YAFB02-09"&gt;
-	&lt;include "YAFB02-04"&gt;
-	&lt;include "YAFB02-02"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "YAFB02-16"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438887451
-minor: 1
-host: 85.253.110.44
-username: Bot
+blocks: 
 revision: 3
-diff-major: 
-summary: Автоматическое обновление
-languages: 
+username: Bot
+ts: 1438887451
+host: 85.253.110.44
 text: <include "YAFB02-16">
 	
 	<include "YAFB02-09">
@@ -24,5 +13,13 @@ text: <include "YAFB02-16">
 	
 	
 	
+languages: 
+ip: 89.235.235.166
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "YAFB02-16"&gt;</p></div>
+flags: 
+diff-major: 
+summary: Автоматическое обновление
 lastmajor: 1
+minor: 1
 keep-ts: 1438887451

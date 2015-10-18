@@ -1,16 +1,15 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDIR02/09 - Rakendusinfotehnoloogia [Kava:50020 〔Õppekava ÕIS-is〕]</h2><p>[[RAR0320]] Algoritmid ja andmestruktuurid<br />[[RAR0330]] Andmeanalüüsi algoritmika<br />[[RAR0301]] Andmebaaside projekteerimine<br />[[RAR0380]] Andmebaasisüsteemid<br />[[RAR0181]] Arvutid I<br />[[RAR0910]] Arvutivõrkude alused<br />[[RAR0270]] Arvutivõrkude tarkvara<br />[[RAR1230]] Automaatika alused<br />[[RAR3230]] Diskreetne matemaatika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2841]] Erialapraktika I<br />[[RAR2842]] Erialapraktika II<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR0211]] Informaatika I<br />[[RAR0212]] Informaatika II<br />[[RAR0213]] Informaatika II - projekt<br />[[RAR1060]] Infosüsteemide projekteerimine<br />[[RAR0420]] Internetirakenduste arhitektuur ja realiseerimine<br />[[RAR0351]] Internet-programmeerimine (Java) I<br />[[RAR1080]] Internet-programmeerimine (PHP)<br />[[RAR0341]] Keel C ja objektorienteeritud programmeerimine<br />[[RAR0342]] Keel C ja objektorienteeritud programmeerimine - projekt<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR0190]] Multimeedia<br />[[RAR0430]] Objektorienteeritud modelleerimine<br />[[RAH3140]] Õigusõpetus<br />[[RAR0250]] Operatsioonisüsteemid<br />[[RAR1040]] Operatsioonisüsteemide administreerimine<br />[[RAR1130]] Operatsioonisüsteem Unix<br />[[RAR2800]] Õpingukorraldus<br />[[RAR0031]] Õppepraktika I<br />[[RAR0032]] Õppepraktika II<br />[[RAR0033]] Õppepraktika III<br />[[RAH0050]] Organisatsioonipsühholoogia<br />[[RAR2770]] Programmeerimise alused<br />[[RAR0280]] Programmeerimise põhikursus<br />[[RAR1270]] Programmeeritavad kontrollerid<br />[[RAR1070]] Riistvarapõhine programmeerimine<br />[[RAR0160]] Riski- ja ohutusõpetus<br />[[RAR0470]] Side<br />[[RAR0230]] Sissejuhatus infosüsteemidesse<br />[[RAR0311]] Tarkvara kvaliteet ja standardid<br />[[RAR0461]] Tehniline füüsika I<br />[[RAR0462]] Tehniline füüsika II<br />[[RAR0220]] Tõenäosusteooria ja matemaatiline statistika<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus<br />[[RAR2581]] Visuaalprogrammeerimise keeled I<br />[[RAR2582]] Visuaalprogrammeerimise keeled II</p>
+keep-ts: 1441924153
+username: AlexDaniel
+host: 82.131.7.230
+blocks: 
+diff-major: 
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDIR02/09 - Rakendusinfotehnoloogia Kava:50020</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDIR02/09 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:50020 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
+ts: 1441924153
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == RDIR02/09 - Rakendusinfotehnoloogia [Kava:50020 〔Õppekava ÕIS-is〕]
 	[[RAR0320]] Algoritmid ja andmestruktuurid
 	[[RAR0330]] Andmeanalüüsi algoritmika
@@ -68,4 +67,5 @@ text: == RDIR02/09 - Rakendusinfotehnoloogia [Kava:50020 〔Õppekava ÕIS-is〕
 	[[RAR2582]] Visuaalprogrammeerimise keeled II
 	
 	
-keep-ts: 1441924153
+minor: 1
+languages: 

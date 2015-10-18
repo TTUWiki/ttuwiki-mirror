@@ -1,17 +1,9 @@
-flags: 01010
-blocks: &lt;include "YAFD06-09"&gt;
-	&lt;include "YAFD06-06"&gt;
+blocks: 
+summary: Автоматическое обновление (расписание)
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== YAFD06/09 - Tehniline füüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50085&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[YFX9020]] Ametipraktika\\<br />&lt; [[YMR9020]] Arvutusmeetodid\\<br />&lt; [[DBR9060]] Bioelektromagnetismi erikursus\\<br />&lt; [[DBX9010]] Biomeditsiinitehnoloogia doktoriseminar\\<br />&lt; [[EMR9090]] Biomehaanika seminar\\<br />&lt; [[YXX9100]] Doktoriseminar\\<br />&lt; [[DBB9020]] Erialased ettekanded\\<br />&lt; [[DBB9010]] Erialase õpetamise metoodika\\<br />&lt; [[YMM9070]] Fourier' ja lainekeste teisendused\\<br />&lt; [[YMM9020]] Funktsionaalanalüüsi eriseminar\\<br />&lt; [[YFX9010]] Füüsika doktorantidele\\<br />&lt; [[YMF9050]] Gerstenhaberi teooria eriseminar\\<br />&lt; [[YMM9050]] Harmooniline analüüs\\<br />&lt; [[EMX9220]] Hüdro- ja aeromehaanika seminar\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[YMR9070]] Juhuslikud protsessid\\<br />&lt; [[YMA9201]] Kaasaegsete matemaatika meetodite eriseminar I\\<br />&lt; [[YMA9202]] Kaasaegsete matemaatika meetodite eriseminar II\\<br />&lt; [[YFT9220]] Kvantfüüsika eriseminar\\<br />&lt; [[YFT9030]] Kvantstatistika eriseminar\\<br />&lt; [[YFT9230]] Kvantväljateooria elemente\\<br />&lt; [[EMX9230]] Lainelevi ja akustika seminar\\<br />&lt; [[DBB9030]] Laserdiagnostika meetodid meditsiinis\\<br />&lt; [[YMR9050]] Lõplike elementide meetod\\<br />&lt; [[YMM9060]] Matemaatika doktorantidele I\\<br />&lt; [[YMR9140]] Matemaatika doktorantidele II\\<br />&lt; [[YMF9030]] Matemaatilise füüsika võrrandid\\<br />&lt; [[DBX9050]] Meditsiinifüüsika doktoriseminar\\<br />&lt; [[EMX9200]] Mehaanika erikursus doktorantidele\\<br />&lt; [[YMR9150]] Mittekorrektsed ülesanded\\<br />&lt; [[EMR9210]] Mittelineaarse dünaamika seminar\\<br />&lt; [[EMX9240]] Mittelineaarse lainelevi seminar\\<br />&lt; [[YFR9050]] Moodsad eksperimenditehnikad tahke keha füüsikas\\<br />&lt; [[YMR9710]] Operatsioonianalüüs\\<br />&lt; [[DBB9060]] Optosensoorika\\<br />&lt; [[YFR9020]] Päikesepatareide füüsika eriseminar\\<br />&lt; [[EMX9210]] Pideva keskkonna mehaanika seminar\\<br />&lt; [[YFR9010]] Pooljuhtide spektroskoopia eriseminar\\<br />&lt; [[TMK9310]] Projektijuhtimine\\<br />&lt; [[YMR9730]] Rakendusmatemaatika elemente\\<br />&lt; [[MHT0030]] Rakendusstatistika\\<br />&lt; [[DBR9010]] Signaalitöötlus biomeditsiinitehnikas\\<br />&lt; [[YFT9040]] Tahke keha füüsika eriseminar\\<br />&lt; [[YMA9101]] Täiendavaid peatükke rühmateooriast I\\<br />&lt; [[YMA9102]] Täiendavaid peatükke rühmateooriast II\\<br />&lt; [[DBX9030]] Teadusartiklite koostamine\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[YMA9710]] Tensorarvutus\\<br />&lt; [[YFX9030]] Uurimisteemakeskne individuaalõpe\\<br />&lt; [[YMR9030]] Variatsioonmeetodid\\<br />&lt; ===</strong> YAFD06<strong class="changes">/06</strong> - <strong class="changes">Tehniline füüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=4100&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[YFX9020]] Ametipraktika\\<br />&lt; [[YMR9020]] Arvutusmeetodid\\<br />&lt; [[EMR9090]] Biomehaanika seminar\\<br />&lt; [[YXX9100]] Doktoriseminar\\<br />&lt; [[YMM9070]] Fourier' ja lainekeste teisendused\\<br />&lt; [[YMM9020]] Funktsionaalanalüüsi eriseminar\\<br />&lt; [[YFX9010]] Füüsika doktorantidele\\<br />&lt; [[YMF9050]] Gerstenhaberi teooria eriseminar\\<br />&lt; [[YMM9050]] Harmooniline analüüs\\<br />&lt; [[EMX9220]] Hüdro</strong>- <strong class="changes">ja aeromehaanika seminar\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[YMR9070]] Juhuslikud protsessid\\<br />&lt; [[YMA9201]] Kaasaegsete matemaatika meetodite eriseminar I\\<br />&lt; [[YMA9202]] Kaasaegsete matemaatika meetodite eriseminar II\\<br />&lt; [[HHP9020]] Kõrgkoolididaktika\\<br />&lt; [[YFT9220]] Kvantfüüsika eriseminar\\<br />&lt; [[YFT9030]] Kvantstatistika eriseminar\\<br />&lt; [[YFT9230]] Kvantväljateooria elemente\\<br />&lt; [[EMX9230]] Lainelevi ja akustika seminar\\<br />&lt; [[YMR9050]] Lõplike elementide meetod\\<br />&lt; [[YMM9060]] Matemaatika doktorantidele I\\<br />&lt; [[YMR9140]] Matemaatika doktorantidele II\\<br />&lt; [[YMF9030]] Matemaatilise füüsika võrrandid\\<br />&lt; [[EMX9200]] Mehaanika erikursus doktorantidele\\<br />&lt; [[YMR9150]] Mittekorrektsed ülesanded\\<br />&lt; [[EMR9210]] Mittelineaarse dünaamika seminar\\<br />&lt; [[EMX9240]] Mittelineaarse lainelevi seminar\\<br />&lt; [[YFR9050]] Moodsad eksperimenditehnikad tahke keha füüsikas\\<br />&lt; [[YMR9710]] Operatsioonianalüüs\\<br />&lt; [[YFR9020]] Päikesepatareide füüsika eriseminar\\<br />&lt; [[EMX9210]] Pideva keskkonna mehaanika seminar\\<br />&lt; [[YFR9010]] Pooljuhtide spektroskoopia eriseminar\\<br />&lt; [[TMK9310]] Projektijuhtimine\\<br />&lt; [[YMR9730]] Rakendusmatemaatika elemente\\<br />&lt; [[YFT9040]] Tahke keha füüsika eriseminar\\<br />&lt; [[YMA9101]] Täiendavaid peatükke rühmateooriast I\\<br />&lt; [[YMA9102]] Täiendavaid peatükke rühmateooriast II\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[YMA9710]] Tensorarvutus\\<br />&lt; [[YFX9030]] Uurimisteemakeskne individuaalõpe\\<br />&lt; [[YMR9030]] Variatsioonmeetodid\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>YAFD06-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YAFD06</strong>-<strong class="changes">06"&gt;</strong></p></div>
-ip: 89.235.235.166
-ts: 1408885938
-minor: 1
 host: 89.235.223.25
-username: Bot
-revision: 2
-diff-major: 
-summary: Автоматическое обновление (расписание)
 languages: 
 text: <include "YAFD06-09">
 	
@@ -19,5 +11,12 @@ text: <include "YAFD06-09">
 	
 	
 	
-lastmajor: 1
+revision: 2
+diff-major: 
+ip: 89.235.235.166
+flags: 
+username: Bot
 keep-ts: 1408885938
+minor: 1
+ts: 1408885938
+lastmajor: 1

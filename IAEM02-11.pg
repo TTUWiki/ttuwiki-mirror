@@ -1,16 +1,13 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAEM02/11 - Elektroonika ja bioonika [Kava:50172 〔Õppekava ÕIS-is〕]</h2><p>[[IED3010]] Analoog/digitaal skeemide disain<br />[[IEM3040]] Andmehõivesüsteemid<br />[[IEM3240]] Biomeditsiinielektroonika<br />[[DBB0220]] Biomeditsiiniseadmed<br />[[DBR0150]] Biosensoorika<br />[[IEX3010]] Elektronsüsteemid - kompleksprojekt<br />[[IEX3020]] Elektroonika erikursus<br />[[IED3080]] Elektroonika- ja sidetööstus<br />[[TMT0040]] Ergonoomika<br />[[IED3090]] Erialapraktika<br />[[TMJ0110]] Ettevõtluse alused<br />[[IEM3220]] Füsioloogia ja tehnika<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[IEM0230]] Juhtimine ja side elektronsüsteemides<br />[[IED3040]] Kiipdisain<br />[[IEM0290]] Kõne analüüs ja süntees<br />[[IED3030]] Mikroelektroonika<br />[[IED3070]] Nanoelektroonika<br />[[IEM3010]] Navigeerimine ja positsioneerimine<br />[[DBB0300]] Optoelektroonika ja integraaloptika<br />[[IBX0020]] Robootika<br />[[IEM0250]] Sensorsignaalitöötlus<br />[[IEA0200]] Sensorvõrgud<br />[[IRZ0140]] Signaalid ja signaalitöötlus<br />[[IED3060]] Tahkiselektroonika<br />[[HLX8040]] Teadusvõõrkeel<br />[[IEM3020]] Test ja diagnostika</p>
+host: 82.131.7.230
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924150
+keep-ts: 1441924150
+blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAEM02/11 - Elektroonika ja bioonika Kava:50172</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAEM02/11 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50172 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == IAEM02/11 - Elektroonika ja bioonika [Kava:50172 〔Õppekava ÕIS-is〕]
 	[[IED3010]] Analoog/digitaal skeemide disain
 	[[IEM3040]] Andmehõivesüsteemid
@@ -41,4 +38,7 @@ text: == IAEM02/11 - Elektroonika ja bioonika [Kava:50172 〔Õppekava ÕIS-is�
 	[[IEM3020]] Test ja diagnostika
 	
 	
-keep-ts: 1441924150
+username: AlexDaniel
+languages: 
+revision: 4
+diff-major: 

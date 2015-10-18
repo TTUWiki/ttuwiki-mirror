@@ -1,16 +1,4 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAHM03/09 - Haldusjuhtimine [Kava:50008 〔Õppekava ÕIS-is〕]</h2><p>[[HHL1200]] Avalik eetika<br />[[HHM1130]] Avalik teenistus<br />[[HHL1260]] Avaliku halduse alused<br />[[HHM1090]] Avaliku ja erasektori koostöö<br />[[HHL1330]] Avaliku sektori finantsjuhtimine<br />[[HHM1120]] Eesti avalik haldus<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[HLI8752]] Erialane inglise keel haldusjuhtidele<br />[[HHL1270]] Euroopa Liit<br />[[HOA7003]] Haldusõigus<br />[[HPP1040]] Kriisi- ja katastroofipsühholoogia<br />[[HHM1803]] Kriisijuhtimine<br />[[HPP1050]] Kriisikommunikatsioon<br />[[HHM1802]] Kriisireguleerimise alused<br />[[HHM1050]] Kvaliteedijuhtimine avalikus sektoris<br />[[HHR1190]] Looduskeskkonna riskid<br />[[HHM1170]] Organisatsiooniteooria<br />[[HHM1020]] Personalijuhtimine avalikus sektoris<br />[[HHL1180]] Poliitika analüüs ja hindamine<br />[[HHM1190]] Praktika<br />[[HHM1060]] Projektijuhtimine avalikus sektoris<br />[[HHM1801]] Rahvusvaheline julgeolek<br />[[HHM1140]] Riigiasutuste juhtimine<br />[[HOA7002]] Riigiõigus<br />[[HHL1160]] Riigi rahandus<br />[[HHM1805]] Riskihaldus<br />[[HHM1180]] Sissejuhatus haldusjuhtimisse<br />[[HHL1230]] Sissejuhatus halduspoliitikasse<br />[[TMT1240]] Sotsiaalkeskkonna riskid<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHM1804]] Tehiskeskkonna riskid<br />[[HHM1100]] Tulemusjuhtimine avalikus sektoris<br />[[HHM1080]] Võrdlev avalik haldus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAHM03/09 - Haldusjuhtimine Kava:50008</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAHM03/09 - Haldusjuhtimine <strong class="changes">[</strong>Kava:50008 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == HAHM03/09 - Haldusjuhtimine [Kava:50008 〔Õppekava ÕIS-is〕]
 	[[HHL1200]] Avalik eetika
 	[[HHM1130]] Avalik teenistus
@@ -47,4 +35,16 @@ text: == HAHM03/09 - Haldusjuhtimine [Kava:50008 〔Õppekava ÕIS-is〕]
 	[[HHM1080]] Võrdlev avalik haldus
 	
 	
+blocks: 
+username: AlexDaniel
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
 keep-ts: 1441924149
+ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAHM03/09 - Haldusjuhtimine Kava:50008</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAHM03/09 - Haldusjuhtimine <strong class="changes">[</strong>Kava:50008 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+flags: 

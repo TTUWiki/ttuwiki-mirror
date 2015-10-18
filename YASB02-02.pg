@@ -1,16 +1,17 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YASB02/02 - Rakenduskeemia ja biotehnoloogia [Kava:950 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[YKL3311]] Biokeemia<br />[[YKL3312]] Biokeemia - praktikum<br />[[YKB5220]] Biotehnoloogia  I<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[YKI0100]] Elementide keemia<br />[[YTP0100]] Ensümoloogia alused<br />[[TMV3370]] Ettevõtlus ja väikeettevõtte juhtimine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3070]] Filosoofia<br />[[YFR0030]] Füüsika<br />[[KYF0021]] Füüsikaline keemia I<br />[[YTG0011]] Geenitehnoloogia I<br />[[IDK0011]] Informaatika I<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKA3412]] Instrumentaalanalüüs - ainetöö<br />[[IDU5720]] Interneti baaskursus<br />[[YKI0020]] Keemia alused<br />[[KYF3630]] Keemiainformaatika<br />[[KAT3181]] Keemiatehnika alused<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0010]] Looduslike ühendite keemia I<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[YKO001P]] Praktika<br />[[MHT0030]] Rakendusstatistika<br />[[KAT0041]] Reaktsiooniprotsessid I<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YKB3200]] Üldloodusteadus</p>
+ts: 1441924155
+host: 82.131.7.230
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924155
+blocks: 
+username: AlexDaniel
+minor: 1
+languages: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YASB02/02 - Rakenduskeemia ja biotehnoloogia Kava:950</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YASB02/02 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:950 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == YASB02/02 - Rakenduskeemia ja biotehnoloogia [Kava:950 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0010]] Analüütiline keemia
@@ -60,4 +61,3 @@ text: == YASB02/02 - Rakenduskeemia ja biotehnoloogia [Kava:950 〔Õppekava ÕI
 	[[YKB3200]] Üldloodusteadus
 	
 	
-keep-ts: 1441924155

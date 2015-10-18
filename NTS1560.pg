@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924449
+languages: 
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitusmasinad
 	#SUBURL [Course:109786 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109786 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
+username: AlexDaniel
+host: 82.131.7.230
+flags: 1
+revision: 2
+ts: 1441924449

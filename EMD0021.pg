@@ -1,23 +1,23 @@
-blocks: <h2>Õppematerjalid</h2><p><a class="url http outside" href="http://www.staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf">Ehitusmehaanika raamat</a></p>
-lastmajorsummary: 
-ip: 89.235.235.166
-diff-major: 1
-summary: 
-languages: 
 text: #SUBTITLE Ehitusmehaanika I
 	#SUBURL [Course:101360 〔Õppeaine ÕIS-is〕]
 	
 	==Õppematerjalid
 	[http://www.staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf Ehitusmehaanika raamat]
 	
+languages: 
+revision: 5
+host: 86.110.37.246
+lastmajorsummary: 
+flags: 1
+ip: 89.235.235.166
 lastmajor: 5
+username: Andreas_Pungar
+blocks: [Course:101360 〔Õppeaine ÕIS-is〕]
+diff-major: 1
+keep-ts: 1443120865
+ts: 1443120865
+summary: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://www</strong>.<strong class="changes">staff.ttu.ee/~raamet/Failid/Ehitusmehaanika2015.pdf Ehitusmehaanika raamat]</strong></p></div>
-flags: 0
-ts: 1443120865
 minor: 
-username: Andreas_Pungar
-host: 86.110.37.246
-revision: 5
-keep-ts: 1443120865

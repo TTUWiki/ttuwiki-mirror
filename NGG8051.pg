@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924448
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
-revision: 2
+languages: 
+flags: 1
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+revision: 2
 text: #SUBTITLE CO2 geoloogiline ladustamine
 	#SUBURL [Course:105108 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
 keep-ts: 1441924448
+blocks: [Course:105108 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

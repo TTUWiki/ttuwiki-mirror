@@ -1,16 +1,17 @@
-flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAM02/11 - Rakenduslik majandusteadus [Kava:50161 〔Õppekava ÕIS-is〕]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TSX1010]] Erialane võõrkeel II<br />[[TET1040]] Euroopa Liidu majandus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TTK1030]] Keskkonna ja loodusressursside arvestus<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TTR1110]] Maksundus ja fiskaalpoliitika<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES1030]] Mitmemõõtmeline statistiline analüüs<br />[[TES1040]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TTR1090]] Sotsiaalne tasuvusanalüüs<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
+minor: 1
+languages: 
+diff-major: 
+revision: 5
+host: 82.131.7.230
+ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAM02/11 - Rakenduslik majandusteadus Kava:50161</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAM02/11 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50161 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
+keep-ts: 1441924153
 username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
 text: == TAAM02/11 - Rakenduslik majandusteadus [Kava:50161 〔Õppekava ÕIS-is〕]
 	[[TTP1050]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -38,4 +39,3 @@ text: == TAAM02/11 - Rakenduslik majandusteadus [Kava:50161 〔Õppekava ÕIS-is
 	[[TTX199P]] Tööpraktika
 	
 	
-keep-ts: 1441924153

@@ -1,16 +1,7 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TACB08/08e - Ärikorraldus [Kava:50128 〔Õppekava ÕIS-is〕]</h2><p>[[TMM0540]] Ärialane suhtlemine<br />[[TMK0130]] Ärieetika<br />[[TEM0326]] Äriinformaatika<br />[[TTO0120]] Äriõigus<br />[[TMM0500]] Äriturundus<br />[[TXX0110]] Bakalaureusetöö seminar<br />[[TEM0323]] Ettevõtte majandustarkvara lahendused<br />[[TER0430]] Ettevõtte rahandus<br />[[TSK0170]] Filosoofia<br />[[TAF0161]] Finantsarvestus I<br />[[TAF0162]] Finantsarvestus II<br />[[TAK0120]] Finantskontroll ja audiitorlus<br />[[TMM0120]] Hinnakujundus<br />[[TSK0020]] Inglise keel I<br />[[TSK0021]] Inglise keel II<br />[[TSK0022]] Inglise keel III<br />[[TSK0023]] Inglise keel IV<br />[[TMK0110]] Innovatsioon ja tootearendus<br />[[TER0530]] Investeeringute alused<br />[[TAK0110]] Juhtimisarvestus<br />[[TMO0070]] Juhtimise alused<br />[[TMO0080]] Juhtimissituatsioonide analüüs<br />[[TAK0140]] Kulude arvestus<br />[[TES0100]] Kvalitatiivsed ja kvantitatiivsed hindamismeetodid<br />[[TEM0324]] Majandusmatemaatika I<br />[[TEM0325]] Majandusmatemaatika II<br />[[TET0120]] Makroökonoomika<br />[[TAF0150]] Maksundus<br />[[TET0110]] Mikroökonoomika<br />[[TMO0090]] Muudatuste juhtimine ja õppiv organisatsioon<br />[[TTO0100]] Õiguse alused<br />[[TMK0120]] Operatsioonide ja logistika juhtimine<br />[[TMO0100]] Organisatsiooni ja inimressursi juhtimine<br />[[TMO0110]] Organisatsioonikäitumine<br />[[TMO0120]] Palgakorraldus<br />[[TXX081P]] Praktika<br />[[TER0230]] Raha ja pangandus<br />[[TER0660]] Rahvusvaheline finantsjuhtimine<br />[[TMM0170]] Reklaamipsühholoogia<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TER0330]] Sissejuhatus rahandusse<br />[[TTS0110]] Sotsioloogia<br />[[TES0121]] Statistika<br />[[TER0670]] Strateegiline finantsjuhtimine<br />[[TMO0130]] Strateegiline juhtimine<br />[[TMM0200]] Tarbijakäitumine<br />[[TMM0270]] Teenuste turundus<br />[[TMM0570]] Toetusmeetmestiku kujundamine<br />[[TET0100]] Töö-ökonoomika ja tööturg<br />[[TMM0150]] Turunduse alused<br />[[TMM0320]] Turu-uuring<br />[[TES0131]] Uurimistöö alused</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TACB08/08e - Ärikorraldus Kava:50128</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TACB08/08e - Ärikorraldus <strong class="changes">[</strong>Kava:50128 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
+flags: 
 username: AlexDaniel
+ts: 1441924153
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TACB08/08e - Ärikorraldus [Kava:50128 〔Õppekava ÕIS-is〕]
 	[[TMM0540]] Ärialane suhtlemine
 	[[TMK0130]] Ärieetika
@@ -66,4 +57,13 @@ text: == TACB08/08e - Ärikorraldus [Kava:50128 〔Õppekava ÕIS-is〕]
 	[[TES0131]] Uurimistöö alused
 	
 	
+blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TACB08/08e - Ärikorraldus Kava:50128</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TACB08/08e - Ärikorraldus <strong class="changes">[</strong>Kava:50128 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+host: 82.131.7.230
+minor: 1
 keep-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 

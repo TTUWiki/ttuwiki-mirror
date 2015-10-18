@@ -1,23 +1,23 @@
-blocks: <p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://staff.ttu.ee/~dedov/Kompressormasinad">Õppeaine koduleht</a></li></ul>
-lastmajorsummary: 
-ip: 89.235.235.166
+username: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"> <br />&gt; Õppematerjalid:<br />&gt; * [http://staff</strong>.<strong class="changes">ttu.ee/~dedov/Kompressormasinad Õppeaine koduleht]</strong></p></div>
 diff-major: 1
-summary: 
-languages: 
+minor: 
+lastmajorsummary: 
 text: #SUBTITLE Kompressormasinad
 	#SUBURL [Course:30530 〔Õppeaine ÕIS-is〕]
 	 
 	Õppematerjalid:
 	* [http://staff.ttu.ee/~dedov/Kompressormasinad Õppeaine koduleht]
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"> <br />&gt; Õppematerjalid:<br />&gt; * [http://staff</strong>.<strong class="changes">ttu.ee/~dedov/Kompressormasinad Õppeaine koduleht]</strong></p></div>
-flags: 0
+flags: 1
 ts: 1442558662
-minor: 
-username: 
+ip: 89.235.235.166
+languages: 
 host: 86.110.37.246
+blocks: [Course:30530 〔Õppeaine ÕIS-is〕]
+summary: 
 revision: 5
 keep-ts: 1442558662

@@ -1,16 +1,14 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [Kava:50089 〔Õppekava ÕIS-is〕]</h2><p>[[IDK9010]] Agentorienteeritud modelleerimise eriteemad<br />[[ISP9630]] Agentsüsteemide alused<br />[[ITV9190]] Andmebaasisüsteemide tehnoloogia eripeatükid<br />[[IDN9050]] Andmekaevandamise eriteemad<br />[[IEM9040]] Bioonika<br />[[IXX9611]] Doktorantide õpetamispraktika I<br />[[IXX9612]] Doktorantide õpetamispraktika II<br />[[IXX9601]] Doktoriseminar I<br />[[IXX9602]] Doktoriseminar II<br />[[IXX9603]] Doktoriseminar III<br />[[ISS9630]] Dünaamiliste süsteemide juhtimine<br />[[ISS9620]] Dünaamiliste süsteemide modelleerimine<br />[[IED9050]] Elektroonikadisain<br />[[IED9030]] Elektroonika ja bioonika<br />[[ITI9191]] Formaalmeetodite eripeatükid<br />[[HHP9010]] Juhtimispsühholoogia<br />[[ITT9130]] Konkreetne matemaatika<br />[[HHP9030]] Kõrgkoolididaktika<br />[[IDS9030]] Krüptograafia eriteemad<br />[[IRM9080]] Mikrolaineseadmete mudeldamine<br />[[IDU9070]] Mudelitel põhinevad arhitektuurid<br />[[IDU9060]] Nõuete analüüs - mudelil põhinev lähenemisviis<br />[[IAY9610]] Optimeerimisalgoritmid riistvara sünteesis<br />[[DBB9060]] Optosensoorika<br />[[IED9040]] Pooljuhtelektroonika<br />[[ISP9070]] Proaktiivtehnoloogiad<br />[[ITT9031]] Programmikeelte semantika<br />[[ITV9070]] Semantika ja analüütiline filosoofia<br />[[IRT9040]] Sideteooria<br />[[ISC9610]] Sidude ja süsteemide teooria<br />[[IRZ9041]] Stohhastiliste signaalide ja süsteemide erikursus<br />[[IAG9610]] Tarkvara projektijuhtimine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[IDX9022]] Tehisintellekti rakendused info- ja teadmussüsteemides<br />[[ISP9610]] Tehisintellekt ja reaalaeg<br />[[IAF9530]] Usaldusväärsed süsteemid<br />[[IAF9550]] Vigade ja rikete lokaliseerimine digitaalsüsteemides<br />[[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus</p>
+languages: 
+host: 82.131.7.230
+blocks: 
+revision: 4
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia Kava:50089</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia <strong class="changes">[</strong>Kava:50089 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
+keep-ts: 1441924150
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [Kava:50089 〔Õppekava ÕIS-is〕]
 	[[IDK9010]] Agentorienteeritud modelleerimise eriteemad
 	[[ISP9630]] Agentsüsteemide alused
@@ -53,4 +51,6 @@ text: == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [Kava:50089 〔Õppeka
 	[[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus
 	
 	
-keep-ts: 1441924150
+diff-major: 
+ts: 1441924150
+flags: 

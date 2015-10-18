@@ -1,16 +1,14 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAEI02/09Tartu - Tööstus- ja tsiviilehitus [Kava:50082 〔Õppekava ÕIS-is〕]</h2><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM0460]] Arhitektuurigraafika<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM1380]] Arhitektuuri teooria<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0460]] Betooniõpetus<br />[[NTS1151]] Betoonkonstruktsioonid I<br />[[NTS1152]] Betoonkonstruktsioonid II<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1270]] Eesti ajaloolised interjöörid<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0570]] Ehitise tehnilise seisukorra hindamine<br />[[NTS1250]] Ehitiste katsetamine<br />[[NTM0470]] Ehitiste restaureerimine<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0490]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS1080]] Ehituskonstruktsioonide projekteerimise alused<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0242]] Ehitusmaterjalid II<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0500]] Ehitustehnoloogia<br />[[NTS0250]] Elektrotehnika<br />[[NTS1070]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0030]] Hüdraulika alused<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTM0890]] Joonistamine<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTS0580]] Kivikonstruktsioonid<br />[[NTM0530]] Konserveerimisbioloogia<br />[[NTS0470]] Korrosioonikaitse ehituses<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTM1270]] Linnaplaneerimise teooria ja urbanistika<br />[[NTS1100]] Lõplike elementide meetod<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1090]] Materjalide keemia<br />[[NTS0523]] Metallkonstruktsioonide projekteerimine I<br />[[NTS0525]] Metallkonstruktsioonid II<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0500]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTK0030]] Õigusõpetus<br />[[NTK0010]] Õpingukorraldus<br />[[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS1190]] Puitkonstruktsioonid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS1140]] Restaureerimise ettevalmistustööd<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II<br />[[NTS0591]] Vundamendid</p>
+blocks: 
+keep-ts: 1441924149
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEI02/09Tartu - Tööstus- ja tsiviilehitus Kava:50082</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEI02/09Tartu - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50082 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
+diff-major: 
+ts: 1441924149
 text: == EAEI02/09Tartu - Tööstus- ja tsiviilehitus [Kava:50082 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTM0460]] Arhitektuurigraafika
@@ -93,4 +91,6 @@ text: == EAEI02/09Tartu - Tööstus- ja tsiviilehitus [Kava:50082 〔Õppekava �
 	[[NTS0591]] Vundamendid
 	
 	
-keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+username: AlexDaniel

@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EATM07/07 - Teedeehitus ja geodeesia [Kava:4045 〔Õppekava ÕIS-is〕]</h2><p>[[ETT0150]] Arvutikasutus teedeasjanduses<br />[[ETG0170]] Deformatsioonide uurimine<br />[[ETG0160]] Digitaalkartograafia<br />[[ETG0081]] Ehitusgeodeesia I<br />[[ETG0082]] Ehitusgeodeesia II<br />[[ETG0111]] Fotogramm-meetria I<br />[[ETG0112]] Fotogramm-meetria II<br />[[ETG0030]] Geodeetilised instrumendid<br />[[ETG8450]] Geodeetilised tööd kõrghoonete ehitusel<br />[[ETG0200]] Geodeetiliste võrkude tasandamine - projekt<br />[[ETG3511]] Geograafiline infosüsteem GIS I<br />[[ETG3512]] Geograafiline infosüsteem GIS II<br />[[ETG0120]] Gravimeetria<br />[[ETG8440]] Gravimeetria erikursus<br />[[ETG3731]] Kaevandusgeodeesia<br />[[ETG0100]] Kartograafia<br />[[ETG0300]] Kartograafia - ainetöö<br />[[ETG3460]] Katastrimõõtmised<br />[[MTT0050]] Keevitus<br />[[ETG3440]] Kinnisvaraõiguse alused<br />[[ETG8421]] Kohalikud geodeetilised põhivõrgud I<br />[[ETG8422]] Kohalikud geodeetilised põhivõrgud II<br />[[ETG0051]] Kõrgem geodeesia I<br />[[ETG0052]] Kõrgem geodeesia II<br />[[ETT0080]] Liikluse modelleerimine<br />[[ETT0110]] Liikluskorraldus ja -ohutus<br />[[ETT0101]] Liiklussõlmede projekteerimine<br />[[ETT0102]] Liiklussõlmede projekteerimine - projekt<br />[[ETT0090]] Linnaliiklus<br />[[ETG0020]] Maamõõdupraktikum<br />[[ETG0180]] Mõõdistusandmete automatiseeritud töötlus<br />[[ETG0131]] Mõõtmissüsteemide programmeerimine I<br />[[ETG0132]] Mõõtmissüsteemide programmeerimine II<br />[[ETG0040]] Mõõtmisvigade teooria<br />[[ETS0050]] Puitsillad<br />[[ETS0051]] Puitsillad - projekt<br />[[ETS0040]] Raudbetoonsillad<br />[[ETS0041]] Raudbetoonsillad - projekt<br />[[ETT0140]] Rööbasteed<br />[[ETG0071]] Satelliidigeodeesia<br />[[ETG0072]] Satelliidigeodeesia - projekt<br />[[ETS0070]] Sildade erikursus<br />[[ETS0030]] Sildade hooldus<br />[[ETS0010]] Sillad<br />[[ETS0080]] Sillaehituse arvutusmeetodid<br />[[ETS0060]] Sillasambad<br />[[ETS0061]] Sillasambad - projekt<br />[[ETG0090]] Tasandamise alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[ETT0030]] Tee-ehituse ökonoomika<br />[[ETT0031]] Tee-ehituse ökonoomika - ainetöö<br />[[ETT0061]] Tee-ehitus I<br />[[ETT0064]] Tee-ehitus I - ainetöö<br />[[ETT0062]] Tee-ehitus II<br />[[EPT3420]] Tee-ehitusmasinad<br />[[ETT0041]] Tee-ehitusmaterjalid I<br />[[ETT0042]] Tee-ehitusmaterjalid II<br />[[ETT0063]] Tee-ehitus - projekt<br />[[ETT0011]] Tee-ehitustööde korraldus<br />[[ETT0012]] Tee-ehitustööde korraldus - projekt<br />[[ETT0161]] Teekonstruktsioonid<br />[[ETT0162]] Teekonstruktsioonid - projekt<br />[[ETT0051]] Tee korrashoid I<br />[[ETT0052]] Tee korrashoid II<br />[[ETT0020]] Teemajandi juhtimine<br />[[ETT0073]] Teeprojekteerimine - projekt II<br />[[ETS0020]] Terassillad<br />[[ETS0021]] Terassillad - projekt<br />[[ETG0061]] Topograafiline mõõdistamine I<br />[[ETG0062]] Topograafiline mõõdistamine II<br />[[ETG3760]] Ülevaade geoinfosüsteemidest<br />[[ETG8430]] Valguse refraktsioon geodeetilistel mõõtmistel<br />[[ETT0121]] Veeristete projekteerimine<br />[[ETT0122]] Veeristete projekteerimine - projekt<br />[[ETG8411]] Vesiehitiste uuringud I<br />[[ETG8412]] Vesiehitiste uuringud II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EATM07/07 - Teedeehitus ja geodeesia Kava:4045</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EATM07/07 - Teedeehitus ja geodeesia <strong class="changes">[</strong>Kava:4045 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == EATM07/07 - Teedeehitus ja geodeesia [Kava:4045 〔Õppekava ÕIS-is〕]
 	[[ETT0150]] Arvutikasutus teedeasjanduses
 	[[ETG0170]] Deformatsioonide uurimine
@@ -91,3 +78,16 @@ text: == EATM07/07 - Teedeehitus ja geodeesia [Kava:4045 〔Õppekava ÕIS-is〕
 	
 	
 keep-ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EATM07/07 - Teedeehitus ja geodeesia Kava:4045</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EATM07/07 - Teedeehitus ja geodeesia <strong class="changes">[</strong>Kava:4045 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4
+host: 82.131.7.230
+diff-major: 
+ts: 1441924149
+languages: 
+username: AlexDaniel
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+blocks: 

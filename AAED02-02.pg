@@ -1,16 +1,3 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAED02/02 - Energia- ja geotehnika [Kava:1314 〔Õppekava ÕIS-is〕]</h2><p>[[AKM9140]] Allmaarajatiste erikursus<br />[[AAR9140]] Ametipraktika<br />[[AEK9220]] Dielektrikute läbilöögiteooriad<br />[[AAR9130]] Doktoriõppe eriseminar<br />[[AES9730]] Ebamäärased süsteemid<br />[[AAV9730]] Elektriajamite ja elektrivarustuse teadusseminar<br />[[AMM9010]] Elektrivõrgu parameetrite stabiliseerimine<br />[[AES9691]] Elektroenergeetika teadusseminar I<br />[[AES9692]] Elektroenergeetika teadusseminar II<br />[[AME8110]] Elektromagnetilise ühilduvuse erikursus<br />[[AME8120]] Elektrotehnika erikursus II<br />[[AMM9040]] Elektrotehnika eriseminar<br />[[AMM9050]] Elektrotehnika teadusseminar I<br />[[AMM9060]] Elektrotehnika teadusseminar II<br />[[AAV9700]] Energia ja keskkond<br />[[AAV9710]] Energiasalvestus ja sääst<br />[[AES9740]] Energiasüsteemide küberneetika<br />[[AES9770]] Energiasüsteemide majanduskorraldus<br />[[AES9750]] Energiasüsteemi optimeerimise erikursus<br />[[AES9760]] Energiasüsteemi siirdeprotsesside erikursus<br />[[AKM9120]] Eriseminar<br />[[AKG9060]] Geotehnika erikursus<br />[[AKG9070]] Hüdrogeoloogia erikursus<br />[[AAR9700]] Inimese ja masina vastastiktoime<br />[[HHP9010]] Juhtimispsühholoogia<br />[[AKG9050]] Kaevandusgeoloogia erikursus<br />[[AKG9040]] Keskkonnakaitse erikursus<br />[[AEK9230]] Kõrgepingetehnika erikursus<br />[[HHP9020]] Kõrgkoolididaktika<br />[[AAR9720]] Liikumise optimaaljuhtimine<br />[[AMM9020]] Liinide juhitav kompensatsioon<br />[[AKM9130]] Mäeettevõtte tehnoloogiastruktuur<br />[[AKM9020]] Mäetööstuse planeering<br />[[AKM9010]] Mäetööstuskeskkonna kujundamine<br />[[YMM9060]] Matemaatika doktorantidele I<br />[[YMR9140]] Matemaatika doktorantidele II<br />[[AME9030]] Muundustehnika erikursus<br />[[TMK9310]] Projektijuhtimine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[AKG9100]] Teadusseminar<br />[[AAR9730]] Tööstusautomaatika teadusseminar<br />[[AAR9710]] Tööstussüsteemide juhtimine<br />[[AAV9720]] Üldistatud elektrienergia muundurid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAED02/02 - Energia- ja geotehnika Kava:1314</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAED02/02 - Energia- ja geotehnika <strong class="changes">[</strong>Kava:1314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == AAED02/02 - Energia- ja geotehnika [Kava:1314 〔Õppekava ÕIS-is〕]
 	[[AKM9140]] Allmaarajatiste erikursus
 	[[AAR9140]] Ametipraktika
@@ -59,3 +46,16 @@ text: == AAED02/02 - Energia- ja geotehnika [Kava:1314 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924148
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAED02/02 - Energia- ja geotehnika Kava:1314</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAED02/02 - Energia- ja geotehnika <strong class="changes">[</strong>Kava:1314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924148
+revision: 4
+languages: 
+diff-major: 
+blocks: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel

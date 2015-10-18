@@ -1,16 +1,12 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YASM02/14 - Rakenduskeemia ja biotehnoloogia [Kava:50241 〔Õppekava ÕIS-is〕]</h2><p>[[YKX0012]] Ametipraktika magistrantidele<br />[[YKI0050]] Anorgaaniline keemia II<br />[[YKI0070]] Arvutuskeemia<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[KYF0022]] Füüsikaline keemia II<br />[[YKM0060]] Füüsikaline orgaaniline keemia<br />[[YTP0070]] Genoomika ja proteoomika<br />[[YKL0100]] Interaktoomika<br />[[YKO0090]] Keemiliste reaktsioonide mehhanismid<br />[[YKA0042]] Kemomeetria<br />[[KAK0050]] Keskkonnakeemia<br />[[YKB1120]] Kultiveerimine ja rakudisain<br />[[YKA0030]] Kvaliteedisüsteem laboris ja ettevõttes<br />[[YKI0060]] Kvantkeemia<br />[[YKX0060]] Laboripraktikum<br />[[YKA0040]] Lahutusmeetodid keemias<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YKA0043]] Massispektromeetria<br />[[YKL0090]] Meditsiiniline keemia<br />[[YTD0011]] Molekulaardiagnostika<br />[[YKM0020]] Molekulaardisain<br />[[YTP0051]] Nukleiinhapete keemia<br />[[YKO5314]] Orgaaniline süntees - ainetöö<br />[[YKO0100]] Orgaanilise sünteesi meetodid<br />[[YKO0030]] Stereokeemia I<br />[[YKB3333]] Süsteemibioloogia<br />[[TMM1820]] Teaduskommunikatsioon<br />[[HLX8040]] Teadusvõõrkeel<br />[[YKO0080]] Tuumade magnetresonantsspektroskoopia<br />[[YTP0062]] Valkude keemia ja struktuur</p>
+blocks: 
+ts: 1441924155
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YASM02/14 - Rakenduskeemia ja biotehnoloogia Kava:50241</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YASM02/14 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50241 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == YASM02/14 - Rakenduskeemia ja biotehnoloogia [Kava:50241 〔Õppekava ÕIS-is〕]
 	[[YKX0012]] Ametipraktika magistrantidele
 	[[YKI0050]] Anorgaaniline keemia II
@@ -44,4 +40,8 @@ text: == YASM02/14 - Rakenduskeemia ja biotehnoloogia [Kava:50241 〔Õppekava �
 	[[YTP0062]] Valkude keemia ja struktuur
 	
 	
+host: 82.131.7.230
 keep-ts: 1441924155
+diff-major: 
+revision: 5
+languages: 

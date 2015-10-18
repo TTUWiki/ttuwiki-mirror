@@ -1,16 +1,16 @@
-flags: 00
-blocks: <p>Это ВикиДвижок или это самосборка сайта такая?</p><p>&#x2013; Misha 2014-02-25 15:08 UTC</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Скорее что-то среднее между этими двумя вариантами :)<br />Движок <a class="url http outside" href="https://oddmuse.org/">Oddmuse</a>, который, например, используется на <a class="url http" href="http://www.emacswiki.org/">http://www.emacswiki.org/</a></p><p>&#x2013; AlexDaniel 2014-02-25 16:06 UTC</p></div>
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Движок <strong class="changes">OddMuse,</strong> который, например, используется на http://www.emacswiki.org/</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Движок <strong class="changes">[[https://oddmuse.org/ Oddmuse]],</strong> который, например, используется на http://www.emacswiki.org/</p></div>
 ts: 1440974346
+lastmajor: 1
 minor: 1
+keep-ts: 1440974346
 host: 82.131.0.18
-username: AlexDaniel
 revision: 2
-summary: ссылка на oddmus
+flags: 
 diff-major: 
-languages: 
+blocks: 
 text: Это ВикиДвижок или это самосборка сайта такая?
 	
 	-- Misha 2014-02-25 15:08 UTC
@@ -24,5 +24,5 @@ text: Это ВикиДвижок или это самосборка сайта 
 	-- AlexDaniel 2014-02-25 16:06 UTC
 	
 	
-lastmajor: 1
-keep-ts: 1440974346
+summary: ссылка на oddmus
+languages: 

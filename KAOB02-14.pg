@@ -1,16 +1,4 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>KAOB02/14 - Puidu- ja tekstiilitehnoloogia [Kava:50251 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[TMK0070]] Ärieetika<br />[[KMX0210]] CAD/CAM puidu- ja rõivatööstuses<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[KYF0070]] Funktsionaalsed materjalid<br />[[YFR0020]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[IDK0110]] Informaatika keemia erialadele<br />[[YGK3360]] Insenerigraafika<br />[[MES0010]] Integreeritud tootearendus<br />[[YKI0020]] Keemia alused<br />[[YMA3710]] Lineaaralgebra<br />[[ETV3110]] Logistika alused<br />[[YMM3731]] Matemaatiline analüüs I<br />[[KCM0013]] Materjalide uurimismeetodid<br />[[KYP0040]] Materjaliteaduse üldalused<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[KMX0020]] Õppepraktika<br />[[YKO0070]] Orgaaniline keemia I<br />[[KMP0220]] Polümeeriteaduse alused<br />[[HHP3200]] Psühholoogia ja loogika<br />[[KMX0220]] Puidu- ja rõivatööstuse tehnoloogia<br />[[KMM0240]] Puidu kuivatamine ja hüdrotermiline töötlemine<br />[[KMM0350]] Puidu mehaaniline töötlemine<br />[[KMM0210]] Puiduteadus<br />[[MHT0031]] Rakendusstatistika<br />[[TMT3660]] Riski- ja ohutusõpetus materjalide töötlemisel<br />[[KMT0395]] Rõivaste konstrueerimise alused<br />[[KMX0010]] Sissejuhatus erialasse<br />[[KMX0230]] Tehnoloogia projekt<br />[[KMT0285]] Tekstiilimaterjalid<br />[[KMT0085]] Töökorraldus mööbli- ja rõivatööstuses<br />[[KMX0030]] Tööpraktika<br />[[MET0060]] Tootmise plaanimine ja juhtimine<br />[[MHE0011]] Tugevusõpetus I<br />[[TMM0100]] Turundus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == KAOB02/14 - Puidu- ja tekstiilitehnoloogia Kava:50251</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == KAOB02/14 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:50251 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924151
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == KAOB02/14 - Puidu- ja tekstiilitehnoloogia [Kava:50251 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMK0070]] Ärieetika
@@ -52,4 +40,16 @@ text: == KAOB02/14 - Puidu- ja tekstiilitehnoloogia [Kava:50251 〔Õppekava ÕI
 	[[TMM0100]] Turundus
 	
 	
+diff-major: 
+username: AlexDaniel
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KAOB02/14 - Puidu- ja tekstiilitehnoloogia Kava:50251</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KAOB02/14 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:50251 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+flags: 
 keep-ts: 1441924151
+blocks: 
+minor: 1
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

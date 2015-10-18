@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
+lastmajor: 2
 ip: 89.235.235.166
-ts: 1441924451
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+username: AlexDaniel
+minor: 1
+revision: 4
+host: 82.131.7.230
+blocks: [Course:102402 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 text: #SUBTITLE Diplomaatiline protokoll ja etikett
 	#SUBURL [Course:102402 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924451
+ts: 1441924451
+flags: 1

@@ -1,22 +1,14 @@
-flags: 01010101010101010
-blocks: <p>[[MASB02]] Soojusenergeetika</p><p>[[RAKM11]] Kütuste keemia ja tehnoloogia</p><p>[[RDPR06]] Energiatehnika<br />[[RDBR06]] Hoonete ehitus<br />[[RDKR05]] Kütuste tehnoloogia<br />[[RDER02]] Masinaehitustehnoloogia<br />[[RDIR02]] Rakendusinfotehnoloogia<br />[[RDDR08]] Tootmise automatiseerimine</p>
+languages: 
+blocks: 
+host: 89.235.223.25
+lastmajor: 3
+minor: 1
+ip: 89.235.235.166
+summary: Автоматическое обновление (расписание)
+flags: 
+ts: 1408892850
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[MASB02]] Soojusenergeetika</p></div>
-ip: 89.235.235.166
-ts: 1408892850
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 6
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\<br />&gt; [[RDPR06]] Energiatehnika\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\<br />&lt; <strong class="changes">[[RDPR06]] Energiatehnika</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление (расписание)
-languages: 
 text: [[MASB02]] Soojusenergeetika
 	
 	[[RAKM11]] Kütuste keemia ja tehnoloogia
@@ -30,5 +22,13 @@ text: [[MASB02]] Soojusenergeetika
 	
 	
 	
-lastmajor: 3
+username: Bot
 keep-ts: 1408892850
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\<br />&gt; [[RDPR06]] Energiatehnika\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\<br />&lt; <strong class="changes">[[RDPR06]] Energiatehnika</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\<br />&gt; \\</p></div>

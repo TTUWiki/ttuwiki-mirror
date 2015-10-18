@@ -1,19 +1,8 @@
-host: 82.131.4.24
-flags: 01010
-lastmajorsummary: Moved to Ask
-keep-ts: 1444705215
-summary: Moved to Ask
-username: AlexDaniel
-revision: 4
-blocks: <p>DeletedPage</p><h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
-	<h2>Задать вопрос</h2><p>Здесь вы можете задать любой вопрос.</p><p>Все вопросы видны на [[Вопросы|отдельной странице]].</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; DeletedPage</p></div>
-languages: 
-lastmajor: 4
-minor: 
 ip: 89.235.239.240
-diff-major: 1
+flags: 
+ts: 1444705215
+minor: 
+keep-ts: 1444705215
 text: DeletedPage
 	
 	== Последний вопрос
@@ -27,4 +16,14 @@ text: DeletedPage
 	Все вопросы видны на [[Вопросы|отдельной странице]].
 	
 	
-ts: 1444705215
+lastmajor: 4
+lastmajorsummary: Moved to Ask
+username: AlexDaniel
+diff-major: 1
+summary: Moved to Ask
+host: 82.131.4.24
+blocks: 
+revision: 4
+languages: 
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>

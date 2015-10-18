@@ -1,18 +1,11 @@
-flags: 0101010
-blocks: &lt;include "IVSM09-15"&gt;
-	&lt;include "IVSM09-13"&gt;
-	&lt;include "IVSM09-09"&gt;
+diff-major: 
+flags: 
+ip: 89.235.235.166
+blocks: 
+languages: 
+keep-ts: 1438886407
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "IVSM09-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438886407
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
-diff-major: 
-summary: Автоматическое обновление
-languages: 
 text: <include "IVSM09-15">
 	
 	<include "IVSM09-13">
@@ -21,5 +14,10 @@ text: <include "IVSM09-15">
 	
 	
 	
+host: 85.253.110.44
 lastmajor: 1
-keep-ts: 1438886407
+revision: 3
+ts: 1438886407
+username: Bot
+minor: 1
+summary: Автоматическое обновление

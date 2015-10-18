@@ -1,16 +1,14 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>NAEB06/09 - Keskkonnajuhtimine [Kava:50087 〔Õppekava ÕIS-is〕]</h2><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTS0341]] Arvutigraafika I<br />[[NTK0130]] Biogeokeemilised tsüklid ja mullakaitse<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0153]] Ehitusgraafika I<br />[[NTK0410]] Elusloodus<br />[[NTK1090]] Erialapraktika<br />[[NTU0040]] Filosoofia<br />[[NTM0311]] Geoinformaatika<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0051]] Jäätmekäitlus I<br />[[NTS0053]] Jäätmekäitlus II<br />[[NTM1120]] Keskkonnafüüsika<br />[[NTK0820]] Keskkonnajuhtimine<br />[[NTK0020]] Keskkonnakaitse<br />[[NTK0340]] Keskkonnakeemia<br />[[NTK0560]] Keskkonnamajanduse alused<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTK0520]] Keskkonnaõigus<br />[[NTM0040]] Keskkonnapsühholoogia<br />[[NTK0460]] Keskkonnariski analüüs<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTS1021]] Materjalide ringlus<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTK0610]] Õhu kvaliteet ja kontroll<br />[[NTK0030]] Õigusõpetus<br />[[NTK1010]] Ökodisain<br />[[NTK0110]] Ökoloogia<br />[[NTK0260]] Ökotoksikoloogia<br />[[NTK0940]] Olelusringi hindamine 1<br />[[NTK0930]] Olelusringi hindamine 2<br />[[NTK0010]] Õpingukorraldus<br />[[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine<br />[[NTK0400]] Projektijuhtimine<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTK0470]] Saastumise ennetamine<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTK1020]] Suurtootmise tehnoloogilised protsessid<br />[[NTK0150]] Tarbimine ja tarbijakäitumine<br />[[NTK0440]] Termodünaamika ökosüsteemides<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTK1120]] Tööstusökoloogia komplekspraktika<br />[[NTK1170]] Üldine keemia<br />[[NTK0180]] Veeökosüsteemide keemia ja bioloogia<br />[[NTK0630]] Veereostus ja -kaitse</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEB06/09 - Keskkonnajuhtimine Kava:50087</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEB06/09 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:50087 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
+flags: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+diff-major: 
+minor: 1
+username: AlexDaniel
+ts: 1441924152
+revision: 5
+host: 82.131.7.230
 text: == NAEB06/09 - Keskkonnajuhtimine [Kava:50087 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTS0341]] Arvutigraafika I
@@ -64,4 +62,6 @@ text: == NAEB06/09 - Keskkonnajuhtimine [Kava:50087 〔Õppekava ÕIS-is〕]
 	[[NTK0630]] Veereostus ja -kaitse
 	
 	
+blocks: 
+languages: 
 keep-ts: 1441924152

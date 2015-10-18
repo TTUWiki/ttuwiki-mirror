@@ -1,16 +1,11 @@
-flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HVWM11/12 - Töö- ja organisatsioonipsühholoogia [Kava:50179 〔Õppekava ÕIS-is〕]</h2><p>[[HPP8320]] Eetika ja väärtused töö- ja organisatsioonipsühholoogias<br />[[TMJ0110]] Ettevõtluse alused<br />[[HPP8520]] Grupiprotsessid ja meeskonna arendamine<br />[[HPP8370]] Hindamine ja mõõtmine töö- ja organisatsioonipsühholoogias<br />[[HPP8102]] Inimfaktor inseneriteaduses<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HPP8440]] Kommunikatsiooni juhtimine organisatsioonis<br />[[HPP8340]] Konsulteerimis- ja nõustamisoskused<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[HPP8115]] Majanduspsühholoogia<br />[[HPP8213]] Organisatsiooni areng ja innovatsioon<br />[[HPP8410]] Organisatsiooniteooria ja -psühholoogia<br />[[HPP8480]] Personali arendamine ja koolitus<br />[[HPP8460]] Personali planeerimine, valik ja hindamine<br />[[HPP8430]] Personalipsühholoogia alused<br />[[HPP8380]] Praktika<br />[[HPP8360]] Sekkumismeetodid ja hindamine<br />[[HPP8310]] Sissejuhatus töö-, organisatsiooni- ja personalipsühholoogiasse<br />[[HPP8540]] Tehnopsühholoogia<br />[[HPP8470]] Töö- ja organisatsioonipsühholoogia interventsioon<br />[[HPP8420]] Töö- ja tööstuspsühholoogia<br />[[HPP8510]] Töömotivatsioon<br />[[HPP8490]] Töötervishoid ja tööohutus<br />[[HPP8450]] Töötervishoiupsühholoogia ja tööelu kvaliteet<br />[[TTS1080]] Tööturuprotsessid ja -poliitika<br />[[HPP8550]] Uudsed uuringumeetodid töö- ja organisatsioonipsühholoogias<br />[[HPP8350]] Uurimismeetodid ja andmeanalüüs<br />[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia Kava:50179</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia <strong class="changes">[</strong>Kava:50179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924150
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+revision: 4
+blocks: 
+diff-major: 
+flags: 
+keep-ts: 1441924150
 text: == HVWM11/12 - Töö- ja organisatsioonipsühholoogia [Kava:50179 〔Õppekava ÕIS-is〕]
 	[[HPP8320]] Eetika ja väärtused töö- ja organisatsioonipsühholoogias
 	[[TMJ0110]] Ettevõtluse alused
@@ -42,4 +37,9 @@ text: == HVWM11/12 - Töö- ja organisatsioonipsühholoogia [Kava:50179 〔Õppe
 	[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad
 	
 	
-keep-ts: 1441924150
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia Kava:50179</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia <strong class="changes">[</strong>Kava:50179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

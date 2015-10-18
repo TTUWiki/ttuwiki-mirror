@@ -1,18 +1,5 @@
-flags: 0101010
-blocks: &lt;include "MARM06-15"&gt;
-	&lt;include "MARM06-09"&gt;
-	&lt;include "MARM06-06"&gt;
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "MARM06-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438886440
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
-diff-major: 
-summary: Автоматическое обновление
-languages: 
 text: <include "MARM06-15">
 	
 	<include "MARM06-09">
@@ -21,5 +8,16 @@ text: <include "MARM06-15">
 	
 	
 	
-lastmajor: 1
+languages: 
+ip: 89.235.235.166
+summary: Автоматическое обновление
+revision: 3
+blocks: 
 keep-ts: 1438886440
+diff-major: 
+flags: 
+host: 85.253.110.44
+username: Bot
+ts: 1438886440
+minor: 1
+lastmajor: 1

@@ -1,14 +1,14 @@
-flags: 0
-blocks: <h2>Kirjandus</h2><ul><li><a class="url http outside" href="http://elering.ee/public/Infokeskus/Elektrituru_kasiraamat.pdf">Elektrituru käsiraamat.</a><br /></li><li><a class="url http outside" href="http://www.nordpoolspot.com">Nordspoolspot.com</a><br /></li><li><a class="url http outside" href="http://Avatud2013.ee">Avatud2013.ee</a><br /></li><li><a class="url http outside" href="http://www.elering.ee">Elering.ee</a><br /></li><li><a class="url http outside" href="http://www.energia.ee">Energia.ee</a></li></ul>
-lastmajorsummary: 
 ip: 89.235.235.166
+languages: 
+flags: 1
+lastmajorsummary: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 4
 ts: 1441924444
 minor: 1
-username: AlexDaniel
-host: 82.131.7.230
 revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+blocks: [Course:25897 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Energiasüsteemide ökonoomika
 	#SUBURL [Course:25897 〔Õppeaine ÕIS-is〕]
 	
@@ -20,5 +20,5 @@ text: #SUBTITLE Energiasüsteemide ökonoomika
 	*[http://www.elering.ee Elering.ee]
 	*[http://www.energia.ee Energia.ee]
 	
-lastmajor: 4
 keep-ts: 1441924444
+host: 82.131.7.230

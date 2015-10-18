@@ -1,22 +1,14 @@
-flags: 010101010101010101010
-blocks: <p>[[AAVB02]] Elektroenergeetika<br />[[AAAB02]] Elektrotehnika<br />[[AAGB02]] Geotehnoloogia<br />[[YAEB14]] Maa-teadused ja geotehnoloogia</p><p>[[AAAM02]] Elektriajamid ja jõuelektroonika<br />[[AAVM02]] Elektroenergeetika<br />[[AAGM02]] Geotehnoloogia<br />[[AAHM12]] Hajaenergeetika<br />[[YAEM14]] Maa-teadused ja geotehnoloogia</p><p>[[AAED02]] Energia- ja geotehnika</p>
+revision: 5
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[YAEM14]] Maa-teadused ja geotehnoloogia</p></div>
-ip: 89.235.235.166
-ts: 1438886325
 minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 5
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[AAVB02]] Elektroenergeetika\\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&lt; [[AAED02]] Energia- ja geotehnika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&gt; [[AAVM02]] Elektroenergeetika\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">[[AAVB02]] Elektroenergeetika</strong>\\<br />&lt; [[<strong class="changes">AAVM02</strong>]] <strong class="changes">Elektroenergeetika</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[<strong class="changes">AAED02</strong>]] <strong class="changes">Energia- ja geotehnika\\</strong><br />&gt; \\</p></div>
-summary: Автоматическое обновление
-languages: 
 text: [[AAVB02]] Elektroenergeetika
 	[[AAAB02]] Elektrotehnika
 	[[AAGB02]] Geotehnoloogia
@@ -32,5 +24,13 @@ text: [[AAVB02]] Elektroenergeetika
 	
 	
 	
+flags: 
+ip: 89.235.235.166
+summary: Автоматическое обновление
+username: Bot
+ts: 1438886325
 lastmajor: 3
+languages: 
 keep-ts: 1438886325
+blocks: 
+host: 85.253.110.44

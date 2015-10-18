@@ -1,12 +1,3 @@
-blocks: <h2>Материалы</h2><ul><li><a class="url http" href="http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/">http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</a> – Лекции в pdf</li><li><a class="url http" href="http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/">http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/</a><br />Логин: tudeng<br />Пароль: fyss<br />Пароль для pdf-ок: abi</li></ul><h2>Литература</h2><ul><li><a class="url http" href="http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf">http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf</a> – Второй учебник</li><li>[[File:Fsika_I_lesanded_scan_vastustega.pdf]] – Первый задачник</li><li><a class="url http" href="http://web.zone.ee/aldas/fyysika/">http://web.zone.ee/aldas/fyysika/</a> – Какие-то материалы по лабам</li></ul><h2>Лабы (первая часть)</h2><p>Заливайте свои в пустые места:</p><ol><li>[[File:praks1_1.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks1_9.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks1_17.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ol><h2>Лабы (вторая часть)</h2><ol><li></li><li></li><li></li><li></li><li>[[File:praks2_5.zip]]</li><li></li><li>[[File:praks2_7.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li>[[File:praks2_14.zip]]</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ol>
-lastmajorsummary: Лабы, оформление
-ip: 89.235.235.166
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Лекции в pdf:</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Материалы<br />&gt; *</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/ <strong class="changes">– Лекции в pdf<br />&gt; * http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&gt; Логин: tudeng<br />&gt; Пароль: fyss<br />&gt; Пароль для pdf-ок: abi<br />&gt; == Литература<br />&gt; * http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf – Второй учебник<br />&gt; * [[File:Fsika_I_lesanded_scan_vastustega.pdf]] – Первый задачник<br />&gt; * http://web.zone.ee/aldas/fyysika/ – Какие-то материалы по лабам</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----<br />&lt; Все материалы:<br />&lt; http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&lt; Логин: tudeng<br />&lt; Пароль: fyss<br />&lt; Пароль для pdf-ок: abi<br />&lt; -- AlexDaniel 2015-03-05 04:19:44<br />&lt; ----<br />&lt; Второй учебник:<br />&lt; http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf<br />&lt; -- AlexDaniel 2015-04-28 12:30:42<br />&lt; ----<br />&lt; Какие-то материалы по лабам:<br />&lt; http://web.zone.ee/aldas/fyysika/<br />&lt; -- BloodyMary 2015-05-02 01:14:40<br />&lt; ----<br />&lt; Первый задачник:<br />&lt; [[File:Fsika_I_lesanded_scan_vastustega.pdf]]<br />&lt; -- BloodyMary 2015-05-07 20:36:27</p></div>
-summary: Лабы, оформление
-languages: 
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
@@ -82,14 +73,23 @@ text: #SUBTITLE Füüsika
 	
 	  
 	
-lastmajor: 11
+keep-ts: 1442872184
+flags: 1
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Лекции в pdf:</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Материалы<br />&gt; *</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/ <strong class="changes">– Лекции в pdf<br />&gt; * http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&gt; Логин: tudeng<br />&gt; Пароль: fyss<br />&gt; Пароль для pdf-ок: abi<br />&gt; == Литература<br />&gt; * http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf – Второй учебник<br />&gt; * [[File:Fsika_I_lesanded_scan_vastustega.pdf]] – Первый задачник<br />&gt; * http://web.zone.ee/aldas/fyysika/ – Какие-то материалы по лабам</strong></p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; Все материалы:<br />&lt; http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&lt; Логин: tudeng<br />&lt; Пароль: fyss<br />&lt; Пароль для pdf-ок: abi<br />&lt; -- AlexDaniel 2015-03-05 04:19:44<br />&lt; ----<br />&lt; Второй учебник:<br />&lt; http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf<br />&lt; -- AlexDaniel 2015-04-28 12:30:42<br />&lt; ----<br />&lt; Какие-то материалы по лабам:<br />&lt; http://web.zone.ee/aldas/fyysika/<br />&lt; -- BloodyMary 2015-05-02 01:14:40<br />&lt; ----<br />&lt; Первый задачник:<br />&lt; [[File:Fsika_I_lesanded_scan_vastustega.pdf]]<br />&lt; -- BloodyMary 2015-05-07 20:36:27</p></div>
+ip: 89.235.235.166
+revision: 12
+minor: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt;   </p></div>
-flags: 010101010101010
-ts: 1442872184
-minor: 1
 username: AlexDaniel
 host: 82.131.3.43
-revision: 12
-keep-ts: 1442872184
+ts: 1442872184
+languages: 
+lastmajor: 11
+summary: Лабы, оформление
+lastmajorsummary: Лабы, оформление
+blocks: [Course:31192 〔Õppeaine ÕIS-is〕]

@@ -1,16 +1,11 @@
-flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAM02/09 - Rakenduslik majandusteadus [Kava:50047 〔Õppekava ÕIS-is〕]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TTP1020]] Eesti majandus<br />[[TSX1010]] Erialane võõrkeel II<br />[[TET1040]] Euroopa Liidu majandus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TTX1150]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TTR1110]] Maksundus ja fiskaalpoliitika<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES1030]] Mitmemõõtmeline statistiline analüüs<br />[[TES1010]] Ökonomeetria<br />[[TEM1280]] Operatsioonianalüüs<br />[[TAK1040]] Sotsiaal- ja keskkonnaarvestus<br />[[TTR1090]] Sotsiaalne tasuvusanalüüs<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
+host: 82.131.7.230
+revision: 5
+username: AlexDaniel
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAM02/09 - Rakenduslik majandusteadus Kava:50047</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAM02/09 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50047 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TAAM02/09 - Rakenduslik majandusteadus [Kava:50047 〔Õppekava ÕIS-is〕]
 	[[TTP1050]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -38,4 +33,9 @@ text: == TAAM02/09 - Rakenduslik majandusteadus [Kava:50047 〔Õppekava ÕIS-is
 	[[TTX199P]] Tööpraktika
 	
 	
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924153
+blocks: 
+ts: 1441924153
+languages: 

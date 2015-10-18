@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ip: 89.235.235.166
-ts: 1441924445
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Ehituskonstruktsioonid arhitektidele, metallkonstruktsioonid
 	#SUBURL [Course:107092 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
 lastmajor: 2
+ts: 1441924445
+minor: 1
+host: 82.131.7.230
 keep-ts: 1441924445
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+blocks: [Course:107092 〔Õppeaine ÕIS-is〕]
+languages: 

@@ -1,9 +1,12 @@
-blocks: <h2>Õppematerjal</h2><ol><li><a class="url http outside" href="http://www.staff.ttu.ee/~avrager/SMLS">Õppeaine kodulehekülg</a></li><li><a class="url http outside" href="http://www.staff.ttu.ee/~avrager/SMLS/SMLS-loengukonspekt.pdf">Konspekt</a></li></ol><h2>Кirjandus</h2><h2>Upcoming events</h2>
-lastmajorsummary: 
-ip: 89.235.235.166
-diff-major: 1
-summary: 
 languages: 
+username: 
+blocks: [Course:30480 〔Õppeaine ÕIS-is〕]
+summary: 
+lastmajor: 5
+host: 86.110.37.246
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; #[http://www</strong>.<strong class="changes">staff.ttu.ee/~avrager/SMLS Õppeaine kodulehekülg]<br />&gt; #[http://www.staff.ttu.ee/~avrager/SMLS/SMLS-loengukonspekt.pdf Konspekt]<br />&gt; ==Кirjandus<br />&gt; ==Upcoming events</strong></p></div>
 text: #SUBTITLE Soojus- ja massileviseadmed
 	#SUBURL [Course:30480 〔Õppeaine ÕIS-is〕]
 	
@@ -18,14 +21,11 @@ text: #SUBTITLE Soojus- ja massileviseadmed
 	
 	==Upcoming events
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; #[http://www</strong>.<strong class="changes">staff.ttu.ee/~avrager/SMLS Õppeaine kodulehekülg]<br />&gt; #[http://www.staff.ttu.ee/~avrager/SMLS/SMLS-loengukonspekt.pdf Konspekt]<br />&gt; ==Кirjandus<br />&gt; ==Upcoming events</strong></p></div>
-flags: 0
-ts: 1444109043
-minor: 
-username: 
-host: 86.110.37.246
+ip: 89.235.235.166
+lastmajorsummary: 
+diff-major: 1
+flags: 1
 revision: 5
+ts: 1444109043
 keep-ts: 1444109043
+minor: 

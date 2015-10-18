@@ -1,16 +1,15 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAHM03/03 - Haldusjuhtimine [Kava:1790 〔Õppekava ÕIS-is〕]</h2><p>[[HHX1030]] Ainetöö<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HHA1100]] Diplomaatia ja välisteenistuse ajalugu<br />[[HHA1030]] Euroopa Liidu õigussüsteem<br />[[HHA1020]] Euroopa Liidu poliitikad II<br />[[HHR1060]] Globaliseerumine<br />[[IDU5050]] Haldusinfosüsteemid<br />[[HHA1070]] Haldusjuhtimise erikursus<br />[[HHA1080]] Haldusõigus<br />[[HHA1140]] Haldusteooria ja -filosoofia<br />[[HUP5630]] Haridusökonoomika<br />[[HUP1020]] Haridussüsteemi juhtimine<br />[[TMO8230]] Juhtimine<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHA5750]] Keskkonnakorraldus<br />[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II<br />[[HHA5250]] Normitehnika<br />[[HHP1050]] Nüüdisaegne organisatsioonipsühholoogia ja -kultuur<br />[[HHP1040]] Organisatsiooni ja personali arendamine<br />[[HHP1060]] Organisatsiooni- ja tööpsühholoogia<br />[[HHP1030]] Personalipsühholoogia<br />[[HHX1020]] Praktika<br />[[HHR1010]] Projektijuhtimine avalikus sektoris<br />[[HHA1110]] Rahvusvahelised organisatsioonid<br />[[HHA5770]] Regionaalpoliitika<br />[[HHA9920]] Riigi- ja haldusõigus<br />[[HHR1050]] Säästliku arengu strateegia<br />[[HHP8201]] Suhtlemispsühholoogia<br />[[HHR1030]] Teadustöö meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHA5030]] Ühistegevuse üldkursus<br />[[HHA1120]] Välispoliitika teooriad<br />[[HHA1130]] Välissuhtlemise alused<br />[[HHA1170]] Valitsemiskorraldus ja -institutsioonid</p>
+flags: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+ts: 1441924149
+languages: 
+blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAHM03/03 - Haldusjuhtimine Kava:1790</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAHM03/03 - Haldusjuhtimine <strong class="changes">[</strong>Kava:1790 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
+keep-ts: 1441924149
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == HAHM03/03 - Haldusjuhtimine [Kava:1790 〔Õppekava ÕIS-is〕]
 	[[HHX1030]] Ainetöö
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -48,4 +47,5 @@ text: == HAHM03/03 - Haldusjuhtimine [Kava:1790 〔Õppekava ÕIS-is〕]
 	[[HHA1170]] Valitsemiskorraldus ja -institutsioonid
 	
 	
-keep-ts: 1441924149
+revision: 4
+username: AlexDaniel

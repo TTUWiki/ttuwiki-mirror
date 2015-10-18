@@ -1,16 +1,3 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAGB02/09 - Geotehnoloogia [Kava:50041 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[AKG0040]] Eesti geoloogia<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EPM3500]] Ehitusmaterjalid<br />[[AME3130]] Elektrotehnika<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[ETG0011]] Geodeesia I<br />[[ETG0012]] Geodeesia II<br />[[ETG0013]] Geodeesia õppepraktika<br />[[AKG0070]] Geoloogia - ainetöö<br />[[AKM0255]] Geostatistika<br />[[AKM0262]] Geotehnoloogia õppepraktika<br />[[AKM0261]] Geotehnoloogia üldkursus<br />[[EMH0031]] Hüdraulika I<br />[[IDK0092]] Informaatika II (tehnika)<br />[[IDK0091]] Informaatika I (tehnika)<br />[[AKG0030]] Insenerigeoloogia alused<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[AKM0260]] Kivimimehaanika, raimamine ja töötlemine<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[AKM0257]] Lõhketööd<br />[[AKG0225]] Maardlate geoloogiline uuring ja uurimismeetodid<br />[[AKG0222]] Maavarade ja keskkonna geoloogia<br />[[AKM0264]] Maavaramajandus ja ainetöö<br />[[AKM0251]] Mäedisain<br />[[AKM0150]] Mäenduslik keskkonnakaitse<br />[[AKM0253]] Mäenduslik modelleerimine<br />[[AKM0254]] Mäetööd ja mäemasinad<br />[[MHE0061]] Masinatehnika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0070]] Materjalitehnika<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[AKG0221]] Mineraalid ja kivimid<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[YGK3350]] Tehniline joonestamine</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAGB02/09 - Geotehnoloogia Kava:50041</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAGB02/09 - Geotehnoloogia <strong class="changes">[</strong>Kava:50041 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == AAGB02/09 - Geotehnoloogia [Kava:50041 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[AKG0040]] Eesti geoloogia
@@ -56,4 +43,17 @@ text: == AAGB02/09 - Geotehnoloogia [Kava:50041 〔Õppekava ÕIS-is〕]
 	[[YGK3350]] Tehniline joonestamine
 	
 	
+ts: 1441924148
+blocks: 
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924148
+diff-major: 
+flags: 
+revision: 4
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAGB02/09 - Geotehnoloogia Kava:50041</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAGB02/09 - Geotehnoloogia <strong class="changes">[</strong>Kava:50041 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+host: 82.131.7.230

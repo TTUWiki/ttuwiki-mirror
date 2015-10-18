@@ -1,16 +1,8 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDBR06/06 - Hoonete ehitus [Kava:3974 〔Õppekava ÕIS-is〕]</h2><p>[[RAR2061]] Arhitektuur<br />[[RAR2062]] Arhitektuur - projekt<br />[[RAR2081]] Arvutigraafika I<br />[[RAR2082]] Arvutigraafika II<br />[[RAR2250]] Betooniõpetus<br />[[RAR2260]] Ehitiste katsetamine<br />[[RAR2210]] Ehituse juhtimine<br />[[RAR2150]] Ehituse maksumuse hindamine<br />[[RAR1980]] Ehitusettevõtte ökonoomika<br />[[RAR2120]] Ehitusfüüsika<br />[[RAR2001]] Ehitusgraafika I<br />[[RAR2002]] Ehitusgraafika II<br />[[RAR2240]] Ehituskonstruktsioonide projekteerimise alused<br />[[RAR2140]] Ehituskorraldus<br />[[RAR2090]] Ehitusmasinad<br />[[RAR2011]] Ehitusmaterjalid I<br />[[RAR2012]] Ehitusmaterjalid II<br />[[RAR2030]] Ehitusmehaanika<br />[[RAR2100]] Ehitusplatsi korraldus - projekt<br />[[RAR2282]] Ehituspraktika I<br />[[RAR2283]] Ehituspraktika II<br />[[RAR2131]] Ehitustehnoloogia I<br />[[RAR2133]] Ehitustehnoloogia II<br />[[RAR2132]] Ehitustehnoloogia - projekt<br />[[RAR3130]] Elektrotehnika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2281]] Geodeesia õppepraktika<br />[[RAR2050]] Hoonete konstruktsioonid<br />[[RAR2231]] Hoonete tehnovõrgud ja -seadmed<br />[[RAR2232]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[RAR0211]] Informaatika I<br />[[RAR0212]] Informaatika II<br />[[RAR2070]] Insenerigeodeesia<br />[[RAR2284]] Inseneripraktika I<br />[[RAR2285]] Inseneripraktika II<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR2220]] Kinnisvaraökonoomika<br />[[RAR2191]] Kivikonstruktsioonid<br />[[RAR2192]] Kivikonstruktsioonid - projekt<br />[[RAR1990]] Kujutav geomeetria<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR2181]] Metallkonstruktsioonid<br />[[RAR2182]] Metallkonstruktsioonid - projekt<br />[[RAH3140]] Õigusõpetus<br />[[RAR0010]] Õpingukorraldus<br />[[RAR2040]] Pinnasemehaanika ja ehitusgeoloogia<br />[[RAR2270]] Plaanimine ja teed<br />[[RAR2286]] Projekteerimispraktika<br />[[RAR2200]] Puitkonstruktsioonid<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAR2171]] Raudbetoonkonstruktsioonid<br />[[RAR2172]] Raudbetoonkonstruktsioonid - projekt<br />[[RAR2300]] Riski- ja ohutusõpetus<br />[[RAR0461]] Tehniline füüsika I<br />[[RAR2021]] Tehniline mehaanika I<br />[[RAR2022]] Tehniline mehaanika II<br />[[RAX0480]] Üldvõõrkeel<br />[[RAR2161]] Vundamendid<br />[[RAR2162]] Vundamendid - projekt</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDBR06/06 - Hoonete ehitus Kava:3974</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDBR06/06 - Hoonete ehitus <strong class="changes">[</strong>Kava:3974 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+host: 82.131.7.230
+diff-major: 
+flags: 
 text: == RDBR06/06 - Hoonete ehitus [Kava:3974 〔Õppekava ÕIS-is〕]
 	[[RAR2061]] Arhitektuur
 	[[RAR2062]] Arhitektuur - projekt
@@ -75,4 +67,12 @@ text: == RDBR06/06 - Hoonete ehitus [Kava:3974 〔Õppekava ÕIS-is〕]
 	[[RAR2162]] Vundamendid - projekt
 	
 	
+blocks: 
+minor: 1
 keep-ts: 1441924152
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDBR06/06 - Hoonete ehitus Kava:3974</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDBR06/06 - Hoonete ehitus <strong class="changes">[</strong>Kava:3974 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4
+ts: 1441924152

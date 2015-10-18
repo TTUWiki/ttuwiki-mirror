@@ -1,16 +1,4 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine [Kava:50280 〔Õppekava ÕIS-is〕]</h2><p>[[VAY0020]] Analüütiline geomeetria<br />[[VAA0080]] Arvutigraafika<br />[[VMS0110]] Baaslogistika<br />[[VAY0350]] Demokraatia ja kodanikuühiskond<br />[[VAY0512]] Eesti keel II (võõrkeelena)<br />[[VAY0511]] Eesti keel I (võõrkeelena)<br />[[VAY0210]] Eetika ja etikett<br />[[VAA0290]] Elektroonika<br />[[VAA0280]] Elektrotehnika<br />[[VMS0271]] Erialane inglise keel I<br />[[VMS0272]] Erialane inglise keel II<br />[[VMS0273]] Erialane inglise keel III<br />[[VMS0030]] Erialane praktika<br />[[VAY0420]] Ettevõtluse alused<br />[[VAY0430]] Ettevõtlus ja seadusandlus<br />[[VAY0130]] Füüsika<br />[[VMV0100]] Hüdromehaanika<br />[[VAY0141]] Informaatika I/1<br />[[VAY0142]] Informaatika I/2<br />[[VAY0570]] Informaatika II<br />[[VMS0120]] Infotehnoloogia meretranspordil<br />[[VAY0320]] Investeeringute juhtimine<br />[[VAY0440]] Keemia<br />[[VAY0481]] Kehaline kasvatus I<br />[[VAY0500]] Kehaline kasvatus II<br />[[VMS0130]] Keskkonnajuhtimine sadamas<br />[[VMV0360]] Keskkonnajuhtimissüsteem<br />[[VAA0010]] Kujutav geomeetria<br />[[VLL0410]] Laevade ehitus<br />[[VMS0040]] Lastindus ja laondus<br />[[VAY0010]] Lineaaralgebra<br />[[VAY0110]] Majandusmatemaatika erikursus<br />[[VAY0030]] Matemaatiline analüüs I<br />[[VAY0090]] Matemaatiline analüüs II (valikaine)<br />[[VMV0280]] Merealade ruumiline planeerimine<br />[[VMS0200]] Mere- ja transpordiõigus<br />[[VMS0060]] Meremajanduse alused<br />[[VMS0210]] Merendusettevõtte tegevuse finantseerimine, algkursus<br />[[VMS0160]] Meresadamate ehitus<br />[[VAY0250]] Meresõidu ajalugu ja traditsioonid<br />[[VLL0060]] Meretranspordi geograafia<br />[[VMS0261]] Meretranspordi kommertsekspluatatsioon, algkursus<br />[[VMS0262]] Meretranspordi kommertsekspluatatsioon, põhikursus<br />[[VMS0190]] Meretranspordi ökonoomika<br />[[VMS0300]] Meretranspordi turundus<br />[[VAA0140]] Metallide tehnoloogia, materjalid<br />[[VAY0530]] Mikro- ja makroökonoomika<br />[[VMS0220]] Ohtlike lastide käitlemine sadamas<br />[[VAY0330]] Õiguse alused<br />[[VAY0510]] Õpingukorraldus<br />[[VAY0190]] Organisatsioonikäitumine<br />[[VAY0220]] Projektijuhtimine<br />[[VAY0380]] Raamatupidamise alused<br />[[VMS0020]] Rahvusvaheline kaubandus ja sadamad<br />[[VAA0071]] Rakendusmehaanika I<br />[[VAA0072]] Rakendusmehaanika II<br />[[VMV0230]] Rannikumere keskkonnakaitse<br />[[VMS0070]] Sadamapraktika<br />[[VMS0230]] Sadamate ja sadama-alade planeerimine<br />[[VMS0170]] Sadamate juhtimine ja toimimine<br />[[VMS0240]] Sadamate ohutus ja turvalisus<br />[[VAY0290]] Statistika<br />[[VMS0080]] Stividoritööde korraldamine ja tehnoloogia<br />[[VAY0200]] Suhtekorraldus<br />[[VAY0260]] Teadustöö alused<br />[[VAA0020]] Tehniline joonestamine<br />[[VMV0370]] Tehnoökoloogia<br />[[VMV0330]] Töökeskkonna ohutus<br />[[VMS0140]] Tööohutus, tulekaitse<br />[[VMS0250]] Tõste- ja transpordiseadmed<br />[[VMS0310]] Transpordi- ja laologistika<br />[[VAY0310]] Turunduse alused<br />[[VMS0090]] Tutvumispraktika sadamates<br />[[VMS0100]] Vahendusfirmapraktika<br />[[VAY0390]] Veeturism ja puhkemajandus<br />[[VAY0522]] Vene keel II (võõrkeelena)<br />[[VAY0521]] Vene keel I (võõrkeelena)</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine Kava:50280</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50280 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine [Kava:50280 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VAA0080]] Arvutigraafika
@@ -91,4 +79,16 @@ text: == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine [Kava:50280 �
 	[[VAY0521]] Vene keel I (võõrkeelena)
 	
 	
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine Kava:50280</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDSR14/14 - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50280 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+revision: 4
+host: 82.131.7.230
+blocks: 
+minor: 1
+ts: 1441924154
+username: AlexDaniel
 keep-ts: 1441924154
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

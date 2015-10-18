@@ -1,16 +1,11 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAB02/09 - Rakenduslik majandusteadus [Kava:50045 〔Õppekava ÕIS-is〕]</h2><p>[[TTR0070]] Avalikud suhted<br />[[TTR0170]] Avaliku sektori ökonoomika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[TSX0020]] Erialane võõrkeel I<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3060]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[TTR0160]] Finantsarvestus ja -juhtimine avalikus sektoris<br />[[TTR0150]] Fiskaalpoliitika alused<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TTP0020]] Innovatsioonipoliitika<br />[[TMM0230]] Interaktiivne turundus<br />[[TMO0010]] Juhtimine<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TTX0050]] Linna- ja keskkonnauuringute metodoloogia<br />[[TTR0010]] Majandusajalugu<br />[[TTK0030]] Majandusgeograafia<br />[[TEM0220]] Majandusmatemaatika I<br />[[TEM0230]] Majandusmatemaatika II<br />[[TTP0010]] Majanduspoliitika<br />[[TTS0050]] Majandussotsioloogia<br />[[TET0020]] Makroökonoomika põhikursus<br />[[TAF0050]] Maksundus<br />[[TET0010]] Mikroökonoomika põhikursus<br />[[TTO0010]] Õiguse alused<br />[[TES0040]] Ökonomeetria<br />[[UTT0010]] Õpingukorraldus<br />[[TTR0060]] Projektijuhtimine avalikus sektoris<br />[[HHP3200]] Psühholoogia ja loogika<br />[[TER0220]] Raha ja pangandus<br />[[TER0420]] Rahanduse alused<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TTK0010]] Sissejuhatus keskkonnapoliitikasse ja keskkonnaõigusesse<br />[[TTR0090]] Sissejuhatus linnaökonoomikasse<br />[[TTS0030]] Sissejuhatus urbanistikasse<br />[[TTR0110]] Sotsiaalse tasuvusanalüüsi alused<br />[[TES0020]] Statistika<br />[[TES0010]] Teadustöö ja majandusuuringute alused<br />[[TMK0100]] Töö- ja palgakorraldus<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TTX099P]] Tööpraktika<br />[[TXX0030]] Uurimistöö I<br />[[TXX0040]] Uurimistöö II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TAAB02/09 - Rakenduslik majandusteadus Kava:50045</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TAAB02/09 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50045 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924153
+ts: 1441924153
 languages: 
+blocks: 
 text: == TAAB02/09 - Rakenduslik majandusteadus [Kava:50045 〔Õppekava ÕIS-is〕]
 	[[TTR0070]] Avalikud suhted
 	[[TTR0170]] Avaliku sektori ökonoomika
@@ -58,4 +53,9 @@ text: == TAAB02/09 - Rakenduslik majandusteadus [Kava:50045 〔Õppekava ÕIS-is
 	[[TXX0040]] Uurimistöö II
 	
 	
-keep-ts: 1441924153
+flags: 
+revision: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAAB02/09 - Rakenduslik majandusteadus Kava:50045</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAAB02/09 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50045 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 

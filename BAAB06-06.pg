@@ -1,16 +1,8 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BAAB06/06 - Maastikuarhitektuur [Kava:3944 〔Õppekava ÕIS-is〕]</h2><p>[[NTK0040]] Akadeemiline võõrkeel<br />[[NTM0360]] Arhiivindus ja inventeerimine<br />[[NTM0990]] Arhitektuuri teooria<br />[[NTM0800]] Arhitektuurse kujundamise alused<br />[[NTM1180]] Asustuskeskkonna kujunemine<br />[[NTM0430]] Botaanika<br />[[NTM0750]] Dendroloogia ja dendropatoloogia<br />[[NTM0780]] Dendroloogiline inventeerimine<br />[[NTM0820]] Eesti maastike kultuurigeograafiline käsitlus<br />[[NTM0980]] Eesti maastikuarhitektuuri ajalugu<br />[[NTM0560]] Eetika<br />[[NTM1090]] Erialapraktika<br />[[NTM0730]] Eriotstarbeliste alade kujundamine<br />[[NTM1030]] Filosoofia ajalugu<br />[[NTM0960]] Fotograafia<br />[[NTM0311]] Geoinformaatika<br />[[NTM0440]] Geoloogia ja hüdroloogia alused<br />[[NTM0670]] Hüdraulika ja vesiehitised<br />[[NTM0760]] Ilutaimed<br />[[NTM0660]] Informaatika<br />[[NTM0890]] Joonistamine<br />[[NTM0420]] Kartograafia<br />[[NTM1120]] Keskkonnafüüsika<br />[[NTM0040]] Keskkonnapsühholoogia<br />[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />[[NTM1000]] Kõrgem matemaatika<br />[[NTM0840]] Kujutav geomeetria<br />[[NTM0610]] Linnaehituse ajalugu<br />[[NTM1070]] Loodusgeograafia<br />[[NTM0850]] Maamõõtmine<br />[[NTM0690]] Maastike üldkursus<br />[[NTM0940]] Maastikuarhitektuuri ajalugu<br />[[NTM0650]] Maastikuarhitektuuri erikursus<br />[[NTM0790]] Metsanduse alused<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0450]] Mullateadus<br />[[NTM0340]] Õigusõpetus<br />[[NTK0370]] Ökoloogia ja keskkonnakaitse<br />[[NTK0010]] Õpingukorraldus<br />[[NTM0630]] Planeerimise teooria ja linnaplaneerimise alused<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTM0520]] Sissejuhatus erialasse<br />[[NTM0920]] Stiilid aia- ja pargikunstis<br />[[NTM0830]] Tehniline joonestamine<br />[[NTM0600]] Tehniline mehaanika<br />[[NTM0930]] Üldine arhitektuuri ajalugu<br />[[NTM0950]] Üldine kunstiajalugu<br />[[NTM1080]] Uurimistöö metodoloogia<br />[[NTM1020]] Välisruumi käsitlus ja analüüs</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BAAB06/06 - Maastikuarhitektuur Kava:3944</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BAAB06/06 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:3944 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+minor: 1
 text: == BAAB06/06 - Maastikuarhitektuur [Kava:3944 〔Õppekava ÕIS-is〕]
 	[[NTK0040]] Akadeemiline võõrkeel
 	[[NTM0360]] Arhiivindus ja inventeerimine
@@ -63,4 +55,12 @@ text: == BAAB06/06 - Maastikuarhitektuur [Kava:3944 〔Õppekava ÕIS-is〕]
 	[[NTM1020]] Välisruumi käsitlus ja analüüs
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+blocks: 
+flags: 
+ts: 1441924148
+diff-major: 
 keep-ts: 1441924148
+revision: 4
+languages: 

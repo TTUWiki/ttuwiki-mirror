@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924450
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+blocks: [Course:108497 〔Õppeaine ÕIS-is〕]
 revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+username: AlexDaniel
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Raha, finantsinstitutsioonid ja turud
 	#SUBURL [Course:108497 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924450
 languages: 
 keep-ts: 1441924450

@@ -1,16 +1,11 @@
-flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAVM02/02 - Elektroenergeetika [Kava:788 〔Õppekava ÕIS-is〕]</h2><p>[[AEK0050]] Alajaamad - projekt<br />[[AES3143]] Automaatika ja releekaitse<br />[[AES0140]] Elektrienergia hajatootmine<br />[[AES3640]] Elektrijaotustehnika<br />[[AES3630]] Elektrirajatiste projekteerimine<br />[[AES0150]] Elektriturg<br />[[AES0120]] Elektrivõrgud - projekt<br />[[AES0060]] Elektrivõrkude erikursus<br />[[AES0100]] Elektrivõrkude plaanimine<br />[[AES0080]] Elektrivõrkude talitluse analüüs ja juhtimine<br />[[AES0030]] Elektroenergeetika teadusseminar<br />[[AMM0020]] Elektromagnetiline ühilduvus<br />[[AME0050]] Elektrotehnika erikursus<br />[[AEK0040]] Energiapoliitika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[AES3241]] Infosüsteemid energeetikas<br />[[EKE3710]] Keskkonnakaitse<br />[[AEK0020]] Kõrgepingeseadmed<br />[[TTO3160]] Õigusõpetus<br />[[MSE0120]] Soojusjõuseadmed<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[AES0040]] Suured süsteemid<br />[[AES3670]] Tarbimise säästlik korraldamine<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AEK0060]] Tuuleenergeetika<br />[[AMM0030]] Väljateooria</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAVM02/02 - Elektroenergeetika Kava:788</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAVM02/02 - Elektroenergeetika <strong class="changes">[</strong>Kava:788 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 
 revision: 4
+languages: 
 diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
+ts: 1441924148
+host: 82.131.7.230
 text: == AAVM02/02 - Elektroenergeetika [Kava:788 〔Õppekava ÕIS-is〕]
 	[[AEK0050]] Alajaamad - projekt
 	[[AES3143]] Automaatika ja releekaitse
@@ -43,3 +38,8 @@ text: == AAVM02/02 - Elektroenergeetika [Kava:788 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924148
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAVM02/02 - Elektroenergeetika Kava:788</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAVM02/02 - Elektroenergeetika <strong class="changes">[</strong>Kava:788 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+minor: 1

@@ -1,16 +1,12 @@
-flags: 0101010101010101010101010101010
-blocks: <h2>HAAD06/09 - Avalik haldus [Kava:50033 〔Õppekava ÕIS-is〕]</h2><p>[[HHI9020]] Avalik haldus ja innovatsioon<br />[[HHM9020]] Avaliku halduse erikursus<br />[[HHX9070]] Doktoriseminar<br />[[HHM9030]] Halduspoliitika erikursus<br />[[HHI9010]] Innovatsioon<br />[[HHI9030]] Innovatsioonisüsteemid<br />[[HHX9080]] Juhendamispraktika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHX9090]] Õpetamispraktika<br />[[HHA9900]] Praktika<br />[[HHL9100]] Sotsiaalteaduste meetodid<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus</p>
+ts: 1441924149
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAAD06/09 - Avalik haldus Kava:50033</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAAD06/09 - Avalik haldus <strong class="changes">[</strong>Kava:50033 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+username: AlexDaniel
+host: 82.131.7.230
+minor: 1
+keep-ts: 1441924149
 text: == HAAD06/09 - Avalik haldus [Kava:50033 〔Õppekava ÕIS-is〕]
 	[[HHI9020]] Avalik haldus ja innovatsioon
 	[[HHM9020]] Avaliku halduse erikursus
@@ -28,4 +24,8 @@ text: == HAAD06/09 - Avalik haldus [Kava:50033 〔Õppekava ÕIS-is〕]
 	[[HUP9010]] Teadus- ja hariduskorraldus
 	
 	
-keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+flags: 
+languages: 
+blocks: 

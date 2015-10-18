@@ -1,15 +1,4 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BAAB06/13 - Maastikuarhitektuur [Kava:50230 〔Õppekava ÕIS-is〕]</h2><p>[[BCU4070]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[BCU4420]] Arvutigraafika ja esitlustehnikad<br />[[BCU4090]] Dendroloogia<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4140]] Eesti maastike kultuurigeograafiline käsitlus<br />[[BCU4210]] Eesti maastikuarhitektuuri ajalugu<br />[[BCU4400]] Elurikkus<br />[[BCU4290]] Erialapraktika<br />[[ETG0011]] Geodeesia I<br />[[BCU4100]] Ilutaimed<br />[[BCU4380]] Inglise erialakeel<br />[[BCU4330]] Joonistamine<br />[[BCU4230]] Keskkonnaesteetika<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[BCU4450]] Keskkonna planeerimise alused ja keskkonnameetmete ökonoomika<br />[[BCU4440]] Keskkonnapoliitika tööriistad<br />[[BCU4410]] Klimatoloogia alused<br />[[BCU4060]] Kompositsioon, värvus- ja vormiõpetus<br />[[YGK0010]] Kujutav geomeetria<br />[[BCU4080]] Linnaplaneerimise teooria ja urbanistika<br />[[BCU4180]] Linnasotsioloogia<br />[[BCU4110]] Loodusgeograafia<br />[[BCU4300]] Looduskaitse<br />[[BCU4640]] Looduslike taimede levik ja kasvukoha tüübid<br />[[BCU4430]] Looduslikud ja antropogeensed vegetatsiooni tüübid<br />[[BCU4250]] Maastike üldkursus, tüpoloogia<br />[[BCU4150]] Maastikuarhitektuuri ajalugu<br />[[BCU4240]] Maastikuehitus<br />[[BCU4390]] Maastikuhooldus ja pargimajandus<br />[[BCU4130]] Maastikuprojekt I<br />[[BCU4460]] Maastikuprojekt II<br />[[BCU4470]] Maastikuprojekt III<br />[[BCU4480]] Maastikuprojekt IV<br />[[BCU4610]] Matemaatiline analüüs<br />[[BCU4270]] Materjalitundmine<br />[[BCU4120]] Metsanduse alused<br />[[BCU3610]] Mikroökonoomika<br />[[BCU4320]] Mullastiku parendamine<br />[[BCU4040]] Mullateadus<br />[[BCU3930]] Õpingukorraldus<br />[[BCU4280]] Planeerimise teooria<br />[[BCU4190]] Planeerimis- ja keskkonnaõigus<br />[[BCU4310]] Puitkonstruktsioonide lühikursus<br />[[BCU3510]] Riski- ja ohutusõpetus<br />[[BCU4170]] Sissejuhatus erialasse<br />[[BCU4260]] Suhtlemispsühholoogia<br />[[BCU4200]] Tehniline joonestamine<br />[[BCU4220]] Tugevusõpetus<br />[[ETG3513]] Ülevaade geoinformaatikast<br />[[BCU3240]] Uurimistöö alused</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BAAB06/13 - Maastikuarhitektuur Kava:50230</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BAAB06/13 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50230 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
 text: == BAAB06/13 - Maastikuarhitektuur [Kava:50230 〔Õppekava ÕIS-is〕]
 	[[BCU4070]] Arhitektuuri ja linnaplaneeringu ajalugu
@@ -64,4 +53,15 @@ text: == BAAB06/13 - Maastikuarhitektuur [Kava:50230 〔Õppekava ÕIS-is〕]
 	[[BCU3240]] Uurimistöö alused
 	
 	
+ts: 1441924148
 keep-ts: 1441924148
+flags: 
+revision: 5
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BAAB06/13 - Maastikuarhitektuur Kava:50230</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BAAB06/13 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50230 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+blocks: 
+diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

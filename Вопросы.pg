@@ -1,18 +1,18 @@
-minor: 
-lastmajor: 3
-host: 82.131.4.24
-flags: 01010
+flags: 
 text: DeletedPage
 	
 	Вы можете **[[Задать вопрос|задать свой вопрос]]**.
 	\\
 	<Journal 10 "^Вопрос_\d+">
 	
+lastmajor: 3
 revision: 3
-lastmajorsummary: Moved to Questions
-languages: 
-username: AlexDaniel
-ts: 1444780198
-blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-keep-ts: 1444780198
+blocks: 
 summary: Moved to Questions
+username: AlexDaniel
+languages: 
+minor: 
+host: 82.131.4.24
+keep-ts: 1444780198
+lastmajorsummary: Moved to Questions
+ts: 1444780198

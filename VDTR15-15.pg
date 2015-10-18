@@ -1,16 +1,10 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>VDTR15/15 - Kalanduse tehnoloogiate majandamine ja juhtimine [Kava:50329 〔Õppekava ÕIS-is〕]</h2><p>[[VMF0660]] Administratiivtöö või juhtimise praktika<br />[[VMF0060]] Analüütiline keemia<br />[[VAA0220]] Arvutigraafika ja tehniline joonestamine<br />[[VMS0110]] Baaslogistika<br />[[YKL0061]] Biokeemia I<br />[[VAY0542]] Eesti keel II (võõrkeelena)<br />[[VAY0541]] Eesti keel I (võõrkeelena)<br />[[VAY0210]] Eetika ja etikett<br />[[VMF0441]] Erialane inglise keel I<br />[[VMF0442]] Erialane inglise keel II<br />[[VMF0030]] Erialane kulinaaria - praktikum<br />[[VMF0670]] Erialane praktika<br />[[VLL0280]] Esmaabi ja hooldus<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMM1060]] E-turundus<br />[[HHF3080]] Filosoofia<br />[[VAY0700]] Füüsika<br />[[VMV0030]] Hüdrometeoroloogia alused<br />[[VMF0500]] Ihtüoloogia<br />[[VMF0040]] Ihtüopatoloogia ja veeorganismide toksikoloogia<br />[[VAY0141]] Informaatika I/1<br />[[VAY0142]] Informaatika I/2<br />[[VAY0240]] Juhtimispsühholoogia<br />[[VMF0570]] Kala esmakäitlemine ja kalakaubandus<br />[[VMF0540]] Kala ja kalatoitude biokeemia<br />[[VMF0650]] Kalakäitlemise ja kvaliteedikontrolli praktika<br />[[VMF0560]] Kalakäitlemise tehnoloogia<br />[[VMF0451]] Kalakasvatus ja kalavarude rikastamine I<br />[[VMF0452]] Kalakasvatus ja kalavarude rikastamine II<br />[[VMF0150]] Kalanduse ja merenduse geograafia<br />[[VMF0160]] Kalanduspoliitika ja kalandusõigus<br />[[VMF0610]] Kalapüügi bioloogilised alused ja kalapüügitehnoloogia<br />[[VMF0620]] Kalapüüniste ehitus, projekteerimine ja remont<br />[[VMF0580]] Kalatehnoloogia praktika I<br />[[VMF0590]] Kalatehnoloogia praktika II<br />[[VMF0600]] Kalatehnoloogia praktika III<br />[[VMF0630]] Kalatoodete tehnoloogia baaskursus<br />[[VMF0250]] Kalaturism ja puhkemajandus<br />[[VMF0520]] Kalavarude haldamine ja kalakaitse korraldamine<br />[[VAY0440]] Keemia<br />[[VMF0270]] Keskkonnakorraldus ja -kaitse<br />[[VMF0280]] Keskkonnamõjude hindamine ja keskkonnajuhtimissüsteem<br />[[VLL0220]] Laevade ehitus<br />[[VAY0690]] Lineaaralgebra ja analüütiline geomeetria<br />[[VLL0980]] Madruseõpe<br />[[VAY0270]] Majandusarvestuse alused<br />[[VAY0050]] Matemaatiline analüüs I<br />[[VAY0060]] Matemaatiline analüüs II<br />[[VMF0420]] Meeskonnatöö<br />[[VMV0170]] Merefüüsika<br />[[VLL0670]] Mereside praktikum (GMDSS raadioside operaatori piirangutega (ROC) kursus)<br />[[VLL0810]] Meresõiduohutus<br />[[VMV0190]] Meresõiduohutuse infosüsteemid<br />[[KTT0170]] Mikrobioloogia<br />[[VLL0610]] Navigatsioon<br />[[VAY0340]] Õiguse alused ja kodanikuühiskond<br />[[VAY0510]] Õpingukorraldus<br />[[VAY0190]] Organisatsioonikäitumine<br />[[VAY0220]] Projektijuhtimine<br />[[VMF0640]] Püügipraktika<br />[[VMF0330]] Rakendushüdrobioloogia<br />[[VMF0530]] Rannikuvööndi integreeritud areng<br />[[VMF0360]] Sissejuhatus erialasse<br />[[VLK0250]] Soojus- ja külmatehnika<br />[[VAY0200]] Suhtekorraldus<br />[[VAY0260]] Teadustöö alused<br />[[VAY0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[VMF0550]] Toiduhügieen<br />[[KTO0160]] Toidu sensoorne analüüs<br />[[KTT0100]] Toidu töötlemise alused<br />[[VMV0330]] Töökeskkonna ohutus<br />[[VMF0390]] Tootearendus<br />[[VMV0260]] Üldine hüdroloogia<br />[[VAY0660]] Üldjuhtimine<br />[[VLL0420]] Väikelaeva hooldus ja ekspluatatsioon<br />[[VMF0410]] Väikelaevajuhi praktika<br />[[VMF0510]] Veekogude ökoloogia<br />[[VAY0552]] Vene keel II (võõrkeelena)<br />[[VAY0551]] Vene keel I (võõrkeelena)</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDTR15/15 - Kalanduse tehnoloogiate majandamine ja juhtimine Kava:50329</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDTR15/15 - Kalanduse tehnoloogiate majandamine ja juhtimine <strong class="changes">[</strong>Kava:50329 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 3
+keep-ts: 1441924154
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
 text: == VDTR15/15 - Kalanduse tehnoloogiate majandamine ja juhtimine [Kava:50329 〔Õppekava ÕIS-is〕]
 	[[VMF0660]] Administratiivtöö või juhtimise praktika
 	[[VMF0060]] Analüütiline keemia
@@ -92,4 +86,10 @@ text: == VDTR15/15 - Kalanduse tehnoloogiate majandamine ja juhtimine [Kava:5032
 	[[VAY0552]] Vene keel II (võõrkeelena)
 	[[VAY0551]] Vene keel I (võõrkeelena)
 	
-keep-ts: 1441924154
+languages: 
+minor: 1
+revision: 3
+ts: 1441924154
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 

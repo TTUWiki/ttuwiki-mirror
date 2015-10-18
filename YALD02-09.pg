@@ -1,16 +1,16 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YALD02/09 - Keemia ja geenitehnoloogia [Kava:50077 〔Õppekava ÕIS-is〕]</h2><p>[[YXX9041]] Ametipraktika<br />[[YKI9100]] Arvutuskeemia erikursus<br />[[YKA9010]] Bioanalüütiliste meetodite erikursus<br />[[YSX9030]] Bioinformaatika erikursus<br />[[YTG9040]] Bioloogiline ohutus<br />[[YKB9010]] Biotehnoloogia erikursus<br />[[YXX9021]] Doktoriseminar<br />[[YXX9030]] Erialased ettekanded<br />[[YKX9011]] Erialase keemia süvakursus<br />[[YXX9051]] Erialase õpetamise metoodika<br />[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid<br />[[HHI9010]] Innovatsioon<br />[[HHP9010]] Juhtimispsühholoogia<br />[[KYF9020]] Keemilise ja ensüümkineetika erikursus<br />[[HHP9030]] Kõrgkoolididaktika<br />[[YKM9030]] Kvantbioloogia ja kvantfarmakoloogia<br />[[YTX9010]] Molekulaarbioloogia erikursus<br />[[DMO9020]] Molekulaarmeditsiini onkoloogia kursus<br />[[YTG9011]] Molekulaarne rakubioloogia<br />[[YTM9030]] Neurobioloogia erikursus<br />[[TMK9310]] Projektijuhtimine<br />[[YTP9030]] Proteoomika ja valkude keemia erikursus<br />[[YKO9030]] Spektroskoopia erikursus<br />[[YKO9020]] Stereokeemia erikursus<br />[[YSX9020]] Süsteemibioloogia<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YALD02/09 - Keemia ja geenitehnoloogia Kava:50077</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YALD02/09 - Keemia ja geenitehnoloogia <strong class="changes">[</strong>Kava:50077 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+username: AlexDaniel
+blocks: 
+host: 82.131.7.230
+minor: 1
+ts: 1441924155
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+flags: 
+diff-major: 
 text: == YALD02/09 - Keemia ja geenitehnoloogia [Kava:50077 〔Õppekava ÕIS-is〕]
 	[[YXX9041]] Ametipraktika
 	[[YKI9100]] Arvutuskeemia erikursus

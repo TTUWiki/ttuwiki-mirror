@@ -1,16 +1,6 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAEM14/15 - Maa-teadused ja geotehnoloogia [Kava:50294 〔Õppekava ÕIS-is〕]</h2><p>[[AKM0358]] Allmaakaevandamine ja projekt<br />[[AKM0170]] Allmaarajatised<br />[[AKM0351]] Avakaevandamine ja projekt<br />[[NGG8051]] CO2 geoloogiline ladustamine<br />[[NSO7037]] Dünaamiline meteoroloogia<br />[[NSO8044]] Dünaamiline okeanograafia<br />[[NGG8049]] Erimineraloogia<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[NSO8043]] Füüsikaline okeanograafia ja limnoloogia<br />[[NGG8040]] Füüsikalise geoloogia eriseminar<br />[[NGG8041]] Geofüüsika alused<br />[[NGG8142]] Geokeemia alused<br />[[NGG8053]] Geoloogia ametipraktika<br />[[NGG8086]] Geoloogilised protsessid ja kivimid (välipraktikum)<br />[[NGG8085]] Geoloogilised protsessid maakoores<br />[[NGG8039]] Geomaterjalid ja füüsikalis-keemilised meetodid geoloogias<br />[[AKM0350]] Geomehaanika ja mäekonstruktsioonid<br />[[NGG8048]] Geoprotsesside modelleerimine<br />[[AKM0362]] Geotehnoloogia tootmispraktika<br />[[NGG8002]] GIS Maa-teadustes: ArcGIS<br />[[NGG8003]] GIS meetodid geoloogias<br />[[NSO8069]] Kaasaegsed eksperimentaaltööd okeanograafias<br />[[AKM0190]] Kaevandamiskeskkond ja ohutus<br />[[AKM0353]] Kaevandatud alade kasutamine<br />[[ETG3730]] Kaevandusgeodeesia<br />[[ETG3732]] Kaevandusgeodeesia - ainetöö<br />[[ETG3733]] Kaevandusgeodeesia - õppepraktika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[NGG8070]] Kvaternaarigeoloogia ja geomorfoloogia<br />[[NSO7039]] Lennumeteoroloogia<br />[[NSO8046]] Looduslike veekogude modelleerimine<br />[[NSO8060]] Maa kaugsondeerimise alused<br />[[NGG8026]] Maa süsteemid<br />[[AKM0357]] Mäemajandus ja projekt<br />[[AKM0050]] Mäeõiguse alused<br />[[YMF0020]] Matemaatilise füüsika võrrandid<br />[[NSO8042]] Merekeskkonna kaitse<br />[[NSO8045]] Mereökoloogia alused<br />[[NSO7031]] Meteotehnika ja vaatlusvõrk<br />[[NGG8046]] Mikropaleontoloogia erikursus<br />[[NSO7041]] Numbriline ilmaennustus<br />[[NSO8051]] Okeanograafia ja meteoroloogia eriseminar<br />[[NSO8058]] Okeanograafia-meteoroloogia andmed ja andmetöötlus<br />[[NSO8090]] Okeanograafia-meteoroloogia praktika<br />[[NSO8055]] Okeanograafiline prognoos<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused<br />[[AKG0301]] Rakendusgeoloogia - projekt<br />[[NSO7035]] Rakendusklimatoloogia<br />[[NGG8131]] Sedimentoloogia alused<br />[[NGG8055]] Statistilised meetodid maateadustes<br />[[NGG8047]] Stratigraafia erikursus<br />[[NGG0140]] Struktuurigeoloogia ja geodünaamika<br />[[NSO7038]] Sünoptiline meteoroloogia<br />[[NSO8030]] Teadustöö metoodika<br />[[HLX8040]] Teadusvõõrkeel</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAEM14/15 - Maa-teadused ja geotehnoloogia Kava:50294</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAEM14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50294 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 3
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == YAEM14/15 - Maa-teadused ja geotehnoloogia [Kava:50294 〔Õppekava ÕIS-is〕]
 	[[AKM0358]] Allmaakaevandamine ja projekt
 	[[AKM0170]] Allmaarajatised
@@ -68,4 +58,14 @@ text: == YAEM14/15 - Maa-teadused ja geotehnoloogia [Kava:50294 〔Õppekava ÕI
 	[[NSO8030]] Teadustöö metoodika
 	[[HLX8040]] Teadusvõõrkeel
 	
+ts: 1441924154
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAEM14/15 - Maa-teadused ja geotehnoloogia Kava:50294</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAEM14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50294 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+languages: 
+blocks: 
 keep-ts: 1441924154
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

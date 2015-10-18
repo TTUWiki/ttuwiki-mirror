@@ -1,16 +1,14 @@
-flags: 010101010101010101010101010101010101010
-blocks: <h2>MARM06/06 - Tööstustehnika ja juhtimine [Kava:4052 〔Õppekava ÕIS-is〕]</h2><p>[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[TMV8270]] Ettevõtlus ja väikeettevõtted<br />[[TTP8310]] Innovatsiooni juhtimine<br />[[MHT0060]] Kvaliteedijuhtimine<br />[[MET8150]] Magistriseminarid<br />[[TEM8100]] Operatsioonianalüüs<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[MES8600]] Samaaegne tootearendus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus<br />[[MES8610]] Tootmise juhtimise infosüsteemid<br />[[MET8130]] Tootmise plaanimine ja juhtimine<br />[[MET8120]] Tootmise simulatsiooni rakendusi<br />[[TMJ8810]] Tootmise varustamise juhtimine<br />[[TMK8330]] Tootmiskorraldus<br />[[MET8110]] Tootmistehnika<br />[[MET8160]] Tootmistehnoloogia eripeatükid</p>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+keep-ts: 1441924151
+minor: 1
+languages: 
+host: 82.131.7.230
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MARM06/06 - Tööstustehnika ja juhtimine Kava:4052</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MARM06/06 - Tööstustehnika ja juhtimine <strong class="changes">[</strong>Kava:4052 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924151
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == MARM06/06 - Tööstustehnika ja juhtimine [Kava:4052 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[TMK8290]] Äritegevuse alused
@@ -32,4 +30,6 @@ text: == MARM06/06 - Tööstustehnika ja juhtimine [Kava:4052 〔Õppekava ÕIS-
 	[[MET8160]] Tootmistehnoloogia eripeatükid
 	
 	
-keep-ts: 1441924151
+ts: 1441924151
+diff-major: 
+username: AlexDaniel

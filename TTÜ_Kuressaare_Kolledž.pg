@@ -1,19 +1,7 @@
-flags: 01010101010
-blocks: <p>[[MATB02]] Tootearendus ja tootmistehnika</p><p>[[SDER02]] Elektroonsed süsteemid<br />[[SDSR10]] Meretehnika ja väikelaevaehitus<br />[[SDTR02]] Turismi- ja toitlustuskorraldus<br />[[SDVR04]] Väikeettevõtlus</p>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
-ip: 89.235.235.166
-ts: 1438887185
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 7
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление
+blocks: 
+flags: 
 languages: 
+summary: Автоматическое обновление
 text: [[MATB02]] Tootearendus ja tootmistehnika
 	
 	[[SDER02]] Elektroonsed süsteemid
@@ -23,5 +11,17 @@ text: [[MATB02]] Tootearendus ja tootmistehnika
 	
 	
 	
+username: Bot
+ts: 1438887185
 lastmajor: 3
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
+host: 85.253.110.44
+minor: 1
+revision: 7
 keep-ts: 1438887185
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
+ip: 89.235.235.166

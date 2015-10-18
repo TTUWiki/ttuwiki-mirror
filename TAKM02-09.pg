@@ -1,16 +1,3 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAKM02/09 - Ärikorraldus [Kava:50052 〔Õppekava ÕIS-is〕]</h2><p>[[TMJ8130]] Ärilogistika<br />[[TMM1210]] Ärisuhtlus<br />[[TTO1040]] Äritegevuse õiguslik keskkond<br />[[TTP1020]] Eesti majandus<br />[[TMJ8260]] Ettevõtlus<br />[[TER8640]] Ettevõtte rahandus<br />[[TAK8820]] Finantsaruandluse analüüs<br />[[TAF8290]] Finantsarvestus ja -aruandlus<br />[[TER8610]] Finantsjuhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[TMO8231]] Juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TEM8190]] Juhtimisinfo töötlemine<br />[[TMJ1050]] Juhtimismäng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TMM1420]] Magistriseminar (turundus)<br />[[TET8290]] Majandusteooria ja ettevõtluskeskkond<br />[[TAF8720]] Maksundus<br />[[TMO8310]] Organisatsioonikäitumine<br />[[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine<br />[[TMO8131]] Personalijuhtimine<br />[[TMK8310]] Projektijuhtimine<br />[[TER8111]] Raha ja pangandus<br />[[TMO8241]] Strateegiline juhtimine<br />[[TMK1100]] Tehnoloogia juhtimine<br />[[TMT1180]] Tööelu kvaliteedi juhtimine<br />[[TMT8260]] Töökeskkond ja ergonoomika<br />[[TMX1010]] Töö-ökonoomika<br />[[TTO1060]] Tööseadusandlus<br />[[TMO1240]] Töö tasustamine<br />[[TMM1020]] Turunduse kontseptsioonid<br />[[TMM1550]] Turunduskommunikatsioon<br />[[TMM8690]] Turundusuuring<br />[[TXX1110]] Uurimistöö</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TAKM02/09 - Ärikorraldus Kava:50052</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TAKM02/09 - Ärikorraldus <strong class="changes">[</strong>Kava:50052 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TAKM02/09 - Ärikorraldus [Kava:50052 〔Õppekava ÕIS-is〕]
 	[[TMJ8130]] Ärilogistika
 	[[TMM1210]] Ärisuhtlus
@@ -53,4 +40,17 @@ text: == TAKM02/09 - Ärikorraldus [Kava:50052 〔Õppekava ÕIS-is〕]
 	[[TXX1110]] Uurimistöö
 	
 	
+minor: 1
+host: 82.131.7.230
 keep-ts: 1441924153
+flags: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAKM02/09 - Ärikorraldus Kava:50052</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAKM02/09 - Ärikorraldus <strong class="changes">[</strong>Kava:50052 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
+username: AlexDaniel
+diff-major: 

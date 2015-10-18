@@ -1,16 +1,8 @@
-flags: 01010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAD06/06 - Avalik haldus [Kava:4059 〔Õppekava ÕIS-is〕]</h2><p>[[HHX9040]] Ametipraktika<br />[[HHX9011]] Doktoriseminar I<br />[[HHX9012]] Doktoriseminar II<br />[[HHL9070]] Euroopa Liit ja innovatsioon<br />[[HHL9050]] Europaniseerumine<br />[[HHL9060]] E-valitsemine<br />[[HHA9110]] Haldusjuhtimine ja innovatsioon<br />[[HHA9010]] Haldusjuhtimise ajalugu ja teooria<br />[[HHX9030]] Halduspoliitikate võrdlev analüüs<br />[[HHF9010]] Iseorganiseerumise paradigma nüüdisteadustes<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHR9050]] Keskkonnakorralduse eriseminar<br />[[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar<br />[[HHP9030]] Kõrgkoolididaktika<br />[[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine<br />[[HHP9050]] Majanduspsühholoogia<br />[[HHL9030]] Riigi ja õiguse teooria<br />[[HHL9010]] Riigiteooriate eriseminar<br />[[HHL9090]] Sotsiaalteaduste meetodid<br />[[HHA9170]] Strateegiline juhtimine ja poliitikakujundamine<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[HHA9090]] Tehnoloogia arengu finantseerimine<br />[[HHP9060]] Tehnoloogia juhtimine ja psühholoogia<br />[[HHA9160]] Väikeriigid ja valitsemine</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAD06/06 - Avalik haldus Kava:4059</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAD06/06 - Avalik haldus <strong class="changes">[</strong>Kava:4059 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
+keep-ts: 1441924149
+minor: 1
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == HAAD06/06 - Avalik haldus [Kava:4059 〔Õppekava ÕIS-is〕]
 	[[HHX9040]] Ametipraktika
 	[[HHX9011]] Doktoriseminar I
@@ -39,4 +31,12 @@ text: == HAAD06/06 - Avalik haldus [Kava:4059 〔Õppekava ÕIS-is〕]
 	[[HHA9160]] Väikeriigid ja valitsemine
 	
 	
-keep-ts: 1441924149
+blocks: 
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAD06/06 - Avalik haldus Kava:4059</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAD06/06 - Avalik haldus <strong class="changes">[</strong>Kava:4059 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924149
+username: AlexDaniel
+diff-major: 

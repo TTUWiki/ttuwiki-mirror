@@ -1,18 +1,11 @@
-flags: 0101010
-blocks: &lt;include "MASB02-15"&gt;
-	&lt;include "MASB02-09"&gt;
-	&lt;include "MASB02-02"&gt;
+username: Bot
+minor: 1
+diff-major: 
+host: 85.253.110.44
+summary: Автоматическое обновление
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "MASB02-15"&gt;</p></div>
-ip: 89.235.235.166
 ts: 1438886445
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 4
-diff-major: 
-summary: Автоматическое обновление
-languages: 
 text: <include "MASB02-15">
 	
 	<include "MASB02-09">
@@ -21,5 +14,10 @@ text: <include "MASB02-15">
 	
 	
 	
+languages: 
 lastmajor: 1
 keep-ts: 1438886445
+revision: 4
+flags: 
+ip: 89.235.235.166
+blocks: 

@@ -1,16 +1,8 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IATM02/14 - Telekommunikatsioon [Kava:50246 〔Õppekava ÕIS-is〕]</h2><p>[[IRZ0090]] Adaptiivne signaalitöötlus<br />[[ITV8060]] Arvutivõrkude turvalisus<br />[[YMR5730]] Arvutusmeetodid<br />[[IRZ0180]] Audiovisuaalse info kodeerimine<br />[[IRT0150]] Digitaalne andmeülekanne<br />[[IRO0080]] Digitaalne spektraalanalüüs<br />[[IRO0100]] Elektromagnetiline ühildavus sidetehnikas<br />[[TMT0040]] Ergonoomika<br />[[IRT020P]] Erialapraktika<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IRM0120]] Fiiberoptiline kommunikatsioon<br />[[IRZ0080]] Funktsionaalsed signaaliprotsessorid<br />[[IRT0090]] Helitehnika ja akustika<br />[[IRO0050]] Infoedastusseadmed<br />[[IRO0060]] Infosüsteemide elektriseadmed<br />[[IRZ0170]] Kaasaegne traadita side<br />[[IRZ0190]] Kanalikodeerimine telekommunikatsioonis<br />[[IRT0100]] Kommunikatsioonivõrkude struktuurid ja teenused<br />[[IRO0070]] Kõrgsageduslik signaalitöötlus<br />[[IRM0060]] Mobiilsete juurdepääsuvõrkude plaanimine<br />[[IRT0180]] Multimeedia tehnoloogiad<br />[[MER0130]] Optimeerimismeetodid<br />[[ITI0011]] Programmeerimise põhikursus Javas<br />[[IRM0070]] Sideseadmete disain<br />[[IRM0100]] Sideseadmete mudeldamine<br />[[IRO0120]] Sidesüsteemide analüüs<br />[[IRT0120]] Sideteooria<br />[[IRZ0070]] Signaaliprotsessorid<br />[[IRT0190]] Standardimine sidetehnikas<br />[[HLX8040]] Teadusvõõrkeel<br />[[IRT0170]] Telekommunikatsiooni teenuste arendus<br />[[IRT0160]] Telekommunikatsiooni teenuste võrgurakenduste platvormid<br />[[ITV0110]] Võrgurakendused I<br />[[ITV0120]] Võrgurakendused II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IATM02/14 - Telekommunikatsioon Kava:50246</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IATM02/14 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50246 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
+ts: 1441924150
+diff-major: 
 text: == IATM02/14 - Telekommunikatsioon [Kava:50246 〔Õppekava ÕIS-is〕]
 	[[IRZ0090]] Adaptiivne signaalitöötlus
 	[[ITV8060]] Arvutivõrkude turvalisus
@@ -48,4 +40,12 @@ text: == IATM02/14 - Telekommunikatsioon [Kava:50246 〔Õppekava ÕIS-is〕]
 	[[ITV0120]] Võrgurakendused II
 	
 	
+revision: 4
+username: AlexDaniel
 keep-ts: 1441924150
+host: 82.131.7.230
+minor: 1
+blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IATM02/14 - Telekommunikatsioon Kava:50246</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IATM02/14 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50246 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

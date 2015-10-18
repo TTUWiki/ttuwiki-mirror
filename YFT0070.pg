@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sissejuhatus majandusfüüsikasse
 	#SUBURL [Course:110346 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+username: AlexDaniel
+blocks: [Course:110346 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 keep-ts: 1441924452
+flags: 1
+ts: 1441924452
+minor: 1
+revision: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,16 +1,10 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TVTM03/09 - Rahvusvaheline ärikorraldus [Kava:50060 〔Õppekava ÕIS-is〕]</h2><p>[[TIX8300]] Ärieetika<br />[[IDY0275]] Äriinfosüsteemid<br />[[TIX2085]] Äriturundus<br />[[TIX2635]] Baltimere maade ja Venemaa majandus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[TIX2060]] Ettevõtlus ja väikeettevõtted<br />[[TIX2605]] Ettevõtte rahandus<br />[[TIX2680]] E-turundus<br />[[TIX2345]] Euroopa Ühenduse õigus<br />[[TIX2750]] Finantsjuhtimine<br />[[TIX2640]] Innovatsiooni juhtimine<br />[[TIX2730]] Juhtimine<br />[[TIX2690]] Juhtimismäng<br />[[TIX2720]] Kultuuridevaheline suhtlemine<br />[[TIX2670]] Magistriseminar<br />[[TIX2845]] Majandusarvestus<br />[[TIX2355]] Projekti juhtimine ja tulude-kulude analüüs<br />[[TIX2580]] Raha ja pangandus<br />[[TIX8280]] Rahvusvaheline ärindus<br />[[TIX2045]] Rahvusvaheline inimressursi juhtimine<br />[[TIX2595]] Rahvusvaheline majandus<br />[[TIX2860]] Rahvusvaheline maksundus<br />[[TIX8140]] Statistiline analüüs<br />[[TIX2710]] Strateegiline juhtimine<br />[[TIX2660]] Tootmise varustamise juhtimine<br />[[TIX2740]] Turunduskommunikatsioon<br />[[TIX2700]] Turundusuuring</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVTM03/09 - Rahvusvaheline ärikorraldus Kava:50060</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVTM03/09 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50060 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 
 revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924154
 text: == TVTM03/09 - Rahvusvaheline ärikorraldus [Kava:50060 〔Õppekava ÕIS-is〕]
 	[[TIX8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
@@ -41,4 +35,10 @@ text: == TVTM03/09 - Rahvusvaheline ärikorraldus [Kava:50060 〔Õppekava ÕIS-
 	[[TIX2700]] Turundusuuring
 	
 	
+blocks: 
+diff-major: 
 keep-ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVTM03/09 - Rahvusvaheline ärikorraldus Kava:50060</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTM03/09 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50060 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1

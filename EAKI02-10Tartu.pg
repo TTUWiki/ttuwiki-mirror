@@ -1,16 +1,10 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAKI02/10Tartu - Keskkonnatehnika [Kava:50145 〔Õppekava ÕIS-is〕]</h2><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu<br />[[NTM0800]] Arhitektuurse kujundamise alused<br />[[NTS1340]] Äriõigus<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTM1180]] Asustuskeskkonna kujunemine<br />[[NTS0040]] Automaatika alused<br />[[NTM0430]] Botaanika<br />[[NTM1360]] Dendroloogia<br />[[NTM1350]] Dendropatoloogia ja dendroloogiline inventeerimine<br />[[NTM1440]] Detailplaneeringu koostamine<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTS1350]] Eelarve ja maksusüsteem<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTM1430]] Eesti maastikuarhitektuuri ajalugu<br />[[NTS1280]] Ehituse maksumuse hindamine<br />[[NTS1060]] Ehitusettevõtte ökonoomika<br />[[NTS0260]] Ehitusfüüsika<br />[[NTS0153]] Ehitusgraafika I<br />[[NTS0154]] Ehitusgraafika II<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS1221]] Ehitusmehaanika I<br />[[NTS1222]] Ehitusmehaanika II<br />[[NTS0250]] Elektrotehnika<br />[[NTS1170]] Erialapraktika<br />[[NTS1330]] Ettevõtluse alused<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTS1160]] Geotehnika alused<br />[[NTM0390]] Haljasalade kujundamine<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTM0271]] Hüdraulika I<br />[[NTM1370]] Ilutaimed<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTS0051]] Jäätmekäitlus I<br />[[NTS0052]] Jäätmekäitlus II<br />[[NTM0890]] Joonistamine<br />[[NTK0680]] Juhtimine<br />[[NTM0420]] Kartograafia<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTK0340]] Keskkonnakeemia<br />[[NTK0830]] Keskkonnakorraldus<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTS0400]] Keskkonnasäästlik energeetika<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTS1050]] Komposiitmaterjalid<br />[[NTM0480]] Kompositsioon, värvus- ja vormiõpetus<br />[[NTS0140]] Kujutav geomeetria<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0270]] Logistika alused<br />[[NTM1070]] Loodusgeograafia<br />[[NTM1400]] Maastikuarhitektuuri ajalugu<br />[[NTM1280]] Maastikuarhitektuurne kujundamine<br />[[NTM0700]] Maastikukujundus<br />[[NTM0510]] Maketiõpetus<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS1021]] Materjalide ringlus<br />[[NTS1022]] Materjalide ringlus - projekt<br />[[NTS1290]] Materjalitehnika<br />[[NTM0790]] Metsanduse alused<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTS1210]] Mobiiltransport<br />[[NTM1330]] Muinsuskaitse filosoofia ja ajalugu<br />[[NTM0450]] Mullateadus<br />[[NTK0030]] Õigusõpetus<br />[[NTK1010]] Ökodisain<br />[[NTK0010]] Õpingukorraldus<br />[[NTM0350]] Plaanimine ja teed<br />[[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine<br />[[NTM0290]] Projekteerimispraktika<br />[[NTS0290]] Pumbad ja ventilaatorid<br />[[NTS1120]] Raalprojekteerimine<br />[[NTS0061]] Reoveekäitlus<br />[[NTS0062]] Reoveekäitlus - projekt<br />[[NTM0370]] Restaureerimise üldkursus<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTS0560]] Säästev ja keskkonnasõbralik ehitamine<br />[[NTM0520]] Sissejuhatus erialasse<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTS0360]] Soojustehnika<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0330]] Tehnosüsteemide tehnoloogia<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTS1040]] Töötlemistehnoloogia<br />[[NTS1370]] Tootmise plaanimine<br />[[NTS1180]] Tootmispraktika<br />[[NTS1200]] Tõste- ja teisaldusmasinad<br />[[NTS1201]] Tõste- ja teisaldusmasinad - projekt<br />[[NTS1360]] Turundus<br />[[NTS0021]] Ühisveevärk I<br />[[NTM1420]] Üldine kunstiajalugu<br />[[NTM1110]] Üldplaneeringu koostamine<br />[[NTM1020]] Välisruumi käsitlus ja analüüs<br />[[NTM0111]] Visuaalne kommunikatsioon I</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAKI02/10Tartu - Keskkonnatehnika Kava:50145</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAKI02/10Tartu - Keskkonnatehnika <strong class="changes">[</strong>Kava:50145 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
+ts: 1441924149
 revision: 4
-diff-major: 
+keep-ts: 1441924149
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+host: 82.131.7.230
 text: == EAKI02/10Tartu - Keskkonnatehnika [Kava:50145 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu
@@ -122,4 +116,10 @@ text: == EAKI02/10Tartu - Keskkonnatehnika [Kava:50145 〔Õppekava ÕIS-is〕]
 	[[NTM0111]] Visuaalne kommunikatsioon I
 	
 	
-keep-ts: 1441924149
+languages: 
+blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAKI02/10Tartu - Keskkonnatehnika Kava:50145</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAKI02/10Tartu - Keskkonnatehnika <strong class="changes">[</strong>Kava:50145 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+flags: 
+diff-major: 

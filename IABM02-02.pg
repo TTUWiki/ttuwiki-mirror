@@ -1,16 +1,4 @@
-flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IABM02/02 - Äriinfotehnoloogia [Kava:862 〔Õppekava ÕIS-is〕]</h2><p>[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid<br />[[IDN5420]] Andmeanalüüs<br />[[ISS0090]] Arukad hooned<br />[[IDU002P]] Erialapraktika<br />[[IDU0180]] Eriseminar magistrantidele<br />[[TMM1060]] E-turundus<br />[[IDU5570]] Infosüsteemide arendamise tehnoloogia<br />[[IDU0172]] Infosüsteemide arendustehnoloogia - projekt<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[IDU0040]] Infosüsteemi strateegiline juhtimine ja arendamine<br />[[TMO1130]] Inimressursi juhtimine<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[IDU0030]] Kirjutamise ja esinemise alused<br />[[IRT0080]] Kommunikatsiooniteenuste arendus<br />[[TTO3280]] Lepinguõigus<br />[[IDX5040]] Multimeedia<br />[[IAG0120]] Operatsioonisüsteemid<br />[[TER3660]] Rahandusotsused<br />[[IDS0010]] Sissejuhatus andmeturbesse<br />[[IDS0020]] Sissejuhatus krüptograafiasse<br />[[IDN5120]] Täppismeetodid otsustuste vastuvõtmisel<br />[[IDU0100]] Tarkvaraagendid ja agendisüsteemid<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö<br />[[HLX8040]] Teadusvõõrkeel</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IABM02/02 - Äriinfotehnoloogia Kava:862</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IABM02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:862 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IABM02/02 - Äriinfotehnoloogia [Kava:862 〔Õppekava ÕIS-is〕]
 	[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid
 	[[IDN5420]] Andmeanalüüs
@@ -42,4 +30,16 @@ text: == IABM02/02 - Äriinfotehnoloogia [Kava:862 〔Õppekava ÕIS-is〕]
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
+languages: 
+revision: 4
+username: AlexDaniel
+minor: 1
+flags: 
+ts: 1441924150
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABM02/02 - Äriinfotehnoloogia Kava:862</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABM02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:862 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
 keep-ts: 1441924150

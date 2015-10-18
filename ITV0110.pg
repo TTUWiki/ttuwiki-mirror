@@ -1,13 +1,5 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I">http://www.lambda.ee/wiki/V%C3%B5rgurakendused_I</a></p><p>&#x2013; AlexDaniel 2014-09-02 17:31:57</p></div>
-ip: 89.235.235.166
-ts: 1441924447
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+ip: 89.235.235.166
 text: #SUBTITLE Võrgurakendused I
 	#SUBURL [Course:100882 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -19,5 +11,13 @@ text: #SUBTITLE Võrgurakendused I
 	-- AlexDaniel 2014-09-02 17:31:57
 	
 	
+revision: 5
 lastmajor: 4
+ts: 1441924447
+flags: 1
+blocks: [Course:100882 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 keep-ts: 1441924447
+languages: 

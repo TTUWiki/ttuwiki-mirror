@@ -1,16 +1,12 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TARM02/11 - Ärirahandus ja majandusarvestus [Kava:50171 〔Õppekava ÕIS-is〕]</h2><p>[[TMK1160]] Analüüsimeetodid äriuuringutes<br />[[TMO1091]] Äriühingute valitsemine<br />[[TAF1060]] Arvestuse infosüsteemid<br />[[TAF1140]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes<br />[[TAK1120]] Audiitorkontroll<br />[[TAK1140]] Audiitortegevuse alused<br />[[TAK1160]] Avaliku sektori auditeerimine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HOL7010]] EL siseturuõigus<br />[[TER100P]] Erialapraktika<br />[[TER1420]] Ettevõtte rahandus<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TAK1150]] Finantsaruannete audit<br />[[TAF1110]] Finantsarvestuse süvakursus<br />[[TER1464]] Finants- ja väärtpaberianalüüs<br />[[TER1414]] Finantsjuhtimine-kaasusanalüüs<br />[[TER1220]] Finantsturud ja -institutsioonid<br />[[TMJ1050]] Juhtimismäng<br />[[TMJ1070]] Kinnisvara hindamine<br />[[TAF1120]] Kontserniarvestus<br />[[TER1520]] Magistriseminar (ärirahandus)<br />[[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)<br />[[TAF1170]] Majandusarvestuse teooria<br />[[TES1040]] Ökonomeetria<br />[[TMK1150]] Operatsioonijuhtimine<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TAF1100]] Raamatupidaja ja audiitori kutse-eetika<br />[[TAF1190]] Raamatupidamispettused ja kohtulik raamatupidamisekspertiis<br />[[TER8111]] Raha ja pangandus<br />[[TXX1050]] Rahanduse ja majandusarvestuse alane kommunikatsioon<br />[[TER1320]] Rahvusvaheline ärirahandus<br />[[TAF1130]] Rahvusvaheline arvestus<br />[[TAF1150]] Rahvusvaheline maksundus<br />[[TER1415]] Riski juhtimine<br />[[TER1470]] Risk ja optsioonid<br />[[TAK1130]] Siseaudit<br />[[TAK1040]] Sotsiaal- ja keskkonnaarvestus<br />[[TMO1041]] Strateegiline juhtimine<br />[[TAK1050]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[TER1450]] Väärtpaberid ja portfelliteooria<br />[[TER1498]] Võlakirjad ja turud</p>
+username: AlexDaniel
+keep-ts: 1441924153
+diff-major: 
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TARM02/11 - Ärirahandus ja majandusarvestus Kava:50171</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TARM02/11 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50171 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TARM02/11 - Ärirahandus ja majandusarvestus [Kava:50171 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMO1091]] Äriühingute valitsemine
@@ -56,4 +52,8 @@ text: == TARM02/11 - Ärirahandus ja majandusarvestus [Kava:50171 〔Õppekava �
 	[[TER1498]] Võlakirjad ja turud
 	
 	
-keep-ts: 1441924153
+ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+languages: 
+host: 82.131.7.230

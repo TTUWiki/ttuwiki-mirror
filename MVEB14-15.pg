@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>MVEB14/15 - Integreeritud tehnoloogiad [Kava:50324 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[MER0060]] APJ tootmisseadmete programmeerimine<br />[[MES0040]] Automatiseerimistehnika<br />[[MHD0072]] Dünaamika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[HLE2210]] Eesti keel ja kultuur I<br />[[AAV0060]] Elektriajamid ja jõuelektroonika<br />[[IED0150]] Elektroonika<br />[[TMJ0110]] Ettevõtluse alused<br />[[YFR0012]] Füüsika II<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[HOE6052]] Intellektuaalse omandi õigus<br />[[KYF0250]] Jätkusuutliku energeetika põhialused<br />[[YKI0130]] Keemia ja materjaliõpetus<br />[[YGK0010]] Kujutav geomeetria<br />[[UTT0050]] Kursuseprojekt 1<br />[[UTT0060]] Kursuseprojekt 2<br />[[YMA3710]] Lineaaralgebra<br />[[ETV3110]] Logistika alused<br />[[MHD0030]] Masinamehaanika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[MTM0120]] Materjali ja tehnoloogia valik<br />[[MTM0070]] Materjalitehnika<br />[[MHK0030]] Mehhatroonika<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[UTT0010]] Õpingukorraldus<br />[[KMP0330]] Polümeermaterjalid: saamine ja omadused<br />[[MES0150]] Probleemilahendus<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[MER0150]] Raalprojekteerimine<br />[[UTT0070]] Sissejuhatus erialasse<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[MSE0100]] Soojustehnika<br />[[MHD0071]] Staatika ja kinemaatika<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[MED0010]] Tööstusdisaini alused<br />[[MET0011]] Tootmistehnika alused I<br />[[MHE0011]] Tugevusõpetus I<br />[[MHE0012]] Tugevusõpetus II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MVEB14/15 - Integreeritud tehnoloogiad Kava:50324</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MVEB14/15 - Integreeritud tehnoloogiad <strong class="changes">[</strong>Kava:50324 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == MVEB14/15 - Integreeritud tehnoloogiad [Kava:50324 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MER0060]] APJ tootmisseadmete programmeerimine
@@ -57,4 +44,17 @@ text: == MVEB14/15 - Integreeritud tehnoloogiad [Kava:50324 〔Õppekava ÕIS-is
 	[[MHE0012]] Tugevusõpetus II
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MVEB14/15 - Integreeritud tehnoloogiad Kava:50324</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MVEB14/15 - Integreeritud tehnoloogiad <strong class="changes">[</strong>Kava:50324 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924152
+blocks: 
+languages: 
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
+diff-major: 
+revision: 4
+minor: 1
+ts: 1441924152

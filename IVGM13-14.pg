@@ -1,16 +1,4 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IVGM13/14 - E-riigi tehnoloogiad ja teenused [Kava:50266 〔Õppekava ÕIS-is〕]</h2><p>[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[HHA1530]] Arengupoliitikad ja üleilmastumine<br />[[IDU0320]] Äriinfosüsteemid<br />[[IDU0330]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse<br />[[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused<br />[[IDU0410]] E-demokraatia kontseptsioonid<br />[[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[IDU0460]] Ettevõtte äriarhitektuuri arendamine<br />[[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud<br />[[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine<br />[[HOE7210]] E-valitsuse õiguslikud aspektid<br />[[HHL1040]] Haldusjuhtimine ja avalik haldus<br />[[IDU0430]] Infohaldus ja digiarhiivindus<br />[[IDU0405]] Infoühiskonna kontseptsioonid ja põhimõtted<br />[[HHI1110]] Innovatsioon<br />[[IDU0480]] Küberturbe põhialused<br />[[IDU0450]] Meeskonnatöö - projekt<br />[[HHM1030]] Poliitikate kujundamine<br />[[IDU006P]] Praktika<br />[[HHA1450]] Riik ja valitsemine<br />[[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine<br />[[IDU0455]] Sissejuhatus pilvepõhiste süsteemide arendusse<br />[[IDU0470]] Teenuskeskne käsitlus avalikus sektoris<br />[[HHL1250]] Tehnoloogia ja ühiskond<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[IDU0475]] Turvalisus ja privaatsus võrgupõhises maailmas<br />[[IDU0440]] Virtuaalkeskkondade kasutatavus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IVGM13/14 - E-riigi tehnoloogiad ja teenused Kava:50266</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IVGM13/14 - E-riigi tehnoloogiad ja teenused <strong class="changes">[</strong>Kava:50266 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924151
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IVGM13/14 - E-riigi tehnoloogiad ja teenused [Kava:50266 〔Õppekava ÕIS-is〕]
 	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
@@ -44,4 +32,16 @@ text: == IVGM13/14 - E-riigi tehnoloogiad ja teenused [Kava:50266 〔Õppekava �
 	[[IDU0440]] Virtuaalkeskkondade kasutatavus
 	
 	
+ts: 1441924151
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IVGM13/14 - E-riigi tehnoloogiad ja teenused Kava:50266</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IVGM13/14 - E-riigi tehnoloogiad ja teenused <strong class="changes">[</strong>Kava:50266 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+blocks: 
+diff-major: 
 keep-ts: 1441924151
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+revision: 4
+languages: 

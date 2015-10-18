@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50292 〔Õppekava ÕIS-is〕]</h2><p>[[BCU3430]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU4710]] Ärikommunikatsioon<br />[[BCU1910]] Ärilogistika<br />[[BCU3340]] Äriõigus<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU3460]] Arvestus eelarvelistes asutustes<br />[[BCU4020]] Audiitorkontroll<br />[[BCU0840]] Eelarvestus<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4030]] Ettevõtluse alused<br />[[BCU4670]] Ettevõttemajanduse erialapraktika<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU4860]] Finantsalane inglise keel I<br />[[BCU4870]] Finantsalane inglise keel II<br />[[BCU0880]] Finantsanalüüs<br />[[BCU3190]] Finantsanalüüs - ainetöö<br />[[BCU1740]] Finantsarvestus<br />[[BCU4780]] Finantsjuhtimine<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU1930]] Inimressursi juhtimine<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU4750]] Investeeringute alused<br />[[BCU4840]] Isiksusepsühholoogia<br />[[BCU0460]] Juhtimine<br />[[BCU3600]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU3370]] Juhtimiskontroll<br />[[BCU2040]] Juhtimiskontroll - ainetöö<br />[[BCU3250]] Konfliktoloogia<br />[[BCU3120]] Kontserniarvestus<br />[[BCU3760]] Kuluarvestus<br />[[BCU3170]] Kursusetöö<br />[[BCU3390]] Lepinguõigus<br />[[BCU3770]] Majandusarvestuse erialapraktika<br />[[BCU4770]] Majandusarvestuse tarkvara<br />[[BCU3620]] Makroökonoomika<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU4890]] Maksusüsteem<br />[[BCU4720]] Meeskonnatöö<br />[[BCU3610]] Mikroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU4740]] Muutuste juhtimine<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3350]] Organisatsioonikäitumine<br />[[BCU3360]] Projektijuhtimine<br />[[BCU4880]] Protokoll ja etikett<br />[[BCU3410]] Raha ja pangandus<br />[[BCU0611]] Rahvusvaheline turundus<br />[[BCU3140]] Rahvusvahelised finantsaruandluse standardid<br />[[BCU3810]] Sissejuhatav praktika<br />[[BCU4810]] Sissejuhatus kaasahaaratuse teooriasse<br />[[BCU4700]] Sissejuhatus käitumisökonoomikasse<br />[[BCU3330]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0560]] Strateegiline juhtimine<br />[[BCU4260]] Suhtlemispsühholoogia<br />[[BCU2000]] Tarbijakäitumine<br />[[BCU4010]] Tarneahela juhtimine<br />[[BCU4820]] Teeninduse kvaliteedi juhtimine<br />[[BCU4800]] Teenuste loomine (disain) ja juhtimine<br />[[BCU4680]] Teenuste turunduse ja juhtimise erialapraktika<br />[[BCU3290]] Teenuste turundus ja kliendi kogemus<br />[[BCU4850]] Töökorraldus ja töö tasustamine<br />[[BCU1630]] Tööõigus<br />[[BCU3400]] Turundus<br />[[BCU1920]] Turundus jaekaubanduses<br />[[BCU3240]] Uurimistöö alused</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine Kava:50292</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:50292 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+host: 82.131.7.230
 text: == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50292 〔Õppekava ÕIS-is〕]
 	[[BCU3430]] Aastaaruandluse koostamine ja analüüs
 	[[BCU0510]] Ärieetika alused
@@ -87,4 +76,15 @@ text: == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50292 〔�
 	[[BCU3240]] Uurimistöö alused
 	
 	
+ts: 1441924148
+flags: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine Kava:50292</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDMR02/15 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:50292 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+username: AlexDaniel
+minor: 1
 keep-ts: 1441924148
+revision: 4

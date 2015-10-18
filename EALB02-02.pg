@@ -1,15 +1,12 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EALB02/02 - Logistika [Kava:534 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[TMJ0030]] Ärilogistika<br />[[TTO0020]] Äriõigus<br />[[TAF3141]] Arvestuse alused<br />[[ETV3180]] Erialapraktika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[TMO0030]] Ettevõtte organisatsioon ja juhtimine<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[TER3200]] Finantsriskid logistikas<br />[[YFR0020]] Füüsika<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[TMO0010]] Juhtimine<br />[[YKI3030]] Keemia ja materjaliõpetus<br />[[EKE3710]] Keskkonnakaitse<br />[[TTO3280]] Lepinguõigus<br />[[ETV3720]] Liikluskorraldus ja -ohutus<br />[[YMA3710]] Lineaaralgebra<br />[[ETV3110]] Logistika alused<br />[[ETV3131]] Logistika infrastruktuur<br />[[ETV3132]] Logistika infrastruktuur - ainetöö<br />[[UTT0030]] Logistika koondkursus<br />[[TTR0020]] Majandusgeograafia<br />[[TEM0221]] Majandusmatemaatika II<br />[[TTP0010]] Majanduspoliitika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[TMK0010]] Operatsioonijuhtimine<br />[[UTT0010]] Õpingukorraldus<br />[[HHA0050]] Protokoll ja etikett<br />[[TTO3371]] Rahvusvaheline majandusõigus<br />[[MEA5350]] Rahvusvaheliste vedude lepingud ja normid<br />[[TMT3820]] Riski- ja ohutusõpetus<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[TES0020]] Statistika<br />[[TMO1040]] Strateegiline juhtimine<br />[[TMM3670]] Tollinduse alused<br />[[TTO3240]] Tööõigus<br />[[MEA5320]] Transpordiettevõtte infosüsteem<br />[[TMJ3710]] Transpordiökonoomika<br />[[ETV0030]] Transport<br />[[TMM0100]] Turundus<br />[[TMM0080]] Turunduse juhtimine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[MEA3360]] Varud ja ladustamine<br />[[IDK0040]] Võrgurakendused I</p>
+keep-ts: 1441924149
+host: 82.131.7.230
+revision: 4
+flags: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EALB02/02 - Logistika Kava:534</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EALB02/02 - Logistika <strong class="changes">[</strong>Kava:534 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
 text: == EALB02/02 - Logistika [Kava:534 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -62,4 +59,7 @@ text: == EALB02/02 - Logistika [Kava:534 〔Õppekava ÕIS-is〕]
 	[[IDK0040]] Võrgurakendused I
 	
 	
-keep-ts: 1441924149
+ts: 1441924149
+blocks: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

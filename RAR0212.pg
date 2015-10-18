@@ -1,9 +1,6 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ip: 89.235.235.166
-ts: 1441924449
-minor: 1
 host: 82.131.7.230
+ts: 1441924449
+ip: 89.235.235.166
 username: AlexDaniel
 revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
@@ -12,5 +9,8 @@ text: #SUBTITLE Informaatika II
 	#SUBURL [Course:34348 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:34348 〔Õppeaine ÕIS-is〕]
+minor: 1
 lastmajor: 2
+flags: 1
 keep-ts: 1441924449

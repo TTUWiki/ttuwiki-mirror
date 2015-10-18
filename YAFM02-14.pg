@@ -1,16 +1,13 @@
-flags: 01010101010101010101010101010101010101010101010101010
-blocks: <h2>YAFM02/14 - Tehniline füüsika [Kava:50248 〔Õppekava ÕIS-is〕]</h2><p>[[YMR8021]] Arvutusmeetodid II<br />[[EMR0180]] Elastsusteooria seminar<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3080]] Filosoofia<br />[[YMM0041]] Funktsionaalanalüüsi elemendid<br />[[YFR0310]] Füüsikaliste protsesside modelleerimine<br />[[EMH0180]] Hüdrodünaamika seminar<br />[[YFT0080]] Kvantmehaanika<br />[[YMA0071]] Lineaaralgebra rakendusmeetodid<br />[[YMF0020]] Matemaatilise füüsika võrrandid<br />[[EMD5010]] Mehaanilised võnkumised<br />[[EMR0060]] Mittelineaarne dünaamika<br />[[EMR0050]] Modelleerimise alused<br />[[YMR0050]] Operatsioonianalüüs<br />[[YFX0020]] Praktika<br />[[YFR8010]] Praktiline spektroskoopia<br />[[YMR8160]] Stohhastiline modelleerimine<br />[[YFX8020]] Tahke keha ja pooljuhtide füüsika<br />[[HLX8040]] Teadusvõõrkeel<br />[[EMD0012]] Tehniline mehaanika II<br />[[YMA5200]] Üldalgebra alused<br />[[YMX8120]] Uurimistöö I<br />[[EMX0080]] Uurimistöö II<br />[[YFX8010]] Uurimistöö III</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFM02/14 - Tehniline füüsika Kava:50248</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFM02/14 - Tehniline füüsika <strong class="changes">[</strong>Kava:50248 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
 minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
 diff-major: 
+ts: 1441924154
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
 languages: 
+flags: 
+keep-ts: 1441924154
+blocks: 
 text: == YAFM02/14 - Tehniline füüsika [Kava:50248 〔Õppekava ÕIS-is〕]
 	[[YMR8021]] Arvutusmeetodid II
 	[[EMR0180]] Elastsusteooria seminar
@@ -39,4 +36,7 @@ text: == YAFM02/14 - Tehniline füüsika [Kava:50248 〔Õppekava ÕIS-is〕]
 	[[YFX8010]] Uurimistöö III
 	
 	
-keep-ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFM02/14 - Tehniline füüsika Kava:50248</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFM02/14 - Tehniline füüsika <strong class="changes">[</strong>Kava:50248 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230

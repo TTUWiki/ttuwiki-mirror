@@ -1,16 +1,4 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TARM02/02 - Ärirahandus ja majandusarvestus [Kava:791 〔Õppekava ÕIS-is〕]</h2><p>[[TTO1020]] Äriõigus<br />[[TMO1090]] Äriühingute valitsemine<br />[[TAF1060]] Arvestuse infosüsteemid<br />[[TAF1040]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes<br />[[TAK1020]] Audiitorkontroll<br />[[TMV1040]] Ettevõtluse eriseminar<br />[[TER1410]] Ettevõtte rahandus<br />[[TER1399]] Ettevõtte väärtuse hindamine<br />[[TTX1010]] Euroopa Liidu struktuurid ja õigus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TER1210]] Finantsturud ja -institutsioonid<br />[[TMV1050]] Juhtimismäng<br />[[TMJ1070]] Kinnisvara hindamine<br />[[TAF1020]] Kontserniarvestus<br />[[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses<br />[[TER1510]] Magistriseminar<br />[[TAF1070]] Majandusarvestuse teooria<br />[[TES1010]] Ökonomeetria<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMK1020]] Rahvusvaheline ärikorraldus<br />[[TER1310]] Rahvusvaheline ärirahandus<br />[[TAF1030]] Rahvusvaheline arvestus<br />[[TAF1050]] Rahvusvaheline maksundus<br />[[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine<br />[[TER1370]] Risk ja optsioonid<br />[[TAK1030]] Siseaudit<br />[[TMO1040]] Strateegiline juhtimine<br />[[TAK1010]] Strateegiline juhtimisarvestus ja kulujuhtimine<br />[[HLX8040]] Teadusvõõrkeel<br />[[TMM1070]] Tollindus<br />[[TER1350]] Väärtpaberid ja portfelliteooria<br />[[TER1398]] Võlakirjad ja turud</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TARM02/02 - Ärirahandus ja majandusarvestus Kava:791</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TARM02/02 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:791 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TARM02/02 - Ärirahandus ja majandusarvestus [Kava:791 〔Õppekava ÕIS-is〕]
 	[[TTO1020]] Äriõigus
 	[[TMO1090]] Äriühingute valitsemine
@@ -46,4 +34,16 @@ text: == TARM02/02 - Ärirahandus ja majandusarvestus [Kava:791 〔Õppekava ÕI
 	[[TER1398]] Võlakirjad ja turud
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+ts: 1441924153
+host: 82.131.7.230
+blocks: 
+flags: 
+diff-major: 
+username: AlexDaniel
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TARM02/02 - Ärirahandus ja majandusarvestus Kava:791</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TARM02/02 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:791 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924153

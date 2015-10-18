@@ -1,16 +1,5 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia [Kava:575 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[KAX0010]] Bakalaureuseõppe praktika<br />[[YKL3311]] Biokeemia<br />[[YKL3312]] Biokeemia - praktikum<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[AME3130]] Elektrotehnika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[KYF0021]] Füüsikaline keemia I<br />[[KYF0022]] Füüsikaline keemia II<br />[[KYF0030]] Füüsikaline keemia - praktikum<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[HHF3300]] Insenerieetika<br />[[YGK3360]] Insenerigraafika<br />[[YKI0020]] Keemia alused<br />[[KYF3630]] Keemiainformaatika<br />[[KAK0020]] Keemia- ja säästev tehnoloogia<br />[[KAT0021]] Keemiatehnika I<br />[[KAT0022]] Keemiatehnika II<br />[[KAT0023]] Keemiatehnika projekt<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[MHE0061]] Masinatehnika<br />[[MHE0062]] Masinatehnika - projekt<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[TTO3160]] Õigusõpetus<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[KAT0010]] Protsesside termodünaamika<br />[[KAT0041]] Reaktsiooniprotsessid I<br />[[TMT3620]] Riski- ja ohutusõpetus keemiatööstuses<br />[[HHA3030]] Sotsioloogia<br />[[MTM0010]] Tehnomaterjalid<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia Kava:575</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia <strong class="changes">[</strong>Kava:575 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924151
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+keep-ts: 1441924151
+flags: 
 text: == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia [Kava:575 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0010]] Analüütiline keemia
@@ -58,4 +47,15 @@ text: == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia [Kava:575 〔Õppeka
 	[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika
 	
 	
-keep-ts: 1441924151
+host: 82.131.7.230
+ts: 1441924151
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia Kava:575</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KAKB02/02 - Keemia- ja keskkonnakaitse tehnoloogia <strong class="changes">[</strong>Kava:575 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+revision: 4
+minor: 1

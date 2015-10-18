@@ -1,15 +1,15 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IATB02/02 - Telekommunikatsioon [Kava:1115 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IRM0030]] Antennid ja RF elektroonika<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IRZ0030]] Digisignaalide töötlemine<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0160]] Elektroonika<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IAG0081]] Informaatika I<br />[[IAG0082]] Informaatika II<br />[[EKE3710]] Keskkonnakaitse<br />[[IRZ0020]] Kodeerimine ja krüpteerimine<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IRM0050]] Mikrolainetehnika - ainetöö<br />[[IRO0010]] Modulatsioon<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IRZ0010]] Pidevsignaalide töötlemine<br />[[IRO313P]] Praktika<br />[[IRO0020]] Raadiosageduslik skeemitehnika<br />[[IRM0040]] Raadioseadmete disain<br />[[IRO0040]] Raadiotehnika - ainetöö<br />[[IRT3930]] Side<br />[[IRT0010]] Sidemeetodid<br />[[IRT0020]] Sidevõrgud<br />[[IRT0060]] Sidevõrgud - ainetöö<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRM0020]] Signaalide transmissioon<br />[[IRZ0040]] Signaalitöötlus - ainetöö<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[ISS0010]] Süsteemiteooria<br />[[IRO0030]] Telekommunikatsiooni mõõtesüsteemid<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus</p>
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IATB02/02 - Telekommunikatsioon Kava:1115</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IATB02/02 - Telekommunikatsioon <strong class="changes">[</strong>Kava:1115 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924150
+host: 82.131.7.230
+blocks: 
+minor: 1
+flags: 
+ts: 1441924150
 languages: 
 text: == IATB02/02 - Telekommunikatsioon [Kava:1115 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -56,4 +56,4 @@ text: == IATB02/02 - Telekommunikatsioon [Kava:1115 〔Õppekava ÕIS-is〕]
 	[[ISS0110]] Väljendusoskus
 	
 	
-keep-ts: 1441924150
+username: AlexDaniel

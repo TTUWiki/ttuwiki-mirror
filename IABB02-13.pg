@@ -1,15 +1,7 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IABB02/13 - Äriinfotehnoloogia [Kava:50233 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDK0015]] Andmetöötlus<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU003P]] Erialapraktika<br />[[IDN0020]] Erialatutvustus<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3080]] Filosoofia<br />[[TER0610]] Finantsjuhtimine<br />[[YFR0020]] Füüsika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[TAK8360]] Kuluarvestus ja eelarvestamine<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[IDU3355]] Modelleerimine<br />[[IDK2015]] Objekt-orienteeritud programmeerimine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[IDK1015]] Programmeerimise põhikursus<br />[[IRT3930]] Side<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[TMK1250]] Toote ja teenuse arendamine<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[ISS0110]] Väljendusoskus<br />[[IDU0075]] Veebiteenused<br />[[ITV0110]] Võrgurakendused I</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IABB02/13 - Äriinfotehnoloogia Kava:50233</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IABB02/13 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50233 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
+keep-ts: 1441924150
+blocks: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
 languages: 
 text: == IABB02/13 - Äriinfotehnoloogia [Kava:50233 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -52,4 +44,12 @@ text: == IABB02/13 - Äriinfotehnoloogia [Kava:50233 〔Õppekava ÕIS-is〕]
 	[[ITV0110]] Võrgurakendused I
 	
 	
-keep-ts: 1441924150
+revision: 4
+username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABB02/13 - Äriinfotehnoloogia Kava:50233</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABB02/13 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50233 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+flags: 

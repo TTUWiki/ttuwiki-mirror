@@ -1,9 +1,15 @@
-blocks: <h3>Õppematerjal</h3><p>&#x2026;<br /></p><h3>Кirjandus</h3><p>&#x2026;<br /></p><h3>Upcoming events</h3><ul><li><strong>2015-10-27</strong> Esimene loeng</li></ul>
-lastmajorsummary: 
 ip: 89.235.235.166
+flags: 1
+lastmajor: 5
 diff-major: 1
-summary: 
+minor: 
+keep-ts: 1443679672
+revision: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">===Õppematerjal<br />&gt; ...<br />&gt; ===Кirjandus<br />&gt; ...<br />&gt; ===Upcoming events<br />&gt; * **2015-10-27**  Esimene loeng</strong></p></div>
 languages: 
+summary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	===Õppematerjal
@@ -14,14 +20,8 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	
 	* **2015-10-27**  Esimene loeng
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">===Õppematerjal<br />&gt; ...<br />&gt; ===Кirjandus<br />&gt; ...<br />&gt; ===Upcoming events<br />&gt; * **2015-10-27**  Esimene loeng</strong></p></div>
-flags: 0
-ts: 1443679672
-minor: 
-username: Ain_Laidoja
 host: 86.110.37.246
-revision: 5
-keep-ts: 1443679672
+lastmajorsummary: 
+ts: 1443679672
+username: Ain_Laidoja
+blocks: [Course:101342 〔Õppeaine ÕIS-is〕]

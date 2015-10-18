@@ -1,16 +1,14 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IABM02/09 - Äriinfotehnoloogia [Kava:50088 〔Õppekava ÕIS-is〕]</h2><p>[[IDK5151]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid<br />[[IDN5420]] Andmeanalüüs<br />[[IDN0100]] Andmekaevandamine<br />[[TMM1770]] Ärisuhtlus ja äriläbirääkimised<br />[[ISS0090]] Arukad hooned<br />[[IDU003P]] Erialapraktika<br />[[IDU0180]] Eriseminar magistrantidele<br />[[TMM1060]] E-turundus<br />[[IDU3390]] Infosüsteemi projekti juhtimine<br />[[IDU0021]] Infosüsteemi strateegiline analüüs<br />[[IDU0022]] Infosüsteemi strateegiline analüüs - projekt<br />[[IDU0040]] Infosüsteemi strateegiline juhtimine ja arendamine<br />[[TMO1130]] Inimressursi juhtimine<br />[[IDX5711]] Intelligentsed süsteemid<br />[[IDX5712]] Intelligentsed süsteemid - projekt<br />[[IDU0031]] Kirjutamise ja esinemise alused<br />[[IRT0080]] Kommunikatsiooniteenuste arendus<br />[[TTO3280]] Lepinguõigus<br />[[IDX5040]] Multimeedia<br />[[IDU0050]] Objektorienteeritud disain<br />[[IDU0191]] Protsessitehnika infosüsteemide arendamisel<br />[[IDU0192]] Protsessitehnika infosüsteemide arendamisel - projekt<br />[[TER3660]] Rahandusotsused<br />[[IDS0010]] Sissejuhatus andmeturbesse<br />[[IDK6100]] Sotsiaalne tarkvara ja võrgukogukonnad<br />[[IDN5120]] Täppismeetodid otsustuste vastuvõtmisel<br />[[IDX5721]] Tarkvara kvaliteet ja standardid<br />[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö<br />[[HLX8040]] Teadusvõõrkeel</p>
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IABM02/09 - Äriinfotehnoloogia Kava:50088</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IABM02/09 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50088 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+username: AlexDaniel
+keep-ts: 1441924150
+ts: 1441924150
+blocks: 
+diff-major: 
 text: == IABM02/09 - Äriinfotehnoloogia [Kava:50088 〔Õppekava ÕIS-is〕]
 	[[IDK5151]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid
@@ -44,4 +42,6 @@ text: == IABM02/09 - Äriinfotehnoloogia [Kava:50088 〔Õppekava ÕIS-is〕]
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-keep-ts: 1441924150
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 

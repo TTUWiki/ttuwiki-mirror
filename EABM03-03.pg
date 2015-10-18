@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010
-blocks: <h2>EABM03/03 - Keskkonnatehnika ja juhtimine [Kava:1730 〔Õppekava ÕIS-is〕]</h2><p>[[TMK8300]] Ärieetika<br />[[TMK8290]] Äritegevuse alused<br />[[EKE8200]] Elutsükli analüüs<br />[[EKE8170]] Keskkonnaekspertiis ja -audit<br />[[EKE8210]] Keskkonnahindamine ja süsteemanalüüs<br />[[EKE0021]] Keskkonnakorraldus<br />[[HHR1070]] Keskkonnapoliitika, -õigus ja -majandus<br />[[KAK8210]] Keskkonnatehnoloogia<br />[[EKV8320]] Muda- ja prügikäitluse teooria ning seadmed<br />[[EKE8230]] Ökodisain<br />[[TMK8280]] Rahvusvaheline ettevõtlus<br />[[KAK8220]] Säästlik/puhtam tootmine<br />[[EKV8360]] Säästlik veemajandus<br />[[TES8140]] Statistiline analüüs<br />[[TMM8790]] Tööstuslik turundus<br />[[MES8610]] Tootmise juhtimise infosüsteemid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EABM03/03 - Keskkonnatehnika ja juhtimine Kava:1730</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EABM03/03 - Keskkonnatehnika ja juhtimine <strong class="changes">[</strong>Kava:1730 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924148
 ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == EABM03/03 - Keskkonnatehnika ja juhtimine [Kava:1730 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[TMK8290]] Äritegevuse alused
@@ -30,4 +19,15 @@ text: == EABM03/03 - Keskkonnatehnika ja juhtimine [Kava:1730 〔Õppekava ÕIS-
 	[[MES8610]] Tootmise juhtimise infosüsteemid
 	
 	
-keep-ts: 1441924148
+host: 82.131.7.230
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EABM03/03 - Keskkonnatehnika ja juhtimine Kava:1730</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EABM03/03 - Keskkonnatehnika ja juhtimine <strong class="changes">[</strong>Kava:1730 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+minor: 1
+diff-major: 
+revision: 5
+languages: 
+flags: 

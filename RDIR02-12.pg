@@ -1,16 +1,14 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDIR02/12 - Rakendusinfotehnoloogia [Kava:50200 〔Õppekava ÕIS-is〕]</h2><p>[[RAM0100]] 3D-modelleerimine<br />[[RAR0320]] Algoritmid ja andmestruktuurid<br />[[RAM0070]] Andmeanalüüs<br />[[RAR0301]] Andmebaaside projekteerimine<br />[[RAR0380]] Andmebaasisüsteemid<br />[[RAM0110]] Animatsioon ja video - projekt<br />[[RAR0181]] Arvutid I<br />[[RAR2081]] Arvutigraafika I<br />[[RAM0150]] Arvutivõrkude administreerimine<br />[[RAR0910]] Arvutivõrkude alused<br />[[RAM0191]] Arvutivõrkude projekteerimine I<br />[[RAM0192]] Arvutivõrkude projekteerimine II<br />[[RAR0270]] Arvutivõrkude tarkvara<br />[[RAM0170]] Arvutivõrkude turvalisus<br />[[RAR1230]] Automaatika alused<br />[[RAM0060]] Diskreetne matemaatika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAM0281]] Erialapraktika I<br />[[RAM0282]] Erialapraktika II<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAH0120]] Filosoofia<br />[[RAM0140]] Graafiteooria<br />[[RAR0211]] Informaatika I<br />[[RAR0212]] Informaatika II<br />[[RAR0213]] Informaatika II - projekt<br />[[RAM0080]] Infosüsteemide arendusprotsess<br />[[RAM0200]] Juhtmeta võrgud<br />[[RAM0090]] Kasutajaliidese disaini ja arendamise alused<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAM0260]] Mängude programmeerimine<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAM0290]] Matemaatiline analüüs II<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAM0250]] Mobiilseadmete programmeerimine<br />[[RAR0190]] Multimeedia<br />[[RAR0430]] Objektorienteeritud modelleerimine<br />[[RAM0270]] Objektorienteeritud programmeerimine<br />[[RAH3140]] Õigusõpetus<br />[[RAR0250]] Operatsioonisüsteemid<br />[[RAM0211]] Operatsioonisüsteemide administreerimine I<br />[[RAM0212]] Operatsioonisüsteemide administreerimine II<br />[[RAR2800]] Õpingukorraldus<br />[[RAR0031]] Õppepraktika I<br />[[RAR0032]] Õppepraktika II<br />[[RAR0033]] Õppepraktika III<br />[[RAR2770]] Programmeerimise alused<br />[[RAR0280]] Programmeerimise põhikursus<br />[[RAR1270]] Programmeeritavad kontrollerid<br />[[RAM0130]] Rakenduste arendus<br />[[RAM0230]] Rakenduste arhitektuur<br />[[RAR0160]] Riski- ja ohutusõpetus<br />[[RAR0470]] Side<br />[[RAM0220]] Side- ja võrkude tehnoloogiad<br />[[RAR0230]] Sissejuhatus infosüsteemidesse<br />[[RAH0660]] Suhtlemispsühholoogia<br />[[RAR0311]] Tarkvara kvaliteet ja standardid<br />[[RAM0240]] Tarkvara testimine<br />[[RAR1290]] Tehniline füüsika<br />[[RAM0050]] Tõenäosusteooria<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus<br />[[RAM0121]] Veebiprogrammeerimine I<br />[[RAM0123]] Veebiprogrammeerimine II<br />[[RAM0122]] Veebiprogrammeerimine I - projekt<br />[[RAM0180]] Võrgutehnoloogiad</p>
+keep-ts: 1441924153
+host: 82.131.7.230
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDIR02/12 - Rakendusinfotehnoloogia Kava:50200</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDIR02/12 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:50200 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
+blocks: 
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
+ts: 1441924153
+username: AlexDaniel
 text: == RDIR02/12 - Rakendusinfotehnoloogia [Kava:50200 〔Õppekava ÕIS-is〕]
 	[[RAM0100]] 3D-modelleerimine
 	[[RAR0320]] Algoritmid ja andmestruktuurid
@@ -82,4 +80,6 @@ text: == RDIR02/12 - Rakendusinfotehnoloogia [Kava:50200 〔Õppekava ÕIS-is〕
 	[[RAM0180]] Võrgutehnoloogiad
 	
 	
-keep-ts: 1441924153
+minor: 1
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

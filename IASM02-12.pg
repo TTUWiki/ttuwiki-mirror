@@ -1,16 +1,15 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IASM02/12 - Arvutisüsteemid [Kava:50187 〔Õppekava ÕIS-is〕]</h2><p>[[IDU0220]] Andmebaasid I<br />[[IEM3040]] Andmehõivesüsteemid<br />[[ISS0023]] Arukad juhtimissüsteemid<br />[[IAF0320]] Arvutisüsteemide projekteerimine<br />[[ISS0065]] Automaatikavahendid<br />[[ISS0080]] Automatiseerimine ja protsessijuhtimine<br />[[IAY0600]] Digitaalsüsteemide disain<br />[[IAY0340]] Digitaalsüsteemide modelleerimine ja süntees<br />[[IAF0620]] Digitaalsüsteemide verifitseerimine<br />[[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine<br />[[TMJ0110]] Ettevõtluse alused<br />[[TMJ1030]] Ettevõtlus ja äri planeerimine<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[IAY0550]] Kiipsüsteemide disain<br />[[IAG0420]] Küberturbe põhialused ja juhtimine<br />[[IAG0410]] Masinprojekteerimise alused<br />[[ISC0010]] Mikroprotsessorsüsteemid<br />[[ISS0031]] Modelleerimine ja identifitseerimine<br />[[IAY0720]] Praktika<br />[[ISP0070]] Proaktiivtehnoloogiad<br />[[IAG0010]] Programmeerimise erikursus I<br />[[IAG0450]] Programmeerimiskeelte analüüs<br />[[ISS0089]] Programmeeritavad kontrollerid - jätkukursus<br />[[ISP0051]] Rakenduslik andmeside<br />[[IAY0330]] Sardsüsteemid<br />[[ISC0012]] Sidud, süsteemid, signaalid - jätkukursus<br />[[AAR0030]] Sissejuhatus robotitehnikasse<br />[[IAF0530]] Süsteemide usaldusväärsus ja veakindlus<br />[[ISP0012]] Tarkvara dünaamika<br />[[IAG0060]] Tarkvara projektijuhtimine<br />[[IAF0610]] Testimise projekteerimine<br />[[TMJ1240]] Üliõpilasfirma praktikum<br />[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine</p>
+host: 82.131.7.230
+keep-ts: 1441924150
+username: AlexDaniel
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924150
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IASM02/12 - Arvutisüsteemid Kava:50187</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IASM02/12 - Arvutisüsteemid <strong class="changes">[</strong>Kava:50187 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+diff-major: 
 text: == IASM02/12 - Arvutisüsteemid [Kava:50187 〔Õppekava ÕIS-is〕]
 	[[IDU0220]] Andmebaasid I
 	[[IEM3040]] Andmehõivesüsteemid
@@ -47,4 +46,5 @@ text: == IASM02/12 - Arvutisüsteemid [Kava:50187 〔Õppekava ÕIS-is〕]
 	[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine
 	
 	
-keep-ts: 1441924150
+minor: 1
+blocks: 

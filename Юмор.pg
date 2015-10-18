@@ -1,18 +1,18 @@
-keep-ts: 1444779057
-ts: 1444779057
-summary: Moved to Humor
+host: 82.131.4.24
 minor: 
+lastmajor: 2
+blocks: 
+keep-ts: 1444779057
 lastmajorsummary: Moved to Humor
+revision: 2
+ts: 1444779057
+flags: 
 text: DeletedPage
 	
 	Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-host: 82.131.4.24
-flags: 0
+summary: Moved to Humor
 languages: 
-blocks: <p>DeletedPage</p><p>Забавные ссылки:</p><ul><li><a class="url http" href="http://ajaviide.ee/kavalad-vaesed-uliopilased/">http://ajaviide.ee/kavalad-vaesed-uliopilased/</a></li></ul>
-lastmajor: 2
-revision: 2
 username: AlexDaniel

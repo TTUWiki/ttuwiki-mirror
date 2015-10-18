@@ -1,16 +1,9 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAAM02/02 - Elektriajamid ja jõuelektroonika [Kava:886 〔Õppekava ÕIS-is〕]</h2><p>[[AAR3380]] Automaatikasüsteemide raalprojekteerimine<br />[[AAV3350]] Elektervalgustus<br />[[AAV0090]] Elektriajamid - projekt<br />[[AAV0040]] Elektriajamite erikursus<br />[[AAV0070]] Elektriajamite ja tööstusautomaatika teadusseminar<br />[[AAR0060]] Elektriajamite mikroprotsessorjuhtimine<br />[[AMM0010]] Elektrimasinate raalprojekteerimine<br />[[AAV5420]] Elektriseadmete häired ja töökindlus<br />[[AAV3380]] Elektrivarustuse raalprojekteerimine<br />[[AAR3390]] Elektroonikaseadmete raalprojekteerimine<br />[[AME0050]] Elektrotehnika erikursus<br />[[AEK0040]] Energiapoliitika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[AAV0050]] Jõuelektroonika erikursus<br />[[IDK0061]] Keel C ja objektorienteeritud programmeerimine<br />[[IDK0062]] Keel C ja objektorienteeritud programmeerimine - projekt<br />[[EKE3710]] Keskkonnakaitse<br />[[AMM0040]] Numbriline väljaanalüüs<br />[[TTO3160]] Õigusõpetus<br />[[AAR0080]] Robotitehnika erikursus<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[AAV3310]] Tooteloome ja leiundus<br />[[AAR0070]] Tootmise automatiseerimise erikursus<br />[[AAV5410]] Turundus ja ettevõtlus elektrotehnikas<br />[[AMM0030]] Väljateooria</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAAM02/02 - Elektriajamid ja jõuelektroonika Kava:886</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAAM02/02 - Elektriajamid ja jõuelektroonika <strong class="changes">[</strong>Kava:886 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
+keep-ts: 1441924148
+host: 82.131.7.230
 text: == AAAM02/02 - Elektriajamid ja jõuelektroonika [Kava:886 〔Õppekava ÕIS-is〕]
 	[[AAR3380]] Automaatikasüsteemide raalprojekteerimine
 	[[AAV3350]] Elektervalgustus
@@ -41,4 +34,11 @@ text: == AAAM02/02 - Elektriajamid ja jõuelektroonika [Kava:886 〔Õppekava Õ
 	[[AMM0030]] Väljateooria
 	
 	
-keep-ts: 1441924148
+blocks: 
+minor: 1
+ts: 1441924148
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAAM02/02 - Elektriajamid ja jõuelektroonika Kava:886</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAAM02/02 - Elektriajamid ja jõuelektroonika <strong class="changes">[</strong>Kava:886 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel

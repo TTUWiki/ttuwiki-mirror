@@ -1,16 +1,14 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDKR02/09 - Kinnisvara haldamine [Kava:50026 〔Õppekava ÕIS-is〕]</h2><p>[[BCU3540]] Arhitektuur<br />[[BCU1910]] Ärilogistika<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU3230]] Arvutigraafika<br />[[BCU3570]] Automaatika alused<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU1040]] Ehitiste mõõdistamine<br />[[BCU3730]] Ehitiste  mõõdistamine - õppepraktika<br />[[BCU1110]] Ehitiste renoveerimine<br />[[BCU3670]] Ehitusfüüsika<br />[[BCU3520]] Ehitusgraafika alused<br />[[BCU1130]] Ehitusinvesteeringute plaanimine<br />[[BCU3680]] Ehituskonstruktsioonide üldkursus<br />[[BCU1090]] Ehituskorraldus<br />[[BCU1290]] Ehitusmaksumuse plaanimine<br />[[BCU3640]] Ehitusmaterjalid<br />[[BCU1020]] Ehitusmehaanika<br />[[BCU3660]] Ehitus-remonttööde tehnoloogia<br />[[BCU3560]] Elektroonika<br />[[BCU3550]] Elektrotehnika<br />[[BCU3650]] Hoonete automatiseerimine<br />[[BCU0330]] Informaatika<br />[[BCU3200]] Inglise erialakeel<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1940]] Innovatsioon ja tootearendus<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[BCU1140]] Kinnisvara haldamine<br />[[BCU1300]] Kinnisvara hindamine<br />[[BCU2070]] Kinnisvaraõigus<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU3740]] Küte ja ventilatsioon<br />[[BCU1350]] Linnamajanduse korraldus<br />[[BCU3850]] Majandusmatemaatika I<br />[[BCU3860]] Majandusmatemaatika II<br />[[BCU3610]] Mikroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3780]] Praktika ehitiste hooldusettevõttes<br />[[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes<br />[[BCU3360]] Projektijuhtimine<br />[[BCU2060]] Raamatupidamine kinnisvara halduses<br />[[BCU3510]] Riski- ja ohutusõpetus<br />[[BCU1250]] Soojus- ja gaasivarustus<br />[[BCU3220]] Statistika ja tõenäosusteooria<br />[[BCU1190]] Tehnovõrkude ekspluatatsioon<br />[[BCU1630]] Tööõigus<br />[[BCU3300]] Tugevusõpetus<br />[[BCU3400]] Turundus<br />[[BCU3240]] Uurimistöö alused<br />[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus</p>
+revision: 4
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDKR02/09 - Kinnisvara haldamine Kava:50026</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDKR02/09 - Kinnisvara haldamine <strong class="changes">[</strong>Kava:50026 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+username: AlexDaniel
+ts: 1441924148
+keep-ts: 1441924148
 text: == BDKR02/09 - Kinnisvara haldamine [Kava:50026 〔Õppekava ÕIS-is〕]
 	[[BCU3540]] Arhitektuur
 	[[BCU1910]] Ärilogistika
@@ -67,4 +65,6 @@ text: == BDKR02/09 - Kinnisvara haldamine [Kava:50026 〔Õppekava ÕIS-is〕]
 	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus
 	
 	
-keep-ts: 1441924148
+minor: 1
+blocks: 
+host: 82.131.7.230

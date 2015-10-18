@@ -1,16 +1,14 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus [Kava:50286 〔Õppekava ÕIS-is〕]</h2><p>[[BCU0510]] Ärieetika alused<br />[[BCU4710]] Ärikommunikatsioon<br />[[BCU1910]] Ärilogistika<br />[[BCU3340]] Äriõigus<br />[[BCU0141]] Arvestuse alused<br />[[BCU4730]] E-äri<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4030]] Ettevõtluse alused<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU4780]] Finantsjuhtimine<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU4770]] Inimressursi juhtimine<br />[[BCU4750]] Investeerimise alused<br />[[BCU0460]] Juhtimine<br />[[BCU3600]] Juhtimisarvestus<br />[[BCU4760]] Juhtimissituatsioonide analüüs<br />[[BCU3590]] Keskkonnakaitse ja säästev areng<br />[[BCU4670]] Kirjeldav statistika<br />[[BCU3250]] Konfliktoloogia<br />[[BCU3170]] Kursusetöö<br />[[BCU3390]] Lepinguõigus<br />[[BCU4690]] Majandusmatemaatika<br />[[BCU3620]] Makroökonoomika<br />[[BCU4720]] Meeskonnatöö<br />[[BCU3610]] Mikroökonoomika<br />[[BCU2010]] Müügijuhtimine<br />[[BCU4740]] Muutuste juhtimine<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3930]] Õpingukorraldus<br />[[BCU3350]] Organisatsioonikäitumine<br />[[BCU3380]] Politoloogia<br />[[BCU3360]] Projektijuhtimine<br />[[BCU3410]] Raha ja pangandus<br />[[BCU0550]] Rahvusvaheline majandus<br />[[BCU0611]] Rahvusvaheline turundus<br />[[BCU3690]] Rahvusvahelise äritegevuse erialapraktika<br />[[BCU3810]] Sissejuhatav praktika<br />[[BCU4810]] Sissejuhatus kaasahaaratuse teooriasse<br />[[BCU4700]] Sissejuhatus käitumisökonoomikasse<br />[[BCU4660]] Sotsiaalpsühholoogia<br />[[BCU3330]] Sotsioloogia<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU2000]] Tarbijakäitumine<br />[[BCU4010]] Tarneahela juhtimine<br />[[BCU4820]] Teeninduse kvaliteedi juhtimine<br />[[BCU4800]] Teenuste loomine (disain) ja juhtimine<br />[[BCU3290]] Teenuste turundus ja kliendi kogemus<br />[[BCU1630]] Tööõigus<br />[[BCU3400]] Turundus<br />[[BCU1920]] Turundus jaekaubanduses<br />[[BCU4680]] Üldistav statistika<br />[[BCU3240]] Uurimistöö alused<br />[[BCU4160]] Vene keel</p>
+revision: 4
+keep-ts: 1441924148
+host: 82.131.7.230
+blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus Kava:50286</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50286 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+minor: 1
+diff-major: 
+username: AlexDaniel
 text: == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus [Kava:50286 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU4710]] Ärikommunikatsioon
@@ -70,4 +68,6 @@ text: == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus [Kava:5028
 	[[BCU4160]] Vene keel
 	
 	
-keep-ts: 1441924148
+ts: 1441924148
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

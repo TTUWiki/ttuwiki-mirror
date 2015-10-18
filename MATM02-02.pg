@@ -1,16 +1,8 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>MATM02/02 - Tootearendus ja tootmistehnika [Kava:744 〔Õppekava ÕIS-is〕]</h2><p>[[MEA5682]] Autod II<br />[[MES0040]] Automatiseerimistehnika<br />[[MEA5310]] Automootorid<br />[[MEA0040]] Auto tehnoseisundi juhtimine<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas<br />[[YGD3270]] Disain<br />[[AAV0060]] Elektriajamid ja jõuelektroonika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[MES0080]] Hüdro- ja pneumoajam<br />[[HLI8750]] Inglise teaduskeel<br />[[MES0110]] Inimese-masina suhted<br />[[MHD0020]] Insenerimehaanika erikursus<br />[[IDU5720]] Interneti baaskursus<br />[[MXX0030]] Keeviskonstruktsioonid<br />[[MTM0090]] Konstruktsioonimaterjalide mehaanika<br />[[MHT0040]] Kvaliteedijuhtimine<br />[[MES5420]] Liikurmasinate hüdrosüsteemid A<br />[[MXX0020]] Magistriseminar<br />[[MTT0030]] Maht- ja lehtvormimine<br />[[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine<br />[[MHD0040]] Masinate töökindlus ja diagnostika<br />[[KYF0090]] Materjalide korrosioon<br />[[KYP0020]] Materjalide mikro- ja nanotehnoloogiad<br />[[KCM0011]] Materjalide uurimismeetodid I<br />[[MTM0030]] Materjali ja valmistustehnoloogia valik<br />[[MTT0100]] Materjalitehnika - projekt<br />[[MTM0110]] Metalliõpetus ja termotöötlus<br />[[MTT0060]] Nanomaterjalid ja nanotehnoloogia<br />[[TTO3160]] Õigusõpetus<br />[[YMR0130]] Operatsioonianalüüsi algtõed<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[KMP0110]] Polümeerid ja polümeermaterjalid<br />[[MES0030]] Probleemilahendus<br />[[MES0050]] Projekteerimise metoodika<br />[[MTT0070]] Pulbermetallurgia<br />[[MER0040]] Raalintegreeritud tootmissüsteemid<br />[[MER0030]] Raalkonstrueerimissüsteemid<br />[[MES8600]] Samaaegne tootearendus<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[MEA5420]] Sõidukite liikumisteooria<br />[[MEA5410]] Sõiduohutus ja tehnoekspertiis<br />[[MET0080]] Teadmuspõhised süsteemid masinaehituses<br />[[MER0020]] Teadus- ja arendustöö metoodika<br />[[MER0010]] Tehnoarendus ja innovatsioon<br />[[MTT0080]] Tehnokeraamika<br />[[MER0070]] Toodete ja protsesside modelleerimine<br />[[MES0070]] Tooteprojekt<br />[[MET0070]] Tootmise modelleerimine ja simulatsioon<br />[[MET8130]] Tootmise plaanimine ja juhtimine<br />[[MET8120]] Tootmise simulatsiooni rakendusi<br />[[MES0060]] Tootmiskeskne projekteerimine<br />[[MES0091]] Tootmisseadmete projekteerimine<br />[[MES0092]] Tootmisseadmete projekteerimine - projekt<br />[[MET8110]] Tootmistehnika<br />[[MET0110]] Tootmistehnika - projekt<br />[[MET0040]] Tootmistehnoloogia<br />[[MET0100]] Töövahendite ja instrumentide projekteerimine<br />[[MEA5320]] Transpordiettevõtte infosüsteem<br />[[TMJ3710]] Transpordiökonoomika<br />[[AME0040]] Transpordivahendite elektromehaanika<br />[[MTM0060]] Tribotehnilised materjalid ja pinded<br />[[KYP0030]] Ülipuhaste materjalide tehnoloogia<br />[[MTT0040]] Valutehnoloogia<br />[[MEA3360]] Varud ja ladustamine</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MATM02/02 - Tootearendus ja tootmistehnika Kava:744</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MATM02/02 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:744 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
+flags: 
 username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+keep-ts: 1441924152
+blocks: 
+minor: 1
 text: == MATM02/02 - Tootearendus ja tootmistehnika [Kava:744 〔Õppekava ÕIS-is〕]
 	[[MEA5682]] Autod II
 	[[MES0040]] Automatiseerimistehnika
@@ -80,4 +72,12 @@ text: == MATM02/02 - Tootearendus ja tootmistehnika [Kava:744 〔Õppekava ÕIS-
 	[[MEA3360]] Varud ja ladustamine
 	
 	
-keep-ts: 1441924152
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+revision: 5
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MATM02/02 - Tootearendus ja tootmistehnika Kava:744</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MATM02/02 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:744 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+ts: 1441924152

@@ -1,18 +1,12 @@
-flags: 0101010
-blocks: &lt;include "YASB02-15"&gt;
-	&lt;include "YASB02-09"&gt;
-	&lt;include "YASB02-02"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "YASB02-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438887468
-minor: 1
-host: 85.253.110.44
+lastmajor: 1
 username: Bot
-revision: 3
+keep-ts: 1438887468
+host: 85.253.110.44
+blocks: 
 diff-major: 
 summary: Автоматическое обновление
-languages: 
+ip: 89.235.235.166
+ts: 1438887468
 text: <include "YASB02-15">
 	
 	<include "YASB02-09">
@@ -21,5 +15,9 @@ text: <include "YASB02-15">
 	
 	
 	
-lastmajor: 1
-keep-ts: 1438887468
+revision: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "YASB02-15"&gt;</p></div>
+minor: 1
+languages: 
+flags: 

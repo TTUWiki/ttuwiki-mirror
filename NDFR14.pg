@@ -1,16 +1,16 @@
-flags: 010
-blocks: &lt;include "NDFR14-15"&gt;
-diff-minor: 
-ts: 1438887369
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
-summary: Автоматическое обновление
-diff-major: 
 languages: 
+revision: 2
+diff-major: 
+diff-minor: 
+minor: 1
+summary: Автоматическое обновление
+flags: 
+keep-ts: 1438887369
+host: 85.253.110.44
 text: <include "NDFR14-15">
 	
 	
 	
-keep-ts: 1438887369
+username: Bot
+blocks: 
+ts: 1438887369

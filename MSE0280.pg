@@ -1,8 +1,18 @@
-blocks: <p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://velar.ee/mse0280-hajaenergeetika-planeerimine">Õppeaine koduleht</a></li></ul>
-lastmajorsummary: 
-ip: 89.235.235.166
+revision: 7
+blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
+flags: 1
+host: 86.110.37.246
+lastmajor: 7
 diff-major: 1
 summary: 
+minor: 
+lastmajorsummary: 
+username: 
+keep-ts: 1442561179
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Õppematerjalid <strong class="changes">asuvad</strong>: http://velar.ee/mse0280-hajaenergeetika-planeerimine<strong class="changes">/</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Õppematerjalid:<br />&gt; <strong class="changes">* [</strong>http://velar.ee/mse0280-hajaenergeetika-planeerimine <strong class="changes">Õppeaine koduleht]</strong></p></div>
+ts: 1442561179
 languages: 
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
@@ -12,14 +22,4 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	* [http://velar.ee/mse0280-hajaenergeetika-planeerimine Õppeaine koduleht]
 	
 	
-lastmajor: 7
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Õppematerjalid <strong class="changes">asuvad</strong>: http://velar.ee/mse0280-hajaenergeetika-planeerimine<strong class="changes">/</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Õppematerjalid:<br />&gt; <strong class="changes">* [</strong>http://velar.ee/mse0280-hajaenergeetika-planeerimine <strong class="changes">Õppeaine koduleht]</strong></p></div>
-flags: 0
-ts: 1442561179
-minor: 
-username: 
-host: 86.110.37.246
-revision: 7
-keep-ts: 1442561179
+ip: 89.235.235.166

@@ -1,16 +1,5 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAJB08/12 - Õigusteadus [Kava:50193 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[HOE6011]] Asjaõigus<br />[[HOL6011]] EL konkurentsiõigus ja -poliitika<br />[[HOL6012]] EL siseturuõigus<br />[[HOL6014]] EL väliskaubandusõigus<br />[[IDK0301]] E-riigi infotehnoloogilised lahendused<br />[[HOL6010]] Euroopa Liidu õigus<br />[[HOL6027]] Euroopa Liidu tolliliidu õigus ja poliitika<br />[[HOL6025]] Euroopa Liidu välissuhted<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HOA7003]] Haldusõigus<br />[[HOA6015]] Haldusõiguse eriosa<br />[[HOX6040]] Harjutuskohtuvõistlus<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[HOR6011]] Inimõigused<br />[[HHI0050]] Innovatsioon<br />[[HOE6019]] Intellektuaalse omandi õigus<br />[[HOA6013]] Karistusõigus<br />[[HOA6026]] Keskkonnaõigus<br />[[HOE6016]] Lepinguvälised võlasuhted<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[HOA6014]] Normitehnika<br />[[HOX6020]] Õigusalane kirjutamine<br />[[HOX6050]] Õigusalane praktika<br />[[HOX6060]] Õiguse alused<br />[[HOL6028]] Õigusel, turvalisusel ja vabadusel põhineva ala õigus ja poliitika<br />[[UTT0010]] Õpingukorraldus<br />[[HHP3170]] Organisatsioonipsühholoogia<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6014]] Pärimisõigus<br />[[HOE6015]] Perekonnaõigus<br />[[HHF1030]] Poliitikafilosoofia<br />[[HHL0130]] Politoloogia alused<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[HOX6011]] Rahvusvaheline eraõigus<br />[[HOR6016]] Rahvusvaheline humanitaarõigus<br />[[HOE6034]] Rahvusvaheline lepinguõigus<br />[[HOE6035]] Rahvusvaheline majandusõigus<br />[[HOA7002]] Riigiõigus<br />[[HOE6012]] Rooma õigus<br />[[HOL6017]] Sideõigus<br />[[HOX6080]] Sissejuhatus menetlusõigusesse<br />[[HHL0190]] Sotsioloogia alused<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[HOE6020]] Tööõigus<br />[[HOE6013]] Tsiviilõiguse üldosa<br />[[HOE6010]] Ühinguõigus<br />[[HOR6014]] Välisriigi õigussüsteem<br />[[HOE6036]] Võlaõiguse eriosa<br />[[HOE6017]] Võlaõiguse üldosa<br />[[HOE6033]] Võrdlev õigusteadus<br />[[HOR6024]] Võrdlev perekonna- ja pärimisõigus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAJB08/12 - Õigusteadus Kava:50193</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAJB08/12 - Õigusteadus <strong class="changes">[</strong>Kava:50193 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
+keep-ts: 1441924150
 text: == HAJB08/12 - Õigusteadus [Kava:50193 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HOE6011]] Asjaõigus
@@ -67,4 +56,15 @@ text: == HAJB08/12 - Õigusteadus [Kava:50193 〔Õppekava ÕIS-is〕]
 	[[HOR6024]] Võrdlev perekonna- ja pärimisõigus
 	
 	
-keep-ts: 1441924150
+host: 82.131.7.230
+revision: 4
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAJB08/12 - Õigusteadus Kava:50193</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAJB08/12 - Õigusteadus <strong class="changes">[</strong>Kava:50193 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+diff-major: 
+languages: 
+ts: 1441924150
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

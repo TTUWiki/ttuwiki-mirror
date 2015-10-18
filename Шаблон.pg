@@ -1,3 +1,7 @@
+revision: 4
+summary: Moved to Template
+username: AlexDaniel
+languages: 
 text: DeletedPage
 	
 	При создании новых страниц можно воспользоваться данным шаблоном:
@@ -20,25 +24,9 @@ text: DeletedPage
 	
 minor: 
 host: 82.131.4.24
-revision: 4
 keep-ts: 1444779810
-summary: Moved to Template
-ts: 1444779810
-username: AlexDaniel
-languages: 
 lastmajorsummary: Moved to Template
-flags: 0
-blocks: <p>DeletedPage</p><p>При создании новых страниц можно воспользоваться данным шаблоном:</p><div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%">== Информация
-	... ... ...
-	
-	== Лекции
-	... ... ...
-	
-	== Практические занятия
-	... ... ...
-	
-	== Экзамен
-	... ... ...
-	</pre></div>
-	<p>Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.</p>
 lastmajor: 4
+ts: 1444779810
+flags: 
+blocks: 

@@ -1,19 +1,5 @@
-flags: 010101010
-blocks: &lt;include "EABM03-15"&gt;
-	&lt;include "EABM03-09"&gt;
-	&lt;include "EABM03-05"&gt;
-	&lt;include "EABM03-03"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "EABM03-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438886283
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
-diff-major: 
-summary: Автоматическое обновление
-languages: 
+keep-ts: 1438886283
+lastmajor: 1
 text: <include "EABM03-15">
 	
 	<include "EABM03-09">
@@ -24,5 +10,16 @@ text: <include "EABM03-15">
 	
 	
 	
-lastmajor: 1
-keep-ts: 1438886283
+host: 85.253.110.44
+revision: 3
+ip: 89.235.235.166
+summary: Автоматическое обновление
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "EABM03-15"&gt;</p></div>
+blocks: 
+languages: 
+diff-major: 
+flags: 
+minor: 1
+ts: 1438886283
+username: Bot

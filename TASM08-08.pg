@@ -1,16 +1,5 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50122 〔Õppekava ÕIS-is〕]</h2><p>[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis<br />[[HOL7006]] Euroopa Liidu konstitutsioon<br />[[TSE1020]] Euroopa majanduslik integratsioon<br />[[TSE1010]] Euroopa poliitiline integratsioon<br />[[TSK1010]] Inglise keel V<br />[[TSK1011]] Inglise keel VI<br />[[TSP1090]] Julgeoleku teooriad<br />[[TSP1013]] Poliitikateaduse üldkursus<br />[[TSK1020]] Prantsuse keel V<br />[[TSK1021]] Prantsuse keel VI<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[TSP1012]] Rahvusvaheline majandus<br />[[TSP1021]] Rahvusvahelised läbirääkimised<br />[[TSP1015]] Rahvusvahelised suhted II<br />[[TSP1019]] Rahvusvaheliste konfliktide reguleerimine<br />[[TSP1080]] Rahvusvaheliste organisatsioonide analüüs<br />[[TSP1014]] Rahvusvaheliste suhete teooriad<br />[[TSP1016]] Rahvusvaheliste suhete uurimismeetodid<br />[[TSP1070]] Rahvusvaheliste süsteemide võrdlev analüüs<br />[[TSK1060]] Saksa keel V<br />[[TSK1061]] Saksa keel VI<br />[[TSE1030]] Sotsiaalpoliitika Euroopa Liidus<br />[[TSK1030]] Teadusliku uurimistöö metodoloogia<br />[[TSP1140]] Transatlantiline koostöö<br />[[TSP1120]] USA välis- ja julgeolekupoliitika<br />[[TSP1017]] Uurimisseminar I<br />[[TSP1018]] Uurimisseminar II<br />[[TSP1130]] Venemaa välis- ja julgeolekupoliitika<br />[[TSP1040]] Võrdlev poliitikateadus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50122</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50122 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
 text: == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50122 〔Õppekava ÕIS-is〕]
 	[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis
 	[[HOL7006]] Euroopa Liidu konstitutsioon
@@ -43,4 +32,15 @@ text: == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:5012
 	[[TSP1040]] Võrdlev poliitikateadus
 	
 	
+diff-major: 
+revision: 4
+blocks: 
+languages: 
+username: AlexDaniel
+host: 82.131.7.230
 keep-ts: 1441924153
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50122</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASM08/08 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50122 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153

@@ -1,19 +1,9 @@
-flags: 010101010
-blocks: &lt;include "BAAB06-13"&gt;
-	&lt;include "BAAB06-11"&gt;
-	&lt;include "BAAB06-09"&gt;
-	&lt;include "BAAB06-06"&gt;
+keep-ts: 1408891290
 diff-minor: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; &lt;include "BAAB06-13"&gt;<br />&lt; &lt;include "BAAB06-11"&gt;<br />&lt; &lt;include "BAAB06-09"&gt;<br />&lt; &lt;include "BAAB06-06"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1408891290
 minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: 
 summary: Автоматическое обновление (расписание)
-languages: 
+ts: 1408891290
 text: <include "BAAB06-13">
 	
 	<include "BAAB06-11">
@@ -24,5 +14,12 @@ text: <include "BAAB06-13">
 	
 	
 	
+revision: 3
+username: Bot
+blocks: 
+diff-major: 
+flags: 
 lastmajor: 1
-keep-ts: 1408891290
+host: 89.235.223.25
+languages: 
+ip: 89.235.235.166

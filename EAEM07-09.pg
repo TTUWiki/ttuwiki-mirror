@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-is〕]</h2><p>[[EEA0024]] Arhitektuur - projekt II<br />[[TTO1100]] Äriõigus<br />[[TMM0030]] Ärisuhtlus<br />[[TAF3141]] Arvestuse alused<br />[[EEK0025]] Betoonkonstruktsioonid I<br />[[EEK0022]] Betoonkonstruktsioonid II<br />[[EEK0023]] Betoonkonstruktsioonid II - projekt<br />[[EEK0024]] Betoonkonstruktsioonid I - projekt<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EPJ3750]] Ehituse juhtimine<br />[[EEA0033]] Ehitusfüüsika II<br />[[EPJ3760]] Ehitusinvesteeringud<br />[[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted<br />[[EPM0020]] Ehitusmaterjalide valikkursus<br />[[TTO0050]] Ehitusõigus<br />[[EPT0110]] Ehitustehnoloogia<br />[[EPT0111]] Ehitustehnoloogia erikursus<br />[[EMD0020]] Elastsusõpetus<br />[[EPT0131]] Erialapraktika<br />[[EEK0230]] Erikonstruktsioonid<br />[[EEA0011]] Hoonete konstruktsioonid<br />[[EKV0081]] Hoonete tehnovõrgud ja -seadmed<br />[[EKV0082]] Hoonete tehnovõrgud ja -seadmed - projekt<br />[[EMH0032]] Hüdraulika II<br />[[EMH0140]] Hüdrodünaamika erikursus<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EPJ3810]] Kinnisvara haldamine<br />[[EPJ0130]] Kinnisvaraökonoomika<br />[[EEK0060]] Kivikonstruktsioonid<br />[[EMH0110]] Lainetuse dünaamika<br />[[TTO3280]] Lepinguõigus<br />[[EPJ3780]] Linnamajanduse korraldus<br />[[EEK0031]] Metallkonstruktsioonide projekteerimine I<br />[[EEK0032]] Metallkonstruktsioonid II<br />[[EEK0033]] Metallkonstruktsioonid II - projekt<br />[[EPJ0140]] Plaanimine ja turg<br />[[EEA0025]] Projekteerimispraktika<br />[[EPJ0040]] Projektijuhtimine ehituses<br />[[EEK0050]] Puitkonstruktsioonid<br />[[EEK0053]] Puitkonstruktsioonide erikursus<br />[[EEK0100]] Raalprojekteerimine<br />[[EMH0090]] Rannikuprotsessid<br />[[EMH0125]] Sadamate planeerimine<br />[[EMH0123]] Sadamate tehnovõrgud ja -seadmed<br />[[HHP3800]] Suhtlemispsühholoogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[EEK0110]] Vesiehitiste projekteerimine<br />[[EEK0071]] Vundamendid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAEM07/09 - Tööstus- ja tsiviilehitus Kava:50106</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAEM07/09 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50106 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-is〕]
 	[[EEA0024]] Arhitektuur - projekt II
 	[[TTO1100]] Äriõigus
@@ -63,4 +50,17 @@ text: == EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-i
 	[[EEK0071]] Vundamendid
 	
 	
+revision: 4
+diff-major: 
 keep-ts: 1441924149
+host: 82.131.7.230
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAEM07/09 - Tööstus- ja tsiviilehitus Kava:50106</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAEM07/09 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50106 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+username: AlexDaniel
+flags: 

@@ -1,16 +1,7 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>VAEM14/14 - Merendus [Kava:50277 〔Õppekava ÕIS-is〕]</h2><p>[[VME0110]] Ärilogistika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[VME0060]] Erialane praktika<br />[[TER8610]] Finantsjuhtimine<br />[[TMJ8620]] Investeeringute analüüs<br />[[VME0220]] Kaasaegsed laevaremondi tehnoloogiad<br />[[VME0070]] Kaubandusliku meresõidu õigus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[VME0120]] Keskkonnareostuse vältimine ja reostustõrje<br />[[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine<br />[[VME0200]] Laeva automaatjuhtimissüsteemid<br />[[VME0130]] Laevade ehitus<br />[[VME0080]] Laevade prahtimine ja agenteerimine<br />[[VME0210]] Laeva elektroonika<br />[[VME0150]] Laeva hüdrodünaamika ja sõiduomadused<br />[[VME0160]] Laeva juhtimise optimeerimine<br />[[VME0090]] Laevanduse töökorraldus ja ökonoomika<br />[[VME0180]] Laevandusfirma juhtimine<br />[[VME0170]] Laeva remondi organiseerimine ja planeerimine<br />[[VME0050]] Magistriseminar<br />[[NSO8042]] Merekeskkonna kaitse<br />[[VME0020]] Merendusklaster Eestis ja Euroopa riikides<br />[[VME0140]] Meresõiduohutuse juhtimissüsteemid<br />[[VME0190]] Ohutuse ja turvalisuse juhtimine laevanduses<br />[[TMK8310]] Projektijuhtimine<br />[[VME0030]] Rahvusvaheline avalik mereõigus<br />[[VME0040]] Riskide haldamine merenduses<br />[[VME0100]] Sadamate ekspluatatsioon<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[MSJ0120]] Soojuspumbad<br />[[VME0010]] Teadustöö metoodika<br />[[HLX8040]] Teadusvõõrkeel</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VAEM14/14 - Merendus Kava:50277</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VAEM14/14 - Merendus <strong class="changes">[</strong>Kava:50277 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
+blocks: 
 username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+keep-ts: 1441924154
 text: == VAEM14/14 - Merendus [Kava:50277 〔Õppekava ÕIS-is〕]
 	[[VME0110]] Ärilogistika
 	[[HLE6060]] Eesti keele väljendusõpetus
@@ -46,4 +37,13 @@ text: == VAEM14/14 - Merendus [Kava:50277 〔Õppekava ÕIS-is〕]
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-keep-ts: 1441924154
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VAEM14/14 - Merendus Kava:50277</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VAEM14/14 - Merendus <strong class="changes">[</strong>Kava:50277 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+diff-major: 
+languages: 
+revision: 4
+host: 82.131.7.230
+ts: 1441924154

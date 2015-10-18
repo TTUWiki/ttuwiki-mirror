@@ -1,16 +1,7 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]</h2><p>[[HHA3280]] Arengupoliitikad ja üleilmastumine<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[HHL1120]] Euroopa Liidu õigussüsteem<br />[[HHL1030]] Euroopa Liidu poliitikad II<br />[[HHL1150]] E-valitsemine<br />[[IDU5050]] Haldusinfosüsteemid<br />[[HHL1100]] Haldusõigus<br />[[HUP5630]] Haridusökonoomika<br />[[HUP1020]] Haridussüsteemi juhtimine<br />[[HHA1150]] Innovatsiooni- ja tööstuspoliitika<br />[[HHA3260]] Innovatsioonisüsteemid<br />[[HHP8202]] Juhtimispsühholoogia<br />[[HHR1021]] Kohalik omavalitsus ja regionaalne juhtimine II<br />[[HHA0120]] Kulturoloogia<br />[[HHX1011]] Magistriseminar I<br />[[HHX1012]] Magistriseminar II<br />[[TET8150]] Mikro- ja makroökonoomika<br />[[TMO1070]] Organisatsiooni arendamine ja muutuste juhtimine<br />[[TMO1060]] Organisatsiooni ja juhtimise teooriad<br />[[HHP1010]] Organisatsioonipsühholoogia<br />[[HHA1160]] Poliitikate analüüs<br />[[HHX1020]] Praktika<br />[[HHR1050]] Säästliku arengu strateegia<br />[[HHF8160]] Sotsiaalfilosoofia<br />[[TMO1040]] Strateegiline juhtimine<br />[[HHP8201]] Suhtlemispsühholoogia<br />[[HHF9020]] Teadusfilosoofia<br />[[HHX1040]] Teadustöö meetodid<br />[[HLX8040]] Teadusvõõrkeel<br />[[HHA3270]] Tehnoloogia poliitikate ajalugu<br />[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAM02/02 - Avalik haldus Kava:1229</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAM02/02 - Avalik haldus <strong class="changes">[</strong>Kava:1229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
+flags: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+username: AlexDaniel
+diff-major: 
 text: == HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]
 	[[HHA3280]] Arengupoliitikad ja üleilmastumine
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -46,3 +37,12 @@ text: == HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924149
+languages: 
+minor: 1
+revision: 4
+blocks: 
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAM02/02 - Avalik haldus Kava:1229</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAM02/02 - Avalik haldus <strong class="changes">[</strong>Kava:1229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149

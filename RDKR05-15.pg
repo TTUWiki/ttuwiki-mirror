@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDKR05/15 - Kütuste tehnoloogia [Kava:50317 〔Õppekava ÕIS-is〕]</h2><p>[[RAK0110]] Analüütiline keemia<br />[[RAK0090]] Anorgaaniline keemia<br />[[RAR3130]] Elektrotehnika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2830]] Erialapraktika<br />[[RAK0080]] Erialatutvustus (kütuste tehnoloogia)<br />[[RAH0910]] Ettevõtlus<br />[[RAK0141]] Füüsikaline keemia I<br />[[RAK0142]] Füüsikaline keemia II<br />[[RAK0151]] Gaaside ja vedelike voolamine<br />[[RAK0152]] Gaaside ja vedelike voolamine - praktikum<br />[[RAR3111]] Informaatika I<br />[[RAR3112]] Informaatika II<br />[[RAR3140]] Insenerigraafika<br />[[RAR0610]] Instrumentaalanalüüs<br />[[RAR0520]] Keemia alused<br />[[RAK0210]] Keemiaettevõtete seadmed<br />[[RAR2790]] Keemiatehnoloogia alused<br />[[RAH3170]] Keskkonnakaitse<br />[[RAK0230]] Keskkonnatehnoloogia<br />[[RAK0240]] Kütusetööstuse protsessid ja seadmed - ainetöö<br />[[RAK0161]] Kütuste keemia ja tehnoloogia<br />[[RAK0162]] Kütuste keemia ja tehnoloogia - praktikum<br />[[RAR3050]] Lineaaralgebra<br />[[RAR0590]] Masinatehnika<br />[[RAK0171]] Massileviprotsessid<br />[[RAK0172]] Massileviprotsessid - praktikum<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAE0510]] Materjaliõpetus<br />[[RAH1120]] Meeskonnatöö ja juhtimine<br />[[RAR0670]] Mootorikütused ja määrdeained<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAR2780]] Orgaaniline keemia<br />[[RAK0100]] Orgaaniline keemia - praktikum<br />[[RAK0181]] Põlevkivi keemia ja tehnoloogia<br />[[RAK0182]] Põlevkivi keemia ja tehnoloogia - praktikum<br />[[RAK0250]] Polümeeride keemia ja füüsika<br />[[RAR0540]] Rakendusmatemaatika<br />[[RAK0200]] Riski- ja ohutusõpetus keemiatööstuses<br />[[RAK0220]] Säästlik tootmine<br />[[RAK0191]] Soojusleviprotsessid<br />[[RAK0192]] Soojusleviprotsessid - praktikum<br />[[RAR3090]] Soojustehnika<br />[[RAR0720]] Taastuvkütused<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2820]] Töökeskkonna praktika<br />[[RAR0620]] Tootmisautomaatika<br />[[RAR2810]] Tutvumispraktika<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDKR05/15 - Kütuste tehnoloogia Kava:50317</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDKR05/15 - Kütuste tehnoloogia <strong class="changes">[</strong>Kava:50317 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == RDKR05/15 - Kütuste tehnoloogia [Kava:50317 〔Õppekava ÕIS-is〕]
 	[[RAK0110]] Analüütiline keemia
 	[[RAK0090]] Anorgaaniline keemia
@@ -66,4 +53,17 @@ text: == RDKR05/15 - Kütuste tehnoloogia [Kava:50317 〔Õppekava ÕIS-is〕]
 	[[RAH0740]] Väljendusõpetus
 	
 	
+ts: 1441924153
+blocks: 
+languages: 
+diff-major: 
+flags: 
 keep-ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDKR05/15 - Kütuste tehnoloogia Kava:50317</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDKR05/15 - Kütuste tehnoloogia <strong class="changes">[</strong>Kava:50317 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

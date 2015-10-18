@@ -1,16 +1,5 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>SDTR02/13 - Turismi- ja toitlustuskorraldus [Kava:50229 〔Õppekava ÕIS-is〕]</h2><p>[[SKK0220]] Arvutiõpetus<br />[[SKK0830]] Diplomipraktika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[SKK0730]] Eesti - turismi sihtkoht<br />[[SKK3500]] Etikett ja protokoll<br />[[SKK0310]] Ettevõtlus<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK3190]] Hotellimajandus<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0360]] Juhtimise alused<br />[[SKK3270]] Kaubatundmine<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0600]] Klienditeenindus<br />[[SKK3080]] Kultuurilugu<br />[[SKK0821]] Kutsepraktika<br />[[SKK0320]] Logistika<br />[[SKK0710]] Maailma ja Eesti turismigeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0800]] Õppepraktika I<br />[[SKK0810]] Õppepraktika II<br />[[SKK0370]] Personalijuhtimine<br />[[SKK2070]] Praktiline toiduvalmistamine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0570]] Puhastus-koristustööd<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0670]] Reisikorraldus<br />[[SKK0640]] Restoraniteenindus<br />[[SKK3050]] Soome keel<br />[[SKK3531]] Soome keel erialakeelena  I<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0790]] Sündmuskorraldus<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0690]] Toiduainekeemia<br />[[KTO3170]] Toiduohutus<br />[[SKK0590]] Toiduvalmistamise alused<br />[[SKK0620]] Toiduvalmistamise tehnoloogia I<br />[[SKK0651]] Toiduvalmistamise tehnoloogia II<br />[[SKK0610]] Toitlustusettevõtete seadmed<br />[[KTO3280]] Toitumisõpetus<br />[[SKK1140]] Tööõigus<br />[[SKK0580]] Tootearendus toitlustusettevõttes<br />[[SKK0701]] Turismimajanduse alused<br />[[SKK0770]] Turismitoote arendus<br />[[SKK0350]] Turunduse alused<br />[[SKK1080]] Turundusuuringud</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == SDTR02/13 - Turismi- ja toitlustuskorraldus Kava:50229</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == SDTR02/13 - Turismi- ja toitlustuskorraldus <strong class="changes">[</strong>Kava:50229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+keep-ts: 1441924153
 text: == SDTR02/13 - Turismi- ja toitlustuskorraldus [Kava:50229 〔Õppekava ÕIS-is〕]
 	[[SKK0220]] Arvutiõpetus
 	[[SKK0830]] Diplomipraktika
@@ -62,4 +51,15 @@ text: == SDTR02/13 - Turismi- ja toitlustuskorraldus [Kava:50229 〔Õppekava Õ
 	[[SKK1080]] Turundusuuringud
 	
 	
-keep-ts: 1441924153
+languages: 
+minor: 1
+blocks: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == SDTR02/13 - Turismi- ja toitlustuskorraldus Kava:50229</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == SDTR02/13 - Turismi- ja toitlustuskorraldus <strong class="changes">[</strong>Kava:50229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
+username: AlexDaniel
+flags: 

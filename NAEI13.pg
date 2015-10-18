@@ -1,20 +1,20 @@
-flags: 010
-blocks: &lt;include "NAEI13-13"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== NAEI13/13 - Ehitus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=1115&amp;p_kava_versioon_id=50213</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[NTX0010]] Akadeemiline võõrkeel\\<br />&lt; [[NTM0460]] Arhitektuurigraafika\\<br />&lt; [[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu\\<br />&lt; [[NTM1380]] Arhitektuuri teooria\\<br />&lt; [[NTS1420]] Arhitektuurne kujundamine\\<br />&lt; [[NTS0341]] Arvutigraafika I\\<br />&lt; [[NTS0342]] Arvutigraafika II\\<br />&lt; [[NTS0460]] Betooniõpetus\\<br />&lt; [[NTS1151]] Betoonkonstruktsioonid I\\<br />&lt; [[NTS1152]] Betoonkonstruktsioonid II\\<br />&lt; [[NTM0580]] Detailplaneeringu koostamine\\<br />&lt; [[NTS0190]] Diferentsiaalvõrrandid\\<br />&lt; [[NTS1431]] Disainistuudio I (elamud)\\<br />&lt; [[NTS1433]] Disainistuudio III (hoonete kompleksid)\\<br />&lt; [[NTS1432]] Disainistuudio II (ühiskondlikud hooned)\\<br />&lt; [[NTS1270]] Eesti ajaloolised interjöörid\\<br />&lt; [[NTS1410]] Eesti arhitektuur\\<br />&lt; [[NTU0030]] Eesti keele väljendusõpetus\\<br />&lt; [[NTS0570]] Ehitise tehnilise seisukorra hindamine\\<br />&lt; [[NTS1250]] Ehitiste katsetamine\\<br />&lt; [[NTM0470]] Ehitiste restaureerimine\\<br />&lt; [[NTK0310]] Ehituse maksumuse hindamine\\<br />&lt; [[NTS1060]] Ehitusettevõtte ökonoomika\\<br />&lt; [[NTS0490]] Ehitusfüüsika\\<br />&lt; [[NTS0153]] Ehitusgraafika I\\<br />&lt; [[NTS0154]] Ehitusgraafika II\\<br />&lt; [[NTS1080]] Ehituskonstruktsioonide projekteerimise alused\\<br />&lt; [[NTS0320]] Ehituskorraldus\\<br />&lt; [[NTS0430]] Ehitusmasinad\\<br />&lt; [[NTS0240]] Ehitusmaterjalid\\<br />&lt; [[NTS0242]] Ehitusmaterjalid II\\<br />&lt; [[NTS1221]] Ehitusmehaanika I\\<br />&lt; [[NTS1222]] Ehitusmehaanika II\\<br />&lt; [[NTS0410]] Ehituspraktika\\<br />&lt; [[NTS0500]] Ehitustehnoloogia\\<br />&lt; [[NTS0250]] Elektrotehnika\\<br />&lt; [[NTS1070]] Erialapraktika\\<br />&lt; [[NTU0040]] Filosoofia\\<br />&lt; [[NTS0131]] Füüsika I\\<br />&lt; [[NTS0132]] Füüsika II\\<br />&lt; [[NTM0211]] Geodeesia I\\<br />&lt; [[NTM0212]] Geodeesia II\\<br />&lt; [[NTM0213]] Geodeesia õppepraktika\\<br />&lt; [[NTS0220]] Hoonete konstruktsioonid\\<br />&lt; [[NTM0030]] Hüdraulika alused\\<br />&lt; [[NTS0121]] Informaatika I\\<br />&lt; [[NTS0122]] Informaatika II\\<br />&lt; [[NTS0100]] Insenerieetika\\<br />&lt; [[NTS1440]] Interjöör\\<br />&lt; [[NTM0890]] Joonistamine\\<br />&lt; [[NTK0360]] Keemia ja materjaliõpetus\\<br />&lt; [[NTK0020]] Keskkonnakaitse\\<br />&lt; [[NTS0580]] Kivikonstruktsioonid\\<br />&lt; [[NTM0480]] Kompositsioon, värvus- ja vormiõpetus\\<br />&lt; [[NTM0530]] Konserveerimisbioloogia\\<br />&lt; [[NTS0470]] Korrosioonikaitse ehituses\\<br />&lt; [[NTS0140]] Kujutav geomeetria\\<br />&lt; [[NTS0310]] Küte ja ventilatsioon\\<br />&lt; [[NTS0160]] Lineaaralgebra\\<br />&lt; [[NTM1270]] Linnaplaneerimise teooria ja urbanistika\\<br />&lt; [[NTS0171]] Matemaatiline analüüs I\\<br />&lt; [[NTS0172]] Matemaatiline analüüs II\\<br />&lt; [[NTS1090]] Materjalide keemia\\<br />&lt; [[NTS0523]] Metallkonstruktsioonide projekteerimine I\\<br />&lt; [[NTS0525]] Metallkonstruktsioonid II\\<br />&lt; [[NTK0050]] Mikro- ja makroökonoomika\\<br />&lt; [[NTM0500]] Muinsuskaitse filosoofia ja ajalugu\\<br />&lt; [[NTK0030]] Õigusõpetus\\<br />&lt; [[NTK0010]] Õpingukorraldus\\<br />&lt; [[NTS0530]] Pinnasemehaanika ja ehitusgeoloogia\\<br />&lt; [[NTM0350]] Plaanimine ja teed\\<br />&lt; [[NTM0290]] Projekteerimispraktika\\<br />&lt; [[NTS1190]] Puitkonstruktsioonid\\<br />&lt; [[NTS1460]] Puitkonstruktsioonid II\\<br />&lt; [[NTS1120]] Raalprojekteerimine\\<br />&lt; [[NTS1470]] Restaureerimise ettevalmistustööd\\<br />&lt; [[NTS0070]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[NTS0560]] Säästev ja keskkonnasõbralik ehitamine\\<br />&lt; [[NTK0690]] Teadustöö metodoloogia\\<br />&lt; [[NTX0020]] Teadusvõõrkeel\\<br />&lt; [[NTS0231]] Tehniline mehaanika I\\<br />&lt; [[NTS0232]] Tehniline mehaanika II\\<br />&lt; [[NTS0200]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[NTM1420]] Üldine kunstiajalugu\\<br />&lt; [[NTM0111]] Visuaalne kommunikatsioon I\\<br />&lt; [[NTM0112]] Visuaalne kommunikatsioon II\\<br />&lt; [[NTS0591]] Vundamendid\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "NAEI13</strong>-<strong class="changes">13"&gt;</strong></p></div>
-ip: 89.235.235.166
-ts: 1408885798
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
-diff-major: 
-summary: Автоматическое обновление (расписание)
 languages: 
+host: 89.235.223.25
+lastmajor: 1
+diff-major: 
+flags: 
+blocks: 
 text: <include "NAEI13-13">
 	
 	
 	
-lastmajor: 1
+minor: 1
+ip: 89.235.235.166
+username: Bot
 keep-ts: 1408885798
+revision: 2
+summary: Автоматическое обновление (расписание)
+ts: 1408885798

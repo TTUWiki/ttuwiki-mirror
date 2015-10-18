@@ -1,16 +1,16 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAKI02/05 - Keskkonnatehnika [Kava:3737 〔Õppekava ÕIS-is〕]</h2><p>[[NTK0040]] Akadeemiline võõrkeel<br />[[NTM0170]] Arhitektuuri üldkursus<br />[[NTS0341]] Arvutigraafika I<br />[[NTS0342]] Arvutigraafika II<br />[[NTS0040]] Automaatika alused<br />[[NTM0131]] Avalikud alad<br />[[NTM0132]] Avalikud alad - projekt<br />[[NTM0150]] Dekoratiivtaimed<br />[[NTM0160]] Dendroloogia<br />[[NTS0190]] Diferentsiaalvõrrandid<br />[[NTM0250]] Eesti asustuskeskkonna kujunemine<br />[[NTK0280]] Eesti õigekeelsus<br />[[NTK0310]] Ehituse maksumuse hindamine<br />[[NTK0080]] Ehitusettevõtte ökonoomika<br />[[NTS0260]] Ehitusfüüsika<br />[[NTS0151]] Ehitusgraafika I<br />[[NTS0152]] Ehitusgraafika II<br />[[NTS0390]] Ehituskonstruktsioonid<br />[[NTS0320]] Ehituskorraldus<br />[[NTS0430]] Ehitusmasinad<br />[[NTS0240]] Ehitusmaterjalid<br />[[NTS0281]] Ehitusmehaanika I<br />[[NTS0282]] Ehitusmehaanika II<br />[[NTS0410]] Ehituspraktika<br />[[NTS0250]] Elektrotehnika<br />[[NTK0230]] Ennetavad meetmed keskkonnakaitses<br />[[NTM0060]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0211]] Geodeesia I<br />[[NTM0212]] Geodeesia II<br />[[NTM0213]] Geodeesia õppepraktika<br />[[NTM0300]] Geotehnika alused<br />[[NTM0240]] Haljasalade ökonoomika<br />[[NTS0220]] Hoonete konstruktsioonid<br />[[NTS0031]] Hoone veevärk ja kanalisatsioon I<br />[[NTS0032]] Hoone veevärk ja kanalisatsioon II<br />[[NTM0271]] Hüdraulika I<br />[[NTM0272]] Hüdraulika II<br />[[NTM0330]] Hüdrogeoloogia<br />[[NTS0350]] Hüdro- ja aeromehaanika<br />[[NTM0010]] Hüdroloogia ja vesiehitised<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0100]] Insenerieetika<br />[[NTS0051]] Jäätmekäitlus I<br />[[NTS0052]] Jäätmekäitlus II<br />[[NTS0181]] Jäätmekäitlustehnoloogia ja -tehnika<br />[[NTS0182]] Jäätmekäitlustehnoloogia ja -tehnika - projekt<br />[[NTS0210]] Jäätmete mobiiltransport<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTS0301]] Kanalisatsioonivõrk ja pumplad<br />[[NTS0302]] Kanalisatsioonivõrk ja pumplad - projekt<br />[[NTK0360]] Keemia ja materjaliõpetus<br />[[NTS0090]] Keevitus<br />[[NTK0020]] Keskkonnakaitse<br />[[NTK0070]] Keskkonnameetmete ökonoomika<br />[[NTS0400]] Keskkonnasäästlik energeetika<br />[[NTS0080]] Korrosioonitõrje<br />[[NTS0140]] Kujutav geomeetria<br />[[NTM0141]] Kunstiõpetus<br />[[NTM0142]] Kunstiõpetus - ainetöö<br />[[NTS0310]] Küte ja ventilatsioon<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0270]] Logistika alused<br />[[NTM0200]] Maastikuhooldus<br />[[NTM0091]] Maastikukujunduse alused<br />[[NTM0092]] Maastikukujunduse alused - projekt<br />[[NTM0190]] Maastikuökoloogia<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTS0420]] Metallide tehnoloogia<br />[[NTK0050]] Mikro- ja makroökonoomika<br />[[NTM0280]] Muinsuskaitse alused<br />[[NTM0050]] Mullateadus<br />[[NTK0100]] Õhu kvaliteet ja atmosfääri kaitse<br />[[NTK0030]] Õigusõpetus<br />[[NTK0110]] Ökoloogia<br />[[NTK0010]] Õpingukorraldus<br />[[NTM0350]] Plaanimine ja teed<br />[[NTM0290]] Projekteerimispraktika<br />[[NTM0121]] Puhke- ja spordialade planeerimine<br />[[NTM0122]] Puhke- ja spordialade planeerimine - projekt<br />[[NTS0290]] Pumbad ja ventilaatorid<br />[[NTM0230]] Regionaalplaneerimine<br />[[NTS0061]] Reoveekäitlus<br />[[NTS0062]] Reoveekäitlus - projekt<br />[[NTM0260]] Restaureerimise üldkursus<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTM0080]] Ruumiline planeerimine<br />[[NTS0360]] Soojustehnika<br />[[NTM0220]] Strateegiline planeerimine<br />[[NTK0090]] Teadusvõõrkeel<br />[[NTK0190]] Tehiskeskkonna korraldus<br />[[NTS0231]] Tehniline mehaanika I<br />[[NTS0232]] Tehniline mehaanika II<br />[[NTS0010]] Tehnosüsteemide materjalid<br />[[NTS0330]] Tehnosüsteemide tehnoloogia<br />[[NTS0370]] Tehnovõrkude ekspluatatsioon<br />[[NTS0380]] Tehnovõrkude renoveerimine<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTK0350]] Tootmispraktika<br />[[NTS0110]] Tõste- ja teisaldusmasinad<br />[[NTS0021]] Ühisveevärk I<br />[[NTS0022]] Ühisveevärk II<br />[[NTS0023]] Ühisveevärk II - projekt<br />[[NTM0101]] Üld- ja detailplaneerimine<br />[[NTM0102]] Üld- ja detailplaneerimine - projekt<br />[[NTK0060]] Veekogude veekvaliteet ja veesääst<br />[[NTM0111]] Visuaalne kommunikatsioon I<br />[[NTM0112]] Visuaalne kommunikatsioon II</p>
+languages: 
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAKI02/05 - Keskkonnatehnika Kava:3737</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAKI02/05 - Keskkonnatehnika <strong class="changes">[</strong>Kava:3737 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
+minor: 1
+keep-ts: 1441924149
+flags: 
+username: AlexDaniel
+ts: 1441924149
+host: 82.131.7.230
 text: == EAKI02/05 - Keskkonnatehnika [Kava:3737 〔Õppekava ÕIS-is〕]
 	[[NTK0040]] Akadeemiline võõrkeel
 	[[NTM0170]] Arhitektuuri üldkursus
@@ -125,4 +125,4 @@ text: == EAKI02/05 - Keskkonnatehnika [Kava:3737 〔Õppekava ÕIS-is〕]
 	[[NTM0112]] Visuaalne kommunikatsioon II
 	
 	
-keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

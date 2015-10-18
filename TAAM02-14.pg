@@ -1,16 +1,8 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAM02/14 - Rakenduslik majandusteadus [Kava:50258 〔Õppekava ÕIS-is〕]</h2><p>[[TTP1050]] Arenguökonoomika<br />[[TTR1030]] Avaliku sektori ökonoomika<br />[[TSX1010]] Erialane võõrkeel II<br />[[TEX199P]] Erialapraktika<br />[[TER1499]] Ettevõtte väärtuse hindamine<br />[[TET1040]] Euroopa Liidu majandus<br />[[TAF1010]] Finantsaruandlus ja -analüüs<br />[[TER1220]] Finantsturud ja -institutsioonid<br />[[IDK0080]] Informaatika majandusmagistrantidele<br />[[TMO1020]] Inimressursi juhtimine<br />[[TMK1130]] Innovatsiooni juhtimine<br />[[TAK8370]] Juhtimisarvestus<br />[[TTK1010]] Keskkonna ja ökoloogia ökonoomika<br />[[TTK1020]] Keskkonnajuhtimine<br />[[TER1407]] Konkurentsiökonoomika<br />[[TTS2320]] Kvalitatiivsed uurimismeetodid<br />[[TTS1100]] Linna- ja eluasemesotsioloogia<br />[[TTX1130]] Linna- ja keskkonnapoliitika: juhtumiuuring<br />[[TTR1080]] Linnaökonoomika<br />[[TTS1060]] Linnateooriad<br />[[TTX1140]] Magistriseminar<br />[[TET1060]] Makroökonoomika keskkursus<br />[[TET1050]] Mikroökonoomika keskkursus<br />[[TES2403]] Mitmemõõtmeline statistiline analüüs<br />[[HHL1300]] Õigusaktide majanduslik analüüs<br />[[TES1040]] Ökonomeetria<br />[[TEM8300]] Operatsioonianalüüs<br />[[TMO1061]] Organisatsiooni ja juhtimise teooriad<br />[[TER1320]] Rahvusvaheline ärirahandus<br />[[TET1180]] Rakenduslik majandusanalüüs<br />[[TER1415]] Riski juhtimine<br />[[TTS1010]] Sotsiaalpoliitika<br />[[TTX199P]] Tööpraktika</p>
+revision: 5
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAM02/14 - Rakenduslik majandusteadus Kava:50258</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAM02/14 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50258 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TAAM02/14 - Rakenduslik majandusteadus [Kava:50258 〔Õppekava ÕIS-is〕]
 	[[TTP1050]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -47,4 +39,12 @@ text: == TAAM02/14 - Rakenduslik majandusteadus [Kava:50258 〔Õppekava ÕIS-is
 	[[TTX199P]] Tööpraktika
 	
 	
+languages: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924153
+diff-major: 
+blocks: 
+ts: 1441924153
+username: AlexDaniel
+minor: 1

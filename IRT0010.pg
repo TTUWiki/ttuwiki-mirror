@@ -1,13 +1,8 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Здесь находится хороший учебник, по которому в принципе составлены лекции, правда учебник английский, но думаю есть и на русском.</p><p><a class="url http" href="http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf">http://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf</a><br />_____________________________________________</p><p>А тут ссылка на лекции</p><p><a class="url http" href="http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html">http://www.lr.ttu.ee/~eriklos/loengumaterjalid.html</a></p><p>&#x2013; Аноним 2014-02-24 22:05 UTC</p></div>
 ip: 84.50.22.158
-ts: 1441924447
-minor: 1
 host: 82.131.7.230
+keep-ts: 1441924447
+minor: 1
 username: AlexDaniel
-revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Sidemeetodid
 	#SUBURL [Course:29757 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -26,5 +21,10 @@ text: #SUBTITLE Sidemeetodid
 	-- Аноним 2014-02-24 22:05 UTC
 	
 	
+languages: 
+ts: 1441924447
 lastmajor: 3
-keep-ts: 1441924447
+revision: 5
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29757 〔Õppeaine ÕIS-is〕]

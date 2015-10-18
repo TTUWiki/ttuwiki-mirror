@@ -1,9 +1,4 @@
-blocks: <p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&amp;materjalid=1440">Õppematerjalid</a><br /></p><h2>Kirjandus</h2><p><a class="url http outside" href="http://www.ester.ee/record=b4484414*est">Energiasalvestid ja -salvestustehnoloogiad</a></p><h4>Upcoming events</h4><ol><li>Referaadi mustandi esitamine. Tähtaeg <strong>Oktoobri lõpp</strong> 2015.</li></ol>
-lastmajorsummary: 
-ip: 89.235.235.166
-diff-major: 1
-summary: 
-languages: 
+keep-ts: 1442928920
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
@@ -13,13 +8,18 @@ text: #SUBTITLE Energiasalvestid
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-lastmajor: 6
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ====Upcoming events<br />&gt; #Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.</p></div>
-flags: 0
-ts: 1442928920
-minor: 
-host: 86.110.37.246
 username: 
+languages: 
+lastmajorsummary: 
+minor: 
 revision: 6
-keep-ts: 1442928920
+summary: 
+diff-major: 1
+ts: 1442928920
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
+lastmajor: 6
+flags: 1
+ip: 89.235.235.166
+host: 86.110.37.246

@@ -1,15 +1,5 @@
-flags: 0101010101010101010101010101010
-blocks: <p>[[EALB02]] Logistika</p><p>[[EVEM14]] Euroopa arhitektuur<br />[[EAXM15]] Hooned ja rajatised<br />[[EAAM11]] Hoonete energiatõhusus<br />[[EAKM07]] Keskkonnatehnika<br />[[EABM03]] Keskkonnatehnika ja juhtimine<br />[[EAUM12]] Linnaehitus ja hoonete projekteerimine<br />[[EALM02]] Logistika<br />[[EATM07]] Teedeehitus ja geodeesia<br />[[EAEM07]] Tööstus- ja tsiviilehitus</p><p>[[EAED02]] Ehitus ja keskkonnatehnika</p><p>[[EAUI12]] Arhitektuur<br />[[EAKI02]] Keskkonnatehnika<br />[[EATI02]] Teedeehitus ja geodeesia<br />[[EAEI02]] Tööstus- ja tsiviilehitus</p>
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[EVEM14]] Euroopa arhitektuur<br />&gt; [[EAXM15]] Hooned ja rajatised</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[EABM03]] Keskkonnakorraldus ja puhtam tootmine</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[EABM03]] Keskkonnatehnika ja juhtimine</p></div>
-ip: 89.235.235.166
-ts: 1438886324
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 5
+keep-ts: 1438886324
+flags: 
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[EALB02]] Logistika\\<br />&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[EAED02]] Ehitus ja keskkonnatehnika\\<br />&lt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&lt; [[EAEM07]] Tööstus- ja tsiviilehitus\\<br />&lt; [[EAKI02]] Keskkonnatehnika\\</p></div><p><strong>Changed:</strong></p>
@@ -20,8 +10,13 @@ diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[EAED02]] Ehitus ja keskkonnatehnika\\<br />&gt; \\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">EAUM12</strong>]] <strong class="changes">Linnaehitus</strong> ja <strong class="changes">hoonete projekteerimine</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">EAKI02</strong>]] <strong class="changes">Keskkonnatehnika\\<br />&gt; [[EAEI02]] Tööstus-</strong> ja <strong class="changes">tsiviilehitus\\<br />&gt; [[EATI02]] Transpordiehitus\\</strong><br />&gt; \\</p></div>
-summary: Автоматическое обновление
-languages: 
+minor: 1
+revision: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[EVEM14]] Euroopa arhitektuur<br />&gt; [[EAXM15]] Hooned ja rajatised</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[EABM03]] Keskkonnakorraldus ja puhtam tootmine</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[EABM03]] Keskkonnatehnika ja juhtimine</p></div>
+ip: 89.235.235.166
 text: [[EALB02]] Logistika
 	
 	[[EVEM14]] Euroopa arhitektuur
@@ -43,5 +38,10 @@ text: [[EALB02]] Logistika
 	
 	
 	
+ts: 1438886324
+languages: 
+blocks: 
+host: 85.253.110.44
 lastmajor: 3
-keep-ts: 1438886324
+summary: Автоматическое обновление
+username: Bot

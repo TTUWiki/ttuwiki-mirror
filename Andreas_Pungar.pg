@@ -1,15 +1,4 @@
-flags: 01010101010
-blocks: <h2>Sügissemester 2015</h2><p>[[EEA0021]] Arhitektuur<br />[[EPJ0120]] Ehitushanke juhtimine<br />[[EMD0021]] Ehitusmehaanika I<br />[[EXX0023]] Hüdrotehnilised ehitised sadamates<br />[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused</p>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----<br />&lt; Tere tulemast wiki-sse!<br />&lt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&lt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
-lastmajorsummary: 
 ts: 1444150376
-minor: 
-host: 86.110.37.246
-username: 
-revision: 4
-diff-major: 1
-summary: 
 languages: 
 text: == Sügissemester 2015
 	
@@ -22,5 +11,16 @@ text: == Sügissemester 2015
 	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused
 	
 	
-lastmajor: 4
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; Tere tulemast wiki-sse!<br />&lt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&lt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
+flags: 
+host: 86.110.37.246
 keep-ts: 1444150376
+summary: 
+minor: 
+username: 
+lastmajor: 4
+revision: 4
+lastmajorsummary: 
+diff-major: 1
+blocks: 

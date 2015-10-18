@@ -1,16 +1,11 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>SDSR10/14 - Meretehnika ja väikelaevaehitus [Kava:50262 〔Õppekava ÕIS-is〕]</h2><p>[[SKK1350]] Alumiiniumi tehnoloogia<br />[[MRM5703]] Arvutigraafika ja tehniline joonestamine<br />[[AAR0020]] Automaatjuhtimise alused<br />[[SKK1370]] CAM- ja CNC tehnoloogiad<br />[[SKR0060]] Digitaalelektroonika<br />[[SKK1090]] Diplomipraktika ettevõttes<br />[[SKR0050]] Diskreetne matemaatika<br />[[SKK1100]] Eesti keele väljendusõpetus<br />[[AAV0150]] Elektripaigaldised<br />[[SKR0040]] Elektroonika alused<br />[[SKR0070]] Elektroonikaseadmete raalprojekteerimine<br />[[AME3130]] Elektrotehnika<br />[[SKR0080]] Energiakorilus ja toiteseadmed<br />[[SKK0310]] Ettevõtlus<br />[[SKK0240]] Filosoofia<br />[[SKK0023]] Füüsika I<br />[[SKK0011]] Informaatika I<br />[[SKK0490]] Inglise erialakeel<br />[[SKK0070]] Jõuelektroonika ja elektriajamid<br />[[SKK0360]] Juhtimise alused<br />[[SKK1070]] Keemia<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK1340]] Komposiidi tehnoloogia<br />[[MTT0010]] Konstruktsioonimaterjalide tehnoloogia<br />[[YGK0010]] Kujutav geomeetria<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[MLM5011]] Laeva hüdromehaanika ja sõiduomadused<br />[[SKK0040]] Lineaaralgebra<br />[[SKK0300]] Majandusõpetus<br />[[SKK0080]] Masinatehnika alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK0033]] Matemaatiline analüüs II<br />[[KMT5004]] Mereõigus ja EL reeglid<br />[[ISC0010]] Mikroprotsessorsüsteemid<br />[[SKK0100]] Mõõtetehnika alused<br />[[LNG5130]] Navigatsioon ja väikelaeva juhtimine<br />[[SKK0200]] Õpingukorraldus<br />[[SKR0020]] Programmeerimise alused<br />[[SKK0380]] Projektijuhtimine<br />[[AST5127]] Projektitöö ettevõttes I<br />[[SKK1470]] Projektitöö ettevõttes II<br />[[SKK1360]] Raalprojekteerimine (CAD ja 3D)<br />[[SKR0160]] Sensorsüsteemid<br />[[SKR0010]] Sissejuhatus erialasse<br />[[SKK3050]] Soome keel<br />[[SKR0100]] Statistika alused<br />[[SKK1390]] Tehniline dokumentatsioon<br />[[MTM0010]] Tehnomaterjalid<br />[[SKK1140]] Tööõigus<br />[[SKR0091]] Tootearendus I<br />[[SKR0092]] Tootearendus II<br />[[SKR0200]] Tootedisaini ja ergonoomia alused<br />[[MMR5280]] Töötervishoid ja tööohutus<br />[[SKR0030]] Tootmise korraldamine<br />[[SKK1380]] Tootmistehnika<br />[[SKK1040]] Tugevusõpetus<br />[[SKE0010]] Turundus äriturul<br />[[SKK0350]] Turunduse alused<br />[[MLM5122]] Tutvumispraktika ettevõttes<br />[[SKK1410]] Väikelaeva ehituse tehnoloogia ja koostamine<br />[[MLM5117]] Väikelaevaehitus - projekt<br />[[MEA5120]] Väikelaeva elektrilised süsteemid ja navigatsiooniseadmed<br />[[MRM5124]] Väikelaeva ergonoomia ja disain<br />[[MLM5125]] Väikelaeva mehaanilised süsteemid<br />[[MLM5012]] Väikelaeva mudelkatsed<br />[[LNG5129]] Väikelaeva purjed ja taglastus</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == SDSR10/14 - Meretehnika ja väikelaevaehitus Kava:50262</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == SDSR10/14 - Meretehnika ja väikelaevaehitus <strong class="changes">[</strong>Kava:50262 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
+flags: 
+keep-ts: 1441924153
 minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == SDSR10/14 - Meretehnika ja väikelaevaehitus [Kava:50262 〔Õppekava ÕIS-is〕]
 	[[SKK1350]] Alumiiniumi tehnoloogia
 	[[MRM5703]] Arvutigraafika ja tehniline joonestamine
@@ -80,4 +75,9 @@ text: == SDSR10/14 - Meretehnika ja väikelaevaehitus [Kava:50262 〔Õppekava �
 	[[LNG5129]] Väikelaeva purjed ja taglastus
 	
 	
-keep-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+blocks: 
+revision: 4
+ts: 1441924153
+host: 82.131.7.230

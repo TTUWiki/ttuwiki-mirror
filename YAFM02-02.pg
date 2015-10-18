@@ -1,16 +1,11 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAFM02/02 - Tehniline füüsika [Kava:1265 〔Õppekava ÕIS-is〕]</h2><p>[[EMR9090]] Biomehaanika seminar<br />[[NSO0030]] Dünaamiline okeanograafia<br />[[EMR0080]] Elastsusteooria<br />[[YFR4712]] Eripraktikum II<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[YMM0040]] Funktsionaalanalüüsi elemendid<br />[[YFR0340]] Füüsikaline optika<br />[[NGG0050]] Füüsikalise geoloogia eriseminar<br />[[NGG8030]] Füüsikalis-keemilised meetodid geoloogias<br />[[YFR0310]] Füüsikaliste protsesside modelleerimine<br />[[YFR0741]] Füüsika - seminar I<br />[[YFR0742]] Füüsika - seminar II<br />[[NGG0040]] Geoloogilised protsessid maakoores<br />[[YMM9050]] Harmooniline analüüs<br />[[YMA9201]] Kaasaegsete matemaatika meetodite eriseminar I<br />[[EKE0021]] Keskkonnakorraldus<br />[[YGK8020]] Kujutava geomeetria eriseminar<br />[[YMA0070]] Lineaaralgebra rakendusmeetodid<br />[[NSO8040]] Looduslike veekogude modelleerimine<br />[[YMM0053]] Matemaatika seminar III<br />[[YMF0010]] Matemaatilise füüsika võrrandid<br />[[KCM0011]] Materjalide uurimismeetodid I<br />[[KCM0012]] Materjalide uurimismeetodid II<br />[[EMD5010]] Mehaanilised võnkumised<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[EMR8030]] Mittelineaarne dünaamika<br />[[YMR0150]] Mittelineaarsed diferentsiaalvõrrandid<br />[[EMR0050]] Modelleerimise alused<br />[[NSO0050]] Okeanograafia eriseminar<br />[[NSO8020]] Okeanograafia ja limnoloogia<br />[[YMR0050]] Operatsioonianalüüs<br />[[YFR5420]] Pooljuhtide füüsika<br />[[EMR0071]] Rakendusmehaanika seminar I<br />[[EMR0072]] Rakendusmehaanika seminar II<br />[[YMR0090]] Rakendusstatistika<br />[[YFT0090]] Tahke keha füüsika<br />[[YFR0620]] Tänapäeva füüsikalise eksperimendi alused<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMA5200]] Üldalgebra alused<br />[[NGG8020]] Üldine ja füüsikaline geoloogia</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFM02/02 - Tehniline füüsika Kava:1265</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFM02/02 - Tehniline füüsika <strong class="changes">[</strong>Kava:1265 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+blocks: 
 ts: 1441924154
-minor: 1
 host: 82.131.7.230
 username: AlexDaniel
-revision: 4
+minor: 1
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
+keep-ts: 1441924154
 text: == YAFM02/02 - Tehniline füüsika [Kava:1265 〔Õppekava ÕIS-is〕]
 	[[EMR9090]] Biomehaanika seminar
 	[[NSO0030]] Dünaamiline okeanograafia
@@ -54,4 +49,9 @@ text: == YAFM02/02 - Tehniline füüsika [Kava:1265 〔Õppekava ÕIS-is〕]
 	[[NGG8020]] Üldine ja füüsikaline geoloogia
 	
 	
-keep-ts: 1441924154
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFM02/02 - Tehniline füüsika Kava:1265</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFM02/02 - Tehniline füüsika <strong class="changes">[</strong>Kava:1265 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4

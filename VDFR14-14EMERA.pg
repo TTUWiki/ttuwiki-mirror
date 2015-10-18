@@ -1,16 +1,3 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia [Kava:50288 〔Õppekava ÕIS-is〕]</h2><p>[[VAY0020]] Analüütiline geomeetria<br />[[VAA0080]] Arvutigraafika<br />[[VMF0050]] Avamerepüügi praktika<br />[[VAY0542]] Eesti keel II (võõrkeelena)<br />[[VAY0541]] Eesti keel I (võõrkeelena)<br />[[VAY0210]] Eetika ja etikett<br />[[VAA0200]] Ehitusjoonestamine<br />[[VAA0270]] Elektrotehnika ja elektroonika<br />[[VMF0441]] Erialane inglise keel I<br />[[VMF0442]] Erialane inglise keel II<br />[[VMF0443]] Erialane inglise keel III<br />[[VMF0030]] Erialane kulinaaria - praktikum<br />[[VMF0070]] Erialane praktika<br />[[VAY0560]] Erialane vene keel<br />[[VAY0130]] Füüsika<br />[[VAY0360]] Halduskorraldus<br />[[VMF0010]] Harrastuslik kalapüük<br />[[VMV0100]] Hüdromehaanika<br />[[VMV0030]] Hüdrometeoroloogia alused<br />[[VMF0020]] Ihtüoloogia<br />[[VMF0040]] Ihtüopatoloogia ja veeorganismide toksikoloogia<br />[[VAY0141]] Informaatika I/1<br />[[VAY0142]] Informaatika I/2<br />[[VAY0570]] Informaatika II<br />[[VAA0190]] Insenerigraafika alused<br />[[VAY0240]] Juhtimispsühholoogia<br />[[VMF0490]] Kala esmakäitlemine<br />[[VMF0430]] Kala ja kalatoitude biokeemia<br />[[VMF0130]] Kalakäitlemise õigusregulatsioon<br />[[VMF0140]] Kalakäitlemise õppepraktika<br />[[VMF0120]] Kalakäitlemise tehnoloogilised protsessid ja seadmed<br />[[VMF0090]] Kalakaitse korraldamine<br />[[VMF0451]] Kalakasvatus ja kalavarude rikastamine I<br />[[VMF0452]] Kalakasvatus ja kalavarude rikastamine II<br />[[VMF0110]] Kalakaubandus<br />[[VMF0150]] Kalanduse ja merenduse geograafia<br />[[VMF0480]] Kalanduslogistika alused<br />[[VMF0160]] Kalanduspoliitika ja kalandusõigus<br />[[VMF0170]] Kalapüügi bioloogilised alused<br />[[VMF0180]] Kalapüügi korraldamine ja regulatsioon<br />[[VMF0190]] Kalapüügilaevad ja -mehhanismid<br />[[VMF0200]] Kalapüügitehnika<br />[[VMF0210]] Kalapüünised, ehitus ja remont (sh. Praktikum)<br />[[VMF0220]] Kalapüüniste ehitus<br />[[VMF0230]] Kalapüüniste projekteerimine<br />[[VMF0470]] Kalasadamate ekspluatatsioon<br />[[VMF0240]] Kalatoodete tehnoloogia baaskursus<br />[[VMF0080]] Kalatoodete tehnoloogia lühikursus<br />[[VMF0250]] Kalaturism ja puhkemajandus<br />[[VMF0260]] Kalavarude kujunemine ja haldamine<br />[[VAY0440]] Keemia<br />[[VAY0481]] Kehaline kasvatus I<br />[[VAY0490]] Kehaline kasvatus II<br />[[VMF0270]] Keskkonnakorraldus ja -kaitse<br />[[VMF0280]] Keskkonnamõjude hindamine ja keskkonnajuhtimissüsteem<br />[[VMF0290]] Kohuseteadliku kalapüügi korraldamine<br />[[VMF0300]] Kvaliteedikontroll ettevõttes - praktikum<br />[[VLL0410]] Laevade ehitus<br />[[VLL0390]] Laeva hoolduse praktika<br />[[VAY0010]] Lineaaralgebra<br />[[VAY0270]] Majandusarvestuse alused<br />[[VAY0050]] Matemaatiline analüüs I<br />[[VAY0060]] Matemaatiline analüüs II<br />[[VAY0080]] Matemaatiline analüüs (MMF)<br />[[VMF0420]] Meeskonnatöö<br />[[VMV0170]] Merefüüsika<br />[[VLL0880]] Merepraktika<br />[[VMF0310]] Mikrobioloogia<br />[[VAY0640]] Mikro- ja makroökonoomika<br />[[VAY0340]] Õiguse alused ja kodanikuühiskond<br />[[VMF0320]] Okeanograafia<br />[[VAY0510]] Õpingukorraldus<br />[[VAY0220]] Projektijuhtimine<br />[[VMS0280]] Rahvusvaheline mereõigus<br />[[VMF0330]] Rakendushüdrobioloogia<br />[[VAA0060]] Rakendusmehaanika<br />[[VMF0340]] Rannapüügipraktika<br />[[VMF0461]] Rannikuvööndi integreeritud areng I<br />[[VMF0462]] Rannikuvööndi integreeritud areng II<br />[[VMF0350]] Sissejuhatav praktika<br />[[VMF0360]] Sissejuhatus erialasse<br />[[VLK0250]] Soojus- ja külmatehnika<br />[[VAY0200]] Suhtekorraldus<br />[[VAY0260]] Teadustöö alused<br />[[VMF0370]] Tehnoloogiline praktika kalakäitlemise ettevõttes<br />[[VAY0120]] Tõenäosusteooria ja matemaatiline statistika<br />[[VMF0380]] Toiduhügieen<br />[[VMV0330]] Töökeskkonna ohutus<br />[[VMF0390]] Tootearendus<br />[[VAY0280]] Tootmise ökonoomika. Ettevõtlus<br />[[VAY0310]] Turunduse alused<br />[[VMV0260]] Üldine hüdroloogia<br />[[VMF0400]] Veekogude ökoloogia<br />[[VAY0552]] Vene keel II (võõrkeelena)<br />[[VAY0551]] Vene keel I (võõrkeelena)</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia Kava:50288</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia <strong class="changes">[</strong>Kava:50288 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia [Kava:50288 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VAA0080]] Arvutigraafika
@@ -109,4 +96,17 @@ text: == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia [Kava:50288 �
 	[[VAY0551]] Vene keel I (võõrkeelena)
 	
 	
+minor: 1
 keep-ts: 1441924154
+host: 82.131.7.230
+diff-major: 
+flags: 
+ts: 1441924154
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia Kava:50288</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDFR14/14EMERA - Kalapüügi ja -käitlemise tehnoloogia <strong class="changes">[</strong>Kava:50288 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+blocks: 
+languages: 
+username: AlexDaniel

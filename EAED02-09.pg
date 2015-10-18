@@ -1,16 +1,11 @@
-flags: 010101010101010101010101010
-blocks: <h2>EAED02/09 - Ehitus ja keskkonnatehnika [Kava:50110 〔Õppekava ÕIS-is〕]</h2><p>[[EXX9010]] Doktoriseminar<br />[[EXX9040]] Doktoritöö temaatika erikursus<br />[[EXX9030]] Doktoritöö temaatika üldkursus<br />[[EXX9050]] Doktoritöö tulemuste avaldamine<br />[[HHI9010]] Innovatsioon<br />[[YMR9040]] Inseneristatistika<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9030]] Kõrgkoolididaktika<br />[[EXX9021]] Õpetamispraktika<br />[[TMM9240]] Teadusartiklite kirjutamine inglise keeles<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus</p>
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAED02/09 - Ehitus ja keskkonnatehnika Kava:50110</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAED02/09 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50110 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+flags: 
+host: 82.131.7.230
+ts: 1441924149
 text: == EAED02/09 - Ehitus ja keskkonnatehnika [Kava:50110 〔Õppekava ÕIS-is〕]
 	[[EXX9010]] Doktoriseminar
 	[[EXX9040]] Doktoritöö temaatika erikursus
@@ -26,4 +21,9 @@ text: == EAED02/09 - Ehitus ja keskkonnatehnika [Kava:50110 〔Õppekava ÕIS-is
 	[[HUP9010]] Teadus- ja hariduskorraldus
 	
 	
+languages: 
+blocks: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924149
+diff-major: 

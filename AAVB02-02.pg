@@ -1,16 +1,13 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAVB02/02 - Elektroenergeetika [Kava:764 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[AEK3025]] Alajaamad<br />[[AAR0020]] Automaatjuhtimise alused<br />[[AES3035]] Elektrijaamad<br />[[AMM3060]] Elektrimasinad<br />[[AEK3041]] Elektrimaterjalid<br />[[AES0020]] Elektrisüsteemi siirdeprotsessid<br />[[AES3045]] Elektrivõrgud<br />[[AEK3170]] Elektroenergeetika alused<br />[[AAR3320]] Elektroonika ja jõupooljuhttehnika<br />[[AME3140]] Elektrotehnika I<br />[[AME3150]] Elektrotehnika II<br />[[AEK0010]] Energeetika arengu plaanimine<br />[[AES0160]] Energiamajanduse korraldamine<br />[[AES3024]] Energiasüsteemid<br />[[AES3136]] Energiasüsteemide ökonoomika<br />[[AES3521]] Energiasüsteemide optimaaljuhtimine<br />[[AES0110]] Energiasüsteemid - projekt<br />[[HHF3070]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[AEK3011]] Kõrgepingetehnika<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[AES0170]] Lühised - ainetöö<br />[[MHE0061]] Masinatehnika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[AAR3310]] Mikroprotsessortehnika<br />[[UTT0010]] Õpingukorraldus<br />[[AES399P]] Praktika<br />[[AES3610]] Programmeeritavad kontrollerid - praktikum<br />[[AES0010]] Rakenduslik süsteemiteooria<br />[[TMT3360]] Riski- ja ohutusõpetus<br />[[MSE0100]] Soojustehnika</p>
+revision: 4
+username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924148
+ts: 1441924148
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAVB02/02 - Elektroenergeetika Kava:764</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAVB02/02 - Elektroenergeetika <strong class="changes">[</strong>Kava:764 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
+blocks: 
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == AAVB02/02 - Elektroenergeetika [Kava:764 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[AEK3025]] Alajaamad
@@ -52,4 +49,7 @@ text: == AAVB02/02 - Elektroenergeetika [Kava:764 〔Õppekava ÕIS-is〕]
 	[[MSE0100]] Soojustehnika
 	
 	
-keep-ts: 1441924148
+flags: 
+languages: 
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,16 +1,12 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>NAEB06/15 - Keskkonnajuhtimine [Kava:50290 〔Õppekava ÕIS-is〕]</h2><p>[[NTX0010]] Akadeemiline võõrkeel<br />[[NTS0341]] Arvutigraafika I<br />[[NTK0130]] Biogeokeemilised tsüklid ja mullakaitse<br />[[NTS1350]] Eelarve ja maksusüsteem<br />[[NTU0030]] Eesti keele väljendusõpetus<br />[[NTS0153]] Ehitusgraafika I<br />[[NTK0410]] Elusloodus<br />[[NTK1090]] Erialapraktika<br />[[NTK1260]] Ettevõtluse alused<br />[[NTM1210]] Ettevõtte majandamine<br />[[NTU0040]] Filosoofia<br />[[NTS0131]] Füüsika I<br />[[NTS0132]] Füüsika II<br />[[NTM0311]] Geoinformaatika<br />[[NTK0120]] Globaalsed keskkonnaprobleemid<br />[[NTS0121]] Informaatika I<br />[[NTS0122]] Informaatika II<br />[[NTS0051]] Jäätmekäitlus I<br />[[NTS0052]] Jäätmekäitlus II<br />[[NTK0680]] Juhtimine<br />[[NTM1120]] Keskkonnafüüsika<br />[[NTK0820]] Keskkonnajuhtimine<br />[[NTK0020]] Keskkonnakaitse<br />[[NTK0340]] Keskkonnakeemia<br />[[NTK0830]] Keskkonnakorraldus<br />[[NTK0560]] Keskkonnamajanduse alused<br />[[NTM0620]] Keskkonnamõju hindamine<br />[[NTK0520]] Keskkonnaõigus<br />[[NTK0770]] Keskkonnapoliitika<br />[[NTM0040]] Keskkonnapsühholoogia<br />[[NTK0460]] Keskkonnariski analüüs<br />[[NTK1191]] Keskkonnaseisundi kontroll I<br />[[NTK1192]] Keskkonnaseisundi kontroll II<br />[[NTS0160]] Lineaaralgebra<br />[[NTS0171]] Matemaatiline analüüs I<br />[[NTS0172]] Matemaatiline analüüs II<br />[[NTK0030]] Õigusõpetus<br />[[NTK1130]] Ökoinnovatsioon<br />[[NTK0110]] Ökoloogia<br />[[NTK0260]] Ökotoksikoloogia<br />[[NTK0940]] Olelusringi hindamine 1<br />[[NTK0010]] Õpingukorraldus<br />[[NTK0400]] Projektijuhtimine<br />[[NTS0070]] Riski- ja ohutusõpetus<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTK0960]] Suhtlemispsühholoogia<br />[[NTK0150]] Tarbimine ja tarbijakäitumine<br />[[NTS0200]] Tõenäosusteooria ja matemaatiline statistika<br />[[NTK1170]] Üldine keemia<br />[[NTK1180]] Üliõpilastööde koostamise põhimõtted</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEB06/15 - Keskkonnajuhtimine Kava:50290</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEB06/15 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:50290 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
+host: 82.131.7.230
+revision: 4
+minor: 1
+diff-major: 
 text: == NAEB06/15 - Keskkonnajuhtimine [Kava:50290 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTS0341]] Arvutigraafika I
@@ -64,4 +60,8 @@ text: == NAEB06/15 - Keskkonnajuhtimine [Kava:50290 〔Õppekava ÕIS-is〕]
 	[[NTK1180]] Üliõpilastööde koostamise põhimõtted
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924152
 keep-ts: 1441924152
+blocks: 
+username: AlexDaniel

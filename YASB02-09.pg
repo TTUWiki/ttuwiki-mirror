@@ -1,16 +1,4 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YASB02/09 - Rakenduskeemia ja biotehnoloogia [Kava:50048 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0070]] Ametipraktika<br />[[YKA0011]] Analüütiline keemia<br />[[YKI0031]] Anorgaaniline keemia I<br />[[YKB3330]] Biofüüsika<br />[[YSX0010]] Bioinformaatika I<br />[[YKL0060]] Biokeemia<br />[[YKB1130]] Biotehnoloogia I<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YKI0100]] Elementide keemia<br />[[YTP0101]] Ensümoloogia alused<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YKI0020]] Keemia alused<br />[[KYF3630]] Keemiainformaatika<br />[[KAT3181]] Keemiatehnika alused<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YKL0070]] Looduslike ühendite keemia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika<br />[[YKB3200]] Üldloodusteadus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YASB02/09 - Rakenduskeemia ja biotehnoloogia Kava:50048</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YASB02/09 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50048 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == YASB02/09 - Rakenduskeemia ja biotehnoloogia [Kava:50048 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0070]] Ametipraktika
@@ -51,4 +39,16 @@ text: == YASB02/09 - Rakenduskeemia ja biotehnoloogia [Kava:50048 〔Õppekava �
 	[[YKB3200]] Üldloodusteadus
 	
 	
+flags: 
+blocks: 
 keep-ts: 1441924155
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YASB02/09 - Rakenduskeemia ja biotehnoloogia Kava:50048</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YASB02/09 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50048 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+ts: 1441924155
+languages: 

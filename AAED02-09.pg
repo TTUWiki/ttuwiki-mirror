@@ -1,16 +1,15 @@
-flags: 010101010101010101010101010101010101010101010101010
-blocks: <h2>AAED02/09 - Energia- ja geotehnika [Kava:50118 〔Õppekava ÕIS-is〕]</h2><p>[[AXX9020]] Doktoriseminar<br />[[AMM9001]] Elektrikvaliteedi individuaalõpe<br />[[AES9020]] Elektroenergeetika teadusseminar I<br />[[AEK9020]] Elektroenergeetika teadusseminar II<br />[[AME9001]] Elektromagnetilise ühilduvuse individuaalõpe<br />[[AME9011]] Elektrotehnika teadusseminar I<br />[[AMM9011]] Elektrotehnika teadusseminar II<br />[[AES9010]] Energiasüsteemide individuaalõpe<br />[[AAV9110]] Energiatehnika ja elektrivarustuse individuaalõpe<br />[[AAV9120]] Energiatehnika teadusseminar<br />[[HHI9010]] Innovatsioon<br />[[HHP9010]] Juhtimispsühholoogia<br />[[AEK9010]] Kõrgepingetehnika individuaalõpe<br />[[HHP9030]] Kõrgkoolididaktika<br />[[AKM9170]] Mäenduse individuaalõpe<br />[[AKM9160]] Mäenduse teadusseminar II<br />[[AXX9011]] Õpetamispraktika I<br />[[AXX9012]] Õpetamispraktika II<br />[[AKG9130]] Rakendusgeoloogia individuaalõpe<br />[[AKG9120]] Rakendusgeoloogia teadusseminar I<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[AAR9110]] Tööstusautomaatika individuaalõpe<br />[[AAR9120]] Tööstusautomaatika teadusseminar</p>
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAED02/09 - Energia- ja geotehnika Kava:50118</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAED02/09 - Energia- ja geotehnika <strong class="changes">[</strong>Kava:50118 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
 minor: 1
+flags: 
 host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924148
 languages: 
+username: AlexDaniel
+blocks: 
 text: == AAED02/09 - Energia- ja geotehnika [Kava:50118 〔Õppekava ÕIS-is〕]
 	[[AXX9020]] Doktoriseminar
 	[[AMM9001]] Elektrikvaliteedi individuaalõpe
@@ -39,3 +38,4 @@ text: == AAED02/09 - Energia- ja geotehnika [Kava:50118 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924148
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

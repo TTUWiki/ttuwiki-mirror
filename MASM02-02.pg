@@ -1,16 +1,6 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>MASM02/02 - Soojusenergeetika [Kava:728 〔Õppekava ÕIS-is〕]</h2><p>[[MST0050]] Auru- ja gaasiturbiinid<br />[[YMR5720]] Diferentsiaalvõrrandid<br />[[AEK8141]] Elektriseadmed ja -edastus<br />[[MST0100]] Energeetikaseadmete metall ja konserveerimine<br />[[MSJ0070]] Eriautomaatika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF3060]] Filosoofia<br />[[MSE0050]] Katlatehnika erikursus<br />[[MSJ0080]] Kaugküttevõrgud<br />[[MTT0050]] Keevitus<br />[[MST0040]] Kompressormasinad<br />[[MSE0070]] Kütusemajandus<br />[[MHT0050]] Kvaliteeditehnika<br />[[MSJ0030]] Loodushoid energeetikas<br />[[YMR0020]] Matemaatikapaketid<br />[[MST0110]] Mittetraditsioonilised energiaallikad<br />[[TTO3160]] Õigusõpetus<br />[[MSJ002P]] Praktika<br />[[MSJ0060]] Soojuselektrijaamad<br />[[MSJ0140]] Soojuse transformatsioon<br />[[MST0091]] Soojusfüüsika erikursus<br />[[MST0060]] Soojus- ja massileviseadmed<br />[[MSJ0090]] Soojussünergeetika<br />[[HLX8040]] Teadusvõõrkeel<br />[[MST0080]] Tööstusahjud ja kuivatustehnoloogia<br />[[MSJ0050]] Tööstustorustikud<br />[[MSJ0111]] Tuumareaktorid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MASM02/02 - Soojusenergeetika Kava:728</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MASM02/02 - Soojusenergeetika <strong class="changes">[</strong>Kava:728 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+revision: 4
+flags: 
 text: == MASM02/02 - Soojusenergeetika [Kava:728 〔Õppekava ÕIS-is〕]
 	[[MST0050]] Auru- ja gaasiturbiinid
 	[[YMR5720]] Diferentsiaalvõrrandid
@@ -41,4 +31,14 @@ text: == MASM02/02 - Soojusenergeetika [Kava:728 〔Õppekava ÕIS-is〕]
 	[[MSJ0111]] Tuumareaktorid
 	
 	
+minor: 1
+ts: 1441924152
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MASM02/02 - Soojusenergeetika Kava:728</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MASM02/02 - Soojusenergeetika <strong class="changes">[</strong>Kava:728 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+host: 82.131.7.230
+blocks: 
 keep-ts: 1441924152

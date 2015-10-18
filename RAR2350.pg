@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ip: 89.235.235.166
-ts: 1441924450
-minor: 1
+keep-ts: 1441924450
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
+ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+lastmajor: 2
 languages: 
+flags: 1
+blocks: [Course:39346 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
 text: #SUBTITLE Elektrimasinad
 	#SUBURL [Course:39346 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924450

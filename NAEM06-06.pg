@@ -1,16 +1,7 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>NAEM06/06 - Tööstusökoloogia [Kava:3964 〔Õppekava ÕIS-is〕]</h2><p>[[NTK0740]] Arengumudelid<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0800]] Biomitmekesisuse korraldus ja -poliitika<br />[[NTK0950]] Eesti maastikud<br />[[NTM0560]] Eetika<br />[[NTK0810]] Euroopa Liidu ja Eesti keskkonnapoliitika<br />[[NTK0120]] Globaalsed keskkonnaprobleemid<br />[[NTK0680]] Juhtimine<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0830]] Keskkonnakorraldus<br />[[NTK0070]] Keskkonnameetmete ökonoomika<br />[[NTK0770]] Keskkonnapoliitika<br />[[NTK0330]] Keskkonnaseire<br />[[NTK0761]] Keskkonnateadlikkus ja keskkonnaharidus<br />[[NTK0762]] Keskkonnateadlikkus ja keskkonnaharidus - ainetöö<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTK0730]] Kvaliteedijuhtimine<br />[[NTK0840]] Loodusvarade kasutamine ja kaitse Euroopa Liidus<br />[[NTK0980]] Magistripraktika<br />[[NTK0270]] Nõuandetegevus<br />[[NTK0700]] Rahvuslik ja rahvusvaheline majandusareng<br />[[NTK0710]] Regionaalareng ja -planeerimine<br />[[NTK0750]] Säästev areng<br />[[NTM0870]] Sissejuhatus semiootikasse<br />[[NTK0960]] Suhtlemispsühholoogia<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTK0090]] Teadusvõõrkeel<br />[[NTK0201]] Tööstuslikud ökosüsteemid<br />[[NTK0202]] Tööstuslikud ökosüsteemid - ainetöö</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEM06/06 - Tööstusökoloogia Kava:3964</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEM06/06 - Tööstusökoloogia <strong class="changes">[</strong>Kava:3964 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == NAEM06/06 - Tööstusökoloogia [Kava:3964 〔Õppekava ÕIS-is〕]
 	[[NTK0740]] Arengumudelid
 	[[NTK0720]] Bioloogiline mitmekesisus
@@ -43,4 +34,13 @@ text: == NAEM06/06 - Tööstusökoloogia [Kava:3964 〔Õppekava ÕIS-is〕]
 	[[NTK0202]] Tööstuslikud ökosüsteemid - ainetöö
 	
 	
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEM06/06 - Tööstusökoloogia Kava:3964</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEM06/06 - Tööstusökoloogia <strong class="changes">[</strong>Kava:3964 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+host: 82.131.7.230
+revision: 4
+blocks: 
 keep-ts: 1441924152
+username: AlexDaniel

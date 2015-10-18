@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924449
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:106870 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+minor: 1
 keep-ts: 1441924449
+username: AlexDaniel
+revision: 2
+ts: 1441924449
+flags: 1
+host: 82.131.7.230
+blocks: [Course:106870 〔Õppeaine ÕIS-is〕]

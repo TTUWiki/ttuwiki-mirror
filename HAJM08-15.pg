@@ -1,16 +1,13 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAJM08/15 - Õigusteadus [Kava:50302 〔Õppekava ÕIS-is〕]</h2><p>[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse<br />[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid<br />[[HOE7170]] Autoriõigused ja naabrusõigused<br />[[HOA7023]] Avaliku õiguse eriseminar<br />[[HOE7090]] Biotehnoloogia ja intellektuaalne omand<br />[[HOE7023]] Digitaalsed tõendid<br />[[HOL7022]] EL vabadusel, turvalisusel ja õiglusel rajanev ala<br />[[HOL7021]] EL välissuhete õigus ja poliitika<br />[[HOE7001]] Eraõiguse eriseminar<br />[[IDK0300]] E-riigi infotehnoloogilised lahendused<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[HOE7070]] Euroopa eraõiguse mudelnormid<br />[[HOL7024]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs<br />[[HOL7001]] Euroopa Liidu konstitutsioon<br />[[HOL7020]] Euroopa Liidu õiguse rakendamise meetodid ja praktika<br />[[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs<br />[[HOE7210]] E-valitsuse õiguslikud aspektid<br />[[HOA7020]] Halduskohtumenetlus<br />[[HOE7050]] IKT õigus<br />[[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse<br />[[HOL7023]] Inimõigused ja tehnoloogia<br />[[HOE7160]] Intellektuaalne omand ja konkurentsiõigus<br />[[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus<br />[[HOE7027]] Kindlustusõigus<br />[[HOX7009]] Kinnisvara- ja planeerimisõigus<br />[[HOE7025]] Krediidiasutuste õigus<br />[[HOA7021]] Kriminaalmenetlus<br />[[HOA7022]] Kriminaalõiguse eriseminar<br />[[HOE7150]] Küberkaitse ja õigus<br />[[HOX7020]] Lõputöö 1. seminar<br />[[HOX7021]] Lõputöö 2. seminar<br />[[HOA7007]] Maksuõigus<br />[[IDU0450]] Meeskonnatöö - projekt<br />[[HOX7007]] Õigusalane praktika<br />[[HOX7002]] Õigusteaduse metodoloogia<br />[[HOE7022]] Rahvusvaheline äriõigus<br />[[HOE7060]] Rahvusvaheline eraõigus<br />[[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi<br />[[HOE7110]] Tööstusomand<br />[[HOE7021]] Tsiviilkohtumenetlus<br />[[HOE7026]] Väärtpaberituru õigus<br />[[HOX7006]] Vaidluste kohtuväline lahendamine<br />[[HOE7024]] Võrdlev perekonnaõigus</p>
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAJM08/15 - Õigusteadus Kava:50302</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAJM08/15 - Õigusteadus <strong class="changes">[</strong>Kava:50302 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 4
-diff-major: 
+blocks: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
 languages: 
+flags: 
+host: 82.131.7.230
 text: == HAJM08/15 - Õigusteadus [Kava:50302 〔Õppekava ÕIS-is〕]
 	[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse
 	[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid
@@ -57,4 +54,7 @@ text: == HAJM08/15 - Õigusteadus [Kava:50302 〔Õppekava ÕIS-is〕]
 	[[HOE7024]] Võrdlev perekonnaõigus
 	
 	
-keep-ts: 1441924150
+username: AlexDaniel
+ts: 1441924150
+diff-major: 
+minor: 1

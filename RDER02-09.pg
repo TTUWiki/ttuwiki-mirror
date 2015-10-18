@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>RDER02/09 - Masinaehitustehnoloogia [Kava:50039 〔Õppekava ÕIS-is〕]</h2><p>[[RAR0110]] Arvestuse alused<br />[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid<br />[[RAR3190]] Elektroonika<br />[[RAR3130]] Elektrotehnika<br />[[RAX0511]] Erialane võõrkeel I<br />[[RAX0512]] Erialane võõrkeel II<br />[[RAR2851]] Erialapraktika I<br />[[RAR2852]] Erialapraktika II<br />[[RAR3410]] Ettevõtlus<br />[[RAR0200]] Ettevõtte majandusõpetus<br />[[RAR0070]] Hüdro- ja pneumoajam<br />[[RAR3111]] Informaatika I<br />[[RAR3112]] Informaatika II<br />[[RAR3140]] Insenerigraafika<br />[[RAR3310]] Juhtimine<br />[[RAR3320]] Juhtimine - ainetöö<br />[[RAH3170]] Keskkonnakaitse<br />[[RAR3330]] Kvaliteeditehnika<br />[[RAR3050]] Lineaaralgebra<br />[[RAR3270]] Makro- ja mikroökonoomika<br />[[RAR0050]] Masinate projekteerimine<br />[[RAR3061]] Matemaatiline analüüs I<br />[[RAR3072]] Matemaatiline analüüs II<br />[[RAR2610]] Materjalitehnika<br />[[RAR3210]] Mikroprotsessortehnika<br />[[RAR3100]] Mõõtmine ja mõõtevahendid<br />[[RAH3140]] Õigusõpetus<br />[[RAR2800]] Õpingukorraldus<br />[[RAR0061]] Õppepraktika<br />[[RAH0050]] Organisatsioonipsühholoogia<br />[[RAR3180]] Raalprojekteerimise alused<br />[[RAR3300]] Rakendusstatistika<br />[[RAR3460]] Riski- ja ohutusõpetus<br />[[RAR3340]] Seadmete remondi plaanimine<br />[[RAR3090]] Soojustehnika<br />[[RAR1290]] Tehniline füüsika<br />[[RAR2590]] Teoreetiline mehaanika<br />[[RAR3390]] Töö- ja palgakorraldus<br />[[RAR0062]] Töökeskkonna praktika<br />[[RAR0140]] Tööstusettevõtte infosüsteemid<br />[[RAR0080]] Tootearendus ja probleemilahendus<br />[[RAR0130]] Tootearendusprojekti juhtimine ja ettevõtte asutamine<br />[[RAR3370]] Tootlikkuse juhtimine<br />[[RAR3360]] Tootmise plaanimine<br />[[RAR3470]] Tootmistehnika alused<br />[[RAR2600]] Tugevusõpetus<br />[[RAR0120]] Turundus<br />[[RAX0480]] Üldvõõrkeel<br />[[RAH0740]] Väljendusõpetus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDER02/09 - Masinaehitustehnoloogia Kava:50039</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDER02/09 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:50039 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == RDER02/09 - Masinaehitustehnoloogia [Kava:50039 〔Õppekava ÕIS-is〕]
 	[[RAR0110]] Arvestuse alused
 	[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid
@@ -63,4 +50,17 @@ text: == RDER02/09 - Masinaehitustehnoloogia [Kava:50039 〔Õppekava ÕIS-is〕
 	[[RAH0740]] Väljendusõpetus
 	
 	
+username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
 keep-ts: 1441924152
+ts: 1441924152
+host: 82.131.7.230
+blocks: 
+flags: 
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDER02/09 - Masinaehitustehnoloogia Kava:50039</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDER02/09 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:50039 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+diff-major: 

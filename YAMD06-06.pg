@@ -1,16 +1,10 @@
-flags: 01010101010101010101010101010101010101010101010101010
-blocks: <h2>YAMD06/06 - Maa-teadused [Kava:4016 〔Õppekava ÕIS-is〕]</h2><p>[[NGG9070]] Ametipraktika<br />[[NSO9095]] Ametipraktika okeanograafias<br />[[NSO9020]] Atmosfääri- ja kliimateaduste alused<br />[[NGG9011]] Erialase teadustöö ja õpetamise metoodika<br />[[NSO9090]] Eriseminar okeanograafias<br />[[NGG9065]] Füüsikalise geoloogia erikursus<br />[[NGG9050]] Füüsikalise geoloogia eriseminar<br />[[NGG9060]] Geoloogilised protsessid ja füüsikalis-keemilised meetodid geoloogias<br />[[HHP9010]] Juhtimispsühholoogia<br />[[HHP9020]] Kõrgkoolididaktika<br />[[NGG9020]] Maasüsteemi teaduste alused<br />[[NGG9015]] Meregeoloogia ja sedimentoloogia alused<br />[[NSO9060]] Okeanograafia erikursus<br />[[NSO9094]] Okeanograafia teadustöö ja õpetamise metoodika<br />[[NSO9070]] Okeanograafilise andmetöötluse erikursus<br />[[NSO9080]] Okeanograafilise modelleerimise erikursus<br />[[TMK9310]] Projektijuhtimine<br />[[NGG9010]] Sissejuhatus füüsikalisse geoloogiasse<br />[[NGG9085]] Spetsialiseerumine füüsikalises geoloogias, koondeksam<br />[[NSO9035]] Spetsialiseerumine okeanograafias<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[NGG9080]] Üldine geoloogia, koondeksam<br />[[NSO9030]] Üldine okeanograafia<br />[[NSO9010]] Veeteaduste alused</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAMD06/06 - Maa-teadused Kava:4016</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAMD06/06 - Maa-teadused <strong class="changes">[</strong>Kava:4016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+revision: 4
+ts: 1441924155
+username: AlexDaniel
 languages: 
+keep-ts: 1441924155
 text: == YAMD06/06 - Maa-teadused [Kava:4016 〔Õppekava ÕIS-is〕]
 	[[NGG9070]] Ametipraktika
 	[[NSO9095]] Ametipraktika okeanograafias
@@ -39,4 +33,10 @@ text: == YAMD06/06 - Maa-teadused [Kava:4016 〔Õppekava ÕIS-is〕]
 	[[NSO9010]] Veeteaduste alused
 	
 	
-keep-ts: 1441924155
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+flags: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAMD06/06 - Maa-teadused Kava:4016</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAMD06/06 - Maa-teadused <strong class="changes">[</strong>Kava:4016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230

@@ -1,8 +1,10 @@
-blocks: <h2>Course material</h2><p>Course material is handed over during lessons.<br />There is no proper course material available for download. Some help is in <a class="url http outside" href="https://moodle.hitsa.ee/course/view.php?id=2880">Moodle</a>, but Moodle itself is real agony (user&#x2019;s point of view)</p><h2>Upcoming Events</h2><ul><li>Last Lesson is hold on <strong>Nov. 12th</strong><br /></li><li>Informative presentation either <strong>19 or 23 or 26th November</strong></li></ul><h2>Examination</h2><p>Examination procedure is well described <a class="url http outside" href="http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf">here</a></p>
-lastmajorsummary: 
-ip: 89.235.235.166
-diff-major: 1
 summary: 
+revision: 6
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony <strong class="changes">(user's point of view)</strong></p></div>
+host: 86.110.37.246
+diff-major: 1
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -21,15 +23,13 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-languages: 
-lastmajor: 6
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony <strong class="changes">(user's point of view)</strong></p></div>
-flags: 0
-ts: 1444367038
-minor: 
-host: 86.110.37.246
-username: Ain_Laidoja
-revision: 6
+blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
 keep-ts: 1444367038
+flags: 1
+lastmajor: 6
+minor: 
+ts: 1444367038
+ip: 89.235.235.166
+username: Ain_Laidoja
+languages: 
+lastmajorsummary: 

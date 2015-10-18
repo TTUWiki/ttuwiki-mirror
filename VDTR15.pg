@@ -1,12 +1,12 @@
-flags: 010
-blocks: &lt;include "VDTR15-15"&gt;
-ts: 1438887439
-minor: 1
+blocks: 
 host: 85.253.110.44
-username: Bot
 revision: 1
+minor: 1
+languages: 
+username: Bot
+ts: 1438887439
 summary: Автоматическое обновление
+flags: 
 text: <include "VDTR15-15">
 	
 	
-languages: 

@@ -1,13 +1,3 @@
-flags: 0
-blocks: <p>Ходить на лекции не обязательно, но на харьютусы лучше походить, т.к. по ним пишется две контрольные. Контрольные не сложные.</p><p>Лабораторная работа состоит из разных работ, но делаются все за один раз, второй раз уже приходите их защищать.</p><p>Экзамен устный, в начале преподаватель дает два вопроса, вы идете готовиться в библиотеку смело на 3-4 часа, выписываете ответы на свой листок и потом по нему уже отвечаете. Очень любит много формул, а особенно, как их вывели. Без них трудно рассчитывать на нормальную оценку.</p><p>Здесь находятся лекции и другие материалы </p><p><a class="url http" href="http://www.lr.ttu.ee/irm/lainevaljad/">http://www.lr.ttu.ee/irm/lainevaljad/</a></p>
-ip: 84.52.48.194
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 6
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Laineväljad
 	#SUBURL [Course:29755 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +11,15 @@ text: #SUBTITLE Laineväljad
 	
 	http://www.lr.ttu.ee/irm/lainevaljad/
 	
-lastmajor: 3
+ts: 1441924447
+languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 6
+host: 82.131.7.230
 keep-ts: 1441924447
+lastmajor: 3
+flags: 1
+minor: 1
+ip: 84.52.48.194
+blocks: [Course:29755 〔Õppeaine ÕIS-is〕]
