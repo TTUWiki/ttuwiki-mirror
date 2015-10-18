@@ -1,13 +1,4 @@
-ts: 1445155389
-minor: 
-keep-ts: 1445155389
-summary: EST translation added
-revision: 10
-username: MaryBoom
-host: 85.253.53.160
-languages: 
-lastmajorsummary: EST translation added
-lastmajor: 10
+minor: 1
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -16,7 +7,7 @@ text: #ENG
 	You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don't feel like editing a page, then you can also leave a comment.
 	
 	#EST
-	Tere tulemast mitteametlikku Tallinna Tehnikaülikooli wikisse (wiki on veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta.)!
+	Tere tulemast mitteametlikku Tallinna Tehnikaülikooli wikisse (wiki on veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta)!
 	
 	Siin saad oma kogemusi jagada ja teiste nõuandeid lugeda. Kui tead mingit ülikooliga seotud [[Lifehacks|lifehack-i]], palun jaga seda teistega siin, [[http://ttuwiki.ee TTÜWikis]]!
 	
@@ -36,3 +27,12 @@ text: #ENG
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
+lastmajorsummary: EST translation added
+username: MaryBoom
+lastmajor: 10
+keep-ts: 1445155421
+languages: 
+ts: 1445155421
+revision: 11
+summary: EST translation added
+host: 85.253.53.160
