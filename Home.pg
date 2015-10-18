@@ -1,23 +1,27 @@
-languages: 
-minor: 1
-ts: 1445146804
-lastmajor: 4
-keep-ts: 1445146804
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee <strong class="changes">TTUWiki</strong>]]!</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee <strong class="changes">TTÜWiki</strong>]]!</p></div>
-summary: translations
-lastmajorsummary: 
-diff-major: 
+ts: 1445155389
+minor: 
+keep-ts: 1445155389
+summary: EST translation added
+revision: 10
+username: MaryBoom
 host: 85.253.53.160
-revision: 9
+languages: 
+lastmajorsummary: EST translation added
+lastmajor: 10
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
 	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee TTÜWiki]]!
 	
 	You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don't feel like editing a page, then you can also leave a comment.
+	
+	#EST
+	Tere tulemast mitteametlikku Tallinna Tehnikaülikooli wikisse (wiki on veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta.)!
+	
+	Siin saad oma kogemusi jagada ja teiste nõuandeid lugeda. Kui tead mingit ülikooliga seotud [[Lifehacks|lifehack-i]], palun jaga seda teistega siin, [[http://ttuwiki.ee TTÜWikis]]!
+	
+	Iga lehekülje sisu saab muuta ning täiendada. Iga panus on oodatud!
+	
 	#RUS
 	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
 	
