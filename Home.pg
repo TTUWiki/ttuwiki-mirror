@@ -1,16 +1,21 @@
-host: 85.253.53.160
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. <strong class="changes">[[http://ttuwiki.ee/?action=pagediff&amp;pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&amp;page1=IABB02-14&amp;page2=IAPB02-14|Пример]].</strong></p></div>
-keep-ts: 1445145725
 languages: 
-lastmajorsummary: 
 minor: 1
-summary: example
+ts: 1445146804
+lastmajor: 4
+keep-ts: 1445146804
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee <strong class="changes">TTUWiki</strong>]]!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee <strong class="changes">TTÜWiki</strong>]]!</p></div>
+summary: translations
+lastmajorsummary: 
+diff-major: 
+host: 85.253.53.160
+revision: 9
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
-	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee TTUWiki]]!
+	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[http://ttuwiki.ee TTÜWiki]]!
 	
 	You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don't feel like editing a page, then you can also leave a comment.
 	#RUS
@@ -27,8 +32,3 @@ text: #ENG
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-ts: 1445145725
-lastmajor: 4
-username: AlexDaniel
-diff-major: 
-revision: 8
