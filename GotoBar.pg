@@ -1,4 +1,14 @@
-ip: 89.235.239.240
+revision: 9
+keep-ts: 1445146551
+lastmajor: 7
+diff-minor: 
+lastmajorsummary: Useful stuff = Kasulik info?
+languages: 
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[Useful Stuff]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[Useful Stuff<strong class="changes">|Kasulik info</strong>]]</p></div>
+ts: 1445146551
+minor: 1
 text: #LANG_NO_BUTTONS EST
 	[[Home|Pealeht]]
 	[[Useful Stuff|Kasulik info]]
@@ -23,25 +33,7 @@ text: #LANG_NO_BUTTONS EST
 	[[lang:ee EST]]
 	[[lang:ru RUS]]
 	
-	
-revision: 8
 username: AlexDaniel
-summary: cache
-blocks: #LANG_NO_BUTTONS EST
-	<p>[[Home|Pealeht]]<br />[[Useful Stuff|Kasulik info]]<br />[[Timetables|Tunniplaanid]]<br />[[Ask|Küsi]]<br />[[Recent Changes|Viimased muudatused]]<br /></p>#LANG_NO_BUTTONS ENG
-	<p>[[Home]]<br />[[Useful Stuff]]<br />[[Timetables]]<br />[[Ask]]<br />[[Recent Changes]]<br /></p>#LANG_NO_BUTTONS RUS
-	<p>[[Home|Главная]]<br />[[Useful Stuff|Полезное]]<br />[[Timetables|Расписания]]<br />[[Ask|Спросить]]<br />[[Recent Changes|Изменения]]<br /></p>#LANG_END
-	
-	<p>[[lang:en ENG]]<br />[[lang:ee EST]]<br />[[lang:ru RUS]]</p>
-lastmajor: 7
-minor: 1
-languages: 
-diff-minor: 
-ts: 1445142383
-flags: 010101010101010101010101010101010101010101010
 host: 85.253.53.160
-lastmajorsummary: Useful stuff = Kasulik info?
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Useful Stuff]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[Useful Stuff<strong class="changes">|Kasulik info</strong>]]</p></div>
-keep-ts: 1445142383
+ip: 89.235.239.240
+summary: cache
