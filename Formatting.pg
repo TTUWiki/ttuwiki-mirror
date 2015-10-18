@@ -1,6 +1,5 @@
-summary: translations
-revision: 6
-languages: 
+minor: 1
+lastmajorsummary: Translations
 text: #ENG
 	You can play around with wiki syntax **on [[Scratch|this page]]**.
 	
@@ -128,16 +127,10 @@ text: #ENG
 	
 	**Результат** смотрите, например, **на [[MSJ0120]]**.
 	
-ts: 1445146075
 keep-ts: 1445146075
-lastmajor: 2
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == Other</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == Other <strong class="changes">/ … / Другое</strong></p></div>
-lastmajorsummary: Translations
-host: 85.253.53.160
-minor: 1
+languages: 
+summary: translations
+ts: 1445146075
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; You can play around with wiki syntax **on [[Scratch|this page]]**.<br />&gt; #RUS<br />&gt; Опробовать возможности **можно [[Scratch|на этой странице]]**.<br />&gt; == Basics / / Основы<br />&gt; #ENG<br />&gt; |= Wiki text |= Rendered |<br />&gt; | {{{**rasvane kiri**}}} | **rasvane kiri** |<br />&gt; | {{{//kaldkiri//}}} | //kaldkiri// |<br />&gt; | {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |<br />&gt; #EST</strong></p></div><p><strong>Changed:</strong></p>
@@ -151,3 +144,12 @@ diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; ===Kood</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; === <strong class="changes">Code /</strong> Kood <strong class="changes">/ Код</strong></p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; == File uploads / … / Загрузка файлов<br />&gt; #RUS<br />&gt; Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида {{{[[File:название файла]]}}}. Это просто сокращенный вариант ссылки {{{[[http://files.ttuwiki.org/название файла]]}}}.<br />&gt; Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой {{{image:}}}, то есть вот так: {{{[[image:File:название файла]]}}}. Таким образом, картинка будет показана прямо на сайте.<br />&gt; Если хотите, чтобы картинка отображалась справа, то вместо {{{image:}}} можно написать ##image/right:##, то есть {{{[[image/right:File:название файла]]}}}.<br />&gt; **Результат** смотрите, например, **на [[MSJ0120]]**.</p></div>
+revision: 6
+flags: 0
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == Other</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == Other <strong class="changes">/ … / Другое</strong></p></div>
+blocks: </div></div>
+lastmajor: 2
+host: 85.253.53.160
