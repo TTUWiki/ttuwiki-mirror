@@ -1,11 +1,8 @@
-summary: 
-host: 86.110.37.246
-minor: 
-username: 
+diff-major: 
 blocks: #ENG
-	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!</p><p>Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on <a class="url http outside" href="http://ttuwiki.ee">TTUWiki</a>!</p><p>You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don&#x2019;t feel like editing a page, then you can also leave a comment.<br /></p>#RUS
-	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!</p><p>Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на <a href="http://ttuwiki.ee" class="url http outside">TTUWiki</a>!</p><p>Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.</p></div></div><h2>Navigation / Teaduskonnad / Навигация</h2>&lt;include "Õppekavad"&gt;
-	<h5>Сравнить учебные программы:</h5><p>Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите <strong>Сравнить</strong>. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.<br /><form method="get" action="http://ttuwiki.ee" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff"><input value="pagediff" name="action" type="hidden" /><input value="^\w\w\w\w\d\d-\d\d$" type="hidden" name="pattern" /><select name="page1" >
+	<p>Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!</p><p>Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on <a href="http://ttuwiki.ee" class="url http outside">TTUWiki</a>!</p><p>You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don&#x2019;t feel like editing a page, then you can also leave a comment.<br /></p>#RUS
+	<p>Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!</p><p>Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на <a class="url http outside" href="http://ttuwiki.ee">TTUWiki</a>!</p><p>Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.</p></div></div><h2>Navigation / Teaduskonnad / Навигация</h2>&lt;include "Õppekavad"&gt;
+	<h5>Compare Programmes / … / Сравнить учебные программы:</h5><p>Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите <strong>Сравнить</strong>. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.<br /><form method="get" action="http://ttuwiki.ee" enctype="multipart/form-data" accept-charset="utf-8" class="pagediff"><input value="pagediff" name="action" type="hidden" /><input type="hidden" value="^\w\w\w\w\d\d-\d\d$" name="pattern" /><select name="page1" >
 	<option value="AAAB02-02">AAAB02-02</option>
 	<option value="AAAB02-04">AAAB02-04</option>
 	<option value="AAAB02-09">AAAB02-09</option>
@@ -763,9 +760,16 @@ blocks: #ENG
 	<option value="YVEM09-09">YVEM09-09</option>
 	<option value="YVEM09-11">YVEM09-11</option>
 	<option value="YVEM09-14">YVEM09-14</option>
-	</select> <input type="submit" name="" value="Erinevused" /></form></p>
+	</select> <input type="submit" name="" value="Сравнить" /></form></p>
 lastmajor: 4
-ts: 1444805614
+ts: 1445142608
+revision: 5
+minor: 1
+host: 85.253.53.160
+flags: 01010101010
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===== Сравнить учебные программы:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ===== <strong class="changes">Compare Programmes / … /</strong> Сравнить учебные программы:</p></div>
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -782,12 +786,12 @@ text: #ENG
 	== Navigation / Teaduskonnad / Навигация
 	<include "Õppekavad">
 	
-	===== Сравнить учебные программы:
+	===== Compare Programmes / … / Сравнить учебные программы:
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-keep-ts: 1444805614
-lastmajorsummary: 
-revision: 4
+summary: English translation
+keep-ts: 1445142608
 languages: 
-flags: 01010101010
+lastmajorsummary: 
+username: AlexDaniel
