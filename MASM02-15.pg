@@ -1,5 +1,9 @@
-keep-ts: 1444820417
+minor: 
 languages: 
+blocks: 
+username: AlexDaniel
+lastmajor: 6
+lastmajorsummary: For now, let's leave it like this.
 text: == MASM02/15 - Soojusenergeetika [Kava:50299 〔Õppekava ÕIS-is〕]
 	Tunniplaanid: ^^[Ti:38372 MASM11] [Ti:37010 MASM31]^^
 	
@@ -37,13 +41,9 @@ text: == MASM02/15 - Soojusenergeetika [Kava:50299 〔Õppekava ÕIS-is〕]
 	[[MSJ0170]] Tuumareaktorid
 	
 	
-username: AlexDaniel
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010
+flags: 
 revision: 6
-lastmajorsummary: For now, let's leave it like this.
-minor: 
-lastmajor: 6
+keep-ts: 1444820417
 ts: 1444820417
-host: 82.131.4.24
 summary: For now, let's leave it like this.
-blocks: <h2>MASM02/15 - Soojusenergeetika [Kava:50299 〔Õppekava ÕIS-is〕]</h2><p>Tunniplaanid: <sup>[Ti:38372 MASM11] [Ti:37010 MASM31]</sup></p><p>[[MER0100]] Arendustöö ja innovatsioon<br />[[MST0050]] Auru- ja gaasiturbiinid<br />[[MSE0270]] Biomassi termokeemiline muundamine<br />[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[AEK8141]] Elektriseadmed ja -edastus<br />[[AES0180]] Elektrituru juhtimismäng<br />[[MST0100]] Energeetikaseadmete metall ja konserveerimine<br />[[AES0200]] Energiasüsteemi strateegiline arendamine<br />[[TMJ3331]] Ettevõtlus ja äri planeerimine<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[MSE0180]] Katlatehnika erikursus<br />[[MXX0060]] Keevitus ja keeviskonstruktsioonid<br />[[MST0040]] Kompressormasinad<br />[[MSE0070]] Kütusemajandus<br />[[MSJ0030]] Loodushoid energeetikas<br />[[MXX0040]] Magistriseminar<br />[[MSE0310]] Mikro- ja väike koostootmine<br />[[TTO3160]] Õigusõpetus<br />[[MER0130]] Optimeerimismeetodid<br />[[MSJ0340]] Põlevkivi termilise töötlemise tehnoloogiad<br />[[MSJ002P]] Praktika<br />[[MSJ0180]] Soojusautomaatika<br />[[MSJ0060]] Soojuselektrijaamad<br />[[MST0060]] Soojus- ja massileviseadmed<br />[[MST0071]] Soojusjõuseadmed<br />[[MSJ0120]] Soojuspumbad<br />[[HLX8040]] Teadusvõõrkeel<br />[[MST0081]] Tööstusahjud ja kuivatustehnoloogia<br />[[MSJ0160]] Tööstustorustikud ja kaugküttevõrgud<br />[[AEK0060]] Tuuleenergeetika<br />[[MSJ0170]] Tuumareaktorid</p>
+host: 82.131.4.24

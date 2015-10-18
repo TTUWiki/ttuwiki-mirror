@@ -1,13 +1,5 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a class="url http" href="http://cloud.ld.ttu.ee/idu0080/Kursusetutvustus.aspx">http://cloud.ld.ttu.ee/idu0080/Kursusetutvustus.aspx</a></p><p>&#x2013; MaryBoom 2015-08-06 17:19:47</p></div>
-ip: 89.235.235.166
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+minor: 1
 text: #SUBTITLE Veebiteenused ja Interneti-lahenduste arhitektuur
 	#SUBURL [Course:32181 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -19,5 +11,13 @@ text: #SUBTITLE Veebiteenused ja Interneti-lahenduste arhitektuur
 	-- MaryBoom 2015-08-06 17:19:47
 	
 	
-lastmajor: 4
+ip: 89.235.235.166
+revision: 5
 keep-ts: 1441924447
+languages: 
+username: AlexDaniel
+ts: 1441924447
+blocks: [Course:32181 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 4
+flags: 1

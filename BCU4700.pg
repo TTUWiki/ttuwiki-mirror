@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924444
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 1
+blocks: [Course:109380 〔Õppeaine ÕIS-is〕]
 revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Sissejuhatus käitumisökonoomikasse
 	#SUBURL [Course:109380 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924444
 languages: 
+username: AlexDaniel
 keep-ts: 1441924444

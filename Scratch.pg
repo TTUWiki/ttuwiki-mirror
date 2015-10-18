@@ -1,23 +1,14 @@
-flags: 00
-blocks: <p>Если редактируете эту страницу, то помечайте правку как <b>незначительную</b>!</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><ul><li>&#x201c;&#x201d;&#x201c;Blockquotes.&#x201d;&#x201d;&#x201d;</li><li><q>Inline quotes.</q></li><li><sup>Superscripted</sup> text.</li><li><sub>Subscripted</sub> text.</li><li><code>Monospaced</code> text.</li><li><span style="font-variant: small-caps">Small caps</span> text.</li></ul><p><br /><br /></p><h1>This is heading 1</h1><p>Text<br /></p><h2>This is heading 2</h2><p>Text<br /></p><h3>This is heading 3</h3><p>Text<br /></p><h4>This is heading 4</h4><p>Text<br /></p><h5>This is heading 5</h5><p>Text<br /></p><h6>This is heading 6</h6><p>Text</p><p><br /><br /></p><dl><dt>term1</dt><dd>definition1</dd><dt>term2</dt><dd>definition2</dd></dl></div>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[File:somehtml.html]]</p></div>
-ip: 89.235.231.110
-ts: 1391526292
-minor: 1
-host: 89-235-231-110.saturn.infonet.ee
 username: AlexDaniel
-revision: 6
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2014-02-01 21:14 UTC</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Text</strong></p></div>
+host: 89-235-231-110.saturn.infonet.ee
+ts: 1391526292
+keep-ts: 1391526292
 summary: 
+ip: 89.235.231.110
 languages: 
+revision: 6
+minor: 1
+flags: 
+lastmajor: 2
 text: Если редактируете эту страницу, то помечайте правку как *незначительную*!
 	
 	
@@ -52,5 +43,14 @@ text: Если редактируете эту страницу, то помеч
 	:definition2
 	
 	
-lastmajor: 2
-keep-ts: 1391526292
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Text</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2014-02-01 21:14 UTC</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Text</strong></p></div>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[File:somehtml.html]]</p></div>
+blocks: 

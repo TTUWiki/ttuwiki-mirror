@@ -1,11 +1,11 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924444
+blocks: [Course:109501 〔Õppeaine ÕIS-is〕]
 minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+host: 82.131.7.230
+ts: 1441924444
+revision: 2
 text: #SUBTITLE Arhitektuuri ja linnaehitusteooriate peegeldused 1 [TTÜ workshop]
 	#SUBURL [Course:109501 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.

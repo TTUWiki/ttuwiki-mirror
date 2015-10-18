@@ -1,16 +1,16 @@
-flags: 010
-blocks: &lt;include "VAEM14-14"&gt;
-diff-minor: 
-ts: 1408891663
-minor: 1
 host: 89.235.223.25
-username: Bot
-revision: 2
-summary: Автоматическое обновление (расписание)
-diff-major: 
 languages: 
+keep-ts: 1408891663
+revision: 2
+minor: 1
+diff-major: 
+summary: Автоматическое обновление (расписание)
+ts: 1408891663
+blocks: 
 text: <include "VAEM14-14">
 	
 	
 	
-keep-ts: 1408891663
+diff-minor: 
+flags: 
+username: Bot

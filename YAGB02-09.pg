@@ -1,16 +1,16 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAGB02/09 - Geenitehnoloogia [Kava:50069 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0011]] Analüütiline keemia<br />[[YTM0033]] Arengubioloogia<br />[[YSX0010]] Bioinformaatika I<br />[[YSX0020]] Bioinformaatika II<br />[[YKL0060]] Biokeemia<br />[[DMK0041]] Biomeditsiin<br />[[YTG0020]] Botaanika<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[YTP0101]] Ensümoloogia alused<br />[[HHF3080]] Filosoofia<br />[[YFR0030]] Füüsika<br />[[KYF0080]] Füüsikaline ja kolloidkeemia<br />[[YTG0011]] Geenitehnoloogia I<br />[[YTM0060]] Geneetika<br />[[YTP0070]] Genoomika ja proteoomika<br />[[YTM0051]] Histoloogia ja koetehnoloogia<br />[[YTD0034]] Immunoloogia I<br />[[IDK0091]] Informaatika I (tehnika)<br />[[YTD0040]] Katseloomade tehnika<br />[[YKI0020]] Keemia alused<br />[[YTD0016]] Kliinilis-laboratoorsed meetodid<br />[[YTX0030]] Laboratooriumi praktika<br />[[YMA3710]] Lineaaralgebra<br />[[YTM0020]] Looma- ja taimefüsioloogia<br />[[YMM3731]] Matemaatiline analüüs I<br />[[KTT0012]] Mikrobioloogia - praktikum<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KTT0041]] Mikroobifüsioloogia<br />[[YTD0011]] Molekulaardiagnostika<br />[[YTM0011]] Molekulaar- ja rakubioloogia<br />[[YTM0012]] Molekulaar- ja rakubioloogia - praktikum<br />[[YTM0041]] Neurobioloogia I<br />[[TTO3160]] Õigusõpetus<br />[[YTG0050]] Ökoloogia ja looduskaitse<br />[[UTT0010]] Õpingukorraldus<br />[[YKO0070]] Orgaaniline keemia I<br />[[YKO5606]] Orgaaniline keemia II<br />[[MHT0030]] Rakendusstatistika<br />[[YXX0010]] Riski- ja ohutusõpetus keemias ja biotehnoloogias<br />[[YTG0130]] Viroloogia<br />[[YTG0030]] Zooloogia<br />[[YTG0070]] Zooloogia ja botaanika välipraktikum</p>
+flags: 
+revision: 4
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAGB02/09 - Geenitehnoloogia Kava:50069</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAGB02/09 - Geenitehnoloogia <strong class="changes">[</strong>Kava:50069 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924155
 minor: 1
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+blocks: 
+username: AlexDaniel
 text: == YAGB02/09 - Geenitehnoloogia [Kava:50069 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0011]] Analüütiline keemia

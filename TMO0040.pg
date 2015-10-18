@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ip: 89.235.235.166
-ts: 1441924451
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 1
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 languages: 
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Organisatsioonikäitumine
 	#SUBURL [Course:38519 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 lastmajor: 2
-keep-ts: 1441924451
+ip: 89.235.235.166
+ts: 1441924451
+host: 82.131.7.230
+blocks: [Course:38519 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

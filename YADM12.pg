@@ -1,20 +1,20 @@
-flags: 010
-blocks: &lt;include "YADM12-13"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== YADM12/13 - Biomeditsiinitehnika ja meditsiinifüüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50203&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[DBR0210]] Anatoomia ja füsioloogia\\<br />&lt; [[LOFY.01.134]] Bioelektromagnetism\\<br />&lt; [[DBB0220]] Biomeditsiiniseadmed\\<br />&lt; [[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt\\<br />&lt; [[LOFY.01.125]] Biomehaanika alused ja biomaterjalid\\<br />&lt; [[DBR0030]] Digitaalne signaali- ja pilditöötlus\\<br />&lt; [[DBR0080]] Elektromagnetväljad ja -lained\\<br />&lt; [[LOFY.01.135]] Elussüsteemid\\<br />&lt; [[LOFY.01.129]] Erialased seminarid ja ettekanded\\<br />&lt; [[LOFY.01.133]] Funktsionaalse anatoomia põhimõisted\\<br />&lt; [[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon\\<br />&lt; [[DBR0040]] Füsioloogiliste signaalide töötlus\\<br />&lt; [[ARFS.01.016]] Inimese füsioloogia\\<br />&lt; [[LOFY.01.118]] Kiirgusbioloogia ja kiiritusravi alused\\<br />&lt; [[DBR0280]] Kvaliteet radioloogias\\<br />&lt; [[LOFY.01.126]] Lineaarsed ahelad ja süsteemid\\<br />&lt; [[LOFY.01.127]] Meditsiinis kasutatavad kiirgused\\<br />&lt; [[LOFY.01.116]] Meditsiinitehnoloogia korraldus\\<br />&lt; [[DBB0010]] Mikrolaine</strong>- <strong class="changes">ja optiline tehnika\\<br />&lt; [[DBR0130]] Mõõtmised füsioloogias\\<br />&lt; [[LOFY.01.131]] Müomeetria\\<br />&lt; [[DBB0300]] Optoelektroonika ja integraaloptika\\<br />&lt; [[DBR0220]] Piltdiagnostika füüsikalised alused\\<br />&lt; [[DBB0240]] Praktika I\\<br />&lt; [[LOFY.01.130]] Praktika II\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YADM12</strong>-<strong class="changes">13"&gt;</strong></p></div>
-ip: 89.235.235.166
-ts: 1408885933
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
 diff-major: 
-summary: Автоматическое обновление (расписание)
-languages: 
+username: Bot
+ts: 1408885933
+ip: 89.235.235.166
+lastmajor: 1
+flags: 
 text: <include "YADM12-13">
 	
 	
 	
-lastmajor: 1
+languages: 
+host: 89.235.223.25
+revision: 2
+minor: 1
 keep-ts: 1408885933
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== YADM12/13 - Biomeditsiinitehnika ja meditsiinifüüsika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50203&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[DBR0210]] Anatoomia ja füsioloogia\\<br />&lt; [[LOFY.01.134]] Bioelektromagnetism\\<br />&lt; [[DBB0220]] Biomeditsiiniseadmed\\<br />&lt; [[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt\\<br />&lt; [[LOFY.01.125]] Biomehaanika alused ja biomaterjalid\\<br />&lt; [[DBR0030]] Digitaalne signaali- ja pilditöötlus\\<br />&lt; [[DBR0080]] Elektromagnetväljad ja -lained\\<br />&lt; [[LOFY.01.135]] Elussüsteemid\\<br />&lt; [[LOFY.01.129]] Erialased seminarid ja ettekanded\\<br />&lt; [[LOFY.01.133]] Funktsionaalse anatoomia põhimõisted\\<br />&lt; [[DBB0210]] Füsioloogiline regulatsioon ja adaptatsioon\\<br />&lt; [[DBR0040]] Füsioloogiliste signaalide töötlus\\<br />&lt; [[ARFS.01.016]] Inimese füsioloogia\\<br />&lt; [[LOFY.01.118]] Kiirgusbioloogia ja kiiritusravi alused\\<br />&lt; [[DBR0280]] Kvaliteet radioloogias\\<br />&lt; [[LOFY.01.126]] Lineaarsed ahelad ja süsteemid\\<br />&lt; [[LOFY.01.127]] Meditsiinis kasutatavad kiirgused\\<br />&lt; [[LOFY.01.116]] Meditsiinitehnoloogia korraldus\\<br />&lt; [[DBB0010]] Mikrolaine</strong>- <strong class="changes">ja optiline tehnika\\<br />&lt; [[DBR0130]] Mõõtmised füsioloogias\\<br />&lt; [[LOFY.01.131]] Müomeetria\\<br />&lt; [[DBB0300]] Optoelektroonika ja integraaloptika\\<br />&lt; [[DBR0220]] Piltdiagnostika füüsikalised alused\\<br />&lt; [[DBB0240]] Praktika I\\<br />&lt; [[LOFY.01.130]] Praktika II\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YADM12</strong>-<strong class="changes">13"&gt;</strong></p></div>
+blocks: 
+summary: Автоматическое обновление (расписание)
