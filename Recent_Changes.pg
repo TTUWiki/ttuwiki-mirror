@@ -1,26 +1,27 @@
-blocks: #ENG
-	Here you can see the list of all recent edits.</p>#RUS
-	Здесь видны последние изменения на сайте.</p>
-languages: 
-keep-ts: 1445139907
-username: AlexDaniel
-flags: 01010
+host: 85.253.53.160
+ts: 1445141201
 text: #ENG
 	Here you can see the list of all recent edits.
 	
 	#RUS
 	Здесь видны последние изменения на сайте.
 	
+	 
 	
-ts: 1445139907
-host: 85.253.53.160
-lastmajor: 2
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt;  </p></div>
+languages: 
 lastmajorsummary: English translation
+blocks: #ENG
+	<p>Here you can see the list of all recent edits.</p>#RUS
+	<p>Здесь видны последние изменения на сайте.</p>
 summary: cache
+flags: 01010
+lastmajor: 2
+username: AlexDaniel
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  </p></div>
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Здесь видны последние изменения на сайте</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; Here you can see the list of all recent edits.<br />&gt; #RUS</strong><br />&gt; Здесь видны последние изменения на сайте<strong class="changes">.</strong></p></div>
-revision: 8
 minor: 1
+revision: 9
+keep-ts: 1445141201
