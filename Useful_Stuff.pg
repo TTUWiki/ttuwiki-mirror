@@ -1,9 +1,13 @@
-summary: translation
 username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ====Архивы:</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; ==== <strong class="changes">Archives / … /</strong> Архивы:</p></div>
-minor: 1
+summary: About link
+languages: 
+lastmajor: 12
+host: 85.253.53.160
+ts: 1445212278
+minor: 
+lastmajorsummary: About link
+revision: 12
+keep-ts: 1445212278
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -30,6 +34,7 @@ text: === University / Ülikool / Университет:
 	
 	=== This wiki / … / О сайте:
 	#ENG
+	* [[About]] – about this website
 	* [[News]] – what's new on this website
 	* [[Formatting]] – all about wikitext
 	* [[Template]] – simple template for writing course pages
@@ -39,6 +44,7 @@ text: === University / Ülikool / Университет:
 	
 	 
 	#RUS
+	* [[About|О сайте]] – информация об этом сайте
 	* [[News|Новости]] – новости сайта
 	* [[Formatting|Редактирование]] – про возможности этого сайта
 	* [[Template|Шаблон]] – для создания новых страниц
@@ -105,11 +111,3 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-languages: 
-keep-ts: 1445145798
-diff-major: 
-lastmajor: 10
-ts: 1445145798
-revision: 11
-host: 85.253.53.160
-lastmajorsummary: Page diff example
