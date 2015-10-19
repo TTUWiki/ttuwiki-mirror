@@ -1,16 +1,8 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50079 〔Õppekava ÕIS-is〕]</h2><p>[[BCU3430]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU1910]] Ärilogistika<br />[[BCU3340]] Äriõigus<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU3460]] Arvestus eelarvelistes asutustes<br />[[BCU4020]] Audiitorkontroll<br />[[BCU0270]] Dokumendihaldus<br />[[BCU0840]] Eelarvestus<br />[[BCU3130]] Eesti keele väljendusõpetus<br />[[BCU4030]] Ettevõtluse alused<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0880]] Finantsanalüüs<br />[[BCU3190]] Finantsanalüüs - ainetöö<br />[[BCU1740]] Finantsarvestus<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1930]] Inimressursi juhtimine<br />[[BCU0460]] Juhtimine<br />[[BCU3600]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU3370]] Juhtimiskontroll<br />[[BCU2040]] Juhtimiskontroll - ainetöö<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU3120]] Kontserniarvestus<br />[[BCU3760]] Kuluarvestus<br />[[BCU3390]] Lepinguõigus<br />[[BCU3770]] Majandusarvestuse erialapraktika<br />[[BCU3620]] Makroökonoomika<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU3610]] Mikroökonoomika<br />[[BCU3480]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU3350]] Organisatsioonikäitumine<br />[[BCU3380]] Politoloogia<br />[[BCU3360]] Projektijuhtimine<br />[[BCU1810]] Protokoll ja etikett<br />[[BCU3440]] Raamatupidamise arvutiprogrammid<br />[[BCU3410]] Raha ja pangandus<br />[[BCU3140]] Rahvusvahelised finantsaruandluse standardid<br />[[BCU3421]] Rahvusvahelised investeeringud<br />[[BCU3810]] Sissejuhatav praktika<br />[[BCU3330]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0900]] Töö- ja palgakorraldus<br />[[BCU1630]] Tööõigus<br />[[BCU3400]] Turundus<br />[[BCU3240]] Uurimistöö alused</p>
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine Kava:50079</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:50079 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50079 〔Õppekava ÕIS-is〕]
 	[[BCU3430]] Aastaaruandluse koostamine ja analüüs
 	[[BCU0510]] Ärieetika alused
@@ -67,4 +59,12 @@ text: == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50079 〔�
 	[[BCU3240]] Uurimistöö alused
 	
 	
+host: 82.131.7.230
+languages: 
+blocks: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
+ts: 1441924148
+diff-major: 
 keep-ts: 1441924148
+minor: 1

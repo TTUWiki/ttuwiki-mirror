@@ -1,16 +1,11 @@
-flags: 0101010101010101010101010101010101010101010101010101010
-blocks: <h2>NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]</h2><p>[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid<br />[[NTK1230]] Asjaajamine ja raamatupidamise alused<br />[[NTK0720]] Bioloogiline mitmekesisus<br />[[NTK0500]] Energiakasutus ja energeetilised ressursid<br />[[NTK1200]] Ettevõtlus ja äri planeerimine<br />[[NTK1240]] Jäätmete taaskasutus<br />[[NTM0070]] Juhtimispsühholoogia<br />[[NTK0790]] Keskkonnatehnoloogiad<br />[[NTS0270]] Logistika alused<br />[[NTK1050]] Magistripraktika<br />[[NTS1130]] Matemaatilised mudelid<br />[[NTK1150]] Materjalivoogude analüüs<br />[[NTK1010]] Ökodisain<br />[[NTK1130]] Ökoinnovatsioon<br />[[NTK0930]] Olelusringi hindamine 2<br />[[NTK1110]] Praktiline keskkonnaökonoomika<br />[[NTK0750]] Säästev areng<br />[[NTK0480]] Sissejuhatus tööstusökoloogiasse<br />[[NTK1020]] Suurtootmise tehnoloogilised protsessid<br />[[NTS1530]] Taastuvenergiate tehnoloogiad<br />[[NTK0690]] Teadustöö metodoloogia<br />[[NTX0020]] Teadusvõõrkeel<br />[[NTK0430]] Tööstuslikud ökosüsteemid<br />[[NTK1100]] Tööstusökoloogia töövahendid<br />[[NTS1360]] Turundus<br />[[NTK0630]] Veereostus ja -kaitse</p>
+blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEM06/15 - Tööstusökoloogia Kava:50291</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEM06/15 - Tööstusökoloogia <strong class="changes">[</strong>Kava:50291 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+revision: 4
+minor: 1
 text: == NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]
 	[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[NTK1230]] Asjaajamine ja raamatupidamise alused
@@ -41,3 +36,8 @@ text: == NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924152
+flags: 
+host: 82.131.7.230
+ts: 1441924152
+diff-major: 
+username: AlexDaniel
