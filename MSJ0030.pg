@@ -1,19 +1,6 @@
-revision: 9
-languages: 
-lastmajorsummary: 
-flags: 0
-ip: 89.235.235.166
-lastmajor: 9
-summary: 
-minor: 
+flags: 1
 diff-major: 1
-ts: 1444736280
-blocks: <h3>Õppematerjal</h3><ul><li><a class="url http outside" href="http://www.tud.ttu.ee/im/Lauri.Loo/Loodushoid%20energeetikas%20-%20MSJ0030/">Õppeaine koduleht</a></li><li>Kasvuhoonegaaside levimise vähendamine - riigikogulase arvamus. <a href="http://tv.delfi.ee/varia/ekspressi-video-igor-grazin-divesinikmonooksiidi-leviku-takistamisest.d?id=69759267" class="url http outside">Igor Gräzin divesinikmonooksiidi leviku takistamisest</a></li></ul><h3>Кirjandus</h3><ol><li><a href="http://www.ester.ee/record=b2774663*est" class="url http outside">Kliimapettus</a></li></ol><h4>Upcoming events</h4><ol><li><strong>2015-10-30</strong> - <a class="url http outside" href="http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond">Meelis Eldermann'i</a> loeng CO2 teemal</li><li><strong>2015-11-13 16:00</strong> - Kodutöö esitamise tähtaeg </li></ol>
-username: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; * [http://www.tud.ttu.ee/im/Lauri.Loo/Loodushoid%20energeetikas%20-%20MSJ0030/ Õppeaine koduleht]</p></div>
-host: 193.40.244.217
-keep-ts: 1444736280
+summary: 
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
 	
@@ -30,3 +17,16 @@ text: #SUBTITLE Loodushoid energeetikas
 	# **2015-10-30** - [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond Meelis Eldermann'i] loeng CO2 teemal
 	#**2015-11-13 16:00** - Kodutöö esitamise tähtaeg 
 	
+revision: 9
+ip: 89.235.235.166
+username: 
+lastmajorsummary: 
+minor: 
+host: 193.40.244.217
+keep-ts: 1444736280
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; * [http://www.tud.ttu.ee/im/Lauri.Loo/Loodushoid%20energeetikas%20-%20MSJ0030/ Õppeaine koduleht]</p></div>
+lastmajor: 9
+blocks: [Course:30508 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1444736280

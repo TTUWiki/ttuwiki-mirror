@@ -1,17 +1,15 @@
-flags: 0101010
-blocks: &lt;include "VDVR14-15"&gt;
-	&lt;include "VDVR14-14EMERA"&gt;
-	&lt;include "VDVR14-14"&gt;
+blocks: 
+flags: 
+keep-ts: 1438887442
+minor: 1
+summary: Автоматическое обновление
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "VDVR14-15"&gt;</p></div>
-ts: 1438887442
-minor: 1
+diff-major: 
+revision: 3
 host: 85.253.110.44
 username: Bot
-revision: 3
-summary: Автоматическое обновление
-diff-major: 
-languages: 
+ts: 1438887442
 text: <include "VDVR14-15">
 	
 	<include "VDVR14-14EMERA">
@@ -20,4 +18,4 @@ text: <include "VDVR14-15">
 	
 	
 	
-keep-ts: 1438887442
+languages: 
