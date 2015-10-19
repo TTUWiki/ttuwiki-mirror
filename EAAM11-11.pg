@@ -1,15 +1,4 @@
-flags: 010101010101010101010101010101010101010101010101010101010
-blocks: <h2>EAAM11/11 - Hoonete energiatõhusus [Kava:50153 〔Õppekava ÕIS-is〕]</h2><p>[[ISS0090]] Arukad hooned<br />[[ISS0120]] Automaatika alused<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[EEA0013]] Ehitiste renoveerimine<br />[[EEA0031]] Ehitusfüüsika<br />[[AME0510]] Elektrienergia säästlik kasutamine hoonetes<br />[[AME3130]] Elektrotehnika<br />[[EKK0300]] Energiatehnika<br />[[EKK0250]] Energiatõhusus ja selle majanduslik hindamine<br />[[EEA0012]] Hooned<br />[[EKK0240]] Hoonete planeerimine ja fassaadide kujundamine<br />[[EKK0051]] Hoonete sisekliima<br />[[EKK0270]] Hoonete soojusliku käitumise modelleerimine ja analüüs<br />[[EKK0230]] Hoonete soojusvarustus<br />[[EKV0031]] Hoone veevärk ja kanalisatsioon I<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[EKK0090]] Keskkonnasäästlik energeetika<br />[[EKV0090]] Korrosioonitõrje<br />[[EKK0200]] Küte<br />[[MSE0200]] Lokaalkatlamajad<br />[[MHT0010]] Metroloogia ja mõõtetehnika<br />[[EKK0260]] Õhu konditsioneerimine ja jahutus<br />[[EMH0040]] Pumbad ja ventilaatorid<br />[[EKK0080]] Soojustehnika<br />[[HLX8040]] Teadusvõõrkeel<br />[[EKK0310]] Tööpraktika<br />[[EKK0280]] Ventilatsioon</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAAM11/11 - Hoonete energiatõhusus Kava:50153</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAAM11/11 - Hoonete energiatõhusus <strong class="changes">[</strong>Kava:50153 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
 languages: 
 text: == EAAM11/11 - Hoonete energiatõhusus [Kava:50153 〔Õppekava ÕIS-is〕]
 	[[ISS0090]] Arukad hooned
@@ -41,4 +30,15 @@ text: == EAAM11/11 - Hoonete energiatõhusus [Kava:50153 〔Õppekava ÕIS-is〕
 	[[EKK0280]] Ventilatsioon
 	
 	
+diff-major: 
+username: AlexDaniel
+revision: 4
+blocks: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924148
+minor: 1
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAAM11/11 - Hoonete energiatõhusus Kava:50153</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAAM11/11 - Hoonete energiatõhusus <strong class="changes">[</strong>Kava:50153 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924148

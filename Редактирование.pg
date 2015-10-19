@@ -1,10 +1,9 @@
-blocks: <p>DeletedPage</p><h3>Тестовая страница</h3><p>Опробовать возможности <strong>можно [[Scratch|здесь]]</strong>.</p><h3>Поддерживается большая часть из этого:</h3><p><img alt="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" src="http://www.wikicreole.org/attach/CheatSheet/creole_cheat_sheet.png" class="url http" /><br /><br /></p><h3>И <a class="url http outside" href="http://www.wikicreole.org/wiki/CreoleAdditions/">дополнительно</a> еще это:</h3><ul><li><code>; Definition : lists.</code></li><li><code>"""Blockquotes."""</code></li><li><code>''Inline quotes.''</code></li><li><code>^^Superscripted text.^^</code></li><li><code>,,Subscripted text.,,</code></li><li><code>##Monospaced text.##</code></li><li><code>%%Small caps text.%%</code></li></ul><h3>Ссылки:</h3><table class="user"><tr><th>Pattern </th><th>Result</th></tr><tr><td><code>http://www.ttu.ee/</code></td><td><a href="http://www.ttu.ee/" class="url http">http://www.ttu.ee/</a></td></tr><tr><td><code>[http://www.ttu.ee/]</code></td><td>[http://www.ttu.ee/]</td></tr><tr><td><code>[http://www.ttu.ee/ text]</code></td><td><a class="url http outside" href="http://www.ttu.ee/">text</a></td></tr><tr><td><code>[[Главная]]</code></td><td>[[Главная]]</td></tr><tr><td><code>[[[Главная]]]</code></td><td>[[[Главная]]]</td></tr><tr><td><code>[[Главная|text]]</code></td><td>[[Главная|text]]</td></tr></table><h3>Загрузка:</h3><p>Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида <code>[[File:название файла]]</code>. Это просто сокращенный вариант ссылки <code>[[http://files.ttuwiki.org/название файла]]</code>.</p><p>Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой <code>image:</code>, то есть вот так: <code>[[image:File:название файла]]</code>. Таким образом, картинка будет показана прямо на сайте.</p><p>Если хотите, чтобы картинка отображалась справа, то вместо <code>image:</code> можно написать <code>image/right:</code>, то есть <code>[[image/right:File:название файла]]</code>.</p><p><strong>Результат</strong> смотрите, например, <strong>на [[MSJ0120]]</strong>.</p>
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
-diff-major: 1
-ip: 89.235.231.110
-ts: 1444736839
 host: 82.131.4.24
+minor: 
+keep-ts: 1444736839
+flags: 
 text: DeletedPage
 	
 	=== Тестовая страница
@@ -43,12 +42,13 @@ text: DeletedPage
 	**Результат** смотрите, например, **на [[MSJ0120]]**.
 	
 	
-minor: 
-keep-ts: 1444736839
-lastmajorsummary: See Formatting page instead.
-languages: 
+ts: 1444736839
 summary: See Formatting page instead.
+blocks: 
 username: AlexDaniel
-lastmajor: 3
-flags: 0101010101010
+lastmajorsummary: See Formatting page instead.
 revision: 3
+diff-major: 1
+ip: 89.235.231.110
+languages: 
+lastmajor: 3

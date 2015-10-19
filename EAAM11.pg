@@ -1,20 +1,20 @@
-flags: 010
-blocks: &lt;include "EAAM11-11"&gt;
+keep-ts: 1408885582
+languages: 
+lastmajor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== EAAM11/11 - Hoonete energiatõhusus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=89&amp;p_kava_versioon_id=50153&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[ISS0090]] Arukad hooned\\<br />&lt; [[ISS0120]] Automaatika alused\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[EEA0013]] Ehitiste renoveerimine\\<br />&lt; [[EEA0031]] Ehitusfüüsika\\<br />&lt; [[AME0510]] Elektrienergia säästlik kasutamine hoonetes\\<br />&lt; [[AME3130]] Elektrotehnika\\<br />&lt; [[EKK0300]] Energiatehnika\\<br />&lt; [[EKK0250]] Energiatõhusus ja selle majanduslik hindamine\\<br />&lt; [[EEA0012]] Hooned\\<br />&lt; [[EKK0240]] Hoonete planeerimine ja fassaadide kujundamine\\<br />&lt; [[EKK0051]] Hoonete sisekliima\\<br />&lt; [[EKK0270]] Hoonete soojusliku käitumise modelleerimine ja analüüs\\<br />&lt; [[EKK0230]] Hoonete soojusvarustus\\<br />&lt; [[EKV0031]] Hoone veevärk ja kanalisatsioon I\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[EKK0090]] Keskkonnasäästlik energeetika\\<br />&lt; [[EKV0090]] Korrosioonitõrje\\<br />&lt; [[EKK0200]] Küte\\<br />&lt; [[MSE0200]] Lokaalkatlamajad\\<br />&lt; [[MHT0010]] Metroloogia ja mõõtetehnika\\<br />&lt; [[EKK0260]] Õhu konditsioneerimine ja jahutus\\<br />&lt; [[EMH0040]] Pumbad ja ventilaatorid\\<br />&lt; [[EKK0080]] Soojustehnika\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[EKK0310]] Tööpraktika\\<br />&lt; [[EKK0280]] Ventilatsioon\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "EAAM11-11"&gt;</strong></p></div>
+summary: Автоматическое обновление (расписание)
+flags: 
 ip: 89.235.235.166
 ts: 1408885582
-minor: 1
-host: 89.235.223.25
 username: Bot
-revision: 2
-diff-major: 
-summary: Автоматическое обновление (расписание)
-languages: 
 text: <include "EAAM11-11">
 	
 	
 	
-lastmajor: 1
-keep-ts: 1408885582
+diff-major: 
+host: 89.235.223.25
+blocks: 
+minor: 1
+revision: 2

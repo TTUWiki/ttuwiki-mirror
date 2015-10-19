@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p><a class="url http outside" href="http://velar.ee/mse0100-soojustehnika">Õppematerjal</a></p>
-ip: 89.235.235.166
-ts: 1441924448
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Soojustehnika
 	#SUBURL [Course:30482 〔Õppeaine ÕIS-is〕]
 	[http://velar.ee/mse0100-soojustehnika Õppematerjal]
 	
-lastmajor: 4
+ip: 89.235.235.166
 keep-ts: 1441924448
+blocks: [Course:30482 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 1
+ts: 1441924448
+lastmajor: 4
+revision: 5
+minor: 1

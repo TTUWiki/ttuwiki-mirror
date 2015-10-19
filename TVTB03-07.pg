@@ -1,15 +1,7 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TVTB03/07 - Rahvusvaheline ärikorraldus [Kava:5078 〔Õppekava ÕIS-is〕]</h2><p>[[HLI2020]] Akadeemiline inglise keel<br />[[IDU2001]] Äriinfosüsteemid<br />[[TIX2150]] Ärisuhtlus<br />[[TIX2320]] Äritegevuse õiguslik keskkond<br />[[IDY0315]] E-äri<br />[[HLI2200]] Eesti keel ja kultuur I<br />[[TIX2220]] Ettevõtlus<br />[[TIX2330]] Euroopa Liidu õigus<br />[[TIX2820]] Finantsanalüüsi alused<br />[[TIX2810]] Finantsarvestuse alused<br />[[TIX2610]] Finantsjuhtimine<br />[[IDK2080]] Infotehnoloogia<br />[[HLI2101]] Inglise ärikeel I<br />[[HLI2102]] Inglise ärikeel II<br />[[HLI2010]] Inglise keel<br />[[TIX2830]] Juhtimisarvestus<br />[[TIX2020]] Kinnisvara ökonoomika<br />[[TIX2560]] Kvantitatiivsed meetodid<br />[[TIX2140]] Logistika<br />[[TIX2530]] Majandusteooria I<br />[[TIX2540]] Majandusteooria II<br />[[TIX2520]] Matemaatika<br />[[TIX2120]] Operatsioonijuhtimine<br />[[TIX2130]] Õpingukorraldus<br />[[TIX2200]] Organisatsioonikäitumine<br />[[TIX2160]] Projektijuhtimine<br />[[TIX2570]] Raha ja pangandus<br />[[TIX2550]] Rahanduse alused<br />[[TIX2010]] Rahvusvaheline turundus<br />[[ITX0025]] Sissejuhatus infotehnoloogiasse<br />[[TIX2310]] Sotsioloogia<br />[[TIX2510]] Teadustöö meetodid<br />[[TIX2070]] Töökeskkond ja ergonoomika<br />[[TIX2100]] Turundus<br />[[TIX2170]] Turundusuuring ja turunduse planeerimine<br />[[TIX0050]] Uurimistöö I<br />[[TIX0020]] Uurimistöö II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVTB03/07 - Rahvusvaheline ärikorraldus Kava:5078</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVTB03/07 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:5078 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
+blocks: 
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+username: AlexDaniel
 languages: 
 text: == TVTB03/07 - Rahvusvaheline ärikorraldus [Kava:5078 〔Õppekava ÕIS-is〕]
 	[[HLI2020]] Akadeemiline inglise keel
@@ -51,4 +43,12 @@ text: == TVTB03/07 - Rahvusvaheline ärikorraldus [Kava:5078 〔Õppekava ÕIS-i
 	[[TIX0020]] Uurimistöö II
 	
 	
+host: 82.131.7.230
+flags: 
+revision: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVTB03/07 - Rahvusvaheline ärikorraldus Kava:5078</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTB03/07 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:5078 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
 keep-ts: 1441924154
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

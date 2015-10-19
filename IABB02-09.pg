@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IABB02/09 - Äriinfotehnoloogia [Kava:50071 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IDU0111]] Äriprotsesside modelleerimine ja automatiseerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[TMT0040]] Ergonoomika<br />[[IDU004P]] Erialapraktika<br />[[HHF3080]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[YFR0020]] Füüsika<br />[[TMM0230]] Interaktiivne turundus<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[IDK0051]] Objektorienteeritud programmeerimine keeles Java<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[TMO3170]] Organisatsiooni ja juhtimise teooriad ja meetodid<br />[[IDK1011]] Programmeerimise algkursus<br />[[ITI0011]] Programmeerimise põhikursus Javas<br />[[IDK1031]] Programmeerimise põhikursus keeles C<br />[[IRT3930]] Side<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia<br />[[IDU0075]] Veebiteenused<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[ITV0110]] Võrgurakendused I</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IABB02/09 - Äriinfotehnoloogia Kava:50071</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IABB02/09 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50071 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+ts: 1441924150
 text: == IABB02/09 - Äriinfotehnoloogia [Kava:50071 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IDU0220]] Andmebaasid I
@@ -51,4 +40,15 @@ text: == IABB02/09 - Äriinfotehnoloogia [Kava:50071 〔Õppekava ÕIS-is〕]
 	[[ITV0110]] Võrgurakendused I
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABB02/09 - Äriinfotehnoloogia Kava:50071</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABB02/09 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50071 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924150
+flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+revision: 4
+diff-major: 
+languages: 
+host: 82.131.7.230
+username: AlexDaniel
