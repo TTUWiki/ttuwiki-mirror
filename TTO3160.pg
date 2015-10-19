@@ -16,7 +16,7 @@ text: #SUBTITLE Õigusõpetus
 	#iseseisev töö [[https://www.riigiteataja.ee/akt/110032015015?leiaKehtiv KOHTUTE SEADUS]]'e kohta Kasutades kohtute seadust (otsi kehtiv seadus Riigi Teataja kodulehelt) ja vasta foorumis esitatud küsimustele. **Tähtaeg 28. sept 2015**. Ajakulu 3 t.
 	
 	
-	# I kontrolltöö toimub **26. oktoober** loengu ruumis
+	# I kontrolltöö toimub **26. oktoober** loengu ruumis kell **12:00**  või 12:45 vastavalt nimekirjale
 	
 	# Essee kirjutamine. **tähtaeg 2. november 2015.** Ajakulu 3 t.
 	
@@ -26,16 +26,14 @@ text: #SUBTITLE Õigusõpetus
 	
 	# Arvestus toimub  **14. detsember** loengu ruumis
 	
-minor: 
-revision: 18
-ts: 1445076754
-flags: 1
+username: Ain_Laidoja
+keep-ts: 1445246053
+revision: 19
 summary: 
-keep-ts: 1445076754
-host: 86.110.37.246
-lastmajor: 18
-languages: 
-blocks: [Course:28071 〔Õppeaine ÕIS-is〕]
-username: 
-ip: 84.52.48.194
 lastmajorsummary: 
+languages: 
+ip: 84.52.48.194
+ts: 1445246053
+lastmajor: 19
+minor: 
+host: 193.40.244.217
