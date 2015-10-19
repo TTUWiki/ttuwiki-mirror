@@ -1,13 +1,9 @@
-lastmajorsummary:  [[File:soojuspumpt.jpeg]] 
-languages: 
-blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
-summary:  [[File:soojuspumpt.jpeg]] 
+lastmajor: 13
 username: Ain_Laidoja
-lastmajor: 12
-ip: 89.235.235.166
 host: 86.110.37.246
-ts: 1445241660
-flags: 1
+languages: 
+summary:  [[File:soojuspumpq.jpeg]] 
+minor: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -26,6 +22,17 @@ text: #SUBTITLE Soojuspumbad
 	-- Ain_Laidoja 2015-10-19 11:01:00
 	
 	
-keep-ts: 1445241660
-revision: 12
-minor: 
+	----
+	
+	
+	
+	[[File:soojuspumpq.jpeg]]
+	
+	-- Ain_Laidoja 2015-10-19 11:01:56
+	
+	
+revision: 13
+lastmajorsummary:  [[File:soojuspumpq.jpeg]] 
+ip: 89.235.235.166
+ts: 1445241716
+keep-ts: 1445241716
