@@ -1,6 +1,10 @@
-minor: 
+summary: site -> website
+languages: 
+ts: 1445213978
+lastmajorsummary: About this wiki
+username: AlexDaniel
 text: #ENG
-	This site was created to save time of the students, because we often waste it for searching for the required information. Same questions were asked every semester, because there was no place where these questions could be recorded and structured.
+	This website was created to save time of the students, because we often waste it for searching for the required information. Same questions were asked every semester, because there was no place where these questions could be recorded and structured.
 	
 	Here you can create new pages, improve existing ones, leave comments, correct text which was written by others. In other words, this website is a [[https://oddmuse.org/wiki/What_Is_A_Wiki wiki]].
 	
@@ -22,13 +26,10 @@ text: #ENG
 	
 	Исходники этого сайта выложены на [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. Распространяются под той же лицензией, что и [[https://oddmuse.org/ Oddmuse]], то есть [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
 	
-languages: 
 host: 85.253.53.160
-ts: 1445213838
-lastmajorsummary: About this wiki
-revision: 1
-summary: About this wiki
-flags: 0
 blocks: </div></div>
-username: AlexDaniel
+minor: 1
+keep-ts: 1445213978
+revision: 2
+flags: 0
 lastmajor: 1
