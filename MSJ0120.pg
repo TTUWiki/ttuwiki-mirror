@@ -1,9 +1,4 @@
-lastmajor: 13
-username: Ain_Laidoja
-host: 86.110.37.246
-languages: 
-summary:  [[File:soojuspumpq.jpeg]] 
-minor: 
+lastmajorsummary:  [[File:soojuspumpq.jpeg]] 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -31,8 +26,15 @@ text: #SUBTITLE Soojuspumbad
 	-- Ain_Laidoja 2015-10-19 11:01:56
 	
 	
-revision: 13
-lastmajorsummary:  [[File:soojuspumpq.jpeg]] 
-ip: 89.235.235.166
-ts: 1445241716
+minor: 
 keep-ts: 1445241716
+languages: 
+ts: 1445241716
+username: Ain_Laidoja
+blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
+summary:  [[File:soojuspumpq.jpeg]] 
+flags: 1
+revision: 13
+host: 86.110.37.246
+ip: 89.235.235.166
+lastmajor: 13
