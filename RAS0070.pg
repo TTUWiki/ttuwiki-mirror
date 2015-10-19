@@ -1,9 +1,5 @@
-blocks: <h2>Õppematerjal:</h2><p><a class="url http outside" href="http://data.vk.edu.ee/RAKM/KutuseproChek">Õppeaine kodulehekülg</a></p>
-lastmajorsummary: 
-ip: 89.235.235.166
-diff-major: 1
+revision: 5
 summary: 
-languages: 
 text: #SUBTITLE Kütusetööstuse protsessid
 	#SUBURL [Course:105566 〔Õppeaine ÕIS-is〕]
 	
@@ -11,14 +7,18 @@ text: #SUBTITLE Kütusetööstuse protsessid
 	
 	[http://data.vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]
 	
+flags: 1
+keep-ts: 1444025420
+host: 86.110.37.246
+lastmajorsummary: 
+ip: 89.235.235.166
 lastmajor: 5
+languages: 
+ts: 1444025420
+blocks: [Course:105566 〔Õppeaine ÕIS-is〕]
+username: Ain_Laidoja
+minor: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal:<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]</strong></p></div>
-flags: 0
-ts: 1444025420
-minor: 
-username: Ain_Laidoja
-host: 86.110.37.246
-revision: 5
-keep-ts: 1444025420
+diff-major: 1

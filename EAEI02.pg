@@ -1,21 +1,3 @@
-flags: 0101010101010
-blocks: &lt;include "EAEI02-15"&gt;
-	&lt;include "EAEI02-12Tartu"&gt;
-	&lt;include "EAEI02-09Tartu"&gt;
-	&lt;include "EAEI02-09"&gt;
-	&lt;include "EAEI02-06"&gt;
-	&lt;include "EAEI02-02"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "EAEI02-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438886292
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 18
-diff-major: 
-summary: Автоматическое обновление
-languages: 
 text: <include "EAEI02-15">
 	
 	<include "EAEI02-12Tartu">
@@ -30,5 +12,18 @@ text: <include "EAEI02-15">
 	
 	
 	
-lastmajor: 17
+minor: 1
 keep-ts: 1438886292
+flags: 
+diff-major: 
+summary: Автоматическое обновление
+lastmajor: 17
+revision: 18
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "EAEI02-15"&gt;</p></div>
+languages: 
+username: Bot
+blocks: 
+ts: 1438886292
+host: 85.253.110.44
+ip: 89.235.235.166

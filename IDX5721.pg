@@ -1,10 +1,5 @@
-blocks: <h2>Materials</h2><ul><li>Moodle [Moodle:13969 ID_2015 Software quality (Tarkvara kvaliteet)], <strong>no password</strong>. 😊 , but  requires user registration 😥<br /></li><li><a class="url http outside" href="http://tepandi.ee/tks-loeng.pdf">Konspekt</a><br /></li><li><a class="url http outside" href="http://jaak.tepinfo.ee/">Õppejõu kodulehekülg</a></li><li><a class="url http" href="http://www.tud.ttu.ee/im/Jekaterina.Ivask/">http://www.tud.ttu.ee/im/Jekaterina.Ivask/</a><br /></li><li><a class="url http" href="http://deepthought.ttu.ee/users/tepandi/we-tk.html">http://deepthought.ttu.ee/users/tepandi/we-tk.html</a></li></ul>
-lastmajorsummary: 
-ip: 89.235.235.166
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; *http://deepthought.ttu.ee/users/tepandi/we-tk.html</p></div>
-summary: Moodle:
-languages: 
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
@@ -16,14 +11,19 @@ text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	*http://deepthought.ttu.ee/users/tepandi/we-tk.html
 	
 	
-lastmajor: 14
+ip: 89.235.235.166
+summary: Moodle:
+flags: 1
+languages: 
+keep-ts: 1442598908
+lastmajorsummary: 
+username: AlexDaniel
+revision: 15
+blocks: [Course:26827 〔Õppeaine ÕIS-is〕]
+ts: 1442598908
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; * Moodle <strong class="changes">[[https://moodle.hitsa.ee/course/view.php?id=</strong>13969 ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)]],</strong> **no password**. 😊 , but  requires user registration 😥</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; * Moodle <strong class="changes">[Moodle:</strong>13969 ID_2015 Software quality (Tarkvara kvaliteet<strong class="changes">)],</strong> **no password**. 😊 , but  requires user registration 😥</p></div>
-flags: 010
-ts: 1442598908
-minor: 1
-username: AlexDaniel
 host: 82.131.7.230
-revision: 15
-keep-ts: 1442598908
+lastmajor: 14

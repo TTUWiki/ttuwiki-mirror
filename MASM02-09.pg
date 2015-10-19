@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010101010101010
-blocks: <h2>MASM02/09 - Soojusenergeetika [Kava:50029 〔Õppekava ÕIS-is〕]</h2><p>[[MER0100]] Arendustöö ja innovatsioon<br />[[MST0050]] Auru- ja gaasiturbiinid<br />[[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas<br />[[HLE6060]] Eesti keele väljendusõpetus<br />[[AEK8141]] Elektriseadmed ja -edastus<br />[[MST0100]] Energeetikaseadmete metall ja konserveerimine<br />[[AES0200]] Energiasüsteemi strateegiline arendamine<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[HHF0010]] Filosoofia põhiprobleemid<br />[[MSE0180]] Katlatehnika erikursus<br />[[MXX0060]] Keevitus ja keeviskonstruktsioonid<br />[[MST0040]] Kompressormasinad<br />[[MSE0070]] Kütusemajandus<br />[[MSJ0030]] Loodushoid energeetikas<br />[[MXX0040]] Magistriseminar<br />[[TTO3160]] Õigusõpetus<br />[[MER0130]] Optimeerimismeetodid<br />[[MSJ002P]] Praktika<br />[[MSJ0060]] Soojuselektrijaamad<br />[[MST0060]] Soojus- ja massileviseadmed<br />[[MSJ0120]] Soojuspumbad<br />[[MSJ0090]] Soojussünergeetika<br />[[MST0120]] Taastuvenergiaallikad<br />[[HLX8040]] Teadusvõõrkeel<br />[[MST0081]] Tööstusahjud ja kuivatustehnoloogia<br />[[MSJ0160]] Tööstustorustikud ja kaugküttevõrgud<br />[[AEK0060]] Tuuleenergeetika<br />[[MSJ0170]] Tuumareaktorid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MASM02/09 - Soojusenergeetika Kava:50029</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MASM02/09 - Soojusenergeetika <strong class="changes">[</strong>Kava:50029 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
 text: == MASM02/09 - Soojusenergeetika [Kava:50029 〔Õppekava ÕIS-is〕]
 	[[MER0100]] Arendustöö ja innovatsioon
 	[[MST0050]] Auru- ja gaasiturbiinid
@@ -43,3 +32,14 @@ text: == MASM02/09 - Soojusenergeetika [Kava:50029 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924152
+username: AlexDaniel
+diff-major: 
+flags: 
+languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MASM02/09 - Soojusenergeetika Kava:50029</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MASM02/09 - Soojusenergeetika <strong class="changes">[</strong>Kava:50029 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4
+host: 82.131.7.230
+ts: 1441924152
+minor: 1

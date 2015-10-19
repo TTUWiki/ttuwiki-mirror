@@ -1,18 +1,10 @@
-flags: 010101010101010101010101010
-blocks: <ul><li>[[Ehitusteaduskond]]</li><li>[[Energeetikateaduskond]]</li><li>[[Infotehnoloogia teaduskond]]</li><li>[[Keemia- ja materjalitehnoloogia teaduskond]]</li><li>[[Majandusteaduskond]]</li><li>[[Matemaatika-loodusteaduskond]]</li><li>[[Mehaanikateaduskond]]</li><li>[[Sotsiaalteaduskond]]</li><li>[[TTÜ Eesti Mereakadeemia]]</li><li>[[TTÜ Kuressaare Kolledž]]</li><li>[[TTÜ Tallinna Kolledž]]</li><li>[[TTÜ Tartu Kolledž]]</li><li>[[TTÜ Virumaa Kolledž]]</li></ul>
+host: 85.253.110.44
+keep-ts: 1438889143
+lastmajor: 6
+ip: 89.235.235.166
 diff-minor: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; * [[Ehitusteaduskond]]<br />&lt; * [[Energeetikateaduskond]]<br />&lt; * [[Infotehnoloogia teaduskond]]<br />&lt; * [[Keemia- ja materjalitehnoloogia teaduskond]]<br />&lt; * [[Majandusteaduskond]]<br />&lt; * [[Matemaatika-loodusteaduskond]]<br />&lt; * [[Mehaanikateaduskond]]<br />&lt; * [[Sotsiaalteaduskond]]<br />&lt; * [[TTÜ Eesti Mereakadeemia]]<br />&lt; * [[TTÜ Kuressaare Kolledž]]<br />&lt; * [[TTÜ Tallinna Kolledž]]<br />&lt; * [[TTÜ Tartu Kolledž]]<br />&lt; * [[TTÜ Virumaa Kolledž]]</p></div>
-ip: 89.235.235.166
-ts: 1438889143
-minor: 1
-host: 85.253.110.44
-username: AlexDaniel
 revision: 10
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Ehitusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Energeetikateaduskond<strong class="changes">]]\\</strong><br />&lt; [[Infotehnoloogia teaduskond<strong class="changes">]]\\</strong><br />&lt; [[Keemia- ja materjalitehnoloogia teaduskond<strong class="changes">]]\\</strong><br />&lt; [[Majandusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Matemaatika-loodusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Mehaanikateaduskond<strong class="changes">]]\\</strong><br />&lt; [[Sotsiaalteaduskond<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Kuressaare Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Tallinna Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Tartu Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Virumaa Kolledž<strong class="changes">]]\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">*</strong> [[Ehitusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Energeetikateaduskond<strong class="changes">]]<br />&gt; *</strong> [[Infotehnoloogia teaduskond<strong class="changes">]]<br />&gt; *</strong> [[Keemia- ja materjalitehnoloogia teaduskond<strong class="changes">]]<br />&gt; *</strong> [[Majandusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Matemaatika-loodusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Mehaanikateaduskond<strong class="changes">]]<br />&gt; *</strong> [[Sotsiaalteaduskond<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Kuressaare Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Tallinna Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Tartu Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Virumaa Kolledž<strong class="changes">]]</strong></p></div>
-summary: Одного раза достаточно
-languages: 
 text: * [[Ehitusteaduskond]]
 	* [[Energeetikateaduskond]]
 	* [[Infotehnoloogia teaduskond]]
@@ -28,5 +20,13 @@ text: * [[Ehitusteaduskond]]
 	* [[TTÜ Virumaa Kolledž]]
 	
 	
-lastmajor: 6
-keep-ts: 1438889143
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[Ehitusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Energeetikateaduskond<strong class="changes">]]\\</strong><br />&lt; [[Infotehnoloogia teaduskond<strong class="changes">]]\\</strong><br />&lt; [[Keemia- ja materjalitehnoloogia teaduskond<strong class="changes">]]\\</strong><br />&lt; [[Majandusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Matemaatika-loodusteaduskond<strong class="changes">]]\\</strong><br />&lt; [[Mehaanikateaduskond<strong class="changes">]]\\</strong><br />&lt; [[Sotsiaalteaduskond<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Kuressaare Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Tallinna Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Tartu Kolledž<strong class="changes">]]\\</strong><br />&lt; [[TTÜ Virumaa Kolledž<strong class="changes">]]\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">*</strong> [[Ehitusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Energeetikateaduskond<strong class="changes">]]<br />&gt; *</strong> [[Infotehnoloogia teaduskond<strong class="changes">]]<br />&gt; *</strong> [[Keemia- ja materjalitehnoloogia teaduskond<strong class="changes">]]<br />&gt; *</strong> [[Majandusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Matemaatika-loodusteaduskond<strong class="changes">]]<br />&gt; *</strong> [[Mehaanikateaduskond<strong class="changes">]]<br />&gt; *</strong> [[Sotsiaalteaduskond<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Kuressaare Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Tallinna Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Tartu Kolledž<strong class="changes">]]<br />&gt; *</strong> [[TTÜ Virumaa Kolledž<strong class="changes">]]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+summary: Одного раза достаточно
+flags: 
+blocks: 
+ts: 1438889143

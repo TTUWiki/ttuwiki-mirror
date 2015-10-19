@@ -1,22 +1,21 @@
-flags: 01010
-blocks: &lt;include "MATB02-09"&gt;
-	&lt;include "MATB02-02"&gt;
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;<br />&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1408891520
 minor: 1
-host: 89.235.223.25
 username: Bot
 revision: 3
-diff-major: 
 summary: Автоматическое обновление (расписание)
-languages: 
+ts: 1408891520
+keep-ts: 1408891520
+diff-major: 
+flags: 
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;<br />&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;</p></div>
+host: 89.235.223.25
+blocks: 
+ip: 89.235.235.166
 text: <include "MATB02-09">
 	
 	<include "MATB02-02">
 	
 	
 	
+languages: 
 lastmajor: 1
-keep-ts: 1408891520

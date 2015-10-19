@@ -1,18 +1,8 @@
-flags: 0101010
-blocks: &lt;include "EATI02-15"&gt;
-	&lt;include "EATI02-09"&gt;
-	&lt;include "EATI02-02"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "EATI02-15"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1438886312
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 4
-diff-major: 
 summary: Автоматическое обновление
-languages: 
+diff-major: 
+username: Bot
+minor: 1
+blocks: 
 text: <include "EATI02-15">
 	
 	<include "EATI02-09">
@@ -21,5 +11,13 @@ text: <include "EATI02-15">
 	
 	
 	
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "EATI02-15"&gt;</p></div>
+ip: 89.235.235.166
 lastmajor: 1
+revision: 4
 keep-ts: 1438886312
+flags: 
+languages: 
+ts: 1438886312
+host: 85.253.110.44

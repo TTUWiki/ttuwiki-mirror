@@ -1,16 +1,13 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAPB02/09 - Informaatika [Kava:50067 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[ITI0050]] Algoritmid ja andmestruktuurid<br />[[IDU0220]] Andmebaasid I<br />[[IDU0230]] Andmebaasid II<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[ITT0030]] Diskreetne matemaatika II<br />[[IED0150]] Elektroonika<br />[[IDU004P]] Erialapraktika<br />[[IDN0011]] Erialatutvustus<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[ITV0130]] Kasutajaliidesed<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[YMA3710]] Lineaaralgebra<br />[[ITI0021]] Loogiline programmeerimine<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[ISS0050]] Mõõtmine<br />[[IDK0051]] Objektorienteeritud programmeerimine keeles Java<br />[[TTO3160]] Õigusõpetus<br />[[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[UTT0010]] Õpingukorraldus<br />[[IDK1011]] Programmeerimise algkursus<br />[[ITI0011]] Programmeerimise põhikursus Javas<br />[[IDK1031]] Programmeerimise põhikursus keeles C<br />[[IRT3930]] Side<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[IDK0071]] Tarkvaratehnika<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus<br />[[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia<br />[[IDU0075]] Veebiteenused<br />[[ITV0110]] Võrgurakendused I<br />[[ITV0120]] Võrgurakendused II</p>
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPB02/09 - Informaatika Kava:50067</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPB02/09 - Informaatika <strong class="changes">[</strong>Kava:50067 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
+keep-ts: 1441924150
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
+blocks: 
+minor: 1
+ts: 1441924150
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IAPB02/09 - Informaatika [Kava:50067 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITI0050]] Algoritmid ja andmestruktuurid
@@ -54,4 +51,7 @@ text: == IAPB02/09 - Informaatika [Kava:50067 〔Õppekava ÕIS-is〕]
 	[[ITV0120]] Võrgurakendused II
 	
 	
-keep-ts: 1441924150
+revision: 4
+flags: 
+languages: 
+diff-major: 

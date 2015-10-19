@@ -1,16 +1,6 @@
-flags: 0101010
-blocks: &lt;include "VDMR14-15"&gt;
-	&lt;include "VDMR14-14EMERA"&gt;
-	&lt;include "VDMR14-14"&gt;
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "VDMR14-15"&gt;</p></div>
-ts: 1438887211
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 3
-summary: Автоматическое обновление
+keep-ts: 1438887211
 diff-major: 
+host: 85.253.110.44
 languages: 
 text: <include "VDMR14-15">
 	
@@ -20,4 +10,12 @@ text: <include "VDMR14-15">
 	
 	
 	
-keep-ts: 1438887211
+ts: 1438887211
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "VDMR14-15"&gt;</p></div>
+flags: 
+blocks: 
+summary: Автоматическое обновление
+minor: 1
+revision: 3
+username: Bot

@@ -1,10 +1,11 @@
-username: AlexDaniel
-flags: 0100
-keep-ts: 1444779707
-host: 82.131.4.24
-summary: Moved to Page Generation
-lastmajor: 21
 minor: 
+ip: 84.52.48.194
+flags: 
+blocks: 
+revision: 21
+lastmajor: 21
+username: AlexDaniel
+languages: 
 text: DeletedPage
 	
 	=== Программы и предметы
@@ -52,9 +53,8 @@ text: DeletedPage
 	-- AlexDaniel 2015-01-25 15:25:46
 	
 	
-blocks: <p>DeletedPage</p><h3>Программы и предметы</h3><p>Для генерации страниц использовался этот скрипт:</p><p><a href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_ois" class="url http outside">parse_ois</a></p><p>Последний раз он запускался <strong>2015-08-06</strong>, то есть все программы, которые существовали на тот момент в ÕISе, должны присутствовать и на этом сайте.</p><h3>Расписания</h3><p><a class="url http outside" href="https://github.com/TTUWiki/ttuwiki-misc/blob/master/parse_timetable">parse_timetable</a></p><h3>Архивы сайтов</h3><p>[[File:get]]</p><p>С данными сайтами проблем нет, выкачиваются максимально:<br /></p><ul><li><a class="url http" href="http://www.hot.ee/iasb02/materials/index.htm">http://www.hot.ee/iasb02/materials/index.htm</a></li><li><a class="url http" href="http://www.starspirals.net/ttu/materjalid/index.php?dir=">http://www.starspirals.net/ttu/materjalid/index.php?dir=</a></li></ul><h4>Проблемные сайты:</h4><h4><a class="url http" href="http://ttuit.eu">http://ttuit.eu</a></h4><p>По какой-то причине часть данных не загружается, из-за чего многие ссылки либо вообще не работают, либо указывают на оригинальный сайт.</p><p><br /><br />Буду рад услышать любые предложения.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p><a href="http://aboutthat.era.ee" class="url http">http://aboutthat.era.ee</a> &#x2192;&#x00a0;<a href="http://imcaps.me/tut/" class="url http">http://imcaps.me/tut/</a></p><p>Я, владелец, выдам архивом по окончанию этого года.</p><p>&#x2013; Аноним 2015-01-25 14:51:46</p></div><div class="userComment"><p>Благодарю! Будет очень здорово.</p><p>В общем-то, архивы я начал собирать тогда, когда ttuit внезапно упал на несколько дней, а ведь там довольно много полезной инфы. То есть цель - сделать так, чтобы полезная информация не пропала. Если бы авторы сами предоставляли доступ к бекапам (будь то архивы на другом сервере или исходники на гитхабе, да что угодно вообще), то, конечно же, такой необходимости бы не было.</p><p>&#x2013; AlexDaniel 2015-01-25 15:25:46</p></div>
-revision: 21
-ts: 1444779707
+summary: Moved to Page Generation
 lastmajorsummary: Moved to Page Generation
-ip: 84.52.48.194
-languages: 
+keep-ts: 1444779707
+host: 82.131.4.24
+ts: 1444779707

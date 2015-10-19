@@ -1,16 +1,11 @@
-flags: 0101010
-blocks: &lt;include "BAAM06-15"&gt;
-	&lt;include "BAAM06-09"&gt;
-	&lt;include "BAAM06-06"&gt;
-diff-minor: 
-ts: 1438886976
-minor: 1
-host: 85.253.110.44
-username: Bot
-revision: 2
+blocks: 
 summary: Автоматическое обновление
-diff-major: 
+revision: 2
+diff-minor: 
 languages: 
+ts: 1438886976
+host: 85.253.110.44
+flags: 
 text: <include "BAAM06-15">
 	
 	<include "BAAM06-09">
@@ -19,4 +14,7 @@ text: <include "BAAM06-15">
 	
 	
 	
+minor: 1
 keep-ts: 1438886976
+username: Bot
+diff-major: 

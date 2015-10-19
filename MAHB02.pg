@@ -1,19 +1,4 @@
-flags: 010101010
-blocks: &lt;include "MAHB02-13"&gt;
-	&lt;include "MAHB02-09"&gt;
-	&lt;include "MAHB02-04"&gt;
-	&lt;include "MAHB02-02"&gt;
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;include "MAHB02-13"&gt;<br />&lt; &lt;include "MAHB02-09"&gt;<br />&lt; &lt;include "MAHB02-04"&gt;<br />&lt; &lt;include "MAHB02-02"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1408891497
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 3
-diff-major: 
-summary: Автоматическое обновление (расписание)
-languages: 
+keep-ts: 1408891497
 text: <include "MAHB02-13">
 	
 	<include "MAHB02-09">
@@ -24,5 +9,17 @@ text: <include "MAHB02-13">
 	
 	
 	
+host: 89.235.223.25
+diff-major: 
+username: Bot
+ip: 89.235.235.166
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;include "MAHB02-13"&gt;<br />&lt; &lt;include "MAHB02-09"&gt;<br />&lt; &lt;include "MAHB02-04"&gt;<br />&lt; &lt;include "MAHB02-02"&gt;</p></div>
+ts: 1408891497
+flags: 
+minor: 1
 lastmajor: 1
-keep-ts: 1408891497
+revision: 3
+blocks: 
+summary: Автоматическое обновление (расписание)
+languages: 

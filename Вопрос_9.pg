@@ -1,12 +1,10 @@
-username: AlexDaniel
-minor: 
-languages: 
-ts: 1435438094
-keep-ts: 1435438094
+blocks: 
 host: 85.253.108.211
-diff-major: 1
-flags: 0101
-blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+lastmajor: 4
+languages: 
+flags: 
+username: AlexDaniel
+summary: Ссылки
 text: [[IDN0010]] Erialatutvustus. Есть ли уже темы для эссе?
 	
 	-- Anna 2014-11-17 23:23:44
@@ -24,6 +22,8 @@ diff-minor: <p><strong>Changed:</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[[</strong>IDN0010<strong class="changes">]]</strong> Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Ответ же тут прозвучал: <strong class="changes">http://ttuwiki.org/</strong>IDN0011 да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Ответ же тут прозвучал: <strong class="changes">[[</strong>IDN0011<strong class="changes">]]</strong> да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div>
-lastmajor: 4
+minor: 
+ts: 1435438094
 revision: 4
-summary: Ссылки
+diff-major: 1
+keep-ts: 1435438094

@@ -1,13 +1,5 @@
-flags: 010
-blocks: <p>В рамках этого предмета можно либо продолжить проект по [[IDU0220]], либо начать новый. Поскольку объем работы большой, препод настоятельно советует делать проект вдвоем, а то и втроем.</p><p>Препод советует использовать PostgreSQL, но выбор между PostgreSQL и Oracle остается за вами.</p>
-ip: 89.235.235.166
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 7
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+revision: 7
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -17,3 +9,11 @@ text: #SUBTITLE Andmebaasid II
 	
 lastmajor: 4
 keep-ts: 1441924447
+host: 82.131.7.230
+ts: 1441924447
+username: AlexDaniel
+blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+flags: 1

@@ -1,12 +1,9 @@
-flags: 0
+ip: 89.235.235.166
 revision: 12
-host: 86.110.37.246
-username: 
-blocks: <h3>Õppematerjal</h3><p><a href="https://www.energia.ee/et/koostoo-oppeasutustega" class="url http outside">Õppematerjal</a></p><h4>Upcoming events</h4><ul><li><strong>21.Oktoober</strong> - Märt Ots - Konkurentsiameti peadirektor. <strong>Konkurentsiameti roll energiamajanduses.</strong></li></ul>
-summary: 
-minor: 
-lastmajor: 12
-keep-ts: 1444847867
+flags: 1
+blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
+ts: 1444847867
+languages: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -20,7 +17,10 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	* **21.Oktoober**  - Märt Ots - Konkurentsiameti peadirektor. **Konkurentsiameti roll energiamajanduses.**
 	
 	
-ts: 1444847867
-languages: 
+host: 86.110.37.246
+lastmajor: 12
+minor: 
+username: 
+summary: 
 lastmajorsummary: 
-ip: 89.235.235.166
+keep-ts: 1444847867

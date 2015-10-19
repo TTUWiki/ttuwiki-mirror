@@ -1,19 +1,10 @@
-flags: 010101010101010101010101010101010
-blocks: <p>[[IABB02]] Äriinfotehnoloogia<br />[[IASB02]] Arvutisüsteemid<br />[[IAEB02]] Elektroonika ja bioonika<br />[[IALB13]] Elektroonika ja telekommunikatsioon<br />[[IAPB02]] Informaatika<br />[[IATB02]] Telekommunikatsioon</p><p>[[IABM02]] Äriinfotehnoloogia<br />[[IASM02]] Arvutisüsteemid<br />[[IAEM02]] Elektroonika ja bioonika<br />[[IVEM11]] Elektroonika ja kommunikatsioon<br />[[IVGM13]] E-riigi tehnoloogiad ja teenused<br />[[IAPM02]] Informaatika<br />[[IVCM09]] Küberkaitse<br />[[IVSM09]] Tarkvaratehnika<br />[[IATM02]] Telekommunikatsioon</p><p>[[IAQD02]] Info- ja kommunikatsioonitehnoloogia</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[IABB02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&lt; [[IASB02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&lt; [[IAEB02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&lt; [[IALB13]] Elektroonika ja telekommunikatsioon<strong class="changes">\\</strong><br />&lt; [[IAPB02]] Informaatika<strong class="changes">\\</strong><br />&lt; [[IATB02]] Telekommunikatsioon<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[IABM02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&lt; [[IASM02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&lt; [[IAEM02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&lt; [[IVEM11]] Elektroonika ja kommunikatsioon<strong class="changes">\\</strong><br />&lt; [[IVGM13]] E-riigi tehnoloogiad ja teenused<strong class="changes">\\</strong><br />&lt; [[IAPM02]] Informaatika<strong class="changes">\\</strong><br />&lt; [[IVCM09]] Küberkaitse<strong class="changes">\\</strong><br />&lt; [[IVSM09]] Tarkvaratehnika<strong class="changes">\\</strong><br />&lt; [[IATM02]] Telekommunikatsioon<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[IAQD02]] Info- ja kommunikatsioonitehnoloogia<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[IABB02]] Äriinfotehnoloogia<br />&gt; [[IASB02]] Arvutisüsteemid<br />&gt; [[IAEB02]] Elektroonika ja bioonika<br />&gt; [[IALB13]] Elektroonika ja telekommunikatsioon<br />&gt; [[IAPB02]] Informaatika<br />&gt; [[IATB02]] Telekommunikatsioon<br />&gt; [[IABM02]] Äriinfotehnoloogia<br />&gt; [[IASM02]] Arvutisüsteemid<br />&gt; [[IAEM02]] Elektroonika ja bioonika<br />&gt; [[IVEM11]] Elektroonika ja kommunikatsioon<br />&gt; [[IVGM13]] E-riigi tehnoloogiad ja teenused<br />&gt; [[IAPM02]] Informaatika<br />&gt; [[IVCM09]] Küberkaitse<br />&gt; [[IVSM09]] Tarkvaratehnika<br />&gt; [[IATM02]] Telekommunikatsioon<br />&gt; [[IAQD02]] Info- ja kommunikatsioonitehnoloogia</p></div>
+lastmajor: 11
 ip: 89.235.235.166
-ts: 1408885716
-minor: 1
-host: 89.235.223.25
-username: Bot
+blocks: 
 revision: 12
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[IABB02]] Äriinfotehnoloogia<br />&lt; [[IASB02]] Arvutisüsteemid<br />&lt; [[IAEB02]] Elektroonika ja bioonika<br />&lt; [[IALB13]] Elektroonika ja telekommunikatsioon<br />&lt; [[IAPB02]] Informaatika<br />&lt; [[IATB02]] Telekommunikatsioon</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[IABB02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&gt; [[IASB02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&gt; [[IAEB02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&gt; [[IALB13]] Elektroonika ja telekommunikatsioon<strong class="changes">\\</strong><br />&gt; [[IAPB02]] Informaatika<strong class="changes">\\</strong><br />&gt; [[IATB02]] Telekommunikatsioon<strong class="changes">\\<br />&gt; \\</strong></p></div>
 summary: Автоматическое обновление (расписание)
 languages: 
+host: 89.235.223.25
 text: [[IABB02]] Äriinfotehnoloogia
 	[[IASB02]] Arvutisüsteemid
 	[[IAEB02]] Elektroonika ja bioonika
@@ -35,5 +26,14 @@ text: [[IABB02]] Äriinfotehnoloogia
 	
 	
 	
-lastmajor: 11
+username: Bot
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[IABB02]] Äriinfotehnoloogia<br />&lt; [[IASB02]] Arvutisüsteemid<br />&lt; [[IAEB02]] Elektroonika ja bioonika<br />&lt; [[IALB13]] Elektroonika ja telekommunikatsioon<br />&lt; [[IAPB02]] Informaatika<br />&lt; [[IATB02]] Telekommunikatsioon</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[IABB02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&gt; [[IASB02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&gt; [[IAEB02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&gt; [[IALB13]] Elektroonika ja telekommunikatsioon<strong class="changes">\\</strong><br />&gt; [[IAPB02]] Informaatika<strong class="changes">\\</strong><br />&gt; [[IATB02]] Telekommunikatsioon<strong class="changes">\\<br />&gt; \\</strong></p></div>
+flags: 
+ts: 1408885716
 keep-ts: 1408885716
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[IABB02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&lt; [[IASB02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&lt; [[IAEB02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&lt; [[IALB13]] Elektroonika ja telekommunikatsioon<strong class="changes">\\</strong><br />&lt; [[IAPB02]] Informaatika<strong class="changes">\\</strong><br />&lt; [[IATB02]] Telekommunikatsioon<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[IABM02]] Äriinfotehnoloogia<strong class="changes">\\</strong><br />&lt; [[IASM02]] Arvutisüsteemid<strong class="changes">\\</strong><br />&lt; [[IAEM02]] Elektroonika ja bioonika<strong class="changes">\\</strong><br />&lt; [[IVEM11]] Elektroonika ja kommunikatsioon<strong class="changes">\\</strong><br />&lt; [[IVGM13]] E-riigi tehnoloogiad ja teenused<strong class="changes">\\</strong><br />&lt; [[IAPM02]] Informaatika<strong class="changes">\\</strong><br />&lt; [[IVCM09]] Küberkaitse<strong class="changes">\\</strong><br />&lt; [[IVSM09]] Tarkvaratehnika<strong class="changes">\\</strong><br />&lt; [[IATM02]] Telekommunikatsioon<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[IAQD02]] Info- ja kommunikatsioonitehnoloogia<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[IABB02]] Äriinfotehnoloogia<br />&gt; [[IASB02]] Arvutisüsteemid<br />&gt; [[IAEB02]] Elektroonika ja bioonika<br />&gt; [[IALB13]] Elektroonika ja telekommunikatsioon<br />&gt; [[IAPB02]] Informaatika<br />&gt; [[IATB02]] Telekommunikatsioon<br />&gt; [[IABM02]] Äriinfotehnoloogia<br />&gt; [[IASM02]] Arvutisüsteemid<br />&gt; [[IAEM02]] Elektroonika ja bioonika<br />&gt; [[IVEM11]] Elektroonika ja kommunikatsioon<br />&gt; [[IVGM13]] E-riigi tehnoloogiad ja teenused<br />&gt; [[IAPM02]] Informaatika<br />&gt; [[IVCM09]] Küberkaitse<br />&gt; [[IVSM09]] Tarkvaratehnika<br />&gt; [[IATM02]] Telekommunikatsioon<br />&gt; [[IAQD02]] Info- ja kommunikatsioonitehnoloogia</p></div>

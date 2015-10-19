@@ -1,6 +1,13 @@
-revision: 6
+minor: 
+lastmajor: 6
 languages: 
-flags: 0
+username: 
+blocks: [Course:101007 〔Õppeaine ÕIS-is〕]
+ts: 1444986375
+revision: 6
+ip: 89.235.235.166
+host: 86.110.37.246
+summary: 
 text: #SUBTITLE Katlatehnika
 	#SUBURL [Course:101007 〔Õppeaine ÕIS-is〕]
 	
@@ -9,13 +16,6 @@ text: #SUBTITLE Katlatehnika
 	
 	[http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika.pdf Loengukonspekt]
 	
-lastmajor: 6
-blocks: <p><a class="url http outside" href="http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika.pdf">Loengukonspekt</a></p>
-username: 
-summary: 
-ip: 89.235.235.166
-keep-ts: 1444986375
-minor: 
-ts: 1444986375
-host: 86.110.37.246
+flags: 1
 lastmajorsummary: 
+keep-ts: 1444986375

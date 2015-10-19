@@ -1,9 +1,6 @@
-blocks: <p><a class="image right inter File" href="http://files.ttuwiki.org/soojuspump.jpeg"><img class="upload" title="Soojuspump Soojustehnika Instituudis" src="http://files.ttuwiki.org/soojuspump.jpeg" alt="Soojuspump Soojustehnika Instituudis" /></a></p><p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://staff.ttu.ee/~dedov/Soojuspumbad">Õppeaine koduleht</a></li></ul>
-lastmajorsummary: Õppejõu -> Õppeaine
-ip: 89.235.235.166
-diff-major: 1
 summary: Õppejõu -> Õppeaine
 languages: 
+revision: 11
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -13,14 +10,17 @@ text: #SUBTITLE Soojuspumbad
 	* [http://staff.ttu.ee/~dedov/Soojuspumbad Õppeaine koduleht]
 	
 	
+lastmajorsummary: Õppejõu -> Õppeaine
 lastmajor: 11
+keep-ts: 1442318731
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; * [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppejõu</strong> koduleht]</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; * [http://staff.ttu.ee/~dedov/Soojuspumbad <strong class="changes">Õppeaine</strong> koduleht]</p></div>
-flags: 0
-ts: 1442318731
-minor: 
+flags: 1
+ip: 89.235.235.166
+blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+ts: 1442318731
 host: 82.131.7.230
-revision: 11
-keep-ts: 1442318731
+minor: 
+diff-major: 1
