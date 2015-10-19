@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IALB13/13 - Elektroonika ja telekommunikatsioon [Kava:50232 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[ITX0040]] Andmeturve<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0150]] Digitaalsüsteemid<br />[[IAY0010]] Diskreetne matemaatika<br />[[AME0011]] Elektromagnetilise ühilduvuse alused<br />[[IED0160]] Elektroonika<br />[[IXX0520]] Erialatutvustus<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[IEM0200]] Informatsioon ja füüsika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IRT0130]] Kodeerimismeetodid<br />[[IRM0110]] Laineväljad ja antennid<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IED0270]] Praktika<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[IED0290]] Sensoorika<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IRO0150]] Signaalitöötlus I<br />[[IRZ0160]] Signaalitöötlus II<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IED0300]] Skeemitehnika I<br />[[IED0310]] Skeemitehnika II<br />[[IED3050]] SPICE simulatsioonid<br />[[ISS0010]] Süsteemiteooria<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IALB13/13 - Elektroonika ja telekommunikatsioon Kava:50232</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IALB13/13 - Elektroonika ja telekommunikatsioon <strong class="changes">[</strong>Kava:50232 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IALB13/13 - Elektroonika ja telekommunikatsioon [Kava:50232 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITX0040]] Andmeturve
@@ -51,4 +40,15 @@ text: == IALB13/13 - Elektroonika ja telekommunikatsioon [Kava:50232 〔Õppekav
 	[[ISS0110]] Väljendusoskus
 	
 	
+languages: 
+ts: 1441924150
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
+host: 82.131.7.230
+revision: 4
 keep-ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IALB13/13 - Elektroonika ja telekommunikatsioon Kava:50232</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IALB13/13 - Elektroonika ja telekommunikatsioon <strong class="changes">[</strong>Kava:50232 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+blocks: 

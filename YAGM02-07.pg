@@ -1,16 +1,10 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAGM02/07 - Geenitehnoloogia [Kava:5061 〔Õppekava ÕIS-is〕]</h2><p>[[YTM0032]] Arengubioloogia II<br />[[YTG0080]] Bakterigeneetika<br />[[YKB3330]] Biofüüsika<br />[[YTP0020]] Bioinformaatika vahendid proteoomikas<br />[[YTM0070]] Bioloogia ajalugu<br />[[YKB5220]] Biotehnoloogia  I<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[YTP0081]] Evolutsiooniline bioloogia<br />[[YKB1111]] Fermentatsioon ja rakudisain<br />[[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid<br />[[YTG0012]] Geenitehnoloogia II<br />[[YTD0033]] Immunoloogia II<br />[[HLI8750]] Inglise teaduskeel<br />[[YKA3411]] Instrumentaalanalüüs<br />[[YFT3191]] Kaasaegne füüsika  I<br />[[YTX0050]] Laboratoorne eripraktika<br />[[YTX0020]] Laboriseminarides osalemine<br />[[YKL0010]] Looduslike ühendite keemia I<br />[[YTX0040]] Magistripraktika<br />[[YTM5012]] Molekulaarbioloogia II<br />[[DMK0070]] Molekulaarmeditsiin<br />[[YKB1112]] Molekulaarne biotehnoloogia<br />[[YTD0062]] Molekulaarne viroloogia<br />[[YTM0042]] Neurobioloogia II<br />[[YTP0051]] Nukleiinhapete keemia<br />[[DMO0042]] Onkobioloogia<br />[[YTM8022]] Rakubioloogia II<br />[[YTG0090]] Seente molekulaarbioloogia<br />[[YTG0100]] Selgrootute molekulaarbioloogia<br />[[YTX0011]] Seminarid või ettekanded geenitehnoloogiast I<br />[[YTX0012]] Seminarid või ettekanded geenitehnoloogiast II<br />[[HHF5201]] Sissejuhatus teadusfilosoofiasse<br />[[YTG0120]] Taimede biotehnoloogia<br />[[YTG0110]] Taimede molekulaarbioloogia<br />[[DMK0090]] Üldpatoloogia<br />[[YTP0061]] Valkude keemia ja struktuur</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAGM02/07 - Geenitehnoloogia Kava:5061</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAGM02/07 - Geenitehnoloogia <strong class="changes">[</strong>Kava:5061 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
-minor: 1
-host: 82.131.7.230
+blocks: 
 username: AlexDaniel
-revision: 4
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+revision: 4
+keep-ts: 1441924155
+diff-major: 
+minor: 1
 text: == YAGM02/07 - Geenitehnoloogia [Kava:5061 〔Õppekava ÕIS-is〕]
 	[[YTM0032]] Arengubioloogia II
 	[[YTG0080]] Bakterigeneetika
@@ -50,4 +44,10 @@ text: == YAGM02/07 - Geenitehnoloogia [Kava:5061 〔Õppekava ÕIS-is〕]
 	[[YTP0061]] Valkude keemia ja struktuur
 	
 	
-keep-ts: 1441924155
+languages: 
+host: 82.131.7.230
+ts: 1441924155
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAGM02/07 - Geenitehnoloogia Kava:5061</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAGM02/07 - Geenitehnoloogia <strong class="changes">[</strong>Kava:5061 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+flags: 

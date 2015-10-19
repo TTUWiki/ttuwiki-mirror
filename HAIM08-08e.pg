@@ -1,16 +1,9 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>HAIM08/08e - Õigusteadus [Kava:50132 〔Õppekava ÕIS-is〕]</h2><p>[[HOA7005]] Avaliku õiguse eriseminar<br />[[HOL7007]] EL institutsionaalne õigus edasijõudnutele<br />[[HOL6018]] EL tarbijakaitseõigus<br />[[HOE7001]] Eraõiguse eriseminar<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HOE6027]] Finantsõigus<br />[[HOA7013]] Halduskohtumenetlus<br />[[HOA6012]] Keskkonnaõigus<br />[[HOA7009]] Kriminaal- ja karistuspoliitika probleemid ja arengud<br />[[HOA7014]] Kriminaalkohtumenetlus<br />[[HOA7006]] Kriminaalõiguse eriseminar<br />[[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis<br />[[HOE6028]] Maksuõigus<br />[[HOR6026]] Meedia ja õigus<br />[[HOR6028]] Mereõigus<br />[[HOR6027]] Õiguse eetika<br />[[HOA7012]] Õiguskorra sotsioloogia<br />[[HOE6018]] Pankrotiõigus<br />[[HOE6030]] Perekonna- ja pärimisõigus<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOA7015]] Psühholoogia õigusmenetluses<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7009]] Soome õigussüsteem<br />[[HOA7010]] Sotsiaal- ja kriminaalpreventsioon<br />[[HOA7011]] Teoreetiline ja rakenduskriminoloogia<br />[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika<br />[[HOE6029]] Tsiviilkohtumenetlus<br />[[HOA7016]] Väärteomenetlus</p>
+blocks: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAIM08/08e - Õigusteadus Kava:50132</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAIM08/08e - Õigusteadus <strong class="changes">[</strong>Kava:50132 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == HAIM08/08e - Õigusteadus [Kava:50132 〔Õppekava ÕIS-is〕]
 	[[HOA7005]] Avaliku õiguse eriseminar
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
@@ -44,4 +37,11 @@ text: == HAIM08/08e - Õigusteadus [Kava:50132 〔Õppekava ÕIS-is〕]
 	[[HOA7016]] Väärteomenetlus
 	
 	
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924149
+flags: 
+diff-major: 
+host: 82.131.7.230
+ts: 1441924149
+revision: 4

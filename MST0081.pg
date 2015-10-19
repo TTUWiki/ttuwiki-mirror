@@ -1,23 +1,23 @@
-blocks: <p>Õppematerjalid:<br /></p><ul><li><a class="url http outside" href="http://staff.ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/">Õppeaine koduleht</a></li></ul>
-lastmajorsummary: 
+minor: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"> <br />&gt; Õppematerjalid:<br />&gt; * [http://staff</strong>.<strong class="changes">ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Õppeaine koduleht]</strong></p></div>
 ip: 89.235.235.166
+blocks: [Course:101264 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1442558939
+host: 86.110.37.246
+username: 
+lastmajor: 5
 diff-major: 1
-summary: 
+revision: 5
 languages: 
+lastmajorsummary: 
+keep-ts: 1442558939
+summary: 
 text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	#SUBURL [Course:101264 〔Õppeaine ÕIS-is〕]
 	 
 	Õppematerjalid:
 	* [http://staff.ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Õppeaine koduleht]
 	
-lastmajor: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"> <br />&gt; Õppematerjalid:<br />&gt; * [http://staff</strong>.<strong class="changes">ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Õppeaine koduleht]</strong></p></div>
-flags: 0
-ts: 1442558939
-minor: 
-username: 
-host: 86.110.37.246
-revision: 5
-keep-ts: 1442558939

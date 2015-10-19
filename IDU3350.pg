@@ -1,13 +1,11 @@
-flags: 01010
-blocks: <p>Программа курса:<br />[[File:idu3350.pdf]]</p><p>Материалы лекций:<br /><a class="url http" href="http://maurus.ttu.ee/yld_index.php">http://maurus.ttu.ee/yld_index.php</a></p><p>Пример проекта, который нужно сдать к концу семестра:<br />[[File:Primer_proekta_Ehitusfirma.pdf]]</p>
-ip: 89.235.235.166
-ts: 1441924447
+languages: 
+keep-ts: 1441924447
 minor: 1
 host: 82.131.7.230
-username: AlexDaniel
+blocks: [Course:26901 〔Õppeaine ÕIS-is〕]
 revision: 6
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+username: AlexDaniel
+ts: 1441924447
 text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	#SUBURL [Course:26901 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +20,6 @@ text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	
 	
 lastmajor: 5
-keep-ts: 1441924447
+flags: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

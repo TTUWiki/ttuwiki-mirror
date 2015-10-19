@@ -1,20 +1,20 @@
-flags: 010
-blocks: &lt;include "YAMB11-11"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== YAMB11/11 - Maa-teadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50174&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[YKA0011]] Analüütiline keemia\\<br />&lt; [[YKI0031]] Anorgaaniline keemia I\\<br />&lt; [[NGG0112]] Eesti geoloogia põhijooned\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[ETG0011]] Geodeesia I\\<br />&lt; [[ETG0012]] Geodeesia II\\<br />&lt; [[ETG3511]] Geograafiline infosüsteem GIS I\\<br />&lt; [[NGG0113]] Geoloogia õppepraktika I\\<br />&lt; [[NGG0114]] Geoloogia õppepraktika II\\<br />&lt; [[EMH5020]] Hüdro- ja aeromehaanika\\<br />&lt; [[IDK0092]] Informaatika II (tehnika)\\<br />&lt; [[IDK0091]] Informaatika I (tehnika)\\<br />&lt; [[AKG0030]] Insenerigeoloogia alused\\<br />&lt; [[ETG0100]] Kartograafia\\<br />&lt; [[YKI0020]] Keemia alused\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit\\<br />&lt; [[NSO0110]] Läänemeri\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMR0020]] Matemaatikapaketid\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[NSO8054]] Meteoroloogilised ja okeanograafilised teenused\\<br />&lt; [[NSO7050]] Meteoroloogiliste vaatluste meetodid\\<br />&lt; [[YFR0140]] Metroloogia alused\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[NSO8059]] Mõõdistustööd okeanograafias\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[NSO8052]] Okeanograafia-meteoroloogia praktika I\\<br />&lt; [[NSO8053]] Okeanograafia-meteoroloogia praktika II\\<br />&lt; [[YTG0050]] Ökoloogia ja looduskaitse\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[NGG0111]] Planeet Maa ajalugu\\<br />&lt; [[NGG0115]] Rannikuprotsessid ja randade evolutsioon\\<br />&lt; [[TMT3360]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[NGG8025]] Üldgeoloogia\\<br />&lt; [[EKE0160]] Üldine hüdroloogia\\<br />&lt; [[NSO7022]] Üldine klimatoloogia\\<br />&lt; [[NSO7021]] Üldine meteoroloogia\\<br />&lt; [[NSO8021]] Üldine okeanograafia ja limnoloogia\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YAMB11</strong>-<strong class="changes">11"&gt;</strong></p></div>
-ip: 89.235.235.166
-ts: 1408885957
-minor: 1
-host: 89.235.223.25
-username: Bot
-revision: 2
-diff-major: 
-summary: Автоматическое обновление (расписание)
+keep-ts: 1408885957
 languages: 
 text: <include "YAMB11-11">
 	
 	
 	
+host: 89.235.223.25
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== YAMB11/11 - Maa-teadused [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50174&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[YKA0011]] Analüütiline keemia\\<br />&lt; [[YKI0031]] Anorgaaniline keemia I\\<br />&lt; [[NGG0112]] Eesti geoloogia põhijooned\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[ETG0011]] Geodeesia I\\<br />&lt; [[ETG0012]] Geodeesia II\\<br />&lt; [[ETG3511]] Geograafiline infosüsteem GIS I\\<br />&lt; [[NGG0113]] Geoloogia õppepraktika I\\<br />&lt; [[NGG0114]] Geoloogia õppepraktika II\\<br />&lt; [[EMH5020]] Hüdro- ja aeromehaanika\\<br />&lt; [[IDK0092]] Informaatika II (tehnika)\\<br />&lt; [[IDK0091]] Informaatika I (tehnika)\\<br />&lt; [[AKG0030]] Insenerigeoloogia alused\\<br />&lt; [[ETG0100]] Kartograafia\\<br />&lt; [[YKI0020]] Keemia alused\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[EKE0120]] Keskkonnamõju hindamine ja keskkonnaaudit\\<br />&lt; [[NSO0110]] Läänemeri\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMR0020]] Matemaatikapaketid\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[NSO8054]] Meteoroloogilised ja okeanograafilised teenused\\<br />&lt; [[NSO7050]] Meteoroloogiliste vaatluste meetodid\\<br />&lt; [[YFR0140]] Metroloogia alused\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[NSO8059]] Mõõdistustööd okeanograafias\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[NSO8052]] Okeanograafia-meteoroloogia praktika I\\<br />&lt; [[NSO8053]] Okeanograafia-meteoroloogia praktika II\\<br />&lt; [[YTG0050]] Ökoloogia ja looduskaitse\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[NGG0111]] Planeet Maa ajalugu\\<br />&lt; [[NGG0115]] Rannikuprotsessid ja randade evolutsioon\\<br />&lt; [[TMT3360]] Riski</strong>- <strong class="changes">ja ohutusõpetus\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[NGG8025]] Üldgeoloogia\\<br />&lt; [[EKE0160]] Üldine hüdroloogia\\<br />&lt; [[NSO7022]] Üldine klimatoloogia\\<br />&lt; [[NSO7021]] Üldine meteoroloogia\\<br />&lt; [[NSO8021]] Üldine okeanograafia ja limnoloogia\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YAMB11</strong>-<strong class="changes">11"&gt;</strong></p></div>
+flags: 
+summary: Автоматическое обновление (расписание)
+username: Bot
+minor: 1
+blocks: 
+diff-major: 
+revision: 2
+ts: 1408885957
+ip: 89.235.235.166
 lastmajor: 1
-keep-ts: 1408885957

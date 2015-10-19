@@ -1,14 +1,7 @@
-flags: 0
-blocks: <p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html">Õppematerjal</a></p><p><a class="url http outside" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html"> Automaatjuhtimise alused</a></p><h2>Kirjandus:</h2><ul><li>L. Einer. Automaatregulaatorid. Kirjastus “Valgus”, Tallinn, 1974<br />Pao C. Chau: Process control. A first course with MATLAB. Cambridge<br />University Press. 2002.<br /></li><li>V. J. Rotatš. Teoria avtomatitšeskogo upravlenija teploenergetitšeskimi<br />protsessami. (“Soojusenergeetiliste protsesside automaatjuhtimise<br />teooria”)<br /></li><li><a class="url http" href="http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html">http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html</a></li></ul>
-lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1441924448
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 6
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+keep-ts: 1441924448
+flags: 1
 text: #SUBTITLE Soojusautomaatika
 	#SUBURL [Course:100963 〔Õppeaine ÕIS-is〕]
 	[[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html Õppematerjal]]
@@ -25,5 +18,12 @@ text: #SUBTITLE Soojusautomaatika
 	teooria”)
 	*http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html
 	
+host: 82.131.7.230
+revision: 6
+lastmajorsummary: 
+blocks: [Course:100963 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+ts: 1441924448
 lastmajor: 5
-keep-ts: 1441924448
+minor: 1
