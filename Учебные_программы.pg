@@ -1,17 +1,16 @@
-flags: 0101010101010101010101010
-blocks: <p>[[Ehitusteaduskond]]<br />[[Energeetikateaduskond]]<br />[[Infotehnoloogia teaduskond]]<br />[[Keemia- ja materjalitehnoloogia teaduskond]]<br />[[Majandusteaduskond]]<br />[[Matemaatika-loodusteaduskond]]<br />[[Mehaanikateaduskond]]<br />[[Sotsiaalteaduskond]]<br />[[TTÜ Kuressaare Kolledž]]<br />[[TTÜ Tallinna Kolledž]]<br />[[TTÜ Tartu Kolledž]]<br />[[TTÜ Virumaa Kolledž]]<br /></p>
+ts: 1391204997
+blocks: 
+lastmajor: 8
+flags: 
+minor: 
+languages: 
+revision: 8
+diff-major: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[[Ehitusteaduskond]]\\<br />&gt; [[Energeetikateaduskond]]\\<br />&gt; [[Infotehnoloogia teaduskond]]\\<br />&gt; [[Keemia- ja materjalitehnoloogia teaduskond]]\\<br />&gt; [[Majandusteaduskond]]\\<br />&gt; [[Matemaatika-loodusteaduskond]]\\<br />&gt; [[Mehaanikateaduskond]]\\<br />&gt; [[Sotsiaalteaduskond]]\\<br />&gt; [[TTÜ Kuressaare Kolledž]]\\<br />&gt; [[TTÜ Tallinna Kolledž]]\\<br />&gt; [[TTÜ Tartu Kolledž]]\\<br />&gt; [[TTÜ Virumaa Kolledž]]\\</strong></p></div>
-ip: 89.235.235.166
-ts: 1391204997
-minor: 
-host: 89-235-235-166.saturn.infonet.ee
 username: AlexDaniel
-revision: 8
-diff-major: 1
-summary: 
-languages: 
+keep-ts: 1391204997
 text: [[Ehitusteaduskond]]\\
 	[[Energeetikateaduskond]]\\
 	[[Infotehnoloogia teaduskond]]\\
@@ -25,5 +24,6 @@ text: [[Ehitusteaduskond]]\\
 	[[TTÜ Tartu Kolledž]]\\
 	[[TTÜ Virumaa Kolledž]]\\
 	
-lastmajor: 8
-keep-ts: 1391204997
+ip: 89.235.235.166
+host: 89-235-235-166.saturn.infonet.ee
+summary: 
