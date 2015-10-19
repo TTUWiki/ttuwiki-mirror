@@ -1,17 +1,13 @@
-ts: 1444474747
-languages: 
-minor: 
-flags: 
-summary: NewMoodle
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt;  NewMoodle https://ained.ttu.ee/course/view.php?id=</p></div>
-keep-ts: 1444474747
-username: AlexDaniel
+host: 85.253.53.160
+revision: 23
 ip: 89.235.231.110
-lastmajorsummary: NewMoodle
-blocks: 
-text:  File http://files.ttuwiki.org/
-	 Fi http://files.ttuwiki.org/
+username: AlexDaniel
+lastmajorsummary: File uploads are now on ttuwiki.ee domain
+languages: 
+ts: 1445222076
+lastmajor: 23
+text:  File http://files.ttuwiki.ee/
+	 Fi http://files.ttuwiki.ee/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
 	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
 	 TimetableKaug http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=161&g=
@@ -23,7 +19,6 @@ text:  File http://files.ttuwiki.org/
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
-diff-major: 1
-lastmajor: 22
-revision: 22
-host: 85.253.111.195
+keep-ts: 1445222076
+minor: 
+summary: File uploads are now on ttuwiki.ee domain
