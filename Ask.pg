@@ -1,4 +1,7 @@
-text: == Last question / Viimane küsimus / Последний вопрос
+flags: 0
+lastmajor: 2
+lastmajorsummary: Translations
+text: == Most recent question / Viimane küsimus / Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
 	== Ask your question / … / Задать вопрос
@@ -13,15 +16,12 @@ text: == Last question / Viimane küsimus / Последний вопрос
 	Все вопросы видны на [[Questions|отдельной странице]].
 	
 	
-languages: 
-lastmajorsummary: Translations
-revision: 4
-summary: Translations
-keep-ts: 1444780851
 username: AlexDaniel
-host: 82.131.4.24
-blocks: </div></div>
-flags: 0
+host: 85.253.53.160
+languages: 
 minor: 1
-ts: 1444780851
-lastmajor: 2
+summary: Last -> Most recent
+keep-ts: 1445219245
+ts: 1445219245
+revision: 5
+blocks: </div></div>
