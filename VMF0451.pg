@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+flags: 1
+keep-ts: 1441924452
 revision: 2
+host: 82.131.7.230
+languages: 
+ts: 1441924452
+username: AlexDaniel
+minor: 1
+blocks: [Course:109173 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kalakasvatus ja kalavarude rikastamine I
 	#SUBURL [Course:109173 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-keep-ts: 1441924452

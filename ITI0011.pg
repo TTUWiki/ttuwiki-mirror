@@ -1,13 +1,7 @@
-flags: 00
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Страница курса: <a class="url http" href="http://courses.cs.ttu.ee/pages/ITI0011">http://courses.cs.ttu.ee/pages/ITI0011</a><br />Группа с новостями курса: <a class="url http" href="https://groups.google.com/forum/#!forum/iti0011">https://groups.google.com/forum/#!forum/iti0011</a></p><p>&#x2013; Artur Gummel 2014-09-10 10:54:04</p></div>
-ip: 89.235.235.166
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+flags: 1
+blocks: [Course:100805 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Programmeerimise põhikursus Javas
 	#SUBURL [Course:100805 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -20,5 +14,11 @@ text: #SUBTITLE Programmeerimise põhikursus Javas
 	-- Artur Gummel 2014-09-10 10:54:04
 	
 	
-lastmajor: 4
+minor: 1
 keep-ts: 1441924447
+ip: 89.235.235.166
+revision: 5
+username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924447
+lastmajor: 4

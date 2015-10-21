@@ -1,6 +1,7 @@
-blocks: <h2>Materials</h2><ul><li><a class="url http outside" href="https://courses.cs.ttu.ee/pages/ITI0021">Info</a></li><li>[Moodle:5901 Moodle]</li></ul><h2>Примечания</h2><p>На первой лекции просто болтовня про правила игры, через 50 минут отпускает.</p><p>Вместо старого <a class="url http" href="https://moodle.hitsa.ee/">https://moodle.hitsa.ee/</a> используется <a class="url http" href="https://ained.ttu.ee/">https://ained.ttu.ee/</a>. После того, как вы туда залогинетесь, нужно выставить email, сохранить настройки дважды, и тогда вас пустит внутрь. Далее заходите на <a class="url http" href="https://ained.ttu.ee/course/">https://ained.ttu.ee/course/</a> и там находите предмет.</p><p>Еще есть какие-то старые материалы: <a class="url http" href="http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc">http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</a></p>
-lastmajorsummary: Page refactoring
-ip: 89.235.235.166
+blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
+summary: Wiki -> Info, since it is not a real wiki…
+keep-ts: 1444254337
+flags: 1
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">== Materials</strong></p></div><p><strong>Changed:</strong></p>
@@ -9,8 +10,15 @@ diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; -- AlexDaniel 2015-09-03 14:02:26<br />&lt; ----</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015</strong>-<strong class="changes">09-04 22:38</strong>:<strong class="changes">09<br />&lt; ----</strong><br />&lt; http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-26 14:31:13</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">Еще есть какие</strong>-<strong class="changes">то старые материалы</strong>: http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</p></div>
-summary: Wiki -> Info, since it is not a real wiki…
+ip: 89.235.235.166
+host: 85.253.111.195
 languages: 
+lastmajor: 11
+username: AlexDaniel
+lastmajorsummary: Page refactoring
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Wiki</strong>]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Info</strong>]</p></div>
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
 	
@@ -27,14 +35,6 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
-lastmajor: 11
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Wiki</strong>]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Info</strong>]</p></div>
-flags: 010
 ts: 1444254337
 minor: 1
-username: AlexDaniel
-host: 85.253.111.195
 revision: 12
-keep-ts: 1444254337

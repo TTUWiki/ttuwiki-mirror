@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Lukksepa- ja lõiketöötlemise õppepraktika III
 	#SUBURL [Course:108977 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+blocks: [Course:108977 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 1
 keep-ts: 1441924452
+username: AlexDaniel
+ts: 1441924452

@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010
-blocks: <h2>YAMD06/09 - Maa-teadused [Kava:50117 〔Õppekava ÕIS-is〕]</h2><p>[[NSO9020]] Atmosfääri- ja kliimateaduste alused<br />[[NSO9091]] Eriseminar okeanograafias ja meteoroloogias<br />[[NGG9065]] Füüsikalise geoloogia erikursus<br />[[NGG9051]] Füüsikalise geoloogia seminar<br />[[NGG9060]] Geoloogilised protsessid ja füüsikalis-keemilised meetodid geoloogias<br />[[HHP9010]] Juhtimispsühholoogia<br />[[NGG9020]] Maasüsteemi teaduste alused<br />[[NGG9015]] Meregeoloogia ja sedimentoloogia alused<br />[[NSO9060]] Okeanograafia erikursus<br />[[NSO9070]] Okeanograafilise andmetöötluse erikursus<br />[[NSO9080]] Okeanograafilise modelleerimise erikursus<br />[[NGG9012]] Õpetamis- ja ametipraktika geoloogias<br />[[NSO9096]] Õpetamis- ja ametipraktika okeanograafias ja meteoroloogias<br />[[TMK9310]] Projektijuhtimine<br />[[NGG9010]] Sissejuhatus füüsikalisse geoloogiasse<br />[[NGG9085]] Spetsialiseerumine füüsikalises geoloogias, koondeksam<br />[[NSO9035]] Spetsialiseerumine okeanograafias<br />[[HHF9030]] Teadusfilosoofia<br />[[HUP9010]] Teadus- ja hariduskorraldus<br />[[NGG9080]] Üldine geoloogia, koondeksam<br />[[NSO9030]] Üldine okeanograafia<br />[[NSO9010]] Veeteaduste alused</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAMD06/09 - Maa-teadused Kava:50117</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAMD06/09 - Maa-teadused <strong class="changes">[</strong>Kava:50117 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924155
 ts: 1441924155
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == YAMD06/09 - Maa-teadused [Kava:50117 〔Õppekava ÕIS-is〕]
 	[[NSO9020]] Atmosfääri- ja kliimateaduste alused
 	[[NSO9091]] Eriseminar okeanograafias ja meteoroloogias
@@ -36,4 +25,15 @@ text: == YAMD06/09 - Maa-teadused [Kava:50117 〔Õppekava ÕIS-is〕]
 	[[NSO9010]] Veeteaduste alused
 	
 	
-keep-ts: 1441924155
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAMD06/09 - Maa-teadused Kava:50117</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAMD06/09 - Maa-teadused <strong class="changes">[</strong>Kava:50117 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+flags: 
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+blocks: 
+diff-major: 

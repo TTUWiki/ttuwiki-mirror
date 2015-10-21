@@ -1,13 +1,4 @@
-flags: 0
-blocks: <h2>Информация</h2><p><a class="url http" href="http://staff.ttu.ee/~bgordon/oppetegevus/valjendus/gordon.html">http://staff.ttu.ee/~bgordon/oppetegevus/valjendus/gordon.html</a></p><h2>Лекции</h2><p>Посещение по собственному желанию, по сути на лекциях разбирается тот материал, который у него на слайдах.</p><h2>Харьютусы</h2><p>Нужно посетить как минимум 4 харьютуса. Если хотите добить баллы до максимального кол-ва (10), то идите и на пятый. Всего за семестр 8 харьютусов, на последние четыре ходят только те, кому чего-то не хватает.</p><h2>Домашние работы</h2><p>Нужно просто сделать реферат и рецензию. Тема реферат выбирается свободно, а вот материал для рецензирования с 2013-го года выбирать нельзя (хотя был случай, когда система сама в какой-то момент выдала другую рецензию).</p><h2>Экзамен</h2><p>10 вопросов по материалу со слайдов. Списывать не рекомендуется, однако у некоторых это получалось. Ответы принимаются в свободной форме, так что ничего сложного в этом нет.</p>
-ip: 84.52.48.194
 ts: 1441924447
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 6
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Väljendusoskus
 	#SUBURL [Course:31198 〔Õppeaine ÕIS-is〕]
 	
@@ -28,4 +19,13 @@ text: #SUBTITLE Väljendusoskus
 	
 	
 lastmajor: 3
+blocks: [Course:31198 〔Õppeaine ÕIS-is〕]
+ip: 84.52.48.194
+revision: 6
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 1
+minor: 1
+username: AlexDaniel
 keep-ts: 1441924447

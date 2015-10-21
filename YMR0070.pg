@@ -1,13 +1,10 @@
-flags: 01010
-blocks: <p>Раньше этот предмет вела Svetlana Babitšenko. Есть вероятность, что г-жа Бабиченко преподавать больше не будет.</p><p>Предмет преподается точно так же, как и [[YMA3710]]. Правила игры и процесс обучения один в один такой же. Можно лишь только отметить, что контрольная по теории в конце семестра пишется только один раз, и в итоге выводится какая-нибудь оценка. Как обычно, получить хоть какую-нибудь оценку не сложно, а чтобы получить оценку получше, проще всего переписывать контрольные сто раз.</p><p>У Äriinfotehnoloogia этот предмет дает на 1 [[EAP]] больше, чем у информатиков и всех остальных, но процесс обучения абсолютно не отличается (разве что практикумы идут немного дольше?).</p>
-ip: 89.235.235.166
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 7
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 languages: 
+lastmajor: 6
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:29428 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:29428 〔Õppeaine ÕIS-is〕]
 	
@@ -17,5 +14,8 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	
 	У Äriinfotehnoloogia этот предмет дает на 1 [[EAP]] больше, чем у информатиков и всех остальных, но процесс обучения абсолютно не отличается (разве что практикумы идут немного дольше?).
 	
-lastmajor: 6
-keep-ts: 1441924452
+revision: 7
+host: 82.131.7.230
+ip: 89.235.235.166
+flags: 1
+ts: 1441924452

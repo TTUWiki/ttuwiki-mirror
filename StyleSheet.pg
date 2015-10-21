@@ -1,17 +1,10 @@
-flags: 0
-blocks: <p>body {<br /> background-color: #DDDDDD;<br /> color: #282828;<br /> font-family: Arial,Helvetica,sans-serif;<br /> margin: 12px 0px;<br />}</p><p>.header, .wrapper, .footer {<br /> max-width: 900px;<br /> text-align: left;<br /> margin: 0px auto;<br />}</p><p>/*.footer a {<br /> white-space:nowrap;<br />} */</p><p>form.search {<br /> float: right;<br />/* display: inline;*/<br /> padding: 6px 8px 6px 35px;<br /> margin-right: 5px;<br /> margin-top: -5px;<br />}</p><p>form.search input[type=&#x201c;text&#x201d;] {<br /> background: #FCFCFC;<br /> border: 1px solid #D1D1D1;<br /> font: bold 12px Arial,Helvetica,Sans-serif;<br /> color: #BEBEBE;<br /> width: 170px;<br /> padding: 6px 12px;<br /> margin-right: 5px;<br /> margin-top: 15px;<br /> -webkit-border-radius: 2px;<br /> -moz-border-radius: 2px;<br /> border-radius: 2px;<br /> text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);<br /> -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;<br /> -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;<br /> box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;<br />}</p><p>h1 {<br /> display: inline-block;<br /> width: 100%;<br />}</p><p>h1&gt;a.edit {<br /> float: right;<br /> text-decoration: none;<br /> font-size: 50%;<br /> font-weight: normal;<br /> color: #DDDDDD;<br /> box-shadow: 0px 0px 4px #999999;<br /> border-radius: 2px;<br /> padding: 8px;<br /> background: -webkit-linear-gradient(#870042 , #6C0035); /* For Safari */<br /> background: -o-linear-gradient(#870042, #6C0035); /* For Opera 11.1 to 12.0 */<br /> background: -moz-linear-gradient(#870042, #6C0035); /* For Firefox 3.6 to 15 */<br /> background: linear-gradient(#870042, #6C0035); /* Standard syntax */<br />}</p><p>h2 { margin-top: 28px; }<br />h3 { font-size: 160%; }<br />h4 { font-size: 140%; }<br />h5 { font-size: 120%; margin-top: 0; margin-bottom: 0; }<br />h6 { font-size: 100%; margin-top: 0; margin-bottom: 0; }</p><p>a {<br /> color: #870042;<br /> text-decoration: none;<br /> font-family: &#x201c;Lucida Console&#x201d;, Monaco, monospace;<br />}</p><p>a:hover {<br /> text-decoration: underline;<br />}</p><p>a:active {<br /> text-decoration: underline;<br />}</p><p>.header&gt;.gotobar {<br /> float: left;<br /> font-family: Arial,Helvetica,sans-serif;<br /> position: static;<br /> background: -webkit-linear-gradient(#fefefe , #f1f1f1); /* For Safari */<br /> background: -o-linear-gradient(#fefefe, #f1f1f1); /* For Opera 11.1 to 12.0 */<br /> background: -moz-linear-gradient(#fefefe, #f1f1f1); /* For Firefox 3.6 to 15 */<br /> background: linear-gradient(#fefefe , #f1f1f1); /* Standard syntax */<br /> box-shadow: 0px 0px 4px #cccccc;<br /> border-radius: 2px;<br /> width: 100%;<br />}</p><p>.header&gt;h1 {<br /> margin-top: 32px;<br /> margin-bottom: 4px;<br /> position: inherit;<br />}</p><p>div.page h1 {<br /> margin: 0px 3px;<br /> font-size: 18px;<br />}</p><p>h3 {<br /> margin-top: 28px;<br />}</p><p>.gotobar&gt;a {<br /> right: 0px;<br /> top: 0px;<br /> white-space: nowrap;<br />}</p><p>.header&gt;.gotobar&gt;a {<br /> font-family: Arial,Helvetica,sans-serif;<br /> font-size: 16px;<br /> padding: 20px 10px 10px 10px;<br /> font-weight: normal;<br /> float: left;<br /> margin-top: 0px !important;<br /> margin-bottom: 0px !important;<br /> padding-top: 20px !important;<br /> padding-bottom: 20px !important;</p><p>}</p><p>.header&gt;.gotobar&gt;a:hover {<br /> text-decoration: none;<br /> background: -webkit-linear-gradient(#f2f2f2 , #d8d8d8);<br /> background: -o-linear-gradient(#f2f2f2, #d8d8d8);<br /> background: -moz-linear-gradient(#f2f2f2, #d8d8d8);<br /> background: linear-gradient(#f2f2f2, #d8d8d8);<br />}</p><p>.local {<br /> height: 100%;<br />}</p><p>input, textarea {<br /> color: #282828;<br /> background-color: #CCCCCC;<br /> border-style: solid;<br /> border-color: #666666;<br /> border-width: 1px;<br /> font-family: Arial,Helvetica,sans-serif;<br />}</p><p>.header form input {<br /> font-size: 18px;<br /> background-color: #EAEAEA;<br /> border-color: #BBBBBB;<br /> padding: 0px;<br /> border-radius:1px;<br />}</p><p>.footer span.edit a {<br /> margin-right: 25px;<br />}</p><p>.footer br {<br /> margin-bottom: 5px;<br />}</p><p>input {<br /> font-size:95%;<br />}</p><p>table.user {<br /> border-collapse: collapse;<br />}</p><p>table.user tr td {<br /> border: 1px solid #777777;<br /> padding: 3px;<br /> margin: 0px;<br />}</p><p>.homepage {<br /> display: none;<br />}</p><p>a.number {<br /> font-size: 60%;<br /> vertical-align: top;<br />}</p><p>li {<br /> margin: 4px 0px;<br />}</p><p>p.comment {<br /> margin: 50px 0px 0px 0px;<br />}</p><p>.page p.comment {<br /> margin: 0px 0px 0px 0px;<br />}</p><p>.footer&gt;form.search, div.footer span.gotobar, div.footer span.edit&gt;br {<br /> display:none;<br />}</p><p>code {<br /> font-size: 16px;<br /> font-family: &#x201c;Lucida Console&#x201d;, Monaco, monospace;<br />}</p><p>.rc&gt;p a {<br /> padding: 0px 10px;<br />}</p><p>div.page {<br /> background-color: #CCCCCC;<br /> border-color: #BBBBBB;<br /> border-radius: 1px;<br /> padding: 10px;<br /> margin: 20px 0px;<br /> font-size: 100%;<br />/* font-weight: bold;*/<br />}</p><p>div.page&gt;hr {<br /> counter-increment: commentscount;<br />}</p><p>div.page p.comment:after {<br /> content: &#x201c; (&#x201d; counter(commentscount) &#x201c;)&#x201d;;<br />}</p><p>div.page&gt;hr , div.page&gt;hr:first-of-type*:not(.comment) {<br /> visibility: hidden;<br /> position: absolute;<br />}</p><p>.more {<br /> margin-top: 6px;<br /> margin-bottom: 35px;<br />}</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; div<strong class="changes">..</strong>page p.comment:after {</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; div<strong class="changes">.</strong>page p.comment:after {</p></div>
-ip: 89.235.239.240
-ts: 1402695286
-minor: 
-host: 89-235-239-240.saturn.infonet.ee
-username: AlexDaniel
-revision: 91
-diff-major: 1
 summary: 
+ts: 1402695286
+lastmajor: 91
+blocks: 
 languages: 
+flags: 
+ip: 89.235.239.240
 text: body {
 	    background-color: #DDDDDD;
 	    color: #282828;
@@ -256,5 +249,12 @@ text: body {
 	    margin-bottom: 35px;
 	}
 	
-lastmajor: 91
+diff-major: 1
+revision: 91
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; div<strong class="changes">..</strong>page p.comment:after {</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; div<strong class="changes">.</strong>page p.comment:after {</p></div>
+username: AlexDaniel
+minor: 
 keep-ts: 1402695286
+host: 89-235-239-240.saturn.infonet.ee

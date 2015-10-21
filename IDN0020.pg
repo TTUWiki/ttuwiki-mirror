@@ -1,13 +1,13 @@
-flags: 0100
-blocks: <h2>Информация</h2><p><a class="url http" href="http://www.ttu.ee/persoon/gunnar-piho/oppematerjalid-18/sissejuhatus-erialasse/">http://www.ttu.ee/persoon/gunnar-piho/oppematerjalid-18/sissejuhatus-erialasse/</a></p><h2>Лекции</h2><p>Посещение по желанию. На лекциях просто рассказывают о том, какая перспективы вас ждут.</p><h2>Оценка</h2><p>Для получения зачета необходимо написать эссе на 3 страницы. Тема - &#x201c;Kelleks tahan saada&#x201d;. Лучше начинать в начале семестра, так как в конце у вас не будет так много свободного времени.<br />Можно постараться написать сочинение так, чтобы его потом можно было повторно использовать для [[TMJ0110]].</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Лекции<br />Редкие лекции (если не ошибаюсь всего 8 за семестр) проходят на эстонском языке. Разъясняет, что это за специальность такая и чему можно с ней добиться в будущем. Пару раз придут менторы, познакомиться, дать о себе знать. Вообще, не отмечает, не запоминает. Так что если особого желания ходить на лекции нет, то можно себя не переутруждать. Достаточно сходить на первую лекцию, чтобы заценить обстановку и получить задание, которое нужно выполнить к концу семестра: написать эссе.</p><p>&#x2013; Аноним 2014-02-28 10:14 UTC</p></div>
-ip: 82.131.48.5
-ts: 1441924447
-minor: 1
+flags: 1
 host: 82.131.7.230
-username: AlexDaniel
+ts: 1441924447
 revision: 9
+blocks: [Course:107206 〔Õppeaine ÕIS-is〕]
+minor: 1
+ip: 82.131.48.5
+lastmajor: 8
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+username: AlexDaniel
 text: #SUBTITLE Erialatutvustus
 	#SUBURL [Course:107206 〔Õppeaine ÕIS-is〕]
 	
@@ -29,5 +29,5 @@ text: #SUBTITLE Erialatutvustus
 	-- Аноним 2014-02-28 10:14 UTC
 	
 	
-lastmajor: 8
+languages: 
 keep-ts: 1441924447

@@ -1,15 +1,13 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TASB08/08 - Rahvusvahelised suhted [Kava:50123 〔Õppekava ÕIS-is〕]</h2><p>[[TSK0110]] Aasia uuringud<br />[[TSP0180]] Avalik haldus<br />[[TSP0170]] Balti riigid rahvusvaheliste suhete süsteemis<br />[[TSK0150]] Eesti ajalugu<br />[[TSP0190]] Eesti välispoliitika<br />[[TSE0010]] Euroopa integratsioon<br />[[HOL6010]] Euroopa Liidu õigus<br />[[TSE0021]] Euroopa Liidu poliitikad<br />[[TSE0030]] Euroopa Liidu ühine välis- ja julgeolekupoliitika<br />[[TSK0170]] Filosoofia<br />[[TSK0160]] Globaliseerumine ja globaalprobleemid<br />[[TSK0020]] Inglise keel I<br />[[TSK0021]] Inglise keel II<br />[[TSK0022]] Inglise keel III<br />[[TSK0023]] Inglise keel IV<br />[[HOR6011]] Inimõigused<br />[[TMO0070]] Juhtimise alused<br />[[TSP0050]] Konfliktide strateegia<br />[[TSP0200]] Kursusetöö<br />[[TSK0140]] Maailma religioonide võrdlev analüüs<br />[[TSP0110]] Masside käitumine<br />[[TTO0100]] Õiguse alused<br />[[TSP0010]] Poliitiline filosoofia<br />[[TSP0090]] Poliitiline kommunikatsioon ja tehnoloogia<br />[[TSP0101]] Praktiline uurimistöö<br />[[TSK0040]] Prantsuse keel I<br />[[TSK0041]] Prantsuse keel II<br />[[HOR6017]] Rahvusvaheline avalik õigus<br />[[TSP0012]] Rahvusvaheline majandus<br />[[TSP0011]] Rahvusvaheline poliitökonoomia<br />[[TSP0150]] Rahvusvaheline terrorism<br />[[TSP0040]] Rahvusvahelised julgeoleku-uuringud<br />[[TSP0030]] Rahvusvahelised konfliktid<br />[[TSP0080]] Rahvusvahelised organisatsioonid<br />[[TSP0070]] Rahvusvahelised suhted tänapäeval<br />[[TSP0020]] Rahvusvaheliste suhete ja diplomaatia ajalugu<br />[[TSP0060]] Sissejuhatus politoloogiasse<br />[[TSK0011]] Sotsiaalpsühholoogia<br />[[TSK0180]] Sotsioloogia<br />[[TSP0120]] USA sise- ja välispoliitika<br />[[TSK0120]] Uurimistöö alused<br />[[TSP0130]] Venemaa ja SRÜ riigid<br />[[TSE0040]] XX sajandi Euroopa ajalugu</p>
+diff-major: 
+revision: 4
+blocks: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TASB08/08 - Rahvusvahelised suhted Kava:50123</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TASB08/08 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50123 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924153
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 languages: 
 text: == TASB08/08 - Rahvusvahelised suhted [Kava:50123 〔Õppekava ÕIS-is〕]
 	[[TSK0110]] Aasia uuringud
@@ -57,4 +55,6 @@ text: == TASB08/08 - Rahvusvahelised suhted [Kava:50123 〔Õppekava ÕIS-is〕]
 	[[TSE0040]] XX sajandi Euroopa ajalugu
 	
 	
+minor: 1
 keep-ts: 1441924153
+flags: 

@@ -1,16 +1,10 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>YAFD06/06 - Tehniline füüsika [Kava:4100 〔Õppekava ÕIS-is〕]</h2><p>[[YFX9020]] Ametipraktika<br />[[YMR9020]] Arvutusmeetodid<br />[[EMR9090]] Biomehaanika seminar<br />[[YXX9100]] Doktoriseminar<br />[[YMM9070]] Fourier&#x2019; ja lainekeste teisendused<br />[[YMM9020]] Funktsionaalanalüüsi eriseminar<br />[[YFX9010]] Füüsika doktorantidele<br />[[YMF9050]] Gerstenhaberi teooria eriseminar<br />[[YMM9050]] Harmooniline analüüs<br />[[EMX9220]] Hüdro- ja aeromehaanika seminar<br />[[HHP9010]] Juhtimispsühholoogia<br />[[YMR9070]] Juhuslikud protsessid<br />[[YMA9201]] Kaasaegsete matemaatika meetodite eriseminar I<br />[[YMA9202]] Kaasaegsete matemaatika meetodite eriseminar II<br />[[HHP9020]] Kõrgkoolididaktika<br />[[YFT9220]] Kvantfüüsika eriseminar<br />[[YFT9030]] Kvantstatistika eriseminar<br />[[YFT9230]] Kvantväljateooria elemente<br />[[EMX9230]] Lainelevi ja akustika seminar<br />[[YMR9050]] Lõplike elementide meetod<br />[[YMM9060]] Matemaatika doktorantidele I<br />[[YMR9140]] Matemaatika doktorantidele II<br />[[YMF9030]] Matemaatilise füüsika võrrandid<br />[[EMX9200]] Mehaanika erikursus doktorantidele<br />[[YMR9150]] Mittekorrektsed ülesanded<br />[[EMR9210]] Mittelineaarse dünaamika seminar<br />[[EMX9240]] Mittelineaarse lainelevi seminar<br />[[YFR9050]] Moodsad eksperimenditehnikad tahke keha füüsikas<br />[[YMR9710]] Operatsioonianalüüs<br />[[YFR9020]] Päikesepatareide füüsika eriseminar<br />[[EMX9210]] Pideva keskkonna mehaanika seminar<br />[[YFR9010]] Pooljuhtide spektroskoopia eriseminar<br />[[TMK9310]] Projektijuhtimine<br />[[YMR9730]] Rakendusmatemaatika elemente<br />[[YFT9040]] Tahke keha füüsika eriseminar<br />[[YMA9101]] Täiendavaid peatükke rühmateooriast I<br />[[YMA9102]] Täiendavaid peatükke rühmateooriast II<br />[[HHF9030]] Teadusfilosoofia<br />[[YMA9710]] Tensorarvutus<br />[[YFX9030]] Uurimisteemakeskne individuaalõpe<br />[[YMR9030]] Variatsioonmeetodid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFD06/06 - Tehniline füüsika Kava:4100</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFD06/06 - Tehniline füüsika <strong class="changes">[</strong>Kava:4100 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+blocks: 
 revision: 4
 diff-major: 
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+username: AlexDaniel
+keep-ts: 1441924154
 text: == YAFD06/06 - Tehniline füüsika [Kava:4100 〔Õppekava ÕIS-is〕]
 	[[YFX9020]] Ametipraktika
 	[[YMR9020]] Arvutusmeetodid
@@ -55,4 +49,10 @@ text: == YAFD06/06 - Tehniline füüsika [Kava:4100 〔Õppekava ÕIS-is〕]
 	[[YMR9030]] Variatsioonmeetodid
 	
 	
-keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFD06/06 - Tehniline füüsika Kava:4100</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFD06/06 - Tehniline füüsika <strong class="changes">[</strong>Kava:4100 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+flags: 
+languages: 
+minor: 1

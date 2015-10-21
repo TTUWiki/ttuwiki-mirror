@@ -1,16 +1,5 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAEB02/09 - Elektroonika ja bioonika [Kava:50050 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IEM0210]] Bioonika<br />[[IAY0150]] Digitaalsüsteemid<br />[[IAY0010]] Diskreetne matemaatika<br />[[AME0011]] Elektromagnetilise ühilduvuse alused<br />[[IED0160]] Elektroonika<br />[[IED0210]] Erialatutvustus<br />[[HHF3080]] Filosoofia<br />[[YFR0011]] Füüsika I<br />[[IEM0200]] Informatsioon ja füüsika<br />[[IED0030]] Jõuelektroonika<br />[[EKE0140]] Keskkonnakaitse ja säästev areng<br />[[IRM0010]] Laineväljad<br />[[YMA3710]] Lineaaralgebra<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[KYP0080]] Materjali füüsika ja keemia<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[ISS0050]] Mõõtmine<br />[[TTO3160]] Õigusõpetus<br />[[UTT0010]] Õpingukorraldus<br />[[IED0270]] Praktika<br />[[IAG0581]] Programmeerimine I<br />[[IAG0582]] Programmeerimine II<br />[[IED0240]] Sensoorika<br />[[IRT3930]] Side<br />[[ISC0011]] Sidud, süsteemid, signaalid<br />[[IDU3350]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IED0020]] Skeemitehnika I<br />[[IED0170]] Skeemitehnika II<br />[[IED3050]] SPICE simulatsioonid<br />[[ISS0010]] Süsteemiteooria<br />[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika<br />[[ISS0110]] Väljendusoskus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAEB02/09 - Elektroonika ja bioonika Kava:50050</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAEB02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50050 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
+blocks: 
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == IAEB02/09 - Elektroonika ja bioonika [Kava:50050 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IAF0041]] Arvutid
@@ -51,4 +40,15 @@ text: == IAEB02/09 - Elektroonika ja bioonika [Kava:50050 〔Õppekava ÕIS-is�
 	[[ISS0110]] Väljendusoskus
 	
 	
+diff-major: 
+languages: 
 keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAEB02/09 - Elektroonika ja bioonika Kava:50050</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAEB02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50050 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+ts: 1441924150
+revision: 4
+minor: 1
+flags: 

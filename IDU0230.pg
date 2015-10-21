@@ -1,5 +1,15 @@
-languages: 
+ts: 1441924447
+flags: 1
+host: 82.131.7.230
 revision: 7
+username: AlexDaniel
+blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
+lastmajor: 4
+keep-ts: 1441924447
+ip: 89.235.235.166
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -7,13 +17,3 @@ text: #SUBTITLE Andmebaasid II
 	
 	Препод советует использовать PostgreSQL, но выбор между PostgreSQL и Oracle остается за вами.
 	
-lastmajor: 4
-keep-ts: 1441924447
-host: 82.131.7.230
-ts: 1441924447
-username: AlexDaniel
-blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1

@@ -1,16 +1,12 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>TAAB02/15 - Rakenduslik majandusteadus [Kava:50333 〔Õppekava ÕIS-is〕]</h2><p>[[TTR0170]] Avaliku sektori ökonoomika<br />[[TER0540]] Eraisiku rahandus ja investeeringud<br />[[TSX0020]] Erialane võõrkeel I<br />[[TMJ0110]] Ettevõtluse alused<br />[[HHF3060]] Filosoofia<br />[[TAF0070]] Finantsarvestuse alused<br />[[TER0610]] Finantsjuhtimine<br />[[IDK0022]] Informaatika II (majandus ja humanitaar)<br />[[IDK0021]] Informaatika I (majandus ja humanitaar)<br />[[TMM0230]] Interaktiivne turundus<br />[[TSS0032]] Jätkusuutlikud linna arengustrateegiad<br />[[TMO0010]] Juhtimine<br />[[TME0010]] Keskkonna- ja säästva arengu poliitika<br />[[TTK0020]] Keskkonnaökonoomika<br />[[TSS0031]] Linnaprotsesside analüüs<br />[[TTR0010]] Majandusajalugu<br />[[TTK0030]] Majandusgeograafia<br />[[TEM0220]] Majandusmatemaatika I<br />[[TEM0221]] Majandusmatemaatika II<br />[[TTP0010]] Majanduspoliitika<br />[[TTS0050]] Majandussotsioloogia<br />[[TEM0040]] Majandusteaduslike uuringute alused<br />[[TET0065]] Makroökonoomika keskkursus<br />[[TET0020]] Makroökonoomika põhikursus<br />[[TAF0050]] Maksundus<br />[[TET0070]] Mikroökonoomika keskkursus<br />[[TET0010]] Mikroökonoomika põhikursus<br />[[TTO0010]] Õiguse alused<br />[[TES0040]] Ökonomeetria<br />[[UTT0010]] Õpingukorraldus<br />[[TER2576]] Raha, finantsinstitutsioonid ja turud<br />[[TER0420]] Rahanduse alused<br />[[TER0650]] Rahandusmodelleerimine arvutil<br />[[TET0050]] Rahvusvahelise majanduse alused<br />[[TET0080]] Rakenduslik majandusanalüüs<br />[[TME0040]] Ressursikasutuse ökonoomika<br />[[TME0050]] Säästva arengu ökonoomika<br />[[TTR0110]] Sotsiaalse tasuvusanalüüsi alused<br />[[TES0020]] Statistika<br />[[TMT0050]] Töökeskkond ja ergonoomika<br />[[TTX099P]] Tööpraktika<br />[[TXX0025]] Uurimistöö<br />[[HPP0040]] Väljendus- ja vaidlusõpetus</p>
+diff-major: 
+ts: 1441924153
+blocks: 
+keep-ts: 1441924153
+host: 82.131.7.230
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAB02/15 - Rakenduslik majandusteadus Kava:50333</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAB02/15 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50333 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == TAAB02/15 - Rakenduslik majandusteadus [Kava:50333 〔Õppekava ÕIS-is〕]
 	[[TTR0170]] Avaliku sektori ökonoomika
 	[[TER0540]] Eraisiku rahandus ja investeeringud
@@ -57,4 +53,8 @@ text: == TAAB02/15 - Rakenduslik majandusteadus [Kava:50333 〔Õppekava ÕIS-is
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-keep-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+languages: 
+flags: 

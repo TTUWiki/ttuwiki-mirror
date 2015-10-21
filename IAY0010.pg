@@ -1,13 +1,12 @@
-flags: 0100
-blocks: <h3>Лекции</h3><p>Лекции проходят неплохо. Гораздо проще их посещать, чем потом разбираться в этом самому. Слайды составлены толково - прямо по ним можно готовиться к экзамену.<br />К концу семестра необходимо сделать довольно объемную домашнюю работу. Пример домашней работы находится у него в слайдах. Схему проще всего нарисовать в <a class="url http outside" href="http://kicad-pcb.org">KiCad</a>.</p><p>Как правило лекции проходят с перерывом в 15 минут - спокойно можете идти в столовую с г-ном Судницыным :)</p><h3>Харьютусы</h3><p>Будет хотя бы одна контрольная на знание булевых функций, закон де Моргана, упрощение.</p><h3>Экзамен</h3><p>На экзамене небольшая работа на 25 минут, первое задание точно связано с картой Карно, скорее всего нужно будет её просто заполнить по алгебраической записи.<br />Дальше могут быть любые вопросы с лекций. Просматривайте <a class="url http outside" href="http://ati.ttu.ee/~alsu/IAY0010.html">выложенные им слайды</a> и не будет проблем.<br />После этого все выходят из кабинета, и он начинает вызывать по одному. В кабинете он просто показывает и разъясняет все ошибки, и в случае провала назначает вам следующую встречу.</p><h3>Другое</h3><p>Быстро получить таблицу истинности по алгебраической записи можно <a class="url http outside" href="http://www.sympygamma.com/input/?i=And%28a%2C+%7Eb%29+%7C+%28%7Ea+%7C+%7Eb+%7C+c%29">здесь</a>.</p><h2 class="commentsHeading">Комментарии:</h2><div class="userComment"><p>Слайды по теории</p><p>[[File:DM.zip]]</p><p>&#x2013; Аноним 2014-02-22 04:06 UTC</p></div><div class="userComment"><p>А чем эти слайды отличаются от тех, которые Судницын выкладывает на своем сайте?<br /><a class="url http" href="http://ati.ttu.ee/~alsu/IAY0010.html">http://ati.ttu.ee/~alsu/IAY0010.html</a></p><p>&#x2013; AlexDaniel 2014-02-22 17:33 UTC</p></div><div class="userComment"><p>Меня это порадовало:<br /><a class="url http" href="http://www.hot.ee/iasb02/materials/discrete/discrete_exam.htm">http://www.hot.ee/iasb02/materials/discrete/discrete_exam.htm</a></p><p>&#x2013; AlexDaniel 2014-02-23 03:55 UTC</p></div><div class="userComment"><p>Мое решение домашней работы:<br /><a class="url http" href="http://dl.dropboxusercontent.com/u/71236259/discretemath.html">http://dl.dropboxusercontent.com/u/71236259/discretemath.html</a></p><p>&#x2013; AlexDaniel 2014-03-10 07:02 UTC</p></div>
-ip: 193.40.244.196
-ts: 1441924446
-minor: 1
 host: 82.131.7.230
-username: AlexDaniel
+keep-ts: 1441924446
+flags: 1
+minor: 1
+blocks: [Course:30619 〔Õppeaine ÕIS-is〕]
+lastmajor: 13
+ip: 193.40.244.196
 revision: 16
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Diskreetne matemaatika
 	#SUBURL [Course:30619 〔Õppeaine ÕIS-is〕]
 	=== Лекции
@@ -63,5 +62,6 @@ text: #SUBTITLE Diskreetne matemaatika
 	-- AlexDaniel 2014-03-10 07:02 UTC
 	
 	
-lastmajor: 13
-keep-ts: 1441924446
+languages: 
+username: AlexDaniel
+ts: 1441924446
