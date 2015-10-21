@@ -1,6 +1,8 @@
+username: Ain_Laidoja
 minor: 
-ts: 1445424649
 host: 193.40.244.217
+lastmajor: 7
+lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
@@ -19,11 +21,11 @@ text: #SUBTITLE Energiasalvestid
 	-- Ain_Laidoja 2015-10-21 13:50:49
 	
 	
+ip: 89.235.235.166
+keep-ts: 1445424649
 summary:  [[File:Hydrogen_storage.jpeg]] 
 languages: 
-username: Ain_Laidoja
-keep-ts: 1445424649
 revision: 7
-ip: 89.235.235.166
-lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
-lastmajor: 7
+ts: 1445424649
+flags: 1
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
