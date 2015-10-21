@@ -1,16 +1,16 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ip: 89.235.235.166
-ts: 1441924445
-minor: 1
-host: 82.131.7.230
+lastmajor: 2
+keep-ts: 1441924445
 username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+blocks: [Course:31060 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
 text: #SUBTITLE Ehitustehnoloogia II
 	#SUBURL [Course:31060 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-keep-ts: 1441924445
+revision: 4
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
+flags: 1

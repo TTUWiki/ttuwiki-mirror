@@ -1,7 +1,3 @@
-summary:  [[File:Hydrogen_storage.jpeg]] 
-revision: 9
-ip: 89.235.235.166
-lastmajor: 9
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -17,10 +13,16 @@ text: #SUBTITLE Energiasalvestid
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
 	
-username: Ain_Laidoja
-keep-ts: 1445424803
-lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
 host: 193.40.244.217
+ip: 89.235.235.166
 ts: 1445424803
+lastmajor: 9
 minor: 
 languages: 
+lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
+summary:  [[File:Hydrogen_storage.jpeg]] 
+flags: 1
+revision: 9
+keep-ts: 1445424803
+username: Ain_Laidoja
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
