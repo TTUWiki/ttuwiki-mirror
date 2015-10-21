@@ -1,13 +1,4 @@
-username: Ain_Laidoja
-lastmajor: 5
-revision: 5
-summary: 
-ip: 89.235.235.166
-keep-ts: 1445414854
-ts: 1445414854
 host: 86.110.37.246
-minor: 
-languages: 
 text: #SUBTITLE Elektripaigaldised
 	#SUBURL [Course:101143 〔Õppeaine ÕIS-is〕]
 	
@@ -16,4 +7,15 @@ text: #SUBTITLE Elektripaigaldised
 	*[http://www.ene.ttu.ee/elektriajamid/oppeinfo/materjal/AAV0150/ Õppematerjal]
 	
 	
+minor: 
+summary: 
+blocks: [Course:101143 〔Õppeaine ÕIS-is〕]
+ts: 1445414854
+keep-ts: 1445414854
+lastmajor: 5
+ip: 89.235.235.166
+languages: 
 lastmajorsummary: 
+flags: 1
+revision: 5
+username: Ain_Laidoja
