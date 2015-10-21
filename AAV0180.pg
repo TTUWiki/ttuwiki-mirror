@@ -1,10 +1,16 @@
-username: Ain_Laidoja
 minor: 
+lastmajor: 8
+summary:  [[File:Hydrogen_storage.jpeg]] 
+revision: 8
 host: 193.40.244.217
-lastmajor: 7
-lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
+username: Ain_Laidoja
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
+	
+	
+	[[image/right:File:hydrogen_storage.jpeg|Elektrienergia salvestamine vesinikku TTÜ]]
+	
+	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
 	==Kirjandus
 	[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
@@ -12,20 +18,9 @@ text: #SUBTITLE Energiasalvestid
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-	----
 	
-	
-	
-	[[File:Hydrogen_storage.jpeg]]
-	
-	-- Ain_Laidoja 2015-10-21 13:50:49
-	
-	
+keep-ts: 1445424764
+lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
 ip: 89.235.235.166
-keep-ts: 1445424649
-summary:  [[File:Hydrogen_storage.jpeg]] 
+ts: 1445424764
 languages: 
-revision: 7
-ts: 1445424649
-flags: 1
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
