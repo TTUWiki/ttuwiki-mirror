@@ -1,20 +1,3 @@
-lastmajor: 8
-host: 82.131.3.43
-ts: 1442846586
-ip: 89.235.235.166
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----<br />&lt; О предмете (требования, учебный план)</strong><br />&lt; http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx<br />&lt; <strong class="changes">-- MaryBoom 2015-08-06 17:17:06<br />&lt; ----<br />&lt; Все материалы:</strong> http://cloud.ld.ttu.ee/idu0111/<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-03 14:07:24<br />&lt; ----</strong><br />&lt; http://193.40.244.77/idu0330/idu0111praktikum/<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-20 17:15:49</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Материалы<br />&gt; *</strong> http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx<br />&gt; <strong class="changes">*</strong> http://cloud.ld.ttu.ee/idu0111/<br />&gt; <strong class="changes">*</strong> http://193.40.244.77/idu0330/idu0111praktikum/ <strong class="changes">– тут требования по предмету.</strong></p></div>
-blocks: [Course:105065 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
-languages: 
-diff-major: 1
-revision: 8
-summary: Info
-lastmajorsummary: Info
-minor: 
-keep-ts: 1442846586
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +8,21 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	
 	
 	
+	----
+	
+	Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]]
+	
+	-- AlexDaniel 2015-10-22 00:45:35
+	
+	
+ip: 89.235.235.166
+minor: 
+lastmajorsummary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
+lastmajor: 9
+username: AlexDaniel
+languages: 
+host: 85.253.178.230
+summary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
+keep-ts: 1445463935
+ts: 1445463935
+revision: 9
