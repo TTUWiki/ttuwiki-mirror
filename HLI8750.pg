@@ -1,13 +1,5 @@
-keep-ts: 1445519171
-ts: 1445519171
-host: 193.40.244.217
-languages: 
-summary: 
-username: Ain_Laidoja
-ip: 89.235.235.166
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-lastmajor: 7
+keep-ts: 1445519314
+ts: 1445519314
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -21,12 +13,18 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	*Meeting simulation on **Nov. 09th**
 	*Last Lesson is hold on **Nov. 12th**
-	*Informative presentation either **19 or 23 or 26th November**
+	*Informative presentation either **19 or 26th November**
 	
 	==Examination
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-revision: 7
-flags: 1
+revision: 8
+host: 193.40.244.217
+lastmajor: 8
+ip: 89.235.235.166
 minor: 
+username: Ain_Laidoja
+languages: 
+summary: 
+lastmajorsummary: 
