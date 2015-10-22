@@ -1,12 +1,18 @@
-summary: Moved
-flags: 
-username: AlexDaniel
-minor: 
-ts: 1444705050
-text: **Расписания в картинках здесь: [[Расписания в PNG]]**
+keep-ts: 1445557090
+text: #RUS
+	
+	**Расписания в картинках здесь: [[Расписания в PNG]]**
 	**Расписания для заочников здесь: [[Расписания (заочное)]]**
 	
 	Последний раз обновлено: **2015-09-14**####
+	
+	#EST
+	**Pildid tunniplaanidest PNG-s asuvad siin: [[Расписания в PNG| Tunniplaanid PNG-s]]**
+	**Kaugõppe tunniplaanid asuvad siin: [[Расписания (заочное)|Kaugõppe tunniplaanid]]**
+	
+	Viimast korda muudetud: **2015-09-14**####
+	
+	
 	== A-energeetikateaduskond
 	##[Ti:37809 AAAB11] [Ti:37301 AAAB31] [Ti:37290 AAAB51] [Ti:37865 AAAM11] [Ti:37109 AAAM31] [Ti:37110 AAAM32] [Ti:37019 AAGB31] [Ti:37028 AAGB51] [Ti:37037 AAGM31] [Ti:38123 AAHM11] [Ti:36857 AAHM31] [Ti:37837 AAVB11] [Ti:37838 AAVB12] [Ti:37173 AAVB31] [Ti:37157 AAVB51] [Ti:37158 AAVB52] [Ti:37828 AAVM11] [Ti:37829 AAVM12] [Ti:37186 AAVM31] [Ti:37187 AAVM32] ##
 	== E-ehitusteaduskond
@@ -32,9 +38,12 @@ text: **Расписания в картинках здесь: [[Расписа�
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-host: 82.131.4.24
-blocks: 
+revision: 2
+lastmajorsummary: EST translation added
+username: MaryBoom
 languages: 
-revision: 1
-lastmajorsummary: Moved
-lastmajor: 1
+host: 85.253.178.230
+minor: 
+lastmajor: 2
+ts: 1445557090
+summary: EST translation added
