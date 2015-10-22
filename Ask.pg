@@ -1,13 +1,15 @@
-lastmajorsummary: EST translation added
-lastmajor: 7
-summary: EST translation added
-keep-ts: 1445556611
-blocks: </div></div>
-minor: 
-revision: 7
+keep-ts: 1445556642
 flags: 0
-ts: 1445556611
+minor: 1
+lastmajor: 7
+username: MaryBoom
+summary: 
 languages: 
+revision: 8
+lastmajorsummary: EST translation added
+blocks: </div></div>
+ts: 1445556642
+host: 85.253.178.230
 text: == Most recent question / Viimane küsimus / Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
@@ -19,6 +21,7 @@ text: == Most recent question / Viimane küsimus / Последний вопро
 	
 	#EST
 	Siin saab oma küsimuse esitada.
+	
 	Kõik küsimused asuvad [[Questions|eraldi leheküljel]].
 	
 	#RUS
@@ -27,5 +30,3 @@ text: == Most recent question / Viimane küsimus / Последний вопро
 	Все вопросы видны на [[Questions|отдельной странице]].
 	
 	
-username: MaryBoom
-host: 85.253.178.230
