@@ -1,3 +1,6 @@
+host: 85.253.178.230
+flags: 1
+summary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	
@@ -16,13 +19,12 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	
 	
 ip: 89.235.235.166
-minor: 
-lastmajorsummary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
 lastmajor: 9
-username: AlexDaniel
-languages: 
-host: 85.253.178.230
-summary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
-keep-ts: 1445463935
+minor: 
 ts: 1445463935
+lastmajorsummary: Kontroltöö näidisküsimused aastal 2014: [[File:ariprotsessid.jpg]] 
+languages: 
+username: AlexDaniel
+keep-ts: 1445463935
+blocks: [Course:105065 〔Õppeaine ÕIS-is〕]
 revision: 9

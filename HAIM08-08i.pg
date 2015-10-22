@@ -1,16 +1,12 @@
-flags: 0101010101010101010101010101010101010
-blocks: <h2>HAIM08/08i - Õigusteadus [Kava:50133 〔Õppekava ÕIS-is〕]</h2><p>[[HOL7007]] EL institutsionaalne õigus edasijõudnutele<br />[[HOL6018]] EL tarbijakaitseõigus<br />[[HOL6015]] Euroopa spordiõigus ja -poliitika<br />[[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis<br />[[HOR6026]] Meedia ja õigus<br />[[HOR6028]] Mereõigus<br />[[HOX7010]] Õigusalane uurimustöö<br />[[HOR6027]] Õiguse eetika<br />[[HOE6030]] Perekonna- ja pärimisõigus<br />[[HOX6070]] Privaatsus- ja andmekaitseõigus<br />[[HOR7003]] Rahvusvaheline humanitaar- ja pagulasõigus<br />[[HOR6025]] Rahvusvaheline intellektuaalse omandi õigus<br />[[HOR7001]] Rahvusvahelise avaliku õiguse eriküsimused<br />[[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid<br />[[HOR7010]] Rahvusvahelised lepingud ja kaubanduskokkulepped<br />[[HOR7009]] Soome õigussüsteem<br />[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika</p>
+keep-ts: 1441924149
+flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAIM08/08i - Õigusteadus Kava:50133</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAIM08/08i - Õigusteadus <strong class="changes">[</strong>Kava:50133 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
+host: 82.131.7.230
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAIM08/08i - Õigusteadus [Kava:50133 〔Õppekava ÕIS-is〕]
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
 	[[HOL6018]] EL tarbijakaitseõigus
@@ -31,4 +27,8 @@ text: == HAIM08/08i - Õigusteadus [Kava:50133 〔Õppekava ÕIS-is〕]
 	[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika
 	
 	
-keep-ts: 1441924149
+revision: 4
+blocks: 
+ts: 1441924149
+diff-major: 
+username: AlexDaniel

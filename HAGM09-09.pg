@@ -1,16 +1,7 @@
-flags: 0101010101010101010101010101010101010101010101010
-blocks: <h2>HAGM09/09 - Tehnoloogia valitsemine [Kava:50011 〔Õppekava ÕIS-is〕]</h2><p>[[HHA1530]] Arengupoliitikad ja üleilmastumine<br />[[HHI1920]] Avalik haldus ja innovatsioon<br />[[HHL1220]] Empiirilis-ajalooline majandusteadus<br />[[HHI4010]] Ettevõtlus ja innovatsioon<br />[[HHA1500]] Ettevõtlus, valitsemine ja rahvusvaheline majandus. Juhtumiuuringud<br />[[HHX1080]] Euroopa Liit ja mitmetasandiline valitsemine<br />[[HHL1190]] E-Valitsemine<br />[[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng<br />[[HHL1040]] Haldusjuhtimine ja avalik haldus<br />[[HHI1930]] Innovatsioonisüsteemid<br />[[HHA1540]] Magistriseminar<br />[[HHA1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria<br />[[HHM1030]] Poliitikate kujundamine<br />[[HHX1090]] Praktika<br />[[HHL1080]] Rahvusvahelised organisatsioonid<br />[[HHA1450]] Riik ja valitsemine<br />[[HHA1400]] Sissejuhatus kapitalismi tüpoloogiasse<br />[[HHL1290]] Sotsiaalteaduste meetodid<br />[[HHI0041]] Teadmus- ja innovatsiooniprotsesside juhtimine<br />[[HHA1440]] Tehnoloogia ja tööstus. Juhtumiuuringud<br />[[HHA1490]] Tehnoloogia kriitika<br />[[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad<br />[[HHA1510]] Väikeriigid</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAGM09/09 - Tehnoloogia valitsemine Kava:50011</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAGM09/09 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50011 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
-host: 82.131.7.230
+keep-ts: 1441924149
 username: AlexDaniel
-revision: 4
+blocks: 
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == HAGM09/09 - Tehnoloogia valitsemine [Kava:50011 〔Õppekava ÕIS-is〕]
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
 	[[HHI1920]] Avalik haldus ja innovatsioon
@@ -37,4 +28,13 @@ text: == HAGM09/09 - Tehnoloogia valitsemine [Kava:50011 〔Õppekava ÕIS-is〕
 	[[HHA1510]] Väikeriigid
 	
 	
-keep-ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAGM09/09 - Tehnoloogia valitsemine Kava:50011</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAGM09/09 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50011 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
+languages: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+flags: 
