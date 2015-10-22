@@ -1,4 +1,8 @@
-keep-ts: 1445557090
+keep-ts: 1445557117
+ts: 1445557117
+host: 85.253.178.230
+lastmajorsummary: EST translation added
+lastmajor: 2
 text: #RUS
 	
 	**Расписания в картинках здесь: [[Расписания в PNG]]**
@@ -10,7 +14,7 @@ text: #RUS
 	**Pildid tunniplaanidest PNG-s asuvad siin: [[Расписания в PNG| Tunniplaanid PNG-s]]**
 	**Kaugõppe tunniplaanid asuvad siin: [[Расписания (заочное)|Kaugõppe tunniplaanid]]**
 	
-	Viimast korda muudetud: **2015-09-14**####
+	Viimast korda uuendatud: **2015-09-14**####
 	
 	
 	== A-energeetikateaduskond
@@ -38,12 +42,8 @@ text: #RUS
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-revision: 2
-lastmajorsummary: EST translation added
-username: MaryBoom
 languages: 
-host: 85.253.178.230
-minor: 
-lastmajor: 2
-ts: 1445557090
-summary: EST translation added
+revision: 3
+minor: 1
+username: MaryBoom
+summary: EST translation changed
