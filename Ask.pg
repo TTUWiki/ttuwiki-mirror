@@ -1,9 +1,17 @@
-keep-ts: 1445556530
-revision: 6
+lastmajorsummary: EST translation added
+lastmajor: 7
+summary: EST translation added
+keep-ts: 1445556611
+blocks: </div></div>
+minor: 
+revision: 7
+flags: 0
+ts: 1445556611
+languages: 
 text: == Most recent question / Viimane küsimus / Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
-	== Ask your question / … / Задать вопрос
+	== Ask your question / Esita küsimus / Задать вопрос
 	#ENG
 	Here you can ask your question.
 	
@@ -19,13 +27,5 @@ text: == Most recent question / Viimane küsimus / Последний вопро
 	Все вопросы видны на [[Questions|отдельной странице]].
 	
 	
-host: 85.253.178.230
-minor: 
-lastmajor: 6
 username: MaryBoom
-flags: 0
-blocks: </div></div>
-ts: 1445556530
-lastmajorsummary: EST translation added
-summary: EST translation added
-languages: 
+host: 85.253.178.230
