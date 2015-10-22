@@ -1,11 +1,12 @@
-languages: 
-flags: 1
-revision: 8
-keep-ts: 1445519314
-host: 193.40.244.217
+keep-ts: 1445519585
 minor: 
-lastmajor: 8
-lastmajorsummary: 
+ip: 89.235.235.166
+summary: 
+ts: 1445519585
+host: 193.40.244.217
+lastmajor: 9
+revision: 9
+languages: 
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -17,6 +18,7 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	==Upcoming Events
 	
+	*Visitors from Finland on **Nov. 05th**
 	*Meeting simulation on **Nov. 09th**
 	*Last Lesson is hold on **Nov. 12th**
 	*Informative presentation either **19 or 26th November**
@@ -25,8 +27,5 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-ts: 1445519314
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
-summary: 
-ip: 89.235.235.166
+lastmajorsummary: 
 username: Ain_Laidoja
