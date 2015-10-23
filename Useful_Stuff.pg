@@ -26,7 +26,7 @@ text: === University / Ülikool / Университет:
 	#RUS
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - отличный документ, всем стоит его прочитать.
 	
-	===== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
+	=== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	#EST
 	Vali kaks sarnast õppekava, näiteks IABB02-14 ja IAPB02-14 ning vajuta "Erinevused". Punasega on märgitud see, mida ei ole teises õppekavas ja rohelisega esimeses õppekavas puuduvad asjad. 
 	[[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Näidis]].
@@ -134,15 +134,15 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-minor: 
-username: MaryBoom
-lastmajorsummary: EST translation added
-revision: 15
-ts: 1445640906
-blocks: </div></div>
-languages: 
-keep-ts: 1445640906
-host: 82.131.0.117
-summary: EST translation added
-lastmajor: 15
 flags: 0
+ts: 1445640963
+host: 82.131.0.117
+username: MaryBoom
+minor: 
+languages: 
+summary: EST translation added
+lastmajor: 16
+blocks: </div></div>
+revision: 16
+keep-ts: 1445640963
+lastmajorsummary: EST translation added
