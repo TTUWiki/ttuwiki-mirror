@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924449
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 2
+ts: 1441924449
+keep-ts: 1441924449
+blocks: [Course:109899 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Massileviprotsessid - praktikum
 	#SUBURL [Course:109899 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+revision: 2
+host: 82.131.7.230
 languages: 
-keep-ts: 1441924449

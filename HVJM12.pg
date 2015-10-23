@@ -1,20 +1,20 @@
-flags: 010
-blocks: &lt;include "HVJM12-12"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== HVJM12/12 - Tehnoloogiaõigus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50186</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid\\<br />&lt; [[HOE7170]] Autoriõigused ja naabrusõigused\\<br />&lt; [[HOE7090]] Biotehnoloogia ja intellektuaalne omand\\<br />&lt; [[HOE7130]] E-kaubandus\\<br />&lt; [[IDK0300]] E</strong>-<strong class="changes">riigi infotehnoloogilised lahendused\\<br />&lt; [[HOE7070]] Euroopa eraõiguse mudelnormid\\<br />&lt; [[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs\\<br />&lt; [[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs\\<br />&lt; [[HOX7008]] Harjutuskohtuvõistlus\\<br />&lt; [[HOE7050]] IKT õigus\\<br />&lt; [[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse\\<br />&lt; [[HOE7160]] Intellektuaalne omand ja konkurentsiõigus\\<br />&lt; [[HOE7180]] Intellektuaalomandi Due Diligence\\<br />&lt; [[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus\\<br />&lt; [[HOE7020]] Kosmoseõigus ja kommunikatsioon\\<br />&lt; [[HOE7150]] Küberkaitse ja õigus\\<br />&lt; [[HOE7100]] Külalisloengute sari: Õigus ja tehnoloogia praktikas\\<br />&lt; [[HOE7030]] Meedia ja õigus\\<br />&lt; [[HOE7080]] Põhiõigused\\<br />&lt; [[HOE7200]] Praktika\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOE7060]] Rahvusvaheline eraõigus\\<br />&lt; [[HOE7190]] Reklaamiõigus\\<br />&lt; [[HOE7010]] Sissejuhatus tehnoloogiaõigusesse\\<br />&lt; [[HHL1250]] Tehnoloogia ja ühiskond\\<br />&lt; [[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi\\<br />&lt; [[HOE7110]] Tööstusomand\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HVJM12</strong>-<strong class="changes">12"&gt;</strong></p></div>
-ip: 89.235.235.166
-ts: 1408885670
-minor: 1
+keep-ts: 1408885670
+lastmajor: 1
+summary: Автоматическое обновление (расписание)
 host: 89.235.223.25
-username: Bot
 revision: 2
 diff-major: 
-summary: Автоматическое обновление (расписание)
-languages: 
 text: <include "HVJM12-12">
 	
 	
 	
-lastmajor: 1
-keep-ts: 1408885670
+username: Bot
+flags: 
+ts: 1408885670
+blocks: 
+ip: 89.235.235.166
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== HVJM12/12 - Tehnoloogiaõigus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50186</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid\\<br />&lt; [[HOE7170]] Autoriõigused ja naabrusõigused\\<br />&lt; [[HOE7090]] Biotehnoloogia ja intellektuaalne omand\\<br />&lt; [[HOE7130]] E-kaubandus\\<br />&lt; [[IDK0300]] E</strong>-<strong class="changes">riigi infotehnoloogilised lahendused\\<br />&lt; [[HOE7070]] Euroopa eraõiguse mudelnormid\\<br />&lt; [[HOL7002]] Euroopa Liidu konkurentsiõiguse kaasuste analüüs\\<br />&lt; [[HOL7004]] Euroopa Liidu siseturuõiguse kaasuste analüüs\\<br />&lt; [[HOX7008]] Harjutuskohtuvõistlus\\<br />&lt; [[HOE7050]] IKT õigus\\<br />&lt; [[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse\\<br />&lt; [[HOE7160]] Intellektuaalne omand ja konkurentsiõigus\\<br />&lt; [[HOE7180]] Intellektuaalomandi Due Diligence\\<br />&lt; [[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus\\<br />&lt; [[HOE7020]] Kosmoseõigus ja kommunikatsioon\\<br />&lt; [[HOE7150]] Küberkaitse ja õigus\\<br />&lt; [[HOE7100]] Külalisloengute sari: Õigus ja tehnoloogia praktikas\\<br />&lt; [[HOE7030]] Meedia ja õigus\\<br />&lt; [[HOE7080]] Põhiõigused\\<br />&lt; [[HOE7200]] Praktika\\<br />&lt; [[HOR6017]] Rahvusvaheline avalik õigus\\<br />&lt; [[HOE7060]] Rahvusvaheline eraõigus\\<br />&lt; [[HOE7190]] Reklaamiõigus\\<br />&lt; [[HOE7010]] Sissejuhatus tehnoloogiaõigusesse\\<br />&lt; [[HHL1250]] Tehnoloogia ja ühiskond\\<br />&lt; [[HOE7040]] Tehnoloogia ja üksikisik: õiguseetika küsimusi\\<br />&lt; [[HOE7110]] Tööstusomand\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HVJM12</strong>-<strong class="changes">12"&gt;</strong></p></div>
+languages: 
+minor: 1
