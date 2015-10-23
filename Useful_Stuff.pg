@@ -1,4 +1,3 @@
-lastmajor: 12
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -7,6 +6,12 @@ text: === University / Ülikool / Университет:
 	* [[Free Food]] – sometimes the food is free.
 	* [[Humor]] – funny links and stories.
 	
+	#EST
+	* [[Lifehacks| Lifehack-id]]
+	* [[Subdomains|Alldomeenid]] –  need lingid, mida kunagi ei viitsi otsida.
+	* [[EAP]] – Natukene infot Euroopa ainepunktidest.
+	* [[Free Food|Tasuta söök]] – kus saab mõnikord tasuta süüa.
+	* [[Humor|Huumor]] – lõbusad lingid ja lood.
 	 
 	#RUS
 	* [[Lifehacks|Хитрости и прочее]]
@@ -16,6 +21,8 @@ text: === University / Ülikool / Университет:
 	* [[Humor|Юмор]] – забавные ссылки и истории.
 	
 	=== Scholarships / Õppetoetused / Стипендии
+	#EST
+	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - hea dokument, kõikidel tasub läbi lugeda.
 	#RUS
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - отличный документ, всем стоит его прочитать.
 	
@@ -23,7 +30,7 @@ text: === University / Ülikool / Университет:
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-	=== This wiki / … / О сайте:
+	=== This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
 	* [[News]] – what's new on this website
@@ -33,6 +40,15 @@ text: === University / Ülikool / Университет:
 	* [[Required Changes]] – about known problems
 	* [[Page Generation]] – some pages on this wiki are generated automatically
 	
+	#EST
+	* [[About|Veebilehest]] – info sellest veebilehest
+	* [[News|Uudised]] – veebilehe uudised
+	* [[Formatting|Redigeerimine]] – Selle veebilehe võimalustest
+	* [[Template|Mall]] – Uute lehekülgede loomiseks
+	* [[FAQ]] – Sageli esitatavad küsimused
+	* [[Required Changes|Vajalikud muutused]] – teatud probleemid ja ettepanekud nende lahendamiseks
+	* [[Page Generation|Lehekülgede genereerimine]] – 
+	tunniplaanidega leheküljed ja ainete esialgsed leheküljed genereetitakse automaatselt
 	 
 	#RUS
 	* [[About|О сайте]] – информация об этом сайте
@@ -59,7 +75,17 @@ text: === University / Ülikool / Университет:
 	*[new:http://iasb.me.pn/] - набор и так уже всем известных ссылок. Возможно, что когда-нибудь будет свой контент.
 	*[new:http://web.zone.ee/aldas/] - какие-то файлы.
 	
-	==== Archives / … / Архивы:
+	==== Archives / Arhiivid / Архивы:
+	
+	#EST
+	On tehtud juhuks, kui mõni veebisaitidest mõnel hetkel enam ei funktsioneeri. Laadi alla,  paki lahti ja ava html-fail oma lemmikveebilehitsejaga ning saad veebisaiti offline-režiimis kasutada.
+	|=Fail|=Kuupäev|Suurus|
+	|[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]|2014-02-22|240.2MB|
+	|[[File:www.hot.ee.zip|hot.ee/iasb02/materials/]]|2014-02-22|5.7MB|
+	|[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|osaline]])|2014-02-22|315.8MB|
+	|[[File:TTU_imcaps.zip|aboutthat.era.ee]] (autori poolt esitatud)|2015-06-02|898.8 MB|
+	
+	#RUS
 	Сделаны на случай, если один из сайтов в какой-то момент вовсе перестанет функционировать. Скачиваете, распаковываете, открываете любой из html файлов в любимом браузере и можете пользоваться сайтом в offline, прямо с вашего компьютера.
 	|=Файл|=Дата|=Размер|
 	|[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]|2014-02-22|240.2MB|
@@ -102,14 +128,15 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-ts: 1445212278
-flags: 
-revision: 12
-host: 85.253.53.160
-languages: 
-lastmajorsummary: About link
-blocks: 
-username: AlexDaniel
-summary: About link
+host: 82.131.0.117
+blocks: </div></div>
+keep-ts: 1445640516
+lastmajorsummary: EST translation added
+flags: 0
+username: MaryBoom
+summary: EST translation added
+revision: 13
 minor: 
-keep-ts: 1445212278
+lastmajor: 13
+languages: 
+ts: 1445640516
