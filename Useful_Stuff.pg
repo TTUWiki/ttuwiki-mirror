@@ -1,3 +1,7 @@
+username: MaryBoom
+languages: 
+minor: 
+summary: EST translation added
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -67,6 +71,21 @@ text: === University / Ülikool / Университет:
 	
 	
 	=== Other websites / Muud veebilehed / Другие сайты:
+	
+	#EST
+	*[new:https://www.facebook.com/groups/rusttu/] - Venekeelne facebook grupp
+	*[new:http://ttuit.eu/] - Venekeelne veebileht, ei olnud uuendatud aastast 2011.
+	* Alguses oli {{{http://aboutthat.era.ee}}}, siis {{{http://imcaps.me/tut/}}}, nüüd see veebileht pannakse kinni. Aga autor jagas kõik õppematerjalid ja arviihi saab alla laadida siit: File:TTU_imcaps.zip (**898.8 MB**).
+	*[new:http://starspirals.net/ttu/materjalid/] - Päris levinud teiste seas, viimased uuendused olid tehtud 2013.aastal
+	*[new:http://forum.ee/f68/tallinna-tehnikalikool-tt/] - Palju kasulikku informatsiooni vene keeles
+	*[new:http://hot.ee/iasb02/materials/] - Venekeelne. Ei olnud uuendatud aastast 2004, aga mõni info on veel aktuaalne
+	*[new:http://annaabi.ee/ylikool-1.html] - Siin on materjale, aga selleks, et neid alla laadida, tuleb maksta 3.20€. Ei soovitata.
+	*[new:http://www.hot.ee/l/las97ttu/comments.html] - Mingi vana kraam.
+	*[new:http://iapb12.pbworks.com] - Informaatikute eestikeelne wiki (2009)
+	*[new:https://github.com/andreireinus?tab=repositories] - mõnede ainete source-id githubis
+	*[new:http://iasb.me.pn/] - lingid, mida kõik niigi teavad
+	*[new:http://web.zone.ee/aldas/] - mõned failid
+	
 	#RUS
 	*[new:https://www.facebook.com/groups/rusttu/] - Самый быстрый способ получить ответ, если его нет на этом сайте.
 	*[new:http://ttuit.eu/] - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)
@@ -135,14 +154,10 @@ text: === University / Ülikool / Университет:
 	
 	
 flags: 0
-ts: 1445640963
+lastmajor: 17
+ts: 1445642221
 host: 82.131.0.117
-username: MaryBoom
-minor: 
-languages: 
-summary: EST translation added
-lastmajor: 16
+keep-ts: 1445642221
+revision: 17
 blocks: </div></div>
-revision: 16
-keep-ts: 1445640963
 lastmajorsummary: EST translation added
