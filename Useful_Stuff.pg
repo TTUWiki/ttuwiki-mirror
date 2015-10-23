@@ -1,3 +1,14 @@
+languages: 
+blocks: </div></div>
+ts: 1445640571
+keep-ts: 1445640571
+username: MaryBoom
+summary: 
+host: 82.131.0.117
+revision: 14
+minor: 1
+flags: 0
+lastmajor: 13
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -79,7 +90,7 @@ text: === University / Ülikool / Университет:
 	
 	#EST
 	On tehtud juhuks, kui mõni veebisaitidest mõnel hetkel enam ei funktsioneeri. Laadi alla,  paki lahti ja ava html-fail oma lemmikveebilehitsejaga ning saad veebisaiti offline-režiimis kasutada.
-	|=Fail|=Kuupäev|Suurus|
+	|=Fail|=Kuupäev|=Suurus|
 	|[[File:www.starspirals.net.zip|starspirals.net/ttu/materjalid/]]|2014-02-22|240.2MB|
 	|[[File:www.hot.ee.zip|hot.ee/iasb02/materials/]]|2014-02-22|5.7MB|
 	|[[File:ttuit.eu.zip|ttuit.eu/]] ([[Генерация_Страниц|osaline]])|2014-02-22|315.8MB|
@@ -128,15 +139,4 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-host: 82.131.0.117
-blocks: </div></div>
-keep-ts: 1445640516
 lastmajorsummary: EST translation added
-flags: 0
-username: MaryBoom
-summary: EST translation added
-revision: 13
-minor: 
-lastmajor: 13
-languages: 
-ts: 1445640516
