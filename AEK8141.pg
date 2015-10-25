@@ -1,4 +1,8 @@
+languages: 
 minor: 
+ts: 1445786785
+summary: 
+host: 86.110.37.246
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -15,6 +19,10 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	# **week 46 or 47** alajaama külastus
 	#**07.12** Seminari tagasiside õppejõu  [mailto:jako.kilter@ttu.ee e-mailile]
 	
+	==Eksam
+	
+	Eksamiaegu on 2. Esimene traditsiooniliselt Detsembris ja teine Jaanuaris. On ka olemas **teoreetiliselt** kolmas võimalus kui soov hinnet parandada.
+	
 	==Kirjandus:
 	#[http://www.ester.ee/record=b2290660*est Sissejuhatus energiatehnikasse] Risthein,E..TTÜ,Tall.2007,260 lk.
 	#[http://www.ester.ee/record=b1053792*est Elektrivõrgud]Tiigimägi,E. .TTÜ,Tallinn,1997,128 lk.
@@ -22,15 +30,9 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
+keep-ts: 1445786785
+lastmajor: 21
 username: Ain_Laidoja
+revision: 21
 ip: 89.235.235.166
-lastmajor: 20
-summary: 
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 20
-flags: 1
-keep-ts: 1445786622
 lastmajorsummary: 
-ts: 1445786622
-host: 86.110.37.246
