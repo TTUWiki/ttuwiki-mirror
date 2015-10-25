@@ -1,7 +1,12 @@
-username: MaryBoom
+host: 85.253.118.231
+username: AlexDaniel
+flags: 0
+blocks: </div></div>
+revision: 18
+ts: 1445800600
+summary: #ENG
 languages: 
 minor: 
-summary: EST translation added
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -25,6 +30,8 @@ text: === University / Ülikool / Университет:
 	* [[Humor|Юмор]] – забавные ссылки и истории.
 	
 	=== Scholarships / Õppetoetused / Стипендии
+	#ENG
+	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - great document, highly recommended to read.
 	#EST
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - hea dokument, kõikidel tasub läbi lugeda.
 	#RUS
@@ -153,11 +160,6 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-flags: 0
-lastmajor: 17
-ts: 1445642221
-host: 82.131.0.117
-keep-ts: 1445642221
-revision: 17
-blocks: </div></div>
-lastmajorsummary: EST translation added
+keep-ts: 1445800600
+lastmajorsummary: #ENG
+lastmajor: 18
