@@ -1,6 +1,3 @@
-lastmajor: 11
-username: Ain_Laidoja
-revision: 11
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -23,11 +20,16 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-minor: 
-lastmajorsummary: 
-keep-ts: 1445871240
-ip: 89.235.235.166
-languages: 
-summary: 
 ts: 1445871240
+lastmajor: 11
+flags: 1
+keep-ts: 1445871240
+minor: 
+username: Ain_Laidoja
+lastmajorsummary: 
+revision: 11
+languages: 
 host: 193.40.244.217
+summary: 
+ip: 89.235.235.166
+blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
