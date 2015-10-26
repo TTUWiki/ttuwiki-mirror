@@ -1,16 +1,17 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>IAPB02/02 - Informaatika [Kava:1010 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[ITI0050]] Algoritmid ja andmestruktuurid<br />[[IDU0120]] Andmebaaside programmeerimine<br />[[IDU3381]] Andmebaaside projekteerimine<br />[[IAF0041]] Arvutid<br />[[ISP0040]] Arvutivõrgud<br />[[IAY0010]] Diskreetne matemaatika<br />[[IED0150]] Elektroonika<br />[[IDU001P]] Erialapraktika<br />[[IDN0010]] Erialatutvustus<br />[[HHF3070]] Filosoofia<br />[[ITI0030]] Funktsionaalne programmeerimine<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[IAG0081]] Informaatika I<br />[[IDK0031]] Informaatika II<br />[[IDK0032]] Informaatika II - projekt<br />[[ITV0030]] Kasutajaliidesed võrgutehnoloogia baasil<br />[[EKE3710]] Keskkonnakaitse<br />[[YMA3710]] Lineaaralgebra<br />[[ITI0020]] Loogiline programmeerimine<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM3740]] Matemaatiline analüüs II<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[ISS0050]] Mõõtmine<br />[[IDK0020]] Objektorienteeritud programmeerimine Javas<br />[[TTO3160]] Õigusõpetus<br />[[IAG0120]] Operatsioonisüsteemid<br />[[ITV0051]] Operatsioonisüsteemid ja arvutivõrkude administreerimine<br />[[UTT0010]] Õpingukorraldus<br />[[ITI0010]] Programmeerimise põhikursus<br />[[IDU0140]] Rakendusarhitektuurid I<br />[[IRT3930]] Side<br />[[IDU3530]] Sissejuhatus infosüsteemidesse<br />[[ITV0010]] Sissejuhatus infotehnoloogiasse<br />[[IDU5360]] Süsteemianalüüs<br />[[ISS0010]] Süsteemiteooria<br />[[ITV0020]] Süsteemprogrammeerimine keeles C<br />[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika<br />[[YMA5200]] Üldalgebra alused<br />[[ISS0110]] Väljendusoskus<br />[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur<br />[[IDK0040]] Võrgurakendused I<br />[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia</p>
+blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPB02/02 - Informaatika Kava:1010</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPB02/02 - Informaatika <strong class="changes">[</strong>Kava:1010 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
+host: 82.131.7.230
+ts: 1441924150
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+flags: 
 languages: 
+revision: 4
+keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == IAPB02/02 - Informaatika [Kava:1010 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITI0050]] Algoritmid ja andmestruktuurid
@@ -58,4 +59,3 @@ text: == IAPB02/02 - Informaatika [Kava:1010 〔Õppekava ÕIS-is〕]
 	[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia
 	
 	
-keep-ts: 1441924150
