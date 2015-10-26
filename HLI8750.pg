@@ -1,3 +1,7 @@
+summary: 
+languages: 
+ip: 89.235.235.166
+host: 193.40.244.217
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -16,20 +20,14 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	==Examination
 	
-	On ein December and another in January
+	One in December and another in January
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-ts: 1445871240
-lastmajor: 11
-flags: 1
-keep-ts: 1445871240
 minor: 
-username: Ain_Laidoja
+ts: 1445871255
 lastmajorsummary: 
-revision: 11
-languages: 
-host: 193.40.244.217
-summary: 
-ip: 89.235.235.166
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
+keep-ts: 1445871255
+username: Ain_Laidoja
+lastmajor: 12
+revision: 12
