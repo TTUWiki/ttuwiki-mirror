@@ -1,15 +1,3 @@
-keep-ts: 1445871255
-languages: 
-lastmajor: 12
-flags: 1
-ip: 89.235.235.166
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
-host: 193.40.244.217
-revision: 12
-minor: 
-username: Ain_Laidoja
-lastmajorsummary: 
-ts: 1445871255
 summary: 
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
@@ -22,7 +10,7 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	==Upcoming Events
 	
-	*Visitors from Finland on **Nov. 05th**
+	*Visitors from Finland on **Nov. 05th**  (Persuasive presentation about 'Rsiks of Nuclear Power')
 	*Meeting simulation on **Nov. 09th**
 	*Last Lesson is hold on **Nov. 12th**
 	*Informative presentation either **19 or 26th November** Based on reading. Please include visuals, signaling phrases, linking words etc. Presentation **5...7 minutes**
@@ -33,3 +21,13 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
+revision: 13
+username: Ain_Laidoja
+minor: 
+ts: 1445872789
+ip: 89.235.235.166
+lastmajor: 13
+languages: 
+keep-ts: 1445872789
+host: 193.40.244.217
+lastmajorsummary: 
