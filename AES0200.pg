@@ -1,6 +1,7 @@
-ts: 1446036312
-username: Ain_Laidoja
+lastmajorsummary: 
+keep-ts: 1446036312
 minor: 
+summary: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +16,12 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	* **2015-11-04** Jukka Ruusunen - FINGRID OYJ - President ja CEO (Soome). Integration of electricity markets of Nordic/Baltic and Europe.
 	
 	
-lastmajorsummary: 
-ip: 89.235.235.166
+blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
 lastmajor: 13
-summary: 
-keep-ts: 1446036312
+ts: 1446036312
+username: Ain_Laidoja
 host: 217.71.45.135
-languages: 
+flags: 1
 revision: 13
+languages: 
+ip: 89.235.235.166
