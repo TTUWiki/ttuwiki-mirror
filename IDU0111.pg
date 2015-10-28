@@ -1,14 +1,8 @@
-languages: 
-ip: 89.235.235.166
-flags: 0
+minor: 
+flags: 10
 summary: Translations
-username: AlexDaniel
-lastmajorsummary: Translations
-lastmajor: 10
-host: 85.253.118.231
-blocks: </div></div>
-keep-ts: 1446061273
 revision: 10
+lastmajor: 10
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	
@@ -34,5 +28,11 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	-- AlexDaniel 2015-10-22 00:45:35
 	
 	
+keep-ts: 1446061273
+ip: 89.235.235.166
 ts: 1446061273
-minor: 
+blocks: [Course:105065 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajorsummary: Translations
+username: AlexDaniel
+host: 85.253.118.231
+languages: 
