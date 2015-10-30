@@ -1,6 +1,10 @@
-username: Ain_Laidoja
-summary: 
+revision: 11
+ts: 1446225390
 languages: 
+username: Ain_Laidoja
+lastmajorsummary: 
+summary: 
+lastmajor: 11
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -10,19 +14,13 @@ text: #SUBTITLE Energiasalvestid
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
 	==Kirjandus
-	*[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
+	*[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad] Argo Rosin 2015
 	*[https://dspace.emu.ee/handle/10492/2122 Soojussalvesti energiabilanss] Margus Koger 2015
 	
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-flags: 1
+keep-ts: 1446225390
 ip: 89.235.235.166
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
-ts: 1446225364
 minor: 
-lastmajorsummary: 
-keep-ts: 1446225364
-revision: 10
-lastmajor: 10
 host: 86.110.37.246
