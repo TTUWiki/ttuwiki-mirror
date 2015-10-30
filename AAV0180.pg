@@ -1,5 +1,5 @@
 ip: 89.235.235.166
-languages: 
+lastmajor: 13
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -11,18 +11,17 @@ text: #SUBTITLE Energiasalvestid
 	==Kirjandus
 	*[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
 	*[https://dspace.emu.ee/handle/10492/2122 Soojussalvesti energiabilanss]
+	*[http://helioest.ee/uploads/1/Hooratas_energiasalvesti Hooratas energiasalvesti]
 	
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-summary: 
-username: Ain_Laidoja
-host: 86.110.37.246
+languages: 
 minor: 
-lastmajor: 12
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
-revision: 12
-flags: 1
+summary: 
+host: 86.110.37.246
 lastmajorsummary: 
-keep-ts: 1446225417
-ts: 1446225417
+ts: 1446226362
+username: Ain_Laidoja
+keep-ts: 1446226362
+revision: 13
