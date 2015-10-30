@@ -1,16 +1,5 @@
-flags: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>KAOB02/06 - Puidu- ja tekstiilitehnoloogia [Kava:4108 〔Õppekava ÕIS-is〕]</h2><p>[[HLX0020]] Akadeemiline võõrkeel<br />[[YKA0010]] Analüütiline keemia<br />[[YKA0020]] Analüütiline keemia - praktikum<br />[[YKI0030]] Anorgaaniline keemia<br />[[YKI3152]] Anorgaaniline keemia - praktikum<br />[[YMR0010]] Diferentsiaalvõrrandid<br />[[HHF3070]] Filosoofia<br />[[KYF0070]] Funktsionaalsed materjalid<br />[[YFR0011]] Füüsika I<br />[[YFR0012]] Füüsika II<br />[[KYF0021]] Füüsikaline keemia I<br />[[KYF0022]] Füüsikaline keemia II<br />[[KYF0030]] Füüsikaline keemia - praktikum<br />[[IDK0011]] Informaatika I<br />[[IDK0012]] Informaatika II<br />[[HHF3300]] Insenerieetika<br />[[YGK3360]] Insenerigraafika<br />[[YGD3031]] Joonistamine I<br />[[YKI0020]] Keemia alused<br />[[KMT0080]] Kiuteadus<br />[[YGK3340]] Kujutav geomeetria<br />[[YMA3710]] Lineaaralgebra<br />[[ETV3110]] Logistika alused<br />[[MHE0061]] Masinatehnika<br />[[YMM3731]] Matemaatiline analüüs I<br />[[YMM0012]] Matemaatiline analüüs II<br />[[KCM0011]] Materjalide uurimismeetodid I<br />[[KCM0012]] Materjalide uurimismeetodid II<br />[[KYP0040]] Materjaliteaduse üldalused<br />[[TET3070]] Mikro- ja makroökonoomika<br />[[KAK0010]] Ökoloogia ja keskkonnakaitse tehnoloogia<br />[[UTT0010]] Õpingukorraldus<br />[[KMM0150]] Õppepraktika<br />[[YKO3405]] Orgaaniline keemia I<br />[[YKO3403]] Orgaaniline keemia I - praktikum A<br />[[KMP0120]] Orgaanilised komposiitmaterjalid<br />[[KMP0130]] Polümeeride keemia ja füüsika<br />[[KMP0050]] Polümeermaterjalid<br />[[KMM0010]] Puiduteadus ja puitmaterjalid<br />[[KMM0070]] Puitpolümeerkomposiidid<br />[[TMT3660]] Riski- ja ohutusõpetus materjalide töötlemisel<br />[[KMT0070]] Sissejuhatus erialasse<br />[[HHA3030]] Sotsioloogia<br />[[KMT0010]] Tekstiili- ja rõivamaterjalid<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika<br />[[MET0060]] Tootmise plaanimine ja juhtimine<br />[[TMM0100]] Turundus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == KAOB02/06 - Puidu- ja tekstiilitehnoloogia Kava:4108</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == KAOB02/06 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:4108 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924151
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+blocks: 
 text: == KAOB02/06 - Puidu- ja tekstiilitehnoloogia [Kava:4108 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0010]] Analüütiline keemia
@@ -61,4 +50,15 @@ text: == KAOB02/06 - Puidu- ja tekstiilitehnoloogia [Kava:4108 〔Õppekava ÕIS
 	[[TMM0100]] Turundus
 	
 	
+ts: 1441924151
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KAOB02/06 - Puidu- ja tekstiilitehnoloogia Kava:4108</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KAOB02/06 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:4108 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+flags: 
+diff-major: 
+minor: 1
+revision: 4
+host: 82.131.7.230
 keep-ts: 1441924151
+languages: 
