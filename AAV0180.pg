@@ -1,3 +1,5 @@
+lastmajor: 10
+languages: 
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -7,22 +9,18 @@ text: #SUBTITLE Energiasalvestid
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
 	==Kirjandus
-	[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
+	*[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
+	*[https://dspace.emu.ee/handle/10492/2122 Soojussalvesti energiabilanss] Margus Koger 2015
 	
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-	
-host: 193.40.244.217
-ip: 89.235.235.166
-ts: 1445424803
-lastmajor: 9
-minor: 
-languages: 
-lastmajorsummary:  [[File:Hydrogen_storage.jpeg]] 
-summary:  [[File:Hydrogen_storage.jpeg]] 
-flags: 1
-revision: 9
-keep-ts: 1445424803
+host: 86.110.37.246
+ts: 1446225364
+lastmajorsummary: 
+summary: 
 username: Ain_Laidoja
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
+minor: 
+ip: 89.235.235.166
+revision: 10
+keep-ts: 1446225364
