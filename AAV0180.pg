@@ -1,7 +1,11 @@
-ts: 1446280546
+summary: 
+minor: 
 username: Ain_Laidoja
-ip: 89.235.235.166
+languages: 
+lastmajor: 14
+flags: 1
 host: 86.110.37.246
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -20,10 +24,8 @@ text: #SUBTITLE Energiasalvestid
 	# 03.Nov loeng toimub **05 Novebril 12:00**
 	# 10.Nov loeng toimub **12. Novembril 12:00**
 	
+ip: 89.235.235.166
 revision: 14
-keep-ts: 1446280546
 lastmajorsummary: 
-languages: 
-summary: 
-minor: 
-lastmajor: 14
+keep-ts: 1446280546
+ts: 1446280546
