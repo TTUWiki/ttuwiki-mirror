@@ -23,11 +23,11 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[AAV0180]] -	Energiasalvestid - Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp 2015**.
 	#[[AES0200]] -	Energiasüsteemi strateegiline arendamine
 	#[[AES3136]] -	Energiasüsteemide ökonoomika
-	#[[MSE0280]] -Hajaenergeetika planeerimine
-	#[[MSE0260]] -Hajaobjekti projekt
+	#[[MSE0280]] -	Hajaenergeetika planeerimine
+	#[[MSE0260]] -	Hajaobjekti projekt
 	#[[AES0370]] -	Hajatootmise ühendamine elektrivõrguga
 	#[[MSJ0030]] -	Loodushoid energeetikas
-	#[[MXX0040]] -Magistriseminar
+	#[[MXX0040]] -	Magistriseminar
 	#[[MSJ0340]] -	Põlevkivi termilise töötlemise tehnoloogiad
 	#[[MSJ0060]] -	Soojuselektrijaamad
 	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]]
@@ -44,15 +44,13 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-minor: 
-lastmajor: 30
-summary: 
-keep-ts: 1445079236
-username: Ain_Laidoja
-flags: 
-ts: 1445079236
-revision: 30
 languages: 
+username: AlexDaniel
+lastmajor: 30
+keep-ts: 1446258306
+minor: 1
+summary: whitespace
+ts: 1446258306
+revision: 31
 lastmajorsummary: 
-host: 86.110.37.246
-blocks: 
+host: 85.253.118.231
