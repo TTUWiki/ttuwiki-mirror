@@ -1,16 +1,3 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>AAGM02/02 - Geotehnoloogia [Kava:1236 〔Õppekava ÕIS-is〕]</h2><p>[[AKM0091]] Allmaakaevandamine<br />[[AKM0092]] Allmaakaevandamine - projekt<br />[[AKM0181]] Avakaevandamine<br />[[AKM0182]] Avakaevandamine - projekt<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[AKG0100]] Geokeemia<br />[[AKG0080]] Geoloogia uurimismeetodid<br />[[AKG0140]] Geoloogia välipraktika<br />[[AKG0210]] Geomehaanika<br />[[AKG0190]] Geotektoonika<br />[[AKG0091]] Hüdrogeoloogia<br />[[AKG0092]] Hüdrogeoloogia - projekt<br />[[EKE3050]] Hüdroloogia ja vesiehitised<br />[[AKG0120]] Jäätmekäitluse geoloogiaaspektid<br />[[AKM0210]] Jäätmekäitluse mäenduslikud aspektid<br />[[EKV0041]] Jäätmekäitlus I<br />[[AKM0190]] Kaevandamiskeskkond ja ohutus<br />[[ETG3731]] Kaevandusgeodeesia<br />[[ETG3732]] Kaevandusgeodeesia - ainetöö<br />[[ETG3733]] Kaevandusgeodeesia - õppepraktika<br />[[EKE3710]] Keskkonnakaitse<br />[[AKG0180]] Kvaternaarigeoloogia<br />[[AKG0160]] Maardlate uuring<br />[[AKG0170]] Maastikugeokeemia<br />[[AKM0061]] Mäeettevõtte projekteerimine<br />[[AKM0062]] Mäeettevõtte projekteerimine - projekt<br />[[AKM0200]] Mäekonstruktsioonid<br />[[AKM0070]] Mäemajandus<br />[[AKM0041]] Mäendusanalüüs<br />[[AKM0042]] Mäendusanalüüs - ainetöö<br />[[AKM0050]] Mäeõiguse alused<br />[[AKM0080]] Mäetööstuse juhtimine<br />[[TTO3160]] Õigusõpetus<br />[[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia<br />[[AKG0130]] Rakendusgeoloogia - projekt<br />[[AKG0110]] Struktuurigeoloogia<br />[[HLX8040]] Teadusvõõrkeel<br />[[YMR0110]] Tõenäosusteooria ja matemaatiline statistika<br />[[AKM0032]] Tootmispraktika II</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAGM02/02 - Geotehnoloogia Kava:1236</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAGM02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:1236 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == AAGM02/02 - Geotehnoloogia [Kava:1236 〔Õppekava ÕIS-is〕]
 	[[AKM0091]] Allmaakaevandamine
 	[[AKM0092]] Allmaakaevandamine - projekt
@@ -53,4 +40,17 @@ text: == AAGM02/02 - Geotehnoloogia [Kava:1236 〔Õppekava ÕIS-is〕]
 	[[AKM0032]] Tootmispraktika II
 	
 	
+ts: 1441924148
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAGM02/02 - Geotehnoloogia Kava:1236</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAGM02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:1236 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924148
+blocks: 
+revision: 4
+minor: 1
+languages: 
+flags: 
+diff-major: 
