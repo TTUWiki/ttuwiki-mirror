@@ -1,16 +1,7 @@
-lastmajor: 13
-ts: 1446226362
-keep-ts: 1446226362
-revision: 13
-minor: 
-flags: 1
-ip: 89.235.235.166
-languages: 
-summary: 
-lastmajorsummary: 
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
-host: 86.110.37.246
+ts: 1446280546
 username: Ain_Laidoja
+ip: 89.235.235.166
+host: 86.110.37.246
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -26,4 +17,13 @@ text: #SUBTITLE Energiasalvestid
 	
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
+	# 03.Nov loeng toimub **05 Novebril 12:00**
+	# 10.Nov loeng toimub **12. Novembril 12:00**
 	
+revision: 14
+keep-ts: 1446280546
+lastmajorsummary: 
+languages: 
+summary: 
+minor: 
+lastmajor: 14
