@@ -1,5 +1,16 @@
-ip: 89.235.235.166
 lastmajor: 13
+ts: 1446226362
+keep-ts: 1446226362
+revision: 13
+minor: 
+flags: 1
+ip: 89.235.235.166
+languages: 
+summary: 
+lastmajorsummary: 
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
+host: 86.110.37.246
+username: Ain_Laidoja
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +27,3 @@ text: #SUBTITLE Energiasalvestid
 	====Upcoming events
 	#Referaadi mustandi esitamine. Tähtaeg **Oktoobri lõpp** 2015.
 	
-languages: 
-minor: 
-summary: 
-host: 86.110.37.246
-lastmajorsummary: 
-ts: 1446226362
-username: Ain_Laidoja
-keep-ts: 1446226362
-revision: 13

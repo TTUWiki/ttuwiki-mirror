@@ -1,16 +1,17 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>SDVR04/08 - Väikeettevõtlus [Kava:5386 〔Õppekava ÕIS-is〕]</h2><p>[[SKK0280]] Äriõigus<br />[[SKK0980]] Ärisuhtlus ja äriläbirääkimised<br />[[SKK1010]] Arvutigraafika algkursus<br />[[SKK0220]] Arvutiõpetus<br />[[SKK0880]] Diplomieelne praktika<br />[[SKK0960]] Eesti majandus<br />[[SKK0140]] Ettevõtete infosüsteemid<br />[[SKK0310]] Ettevõtlus<br />[[SKK0870]] Ettevõttepraktika<br />[[SKK0240]] Filosoofia<br />[[SKK0340]] Finantsanalüüs<br />[[SKK0390]] Finantsjuhtimine<br />[[SKK0510]] Hotellimajanduse alused<br />[[SKK0480]] Inglise ärikeel<br />[[SKK0530]] Innovatsioon ja tootearendus<br />[[SKK0360]] Juhtimise alused<br />[[SKK0230]] Keskkonnakaitse<br />[[SKK0520]] Kvaliteedi ja tootlikkuse juhtimine<br />[[SKK0320]] Logistika<br />[[SKK0710]] Maailma ja Eesti turismigeograafia<br />[[SKK0300]] Majandusõpetus<br />[[SKK0290]] Maksunduse alused<br />[[SKK0031]] Matemaatiline analüüs I<br />[[SKK1030]] Materjaliteaduse üldalused<br />[[SKK0910]] Müügitöö<br />[[SKK0950]] Õiguse alused<br />[[SKK0200]] Õpingukorraldus<br />[[SKK0370]] Personalijuhtimine<br />[[SKK0380]] Projektijuhtimine<br />[[SKK0940]] Raamatupidamise alused<br />[[SKK0920]] Rahvusvaheline majandus<br />[[SKK1020]] Rahvusvaheline tööstus<br />[[SKK0260]] Sotsiaalpsühholoogia<br />[[SKK0790]] Sündmuskorraldus<br />[[SKK0050]] Tõenäosusteooria ja matemaatiline statistika<br />[[SKK0620]] Toiduvalmistamise tehnoloogia I<br />[[SKK0650]] Toiduvalmistamise tehnoloogia II<br />[[SKK0610]] Toitlustusettevõtete seadmed<br />[[SKK0700]] Turismimajanduse alused<br />[[SKK0970]] Turismipoliitika ja planeerimine<br />[[SKK0350]] Turunduse alused<br />[[TMM0860]] Turunduskommunikatsioon I<br />[[SKK0930]] Turu-uuringud<br />[[SKK0860]] Tutvumispraktika<br />[[SKK0890]] Uurimistöö</p>
+host: 82.131.7.230
+minor: 1
+languages: 
+flags: 
+revision: 4
+diff-major: 
+ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == SDVR04/08 - Väikeettevõtlus Kava:5386</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == SDVR04/08 - Väikeettevõtlus <strong class="changes">[</strong>Kava:5386 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-minor: 1
-host: 82.131.7.230
+blocks: 
+keep-ts: 1441924153
 username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == SDVR04/08 - Väikeettevõtlus [Kava:5386 〔Õppekava ÕIS-is〕]
 	[[SKK0280]] Äriõigus
 	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised
@@ -59,4 +60,3 @@ text: == SDVR04/08 - Väikeettevõtlus [Kava:5386 〔Õppekava ÕIS-is〕]
 	[[SKK0890]] Uurimistöö
 	
 	
-keep-ts: 1441924153
