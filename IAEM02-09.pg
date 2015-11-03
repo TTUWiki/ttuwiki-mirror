@@ -1,15 +1,5 @@
-flags: 0101010101010101010101010101010101010101010101010
-blocks: <h2>IAEM02/09 - Elektroonika ja bioonika [Kava:50070 〔Õppekava ÕIS-is〕]</h2><p>[[IEM0030]] Andmehõivesüsteemid<br />[[IEM0240]] Biomeditsiinielektroonika<br />[[DBR0150]] Biosensoorika<br />[[IEX0210]] Elektronsüsteemid - kompleksprojekt<br />[[IEX0270]] Elektroonika erikursus<br />[[TMT0040]] Ergonoomika<br />[[IED0260]] Erialapraktika<br />[[TMJ3330]] Ettevõtte majandusõpetus<br />[[IEM0220]] Füsioloogia ja tehnika<br />[[IBX0030]] Innovaatika ja loov probleemilahendus<br />[[IEM0230]] Juhtimine ja side elektronsüsteemides<br />[[IED0250]] Kiipdisain<br />[[IEM0290]] Kõne analüüs ja süntees<br />[[IED0060]] Mikro- ja nanoelektroonika<br />[[IEM0260]] Mobiilsed positsioneerimissüsteemid<br />[[DBB0070]] Optoelektroonika ja integraaloptika<br />[[IED0200]] Pooljuhtseadised<br />[[IBX0020]] Robootika<br />[[IEM0250]] Sensorsignaalitöötlus<br />[[IEA0200]] Sensorvõrgud<br />[[IED0220]] Tahkiselektroonika<br />[[HLX8040]] Teadusvõõrkeel<br />[[IEM0270]] Test ja diagnostika elektroonikas</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAEM02/09 - Elektroonika ja bioonika Kava:50070</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAEM02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50070 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924150
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
 text: == IAEM02/09 - Elektroonika ja bioonika [Kava:50070 〔Õppekava ÕIS-is〕]
 	[[IEM0030]] Andmehõivesüsteemid
@@ -37,4 +27,14 @@ text: == IAEM02/09 - Elektroonika ja bioonika [Kava:50070 〔Õppekava ÕIS-is�
 	[[IEM0270]] Test ja diagnostika elektroonikas
 	
 	
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAEM02/09 - Elektroonika ja bioonika Kava:50070</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAEM02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50070 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+flags: 
 keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+diff-major: 
+revision: 4

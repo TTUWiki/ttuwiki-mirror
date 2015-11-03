@@ -1,14 +1,14 @@
-flags: 0
-blocks: <p>Эта страница пуста, здесь не хватает твоих полезных советов.</p>
-ts: 1441924444
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
+languages: 
+keep-ts: 1441924444
+ts: 1441924444
+blocks: [Course:109869 〔Õppeaine ÕIS-is〕]
+flags: 1
+host: 82.131.7.230
 revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kliinilised ravimiuuringud ja kliiniline keemia
 	#SUBURL [Course:109869 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
