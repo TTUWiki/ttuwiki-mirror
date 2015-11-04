@@ -1,15 +1,8 @@
-flags: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine [Kava:1459 〔Õppekava ÕIS-is〕]</h2><p>[[BCU0820]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU0300]] Arvestus eelarvelistes asutustes<br />[[BCU0850]] Audiitorkontroll<br />[[BCU0840]] Eelarvestus<br />[[BCU0730]] Eesti majandus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0880]] Finantsanalüüs<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU0540]] Juhtimise infosüsteemid<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU0790]] Kuluarvestus<br />[[BCU0800]] Lepinguõigus<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU0570]] Personalitöö<br />[[BCU0530]] Politoloogia<br />[[BCU0910]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU0810]] Raamatupidamisarvestus<br />[[BCU0870]] Raamatupidamise arvutiprogrammid<br />[[BCU0440]] Raha ja pangandus<br />[[BCU0640]] Rahvusvahelised Investeeringud<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0900]] Töö- ja palgakorraldus<br />[[BCU0700]] Töökeskkond ja ergonoomika<br />[[BCU0690]] Tootmiskorraldus<br />[[BCU0491]] Turundus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine Kava:1459</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:1459 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
 minor: 1
-host: 82.131.7.230
+blocks: 
+flags: 
+keep-ts: 1441924148
 username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 languages: 
 text: == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine [Kava:1459 〔Õppekava ÕIS-is〕]
 	[[BCU0820]] Aastaaruandluse koostamine ja analüüs
@@ -56,4 +49,11 @@ text: == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine [Kava:1459 〔Õ
 	[[BCU0491]] Turundus
 	
 	
-keep-ts: 1441924148
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+ts: 1441924148
+host: 82.131.7.230
+revision: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine Kava:1459</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDMR02/02 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:1459 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

@@ -1,16 +1,3 @@
-flags: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
-blocks: <h2>BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine [Kava:3697 〔Õppekava ÕIS-is〕]</h2><p>[[BCU0820]] Aastaaruandluse koostamine ja analüüs<br />[[BCU0510]] Ärieetika alused<br />[[BCU0100]] Äriõigus<br />[[BCU0451]] Äritegevuse alused<br />[[BCU0141]] Arvestuse alused<br />[[BCU0142]] Arvestuse alused - ainetöö<br />[[BCU0300]] Arvestus eelarvelistes asutustes<br />[[BCU0850]] Audiitorkontroll<br />[[BCU0270]] Dokumendihaldus<br />[[BCU0840]] Eelarvestus<br />[[BCU0500]] Ettevõtte rahandus<br />[[BCU0880]] Finantsanalüüs<br />[[BCU1740]] Finantsarvestus<br />[[BCU0330]] Informaatika<br />[[BCU0481]] Inglise ärikeel I<br />[[BCU0482]] Inglise ärikeel II<br />[[BCU0471]] Inglise keel I<br />[[BCU0472]] Inglise keel II<br />[[BCU1930]] Inimressursi juhtimine<br />[[BCU0460]] Juhtimine<br />[[BCU0521]] Juhtimisarvestus<br />[[BCU0522]] Juhtimisarvestus - ainetöö<br />[[BCU2030]] Juhtimiskontroll<br />[[BCU2040]] Juhtimiskontroll - ainetöö<br />[[BCU0860]] Kinnisvara ökonoomika<br />[[BCU0360]] Kohalik omavalitsus ja regionaalne areng<br />[[BCU0790]] Kuluarvestus<br />[[BCU0800]] Lepinguõigus<br />[[BCU0780]] Maksud ja eelarvesüsteem<br />[[BCU0110]] Mikro- ja makroökonoomika<br />[[BCU0760]] Õiguse alused<br />[[BCU1890]] Operatsioonijuhtimine<br />[[BCU0260]] Organisatsioonikäitumine<br />[[BCU0530]] Politoloogia<br />[[BCU0910]] Praktika<br />[[BCU0720]] Projektijuhtimine<br />[[BCU1810]] Protokoll ja etikett<br />[[BCU0870]] Raamatupidamise arvutiprogrammid<br />[[BCU0440]] Raha ja pangandus<br />[[BCU2050]] Rahvusvahelised investeeringud<br />[[BCU1950]] Soome majandus<br />[[BCU0050]] Sotsioloogia<br />[[BCU0431]] Statistika<br />[[BCU0432]] Statistika - ainetöö<br />[[BCU0900]] Töö- ja palgakorraldus<br />[[BCU0491]] Turundus</p>
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine Kava:3697</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:3697 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 5
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 text: == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine [Kava:3697 〔Õppekava ÕIS-is〕]
 	[[BCU0820]] Aastaaruandluse koostamine ja analüüs
 	[[BCU0510]] Ärieetika alused
@@ -60,4 +47,17 @@ text: == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine [Kava:3697 〔Õ
 	[[BCU0491]] Turundus
 	
 	
+flags: 
 keep-ts: 1441924148
+minor: 1
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+blocks: 
+diff-major: 
+host: 82.131.7.230
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine Kava:3697</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDMR02/04 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:3697 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+ts: 1441924148
+revision: 5
