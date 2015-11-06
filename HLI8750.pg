@@ -1,9 +1,14 @@
+ip: 89.235.235.166
 lastmajorsummary: 
-keep-ts: 1446744685
-lastmajor: 14
 username: Ain_Laidoja
-flags: 1
+languages: 
 minor: 
+revision: 15
+lastmajor: 15
+keep-ts: 1446800313
+ts: 1446800313
+summary: 
+host: 86.110.37.246
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -24,12 +29,9 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	One in December and another in January
 	
+	English exam registration  (is open from 2 Nov - 29 Nov)
+	
+	You need to sign up for the exam at  [http://www.ttu.ee/keeltekeskus www.ttu.ee/keeltekeskus]
+	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-host: 86.110.37.246
-languages: 
-revision: 14
-ip: 89.235.235.166
-summary: 
-ts: 1446744685
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
