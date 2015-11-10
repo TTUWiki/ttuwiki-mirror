@@ -1,12 +1,10 @@
-host: 85.253.118.231
-username: AlexDaniel
-flags: 0
-blocks: </div></div>
-revision: 18
-ts: 1445800600
-summary: #ENG
+username: imCaps
 languages: 
-minor: 
+keep-ts: 1447160092
+ts: 1447160092
+lastmajorsummary: Человеку не удалось скачать ttu_imcaps.zip. Я посмотрел у себя, архив оказался поврежден. Вот ссылка на вроде бы не поврежденый )) . . .
+revision: 19
+summary: Человеку не удалось скачать ttu_imcaps.zip. Я посмотрел у себя, архив оказался поврежден. Вот ссылка на вроде бы не поврежденый )) . . .
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -160,6 +158,15 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-06-02 10:42:38
 	
 	
-keep-ts: 1445800600
-lastmajorsummary: #ENG
-lastmajor: 18
+	----
+	
+	Человеку не удалось скачать ttu_imcaps.zip. Я посмотрел у себя, архив оказался поврежден. Вот ссылка на вроде бы не поврежденый )) https://www.wetransfer.com/downloads/81ae969a3ab38058c67e178ee3feb34b20151110124228/3ed14d752d1f21ea460c8ee09fa04b7620151110124228/7c3d92
+	
+	-- imCaps 2015-11-10 14:54:52
+	
+	
+lastmajor: 19
+blocks: </div></div>
+minor: 
+host: 90.191.21.117
+flags: 0
