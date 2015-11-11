@@ -1,4 +1,11 @@
-summary: от того размер разный?
+summary: http://studiesleak.com
+minor: 
+ts: 1447281789
+flags: 0
+revision: 22
+lastmajor: 22
+host: 85.253.118.231
+languages: 
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -72,6 +79,7 @@ text: === University / Ülikool / Университет:
 	=== Other websites / Muud veebilehed / Другие сайты:
 	
 	#EST
+	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Venekeelne facebook grupp
 	*[new:http://ttuit.eu/] - Venekeelne veebileht, ei olnud uuendatud aastast 2011.
 	* Alguses oli {{{http://aboutthat.era.ee}}}, siis {{{http://imcaps.me/tut/}}}, nüüd see veebileht pannakse kinni. Aga autor jagas kõik õppematerjalid ja arviihi saab alla laadida siit: File:TTU_imcaps.zip (**898.8 MB**).
@@ -86,6 +94,7 @@ text: === University / Ülikool / Университет:
 	*[new:http://web.zone.ee/aldas/] - mõned failid
 	
 	#RUS
+	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Самый быстрый способ получить ответ, если его нет на этом сайте.
 	*[new:http://ttuit.eu/] - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)
 	* Сначала был {{{http://aboutthat.era.ee}}}, потом {{{http://imcaps.me/tut/}}}, теперь сайт закрывается. Зато автор сделал хорошее дело – выложил всё нажитое за учебные годы! Архив здесь File:TTU_imcaps.zip (**898.8 MB**).
@@ -168,14 +177,7 @@ text: === University / Ülikool / Университет:
 	-- AlexDaniel 2015-11-10 16:18:26
 	
 	
-revision: 21
-ts: 1447210788
-lastmajor: 20
-host: 85.253.118.231
-keep-ts: 1447210788
-flags: 0
 username: AlexDaniel
-lastmajorsummary: Оба архива скачал и распаковал – работают. Странно. В новом архиве лишь папка ##__MACOSX## появилась судя по всему. Не знаю даже, залить второй тоже? . . .
+lastmajorsummary: http://studiesleak.com
 blocks: </div></div>
-minor: 1
-languages: 
+keep-ts: 1447281789
