@@ -1,3 +1,14 @@
+flags: 1
+username: Ain_Laidoja
+host: 86.110.37.246
+minor: 
+blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
+summary: 
+lastmajor: 14
+keep-ts: 1447238655
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,5 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	* **2015-11-18** Kalle Kilk - Elering AS juhatuse liige.
 	Energiasüsteemi läbilaske võimed, tuulikud ja sünkroniseerimine Lääne-Euroopaga.
 	
-lastmajorsummary: 
-summary: 
-languages: 
-host: 86.110.37.246
-minor: 
-revision: 14
-username: Ain_Laidoja
-lastmajor: 14
 ts: 1447238655
-ip: 89.235.235.166
-keep-ts: 1447238655
+revision: 14
