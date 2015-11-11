@@ -1,8 +1,7 @@
-revision: 15
-minor: 
-host: 86.110.37.246
-lastmajorsummary: 
-ip: 89.235.235.166
+flags: 1
+blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
+lastmajor: 15
+username: Ain_Laidoja
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +18,12 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	
 	* **2015-11-25** Margus Vals - EE Arendusprojektid. Põlevkivist vedelkütuste arendamine meil ja mujal.
 	
-ts: 1447238791
-username: Ain_Laidoja
-keep-ts: 1447238791
+host: 86.110.37.246
+ip: 89.235.235.166
 languages: 
+keep-ts: 1447238791
+ts: 1447238791
+revision: 15
+minor: 
 summary: 
-lastmajor: 15
+lastmajorsummary: 
