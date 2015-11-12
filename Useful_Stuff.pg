@@ -1,11 +1,5 @@
-summary: http://studiesleak.com
-minor: 
-ts: 1447281789
-flags: 0
-revision: 22
-lastmajor: 22
-host: 85.253.118.231
-languages: 
+summary: zip
+username: imCaps
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -177,7 +171,20 @@ text: === University / Ülikool / Университет:
 	-- AlexDaniel 2015-11-10 16:18:26
 	
 	
-username: AlexDaniel
-lastmajorsummary: http://studiesleak.com
+	----
+	
+	zip
+	
+	-- imCaps 2015-11-12 14:59:30
+	
+	
+minor: 
+lastmajorsummary: zip
 blocks: </div></div>
-keep-ts: 1447281789
+flags: 0
+languages: 
+revision: 23
+lastmajor: 23
+host: 90.191.21.117
+keep-ts: 1447333170
+ts: 1447333170
