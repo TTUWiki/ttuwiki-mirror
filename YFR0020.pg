@@ -1,8 +1,12 @@
+lastmajorsummary: multilingual
+blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
+revision: 14
 languages: 
-summary: multilingual
-username: AlexDaniel
-lastmajor: 13
 host: 85.253.118.231
+flags: 1
+summary: multilingual
+keep-ts: 1447604625
+minor: 1
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
@@ -78,9 +82,7 @@ text: #SUBTITLE Füüsika
 	
 	  
 	
-lastmajorsummary: multilingual
 ts: 1447604625
-minor: 1
 ip: 89.235.235.166
-keep-ts: 1447604625
-revision: 14
+username: AlexDaniel
+lastmajor: 13
