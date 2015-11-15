@@ -1,20 +1,24 @@
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 13
+lastmajorsummary: multilingual
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
-	== Материалы
-	* http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/ – Лекции в pdf
+	== Materials/Материалы/Materjalid
+	* http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/
 	* http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/
-	Логин: tudeng
-	Пароль: fyss
-	Пароль для pdf-ок: abi
+	Login: tudeng
+	Password: fyss
+	Password for PDFs: abi
 	
-	== Литература
-	* http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf – Второй учебник
-	* [[File:Fsika_I_lesanded_scan_vastustega.pdf]] – Первый задачник
-	* http://web.zone.ee/aldas/fyysika/ – Какие-то материалы по лабам
+	== Literature
+	* http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf – esimene raamat
+	* [[File:Fsika_I_lesanded_scan_vastustega.pdf]] – esimene harjutuskogumik
+	* http://web.zone.ee/aldas/fyysika/ – some materials for labs
 	
-	== Лабы (первая часть)
-	Заливайте свои в пустые места:
+	== Laborid (esimene osa)
+	Upload your own into empty :
 	
 	# [[File:praks1_1.zip]]
 	#
@@ -46,7 +50,7 @@ text: #SUBTITLE Füüsika
 	#
 	#
 	
-	== Лабы (вторая часть)
+	== Laborid (teine osa)
 	#
 	#
 	#
@@ -71,25 +75,11 @@ text: #SUBTITLE Füüsika
 	#
 	#
 	
-	  
 	
-keep-ts: 1442872184
-flags: 1
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Лекции в pdf:</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Материалы<br />&gt; *</strong> http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/ <strong class="changes">– Лекции в pdf<br />&gt; * http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&gt; Логин: tudeng<br />&gt; Пароль: fyss<br />&gt; Пароль для pdf-ок: abi<br />&gt; == Литература<br />&gt; * http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf – Второй учебник<br />&gt; * [[File:Fsika_I_lesanded_scan_vastustega.pdf]] – Первый задачник<br />&gt; * http://web.zone.ee/aldas/fyysika/ – Какие-то материалы по лабам</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----<br />&lt; Все материалы:<br />&lt; http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/<br />&lt; Логин: tudeng<br />&lt; Пароль: fyss<br />&lt; Пароль для pdf-ок: abi<br />&lt; -- AlexDaniel 2015-03-05 04:19:44<br />&lt; ----<br />&lt; Второй учебник:<br />&lt; http://www.ttu.ee/public/m/Marek_Vilipuu/FI_doks/FII/fiiyl-1.pdf<br />&lt; -- AlexDaniel 2015-04-28 12:30:42<br />&lt; ----<br />&lt; Какие-то материалы по лабам:<br />&lt; http://web.zone.ee/aldas/fyysika/<br />&lt; -- BloodyMary 2015-05-02 01:14:40<br />&lt; ----<br />&lt; Первый задачник:<br />&lt; [[File:Fsika_I_lesanded_scan_vastustega.pdf]]<br />&lt; -- BloodyMary 2015-05-07 20:36:27</p></div>
-ip: 89.235.235.166
-revision: 12
-minor: 1
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt; #<br />&gt;   </p></div>
-username: AlexDaniel
-host: 82.131.3.43
-ts: 1442872184
+revision: 13
+ts: 1447604555
+minor: 
+summary: multilingual
 languages: 
-lastmajor: 11
-summary: Лабы, оформление
-lastmajorsummary: Лабы, оформление
-blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
+keep-ts: 1447604555
+host: 85.253.118.231
