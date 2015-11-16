@@ -1,14 +1,9 @@
-lastmajorsummary: 
-revision: 20
-blocks: [Course:28071 〔Õppeaine ÕIS-is〕]
-ip: 84.52.48.194
-ts: 1446638997
-lastmajor: 20
-keep-ts: 1446638997
-flags: 1
+keep-ts: 1447668161
 host: 193.40.244.217
-minor: 
 username: Ain_Laidoja
+ts: 1447668161
+minor: 
+languages: 
 text: #SUBTITLE Õigusõpetus
 	#SUBURL [Course:28071 〔Õppeaine ÕIS-is〕]
 	
@@ -35,9 +30,12 @@ text: #SUBTITLE Õigusõpetus
 	
 	# Loe läbi üks artiklitest (Rosentau E-tempora, e-mores või Tupay, Mikiver E-riik ja põhiõigused) ja esita foorumis üks mõte, mis sul artiklit lugedes tekkis. Mõtte maht 100 sõna.  **Tähtaeg 30. november 2015.**
 	
-	# II kontrolltöö toimub   **7.detsember** loengu ruumis
+	# II kontrolltöö toimub  **30.November** või kes ei saa siis  **7.detsember** loengu ruumis
 	
 	# Arvestus toimub  **14. detsember** loengu ruumis
 	
+lastmajor: 21
+ip: 84.52.48.194
+lastmajorsummary: 
+revision: 21
 summary: 
-languages: 
