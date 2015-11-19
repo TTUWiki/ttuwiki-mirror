@@ -1,10 +1,6 @@
-keep-ts: 1447915557
-minor: 
-lastmajor: 7
-revision: 7
-flags: 1
-username: Ain_Laidoja
-ip: 89.235.235.166
+revision: 8
+lastmajor: 8
+summary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	===Õppematerjal
@@ -14,9 +10,9 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	===Кirjandus
 	
 	#Loengukonspekt “Elektrienergia hajatootmine” internetis. (Salastatud)
-	#B. Raton, Distributed generation : the power paradigm for new millennium. RC Press, 2001, 400 lk.
-	#Solar power plants: fundamentals, technology, systems, economics. Berlin. Springer. 1991. 425 lk.
-	#Boyce, Meherwan P. Handbook for cogeneration and combined cycle power plants. New York : ASME Press, 2002. 567 lk.
+	#[http://www.ester.ee/record=b1813039*est Distributed generation : the power paradigm for the new millennium] Boca Raton, RC Press, 2001. 400lk.
+	#[http://www.ester.ee/record=b1646007*est Solar power plants: fundamentals, technology, systems, economics] Berlin. Springer. 1991. 425 lk.
+	#[http://www.ester.ee/record=b2265362*est Handbook for cogeneration and combined cycle power plants] Boyce, Meherwan P. New York : ASME Press, 2002. 567 lk.
 	
 	===Upcoming events
 	
@@ -30,8 +26,10 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
 languages: 
-ts: 1447915557
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
 host: 86.110.37.246
+keep-ts: 1447916029
+username: Ain_Laidoja
+ts: 1447916029
+ip: 89.235.235.166
 lastmajorsummary: 
-summary: 
+minor: 
