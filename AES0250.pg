@@ -1,13 +1,14 @@
+keep-ts: 1447917314
 username: Ain_Laidoja
-revision: 10
-lastmajorsummary:  [[File:energyPRO.png]] 
-minor: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
 languages: 
-keep-ts: 1447917195
-ip: 89.235.235.166
+host: 86.110.37.246
+minor: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
+	
+	
+	[[image/right:File:energyPRO.png|Tarkvara energiatootmise modelleerimiseks]]
+	
 	
 	==Õppematerjal
 	
@@ -37,17 +38,10 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Reedel 4.12 – 10:15-13:45
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
-	----
 	
-	
-	
-	[[File:energyPRO.png]]
-	
-	-- Ain_Laidoja 2015-11-19 09:13:15
-	
-	
-lastmajor: 10
-flags: 1
-ts: 1447917195
+lastmajorsummary:  [[File:energyPRO.png]] 
 summary:  [[File:energyPRO.png]] 
-host: 86.110.37.246
+lastmajor: 11
+ts: 1447917314
+revision: 11
+ip: 89.235.235.166
