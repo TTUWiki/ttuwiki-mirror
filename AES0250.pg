@@ -1,4 +1,9 @@
-host: 86.110.37.246
+languages: 
+blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
+summary: 
+keep-ts: 1447916995
+ip: 89.235.235.166
+minor: 
 revision: 9
 lastmajor: 9
 text: #SUBTITLE Elektrienergia hajatootmine
@@ -32,11 +37,8 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Reedel 4.12 – 10:15-13:45
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
-lastmajorsummary: 
-ip: 89.235.235.166
-summary: 
-keep-ts: 1447916995
-languages: 
-minor: 
-username: Ain_Laidoja
 ts: 1447916995
+flags: 1
+lastmajorsummary: 
+username: Ain_Laidoja
+host: 86.110.37.246
