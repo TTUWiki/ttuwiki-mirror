@@ -1,13 +1,13 @@
-flags: 0
-blocks: <p>Эта страница была удалена.<br />Спам является одной из возможных причин.</p>
-ts: 1408036836
-minor: 
+languages: 
 host: 89.235.237.48
-username: AlexDaniel
-revision: 1
 summary: Эта страница была удалена. Спам является одной из возможных причин.
+blocks: 
+minor: 
+revision: 1
+username: AlexDaniel
+lastmajor: 1
+ts: 1408036836
 text: Эта страница была удалена.
 	Спам является одной из возможных причин.
 	
-languages: 
-lastmajor: 1
+flags: 

@@ -1,3 +1,10 @@
+ts: 1408998184
+languages: 
+keep-ts: 1408998184
+username: AlexDaniel
+minor: 
+lastmajor: 2
+revision: 2
 text: Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?
 	
 	-- AlexDaniel 2014-03-18 02:51:25
@@ -9,18 +16,15 @@ text: Осталось ли на сайте еще что-то непонятн�
 	-- AlexDaniel 2014-08-25 23:23:04
 	
 	
+ip: 89.235.239.240
+summary: Всем всё понятно :))
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
-username: AlexDaniel
-diff-major: 1
-minor: 
-summary: Всем всё понятно :))
-languages: 
-ip: 89.235.239.240
-ts: 1408998184
-keep-ts: 1408998184
-revision: 2
-flags: 
-blocks: 
-lastmajor: 2
+flags: 010101010101
 host: 89.235.245.58
+blocks: #ENG
+	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#RUS
+	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
+	
+	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+diff-major: 1
