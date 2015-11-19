@@ -1,27 +1,30 @@
-ip: 89.235.235.166
-flags: 1
-lastmajor: 5
-diff-major: 1
-minor: 
-keep-ts: 1443679672
-revision: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">===Õppematerjal<br />&gt; ...<br />&gt; ===Кirjandus<br />&gt; ...<br />&gt; ===Upcoming events<br />&gt; * **2015-10-27**  Esimene loeng</strong></p></div>
-languages: 
-summary: 
+host: 86.110.37.246
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	===Õppematerjal
-	...
+	
+	Salastatud
+	
 	===Кirjandus
-	...
+	
 	===Upcoming events
 	
 	* **2015-10-27**  Esimene loeng
 	
-host: 86.110.37.246
-lastmajorsummary: 
-ts: 1443679672
+	Intensiivkursus (2015):
+	
+	• Reedel 20.11– 10:15-13:45
+	• Esmaspäeval 23.11 – 12:15-15:45
+	• Reedel 4.12 – 10:15-13:45
+	• Esmaspäeval 7.12 – 12:15-15:45
+	
+minor: 
 username: Ain_Laidoja
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
+lastmajor: 6
+keep-ts: 1447914812
+summary: 
+ip: 89.235.235.166
+revision: 6
+languages: 
+ts: 1447914812
+lastmajorsummary: 
