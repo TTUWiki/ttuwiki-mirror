@@ -1,11 +1,8 @@
-flags: 1
+keep-ts: 1447915557
 ip: 89.235.235.166
-languages: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-keep-ts: 1447914812
-revision: 6
-lastmajor: 6
+lastmajor: 7
+ts: 1447915557
+host: 86.110.37.246
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	===Õppematerjal
@@ -13,6 +10,11 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	Salastatud
 	
 	===Кirjandus
+	
+	#Loengukonspekt “Elektrienergia hajatootmine” internetis. (Salastatud)
+	#B. Raton, Distributed generation : the power paradigm for new millennium. RC Press, 2001, 400 lk.
+	#Solar power plants: fundamentals, technology, systems, economics. Berlin. Springer. 1991. 425 lk.
+	#Boyce, Meherwan P. Handbook for cogeneration and combined cycle power plants. New York : ASME Press, 2002. 567 lk.
 	
 	===Upcoming events
 	
@@ -25,8 +27,9 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Reedel 4.12 – 10:15-13:45
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
-username: Ain_Laidoja
-summary: 
-host: 86.110.37.246
 minor: 
-ts: 1447914812
+summary: 
+languages: 
+username: Ain_Laidoja
+lastmajorsummary: 
+revision: 7
