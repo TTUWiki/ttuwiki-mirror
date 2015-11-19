@@ -1,13 +1,11 @@
-keep-ts: 1447917314
-username: Ain_Laidoja
-revision: 11
-lastmajorsummary:  [[File:energyPRO.png]] 
-summary:  [[File:energyPRO.png]] 
-ip: 89.235.235.166
 minor: 
-ts: 1447917314
+lastmajorsummary:  [[File:energyPRO.png]] 
+ts: 1447917468
+lastmajor: 12
+host: 86.110.37.246
+summary:  [[File:energyPRO.png]] 
+username: Ain_Laidoja
 languages: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -34,9 +32,7 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	
 	==Upcoming events
 	
-	* **2015-10-27**  Esimene loeng
-	
-	Intensiivkursus (2015):
+	**Intensiivkursus (2015):
 	
 	• Reedel 20.11– 10:15-13:45
 	• Esmaspäeval 23.11 – 12:15-15:45
@@ -44,6 +40,6 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
 	
-flags: 1
-host: 86.110.37.246
-lastmajor: 11
+keep-ts: 1447917468
+revision: 12
+ip: 89.235.235.166
