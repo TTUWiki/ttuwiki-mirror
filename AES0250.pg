@@ -1,11 +1,9 @@
-minor: 
-lastmajorsummary:  [[File:energyPRO.png]] 
-ts: 1447917468
-lastmajor: 12
-host: 86.110.37.246
-summary:  [[File:energyPRO.png]] 
+blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
 username: Ain_Laidoja
-languages: 
+revision: 12
+keep-ts: 1447917468
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -40,6 +38,10 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	• Esmaspäeval 7.12 – 12:15-15:45
 	
 	
-keep-ts: 1447917468
-revision: 12
-ip: 89.235.235.166
+host: 86.110.37.246
+ts: 1447917468
+lastmajor: 12
+minor: 
+lastmajorsummary:  [[File:energyPRO.png]] 
+summary:  [[File:energyPRO.png]] 
+languages: 
