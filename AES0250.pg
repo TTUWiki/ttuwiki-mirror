@@ -1,7 +1,7 @@
+ip: 89.235.235.166
+keep-ts: 1448005739
 username: Ain_Laidoja
-host: 193.40.244.217
-revision: 13
-flags: 1
+summary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -22,7 +22,7 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	==Кirjandus
 	
 	#Loengukonspekt “Elektrienergia hajatootmine” internetis. (Salastatud)
-	#[http://www.ester.ee/record=b2869194*est Elekter päikesest ja tuulest] Rein Pinn
+	#[http://www.ester.ee/record=b2869194*est Elekter päikesest ja tuulest] Rein Pinn 2012
 	#[http://www.ester.ee/record=b1813039*est Distributed generation : the power paradigm for the new millennium] Boca Raton, RC Press, 2001. 400lk.
 	#[http://www.ester.ee/record=b1646007*est Solar power plants: fundamentals, technology, systems, economics] Berlin. Springer. 1991. 425 lk.
 	#[http://www.ester.ee/record=b2265362*est Handbook for cogeneration and combined cycle power plants] Boyce, Meherwan P. New York : ASME Press, 2002. 567 lk.
@@ -39,12 +39,10 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	== Eksam
 	
 	
-lastmajorsummary: 
-summary: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
+revision: 14
+host: 193.40.244.217
+lastmajor: 14
 minor: 
-ts: 1448005710
-keep-ts: 1448005710
-lastmajor: 13
+ts: 1448005739
+lastmajorsummary: 
 languages: 
-ip: 89.235.235.166
