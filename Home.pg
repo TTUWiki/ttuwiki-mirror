@@ -1,8 +1,6 @@
-flags: 0
-summary: eng translation
-minor: 
-languages: 
-keep-ts: 1448659853
+blocks: </div></div>
+lastmajorsummary: eng translation
+keep-ts: 1448837172
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -30,6 +28,7 @@ text: #ENG
 	===== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	#ENG
 	Choose two similar programmes (e.g. **IABB02-14** and **IAPB02-14**) and press **Diff**. Courses that do not exist in second programme will be marked red, courses that do not exist in first programme are marked green. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Example]].
+	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 	#EST
 	Vali kaks sarnast õppekava, näiteks **IABB02-14** ja **IAPB02-14** ning vajuta **Erinevused**. Punasega on märgitud see, mida ei ole teises õppekavas ja rohelisega esimeses õppekavas puuduvad asjad. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Näidis]].
@@ -39,10 +38,12 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-host: 85.253.151.83
+summary: Missing diff
+flags: 0
+host: 85.253.148.32
+username: AlexDaniel
+languages: 
 lastmajor: 16
-lastmajorsummary: eng translation
-blocks: </div></div>
-revision: 16
-ts: 1448659853
-username: MaryBoom
+ts: 1448837172
+revision: 17
+minor: 1
