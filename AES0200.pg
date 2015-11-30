@@ -1,5 +1,9 @@
-summary: 
+languages: 
+ip: 89.235.235.166
+host: 193.40.250.233
 lastmajorsummary: 
+ts: 1448903919
+keep-ts: 1448903919
 minor: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
@@ -11,23 +15,15 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	 
 	====Upcoming events
 	
-	* **2015-11-11** Hando Sutter - Eesti Energia strateegilised valikud.
+	* **2015-12-02** Janne Liuko - FENNOVOIMA OY - CEO (Soome). Nuclear power development in Nordic area - Fennovoima project.
 	
-	* **2015-11-18** Kalle Kilk - Energiasüsteemi läbilaske võimed, tuulikud ja sünkroniseerimine Lääne-Euroopaga. Elering AS
-	
-	* **2015-11-25** Margus Vals - EE Arendusprojektid. Põlevkivist vedelkütuste arendamine meil ja mujal.
+	* **2015-12-09**  Mart Landsberg - Elering Gaas AS juhataja. Tõnis Meriste - EE keskkonna arendusjuht. Gaasituru arendamine/Keskkonnaalased väljakutsed energiamajanduses.
 	
 	==Eksam
 	
 	**16.Detsember
 	
-ip: 89.235.235.166
-lastmajor: 16
-host: 193.40.250.233
-blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
 username: Ain_Laidoja
-keep-ts: 1448903768
-revision: 16
-flags: 1
-ts: 1448903768
-languages: 
+revision: 17
+summary: 
+lastmajor: 17
