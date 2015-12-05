@@ -1,8 +1,14 @@
+ip: 89.235.235.166
+revision: 11
+summary: Project examples
+lastmajorsummary: Project examples
+blocks: </div></div>
+lastmajor: 11
+host: 85.253.148.32
+ts: 1449279207
 minor: 
-flags: 10
-summary: Translations
-revision: 10
-lastmajor: 10
+flags: 0
+languages: 
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	
@@ -11,15 +17,17 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	* http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
 	* http://cloud.ld.ttu.ee/idu0111/
 	* http://193.40.244.77/idu0330/idu0111praktikum/ – requirements here
+	* http://www.tud.ttu.ee/im/Tarmo.Veskioja/IDU0111/
 	#EST
 	* http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
 	* http://cloud.ld.ttu.ee/idu0111/
 	* http://193.40.244.77/idu0330/idu0111praktikum/ – nõuded siin
+	* http://www.tud.ttu.ee/im/Tarmo.Veskioja/IDU0111/
 	#RUS
 	* http://cloud.ld.ttu.ee/idu0111/Kursusetutvustus.aspx
 	* http://cloud.ld.ttu.ee/idu0111/
 	* http://193.40.244.77/idu0330/idu0111praktikum/ – тут требования по предмету.
-	
+	* http://www.tud.ttu.ee/im/Tarmo.Veskioja/IDU0111/
 	
 	----
 	
@@ -28,11 +36,5 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	-- AlexDaniel 2015-10-22 00:45:35
 	
 	
-keep-ts: 1446061273
-ip: 89.235.235.166
-ts: 1446061273
-blocks: [Course:105065 〔Õppeaine ÕIS-is〕]</div></div>
-lastmajorsummary: Translations
+keep-ts: 1449279207
 username: AlexDaniel
-host: 85.253.118.231
-languages: 
