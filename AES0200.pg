@@ -1,10 +1,14 @@
-languages: 
-ip: 89.235.235.166
-host: 193.40.250.233
 lastmajorsummary: 
-ts: 1448903919
-keep-ts: 1448903919
+flags: 1
+revision: 17
+lastmajor: 17
 minor: 
+ts: 1448903919
+languages: 
+keep-ts: 1448903919
+blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
+username: Ain_Laidoja
+ip: 89.235.235.166
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -23,7 +27,5 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	
 	**16.Detsember
 	
-username: Ain_Laidoja
-revision: 17
 summary: 
-lastmajor: 17
+host: 193.40.250.233
