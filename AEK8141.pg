@@ -1,13 +1,3 @@
-host: 193.40.244.197
-ip: 89.235.235.166
-flags: 1
-lastmajorsummary: 
-username: 
-lastmajor: 26
-revision: 26
-keep-ts: 1448022750
-minor: 
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -30,7 +20,11 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	==Eksam
 	
-	Eksamiaegu on 2. Esimene  eksam Jaanuaris. On ka olemas **teoreetiliselt** kolmas võimalus kui soov hinnet parandada.
+	#Põhieksam  05.01.2016 kell 12:00 ruum NRG-525
+	
+	#Põhieksam  11.01.2016 kell 12:00 ruum NRG-525
+	
+	#Lisaeksam  15.01.2016 kell 12:00 ruum NRG-525
 	
 	==Kirjandus:
 	#[http://www.ester.ee/record=b2290660*est Sissejuhatus energiatehnikasse] Risthein,E..TTÜ,Tall.2007,260 lk.
@@ -39,6 +33,14 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
+lastmajorsummary: 
 summary: 
+minor: 
 languages: 
-ts: 1448022750
+lastmajor: 27
+host: 86.110.37.246
+revision: 27
+username: Ain_Laidoja
+keep-ts: 1449395543
+ts: 1449395543
+ip: 89.235.235.166
