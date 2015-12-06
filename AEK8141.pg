@@ -1,11 +1,7 @@
 minor: 
-flags: 1
-revision: 27
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1449395543
 ip: 89.235.235.166
-ts: 1449395543
+ts: 1449397093
+lastmajorsummary: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -26,6 +22,8 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	#**07.12** Seminari tagasiside õppejõu  [mailto:jako.kilter@ttu.ee e-mailile]
 	
+	#**16.12** Tagasiside tähtaeg referaatidele kell 12:00
+	
 	==Eksam
 	
 	#Põhieksam  05.01.2016 kell 12:00 ruum NRG-525
@@ -41,8 +39,10 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
-summary: 
-host: 86.110.37.246
-lastmajor: 27
 username: Ain_Laidoja
-lastmajorsummary: 
+revision: 28
+lastmajor: 28
+keep-ts: 1449397093
+host: 86.110.37.246
+languages: 
+summary: 
