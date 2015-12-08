@@ -1,6 +1,10 @@
+blocks: <p>DeletedPage</p><h2>== Последний вопрос
+	Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
+	
+diff-major: 1
 username: AlexDaniel
-ts: 1423271681
-lastmajor: 2
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Сделал ([[https://github.com/TTUWiki/ttuwiki-misc/commit/f2d0cff395b89a8161da1f12a0d7dab89001894d f2d0cff]])<br />&gt; -- AlexDaniel 2015-02-07 03:14:41</p></div>
 text: Всё еще нет расписаний для заочников. :(
 	
 	-- BloodyMary 2015-02-05 23:43:27
@@ -13,14 +17,12 @@ text: Всё еще нет расписаний для заочников. :(
 	-- AlexDaniel 2015-02-07 03:14:41
 	
 	
-host: 82.131.3.129
-keep-ts: 1423271681
-languages: 
 summary: Сделал ([f2d0cff])
-diff-major: 1
-revision: 2
+lastmajor: 2
 minor: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Сделал ([[https://github.com/TTUWiki/ttuwiki-misc/commit/f2d0cff395b89a8161da1f12a0d7dab89001894d f2d0cff]])<br />&gt; -- AlexDaniel 2015-02-07 03:14:41</p></div>
-blocks: 
-flags: 
+languages: 
+keep-ts: 1423271681
+host: 82.131.3.129
+ts: 1423271681
+flags: 0101
+revision: 2

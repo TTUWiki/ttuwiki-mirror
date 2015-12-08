@@ -1,9 +1,7 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; IDN0010 Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">[[</strong>IDN0010<strong class="changes">]]</strong> Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Ответ же тут прозвучал: <strong class="changes">http://ttuwiki.org/</strong>IDN0011 да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Ответ же тут прозвучал: <strong class="changes">[[</strong>IDN0011<strong class="changes">]]</strong> да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div>
-ts: 1435438094
+blocks: 
+username: AlexDaniel
+summary: Ссылки
+diff-major: 1
 text: [[IDN0010]] Erialatutvustus. Есть ли уже темы для эссе?
 	
 	-- Anna 2014-11-17 23:23:44
@@ -18,12 +16,14 @@ text: [[IDN0010]] Erialatutvustus. Есть ли уже темы для эссе
 	
 revision: 4
 host: 85.253.108.211
+keep-ts: 1435438094
+ts: 1435438094
+languages: 
 minor: 
 lastmajor: 4
-blocks: 
-languages: 
 flags: 
-diff-major: 1
-keep-ts: 1435438094
-summary: Ссылки
-username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; IDN0010 Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[[</strong>IDN0010<strong class="changes">]]</strong> Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Ответ же тут прозвучал: <strong class="changes">http://ttuwiki.org/</strong>IDN0011 да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Ответ же тут прозвучал: <strong class="changes">[[</strong>IDN0011<strong class="changes">]]</strong> да и срок сдачи, вроде как, уже подошел, в прошлом году это 11 число было.</p></div>
