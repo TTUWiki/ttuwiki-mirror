@@ -1,14 +1,11 @@
-ip: 89.235.235.166
+host: 193.40.250.236
 languages: 
-flags: 1
+minor: 
 lastmajorsummary: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-lastmajor: 4
-ts: 1441924444
-minor: 1
-revision: 5
-blocks: [Course:25897 〔Õppeaine ÕIS-is〕]
+ts: 1449589247
+keep-ts: 1449589247
+summary: 
+username: Ain_Laidoja
 text: #SUBTITLE Energiasüsteemide ökonoomika
 	#SUBURL [Course:25897 〔Õppeaine ÕIS-is〕]
 	
@@ -20,5 +17,10 @@ text: #SUBTITLE Energiasüsteemide ökonoomika
 	*[http://www.elering.ee Elering.ee]
 	*[http://www.energia.ee Energia.ee]
 	
-keep-ts: 1441924444
-host: 82.131.7.230
+	==Eksam
+	
+	08. Jaanuar 2015  kell 10:00
+	
+revision: 6
+ip: 89.235.235.166
+lastmajor: 6
