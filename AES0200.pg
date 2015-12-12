@@ -1,14 +1,13 @@
-lastmajorsummary: 
-flags: 1
-revision: 17
-lastmajor: 17
 minor: 
-ts: 1448903919
-languages: 
-keep-ts: 1448903919
-blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
+lastmajor: 18
+ts: 1449901382
 ip: 89.235.235.166
+languages: 
+host: 86.110.37.246
+username: Ain_Laidoja
+lastmajorsummary: 
+revision: 18
+summary: 
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -17,15 +16,10 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	[https://www.energia.ee/et/koostoo-oppeasutustega Õppematerjal]
 	
 	 
-	====Upcoming events
-	
-	* **2015-12-02** Janne Liuko - FENNOVOIMA OY - CEO (Soome). Nuclear power development in Nordic area - Fennovoima project.
-	
-	* **2015-12-09**  Mart Landsberg - Elering Gaas AS juhataja. Tõnis Meriste - EE keskkonna arendusjuht. Gaasituru arendamine/Keskkonnaalased väljakutsed energiamajanduses.
+	==Upcoming events
 	
 	==Eksam
 	
-	**16.Detsember
+	Moodelis teha   alates  **16.Detsember
 	
-summary: 
-host: 193.40.250.233
+keep-ts: 1449901382
