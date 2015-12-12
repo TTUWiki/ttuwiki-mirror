@@ -1,11 +1,10 @@
-host: 86.110.37.246
 languages: 
-summary: 
 username: Ain_Laidoja
-lastmajor: 10
 ip: 89.235.235.166
-lastmajorsummary: 
-keep-ts: 1449902158
+summary: 
+minor: 
+revision: 10
+blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
@@ -29,6 +28,9 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	
 	Eksam koosneb 3 ülesandest + 2 teoreetlilist küsimust
 	
-minor: 
+flags: 1
+lastmajor: 10
+lastmajorsummary: 
 ts: 1449902158
-revision: 10
+host: 86.110.37.246
+keep-ts: 1449902158
