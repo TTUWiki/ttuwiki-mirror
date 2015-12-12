@@ -1,7 +1,7 @@
-summary: 
-revision: 8
-host: 86.110.37.246
-username: Ain_Laidoja
+lastmajor: 8
+ts: 1449901564
+blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
@@ -19,8 +19,10 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	
 ip: 89.235.235.166
 minor: 
-keep-ts: 1449901564
+summary: 
 languages: 
+keep-ts: 1449901564
+host: 86.110.37.246
 lastmajorsummary: 
-ts: 1449901564
-lastmajor: 8
+revision: 8
+username: Ain_Laidoja
