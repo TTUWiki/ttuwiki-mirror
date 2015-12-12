@@ -1,10 +1,14 @@
-languages: 
-username: Ain_Laidoja
+host: 86.110.37.246
+ts: 1449903544
+keep-ts: 1449903544
 ip: 89.235.235.166
-summary: 
+revision: 11
+languages: 
+lastmajorsummary: 
 minor: 
-revision: 10
-blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
+username: Ain_Laidoja
+summary: 
+lastmajor: 11
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
@@ -28,9 +32,8 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	
 	Eksam koosneb 3 ülesandest + 2 teoreetlilist küsimust
 	
-flags: 1
-lastmajor: 10
-lastmajorsummary: 
-ts: 1449902158
-host: 86.110.37.246
-keep-ts: 1449902158
+	Abiks eksamiks õppimisel on:
+	
+	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-Kordamisk%C3%BCsimused.v1.docx Kordamisküsimused]
+	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-N%C3%A4idis%C3%BClesanded.v2.docx Näidisülesanded]
+	
