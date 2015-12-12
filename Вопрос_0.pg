@@ -1,4 +1,9 @@
-ts: 1440974346
+revision: 2
+host: 82.131.0.18
+blocks: 
+lastmajor: 1
+keep-ts: 1440974346
+username: AlexDaniel
 text: Это ВикиДвижок или это самосборка сайта такая?
 	
 	-- Misha 2014-02-25 15:08 UTC
@@ -12,17 +17,12 @@ text: Это ВикиДвижок или это самосборка сайта 
 	-- AlexDaniel 2014-02-25 16:06 UTC
 	
 	
-host: 82.131.0.18
-blocks: 
-keep-ts: 1440974346
+languages: 
+minor: 1
+ts: 1440974346
+flags: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Движок <strong class="changes">OddMuse,</strong> который, например, используется на http://www.emacswiki.org/</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Движок <strong class="changes">[[https://oddmuse.org/ Oddmuse]],</strong> который, например, используется на http://www.emacswiki.org/</p></div>
-username: AlexDaniel
-diff-major: 
-languages: 
-lastmajor: 1
 summary: ссылка на oddmus
-minor: 1
-flags: 
-revision: 2
