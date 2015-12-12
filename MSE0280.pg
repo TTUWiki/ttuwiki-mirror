@@ -1,7 +1,7 @@
-ts: 1449903544
-lastmajorsummary: 
-lastmajor: 11
-summary: 
+ts: 1449903653
+host: 86.110.37.246
+username: Ain_Laidoja
+revision: 12
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
@@ -12,7 +12,7 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	== Kirjandus
 	
 	#Vares, V. Energiatehnika: Konspekt. TTÜ Kirjastus, Tallinn, 2011, 123 lk. 
-	#Kruus, R., Vares, V. Perspektiividest elektri ja soojuse koostootmise tehnoloogiatest Eestis. Tallinn 2004, 68 lk.
+	#Kruus, R., Vares, V. [http://www.ester.ee/record=b1743205*est Perspektiividest elektri ja soojuse koostootmise tehnoloogiatest Eestis]. Tallinn 2004, 68 lk.
 	
 	
 	==Upcoming events
@@ -30,12 +30,10 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-Kordamisk%C3%BCsimused.v1.docx Kordamisküsimused]
 	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-N%C3%A4idis%C3%BClesanded.v2.docx Näidisülesanded]
 	
-revision: 11
-keep-ts: 1449903544
-flags: 1
+lastmajorsummary: 
 minor: 
-username: Ain_Laidoja
-ip: 89.235.235.166
-host: 86.110.37.246
+summary: 
 languages: 
-blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
+keep-ts: 1449903653
+lastmajor: 12
+ip: 89.235.235.166
