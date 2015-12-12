@@ -1,13 +1,21 @@
-lastmajor: 8
-ts: 1449901564
-blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
-flags: 1
+ts: 1449902033
+summary: 
+keep-ts: 1449902033
+lastmajorsummary: 
+languages: 
+minor: 
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
 	
 	Õppematerjalid:
 	* [http://velar.ee/mse0280-hajaenergeetika-planeerimine Õppeaine koduleht]
+	
+	== Kirjandus
+	
+	#Vares, V. Energiatehnika: Konspekt. TTÜ Kirjastus, Tallinn, 2011, 123 lk. 
+	#Kruus, R., Vares, V. Perspektiividest elektri ja soojuse koostootmise tehnoloogiatest Eestis. Tallinn 2004, 68 lk.
+	
 	
 	==Upcoming events
 	
@@ -17,12 +25,8 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	
 	== Eksam
 	
+revision: 9
+lastmajor: 9
 ip: 89.235.235.166
-minor: 
-summary: 
-languages: 
-keep-ts: 1449901564
-host: 86.110.37.246
-lastmajorsummary: 
-revision: 8
 username: Ain_Laidoja
+host: 86.110.37.246
