@@ -1,19 +1,5 @@
-diff-major: 1
-flags: 1
-ts: 1444283891
-revision: 8
-keep-ts: 1444283891
-minor: 
-username: Ain_Laidoja
 summary: 
-lastmajorsummary: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; **12.10** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; **12.10 <strong class="changes">19:15</strong>** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel</p></div>
-languages: 
-lastmajor: 8
-host: 86.110.37.246
-ip: 89.235.235.166
+username: Ain_Laidoja
 text: #SUBTITLE Hajaobjekti projekt
 	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	
@@ -25,6 +11,16 @@ text: #SUBTITLE Hajaobjekti projekt
 	 
 	==Upcoming events
 	
-	**12.10 19:15** Projekti ideekavandi esitlus. 5 minuti jooksul esitada oma ideed slaididel
+	* **2015-12-14** Projekti esitlus  17:45-19:40
 	
-blocks: [Course:106022 〔Õppeaine ÕIS-is〕]
+	* **2016-01-14** PROJEKTI KAITSMINE  10:00-11:00
+	
+host: 86.110.37.246
+minor: 
+languages: 
+revision: 9
+ip: 89.235.235.166
+ts: 1449901766
+keep-ts: 1449901766
+lastmajor: 9
+lastmajorsummary: 
