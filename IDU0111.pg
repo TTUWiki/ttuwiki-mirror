@@ -1,10 +1,13 @@
-revision: 11
+minor: 
+flags: 10
+lastmajorsummary: Project examples
+username: AlexDaniel
 keep-ts: 1449279207
 summary: Project examples
-ip: 89.235.235.166
+revision: 11
 host: 85.253.148.32
-languages: 
-lastmajor: 11
+ts: 1449279207
+blocks: [Course:105065 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	#SUBURL [Course:105065 〔Õppeaine ÕIS-is〕]
 	
@@ -32,9 +35,6 @@ text: #SUBTITLE Äriprotsesside modelleerimine ja automatiseerimine
 	-- AlexDaniel 2015-10-22 00:45:35
 	
 	
-minor: 
-ts: 1449279207
-flags: 10
-blocks: [Course:105065 〔Õppeaine ÕIS-is〕]</div></div>
-username: AlexDaniel
-lastmajorsummary: Project examples
+lastmajor: 11
+ip: 89.235.235.166
+languages: 

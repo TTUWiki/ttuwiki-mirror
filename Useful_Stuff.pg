@@ -1,3 +1,7 @@
+summary: Better description
+revision: 24
+languages: 
+flags: 0
 ts: 1447431835
 text: === University / Ülikool / Университет:
 	#ENG
@@ -177,14 +181,10 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-host: 85.253.118.231
-languages: 
-minor: 
-username: AlexDaniel
-summary: Better description
-revision: 24
-flags: 0
 keep-ts: 1447431835
-lastmajor: 24
+username: AlexDaniel
+host: 85.253.118.231
 lastmajorsummary: Better description
 blocks: </div></div>
+minor: 
+lastmajor: 24

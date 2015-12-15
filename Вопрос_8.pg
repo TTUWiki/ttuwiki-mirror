@@ -1,19 +1,18 @@
-lastmajor: 2
+languages: 
+host: 89.235.245.14
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль. </p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p></div>
-ts: 1407693267
+revision: 5
+flags: 
+username: AlexDaniel
+summary: Touch
+ip: 89.235.239.240
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; File:arvutid_2_lab.pdf <strong class="changes">???</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; File:arvutid_2_lab.pdf</p></div>
-languages: 
+lastmajor: 2
 keep-ts: 1407693267
-blocks: 
-ip: 89.235.239.240
-username: AlexDaniel
-summary: Touch
-host: 89.235.245.14
-minor: 1
 text: Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?
 	
 	-- Kulja 2014-03-29 21:11:30
@@ -67,5 +66,6 @@ text: Кто-нибудь может объяснить как делается 
 	-- AlexDaniel 2014-03-29 22:26:58
 	
 	
-revision: 5
-flags: 
+minor: 1
+blocks: 
+ts: 1407693267

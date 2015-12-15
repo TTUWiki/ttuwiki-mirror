@@ -1,14 +1,14 @@
-revision: 9
-keep-ts: 1445146551
-lastmajor: 7
+languages: 
+summary: cache
+host: 85.253.53.160
 diff-minor: 
 lastmajorsummary: Useful stuff = Kasulik info?
-languages: 
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[Useful Stuff]]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[Useful Stuff<strong class="changes">|Kasulik info</strong>]]</p></div>
-ts: 1445146551
+username: AlexDaniel
+lastmajor: 7
 minor: 1
+revision: 9
+keep-ts: 1445146551
+blocks: 
 text: #LANG_NO_BUTTONS EST
 	[[Home|Pealeht]]
 	[[Useful Stuff|Kasulik info]]
@@ -33,7 +33,9 @@ text: #LANG_NO_BUTTONS EST
 	[[lang:ee EST]]
 	[[lang:ru RUS]]
 	
-username: AlexDaniel
-host: 85.253.53.160
 ip: 89.235.239.240
-summary: cache
+ts: 1445146551
+flags: 
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[Useful Stuff]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[Useful Stuff<strong class="changes">|Kasulik info</strong>]]</p></div>

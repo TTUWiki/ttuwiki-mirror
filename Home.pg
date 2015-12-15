@@ -1,6 +1,11 @@
-blocks: </div></div>
-lastmajorsummary: eng translation
+host: 85.253.148.32
+lastmajor: 16
+username: AlexDaniel
 keep-ts: 1448837172
+blocks: </div></div>
+ts: 1448837172
+lastmajorsummary: eng translation
+summary: Missing diff
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -38,12 +43,7 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-summary: Missing diff
-flags: 0
-host: 85.253.148.32
-username: AlexDaniel
-languages: 
-lastmajor: 16
-ts: 1448837172
 revision: 17
 minor: 1
+languages: 
+flags: 0

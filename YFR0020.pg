@@ -1,6 +1,15 @@
-username: AlexDaniel
+revision: 15
+lastmajorsummary: multilingual
+ip: 89.235.235.166
+host: 85.253.118.231
+flags: 1
 minor: 1
+blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
+ts: 1447604705
+keep-ts: 1447604705
+languages: 
 summary: multilingual
+lastmajor: 13
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
@@ -76,13 +85,4 @@ text: #SUBTITLE Füüsika
 	
 	  
 	
-blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
-revision: 15
-flags: 1
-host: 85.253.118.231
-languages: 
-ip: 89.235.235.166
-keep-ts: 1447604705
-lastmajorsummary: multilingual
-lastmajor: 13
-ts: 1447604705
+username: AlexDaniel
