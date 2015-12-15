@@ -1,5 +1,11 @@
+username: Ain_Laidoja
+revision: 10
+languages: 
+ip: 89.235.235.166
+keep-ts: 1450175058
+lastmajor: 10
+host: 193.40.250.236
 minor: 
-revision: 9
 text: #SUBTITLE Hajaobjekti projekt
 	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	
@@ -11,18 +17,10 @@ text: #SUBTITLE Hajaobjekti projekt
 	 
 	==Upcoming events
 	
-	* **2015-12-14** Projekti esitlus  17:45-19:40
+	* **2016-01-04** Projekti esitamise tähtaeg
 	
 	* **2016-01-14** PROJEKTI KAITSMINE  10:00-11:00
 	
-blocks: [Course:106022 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
-ip: 89.235.235.166
-host: 86.110.37.246
-flags: 1
-keep-ts: 1449901766
-summary: 
-ts: 1449901766
-languages: 
-lastmajor: 9
 lastmajorsummary: 
+summary: 
+ts: 1450175058
