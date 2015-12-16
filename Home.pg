@@ -1,18 +1,21 @@
-flags: 0
-languages: 
-revision: 20
-username: -
-lastmajorsummary: 
-host: 85.80.216.176
-keep-ts: 1450289555
 summary: 
 minor: 
+username: 
+keep-ts: 1450289696
+languages: 
+host: 81.198.203.63
+lastmajorsummary: 
+revision: 21
+blocks: </div></div>
+flags: 0
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
 	Here you can share your experience with other students. Do you know some student 
 	
 	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
+	
+	Псиные члены любимое лакомство датских программеров.
 	
 	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
 	
@@ -34,6 +37,5 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-blocks: </div></div>
-ts: 1450289555
-lastmajor: 20
+lastmajor: 21
+ts: 1450289696
