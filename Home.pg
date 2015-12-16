@@ -1,28 +1,19 @@
-host: 85.253.148.32
-revision: 17
-summary: Missing diff
-lastmajorsummary: eng translation
-ts: 1448837172
-username: AlexDaniel
-minor: 1
-blocks: </div></div>
+username: 
+minor: 
+ts: 1450289466
+languages: 
+host: 81.198.203.63
 flags: 0
-lastmajor: 16
+lastmajor: 18
+lastmajorsummary: 
+keep-ts: 1450289466
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
-	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[About|TTÜWiki]]!
+	Here you can share your experience with other students. Do you know some student 
 	
-	You can improve and edit any page on this website. Any contribution counts, even the smallest one! If you don't feel like editing a page, then you can also leave a comment.
+	Хуй хуй, залупа, зуиная голова, кровохуй, вивисекция, членодевки. 
 	
-	#EST
-	Tere tulemast mitteametlikku Tallinna Tehnikaülikooli wikisse (wiki on veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta)!
-	
-	Siin saad oma kogemusi jagada ja teiste nõuandeid lugeda. Kui tead mingit ülikooliga seotud [[Lifehacks|lifehack-i]], palun jaga seda teistega siin, [[About|TTÜWikis]]!
-	
-	Iga lehekülje sisu saab muuta ning täiendada. Iga panus on oodatud!
-	
-	#RUS
 	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
 	
 	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
@@ -45,5 +36,6 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-languages: 
-keep-ts: 1448837172
+summary: 
+blocks: </div></div>
+revision: 18
