@@ -1,12 +1,17 @@
-diff-major: 1
+blocks: 
 minor: 
 lastmajorsummary: Moved to Timetables
-revision: 39
-username: AlexDaniel
 host: 82.131.4.24
-blocks: 
+keep-ts: 1444705040
+diff-major: 1
+revision: 39
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
+flags: 
+lastmajor: 39
+languages: 
+ts: 1444705040
+ip: 84.52.38.4
 summary: Moved to Timetables
 text: DeletedPage
 	
@@ -39,9 +44,4 @@ text: DeletedPage
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-lastmajor: 39
-keep-ts: 1444705040
-ts: 1444705040
-ip: 84.52.38.4
-flags: 
-languages: 
+username: AlexDaniel

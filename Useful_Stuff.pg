@@ -1,8 +1,8 @@
-summary: Better description
-revision: 24
-languages: 
 flags: 0
-ts: 1447431835
+blocks: </div></div>
+revision: 24
+minor: 
+languages: 
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -181,10 +181,10 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-keep-ts: 1447431835
 username: AlexDaniel
-host: 85.253.118.231
-lastmajorsummary: Better description
-blocks: </div></div>
-minor: 
+summary: Better description
+ts: 1447431835
 lastmajor: 24
+host: 85.253.118.231
+keep-ts: 1447431835
+lastmajorsummary: Better description
