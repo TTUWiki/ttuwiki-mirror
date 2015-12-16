@@ -1,11 +1,5 @@
-username: 
-flags: 0
-lastmajorsummary: 
-keep-ts: 1450292286
-host: 85.80.216.176
-blocks: </div></div>
-lastmajor: 22
 summary: 
+languages: 
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -16,7 +10,7 @@ text: #ENG
 	#EST
 	Tere tulemast mitteametlikku Tallinna Tehnikaülikooli wikisse (wiki on veebisait, mis võimaldab selle külastajatel sisu lisada, kustutada ja muuta)!
 	
-	Siin saad oma kogemusi jagada ja teiste nõuandeid lugeda. Kui tead mingit ülikooliga seotud [[Lifehacks|lifehack-i]], palun jaga seda teistega siin, [[About|TTÜWikis]]!
+	Siin saad oma kogemusi jagada ja teiste nõuandeid lugeda. Kuни tead mingit ülikooliga seotud [[Lifehacks|lifehack-i]], palun jaga seda teistega siin, [[About|TTÜWikis]]!
 	
 	Iga lehekülje sisu saab muuta ning täiendada. Iga panus on oodatud!
 	
@@ -25,7 +19,7 @@ text: #ENG
 	
 	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
 	
-	Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.
+	Содержание любой пипки можно изменять пипкой и дорабатывать её. Даже если вы не хотите писать полное описание пипки, оставьте хотя бы пару пипок – любой пипка важен! В крайнем случае можно оставить пипку.
 	
 	== Faculties / Teaduskonnad / Факультеты
 	<include "Õppekavad">
@@ -43,7 +37,13 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
+username: 
+ts: 1450294616
+flags: 0
+lastmajorsummary: 
+blocks: </div></div>
+host: 81.198.203.63
+lastmajor: 23
+revision: 23
 minor: 
-languages: 
-revision: 22
-ts: 1450292286
+keep-ts: 1450294616
