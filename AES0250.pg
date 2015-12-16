@@ -1,11 +1,8 @@
-lastmajorsummary: 
-languages: 
-ts: 1448005739
-summary: 
-keep-ts: 1448005739
-revision: 14
 username: Ain_Laidoja
-blocks: </div></div></div></div>
+ts: 1448005739
+revision: 14
+languages: 
+lastmajorsummary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -43,8 +40,11 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	== Eksam
 	
 	
-minor: 
-ip: 89.235.235.166
+flags: 1
 lastmajor: 14
-flags: 00
+blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
 host: 193.40.244.217
+ip: 89.235.235.166
+minor: 
+keep-ts: 1448005739
+summary: 
