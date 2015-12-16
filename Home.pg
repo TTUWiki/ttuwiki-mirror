@@ -1,13 +1,16 @@
-keep-ts: 1450289519
-username: 
-lastmajorsummary: 
 flags: 0
+languages: 
+revision: 20
+username: -
+lastmajorsummary: 
+host: 85.80.216.176
+keep-ts: 1450289555
+summary: 
+minor: 
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
 	Here you can share your experience with other students. Do you know some student 
-	
-	Хуй хуй, залупа, хуиная голова, кровохуй, вивисекция, членодевки. 
 	
 	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
 	
@@ -32,10 +35,5 @@ text: #ENG
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 blocks: </div></div>
-revision: 19
-minor: 
-lastmajor: 19
-ts: 1450289519
-summary: 
-host: 81.198.203.63
-languages: 
+ts: 1450289555
+lastmajor: 20
