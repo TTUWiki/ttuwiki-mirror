@@ -1,16 +1,18 @@
-username: AlexDaniel
-ts: 1441924448
-flags: 1
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 6
+ts: 1450425568
+host: 86.110.37.246
+lastmajorsummary: 
+ip: 89.235.235.166
+revision: 7
+minor: 
+lastmajor: 7
+summary: 
+keep-ts: 1450425568
+languages: 
+username: Ain_Laidoja
 text: #SUBTITLE Tuumareaktorid
 	#SUBURL [Course:100950 〔Õppeaine ÕIS-is〕]
+	
 	[http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Tuumareaktorid_2011.pdf Õppematerjal]
 	
-minor: 1
-host: 82.131.7.230
-blocks: [Course:100950 〔Õppeaine ÕIS-is〕]
-lastmajor: 5
-languages: 
-ip: 89.235.235.166
+	[http://www.staff.ttu.ee/~avrager/TR/TR.htm Õppeaine kodulehekülg]
+	
