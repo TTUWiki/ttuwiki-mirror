@@ -1,14 +1,15 @@
 revision: 4
-username: AlexDaniel
-minor: 
-flags: 
-blocks: 
 ts: 1445800810
 summary: #ENG
-keep-ts: 1445800810
+username: AlexDaniel
 lastmajorsummary: #ENG
+host: 85.253.118.231
+keep-ts: 1445800810
+flags: 
 languages: 
 lastmajor: 4
+minor: 
+blocks: 
 text: #ENG
 	**Timetables in image format are here: [[Расписания в PNG|Timetables (PNG)]]**
 	**Timetables for extramural students are here: [[Расписания (заочное)|Timetables (extramural)]]**
@@ -52,4 +53,3 @@ text: #ENG
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-host: 85.253.118.231
