@@ -1,8 +1,12 @@
-flags: 0
-lastmajor: 21
+lastmajorsummary: Moved to Page Generation
+ts: 1444779707
 ip: 84.52.48.194
+blocks: 
 keep-ts: 1444779707
+flags: 
+host: 82.131.4.24
 minor: 
+lastmajor: 21
 text: DeletedPage
 	
 	=== Программы и предметы
@@ -50,11 +54,7 @@ text: DeletedPage
 	-- AlexDaniel 2015-01-25 15:25:46
 	
 	
-summary: Moved to Page Generation
-ts: 1444779707
-lastmajorsummary: Moved to Page Generation
 username: AlexDaniel
 revision: 21
-blocks: </div></div>
+summary: Moved to Page Generation
 languages: 
-host: 82.131.4.24

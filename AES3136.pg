@@ -1,11 +1,9 @@
-lastmajorsummary: 
-host: 193.40.250.236
-summary: 
-lastmajor: 9
 revision: 9
-flags: 
-blocks: 
-username: Ain_Laidoja
+ip: 89.235.235.166
+host: 193.40.250.236
+flags: 1
+ts: 1449589857
+summary: 
 text: #SUBTITLE Energiasüsteemide ökonoomika
 	#SUBURL [Course:25897 〔Õppeaine ÕIS-is〕]
 	
@@ -23,7 +21,9 @@ text: #SUBTITLE Energiasüsteemide ökonoomika
 	*Kaks teooria küsimust
 	
 minor: 
-ts: 1449589857
-ip: 89.235.235.166
-languages: 
+username: Ain_Laidoja
+blocks: [Course:25897 〔Õppeaine ÕIS-is〕]
 keep-ts: 1449589857
+lastmajor: 9
+languages: 
+lastmajorsummary: 

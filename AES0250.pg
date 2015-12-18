@@ -1,12 +1,6 @@
-lastmajorsummary: 
-host: 193.40.244.217
-revision: 14
+ip: 89.235.235.166
 lastmajor: 14
-summary: 
-flags: 00
-username: Ain_Laidoja
-blocks: </div></div></div></div>
-minor: 
+lastmajorsummary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -45,6 +39,12 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	
 	
 languages: 
-ip: 89.235.235.166
+revision: 14
+host: 193.40.244.217
 ts: 1448005739
 keep-ts: 1448005739
+summary: 
+blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
+minor: 
+username: Ain_Laidoja
+flags: 1
