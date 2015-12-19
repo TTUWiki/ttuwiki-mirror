@@ -1,29 +1,12 @@
-lastmajor: 12
 languages: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#.</strong>Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012. </p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#</strong>Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012. </p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">#</strong>Technical Guideline. Generating Plants Connected to the Medium-Voltage Network<strong class="changes">.</strong> BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#[[https://www.bdew.de/internet.nsf/id/A2A0475F2FAE8F44C12578300047C92F/$file/BDEW_RL_EA-am-MS-Netz_engl.pdf</strong> Technical Guideline. Generating Plants Connected to the Medium-Voltage Network<strong class="changes">]].</strong> BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.</p></div>
-username: Ain_Laidoja
-diff-major: 1
-host: 86.110.37.246
-keep-ts: 1443686468
-flags: 1
-ip: 89.235.235.166
-ts: 1443686468
-lastmajorsummary: 
-summary: 
-minor: 
-revision: 12
-blocks: [Course:106072 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
 	==Õppematerjal
 	
-	*[[https://ois.ttu.ee/ois2/docs/KODUL.426302.10.2014_15:44:02/LoenguKonspekt1Pt.pdf Konspekt]] 
-	*Õppejõu õppematerjal on ka [[https://ois.ttu.ee/portal/page?_pageid=35,428206&_dad=portal&_schema=PORTAL&p_id=4263&p_from_aine=1&p_mode=3&p_popup=Y ÕIS'is]] aga sellele pääseb ligi vaid kursusele deklareerinud üliõpilane 😥
+	Selle õppeaine materjal on salastatud
+	
+	Sarnane õppeaine mille õppematerjal on saadaval on: ttp://ttuwiki.ee/AAV3340
 	
 	==Kirjandus
 	
@@ -34,3 +17,13 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard [[https://www.evs.ee/tooted/evs-en-50160-2010 EVS EN 50160]]. 2007. 22 lk.
 	#Ü. Treufeldt. [[http://www.ester.ee/record=b1627303*est Lühised elektrisüsteemides]]. Tallinn. 2002. 158 lk
 	
+lastmajor: 13
+minor: 
+lastmajorsummary: 
+ts: 1450525539
+ip: 89.235.235.166
+keep-ts: 1450525539
+revision: 13
+username: Ain_Laidoja
+summary: 
+host: 86.110.37.246
