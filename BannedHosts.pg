@@ -1,20 +1,10 @@
-flags: 
-minor: 1
-ts: 1440436663
-blocks: 
-revision: 44
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ^62\.210<strong class="changes">\.122\.209 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.142\.7 # 2014</strong>-<strong class="changes">10-20 ISS0010<br />&lt; ^62\.210\.152\.149 # 2014-10</strong>-<strong class="changes">20 ISS0010<br />&lt; ^62\.210\.167\.213 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.78\.209 # 2014-10-20 ISS0010<br />&lt; ^62\.210\.91\.168</strong> # 2014-10-20 ISS0010</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; ^62\.210<strong class="changes">\.[0</strong>-<strong class="changes">9]+\.[0</strong>-<strong class="changes">9]+</strong> # 2014-10-20 ISS0010</p></div>
 languages: 
-summary: ISS0010
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ^188\.143\.232\.70 # 2015-08-24 ISS0010</p></div>
-host: 82.131.83.221
+minor: 
+host: 82.131.48.179
 ip: 84.52.48.17
-keep-ts: 1440436663
-username: AlexDaniel
-lastmajor: 42
+lastmajor: 45
+ts: 1450518081
+lastmajorsummary: Вредный совет: глупые шутки на википедии видны гораздо большему кол-ву людей
 text: ^216\.152\.251\.72
 	^.*.xdnetworks\.net
 	^wen4\.kelowthblog\.com
@@ -51,4 +41,9 @@ text: ^216\.152\.251\.72
 	^94\.23\.251\.211 # 2014-10-20 ISS0010
 	^188\.143\.232\.35 # 2015-08-24 ISS0010
 	^188\.143\.232\.70 # 2015-08-24 ISS0010
+	^81\.198\.203\.63 # 2015-12-19 Home
 	
+revision: 45
+summary: Вредный совет: глупые шутки на википедии видны гораздо большему кол-ву людей
+username: AlexDaniel
+keep-ts: 1450518081
