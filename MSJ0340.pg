@@ -1,5 +1,16 @@
+lastmajorsummary: 
+languages: 
+ts: 1450555944
+host: 86.110.37.246
+keep-ts: 1450555944
+lastmajor: 4
+minor: 
+revision: 4
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
+	
+	
+	[[image/right:File:vkg_reaktor.png|Põlevkiviõli pürolüüsi reaktor Viru Keemia Grupis]]
 	
 	==Õppematerjal
 	...
@@ -13,19 +24,5 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	 
 	==Upcoming events
 	
-lastmajor: 3
-minor: 
-username: Ain_Laidoja
-diff-major: 1
-keep-ts: 1443700176
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; ...<br />&gt; ==Кirjandus<br />&gt; # [[http://www</strong>.<strong class="changes">ester.ee/record=b2657215*est Oil Shale – Petroleum Alternative]]. Editors in chief Jialin Qian, Liang Yin. China Petrochemical Press. 2010,<br />&gt; # [[http://www.ester.ee/record=b1982000*est Põlevkivi põletustehnika]], Arvo Ots, Tallinn, 2004,<br />&gt; # [http://www.ester.ee/record=b1821093*est Põlevkivi - õlikivi], V. Kattai, Eesti Geoloogiakeskus 2003<br />&gt; # .Энерготехнологическая переработка топлив твердым теплоносителем.Блохин А.И.и др., Москва.Светлый Стан, 2005<br />&gt; # Valitud teadusartilid ajakirjast "[http://www.kirj.ee/oilshale Oil Shale]"<br />&gt;  <br />&gt; ==Upcoming events</strong></p></div>
-languages: 
-host: 193.40.244.196
-ts: 1443700176
-flags: 1
 summary: 
-lastmajorsummary: 
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
-revision: 3
+username: Ain_Laidoja
