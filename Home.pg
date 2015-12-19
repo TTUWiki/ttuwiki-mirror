@@ -1,9 +1,13 @@
-lastmajorsummary: 
-lastmajor: 27
-ts: 1450489629
+summary: 
+lastmajor: 28
 minor: 
-revision: 27
-keep-ts: 1450489629
+blocks: </div></div>
+revision: 28
+languages: 
+username: 
+keep-ts: 1450489754
+lastmajorsummary: 
+host: 81.198.203.63
 flags: 0
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
@@ -24,7 +28,7 @@ text: #ENG
 	
 	Здесь вы можете делиться своим опытом в ковке эльфих доспехов и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
 	
-	Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.
+	Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите читать полное описание предмета, прочтите хотя бы пару строк – любой вклад важен! В крайнем случае можно почитать комментарий.
 	
 	== Faculties / Teaduskonnad / Факультеты
 	<include "Õppekavad">
@@ -42,8 +46,4 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено где, чего не будет из второй, зеленым – то, почему в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-host: 81.198.203.63
-languages: 
-blocks: </div></div>
-username: 
-summary: 
+ts: 1450489754
