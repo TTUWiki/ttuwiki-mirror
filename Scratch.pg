@@ -1,18 +1,7 @@
-username: AlexDaniel
-host: 89-235-231-110.saturn.infonet.ee
-ts: 1391526292
-keep-ts: 1391526292
-summary: 
-ip: 89.235.231.110
-languages: 
-revision: 6
-minor: 1
-flags: 
-lastmajor: 2
 text: Если редактируете эту страницу, то помечайте правку как *незначительную*!
 	
+	[[image/icon:File:8943930400_c2e1f0b47e_b.jpg|Image icon alt text test||Image icon test (with caption)]]
 	
-	----
 	* """Blockquotes."""
 	* ''Inline quotes.''
 	* ^^Superscripted^^ text.
@@ -43,14 +32,14 @@ text: Если редактируете эту страницу, то помеч
 	:definition2
 	
 	
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Text</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2014-02-01 21:14 UTC</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Text</strong></p></div>
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[File:somehtml.html]]</p></div>
-blocks: 
+ts: 1450557489
+revision: 7
+minor: 
+languages: 
+username: AlexDaniel
+lastmajor: 7
+ip: 89.235.231.110
+lastmajorsummary: Image icons with CSS
+host: 82.131.48.179
+summary: Image icons with CSS
+keep-ts: 1450557489
