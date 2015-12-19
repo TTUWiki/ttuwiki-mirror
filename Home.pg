@@ -1,3 +1,10 @@
+keep-ts: 1450489877
+lastmajor: 30
+host: 81.198.203.63
+blocks: </div></div>
+username: 
+minor: 
+lastmajorsummary: 
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -24,26 +31,19 @@ text: #ENG
 	
 	===== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	#ENG
-	Choose two similar programmes (e.g. **IABB02-14** and **IAPB02-14**) and press **Diff**. Courses that do not exist in second programme will be marked red, courses that do not exist in first programme are marked green. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Example]].
+	Choose two similar programmes (e.g. **IC3PO** and **IR2D-2**) and press **Diff**. Courses that do not exist in second programme will be marked red, courses that do not exist in first programme are marked green. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Example]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 	#EST
-	Vali kaks sarnast õppekava, näiteks **IABB02-14** ja **IAPB02-14** ning vajuta **Erinevused**. Punasega on märgitud see, mida ei ole teises õppekavas ja rohelisega esimeses õppekavas puuduvad asjad. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Näidis]].
+	Vali kaks sarnast õppekava, näiteks **IC3PO** ja **IR2D-2** ning vajuta **Erinevused**. Punasega on märgitud see, mida ei ole teises õppekavas ja rohelisega esimeses õppekavas puuduvad asjad. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Näidis]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 	#RUS
 	Выберите две похожие программы, например **IC3PO** и **IR2D-2**, нажмите **Сравнить**. Красным выделено где, чего не будет из второй, зеленым – то, почему в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-minor: 
-revision: 29
-lastmajor: 29
+ts: 1450489877
 summary: 
-languages: 
-keep-ts: 1450489833
-blocks: </div></div>
 flags: 0
-username: 
-lastmajorsummary: 
-host: 81.198.203.63
-ts: 1450489833
+revision: 30
+languages: 
