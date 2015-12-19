@@ -1,5 +1,9 @@
-summary: 
 ip: 89.235.235.166
+languages: 
+ts: 1450525631
+lastmajorsummary: 
+keep-ts: 1450525631
+lastmajor: 14
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
@@ -7,7 +11,7 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	
 	Selle õppeaine materjal on salastatud
 	
-	Sarnane õppeaine mille õppematerjal on saadaval on: ttp://ttuwiki.ee/AAV3340
+	Sarnane õppeaine mille õppematerjal on saadaval on: [[AAV3340]]
 	
 	==Kirjandus
 	
@@ -18,14 +22,8 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard [[https://www.evs.ee/tooted/evs-en-50160-2010 EVS EN 50160]]. 2007. 22 lk.
 	#Ü. Treufeldt. [[http://www.ester.ee/record=b1627303*est Lühised elektrisüsteemides]]. Tallinn. 2002. 158 lk
 	
-username: Ain_Laidoja
-lastmajor: 13
-lastmajorsummary: 
-keep-ts: 1450525539
 minor: 
-languages: 
-blocks: [Course:106072 〔Õppeaine ÕIS-is〕]
-flags: 1
+username: Ain_Laidoja
+summary: 
+revision: 14
 host: 86.110.37.246
-ts: 1450525539
-revision: 13
