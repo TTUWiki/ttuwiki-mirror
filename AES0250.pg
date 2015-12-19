@@ -1,6 +1,3 @@
-ip: 89.235.235.166
-lastmajor: 14
-lastmajorsummary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -28,23 +25,36 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	
 	==Upcoming events
 	
-	**Intensiivkursus (2015):
+	=== Eksam
 	
-	• Reedel 20.11– 10:15-13:45
-	• Esmaspäeval 23.11 – 12:15-15:45
-	• Reedel 4.12 – 10:15-13:45
-	• Esmaspäeval 7.12 – 12:15-15:45
+	**05. Jaanuar 2016**  Eksam  kell  2 päeval
 	
-	== Eksam
+	==Eksamiküsimused
 	
+	#Hajutatud tootmise definitsioon; tsentraliseeritud ja hajutatud tootmise erinevused.
+	#Hajatootmise seis maailmas ja Eestis (osakaal kogutoodangus, tehnoloogiad, võimalikud arengud).
+	#Hajatootmisel kasutatavad tehnoloogiad ja kütused.
+	#Hajatootmise potentsiaal Eestis (lähtuvalt ressurssidest ja koostootmise potentsiaalist).
+	#Hajatootmise rakendamise võimalikud probleemid.
+	#Tuuleenergiast elektri tootmine Eestis (praegune seis, ressurss, toodangu arvutamine).
+	#Päikeseenergiast elektri tootmine Eestis (praegune seis, ressurss, toodangu arvutamine).
+	#Koostootmisjaamade elektri tootmine Eestis (praegune seis, ressursid, toodangu arvutamine).
+	#Millised on tuuleenergia laialdase kasutuselevõtuga seotud probleemid?
+	#Millised on päikesepaneelide laialdase kasutuselevõtuga seotud probleemid?
+	#Hajatootmisseadmete optimaalse suuruse valiku põhimõtted.
+	#Hajatootmisseadmete optimaalse talitluse põhimõtted.
+	#Oletame, et sinu tuttav soovib paigaldada oma majale päikesepaneelid. Milliseid tingimusi peaks ta paneelide valikul ja paigutamisel arvesse võtma ning milliseid üldiseid soovitusi temale annaksid?
+	#Oletame, et sinu tuttav soovib paigaldada oma krundile elektrituuliku. Milliseid tingimusi peaks ta elektrituuliku valikul ja paigutamisel arvesse võtma ning milliseid üldiseid soovitusi temale annaksid?
+	#Oletame, et sinu tuttav töötab soojusettevõttes, kes soovib asendada oma katlamajas katla koostootmisjaamaga. Milliseid tingimusi peaks ta koostootmisjaama valikul arvesse võtma ning milliseid üldiseid soovitusi temale annaksid?
 	
-languages: 
-revision: 14
-host: 193.40.244.217
-ts: 1448005739
-keep-ts: 1448005739
-summary: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
-minor: 
+revision: 15
+lastmajor: 15
+keep-ts: 1450546997
 username: Ain_Laidoja
-flags: 1
+ip: 89.235.235.166
+summary: 
+lastmajorsummary: 
+ts: 1450546997
+minor: 
+host: 86.110.37.246
+languages: 
