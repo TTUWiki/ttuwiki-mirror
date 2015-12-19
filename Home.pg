@@ -1,14 +1,3 @@
-summary: 
-lastmajor: 28
-minor: 
-blocks: </div></div>
-revision: 28
-languages: 
-username: 
-keep-ts: 1450489754
-lastmajorsummary: 
-host: 81.198.203.63
-flags: 0
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -43,7 +32,18 @@ text: #ENG
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 	#RUS
-	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено где, чего не будет из второй, зеленым – то, почему в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
+	Выберите две похожие программы, например **IC3PO** и **IR2D-2**, нажмите **Сравнить**. Красным выделено где, чего не будет из второй, зеленым – то, почему в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-ts: 1450489754
+minor: 
+revision: 29
+lastmajor: 29
+summary: 
+languages: 
+keep-ts: 1450489833
+blocks: </div></div>
+flags: 0
+username: 
+lastmajorsummary: 
+host: 81.198.203.63
+ts: 1450489833
