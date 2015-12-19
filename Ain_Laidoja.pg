@@ -1,9 +1,9 @@
+lastmajorsummary:  [[File:vkg_reaktora.png]] 
+username: Ain_Laidoja
+ts: 1450555690
 minor: 
-host: 86.110.37.246
-blocks: 
-lastmajor: 33
-languages: 
-ts: 1447445252
+keep-ts: 1450555690
+summary:  [[File:vkg_reaktora.png]] 
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -51,9 +51,16 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-lastmajorsummary: 
-keep-ts: 1447445252
-username: Ain_Laidoja
-flags: 
-revision: 33
-summary: 
+	----
+	
+	
+	
+	[[File:vkg_reaktora.png]]
+	
+	-- Ain_Laidoja 2015-12-19 22:08:10
+	
+	
+lastmajor: 34
+host: 86.110.37.246
+languages: 
+revision: 34
