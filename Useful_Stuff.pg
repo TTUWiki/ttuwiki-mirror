@@ -1,5 +1,7 @@
 host: 82.131.48.179
-blocks: </div></div>
+keep-ts: 1450402704
+blocks: </div></div></div></div>
+minor: 
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -181,13 +183,11 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-ts: 1450402704
-keep-ts: 1450402704
-revision: 25
-username: AlexDaniel
-lastmajorsummary: Fix ENG language (taken from Home)
-flags: 0
-minor: 
-lastmajor: 25
 summary: Fix ENG language (taken from Home)
+username: AlexDaniel
+ts: 1450402704
+flags: 00
+lastmajor: 25
+lastmajorsummary: Fix ENG language (taken from Home)
+revision: 25
 languages: 

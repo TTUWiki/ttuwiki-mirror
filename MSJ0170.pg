@@ -1,8 +1,5 @@
-ts: 1450425568
-revision: 7
-blocks: [Course:100950 〔Õppeaine ÕIS-is〕]
-languages: 
 lastmajor: 7
+flags: 1
 text: #SUBTITLE Tuumareaktorid
 	#SUBURL [Course:100950 〔Õppeaine ÕIS-is〕]
 	
@@ -10,11 +7,14 @@ text: #SUBTITLE Tuumareaktorid
 	
 	[http://www.staff.ttu.ee/~avrager/TR/TR.htm Õppeaine kodulehekülg]
 	
-flags: 1
 summary: 
+host: 86.110.37.246
+username: Ain_Laidoja
+keep-ts: 1450425568
+blocks: [Course:100950 〔Õppeaine ÕIS-is〕]
+minor: 
+revision: 7
 lastmajorsummary: 
 ip: 89.235.235.166
-username: Ain_Laidoja
-minor: 
-host: 86.110.37.246
-keep-ts: 1450425568
+languages: 
+ts: 1450425568

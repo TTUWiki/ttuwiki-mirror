@@ -1,5 +1,16 @@
-ts: 1444705040
+languages: 
+blocks: 
+lastmajorsummary: Moved to Timetables
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
+host: 82.131.4.24
+minor: 
+username: AlexDaniel
+flags: 
+revision: 39
 lastmajor: 39
+keep-ts: 1444705040
+summary: Moved to Timetables
 text: DeletedPage
 	
 	**Расписания в картинках здесь: [[Расписания в PNG]]**
@@ -31,17 +42,6 @@ text: DeletedPage
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-keep-ts: 1444705040
-username: AlexDaniel
-minor: 
-blocks: 
-summary: Moved to Timetables
-revision: 39
-host: 82.131.4.24
 ip: 84.52.38.4
-lastmajorsummary: Moved to Timetables
-languages: 
 diff-major: 1
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; DeletedPage</p></div>
-flags: 
+ts: 1444705040

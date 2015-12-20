@@ -1,15 +1,8 @@
-minor: 0
-lastmajor: 31
-flags: 0
-revision: 31
-lastmajorsummary: Rollback to 2015-12-18 03:25:14
-host: 82.131.48.179
-summary: Rollback to 2015-12-18 03:25:14
 languages: 
-ts: 1450517909
-blocks: </div></div>
-keep-ts: 1450517909
+host: 82.131.48.179
+lastmajorsummary: Rollback to 2015-12-18 03:25:14
 username: AlexDaniel
+lastmajor: 31
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -47,3 +40,10 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
+flags: 0
+summary: Rollback to 2015-12-18 03:25:14
+minor: 0
+blocks: </div></div>
+ts: 1450517909
+keep-ts: 1450517909
+revision: 31

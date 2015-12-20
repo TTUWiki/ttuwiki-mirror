@@ -1,13 +1,10 @@
-username: AlexDaniel
 diff-major: 1
-blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-keep-ts: 1435438094
-host: 85.253.108.211
-summary: Ссылки
-revision: 4
-flags: 0101
 lastmajor: 4
+blocks: 
+keep-ts: 1435438094
 languages: 
+username: AlexDaniel
+flags: 
 ts: 1435438094
 text: [[IDN0010]] Erialatutvustus. Есть ли уже темы для эссе?
 	
@@ -21,7 +18,10 @@ text: [[IDN0010]] Erialatutvustus. Есть ли уже темы для эссе
 	-- Artur Gummel 2014-11-18 19:03:06
 	
 	
+revision: 4
 minor: 
+summary: Ссылки
+host: 85.253.108.211
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; IDN0010 Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[[</strong>IDN0010<strong class="changes">]]</strong> Erialatutvustus. Есть ли уже темы для эссе?</p></div><p><strong>Changed:</strong></p>
