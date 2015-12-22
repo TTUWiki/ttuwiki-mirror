@@ -1,15 +1,5 @@
-ip: 84.52.39.59
-blocks: </div></div>
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== Адаптировать сайт под мобильные телефоны<br />&lt; Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?<br />&lt; -- AlexDaniel 2014-03-17 23:59 UTC<br />&lt; === Расписания для докторантов<br />&lt; -- AlexDaniel 2015-01-14 00:36:51</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"></strong></p></div>
 lastmajor: 19
-username: 
-host: 82.131.4.24
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">DeletedPage<br />&gt; === Адаптировать сайт под мобильные телефоны<br />&gt; Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?<br />&gt; -- AlexDaniel 2014-03-17 23:59 UTC<br />&gt; === Расписания для докторантов<br />&gt; -- AlexDaniel 2015-01-14 00:36:51</strong></p></div>
-languages: 
+summary: Content moved to GitHub issues
 text: DeletedPage
 	
 	=== Адаптировать сайт под мобильные телефоны
@@ -23,10 +13,20 @@ text: DeletedPage
 	-- AlexDaniel 2015-01-14 00:36:51
 	
 	
-revision: 20
 minor: 1
-flags: 0
-lastmajorsummary: Content moved to GitHub issues
-ts: 1444734237
+revision: 20
+flags: 
 keep-ts: 1444734237
-summary: Content moved to GitHub issues
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== Адаптировать сайт под мобильные телефоны<br />&lt; Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?<br />&lt; -- AlexDaniel 2014-03-17 23:59 UTC<br />&lt; === Расписания для докторантов<br />&lt; -- AlexDaniel 2015-01-14 00:36:51</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"></strong></p></div>
+languages: 
+ip: 84.52.39.59
+lastmajorsummary: Content moved to GitHub issues
+blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">DeletedPage<br />&gt; === Адаптировать сайт под мобильные телефоны<br />&gt; Я Android не использую, поэтому мне сложно это реализовать. Есть ли желающие?<br />&gt; -- AlexDaniel 2014-03-17 23:59 UTC<br />&gt; === Расписания для докторантов<br />&gt; -- AlexDaniel 2015-01-14 00:36:51</strong></p></div>
+username: 
+host: 82.131.4.24
+ts: 1444734237
