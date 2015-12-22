@@ -1,5 +1,3 @@
-summary: 
-lastmajor: 35
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -9,6 +7,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	Articles:
 	
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatives to expensive District Heating]
+	
+	[http://www.tud.ttu.ee/web/Ain.Laidoja/CHP_suvise_soojuse_salvestamine_bioolisse_ain_laidoja_2015.pdf CHP suvise soojuse salvestamine bioõlisse]
 	
 	#RUS
 	Статьи:
@@ -47,11 +47,13 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-username: Ain_Laidoja
-revision: 35
-lastmajorsummary: 
-minor: 
-ts: 1450641284
-keep-ts: 1450641284
 host: 86.110.37.246
 languages: 
+keep-ts: 1450788375
+lastmajorsummary: 
+revision: 36
+username: Ain_Laidoja
+lastmajor: 36
+ts: 1450788375
+summary: 
+minor: 
