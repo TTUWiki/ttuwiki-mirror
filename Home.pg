@@ -1,9 +1,3 @@
-lastmajor: 33
-keep-ts: 1450845959
-ts: 1450845959
-languages: 
-summary: 
-host: 37.187.129.166
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -23,8 +17,7 @@ text: #ENG
 	
 	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
 	
-	Ребят, ну серьёзно? Вот это - http://puu.sh/m5C0h/541e3cac9a.png - должно было меня остановить?
-	ЗАДНИЦА!
+	Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.
 	
 	== Faculties / Teaduskonnad / Факультеты
 	<include "Õppekavad">
@@ -43,8 +36,14 @@ text: #ENG
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 flags: 0
-revision: 33
-username: 
-minor: 
+ts: 1450901256
+keep-ts: 1450901256
+username: AlexDaniel
+revision: 34
+lastmajorsummary: Rollback to 2015-11-30 00:46:12
+minor: 0
 blocks: </div></div>
-lastmajorsummary: 
+languages: 
+summary: Rollback to 2015-11-30 00:46:12
+host: 82.131.48.179
+lastmajor: 34
