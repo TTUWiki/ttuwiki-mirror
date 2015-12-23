@@ -1,3 +1,16 @@
+minor: 
+summary: 
+languages: 
+username: Ain_Laidoja
+ts: 1450175058
+blocks: [Course:106022 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.236
+revision: 10
+lastmajor: 10
+lastmajorsummary: 
+keep-ts: 1450175058
+ip: 89.235.235.166
+flags: 1
 text: #SUBTITLE Hajaobjekti projekt
 	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	
@@ -13,16 +26,3 @@ text: #SUBTITLE Hajaobjekti projekt
 	
 	* **2016-01-14** PROJEKTI KAITSMINE  10:00-11:00
 	
-username: Ain_Laidoja
-keep-ts: 1450175058
-ts: 1450175058
-host: 193.40.250.236
-languages: 
-blocks: </div></div>
-minor: 
-lastmajorsummary: 
-ip: 89.235.235.166
-revision: 10
-flags: 0
-summary: 
-lastmajor: 10

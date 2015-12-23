@@ -1,10 +1,16 @@
-ip: 89.235.235.166
 lastmajorsummary: 
-summary: 
-flags: 0
-revision: 28
+flags: 1
 lastmajor: 28
+keep-ts: 1449397093
+host: 86.110.37.246
 username: Ain_Laidoja
+revision: 28
+ip: 89.235.235.166
+summary: 
+ts: 1449397093
+minor: 
+blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -42,9 +48,3 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
-ts: 1449397093
-host: 86.110.37.246
-keep-ts: 1449397093
-minor: 
-blocks: </div></div>
-languages: 
