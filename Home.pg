@@ -1,3 +1,4 @@
+username: 
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -13,9 +14,10 @@ text: #ENG
 	Iga lehekülje sisu saab muuta ning täiendada. Iga panus on oodatud!
 	
 	#RUS
-	Добро пожаловать на неофициальную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
+	Добро пожаловать на неофициальную вики Таллиннского Технического Университета для Сексуальных Меньшинств (сайт, который все могут редактировать)!
 	
-	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]!
+	Здесь вы можете делиться своим опытом и читать советы других. Узнал какой-то студенческий или гейский [[Lifehacks|лайфхак]] – так поделись же им с остальными на [[About|TTUWiki]]! А так же, не забывай лайкать наш гмн на YouTube.
+	https://www.youtube.com/watch?v=3j4t185wl-0
 	
 	Содержание любой страницы можно изменять и дорабатывать. Даже если вы не хотите писать полное описание предмета, оставьте хотя бы пару строк – любой вклад важен! В крайнем случае можно оставить комментарий.
 	
@@ -35,15 +37,14 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-flags: 0
-ts: 1450901256
-keep-ts: 1450901256
-username: AlexDaniel
-revision: 34
-lastmajorsummary: Rollback to 2015-11-30 00:46:12
-minor: 0
-blocks: </div></div>
+minor: 
+summary: 
+ts: 1450934483
 languages: 
-summary: Rollback to 2015-11-30 00:46:12
-host: 82.131.48.179
-lastmajor: 34
+keep-ts: 1450934483
+blocks: </div></div>
+host: 149.202.47.181
+revision: 35
+lastmajor: 35
+flags: 0
+lastmajorsummary: 
