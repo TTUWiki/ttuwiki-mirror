@@ -1,9 +1,6 @@
-languages: 
-host: 82.131.4.24
-ip: 89.235.239.240
-keep-ts: 1444704901
-minor: 
 lastmajorsummary: Moved to Useful Stuff
+summary: Moved to Useful Stuff
+diff-major: 1
 text: DeletedPage
 	
 	=== Университет:
@@ -86,13 +83,16 @@ text: DeletedPage
 	-- imCaps 2015-06-02 10:42:38
 	
 	
+lastmajor: 53
+host: 82.131.4.24
+languages: 
+keep-ts: 1444704901
+blocks: 
+revision: 53
+ts: 1444704901
+flags: 
+username: AlexDaniel
+ip: 89.235.239.240
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
-flags: 
-summary: Moved to Useful Stuff
-revision: 53
-blocks: 
-ts: 1444704901
-username: AlexDaniel
-lastmajor: 53
-diff-major: 1
+minor: 

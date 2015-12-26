@@ -1,12 +1,11 @@
-ts: 1444779720
-summary: Moved
-minor: 
-flags: 0
-lastmajorsummary: Moved
+flags: 
 username: AlexDaniel
-lastmajor: 1
+summary: Moved
 languages: 
-host: 82.131.4.24
+lastmajorsummary: Moved
+ts: 1444779720
+revision: 1
+minor: 
 text: === Программы и предметы
 	
 	Для генерации страниц использовался этот скрипт:
@@ -52,5 +51,6 @@ text: === Программы и предметы
 	-- AlexDaniel 2015-01-25 15:25:46
 	
 	
-revision: 1
-blocks: </div></div>
+blocks: 
+host: 82.131.4.24
+lastmajor: 1
