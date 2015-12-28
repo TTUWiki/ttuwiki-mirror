@@ -1,16 +1,3 @@
-host: 86.110.37.246
-lastmajor: 15
-flags: 1
-ts: 1450546997
-revision: 15
-languages: 
-ip: 89.235.235.166
-keep-ts: 1450546997
-username: Ain_Laidoja
-summary: 
-blocks: [Course:101342 〔Õppeaine ÕIS-is〕]
-minor: 
-lastmajorsummary: 
 text: #SUBTITLE Elektrienergia hajatootmine
 	#SUBURL [Course:101342 〔Õppeaine ÕIS-is〕]
 	
@@ -60,3 +47,16 @@ text: #SUBTITLE Elektrienergia hajatootmine
 	#Oletame, et sinu tuttav soovib paigaldada oma krundile elektrituuliku. Milliseid tingimusi peaks ta elektrituuliku valikul ja paigutamisel arvesse võtma ning milliseid üldiseid soovitusi temale annaksid?
 	#Oletame, et sinu tuttav töötab soojusettevõttes, kes soovib asendada oma katlamajas katla koostootmisjaamaga. Milliseid tingimusi peaks ta koostootmisjaama valikul arvesse võtma ning milliseid üldiseid soovitusi temale annaksid?
 	
+ip: 89.235.235.166
+flags: 
+keep-ts: 1450546997
+languages: 
+revision: 15
+blocks: 
+lastmajorsummary: 
+username: Ain_Laidoja
+ts: 1450546997
+lastmajor: 15
+host: 86.110.37.246
+minor: 
+summary: 

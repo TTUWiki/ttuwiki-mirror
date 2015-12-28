@@ -1,4 +1,15 @@
+host: 82.131.48.179
+username: AlexDaniel
+revision: 7
 ip: 89.235.231.110
+blocks: </div></div></div></div></div></div></div></div></div></div></div></div>
+flags: 000000
+lastmajor: 7
+keep-ts: 1450557489
+ts: 1450557489
+languages: 
+minor: 
+lastmajorsummary: Image icons with CSS
 text: Если редактируете эту страницу, то помечайте правку как *незначительную*!
 	
 	[[image/icon:File:8943930400_c2e1f0b47e_b.jpg|Image icon alt text test||Image icon test (with caption)]]
@@ -33,15 +44,4 @@ text: Если редактируете эту страницу, то помеч
 	:definition2
 	
 	
-flags: 
-host: 82.131.48.179
-minor: 
 summary: Image icons with CSS
-blocks: 
-keep-ts: 1450557489
-lastmajor: 7
-revision: 7
-lastmajorsummary: Image icons with CSS
-ts: 1450557489
-languages: 
-username: AlexDaniel

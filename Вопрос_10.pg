@@ -1,16 +1,13 @@
+blocks: 
+languages: 
 lastmajor: 2
-keep-ts: 1422758303
 minor: 
 revision: 2
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Сделал :)<br />&gt; Вообще, вот [[https://github.com/TTUWiki/ttuwiki-misc/tree/master/parse_timetable тут есть]] этот скрипт (parse_timetable), который создает все нужные страницы и картинки. После его выполнения любой может запустить upload_timetable и на этом сайте всё обновится.<br />&gt; Я не могу поставить этот скрипт в cron на сервере, так как wkhtmltoimage для создания картинок всё-таки требует запущенные иксы, увы. Но это нужно лишь для картинок, ссылки на ыйс всегда актуальны, они не изменяются на протяжении семестра.<br />&gt; Но в начале семестра нужно не забывать его запустить, это да. Спасибо!<br />&gt; -- AlexDaniel 2015-02-01 04:38:23</p></div>
-languages: 
-username: AlexDaniel
-host: 85.253.117.63
-blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-ts: 1422758303
-diff-major: 1
-flags: 0101
+flags: 
+summary: Сделал :) Вообще, вот [тут есть] этот скрипт (parse_timetable), который . . .
+keep-ts: 1422758303
 text: Новый семестр вот-вот начнется. Будут ли обновлены расписания?
 	
 	-- BloodyMary 2015-02-01 03:50:11
@@ -28,4 +25,7 @@ text: Новый семестр вот-вот начнется. Будут ли 
 	-- AlexDaniel 2015-02-01 04:38:23
 	
 	
-summary: Сделал :) Вообще, вот [тут есть] этот скрипт (parse_timetable), который . . .
+host: 85.253.117.63
+ts: 1422758303
+diff-major: 1
+username: AlexDaniel
