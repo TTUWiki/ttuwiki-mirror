@@ -1,16 +1,10 @@
-lastmajor: 33
-summary:  [[File:harku_alajaam.jpeg]] 
 username: Ain_Laidoja
-languages: 
-host: 86.110.37.246
-flags: 1
-ip: 89.235.235.166
+revision: 34
+ts: 1451295144
 lastmajorsummary:  [[File:harku_alajaam.jpeg]] 
-revision: 33
-minor: 
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-ts: 1451294726
-keep-ts: 1451294726
+languages: 
+lastmajor: 34
+summary:  [[File:harku_alajaam.jpeg]] 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -43,7 +37,11 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	== Ekskursioonid alajaamadesse:
 	
 	# [https://goo.gl/photos/ZRxiXGQsjhu6ZU129 Harku alajaama fotod]
-	# [https://goo.gl/photos/ZRxiXGQsjhu6ZU129 Ülemiste alajaama fotod]
+	# [https://goo.gl/photos/cu21vRHprGYbC9VQ9 Ülemiste alajaama fotod]
 	
 	
 	
+minor: 
+ip: 89.235.235.166
+keep-ts: 1451295144
+host: 86.110.37.246
