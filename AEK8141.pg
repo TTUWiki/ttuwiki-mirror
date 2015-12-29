@@ -1,13 +1,5 @@
-lastmajorsummary:  [[File:harku_alajaam.jpeg]] 
-minor: 
-languages: 
-revision: 34
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-host: 86.110.37.246
-ts: 1451295144
-keep-ts: 1451295144
-ip: 89.235.235.166
-lastmajor: 34
+summary: 
+ts: 1451383979
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -23,6 +15,8 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	==Eksam
 	
 	[https://docs.google.com/document/d/1U_ft3MmL0AFe5ZGLcvMwJ0FEiL07uQscf8nfnd5e6AU/edit?usp=sharing Eksamiküsimused ja Vastused]
+	
+	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAR0040&materjalid=913 Alalisvool, vahelduvvool, elektrimoorid HEA LUGEMINE]
 	
 	#Põhieksam  05.01.2016 kell 12:00 ruum NRG-525
 	
@@ -44,6 +38,12 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
+minor: 
+lastmajorsummary: 
+revision: 35
 username: Ain_Laidoja
-flags: 1
-summary:  [[File:harku_alajaam.jpeg]] 
+languages: 
+keep-ts: 1451383979
+host: 86.110.37.246
+lastmajor: 35
+ip: 89.235.235.166
