@@ -1,10 +1,13 @@
-username: Ain_Laidoja
-revision: 34
-ts: 1451295144
 lastmajorsummary:  [[File:harku_alajaam.jpeg]] 
+minor: 
 languages: 
+revision: 34
+blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
+host: 86.110.37.246
+ts: 1451295144
+keep-ts: 1451295144
+ip: 89.235.235.166
 lastmajor: 34
-summary:  [[File:harku_alajaam.jpeg]] 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -41,7 +44,6 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
-minor: 
-ip: 89.235.235.166
-keep-ts: 1451295144
-host: 86.110.37.246
+username: Ain_Laidoja
+flags: 1
+summary:  [[File:harku_alajaam.jpeg]] 

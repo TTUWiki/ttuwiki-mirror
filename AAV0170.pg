@@ -1,18 +1,18 @@
-summary: 
-minor: 
-ts: 1450247904
 host: 86.110.37.246
-lastmajor: 5
 lastmajorsummary: 
-username: Ain_Laidoja
-revision: 5
-blocks: </div></div>
-languages: 
-flags: 0
 ip: 89.235.235.166
+flags: 1
+lastmajor: 5
 keep-ts: 1450247904
+summary: 
+revision: 5
+blocks: [Course:101443 〔Õppeaine ÕIS-is〕]
+minor: 
 text: #SUBTITLE Energiatarbimise juhtimine
 	#SUBURL [Course:101443 〔Õppeaine ÕIS-is〕]
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/materjal/AAV0170 Õppematerjalid]
 	
+username: Ain_Laidoja
+ts: 1450247904
+languages: 
