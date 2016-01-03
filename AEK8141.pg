@@ -1,5 +1,9 @@
+host: 86.110.37.246
+keep-ts: 1451383979
+username: Ain_Laidoja
 summary: 
-ts: 1451383979
+ip: 89.235.235.166
+blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -38,12 +42,10 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
+flags: 1
+languages: 
+revision: 35
+lastmajor: 35
 minor: 
 lastmajorsummary: 
-revision: 35
-username: Ain_Laidoja
-languages: 
-keep-ts: 1451383979
-host: 86.110.37.246
-lastmajor: 35
-ip: 89.235.235.166
+ts: 1451383979
