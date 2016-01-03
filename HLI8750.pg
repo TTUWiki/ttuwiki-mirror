@@ -1,8 +1,5 @@
-username: Ain_Laidoja
-flags: 1
-lastmajorsummary: 
-lastmajor: 15
-host: 86.110.37.246
+lastmajor: 16
+revision: 16
 text: #SUBTITLE Inglise teaduskeel
 	#SUBURL [Course:26433 〔Õppeaine ÕIS-is〕]
 	
@@ -14,10 +11,7 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	==Upcoming Events
 	
-	*Visitors from Finland on **Nov. 05th**  (Persuasive presentation about 'Rsiks of Nuclear Power')
-	*Meeting simulation on **Nov. 09th**
-	*Last Lesson is hold on **Nov. 12th**
-	*Informative presentation either **26th or 30th November** Based on reading. Please include visuals, signaling phrases, linking words etc. Presentation **5...7 minutes**
+	...
 	
 	==Examination
 	
@@ -29,11 +23,12 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-summary: 
-keep-ts: 1446800313
+ts: 1451833983
+username: Ain_Laidoja
 ip: 89.235.235.166
-revision: 15
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
+keep-ts: 1451833983
+lastmajorsummary: 
+host: 86.110.37.246
 languages: 
-ts: 1446800313
+summary: 
 minor: 
