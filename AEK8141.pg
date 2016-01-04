@@ -1,4 +1,5 @@
-lastmajor: 35
+host: 86.110.37.246
+lastmajorsummary: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -30,6 +31,8 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
 	
+	http://www.energiatalgud.ee/img_auth.php/1/16/Meldorf%2C_M._Kilter%2C_J._TT%C3%9C_Elektroenergeetika_instituut._Elektris%C3%BCsteem._2008.pdf
+	
 	== Ekskursioonid alajaamadesse:
 	
 	# [https://goo.gl/photos/ZRxiXGQsjhu6ZU129 Harku alajaama fotod]
@@ -37,15 +40,12 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
-revision: 35
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-ts: 1451383979
-ip: 89.235.235.166
-minor: 
 languages: 
-flags: 1
-keep-ts: 1451383979
-summary: 
-host: 86.110.37.246
-lastmajorsummary: 
 username: Ain_Laidoja
+ip: 89.235.235.166
+ts: 1451934529
+minor: 
+keep-ts: 1451934529
+summary: 
+lastmajor: 36
+revision: 36
