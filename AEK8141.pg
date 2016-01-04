@@ -1,10 +1,3 @@
-username: Ain_Laidoja
-languages: 
-host: 86.110.37.246
-lastmajor: 36
-ts: 1451934529
-flags: 1
-keep-ts: 1451934529
 minor: 
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
@@ -36,8 +29,7 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	#[http://www.ester.ee/record=b2347094*est Jaotusvõrgud] Meldorf,M.,Tammoja,H.,Treufeldt,Ü.,Kilter,J..TTÜ,Tall.2007,546 lk.
 	#[http://www.ester.ee/record=b2668039*est Elektrivõrgu operatiivjuhtimissüsteem] Meldorf,M.,Tikk,T.
 	#[http://www.energy.siemens.com/hq/en/power-transmission/transformers/assets/pdf/siemens-transformers-power-engineering-guide-7-1.pdf Siemens Power Engineering Guide]
-	
-	http://www.energiatalgud.ee/img_auth.php/1/16/Meldorf%2C_M._Kilter%2C_J._TT%C3%9C_Elektroenergeetika_instituut._Elektris%C3%BCsteem._2008.pdf
+	#[http://www.energiatalgud.ee/img_auth.php/1/16/Meldorf%2C_M._Kilter%2C_J._TT%C3%9C_Elektroenergeetika_instituut._Elektris%C3%BCsteem._2008.pdf Elektrisüsteem]
 	
 	== Ekskursioonid alajaamadesse:
 	
@@ -46,8 +38,13 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
-summary: 
+languages: 
 ip: 89.235.235.166
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
 lastmajorsummary: 
-revision: 36
+username: Ain_Laidoja
+summary: 
+host: 86.110.37.246
+revision: 37
+keep-ts: 1451934614
+lastmajor: 37
+ts: 1451934614
