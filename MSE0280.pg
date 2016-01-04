@@ -1,8 +1,4 @@
-ip: 89.235.235.166
-revision: 12
-host: 86.110.37.246
-lastmajor: 12
-minor: 
+languages: 
 text: #SUBTITLE Hajaenergeetika planeerimine
 	#SUBURL [Course:106023 〔Õppeaine ÕIS-is〕]
 	
@@ -31,11 +27,15 @@ text: #SUBTITLE Hajaenergeetika planeerimine
 	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-Kordamisk%C3%BCsimused.v1.docx Kordamisküsimused]
 	#[http://velar.ee/wp-content/uploads/2015/08/MSE0280-N%C3%A4idis%C3%BClesanded.v2.docx Näidisülesanded]
 	
-username: Ain_Laidoja
+ip: 89.235.235.166
 lastmajorsummary: 
-blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
-keep-ts: 1449903653
 flags: 1
-languages: 
+lastmajor: 12
+minor: 
 ts: 1449903653
+host: 86.110.37.246
 summary: 
+blocks: [Course:106023 〔Õppeaine ÕIS-is〕]
+revision: 12
+keep-ts: 1449903653
+username: Ain_Laidoja

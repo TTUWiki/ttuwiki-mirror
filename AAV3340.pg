@@ -1,19 +1,19 @@
-languages: 
-ts: 1450525442
-lastmajorsummary: 
-lastmajor: 5
-username: Ain_Laidoja
-ip: 89.235.235.166
-host: 86.110.37.246
-revision: 5
-summary: 
-flags: 1
 text: #SUBTITLE Elektrivarustus
 	#SUBURL [Course:25793 〔Õppeaine ÕIS-is〕]
 	
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/materjal/AAV3340 Õppematerjal]
 	
+host: 86.110.37.246
+languages: 
 blocks: [Course:25793 〔Õppeaine ÕIS-is〕]
-keep-ts: 1450525442
+revision: 5
+ts: 1450525442
+username: Ain_Laidoja
+lastmajor: 5
+summary: 
 minor: 
+ip: 89.235.235.166
+keep-ts: 1450525442
+lastmajorsummary: 
+flags: 1
