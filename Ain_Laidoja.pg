@@ -1,12 +1,4 @@
-keep-ts: 1452015799
-minor: 
 username: Ain_Laidoja
-lastmajor: 40
-ts: 1452015799
-revision: 40
-lastmajorsummary: 
-summary: 
-languages: 
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -36,21 +28,21 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	==Õppeained:
 	
-	#[[AES0250]] -	Elektrienergia hajatootmine
-	#[[AEK8141]] -	Elektriseadmed ja -edastus
-	#[[AAV0180]] -	Energiasalvestid
-	#[[AES0200]] -	Energiasüsteemi strateegiline arendamine
+	#[[AES0250]] -	Elektrienergia hajatootmine TEHTUD
+	#[[AEK8141]] -	Elektriseadmed ja -edastus TEHTUD
+	#[[AAV0180]] -	Energiasalvestid TEHTUD
+	#[[AES0200]] -	Energiasüsteemi strateegiline arendamine TEHTUD
 	#[[AES3136]] -	Energiasüsteemide ökonoomika
-	#[[MSE0280]] -	Hajaenergeetika planeerimine
-	#[[AES0360]]Hajaenergeetika investeeringute hindamine - projekt
-	#[[MSE0260]] -	Hajaobjekti projekt
+	#[[MSE0280]] -Hajaenergeetika planeerimine TEHTUD
+	#[[AES0360]] -Hajaenergeetika investeeringute hindamine - projekt  TEHTUD
+	#[[MSE0260]] -Hajaobjekti projekt
 	#[[AES0370]] -	Hajatootmise ühendamine elektrivõrguga
 	#[[MSJ0030]] -	Loodushoid energeetikas
-	#[[MXX0040]] -	Magistriseminar
+	#[[MXX0040]] -Magistriseminar TEHTUD
 	#[[MSJ0340]] -	Põlevkivi termilise töötlemise tehnoloogiad
 	#[[MSJ0060]] -	Soojuselektrijaamad
-	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]]
-	#[[TTO3160]] -	Õigusõpetus
+	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]] TEHTUD
+	#[[TTO3160]] -	Õigusõpetus TEHTUD
 	
 	==Lisaks:
 	
@@ -64,3 +56,11 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
 host: 86.110.37.246
+summary: 
+keep-ts: 1452019253
+lastmajorsummary: 
+minor: 
+revision: 41
+lastmajor: 41
+ts: 1452019253
+languages: 
