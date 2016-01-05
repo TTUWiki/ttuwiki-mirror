@@ -1,11 +1,14 @@
-keep-ts: 1452030259
-summary: 
-lastmajorsummary: 
-languages: 
+blocks: [Course:106072 〔Õppeaine ÕIS-is〕]
+username: Ain_Laidoja
+flags: 1
 minor: 
-ip: 89.235.235.166
-lastmajor: 17
 host: 86.110.37.246
+ts: 1452030259
+languages: 
+lastmajor: 17
+keep-ts: 1452030259
+ip: 89.235.235.166
+summary: 
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
@@ -29,5 +32,4 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#Ü. Treufeldt. [[http://www.ester.ee/record=b1627303*est Lühised elektrisüsteemides]]. Tallinn. 2002. 158 lk
 	
 revision: 17
-username: Ain_Laidoja
-ts: 1452030259
+lastmajorsummary: 
