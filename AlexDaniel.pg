@@ -1,8 +1,5 @@
-username: AlexDaniel
-minor: 
-keep-ts: 1443176674
-ip: 89.235.239.240
-diff-major: 1
+summary: Courses
+keep-ts: 1452076287
 text: Поступил в 2013-ом на ÄriIT.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -11,12 +8,12 @@ text: Поступил в 2013-ом на ÄriIT.
 	Расписание моей группы: [Timetable:37672 IABB51]
 	
 	В этом семестре взял:
-	* [[TMT0040]] - Ergonoomika
-	* [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine
-	* [[IDU0230]] - Andmebaasid II
-	* [[ITI0021]] - Loogiline programmeerimine
-	* [[IDX5721]] - Tarkvara kvaliteet ja standardid
-	* [[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö
+	* [[TMT0040]] - Ergonoomika – ✓
+	* [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine ⌛
+	* [[IDU0230]] - Andmebaasid II ⌛
+	* [[ITI0021]] - Loogiline programmeerimine ✓
+	* [[IDX5721]] - Tarkvara kvaliteet ja standardid ⌛
+	* [[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö ?
 	
 	
 	===Интересные статьи:
@@ -26,15 +23,12 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Email: <strong class="changes">**</strong>mailto:alex.jakimenko+ttuwiki@gmail.com <strong class="changes">**</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Email: <strong class="changes">[[</strong>mailto:alex.jakimenko+ttuwiki@gmail.com <strong class="changes">alex.jakimenko+ttuwiki@gmail.com]]</strong></p></div>
-lastmajorsummary: better looking mailto: link
-flags: 
-host: 82.131.3.43
-summary: better looking mailto: link
-revision: 9
-lastmajor: 9
+username: AlexDaniel
+ip: 89.235.239.240
+revision: 10
+ts: 1452076287
+lastmajorsummary: Courses
+lastmajor: 10
 languages: 
-ts: 1443176674
+minor: 
+host: 82.131.4.216
