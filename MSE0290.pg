@@ -1,16 +1,24 @@
-ip: 89.235.235.166
-flags: 1
-lastmajor: 2
-languages: 
+lastmajor: 5
+keep-ts: 1452284066
+revision: 5
+minor: 
+username: Ain_Laidoja
+lastmajorsummary: 
+host: 86.110.37.246
 text: #SUBTITLE Jätkusuutlikud energiatehnoloogiad
 	#SUBURL [Course:106025 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924448
-revision: 4
-host: 82.131.7.230
-ts: 1441924448
-username: AlexDaniel
-blocks: [Course:106025 〔Õppeaine ÕIS-is〕]
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+	
+	== Kirjandus
+	
+	#Loengukonspekt – lecture notes
+	#Roland Wengenmayr, Thomas Bhürke. Renewable Energy. 2008. ISBN 978-3-527-40804-7. Kirjastus WILEY-VCH.
+	#Vaughn Nelson. Introduction to Renewable Energy.2011. ISBN-13: 9781439834497. Kirjastus: Taylor & Francis Inc.
+	#Ibrahim Dincer, Calin Zamfirescu. Sustainable Energy Systems and Applications. 2011. ISBN-13: 9780387958606. Kirjastus: Springer-Verlag New York Inc.
+	#http://www.ren21.net/REN21Activities/Publications/GlobalStatusReport/GSR2011/tabid/56142/Default.aspx
+	#http://www.map.ren21.net/#fr-FR/search/by-technology/3,13,29,122/46
+	
+ip: 89.235.235.166
+summary: 
+ts: 1452284066
+languages: 
