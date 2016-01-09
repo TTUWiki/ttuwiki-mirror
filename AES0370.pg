@@ -1,13 +1,6 @@
-revision: 19
-languages: 
-ip: 89.235.235.166
-lastmajor: 19
-flags: 1
+keep-ts: 1452333580
 username: Ain_Laidoja
 host: 86.110.37.246
-lastmajorsummary: 
-minor: 
-summary: 
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
@@ -26,13 +19,18 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	Eksami [https://docs.google.com/document/d/1Zxkb19Eo4Y6yCOOiYDiIgGm33RF5ahY0OD2YqxNFuMY/edit?usp=sharing küsimused ja vastused]
 	==Kirjandus
 	
-	#Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012. 
+	#Ü. Treufeldt. Hajatootmise ühendamine elektrivõrguga. Loengukonspekt. Tallinn. 2012.  (SALASTATUD)
 	#M. Meldorf, H. Tammoja, Ü. Treufeldt, J. Kilter. [[http://www.ester.ee/record=b2347094*est Jaotusvõrgud.]] Tallinn. 2007. 546 lk.
 	#Short-circuit Currents in Three Phase AC Systems. IEC 60909. 1998. 67 pg.
 	#[[https://www.bdew.de/internet.nsf/id/A2A0475F2FAE8F44C12578300047C92F/$file/BDEW_RL_EA-am-MS-Netz_engl.pdf Technical Guideline. Generating Plants Connected to the Medium-Voltage Network]]. BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 2008. 130 pg.
 	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard [[https://www.evs.ee/tooted/evs-en-50160-2010 EVS EN 50160]]. 2007. 22 lk.
 	#Ü. Treufeldt. [[http://www.ester.ee/record=b1627303*est Lühised elektrisüsteemides]]. Tallinn. 2002. 158 lk
 	
-keep-ts: 1452333487
-blocks: [Course:106072 〔Õppeaine ÕIS-is〕]
-ts: 1452333487
+lastmajor: 20
+revision: 20
+minor: 
+lastmajorsummary: 
+summary: 
+languages: 
+ip: 89.235.235.166
+ts: 1452333580
