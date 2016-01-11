@@ -1,7 +1,10 @@
-ts: 1450402704
-revision: 25
+host: 84.52.19.166
+revision: 26
+keep-ts: 1452541508
+flags: 0
+lastmajorsummary: http://wiki.maatriks.eu/doku.php
+ts: 1452541508
 languages: 
-blocks: </div></div>
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -91,6 +94,7 @@ text: === University / Ülikool / Университет:
 	*[new:https://github.com/andreireinus?tab=repositories] - mõnede ainete source-id githubis
 	*[new:http://iasb.me.pn/] - lingid, mida kõik niigi teavad
 	*[new:http://web.zone.ee/aldas/] - mõned failid
+	*[new:http://wiki.maatriks.eu/doku.php]
 	
 	#RUS
 	*[new:http://studiesleak.com]
@@ -106,6 +110,7 @@ text: === University / Ülikool / Университет:
 	*[new:https://github.com/andreireinus?tab=repositories] - исходники для некоторых предметов на гитхабе. Похвально.
 	*[new:http://iasb.me.pn/] - набор и так уже всем известных ссылок. Возможно, что когда-нибудь будет свой контент.
 	*[new:http://web.zone.ee/aldas/] - какие-то файлы.
+	*[new:http://wiki.maatriks.eu/doku.php] - чья-то персональная вики.
 	
 	==== Archives / Arhiivid / Архивы:
 	
@@ -183,11 +188,8 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-keep-ts: 1450402704
+summary: http://wiki.maatriks.eu/doku.php
+lastmajor: 26
+blocks: </div></div>
 minor: 
 username: AlexDaniel
-lastmajor: 25
-host: 82.131.48.179
-flags: 0
-summary: Fix ENG language (taken from Home)
-lastmajorsummary: Fix ENG language (taken from Home)
