@@ -1,15 +1,14 @@
-ts: 1423271681
-flags: 
-minor: 
+revision: 2
+host: 82.131.3.129
+flags: 0101
+lastmajor: 2
 summary: Сделал ([f2d0cff])
+ts: 1423271681
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Сделал ([[https://github.com/TTUWiki/ttuwiki-misc/commit/f2d0cff395b89a8161da1f12a0d7dab89001894d f2d0cff]])<br />&gt; -- AlexDaniel 2015-02-07 03:14:41</p></div>
-blocks: 
-keep-ts: 1423271681
-revision: 2
-lastmajor: 2
+diff-major: 1
 languages: 
-username: AlexDaniel
+minor: 
 text: Всё еще нет расписаний для заочников. :(
 	
 	-- BloodyMary 2015-02-05 23:43:27
@@ -22,5 +21,6 @@ text: Всё еще нет расписаний для заочников. :(
 	-- AlexDaniel 2015-02-07 03:14:41
 	
 	
-host: 82.131.3.129
-diff-major: 1
+keep-ts: 1423271681
+username: AlexDaniel
+blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;

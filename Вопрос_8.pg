@@ -1,11 +1,11 @@
+flags: 0101
+host: 89.235.245.14
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; File:arvutid_2_lab.pdf <strong class="changes">???</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; File:arvutid_2_lab.pdf</p></div>
-host: 89.235.245.14
-ts: 1407693267
-minor: 1
-username: AlexDaniel
 lastmajor: 2
+revision: 5
+blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
 text: Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?
 	
 	-- Kulja 2014-03-29 21:11:30
@@ -59,13 +59,13 @@ text: Кто-нибудь может объяснить как делается 
 	-- AlexDaniel 2014-03-29 22:26:58
 	
 	
+ts: 1407693267
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль. </p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p></div>
-languages: 
 ip: 89.235.239.240
-blocks: 
 keep-ts: 1407693267
-flags: 
-revision: 5
+username: AlexDaniel
+languages: 
 summary: Touch
