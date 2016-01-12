@@ -1,13 +1,12 @@
+keep-ts: 1452598874
+ts: 1452598874
 minor: 
-lastmajor: 20
-host: 86.110.37.246
-ts: 1452333580
-languages: 
-blocks: [Course:106072 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
-flags: 1
+ip: 89.235.235.166
+revision: 21
 lastmajorsummary: 
-summary: 
+host: 86.110.37.246
+languages: 
+username: Ain_Laidoja
 text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#SUBURL [Course:106072 〔Õppeaine ÕIS-is〕]
 	
@@ -19,8 +18,7 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	
 	==Upcoming events
 	
-	**2016-01-12** Eksam kell  10:00 ruumis NRG-131
-	
+	...
 	== Eksam
 	
 	Eksami [https://docs.google.com/document/d/1Zxkb19Eo4Y6yCOOiYDiIgGm33RF5ahY0OD2YqxNFuMY/edit?usp=sharing küsimused ja vastused]
@@ -33,6 +31,5 @@ text: #SUBTITLE Hajatootmise ühendamine elektrivõrguga
 	#Elektrijaotusvõrkude pinge tunnussuurused. Eesti standard [[https://www.evs.ee/tooted/evs-en-50160-2010 EVS EN 50160]]. 2007. 22 lk.
 	#Ü. Treufeldt. [[http://www.ester.ee/record=b1627303*est Lühised elektrisüsteemides]]. Tallinn. 2002. 158 lk
 	
-keep-ts: 1452333580
-ip: 89.235.235.166
-revision: 20
+summary: 
+lastmajor: 21
