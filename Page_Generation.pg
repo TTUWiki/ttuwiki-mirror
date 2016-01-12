@@ -1,4 +1,7 @@
-minor: 
+username: AlexDaniel
+lastmajor: 1
+blocks: 
+languages: 
 lastmajorsummary: Moved
 text: === Программы и предметы
 	
@@ -45,12 +48,9 @@ text: === Программы и предметы
 	-- AlexDaniel 2015-01-25 15:25:46
 	
 	
-languages: 
-revision: 1
-flags: 
-username: AlexDaniel
-lastmajor: 1
-ts: 1444779720
-blocks: 
-host: 82.131.4.24
+minor: 
 summary: Moved
+flags: 
+ts: 1444779720
+host: 82.131.4.24
+revision: 1

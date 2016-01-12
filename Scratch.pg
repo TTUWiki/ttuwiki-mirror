@@ -1,4 +1,6 @@
-ip: 89.235.231.110
+host: 82.131.48.179
+languages: 
+username: AlexDaniel
 lastmajorsummary: Image icons with CSS
 text: Если редактируете эту страницу, то помечайте правку как *незначительную*!
 	
@@ -34,14 +36,12 @@ text: Если редактируете эту страницу, то помеч
 	:definition2
 	
 	
-blocks: 
-flags: 
-languages: 
-username: AlexDaniel
-ts: 1450557489
-keep-ts: 1450557489
-revision: 7
-host: 82.131.48.179
-lastmajor: 7
-summary: Image icons with CSS
 minor: 
+keep-ts: 1450557489
+blocks: </div></div>
+revision: 7
+flags: 0
+summary: Image icons with CSS
+ip: 89.235.231.110
+ts: 1450557489
+lastmajor: 7

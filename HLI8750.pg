@@ -21,16 +21,16 @@ text: #SUBTITLE Inglise teaduskeel
 	
 	Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]
 	
-lastmajorsummary: 
-summary: 
-ts: 1451833983
-blocks: [Course:26433 〔Õppeaine ÕIS-is〕]
-host: 86.110.37.246
-username: Ain_Laidoja
 minor: 
-lastmajor: 16
+host: 86.110.37.246
 languages: 
-flags: 1
-keep-ts: 1451833983
-revision: 16
+username: Ain_Laidoja
+lastmajorsummary: 
 ip: 89.235.235.166
+ts: 1451833983
+lastmajor: 16
+keep-ts: 1451833983
+flags: 0
+blocks: </div></div>
+revision: 16
+summary: 

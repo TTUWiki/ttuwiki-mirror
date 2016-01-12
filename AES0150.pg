@@ -1,11 +1,8 @@
 lastmajorsummary: 
-blocks: [Course:39529 〔Õppeaine ÕIS-is〕]
-host: 86.110.37.246
-lastmajor: 7
-keep-ts: 1452191750
-summary: 
 username: Ain_Laidoja
-revision: 7
+languages: 
+host: 86.110.37.246
+minor: 
 text: #SUBTITLE Elektriturg
 	#SUBURL [Course:39529 〔Õppeaine ÕIS-is〕]
 	
@@ -14,8 +11,11 @@ text: #SUBTITLE Elektriturg
 	
 	#[http://www.ester.ee/record=b2312631*est Power Systems Economics]. 	Wangensteen, Ivar Trondheim : Tapir Academic Press, c2007
 	
-languages: 
-ip: 89.235.235.166
-minor: 
-flags: 1
+summary: 
+blocks: </div></div>
+revision: 7
+flags: 0
+keep-ts: 1452191750
+lastmajor: 7
 ts: 1452191750
+ip: 89.235.235.166

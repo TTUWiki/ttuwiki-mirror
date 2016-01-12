@@ -1,5 +1,13 @@
+username: AlexDaniel
+keep-ts: 1444779707
+ip: 84.52.48.194
+lastmajor: 21
+ts: 1444779707
+host: 82.131.4.24
+languages: 
+lastmajorsummary: Moved to Page Generation
+flags: 
 blocks: 
-revision: 21
 minor: 
 text: DeletedPage
 	
@@ -48,13 +56,5 @@ text: DeletedPage
 	-- AlexDaniel 2015-01-25 15:25:46
 	
 	
-keep-ts: 1444779707
-ip: 84.52.48.194
-lastmajor: 21
+revision: 21
 summary: Moved to Page Generation
-ts: 1444779707
-host: 82.131.4.24
-languages: 
-username: AlexDaniel
-flags: 
-lastmajorsummary: Moved to Page Generation
