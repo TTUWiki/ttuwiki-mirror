@@ -1,9 +1,11 @@
-ts: 1452598923
+revision: 43
+lastmajorsummary: 
+username: Ain_Laidoja
+lastmajor: 43
+keep-ts: 1452787535
 host: 86.110.37.246
-keep-ts: 1452598923
-revision: 42
-lastmajor: 42
-minor: 
+ts: 1452787535
+languages: 
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -40,7 +42,7 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[AES3136]] -	Energiasüsteemide ökonoomika TEHTUD
 	#[[MSE0280]] -Hajaenergeetika planeerimine TEHTUD
 	#[[AES0360]] -Hajaenergeetika investeeringute hindamine - projekt  TEHTUD
-	#[[MSE0260]] -Hajaobjekti projekt
+	#[[MSE0260]] -Hajaobjekti projekt TEHTUD
 	#[[AES0370]] -	Hajatootmise ühendamine elektrivõrguga TEHTUD
 	#[[MSJ0030]] -	Loodushoid energeetikas
 	#[[MXX0040]] -Magistriseminar TEHTUD
@@ -60,7 +62,5 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-lastmajorsummary: 
+minor: 
 summary: 
-languages: 
-username: Ain_Laidoja
