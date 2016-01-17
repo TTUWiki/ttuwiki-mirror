@@ -1,11 +1,9 @@
-summary: 
-lastmajor: 7
-revision: 7
+languages: 
+ts: 1453057388
+lastmajor: 8
 username: Ain_Laidoja
-keep-ts: 1453057027
-flags: 1
+summary: 
 host: 86.110.37.246
-lastmajorsummary: 
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -24,11 +22,11 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	
 	==Lisalugemist
 	 
-	
+	#[http://www.energiatalgud.ee/img_auth.php/a/ae/Keskkonnainvesteeringute_Keskus._Eesti_P%C3%B5levkivi%C3%B5li_tootmise_parim_v%C3%B5imalik_tehnika._2013.pdf Eesti Põlevkiviõli tootmise parim võimalik tehnika]
 	
 	==Upcoming events
 	
-languages: 
+lastmajorsummary: 
+keep-ts: 1453057388
+revision: 8
 minor: 
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
-ts: 1453057027
