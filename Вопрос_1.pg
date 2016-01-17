@@ -1,14 +1,15 @@
-keep-ts: 1408998184
-summary: Всем всё понятно :))
-username: AlexDaniel
+blocks: #ENG
+	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#RUS
+	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
+	
+	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+flags: 010101010101
 languages: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
-ip: 89.235.239.240
-revision: 2
 lastmajor: 2
-minor: 
-blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+ip: 89.235.239.240
+diff-major: 1
+summary: Всем всё понятно :))
+keep-ts: 1408998184
 text: Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?
 	
 	-- AlexDaniel 2014-03-18 02:51:25
@@ -20,7 +21,10 @@ text: Осталось ли на сайте еще что-то непонятн�
 	-- AlexDaniel 2014-08-25 23:23:04
 	
 	
-ts: 1408998184
-flags: 0101
-diff-major: 1
+revision: 2
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
 host: 89.235.245.58
+username: AlexDaniel
+ts: 1408998184
+minor: 
