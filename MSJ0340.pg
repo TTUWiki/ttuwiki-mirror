@@ -1,9 +1,11 @@
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
-keep-ts: 1453057603
-ts: 1453057603
 summary: 
-minor: 
+lastmajor: 11
+lastmajorsummary: 
+languages: 
 host: 86.110.37.246
+ts: 1453057632
+keep-ts: 1453057632
+revision: 11
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -22,14 +24,10 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	
 	==Lisalugemist
 	 
-	#[http://www.energiatalgud.ee/img_auth.php/a/ae/Keskkonnainvesteeringute_Keskus._Eesti_P%C3%B5levkivi%C3%B5li_tootmise_parim_v%C3%B5imalik_tehnika._2013.pdf Eesti Põlevkiviõli tootmise parim võimalik tehnika] Estivo 2013
-	#[http://www.energiatalgud.ee/img_auth.php/4/4f/Konist,_A._P%C3%B5levkivi%C3%B5li_tootmisel_tekkiva_uttegaasi_kasutusv%C3%B5imaluste_uuring.pdf Põlevkiviõli tootmisel tekkiva uttegaasi kasutusvõimaluste uuring] Alar Konist 2014
+	#[http://www.energiatalgud.ee/img_auth.php/a/ae/Keskkonnainvesteeringute_Keskus._Eesti_P%C3%B5levkivi%C3%B5li_tootmise_parim_v%C3%B5imalik_tehnika._2013.pdf Eesti Põlevkiviõli tootmise parim võimalik tehnika] Estivo, 2013
+	#[http://www.energiatalgud.ee/img_auth.php/4/4f/Konist,_A._P%C3%B5levkivi%C3%B5li_tootmisel_tekkiva_uttegaasi_kasutusv%C3%B5imaluste_uuring.pdf Põlevkiviõli tootmisel tekkiva uttegaasi kasutusvõimaluste uuring] Alar Konist, 2014
 	
 	==Upcoming events
 	
-lastmajor: 10
-revision: 10
-flags: 1
-languages: 
+minor: 
 username: Ain_Laidoja
-lastmajorsummary: 
