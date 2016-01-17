@@ -1,6 +1,7 @@
-keep-ts: 1450557881
+keep-ts: 1453057027
+ts: 1453057027
 languages: 
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
+revision: 7
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -16,15 +17,16 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	# [http://www.ester.ee/record=b1821093*est Põlevkivi - õlikivi], V. Kattai, Eesti Geoloogiakeskus 2003
 	# Энерготехнологическая переработка топлив твердым теплоносителем.Блохин А.И.и др., Москва.Светлый Стан, 2005
 	# Valitud teadusartilid ajakirjast "[http://www.kirj.ee/oilshale Oil Shale]"
+	
+	==Lisalugemist
 	 
+	
+	
 	==Upcoming events
 	
-host: 86.110.37.246
-ts: 1450557881
-flags: 1
-username: Ain_Laidoja
-lastmajor: 6
 minor: 
-summary: 
+lastmajor: 7
 lastmajorsummary: 
-revision: 6
+host: 86.110.37.246
+summary: 
+username: Ain_Laidoja
