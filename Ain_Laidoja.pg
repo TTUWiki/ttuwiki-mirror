@@ -1,11 +1,3 @@
-revision: 43
-lastmajorsummary: 
-username: Ain_Laidoja
-lastmajor: 43
-keep-ts: 1452787535
-host: 86.110.37.246
-ts: 1452787535
-languages: 
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -51,6 +43,9 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]] TEHTUD
 	#[[TTO3160]] -	Õigusõpetus TEHTUD
 	
+	== Kevadsemester 2016
+	
+	#[[AAHM12-13]]
 	==Lisaks:
 	
 	[[RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]
@@ -62,5 +57,13 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-minor: 
+revision: 44
+lastmajor: 44
+lastmajorsummary: 
 summary: 
+minor: 
+ts: 1453220684
+languages: 
+username: Ain_Laidoja
+host: 86.110.37.246
+keep-ts: 1453220684
