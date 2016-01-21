@@ -1,13 +1,16 @@
-host: 85.253.53.160
-revision: 23
 ip: 89.235.231.110
+lastmajorsummary: HTTPS
+lastmajor: 24
+revision: 24
 username: AlexDaniel
-lastmajorsummary: File uploads are now on ttuwiki.ee domain
+ts: 1453338991
+summary: HTTPS
+host: 82.131.5.128
 languages: 
-ts: 1445222076
-lastmajor: 23
-text:  File http://files.ttuwiki.ee/
-	 Fi http://files.ttuwiki.ee/
+minor: 
+keep-ts: 1453338991
+text:  File https://files.ttuwiki.ee/
+	 Fi https://files.ttuwiki.ee/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
 	 Ti http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
 	 TimetableKaug http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=161&g=
@@ -19,6 +22,3 @@ text:  File http://files.ttuwiki.ee/
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
-keep-ts: 1445222076
-minor: 
-summary: File uploads are now on ttuwiki.ee domain
