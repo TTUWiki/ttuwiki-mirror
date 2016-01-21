@@ -1,11 +1,12 @@
-languages: 
 blocks: </div></div>
-lastmajor: 28
-username: AlexDaniel
+revision: 29
+summary: Engrish → English
+languages: 
+keep-ts: 1453415326
+host: 82.131.5.128
 flags: 0
-ts: 1453415308
-summary: blogs by Deniss Kumlander
-keep-ts: 1453415308
+ts: 1453415326
+username: AlexDaniel
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -40,7 +41,7 @@ text: === University / Ülikool / Университет:
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/informaatikainstituut-6/lopetajale-13/olulised-kuupaevad-6 – Informaatikainstituut
 	
 	=== Blogs / Blogid / Блоги
-	* [[http://kumlander.blogspot.com.ee/ Russian]] and [[http://kumlandereng.blogspot.com.ee/ Engrish]] blogs by [[Employee:Deniss Kumlander]] – very valuable information expressed in a honest way.
+	* [[http://kumlander.blogspot.com.ee/ Russian]] and [[http://kumlandereng.blogspot.com.ee/ English]] blogs by [[Employee:Deniss Kumlander]] – very valuable information expressed in a honest way.
 	
 	=== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	#ENG
@@ -195,7 +196,6 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-revision: 28
-minor: 
+lastmajor: 28
 lastmajorsummary: blogs by Deniss Kumlander
-host: 82.131.5.128
+minor: 1
