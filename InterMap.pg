@@ -1,14 +1,6 @@
-ip: 89.235.231.110
-lastmajorsummary: HTTPS
-lastmajor: 24
-revision: 24
-username: AlexDaniel
-ts: 1453338991
-summary: HTTPS
 host: 82.131.5.128
-languages: 
-minor: 
-keep-ts: 1453338991
+revision: 25
+lastmajor: 25
 text:  File https://files.ttuwiki.ee/
 	 Fi https://files.ttuwiki.ee/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
@@ -19,6 +11,16 @@ text:  File https://files.ttuwiki.ee/
 	 Course http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_public=1&p_mode=1&p_id=
 	 Kava http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=&p_kava_versioon_id=
 	
+	 Employee http://ttu.ee/?op=search_results&id=30052&q=
+	
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
+minor: 
+languages: 
+username: AlexDaniel
+ts: 1453415129
+ip: 89.235.231.110
+summary: Employee:
+keep-ts: 1453415129
+lastmajorsummary: Employee:
