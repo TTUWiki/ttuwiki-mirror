@@ -1,15 +1,9 @@
 username: Ain_Laidoja
-ip: 89.235.235.166
-languages: 
-flags: 1
-host: 86.110.37.246
-lastmajor: 37
-ts: 1451934614
-revision: 37
-summary: 
-blocks: [Course:25839 〔Õppeaine ÕIS-is〕]
-keep-ts: 1451934614
+lastmajorsummary: 
 minor: 
+summary: 
+keep-ts: 1453658387
+ip: 89.235.235.166
 text: #SUBTITLE Elektriseadmed ja -edastus
 	#SUBURL [Course:25839 〔Õppeaine ÕIS-is〕]
 	
@@ -19,8 +13,7 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	Asuvad õppeaine  [Course:25839 ÕIS]'i kodulehel, kuvatakse vaid kursusele registreerunud kasutajatele ☹
 	
 	====Upcoming events
-	
-	Eksamiks õppimine
+	...
 	
 	==Eksam
 	
@@ -28,11 +21,7 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAR0040&materjalid=913 Alalisvool, vahelduvvool, elektrimoorid HEA LUGEMINE]
 	
-	#Põhieksam  05.01.2016 kell 12:00 ruum NRG-525
-	
-	#Põhieksam  11.01.2016 kell 12:00 ruum NRG-525
-	
-	#Lisaeksam  15.01.2016 kell 12:00 ruum NRG-525
+	...
 	
 	==Kirjandus:
 	#[http://www.ester.ee/record=b2290660*est Sissejuhatus energiatehnikasse] Risthein,E..TTÜ,Tall.2007,260 lk.
@@ -49,4 +38,8 @@ text: #SUBTITLE Elektriseadmed ja -edastus
 	
 	
 	
-lastmajorsummary: 
+host: 86.110.37.246
+revision: 38
+languages: 
+lastmajor: 38
+ts: 1453658387
