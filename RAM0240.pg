@@ -1,16 +1,14 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
+revision: 4
 ts: 1441924449
 ip: 89.235.235.166
 languages: 
-blocks: [Course:106203 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
+minor: 1
 text: #SUBTITLE Tarkvara testimine
 	#SUBURL [Course:106203 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924449
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2

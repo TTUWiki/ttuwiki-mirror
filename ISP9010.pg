@@ -1,16 +1,16 @@
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-host: 82.131.7.230
 blocks: [Course:33209 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924447
+flags: 1
+lastmajor: 2
+revision: 4
+minor: 1
+host: 82.131.7.230
 keep-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 text: #SUBTITLE Tehisintellekt ja reaalaeg
 	#SUBURL [Course:33209 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
 languages: 
-ts: 1441924447
-flags: 1

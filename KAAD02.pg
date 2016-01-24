@@ -1,18 +1,16 @@
 minor: 1
-blocks: 
-host: 89.235.223.25
-ts: 1408885730
-revision: 2
-keep-ts: 1408885730
-username: Bot
-lastmajor: 1
-summary: Автоматическое обновление (расписание)
-ip: 89.235.235.166
-flags: 
-languages: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== KAAD02/09 - Keemia- ja materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=50140&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi\\<br />&lt; [[KMP9010]] Insenerlik polümeeriteadus\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[KXX9100]] Keemia- ja materjalitehnoloogia doktorikursus 1\\<br />&lt; [[KXX9110]] Keemia- ja materjalitehnoloogia doktorikursus 2\\<br />&lt; [[KXX9120]] Keemia- ja materjalitehnoloogia doktorikursus 3\\<br />&lt; [[KXX9130]] Keemia- ja materjalitehnoloogia doktoriseminar 1\\<br />&lt; [[KXX9140]] Keemia- ja materjalitehnoloogia doktoriseminar 2\\<br />&lt; [[KXX9150]] Keemia- ja materjalitehnoloogia doktoriseminar 3\\<br />&lt; [[HHP9030]] Kõrgkoolididaktika\\<br />&lt; [[KXX9060]] Õpetamispraktika\\<br />&lt; [[TMK9310]] Projektijuhtimine\\<br />&lt; [[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia\\<br />&lt; [[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I\\<br />&lt; [[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II\\<br />&lt; [[KYF9011]] Täiendavad peatükid füüsikalisest keemiast I\\<br />&lt; [[KYF9012]] Täiendavad peatükid füüsikalisest keemiast II\\<br />&lt; [[KTO9010]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast I\\<br />&lt; [[KTT9011]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus- ja hariduskorraldus\\<br />&lt; [[KAK9080]] Valitud probleemid keskkonnakeemiast\\<br />&lt; [[KAK9090]] Valitud probleemid keskkonnatehnoloogiast\\<br />&lt; [[KMP9020]] Valitud probleemid polümeermaterjalidest\\<br />&lt; [[KMM9020]] Valitud probleemid puitmaterjalidest\\<br />&lt; [[KMT9021]] Valitud probleemid tekstiilimaterjalidest\\<br />&lt; ===</strong> KAAD02<strong class="changes">/02 - Keemia</strong>- <strong class="changes">ja materjalitehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=92&amp;p_kava_versioon_id=1372&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi\\<br />&lt; [[KMP9010]] Insenerlik polümeeriteadus\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[KXX9070]] Keemia- ja materjalitehnoloogia doktorikursus\\<br />&lt; [[KXX9080]] Keemia- ja materjalitehnoloogia doktoriseminar\\<br />&lt; [[HHP9020]] Kõrgkoolididaktika\\<br />&lt; [[KXX9060]] Õpetamispraktika\\<br />&lt; [[TMK8310]] Projektijuhtimine\\<br />&lt; [[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia\\<br />&lt; [[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I\\<br />&lt; [[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II\\<br />&lt; [[KYF9011]] Täiendavad peatükid füüsikalisest keemiast I\\<br />&lt; [[KYF9012]] Täiendavad peatükid füüsikalisest keemiast II\\<br />&lt; [[KTO9010]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast I\\<br />&lt; [[KTT9040]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus</strong>- <strong class="changes">ja hariduskorraldus\\<br />&lt; [[KAK9080]] Valitud probleemid keskkonnakeemiast\\<br />&lt; [[KAK9090]] Valitud probleemid keskkonnatehnoloogiast\\<br />&lt; [[KMP9020]] Valitud probleemid polümeermaterjalidest\\<br />&lt; [[KMM9020]] Valitud probleemid puitmaterjalidest\\<br />&lt; [[KMT9020]] Valitud probleemid tekstiilimaterjalidest\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>KAAD02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "KAAD02</strong>-<strong class="changes">02"&gt;</strong></p></div>
+username: Bot
+languages: 
+ts: 1408885730
+ip: 89.235.235.166
+revision: 2
+lastmajor: 1
+host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
+keep-ts: 1408885730
 diff-major: 
 text: <include "KAAD02-09">
 	

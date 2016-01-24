@@ -1,16 +1,16 @@
-revision: 4
-minor: 1
-lastmajor: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+ts: 1441924451
 blocks: [Course:36212 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+username: AlexDaniel
+flags: 1
+keep-ts: 1441924451
+lastmajor: 2
+revision: 4
 text: #SUBTITLE Äritegevuse õiguslik keskkond
 	#SUBURL [Course:36212 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924451
-keep-ts: 1441924451
 languages: 
-flags: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1

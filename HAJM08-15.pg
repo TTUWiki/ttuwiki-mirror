@@ -1,12 +1,14 @@
+ts: 1441924150
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAJM08/15 - Õigusteadus Kava:50302</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAJM08/15 - Õigusteadus <strong class="changes">[</strong>Kava:50302 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 revision: 4
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
 keep-ts: 1441924150
-languages: 
-flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 text: == HAJM08/15 - Õigusteadus [Kava:50302 〔Õppekava ÕIS-is〕]
 	[[HOE7220]] Arvutiprogrammide ja andmebaaside õiguskaitse
@@ -54,7 +56,3 @@ text: == HAJM08/15 - Õigusteadus [Kava:50302 〔Õppekava ÕIS-is〕]
 	[[HOE7024]] Võrdlev perekonnaõigus
 	
 	
-username: AlexDaniel
-ts: 1441924150
-diff-major: 
-minor: 1

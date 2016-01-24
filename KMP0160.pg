@@ -1,16 +1,14 @@
-host: 82.131.7.230
 keep-ts: 1441924447
-flags: 1
-blocks: [Course:100316 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924447
-revision: 4
-minor: 1
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
 text: #SUBTITLE Polümeermaterjalid
 	#SUBURL [Course:100316 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+ip: 89.235.235.166
+ts: 1441924447
+minor: 1
+username: AlexDaniel
+revision: 4

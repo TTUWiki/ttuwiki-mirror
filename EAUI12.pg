@@ -1,21 +1,19 @@
-flags: 
-diff-major: 
-blocks: 
-revision: 3
-languages: 
-keep-ts: 1438886317
 text: <include "EAUI12-15">
 	
 	<include "EAUI12-13">
 	
 	
 	
-lastmajor: 1
-ts: 1438886317
-username: Bot
-ip: 89.235.235.166
 host: 85.253.110.44
 summary: Автоматическое обновление
+lastmajor: 1
+diff-major: 
+keep-ts: 1438886317
+revision: 3
+username: Bot
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "EAUI12-15"&gt;</p></div>
 minor: 1
+ts: 1438886317
+ip: 89.235.235.166
+languages: 

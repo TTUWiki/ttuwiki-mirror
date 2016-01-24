@@ -1,14 +1,11 @@
 revision: 4
-flags: 
-host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-languages: 
-diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YVEM09/11 - Tervishoiutehnoloogia Kava:50169</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YVEM09/11 - Tervishoiutehnoloogia <strong class="changes">[</strong>Kava:50169 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924155
+languages: 
 text: == YVEM09/11 - Tervishoiutehnoloogia [Kava:50169 〔Õppekava ÕIS-is〕]
 	[[DMK1800]] Andmete kodeerimine meditsiinis
 	[[IDY0275]] Äriinfosüsteemid
@@ -45,6 +42,7 @@ text: == YVEM09/11 - Tervishoiutehnoloogia [Kava:50169 〔Õppekava ÕIS-is〕]
 	[[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis
 	
 	
-ts: 1441924155
-username: AlexDaniel
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
 keep-ts: 1441924155

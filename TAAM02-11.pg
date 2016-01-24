@@ -1,17 +1,3 @@
-minor: 1
-languages: 
-diff-major: 
-revision: 5
-host: 82.131.7.230
-ts: 1441924153
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TAAM02/11 - Rakenduslik majandusteadus Kava:50161</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TAAM02/11 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50161 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924153
-username: AlexDaniel
-blocks: 
 text: == TAAM02/11 - Rakenduslik majandusteadus [Kava:50161 〔Õppekava ÕIS-is〕]
 	[[TTP1050]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -39,3 +25,15 @@ text: == TAAM02/11 - Rakenduslik majandusteadus [Kava:50161 〔Õppekava ÕIS-is
 	[[TTX199P]] Tööpraktika
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924153
+diff-major: 
+revision: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAAM02/11 - Rakenduslik majandusteadus Kava:50161</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAAM02/11 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50161 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924153

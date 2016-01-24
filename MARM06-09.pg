@@ -1,7 +1,15 @@
-keep-ts: 1441924151
+languages: 
+ts: 1441924151
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MARM06/09 - Tööstustehnika ja juhtimine Kava:50022</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MARM06/09 - Tööstustehnika ja juhtimine <strong class="changes">[</strong>Kava:50022 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 username: AlexDaniel
-host: 82.131.7.230
+revision: 5
+keep-ts: 1441924151
 diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == MARM06/09 - Tööstustehnika ja juhtimine [Kava:50022 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[TTO1100]] Äriõigus
@@ -31,13 +39,3 @@ text: == MARM06/09 - Tööstustehnika ja juhtimine [Kava:50022 〔Õppekava ÕIS
 	[[MET0150]] Tootmistehnika
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 5
-flags: 
-minor: 1
-blocks: 
-languages: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MARM06/09 - Tööstustehnika ja juhtimine Kava:50022</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MARM06/09 - Tööstustehnika ja juhtimine <strong class="changes">[</strong>Kava:50022 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924151

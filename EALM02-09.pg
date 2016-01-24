@@ -1,9 +1,7 @@
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EALM02/09 - Logistika Kava:50043</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EALM02/09 - Logistika <strong class="changes">[</strong>Kava:50043 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924149
 text: == EALM02/09 - Logistika [Kava:50043 〔Õppekava ÕIS-is〕]
 	[[TTO1030]] Äritegevuse õiguslik keskkond
 	[[YMR5730]] Arvutusmeetodid
@@ -37,11 +35,11 @@ text: == EALM02/09 - Logistika [Kava:50043 〔Õppekava ÕIS-is〕]
 	[[TMM1280]] Turundussimulatsioon
 	
 	
-host: 82.131.7.230
 username: AlexDaniel
-diff-major: 
-revision: 4
-keep-ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EALM02/09 - Logistika Kava:50043</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EALM02/09 - Logistika <strong class="changes">[</strong>Kava:50043 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924149
-blocks: 
-flags: 
+languages: 
+revision: 4

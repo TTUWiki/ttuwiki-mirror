@@ -1,6 +1,3 @@
-username: AlexDaniel
-diff-major: 
-revision: 4
 text: == EATI02/02 - Teedeehitus ja geodeesia [Kava:498 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YGI3101]] Arvutigraafika  I
@@ -118,14 +115,15 @@ text: == EATI02/02 - Teedeehitus ja geodeesia [Kava:498 〔Õppekava ÕIS-is〕]
 	[[YGD0032]] Visuaalne kommunikatsioon II
 	
 	
+diff-major: 
 keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-minor: 1
-blocks: 
+revision: 4
+ts: 1441924149
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EATI02/02 - Teedeehitus ja geodeesia Kava:498</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EATI02/02 - Teedeehitus ja geodeesia <strong class="changes">[</strong>Kava:498 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-flags: 
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

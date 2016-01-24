@@ -1,11 +1,15 @@
-flags: 
-revision: 4
-languages: 
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAVM02/02 - Elektroenergeetika Kava:788</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAVM02/02 - Elektroenergeetika <strong class="changes">[</strong>Kava:788 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 ts: 1441924148
+languages: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924148
 text: == AAVM02/02 - Elektroenergeetika [Kava:788 〔Õppekava ÕIS-is〕]
 	[[AEK0050]] Alajaamad - projekt
 	[[AES3143]] Automaatika ja releekaitse
@@ -37,9 +41,3 @@ text: == AAVM02/02 - Elektroenergeetika [Kava:788 〔Õppekava ÕIS-is〕]
 	[[AMM0030]] Väljateooria
 	
 	
-keep-ts: 1441924148
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAVM02/02 - Elektroenergeetika Kava:788</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAVM02/02 - Elektroenergeetika <strong class="changes">[</strong>Kava:788 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-minor: 1

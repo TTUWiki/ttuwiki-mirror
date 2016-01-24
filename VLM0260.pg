@@ -1,14 +1,12 @@
-revision: 2
-username: AlexDaniel
-flags: 1
-blocks: [Course:109050 〔Õppeaine ÕIS-is〕]
-languages: 
+keep-ts: 1441924452
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Külmutustehnilised elektriseadmed
 	#SUBURL [Course:109050 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
 minor: 1
-keep-ts: 1441924452
-host: 82.131.7.230
+revision: 2

@@ -1,7 +1,11 @@
+revision: 4
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEM06/06 - Tööstusökoloogia Kava:3964</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEM06/06 - Tööstusökoloogia <strong class="changes">[</strong>Kava:3964 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 ts: 1441924152
-flags: 
 languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == NAEM06/06 - Tööstusökoloogia [Kava:3964 〔Õppekava ÕIS-is〕]
 	[[NTK0740]] Arengumudelid
 	[[NTK0720]] Bioloogiline mitmekesisus
@@ -34,13 +38,7 @@ text: == NAEM06/06 - Tööstusökoloogia [Kava:3964 〔Õppekava ÕIS-is〕]
 	[[NTK0202]] Tööstuslikud ökosüsteemid - ainetöö
 	
 	
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEM06/06 - Tööstusökoloogia Kava:3964</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEM06/06 - Tööstusökoloogia <strong class="changes">[</strong>Kava:3964 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
 host: 82.131.7.230
-revision: 4
-blocks: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
 keep-ts: 1441924152
-username: AlexDaniel

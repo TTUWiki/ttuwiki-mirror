@@ -1,14 +1,12 @@
-flags: 1
 revision: 2
-blocks: [Course:109846 〔Õppeaine ÕIS-is〕]
+languages: 
 ts: 1441924446
-host: 82.131.7.230
-keep-ts: 1441924446
 minor: 1
 username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE EL välissuhete õigus ja poliitika
 	#SUBURL [Course:109846 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

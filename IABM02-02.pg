@@ -1,3 +1,14 @@
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABM02/02 - Äriinfotehnoloogia Kava:862</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABM02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:862 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+languages: 
+ts: 1441924150
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
 diff-major: 
 text: == IABM02/02 - Äriinfotehnoloogia [Kava:862 〔Õppekava ÕIS-is〕]
 	[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid
@@ -30,16 +41,3 @@ text: == IABM02/02 - Äriinfotehnoloogia [Kava:862 〔Õppekava ÕIS-is〕]
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-languages: 
-revision: 4
-username: AlexDaniel
-minor: 1
-flags: 
-ts: 1441924150
-host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IABM02/02 - Äriinfotehnoloogia Kava:862</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IABM02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:862 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-keep-ts: 1441924150

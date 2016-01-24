@@ -1,14 +1,12 @@
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+languages: 
 ts: 1441924448
-keep-ts: 1441924448
+revision: 2
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 text: #SUBTITLE Standardid ja kvaliteet
 	#SUBURL [Course:102423 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:102423 〔Õppeaine ÕIS-is〕]
-revision: 2
-flags: 1

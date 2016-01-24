@@ -1,20 +1,18 @@
-summary: Автоматическое обновление (расписание)
-minor: 1
-keep-ts: 1408885902
-diff-major: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== TVRM12/12 - Rahandus ja majandusanalüüs [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50185</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[TSK1012]] Analüütiline kirjutamine ja esitlemine\\<br />&lt; [[IDN0200]] Andmekaevandamine ja võrgustike analüüs\\<br />&lt; [[TET2409]] Arengutrendid maailmamajanduses\\<br />&lt; [[TER2412]] Ärianalüüsi meetodid\\<br />&lt; [[IDU0300]] Äriinfosüsteemid\\<br />&lt; [[TTR2030]] Avaliku sektori ökonoomika\\<br />&lt; [[TET2401]] Avatud majanduse makroökonoomika\\<br />&lt; [[HLE2210]] Eesti keel ja kultuur I\\<br />&lt; [[TEX055P]] Erialapraktika\\<br />&lt; [[TMJ2110]] Ettevõte ja ärikeskkond\\<br />&lt; [[TER2407]] Ettevõtte rahandus\\<br />&lt; [[TER2401]] Finantsanalüüs\\<br />&lt; [[TAF2110]] Finantsarvestus ja -aruandlus\\<br />&lt; [[TER2413]] Finantsjuhtimine\\<br />&lt; [[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng\\<br />&lt; [[IDK1080]] Informaatika analüütikutele\\<br />&lt; [[TET2404]] Institutsiooniökonoomika\\<br />&lt; [[TER2403]] Investeeringute analüüs\\<br />&lt; [[IDK1232]] Juhtimisotsuste kvantitatiivne analüüs\\<br />&lt; [[TET2407]] Konkurentsiökonoomika\\<br />&lt; [[TER2404]] Määratud maksetega instrumendid\\<br />&lt; [[TEX2401]] Magistriseminar\\<br />&lt; [[TER2402]] Majandusmõte ja -metodoloogia\\<br />&lt; [[TET2406]] Makroökonoomika\\<br />&lt; [[TET2402]] Mänguteooria rakendused juhtimisotsustes\\<br />&lt; [[TET2405]] Mikroökonoomika\\<br />&lt; [[TES2403]] Mitmemõõtmeline statistiline analüüs\\<br />&lt; [[TER2409]] Ohjamine ja koordinatsioon majanduses\\<br />&lt; [[HOE7005]] Õigus ja maksundus\\<br />&lt; [[TES2401]] Ökonomeetria I\\<br />&lt; [[TES2402]] Ökonomeetria II\\<br />&lt; [[TMO2230]] Organisatsioonikäitumine\\<br />&lt; [[TER2406]] Portfellijuhtimine\\<br />&lt; [[TER2408]] Raha, turud ja finantsvahendus\\<br />&lt; [[TET2403]] Rahvusvaheline majandus\\<br />&lt; [[TER2411]] Riskijuhtimine\\<br />&lt; [[TAK2050]] Strateegiline juhtimisarvestus ja kulujuhtimine\\<br />&lt; [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis</strong>-<strong class="changes">majanduslikud paradigmad\\<br />&lt; [[TER2405]] Tuletisväärtpaberid\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "TVRM12</strong>-<strong class="changes">12"&gt;</strong></p></div>
 text: <include "TVRM12-12">
 	
 	
 	
-languages: 
-blocks: 
-lastmajor: 1
-flags: 
-username: Bot
-ip: 89.235.235.166
-revision: 2
 host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
+lastmajor: 1
+diff-major: 
+keep-ts: 1408885902
+revision: 2
+username: Bot
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== TVRM12/12 - Rahandus ja majandusanalüüs [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=93&amp;p_kava_versioon_id=50185</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[TSK1012]] Analüütiline kirjutamine ja esitlemine\\<br />&lt; [[IDN0200]] Andmekaevandamine ja võrgustike analüüs\\<br />&lt; [[TET2409]] Arengutrendid maailmamajanduses\\<br />&lt; [[TER2412]] Ärianalüüsi meetodid\\<br />&lt; [[IDU0300]] Äriinfosüsteemid\\<br />&lt; [[TTR2030]] Avaliku sektori ökonoomika\\<br />&lt; [[TET2401]] Avatud majanduse makroökonoomika\\<br />&lt; [[HLE2210]] Eesti keel ja kultuur I\\<br />&lt; [[TEX055P]] Erialapraktika\\<br />&lt; [[TMJ2110]] Ettevõte ja ärikeskkond\\<br />&lt; [[TER2407]] Ettevõtte rahandus\\<br />&lt; [[TER2401]] Finantsanalüüs\\<br />&lt; [[TAF2110]] Finantsarvestus ja -aruandlus\\<br />&lt; [[TER2413]] Finantsjuhtimine\\<br />&lt; [[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng\\<br />&lt; [[IDK1080]] Informaatika analüütikutele\\<br />&lt; [[TET2404]] Institutsiooniökonoomika\\<br />&lt; [[TER2403]] Investeeringute analüüs\\<br />&lt; [[IDK1232]] Juhtimisotsuste kvantitatiivne analüüs\\<br />&lt; [[TET2407]] Konkurentsiökonoomika\\<br />&lt; [[TER2404]] Määratud maksetega instrumendid\\<br />&lt; [[TEX2401]] Magistriseminar\\<br />&lt; [[TER2402]] Majandusmõte ja -metodoloogia\\<br />&lt; [[TET2406]] Makroökonoomika\\<br />&lt; [[TET2402]] Mänguteooria rakendused juhtimisotsustes\\<br />&lt; [[TET2405]] Mikroökonoomika\\<br />&lt; [[TES2403]] Mitmemõõtmeline statistiline analüüs\\<br />&lt; [[TER2409]] Ohjamine ja koordinatsioon majanduses\\<br />&lt; [[HOE7005]] Õigus ja maksundus\\<br />&lt; [[TES2401]] Ökonomeetria I\\<br />&lt; [[TES2402]] Ökonomeetria II\\<br />&lt; [[TMO2230]] Organisatsioonikäitumine\\<br />&lt; [[TER2406]] Portfellijuhtimine\\<br />&lt; [[TER2408]] Raha, turud ja finantsvahendus\\<br />&lt; [[TET2403]] Rahvusvaheline majandus\\<br />&lt; [[TER2411]] Riskijuhtimine\\<br />&lt; [[TAK2050]] Strateegiline juhtimisarvestus ja kulujuhtimine\\<br />&lt; [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis</strong>-<strong class="changes">majanduslikud paradigmad\\<br />&lt; [[TER2405]] Tuletisväärtpaberid\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "TVRM12</strong>-<strong class="changes">12"&gt;</strong></p></div>
+ip: 89.235.235.166
 ts: 1408885902
+languages: 

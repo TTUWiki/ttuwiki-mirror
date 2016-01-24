@@ -1,12 +1,13 @@
-blocks: </div></div>
-revision: 29
-summary: Engrish → English
-languages: 
-keep-ts: 1453415326
 host: 82.131.5.128
-flags: 0
+summary: Engrish → English
 ts: 1453415326
+keep-ts: 1453415326
 username: AlexDaniel
+lastmajorsummary: blogs by Deniss Kumlander
+blocks: 
+flags: 
+minor: 1
+revision: 29
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -196,6 +197,5 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+languages: 
 lastmajor: 28
-lastmajorsummary: blogs by Deniss Kumlander
-minor: 1

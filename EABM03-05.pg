@@ -1,15 +1,15 @@
-languages: 
-revision: 5
 ts: 1441924148
-blocks: 
-host: 82.131.7.230
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EABM03/05 - Keskkonnatehnika ja juhtimine Kava:4146</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EABM03/05 - Keskkonnatehnika ja juhtimine <strong class="changes">[</strong>Kava:4146 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
 minor: 1
+revision: 5
+diff-major: 
+keep-ts: 1441924148
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == EABM03/05 - Keskkonnatehnika ja juhtimine [Kava:4146 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[TMK8290]] Äritegevuse alused
@@ -30,5 +30,3 @@ text: == EABM03/05 - Keskkonnatehnika ja juhtimine [Kava:4146 〔Õppekava ÕIS-
 	[[TMM8790]] Tööstuslik turundus
 	
 	
-keep-ts: 1441924148
-flags: 

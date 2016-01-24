@@ -1,16 +1,16 @@
+revision: 4
+keep-ts: 1441924447
 languages: 
-ts: 1441924447
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100329 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Füsioloogia ja tehnika
 	#SUBURL [Course:100329 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
 flags: 1
-lastmajor: 2
-host: 82.131.7.230
-keep-ts: 1441924447
-blocks: [Course:100329 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
+minor: 1
+ts: 1441924447

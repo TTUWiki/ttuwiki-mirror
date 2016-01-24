@@ -1,3 +1,4 @@
+keep-ts: 1449901382
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +14,14 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	Moodelis teha   alates  **16.Detsember
 	
 host: 86.110.37.246
-minor: 
-lastmajor: 18
-ip: 89.235.235.166
-username: Ain_Laidoja
-flags: 1
+lastmajorsummary: 
 blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
 summary: 
+minor: 
 revision: 18
-ts: 1449901382
-keep-ts: 1449901382
 languages: 
-lastmajorsummary: 
+username: Ain_Laidoja
+ip: 89.235.235.166
+flags: 1
+lastmajor: 18
+ts: 1449901382

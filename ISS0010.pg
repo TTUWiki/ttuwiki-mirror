@@ -1,9 +1,14 @@
 minor: 1
 lastmajor: 617
-blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
+revision: 618
 ip: 89.235.239.240
-username: AlexDaniel
 languages: 
+ts: 1441924447
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -186,9 +191,4 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-revision: 618
-keep-ts: 1441924447
-flags: 1
-host: 82.131.7.230
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

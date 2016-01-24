@@ -1,14 +1,12 @@
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Lineaaralgebra ja analüütiline geomeetria
 	#SUBURL [Course:110070 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-blocks: [Course:110070 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
-ts: 1441924452
-username: AlexDaniel
-keep-ts: 1441924452
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+ts: 1441924452
+minor: 1
+username: AlexDaniel
+revision: 2

@@ -1,16 +1,14 @@
-host: 89.235.223.25
-languages: 
-keep-ts: 1408891663
-revision: 2
 minor: 1
-diff-major: 
-summary: Автоматическое обновление (расписание)
+diff-minor: 
+username: Bot
+languages: 
 ts: 1408891663
-blocks: 
+revision: 2
+host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
+keep-ts: 1408891663
+diff-major: 
 text: <include "VAEM14-14">
 	
 	
 	
-diff-minor: 
-flags: 
-username: Bot

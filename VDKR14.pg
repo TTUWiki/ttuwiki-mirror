@@ -1,11 +1,7 @@
-flags: 
-diff-major: 
-username: Bot
-summary: Автоматическое обновление
-ts: 1438887203
-minor: 1
 keep-ts: 1438887203
-languages: 
+diff-major: 
+host: 85.253.110.44
+summary: Автоматическое обновление
 text: <include "VDKR14-15">
 	
 	<include "VDKR14-14EMERA">
@@ -14,8 +10,10 @@ text: <include "VDKR14-15">
 	
 	
 	
-revision: 3
+languages: 
+ts: 1438887203
+minor: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "VDKR14-15"&gt;</p></div>
-blocks: 
-host: 85.253.110.44
+username: Bot
+revision: 3

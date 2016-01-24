@@ -1,14 +1,12 @@
-ts: 1441924452
-languages: 
 keep-ts: 1441924452
-flags: 1
-username: AlexDaniel
-blocks: [Course:109180 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 text: #SUBTITLE Erialane vene keel
 	#SUBURL [Course:109180 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
+languages: 
+ts: 1441924452
 minor: 1
+username: AlexDaniel
+revision: 2

@@ -1,16 +1,16 @@
-revision: 4
-blocks: [Course:106040 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-ts: 1441924450
 username: AlexDaniel
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924450
+blocks: [Course:106040 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924450
+languages: 
 text: #SUBTITLE Ökonomeetria I
 	#SUBURL [Course:106040 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ip: 89.235.235.166
 minor: 1
 lastmajor: 2
-host: 82.131.7.230
-flags: 1
-languages: 

@@ -2,13 +2,11 @@ text: #SUBTITLE Mäetööd ja mäemasinad
 	#SUBURL [Course:109825 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-languages: 
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924444
-ts: 1441924444
-blocks: [Course:109825 〔Õppeaine ÕIS-is〕]
+revision: 2
 minor: 1
 username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+languages: 
+ts: 1441924444

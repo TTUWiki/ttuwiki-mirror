@@ -1,11 +1,15 @@
-blocks: 
+ts: 1441924152
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEM06/15 - Tööstusökoloogia Kava:50291</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEM06/15 - Tööstusökoloogia <strong class="changes">[</strong>Kava:50291 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
-revision: 4
 minor: 1
+revision: 4
+diff-major: 
+keep-ts: 1441924152
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]
 	[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[NTK1230]] Asjaajamine ja raamatupidamise alused
@@ -35,9 +39,3 @@ text: == NAEM06/15 - Tööstusökoloogia [Kava:50291 〔Õppekava ÕIS-is〕]
 	[[NTK0630]] Veereostus ja -kaitse
 	
 	
-keep-ts: 1441924152
-flags: 
-host: 82.131.7.230
-ts: 1441924152
-diff-major: 
-username: AlexDaniel

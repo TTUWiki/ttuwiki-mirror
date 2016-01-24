@@ -1,16 +1,14 @@
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:25697 〔Õppeaine ÕIS-is〕]
-languages: 
+revision: 4
+ts: 1441924445
 ip: 89.235.235.166
+languages: 
+username: AlexDaniel
 minor: 1
-host: 82.131.7.230
 text: #SUBTITLE Geograafiline infosüsteem GIS I
 	#SUBURL [Course:25697 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924445
-revision: 4
 keep-ts: 1441924445
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

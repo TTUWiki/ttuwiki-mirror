@@ -1,5 +1,15 @@
-flags: 
+ts: 1441924148
 languages: 
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAAM11/11 - Hoonete energiatõhusus Kava:50153</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAAM11/11 - Hoonete energiatõhusus <strong class="changes">[</strong>Kava:50153 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+revision: 4
+diff-major: 
+keep-ts: 1441924148
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == EAAM11/11 - Hoonete energiatõhusus [Kava:50153 〔Õppekava ÕIS-is〕]
 	[[ISS0090]] Arukad hooned
 	[[ISS0120]] Automaatika alused
@@ -30,15 +40,3 @@ text: == EAAM11/11 - Hoonete energiatõhusus [Kava:50153 〔Õppekava ÕIS-is〕
 	[[EKK0280]] Ventilatsioon
 	
 	
-diff-major: 
-username: AlexDaniel
-revision: 4
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924148
-minor: 1
-host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAAM11/11 - Hoonete energiatõhusus Kava:50153</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAAM11/11 - Hoonete energiatõhusus <strong class="changes">[</strong>Kava:50153 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924148

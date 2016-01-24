@@ -1,14 +1,12 @@
-flags: 1
-keep-ts: 1441924446
 minor: 1
+username: AlexDaniel
+languages: 
 ts: 1441924446
+revision: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
 text: #SUBTITLE Teaduspõhine analüüs
 	#SUBURL [Course:110012 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:110012 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-username: AlexDaniel

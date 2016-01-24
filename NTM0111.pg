@@ -1,16 +1,16 @@
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+flags: 1
+keep-ts: 1441924449
+host: 82.131.7.230
+lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+blocks: [Course:38544 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon I
 	#SUBURL [Course:38544 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:38544 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-languages: 
-keep-ts: 1441924449
-lastmajor: 2
-ts: 1441924449

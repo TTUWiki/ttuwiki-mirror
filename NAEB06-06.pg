@@ -1,14 +1,7 @@
+keep-ts: 1441924152
 diff-major: 
-username: AlexDaniel
-ts: 1441924152
-revision: 5
-flags: 
-host: 82.131.7.230
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEB06/06 - Keskkonnajuhtimine Kava:3959</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEB06/06 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:3959 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == NAEB06/06 - Keskkonnajuhtimine [Kava:3959 〔Õppekava ÕIS-is〕]
 	[[NTK0040]] Akadeemiline võõrkeel
 	[[NTM1180]] Asustuskeskkonna kujunemine
@@ -66,6 +59,11 @@ text: == NAEB06/06 - Keskkonnajuhtimine [Kava:3959 〔Õppekava ÕIS-is〕]
 	[[NTK0630]] Veereostus ja -kaitse
 	
 	
-keep-ts: 1441924152
-blocks: 
 languages: 
+ts: 1441924152
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEB06/06 - Keskkonnajuhtimine Kava:3959</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEB06/06 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:3959 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+revision: 5

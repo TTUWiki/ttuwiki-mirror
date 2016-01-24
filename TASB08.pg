@@ -1,14 +1,11 @@
-blocks: 
-username: Bot
-keep-ts: 1438887170
+revision: 3
 languages: 
+ip: 89.235.235.166
 ts: 1438887170
-minor: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "TASB08-15"&gt;</p></div>
-flags: 
-diff-major: 
-summary: Автоматическое обновление
+minor: 1
+username: Bot
 text: <include "TASB08-15">
 	
 	<include "TASB08-14">
@@ -25,7 +22,8 @@ text: <include "TASB08-15">
 	
 	
 	
-revision: 3
+keep-ts: 1438887170
+diff-major: 
 lastmajor: 1
-ip: 89.235.235.166
+summary: Автоматическое обновление
 host: 85.253.110.44

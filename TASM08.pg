@@ -1,3 +1,11 @@
+revision: 3
+ip: 89.235.235.166
+ts: 1438887175
+languages: 
+username: Bot
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "TASM08-15"&gt;</p></div>
+minor: 1
 text: <include "TASM08-15">
 	
 	<include "TASM08-14">
@@ -12,18 +20,8 @@ text: <include "TASM08-15">
 	
 	
 	
-lastmajor: 1
-ts: 1438887175
-summary: Автоматическое обновление
-keep-ts: 1438887175
-blocks: 
 diff-major: 
-minor: 1
-username: Bot
-flags: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "TASM08-15"&gt;</p></div>
+keep-ts: 1438887175
+summary: Автоматическое обновление
 host: 85.253.110.44
-languages: 
-revision: 3
-ip: 89.235.235.166
+lastmajor: 1

@@ -1,11 +1,15 @@
-languages: 
-minor: 1
-lastmajor: 15
-keep-ts: 1441924445
+host: 82.131.7.230
 ip: 84.52.48.194
-ts: 1441924445
 username: AlexDaniel
+keep-ts: 1441924445
+lastmajor: 15
+ts: 1441924445
 revision: 18
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:100863 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 1
 text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#SUBURL [Course:100863 〔Õppeaine ÕIS-is〕]
 	
@@ -51,7 +55,3 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	
 	Многие понятия можно найти здесь: http://www.seit.ee/sass/?ID=1 , а также на слайдах, которые преподаватель выкладывает в ÕIS.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100863 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230

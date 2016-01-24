@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
-flags: 1
-minor: 1
+languages: 
 ts: 1441924444
+ip: 89.235.235.166
+minor: 1
+username: AlexDaniel
 revision: 4
+keep-ts: 1441924444
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Liigpinged
 	#SUBURL [Course:106232 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ip: 89.235.235.166
-blocks: [Course:106232 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924444

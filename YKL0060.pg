@@ -1,16 +1,16 @@
-revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Biokeemia
 	#SUBURL [Course:100844 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-host: 82.131.7.230
-flags: 1
-blocks: [Course:100844 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
 minor: 1
+flags: 1
+languages: 
+keep-ts: 1441924452
+blocks: [Course:100844 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
+lastmajor: 2
 ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

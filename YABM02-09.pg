@@ -1,4 +1,3 @@
-username: AlexDaniel
 text: == YABM02/09 - Biomeditsiinitehnoloogia [Kava:50030 〔Õppekava ÕIS-is〕]
 	[[DBR0210]] Anatoomia ja füsioloogia
 	[[DBR0250]] Bioelektromagnetism
@@ -23,16 +22,15 @@ text: == YABM02/09 - Biomeditsiinitehnoloogia [Kava:50030 〔Õppekava ÕIS-is�
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
+diff-major: 
+keep-ts: 1441924154
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+ts: 1441924154
+languages: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YABM02/09 - Biomeditsiinitehnoloogia Kava:50030</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YABM02/09 - Biomeditsiinitehnoloogia <strong class="changes">[</strong>Kava:50030 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-flags: 
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-languages: 
-revision: 4
-minor: 1
-keep-ts: 1441924154

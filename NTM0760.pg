@@ -1,16 +1,14 @@
+revision: 4
+minor: 1
 username: AlexDaniel
-keep-ts: 1441924449
+languages: 
+ts: 1441924449
+ip: 89.235.235.166
 text: #SUBTITLE Ilutaimed
 	#SUBURL [Course:38950 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-blocks: [Course:38950 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-host: 82.131.7.230
 lastmajor: 2
-minor: 1
-ip: 89.235.235.166
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+keep-ts: 1441924449

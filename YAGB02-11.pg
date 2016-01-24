@@ -1,3 +1,7 @@
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924155
 text: == YAGB02/11 - Geenitehnoloogia [Kava:50157 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0011]] Analüütiline keemia
@@ -45,17 +49,11 @@ text: == YAGB02/11 - Geenitehnoloogia [Kava:50157 〔Õppekava ÕIS-is〕]
 	[[YTG0070]] Zooloogia ja botaanika välipraktikum
 	
 	
-keep-ts: 1441924155
-flags: 
-diff-major: 
 username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAGB02/11 - Geenitehnoloogia Kava:50157</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAGB02/11 - Geenitehnoloogia <strong class="changes">[</strong>Kava:50157 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-ts: 1441924155
-revision: 4
 minor: 1
-blocks: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924155
+languages: 
+revision: 4

@@ -1,16 +1,15 @@
-blocks: 
-keep-ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924150
 languages: 
-minor: 1
 username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAJM08/08i - Õigusteadus Kava:50131</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAJM08/08i - Õigusteadus <strong class="changes">[</strong>Kava:50131 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-diff-major: 
-host: 82.131.7.230
+minor: 1
 revision: 4
+diff-major: 
+keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == HAJM08/08i - Õigusteadus [Kava:50131 〔Õppekava ÕIS-is〕]
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
 	[[HOL7011]] EL ja võrdlev maksuõigus
@@ -37,4 +36,3 @@ text: == HAJM08/08i - Õigusteadus [Kava:50131 〔Õppekava ÕIS-is〕]
 	[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika
 	
 	
-ts: 1441924150

@@ -1,16 +1,14 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-ts: 1441924445
+keep-ts: 1441924445
 text: #SUBTITLE Veetorustikud ja modelleerimine - projekt
 	#SUBURL [Course:37338 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-flags: 1
-keep-ts: 1441924445
+minor: 1
+username: AlexDaniel
 languages: 
-blocks: [Course:37338 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+ts: 1441924445
+revision: 4

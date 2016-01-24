@@ -1,3 +1,8 @@
+revision: 5
+ts: 1441924154
+languages: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia Kava:50278</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia <strong class="changes">[</strong>Kava:50278 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
@@ -99,14 +104,7 @@ text: == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia [Kava:50278 〔Õpp
 	[[VAY0551]] Vene keel I (võõrkeelena)
 	
 	
-ts: 1441924154
-blocks: 
-host: 82.131.7.230
-revision: 5
-username: AlexDaniel
-keep-ts: 1441924154
 diff-major: 
-minor: 1
-languages: 
-flags: 
+keep-ts: 1441924154
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230

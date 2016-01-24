@@ -1,6 +1,6 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Последний раз обновлено: **2015-09-<strong class="changes">07</strong>**####</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Последний раз обновлено: **2015-09-<strong class="changes">14</strong>**####</p></div>
+summary: Автоматическое обновление
+host: 82.131.7.230
+lastmajor: 14
 keep-ts: 1442183797
 diff-major: 1
 text: **Расписания в картинках здесь: [[Расписания в PNG (заочное)]]**
@@ -23,14 +23,12 @@ text: **Расписания в картинках здесь: [[Расписа�
 	##[TiK:37084 TABBK71] [TiK:37085 TABBK72] [TiK:37086 TABBK73] [TiK:37087 TABBK74] ##
 	
 	
-lastmajor: 14
-host: 82.131.7.230
 minor: 
-flags: 
-revision: 14
-summary: Автоматическое обновление
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Последний раз обновлено: **2015-09-<strong class="changes">07</strong>**####</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Последний раз обновлено: **2015-09-<strong class="changes">14</strong>**####</p></div>
+username: Bot
 languages: 
 ts: 1442183797
 lastmajorsummary: Автоматическое обновление
-username: Bot
-blocks: 
+revision: 14

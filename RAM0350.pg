@@ -1,16 +1,14 @@
-blocks: [Course:108332 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
 minor: 1
+ts: 1441924449
+ip: 89.235.235.166
+languages: 
+revision: 4
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+keep-ts: 1441924449
 text: #SUBTITLE Lineaaralgebra põhikursus
 	#SUBURL [Course:108332 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-ts: 1441924449
-flags: 1

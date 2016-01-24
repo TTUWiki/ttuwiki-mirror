@@ -1,16 +1,14 @@
+languages: 
+ts: 1441924445
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
+minor: 1
 username: AlexDaniel
 revision: 4
 keep-ts: 1441924445
-ts: 1441924445
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-minor: 1
-blocks: [Course:108414 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Jaotuslogistika
 	#SUBURL [Course:108414 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 

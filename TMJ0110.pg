@@ -1,12 +1,11 @@
-ts: 1441924451
+lastmajor: 4
 minor: 1
 blocks: [Course:100478 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 flags: 1
+ts: 1441924451
 languages: 
-host: 82.131.7.230
 ip: 89.235.235.166
-revision: 5
 text: #SUBTITLE Ettevõtluse alused
 	#SUBURL [Course:100478 〔Õppeaine ÕIS-is〕]
 	
@@ -26,6 +25,7 @@ text: #SUBTITLE Ettevõtluse alused
 	==Экзамен
 	Тест из 20 вопросов. Вопросы по большей части очевидные, можно серьезно не готовиться, но при этом написать на 100% все-таки сложно. На итоговую оценку больше всего влияют работы в течение семестра.
 	
-lastmajor: 4
-keep-ts: 1441924451
+revision: 5
 username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924451

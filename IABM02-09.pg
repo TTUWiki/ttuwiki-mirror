@@ -1,14 +1,15 @@
+username: AlexDaniel
 minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IABM02/09 - Äriinfotehnoloogia Kava:50088</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IABM02/09 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:50088 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
-languages: 
-username: AlexDaniel
-keep-ts: 1441924150
 ts: 1441924150
-blocks: 
+languages: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 diff-major: 
+keep-ts: 1441924150
 text: == IABM02/09 - Äriinfotehnoloogia [Kava:50088 〔Õppekava ÕIS-is〕]
 	[[IDK5151]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[IDU0010]] Andmeaidad, ERP- ja CRM-süsteemid
@@ -42,6 +43,3 @@ text: == IABM02/09 - Äriinfotehnoloogia [Kava:50088 〔Õppekava ÕIS-is〕]
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 

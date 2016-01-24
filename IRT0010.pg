@@ -1,8 +1,9 @@
-ip: 84.50.22.158
-host: 82.131.7.230
-keep-ts: 1441924447
-minor: 1
+revision: 5
 username: AlexDaniel
+minor: 1
+ip: 84.50.22.158
+ts: 1441924447
+languages: 
 text: #SUBTITLE Sidemeetodid
 	#SUBURL [Course:29757 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -21,10 +22,7 @@ text: #SUBTITLE Sidemeetodid
 	-- Аноним 2014-02-24 22:05 UTC
 	
 	
-languages: 
-ts: 1441924447
 lastmajor: 3
-revision: 5
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29757 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924447

@@ -1,17 +1,15 @@
-host: 82.131.7.230
-revision: 5
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-flags: 
-keep-ts: 1441924149
-blocks: 
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EALB02/14 - Logistika Kava:50260</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EALB02/14 - Logistika <strong class="changes">[</strong>Kava:50260 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-minor: 1
 username: AlexDaniel
+languages: 
+ts: 1441924149
+revision: 5
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924149
+diff-major: 
 text: == EALB02/14 - Logistika [Kava:50260 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMJ0150]] Äri planeerimine

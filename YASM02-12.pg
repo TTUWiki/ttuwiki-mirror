@@ -1,5 +1,11 @@
-blocks: 
 revision: 4
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YASM02/12 - Rakenduskeemia ja biotehnoloogia Kava:50180</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YASM02/12 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50180 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
+languages: 
 text: == YASM02/12 - Rakenduskeemia ja biotehnoloogia [Kava:50180 〔Õppekava ÕIS-is〕]
 	[[YKX0011]] Ametipraktika magistrantidele
 	[[YKI0050]] Anorgaaniline keemia II
@@ -31,15 +37,7 @@ text: == YASM02/12 - Rakenduskeemia ja biotehnoloogia [Kava:50180 〔Õppekava �
 	[[YTP0062]] Valkude keemia ja struktuur
 	
 	
-diff-major: 
-ts: 1441924155
-username: AlexDaniel
-minor: 1
-flags: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YASM02/12 - Rakenduskeemia ja biotehnoloogia Kava:50180</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YASM02/12 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50180 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924155
-languages: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924155

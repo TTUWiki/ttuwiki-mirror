@@ -1,6 +1,12 @@
-languages: 
+keep-ts: 1441924452
+ip: 84.52.48.194
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 11
+flags: 1
+minor: 1
+lastmajor: 7
 host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Matemaatiline analüüs I
 	#SUBURL [Course:28197 〔Õppeaine ÕIS-is〕]
 	
@@ -27,12 +33,6 @@ text: #SUBTITLE Matemaatiline analüüs I
 	-- Atomsk 2014-02-25 23:19 UTC
 	
 	
-keep-ts: 1441924452
-flags: 1
-ts: 1441924452
-revision: 11
-username: AlexDaniel
-lastmajor: 7
-ip: 84.52.48.194
 blocks: [Course:28197 〔Õppeaine ÕIS-is〕]
-minor: 1
+ts: 1441924452
+languages: 

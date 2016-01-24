@@ -1,16 +1,14 @@
-username: AlexDaniel
-keep-ts: 1441924450
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-languages: 
-minor: 1
 text: #SUBTITLE Vene keel võõrkeelena
 	#SUBURL [Course:29087 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-flags: 1
-blocks: [Course:29087 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+keep-ts: 1441924450
+revision: 4
+username: AlexDaniel
+minor: 1
 ip: 89.235.235.166
+ts: 1441924450
+languages: 

@@ -1,16 +1,15 @@
-revision: 3
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAFB02/16 - Tehniline füüsika Kava:50337</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAFB02/16 - Tehniline füüsika <strong class="changes">[</strong>Kava:50337 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
 username: AlexDaniel
-blocks: 
-minor: 1
-flags: 
-diff-major: 
-host: 82.131.7.230
 languages: 
+ts: 1441924154
+revision: 3
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924154
+diff-major: 
 text: == YAFB02/16 - Tehniline füüsika [Kava:50337 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YGI3201]] Arvutigraafika I
@@ -60,4 +59,3 @@ text: == YAFB02/16 - Tehniline füüsika [Kava:50337 〔Õppekava ÕIS-is〕]
 	[[YMA0050]] Tensorarvutus
 	[[YMR0070]] Tõenäosusteooria ja matemaatiline statistika
 	
-keep-ts: 1441924154

@@ -1,16 +1,14 @@
-ip: 89.235.235.166
-keep-ts: 1441924445
-revision: 4
-minor: 1
-host: 82.131.7.230
-languages: 
 text: #SUBTITLE Hüdrodünaamika seminar
 	#SUBURL [Course:108312 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:108312 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
+keep-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
 lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+ts: 1441924445
+languages: 
 username: AlexDaniel
+minor: 1

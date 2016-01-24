@@ -1,13 +1,7 @@
+diff-major: 
 keep-ts: 1441924149
 host: 82.131.7.230
-revision: 4
-flags: 
-diff-major: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EALB02/02 - Logistika Kava:534</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EALB02/02 - Logistika <strong class="changes">[</strong>Kava:534 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == EALB02/02 - Logistika [Kava:534 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMJ0030]] Ärilogistika
@@ -60,6 +54,10 @@ text: == EALB02/02 - Logistika [Kava:534 〔Õppekava ÕIS-is〕]
 	
 	
 ts: 1441924149
-blocks: 
+languages: 
+username: AlexDaniel
 minor: 1
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EALB02/02 - Logistika Kava:534</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EALB02/02 - Logistika <strong class="changes">[</strong>Kava:534 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4

@@ -1,8 +1,15 @@
+ts: 1441924148
+languages: 
 username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine Kava:50079</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine <strong class="changes">[</strong>Kava:50079 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 revision: 5
+diff-major: 
+keep-ts: 1441924148
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50079 〔Õppekava ÕIS-is〕]
 	[[BCU3430]] Aastaaruandluse koostamine ja analüüs
 	[[BCU0510]] Ärieetika alused
@@ -59,12 +66,3 @@ text: == BDMR02/09 - Majandusarvestus ja ettevõtluse juhtimine [Kava:50079 〔�
 	[[BCU3240]] Uurimistöö alused
 	
 	
-host: 82.131.7.230
-languages: 
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
-ts: 1441924148
-diff-major: 
-keep-ts: 1441924148
-minor: 1

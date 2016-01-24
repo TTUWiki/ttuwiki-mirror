@@ -1,16 +1,14 @@
-minor: 1
-ts: 1441924448
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
-blocks: [Course:101994 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Geoloogia ametipraktika
 	#SUBURL [Course:101994 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 keep-ts: 1441924448
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
 languages: 
+ip: 89.235.235.166
+ts: 1441924448
+minor: 1
+username: AlexDaniel

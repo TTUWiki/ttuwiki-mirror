@@ -1,15 +1,15 @@
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924153
-blocks: 
-minor: 1
 username: AlexDaniel
-ts: 1441924153
-languages: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TASB08/12 - Rahvusvahelised suhted Kava:50188</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TASB08/12 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50188 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924153
+languages: 
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924153
 text: == TASB08/12 - Rahvusvahelised suhted [Kava:50188 〔Õppekava ÕIS-is〕]
 	[[TSK0110]] Aasia uuringud
 	[[TSP0180]] Avalik haldus
@@ -67,5 +67,3 @@ text: == TASB08/12 - Rahvusvahelised suhted [Kava:50188 〔Õppekava ÕIS-is〕]
 	[[TSX0002]] Võõrkeel II
 	
 	
-flags: 
-diff-major: 

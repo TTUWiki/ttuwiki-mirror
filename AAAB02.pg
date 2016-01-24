@@ -1,5 +1,8 @@
-username: Bot
-languages: 
+diff-major: 
+keep-ts: 1408891267
+host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
+lastmajor: 1
 text: <include "AAAB02-09">
 	
 	<include "AAAB02-04">
@@ -8,16 +11,11 @@ text: <include "AAAB02-09">
 	
 	
 	
-host: 89.235.223.25
-flags: 
-revision: 3
-summary: Автоматическое обновление (расписание)
 ip: 89.235.235.166
-blocks: 
-diff-major: 
 ts: 1408891267
+languages: 
+username: Bot
 minor: 1
-lastmajor: 1
 diff-minor: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; &lt;include "AAAB02-09"&gt;<br />&lt; &lt;include "AAAB02-04"&gt;<br />&lt; &lt;include "AAAB02-02"&gt;</p></div>
-keep-ts: 1408891267
+revision: 3

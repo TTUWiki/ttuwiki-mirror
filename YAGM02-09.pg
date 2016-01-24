@@ -1,15 +1,15 @@
-ts: 1441924155
-keep-ts: 1441924155
-revision: 4
-minor: 1
 username: AlexDaniel
-languages: 
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAGM02/09 - Geenitehnoloogia Kava:50076</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAGM02/09 - Geenitehnoloogia <strong class="changes">[</strong>Kava:50076 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
+languages: 
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-major: 
-blocks: 
-flags: 
+keep-ts: 1441924155
 text: == YAGM02/09 - Geenitehnoloogia [Kava:50076 〔Õppekava ÕIS-is〕]
 	[[YTM0032]] Arengubioloogia II
 	[[YTG0080]] Bakterigeneetika
@@ -44,5 +44,3 @@ text: == YAGM02/09 - Geenitehnoloogia [Kava:50076 〔Õppekava ÕIS-is〕]
 	[[YTP0062]] Valkude keemia ja struktuur
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230

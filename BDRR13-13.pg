@@ -1,12 +1,7 @@
-ts: 1441924148
-host: 82.131.7.230
-keep-ts: 1441924148
-revision: 4
 diff-major: 
-username: AlexDaniel
+keep-ts: 1441924148
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
-blocks: 
 text: == BDRR13/13 - Kinnisvara korrashoid [Kava:50231 〔Õppekava ÕIS-is〕]
 	[[EEA0021]] Arhitektuur
 	[[BCU1910]] Ärilogistika
@@ -57,8 +52,11 @@ text: == BDRR13/13 - Kinnisvara korrashoid [Kava:50231 〔Õppekava ÕIS-is〕]
 	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus
 	
 	
+ts: 1441924148
+languages: 
+username: AlexDaniel
 minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDRR13/13 - Kinnisvara korrashoid Kava:50231</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDRR13/13 - Kinnisvara korrashoid <strong class="changes">[</strong>Kava:50231 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+revision: 4

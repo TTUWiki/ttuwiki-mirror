@@ -1,12 +1,15 @@
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDKR14/14EMERA - Külmutusseadmed Kava:50281</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDKR14/14EMERA - Külmutusseadmed <strong class="changes">[</strong>Kava:50281 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
 ts: 1441924154
-username: AlexDaniel
-minor: 1
+languages: 
+revision: 5
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924154
 text: == VDKR14/14EMERA - Külmutusseadmed [Kava:50281 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
@@ -96,8 +99,3 @@ text: == VDKR14/14EMERA - Külmutusseadmed [Kava:50281 〔Õppekava ÕIS-is〕]
 	[[VAY0451]] Vene keel I (võõrkeelena)
 	
 	
-blocks: 
-host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
-revision: 5

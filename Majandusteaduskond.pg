@@ -1,8 +1,26 @@
-revision: 5
-flags: 
-blocks: 
-host: 85.253.110.44
+username: Bot
+minor: 1
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TAAB02]] Avaliku sektori majandus</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[TAAB02]] Rakenduslik majandusteadus</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TAAM02]] Avaliku sektori majandus</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[TAAM02]] Rakenduslik majandusteadus</p></div>
+ip: 89.235.235.166
+ts: 1438886437
 languages: 
+revision: 5
+summary: Автоматическое обновление
+host: 85.253.110.44
+lastmajor: 3
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TAAB02]] Avaliku sektori majandus\\<br />&lt; [[TAAM02]] Avaliku sektori majandus\\<br />&lt; [[TABB02]] Ärindus\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">TADD02</strong>]] <strong class="changes">Majandus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">TABB02</strong>]] <strong class="changes">Ärindus\\<br />&gt; [[TAAB02]] Avaliku sektori majandus\\<br />&gt; [[TVTB12]] Rahvusvaheline ärikorraldus\\<br />&gt; [[TASB08]] Rahvusvahelised suhted\\</strong><br />&gt; \\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">TASB08</strong>]] <strong class="changes">Rahvusvahelised suhted\\<br />&lt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">TAAM02</strong>]] <strong class="changes">Avaliku sektori majandus</strong>\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[TVTB03]] Rahvusvaheline ärikorraldus\\<br />&lt; [[TVTB12]] Rahvusvaheline ärikorraldus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud\\<br />&gt; \\<br />&gt; [[TADD02]] Majandus\\<br />&gt; \\</p></div>
+keep-ts: 1438886437
 text: [[TACB08]] Ärikorraldus
 	[[TABB02]] Ärindus
 	[[TVTB12]] Rahvusvaheline ärikorraldus
@@ -21,23 +39,3 @@ text: [[TACB08]] Ärikorraldus
 	
 	
 	
-diff-major: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TAAB02]] Avaliku sektori majandus\\<br />&lt; [[TAAM02]] Avaliku sektori majandus\\<br />&lt; [[TABB02]] Ärindus\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">TADD02</strong>]] <strong class="changes">Majandus</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">TABB02</strong>]] <strong class="changes">Ärindus\\<br />&gt; [[TAAB02]] Avaliku sektori majandus\\<br />&gt; [[TVTB12]] Rahvusvaheline ärikorraldus\\<br />&gt; [[TASB08]] Rahvusvahelised suhted\\</strong><br />&gt; \\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">TASB08</strong>]] <strong class="changes">Rahvusvahelised suhted\\<br />&lt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">TAAM02</strong>]] <strong class="changes">Avaliku sektori majandus</strong>\\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TVTB03]] Rahvusvaheline ärikorraldus\\<br />&lt; [[TVTB12]] Rahvusvaheline ärikorraldus\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TASM08]] Rahvusvahelised suhted ja Euroopa-Aasia uuringud\\<br />&gt; \\<br />&gt; [[TADD02]] Majandus\\<br />&gt; \\</p></div>
-ts: 1438886437
-username: Bot
-keep-ts: 1438886437
-ip: 89.235.235.166
-minor: 1
-lastmajor: 3
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TAAB02]] Avaliku sektori majandus</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TAAB02]] Rakenduslik majandusteadus</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[TAAM02]] Avaliku sektori majandus</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[TAAM02]] Rakenduslik majandusteadus</p></div>
-summary: Автоматическое обновление

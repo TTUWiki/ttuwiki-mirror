@@ -1,14 +1,12 @@
-minor: 1
-blocks: [Course:108828 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
 revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
+languages: 
 ts: 1441924452
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Avamerepüügi praktika
 	#SUBURL [Course:108828 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-languages: 
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

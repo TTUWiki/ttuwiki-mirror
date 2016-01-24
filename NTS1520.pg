@@ -1,14 +1,14 @@
-blocks: [Course:109556 〔Õppeaine ÕIS-is〕]
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 text: #SUBTITLE Palkmajad
 	#SUBURL [Course:109556 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
-revision: 2
-host: 82.131.7.230
-minor: 1
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109556 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 2
 ts: 1441924449
-flags: 1
 languages: 
+minor: 1

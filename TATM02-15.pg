@@ -1,8 +1,7 @@
-flags: 
 host: 82.131.7.230
-languages: 
-ts: 1441924153
-minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+diff-major: 
 text: == TATM02/15 - Juhtimine ja turundus [Kava:50332 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[IDY0275]] Äriinfosüsteemid
@@ -57,12 +56,11 @@ text: == TATM02/15 - Juhtimine ja turundus [Kava:50332 〔Õppekava ÕIS-is〕]
 	[[TMJ1130]] Välisturgude valik ja turgudele sisenemine
 	
 	
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TATM02/15 - Juhtimine ja turundus Kava:50332</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TATM02/15 - Juhtimine ja turundus <strong class="changes">[</strong>Kava:50332 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
-blocks: 
+languages: 
+ts: 1441924153
 revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-keep-ts: 1441924153

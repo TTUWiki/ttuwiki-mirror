@@ -1,16 +1,14 @@
-username: AlexDaniel
-minor: 1
-lastmajor: 2
-flags: 1
-blocks: [Course:40899 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ts: 1441924444
-languages: 
 text: #SUBTITLE Laserdiagnostika meetodid meditsiinis
 	#SUBURL [Course:40899 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924444
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 revision: 4
 ip: 89.235.235.166
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+languages: 
+username: AlexDaniel
+minor: 1

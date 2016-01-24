@@ -1,16 +1,16 @@
-languages: 
-blocks: [Course:29728 〔Õppeaine ÕIS-is〕]
 minor: 1
+revision: 4
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1441924453
 text: #SUBTITLE Taimede molekulaarbioloogia
 	#SUBURL [Course:29728 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-keep-ts: 1441924453
-revision: 4
 ip: 89.235.235.166
-ts: 1441924453
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+languages: 
 lastmajor: 2
+blocks: [Course:29728 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924453

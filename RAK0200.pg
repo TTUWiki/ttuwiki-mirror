@@ -1,14 +1,12 @@
+revision: 2
+ts: 1441924449
+languages: 
 username: AlexDaniel
-blocks: [Course:109937 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
+minor: 1
 text: #SUBTITLE Riski- ja ohutusõpetus keemiatööstuses
 	#SUBURL [Course:109937 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-ts: 1441924449
-revision: 2
-minor: 1
-languages: 
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

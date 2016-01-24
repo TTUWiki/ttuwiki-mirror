@@ -2,15 +2,13 @@ text: #SUBTITLE Sissejuhatus erialasse
 	#SUBURL [Course:100332 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 lastmajor: 2
-blocks: [Course:100332 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 keep-ts: 1441924448
+revision: 4
+username: AlexDaniel
+minor: 1
 ip: 89.235.235.166
 ts: 1441924448
-flags: 1
-revision: 4
+languages: 

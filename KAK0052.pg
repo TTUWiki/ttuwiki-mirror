@@ -1,16 +1,16 @@
-keep-ts: 1441924447
-ip: 89.235.235.166
-host: 82.131.7.230
+flags: 1
+blocks: [Course:100062 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Keskkonnakeemia - praktikum
 	#SUBURL [Course:100062 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-blocks: [Course:100062 〔Õppeaine ÕIS-is〕]
-flags: 1
 ts: 1441924447
-minor: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+username: AlexDaniel
+host: 82.131.7.230
+ip: 89.235.235.166
+keep-ts: 1441924447
+minor: 1

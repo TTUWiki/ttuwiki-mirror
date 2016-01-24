@@ -1,5 +1,11 @@
+revision: 4
 username: AlexDaniel
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IALB13/13 - Elektroonika ja telekommunikatsioon Kava:50232</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IALB13/13 - Elektroonika ja telekommunikatsioon <strong class="changes">[</strong>Kava:50232 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924150
+languages: 
 text: == IALB13/13 - Elektroonika ja telekommunikatsioon [Kava:50232 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITX0040]] Andmeturve
@@ -40,15 +46,7 @@ text: == IALB13/13 - Elektroonika ja telekommunikatsioon [Kava:50232 〔Õppekav
 	[[ISS0110]] Väljendusoskus
 	
 	
-languages: 
-ts: 1441924150
-minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
 host: 82.131.7.230
-revision: 4
+diff-major: 
 keep-ts: 1441924150
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IALB13/13 - Elektroonika ja telekommunikatsioon Kava:50232</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IALB13/13 - Elektroonika ja telekommunikatsioon <strong class="changes">[</strong>Kava:50232 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 

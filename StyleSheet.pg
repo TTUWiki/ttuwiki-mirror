@@ -1,10 +1,17 @@
-summary: 
-ts: 1402695286
-lastmajor: 91
-blocks: 
-languages: 
-flags: 
 ip: 89.235.239.240
+ts: 1402695286
+languages: 
+username: AlexDaniel
+minor: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; div<strong class="changes">..</strong>page p.comment:after {</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; div<strong class="changes">.</strong>page p.comment:after {</p></div>
+revision: 91
+diff-major: 1
+keep-ts: 1402695286
+host: 89-235-239-240.saturn.infonet.ee
+summary: 
+lastmajor: 91
 text: body {
 	    background-color: #DDDDDD;
 	    color: #282828;
@@ -249,12 +256,3 @@ text: body {
 	    margin-bottom: 35px;
 	}
 	
-diff-major: 1
-revision: 91
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; div<strong class="changes">..</strong>page p.comment:after {</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; div<strong class="changes">.</strong>page p.comment:after {</p></div>
-username: AlexDaniel
-minor: 
-keep-ts: 1402695286
-host: 89-235-239-240.saturn.infonet.ee

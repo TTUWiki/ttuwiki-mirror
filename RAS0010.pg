@@ -1,16 +1,16 @@
-username: AlexDaniel
-keep-ts: 1441924450
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
+lastmajor: 2
+revision: 4
+blocks: [Course:105608 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
 languages: 
 text: #SUBTITLE Kütusetööstuse ökonoomika ja juhtimine
 	#SUBURL [Course:105608 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-blocks: [Course:105608 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
 host: 82.131.7.230
-minor: 1
+flags: 1
+ip: 89.235.235.166
+keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

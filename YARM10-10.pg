@@ -1,9 +1,7 @@
-diff-major: 
-revision: 4
-minor: 1
-flags: 
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924155
+diff-major: 
+keep-ts: 1441924155
 text: == YARM10/10 - Merendus [Kava:50146 〔Õppekava ÕIS-is〕]
 	[[KTJ6011]] Ärilogistika
 	[[NSO8044]] Dünaamiline okeanograafia
@@ -45,11 +43,11 @@ text: == YARM10/10 - Merendus [Kava:50146 〔Õppekava ÕIS-is〕]
 	[[KHG6026]] Veeteede kavandamine
 	
 	
-host: 82.131.7.230
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YARM10/10 - Merendus Kava:50146</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YARM10/10 - Merendus <strong class="changes">[</strong>Kava:50146 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-keep-ts: 1441924155
-blocks: 
+minor: 1
+ts: 1441924155
 languages: 
+revision: 4

@@ -1,11 +1,14 @@
-host: 82.131.7.230
-languages: 
-blocks: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TACB08/08v - Ärikorraldus Kava:50134</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TACB08/08v - Ärikorraldus <strong class="changes">[</strong>Kava:50134 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-keep-ts: 1441924153
+username: AlexDaniel
+languages: 
+ts: 1441924153
 revision: 4
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
+keep-ts: 1441924153
 diff-major: 
 text: == TACB08/08v - Ärikorraldus [Kava:50134 〔Õppekava ÕIS-is〕]
 	[[TMM0560]] Ärialane suhtlemine
@@ -65,8 +68,3 @@ text: == TACB08/08v - Ärikorraldus [Kava:50134 〔Õppekava ÕIS-is〕]
 	[[TES0160]] Uurimistöö alused
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TACB08/08v - Ärikorraldus Kava:50134</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TACB08/08v - Ärikorraldus <strong class="changes">[</strong>Kava:50134 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-username: AlexDaniel

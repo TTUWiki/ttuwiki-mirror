@@ -1,18 +1,3 @@
-languages: 
-lastmajorsummary: 
-diff-major: 1
-host: 86.110.37.246
-username: Ain_Laidoja
-flags: 1
-ip: 89.235.235.166
-blocks: [Course:30842 〔Õppeaine ÕIS-is〕]
-revision: 8
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">Jhon</strong> R. Howell, Richard O. Buckius</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">John</strong> R. Howell, Richard O. Buckius</p></div>
-keep-ts: 1443159146
-ts: 1443159146
-summary: 
 text: #SUBTITLE Termodünaamika II
 	#SUBURL [Course:30842 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +8,18 @@ text: #SUBTITLE Termodünaamika II
 	#[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.   [http://digi.lib.ttu.ee/i/?109 PDF]
 	#[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]
 	
-minor: 
+summary: 
+host: 86.110.37.246
 lastmajor: 8
+keep-ts: 1443159146
+diff-major: 1
+revision: 8
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">Jhon</strong> R. Howell, Richard O. Buckius</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">John</strong> R. Howell, Richard O. Buckius</p></div>
+minor: 
+username: Ain_Laidoja
+languages: 
+ts: 1443159146
+ip: 89.235.235.166
+lastmajorsummary: 

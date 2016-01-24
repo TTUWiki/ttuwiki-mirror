@@ -1,16 +1,16 @@
+blocks: [Course:106322 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+flags: 1
+ip: 89.235.235.166
+languages: 
+revision: 4
+username: AlexDaniel
 ts: 1441924445
+keep-ts: 1441924445
 text: #SUBTITLE 3D programmide õpe
 	#SUBURL [Course:106322 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:106322 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-keep-ts: 1441924445
-flags: 1
 minor: 1
-username: AlexDaniel
-revision: 4

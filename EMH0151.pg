@@ -1,16 +1,14 @@
-minor: 1
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1441924445
 text: #SUBTITLE Sadamate tehnovõrgud ja -seadmed
 	#SUBURL [Course:38230 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-blocks: [Course:38230 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
 lastmajor: 2
-languages: 
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+ts: 1441924445
+languages: 
+username: AlexDaniel
+minor: 1

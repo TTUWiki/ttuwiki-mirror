@@ -1,16 +1,14 @@
-blocks: [Course:40434 〔Õppeaine ÕIS-is〕]
 revision: 4
+languages: 
+ts: 1441924452
 ip: 89.235.235.166
 minor: 1
-host: 82.131.7.230
-keep-ts: 1441924452
+username: AlexDaniel
 text: #SUBTITLE Sissejuhatus astrofüüsikasse
 	#SUBURL [Course:40434 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924452
-flags: 1
+keep-ts: 1441924452
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

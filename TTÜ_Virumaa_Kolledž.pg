@@ -1,14 +1,14 @@
-languages: 
-blocks: 
-host: 89.235.223.25
 lastmajor: 3
-minor: 1
-ip: 89.235.235.166
 summary: Автоматическое обновление (расписание)
-flags: 
-ts: 1408892850
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[MASB02]] Soojusenergeetika</p></div>
+host: 89.235.223.25
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\<br />&gt; [[RDPR06]] Energiatehnika\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\<br />&lt; <strong class="changes">[[RDPR06]] Energiatehnika</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\<br />&gt; \\</p></div>
+keep-ts: 1408892850
 text: [[MASB02]] Soojusenergeetika
 	
 	[[RAKM11]] Kütuste keemia ja tehnoloogia
@@ -23,12 +23,10 @@ text: [[MASB02]] Soojusenergeetika
 	
 	
 username: Bot
-keep-ts: 1408892850
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[MASB02]] Soojusenergeetika</p></div>
+minor: 1
+ts: 1408892850
+ip: 89.235.235.166
+languages: 
 revision: 6
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\<br />&gt; [[RDPR06]] Energiatehnika\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">RDKR05</strong>]] <strong class="changes">Kütuste tehnoloogia</strong>\\<br />&lt; <strong class="changes">[[RDPR06]] Energiatehnika</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">RDDR08</strong>]] <strong class="changes">Tootmise automatiseerimine</strong>\\<br />&gt; \\</p></div>

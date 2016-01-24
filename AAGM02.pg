@@ -1,22 +1,20 @@
-flags: 
-minor: 1
-revision: 2
-diff-major: 
-keep-ts: 1408885548
-ts: 1408885548
-ip: 89.235.235.166
 text: <include "AAGM02-09">
 	
 	<include "AAGM02-02">
 	
 	
 	
+summary: Автоматическое обновление (расписание)
+host: 89.235.223.25
+lastmajor: 1
+keep-ts: 1408885548
+diff-major: 
+revision: 2
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== AAGM02/09 - Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50042&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[AKM0259]] Allmaakaevandamine ja projekt\\<br />&lt; [[AKM0170]] Allmaarajatised\\<br />&lt; [[AKM0250]] Avakaevandamine ja projekt\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[AKG0100]] Geokeemia\\<br />&lt; [[AKG0140]] Geoloogia välipraktika\\<br />&lt; [[AKG0226]] Geomehaanika\\<br />&lt; [[AKM0263]] Geotehnoloogia tootmispraktika\\<br />&lt; [[AKG0223]] Hüdrogeoloogia\\<br />&lt; [[EKE3050]] Hüdroloogia ja vesiehitised\\<br />&lt; [[AKM0190]] Kaevandamiskeskkond ja ohutus\\<br />&lt; [[AKM0252]] Kaevandatud alade kasutamine\\<br />&lt; [[ETG3730]] Kaevandusgeodeesia\\<br />&lt; [[ETG3732]] Kaevandusgeodeesia - ainetöö\\<br />&lt; [[ETG3733]] Kaevandusgeodeesia - õppepraktika\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[AKG0180]] Kvaternaarigeoloogia\\<br />&lt; [[AKM0200]] Mäekonstruktsioonid\\<br />&lt; [[AKM0258]] Mäemajandus ja projekt\\<br />&lt; [[AKM0050]] Mäeõiguse alused\\<br />&lt; [[AKG0130]] Rakendusgeoloogia - projekt\\<br />&lt; [[AKG0224]] Struktuurigeoloogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[YMR0120]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; ===</strong> AAGM02<strong class="changes">/02</strong> - <strong class="changes">Geotehnoloogia [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=1236&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[AKM0091]] Allmaakaevandamine\\<br />&lt; [[AKM0092]] Allmaakaevandamine - projekt\\<br />&lt; [[AKM0181]] Avakaevandamine\\<br />&lt; [[AKM0182]] Avakaevandamine - projekt\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[AKG0100]] Geokeemia\\<br />&lt; [[AKG0080]] Geoloogia uurimismeetodid\\<br />&lt; [[AKG0140]] Geoloogia välipraktika\\<br />&lt; [[AKG0210]] Geomehaanika\\<br />&lt; [[AKG0190]] Geotektoonika\\<br />&lt; [[AKG0091]] Hüdrogeoloogia\\<br />&lt; [[AKG0092]] Hüdrogeoloogia - projekt\\<br />&lt; [[EKE3050]] Hüdroloogia ja vesiehitised\\<br />&lt; [[AKG0120]] Jäätmekäitluse geoloogiaaspektid\\<br />&lt; [[AKM0210]] Jäätmekäitluse mäenduslikud aspektid\\<br />&lt; [[EKV0041]] Jäätmekäitlus I\\<br />&lt; [[AKM0190]] Kaevandamiskeskkond ja ohutus\\<br />&lt; [[ETG3731]] Kaevandusgeodeesia\\<br />&lt; [[ETG3732]] Kaevandusgeodeesia - ainetöö\\<br />&lt; [[ETG3733]] Kaevandusgeodeesia - õppepraktika\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[AKG0180]] Kvaternaarigeoloogia\\<br />&lt; [[AKG0160]] Maardlate uuring\\<br />&lt; [[AKG0170]] Maastikugeokeemia\\<br />&lt; [[AKM0061]] Mäeettevõtte projekteerimine\\<br />&lt; [[AKM0062]] Mäeettevõtte projekteerimine - projekt\\<br />&lt; [[AKM0200]] Mäekonstruktsioonid\\<br />&lt; [[AKM0070]] Mäemajandus\\<br />&lt; [[AKM0041]] Mäendusanalüüs\\<br />&lt; [[AKM0042]] Mäendusanalüüs - ainetöö\\<br />&lt; [[AKM0050]] Mäeõiguse alused\\<br />&lt; [[AKM0080]] Mäetööstuse juhtimine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[EEG3430]] Pinnasemehaanika ja ehitusgeoloogia\\<br />&lt; [[AKG0130]] Rakendusgeoloogia</strong> - <strong class="changes">projekt\\<br />&lt; [[AKG0110]] Struktuurigeoloogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[YMR0110]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[AKM0032]] Tootmispraktika II\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>AAGM02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "AAGM02</strong>-<strong class="changes">02"&gt;</strong></p></div>
-languages: 
-blocks: 
-host: 89.235.223.25
-lastmajor: 1
-summary: Автоматическое обновление (расписание)
 username: Bot
+languages: 
+ip: 89.235.235.166
+ts: 1408885548

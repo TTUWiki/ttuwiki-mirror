@@ -1,17 +1,15 @@
-minor: 1
-revision: 4
-keep-ts: 1441924150
 username: AlexDaniel
-diff-major: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-ts: 1441924150
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPM02/09 - Informaatika Kava:50086</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPM02/09 - Informaatika <strong class="changes">[</strong>Kava:50086 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 languages: 
-flags: 
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924150
 text: == IAPM02/09 - Informaatika [Kava:50086 〔Õppekava ÕIS-is〕]
 	[[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[ITI8590]] Algoritmide ja andmestruktuuride erikursus

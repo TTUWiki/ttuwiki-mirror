@@ -1,11 +1,11 @@
-ts: 1441924150
-username: AlexDaniel
-languages: 
 revision: 4
-blocks: 
-diff-major: 
-flags: 
-keep-ts: 1441924150
+languages: 
+ts: 1441924150
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia Kava:50179</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia <strong class="changes">[</strong>Kava:50179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
 text: == HVWM11/12 - Töö- ja organisatsioonipsühholoogia [Kava:50179 〔Õppekava ÕIS-is〕]
 	[[HPP8320]] Eetika ja väärtused töö- ja organisatsioonipsühholoogias
 	[[TMJ0110]] Ettevõtluse alused
@@ -37,9 +37,7 @@ text: == HVWM11/12 - Töö- ja organisatsioonipsühholoogia [Kava:50179 〔Õppe
 	[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad
 	
 	
+keep-ts: 1441924150
+diff-major: 
 host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia Kava:50179</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HVWM11/12 - Töö- ja organisatsioonipsühholoogia <strong class="changes">[</strong>Kava:50179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-minor: 1

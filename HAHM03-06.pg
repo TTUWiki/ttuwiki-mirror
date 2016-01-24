@@ -1,8 +1,7 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAHM03/06 - Haldusjuhtimine Kava:4179</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAHM03/06 - Haldusjuhtimine <strong class="changes">[</strong>Kava:4179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-revision: 4
+diff-major: 
+keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == HAHM03/06 - Haldusjuhtimine [Kava:4179 〔Õppekava ÕIS-is〕]
 	[[HHX1030]] Ainetöö
 	[[HHA5200]] Avalikkussuhted
@@ -52,12 +51,11 @@ text: == HAHM03/06 - Haldusjuhtimine [Kava:4179 〔Õppekava ÕIS-is〕]
 	[[HHA8740]] Valla- ja linnamajandus
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 ts: 1441924149
-host: 82.131.7.230
-diff-major: 
 languages: 
-minor: 1
 username: AlexDaniel
-keep-ts: 1441924149
-blocks: 
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAHM03/06 - Haldusjuhtimine Kava:4179</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAHM03/06 - Haldusjuhtimine <strong class="changes">[</strong>Kava:4179 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4

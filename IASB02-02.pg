@@ -1,10 +1,11 @@
-blocks: 
-ts: 1441924150
-host: 82.131.7.230
-diff-major: 
 revision: 4
+languages: 
+ts: 1441924150
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IASB02/02 - Arvutisüsteemid Kava:1047</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IASB02/02 - Arvutisüsteemid <strong class="changes">[</strong>Kava:1047 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
-flags: 
 text: == IASB02/02 - Arvutisüsteemid [Kava:1047 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IAG0090]] Algoritmid ja andmestruktuurid
@@ -46,9 +47,6 @@ text: == IASB02/02 - Arvutisüsteemid [Kava:1047 〔Õppekava ÕIS-is〕]
 	
 	
 keep-ts: 1441924150
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IASB02/02 - Arvutisüsteemid Kava:1047</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IASB02/02 - Arvutisüsteemid <strong class="changes">[</strong>Kava:1047 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 

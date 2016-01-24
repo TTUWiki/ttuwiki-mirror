@@ -1,16 +1,14 @@
-minor: 1
-lastmajor: 2
-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-ip: 89.235.235.166
-host: 82.131.7.230
 languages: 
+ts: 1441924449
+ip: 89.235.235.166
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Ruumiline planeerimine
 	#SUBURL [Course:38655 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 keep-ts: 1441924449
-flags: 1
-blocks: [Course:38655 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

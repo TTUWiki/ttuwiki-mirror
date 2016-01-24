@@ -1,16 +1,16 @@
-username: AlexDaniel
-ip: 89.235.235.166
+minor: 1
 text: #SUBTITLE EL konkurentsiõigus ja -poliitika
 	#SUBURL [Course:101682 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:101682 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
-flags: 1
 keep-ts: 1441924446
+revision: 4
 languages: 
+blocks: [Course:101682 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
 host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+lastmajor: 2

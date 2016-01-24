@@ -1,16 +1,16 @@
-revision: 4
-blocks: [Course:103828 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-minor: 1
 flags: 1
-keep-ts: 1441924445
 text: #SUBTITLE Õhu konditsioneerimine ja jahutus
 	#SUBURL [Course:103828 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+host: 82.131.7.230
+blocks: [Course:103828 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+languages: 
+keep-ts: 1441924445
+username: AlexDaniel
 ip: 89.235.235.166

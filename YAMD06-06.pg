@@ -1,9 +1,14 @@
-diff-major: 
-minor: 1
-revision: 4
-ts: 1441924155
 username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAMD06/06 - Maa-teadused Kava:4016</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAMD06/06 - Maa-teadused <strong class="changes">[</strong>Kava:4016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924155
 languages: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
 keep-ts: 1441924155
 text: == YAMD06/06 - Maa-teadused [Kava:4016 〔Õppekava ÕIS-is〕]
 	[[NGG9070]] Ametipraktika
@@ -33,10 +38,3 @@ text: == YAMD06/06 - Maa-teadused [Kava:4016 〔Õppekava ÕIS-is〕]
 	[[NSO9010]] Veeteaduste alused
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-flags: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAMD06/06 - Maa-teadused Kava:4016</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAMD06/06 - Maa-teadused <strong class="changes">[</strong>Kava:4016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-host: 82.131.7.230

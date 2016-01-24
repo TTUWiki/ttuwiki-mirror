@@ -1,8 +1,3 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
-languages: 
-ts: 1441924150
-diff-major: 
 text: == IATM02/14 - Telekommunikatsioon [Kava:50246 〔Õppekava ÕIS-is〕]
 	[[IRZ0090]] Adaptiivne signaalitöötlus
 	[[ITV8060]] Arvutivõrkude turvalisus
@@ -40,12 +35,15 @@ text: == IATM02/14 - Telekommunikatsioon [Kava:50246 〔Õppekava ÕIS-is〕]
 	[[ITV0120]] Võrgurakendused II
 	
 	
-revision: 4
-username: AlexDaniel
+diff-major: 
 keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+ts: 1441924150
+languages: 
+username: AlexDaniel
 minor: 1
-blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IATM02/14 - Telekommunikatsioon Kava:50246</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IATM02/14 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50246 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

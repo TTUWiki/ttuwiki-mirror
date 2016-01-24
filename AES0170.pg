@@ -1,16 +1,14 @@
-languages: 
-host: 82.131.7.230
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
 text: #SUBTITLE Lühised - ainetöö
 	#SUBURL [Course:39560 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-lastmajor: 2
-revision: 4
 keep-ts: 1441924444
-blocks: [Course:39560 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 
 ip: 89.235.235.166
+ts: 1441924444
+minor: 1
+username: AlexDaniel

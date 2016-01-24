@@ -1,17 +1,3 @@
-revision: 4
-flags: 
-minor: 1
-username: AlexDaniel
-languages: 
-blocks: 
-keep-ts: 1441924152
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924152
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MATM02/09 - Tootearendus ja tootmistehnika Kava:50014</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MATM02/09 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:50014 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
 text: == MATM02/09 - Tootearendus ja tootmistehnika [Kava:50014 〔Õppekava ÕIS-is〕]
 	[[MER0100]] Arendustöö ja innovatsioon
 	[[MEA5681]] Autod I
@@ -64,3 +50,15 @@ text: == MATM02/09 - Tootearendus ja tootmistehnika [Kava:50014 〔Õppekava ÕI
 	[[MEA3370]] Varud ja ladustamine
 	
 	
+keep-ts: 1441924152
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+languages: 
+ts: 1441924152
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MATM02/09 - Tootearendus ja tootmistehnika Kava:50014</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MATM02/09 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:50014 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel

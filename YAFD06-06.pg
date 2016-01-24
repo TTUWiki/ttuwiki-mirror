@@ -1,10 +1,11 @@
-blocks: 
 revision: 4
-diff-major: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924154
+languages: 
 username: AlexDaniel
-keep-ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFD06/06 - Tehniline füüsika Kava:4100</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFD06/06 - Tehniline füüsika <strong class="changes">[</strong>Kava:4100 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 text: == YAFD06/06 - Tehniline füüsika [Kava:4100 〔Õppekava ÕIS-is〕]
 	[[YFX9020]] Ametipraktika
 	[[YMR9020]] Arvutusmeetodid
@@ -49,10 +50,7 @@ text: == YAFD06/06 - Tehniline füüsika [Kava:4100 〔Õppekava ÕIS-is〕]
 	[[YMR9030]] Variatsioonmeetodid
 	
 	
-ts: 1441924154
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFD06/06 - Tehniline füüsika Kava:4100</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFD06/06 - Tehniline füüsika <strong class="changes">[</strong>Kava:4100 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-languages: 
-minor: 1
+diff-major: 
+keep-ts: 1441924154
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

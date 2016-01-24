@@ -1,6 +1,3 @@
-languages: 
-keep-ts: 1441924154
-username: AlexDaniel
 text: == VDMR14/14 - Laeva jõuseadmed [Kava:50273 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
@@ -111,13 +108,14 @@ text: == VDMR14/14 - Laeva jõuseadmed [Kava:50273 〔Õppekava ÕIS-is〕]
 	
 	
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-ts: 1441924154
+host: 82.131.7.230
+keep-ts: 1441924154
+diff-major: 
 revision: 5
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDMR14/14 - Laeva jõuseadmed Kava:50273</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDMR14/14 - Laeva jõuseadmed <strong class="changes">[</strong>Kava:50273 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-host: 82.131.7.230
-diff-major: 
 minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924154

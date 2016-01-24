@@ -1,14 +1,12 @@
-ts: 1441924449
-languages: 
-revision: 2
-minor: 1
 text: #SUBTITLE Küberturbe põhialused ja juhtimine
 	#SUBURL [Course:106879 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-username: AlexDaniel
 keep-ts: 1441924449
-host: 82.131.7.230
-blocks: [Course:106879 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 2
+languages: 
+ts: 1441924449
+minor: 1
+username: AlexDaniel

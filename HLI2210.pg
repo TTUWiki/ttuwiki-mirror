@@ -1,16 +1,16 @@
-minor: 1
-blocks: [Course:37208 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
+ts: 1441924446
 lastmajor: 2
+host: 82.131.7.230
+minor: 1
 revision: 4
+languages: 
 text: #SUBTITLE Eesti keel ja kultuur
 	#SUBURL [Course:37208 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924446
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924446
-languages: 
+blocks: [Course:37208 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 1
+ip: 89.235.235.166

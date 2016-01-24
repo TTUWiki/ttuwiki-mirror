@@ -1,14 +1,13 @@
-host: 82.131.7.230
-revision: 5
+username: AlexDaniel
 minor: 1
-flags: 
-languages: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEI13/13 - Ehitus Kava:50213</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEI13/13 - Ehitus <strong class="changes">[</strong>Kava:50213 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 ts: 1441924152
-username: AlexDaniel
+languages: 
+revision: 5
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-major: 
 keep-ts: 1441924152
 text: == NAEI13/13 - Ehitus [Kava:50213 〔Õppekava ÕIS-is〕]
@@ -102,4 +101,3 @@ text: == NAEI13/13 - Ehitus [Kava:50213 〔Õppekava ÕIS-is〕]
 	[[NTS0591]] Vundamendid
 	
 	
-blocks: 

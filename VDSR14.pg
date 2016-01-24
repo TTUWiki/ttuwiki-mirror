@@ -1,5 +1,3 @@
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "VDSR14-15"&gt;</p></div>
 text: <include "VDSR14-15">
 	
 	<include "VDSR14-14EMERA">
@@ -8,14 +6,14 @@ text: <include "VDSR14-15">
 	
 	
 	
-keep-ts: 1438887215
-username: Bot
-blocks: 
-host: 85.253.110.44
-summary: Автоматическое обновление
 diff-major: 
-languages: 
+keep-ts: 1438887215
+summary: Автоматическое обновление
+host: 85.253.110.44
 revision: 3
-minor: 1
-flags: 
 ts: 1438887215
+languages: 
+username: Bot
+minor: 1
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "VDSR14-15"&gt;</p></div>

@@ -1,3 +1,4 @@
+keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 text: #SUBTITLE Laevade kommertsekspluatatsioon
@@ -5,10 +6,7 @@ text: #SUBTITLE Laevade kommertsekspluatatsioon
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924452
-keep-ts: 1441924452
 languages: 
 username: AlexDaniel
-flags: 1
 minor: 1
 revision: 2
-blocks: [Course:109033 〔Õppeaine ÕIS-is〕]

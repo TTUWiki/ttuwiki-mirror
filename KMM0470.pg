@@ -1,14 +1,12 @@
+revision: 2
+ts: 1441924447
+languages: 
 username: AlexDaniel
-blocks: [Course:110088 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
 minor: 1
-flags: 1
-host: 82.131.7.230
 text: #SUBTITLE Puidu-, tekstiili- ja plastijäätmete ringlussevõtt ja energiakasutus
 	#SUBURL [Course:110088 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924447
+keep-ts: 1441924447
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 2

@@ -1,13 +1,11 @@
-username: AlexDaniel
 revision: 5
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAGM09/11 - Tehnoloogia valitsemine Kava:50168</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAGM09/11 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50168 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
-blocks: 
-flags: 
-diff-major: 
+minor: 1
+ts: 1441924149
+languages: 
 text: == HAGM09/11 - Tehnoloogia valitsemine [Kava:50168 〔Õppekava ÕIS-is〕]
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
 	[[HHI0022]] Äri eripärad ELis, Venemaal ja idapartnerlusriikides
@@ -42,7 +40,7 @@ text: == HAGM09/11 - Tehnoloogia valitsemine [Kava:50168 〔Õppekava ÕIS-is〕
 	[[HHI0020]] Venemaa majandus
 	
 	
-minor: 1
-languages: 
-ts: 1441924149
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924149

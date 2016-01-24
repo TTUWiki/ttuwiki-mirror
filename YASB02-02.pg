@@ -1,17 +1,15 @@
-ts: 1441924155
-host: 82.131.7.230
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924155
-blocks: 
-username: AlexDaniel
-minor: 1
-languages: 
-diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YASB02/02 - Rakenduskeemia ja biotehnoloogia Kava:950</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YASB02/02 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:950 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924155
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924155
+diff-major: 
 text: == YASB02/02 - Rakenduskeemia ja biotehnoloogia [Kava:950 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0010]] Analüütiline keemia

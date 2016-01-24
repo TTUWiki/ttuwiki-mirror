@@ -1,16 +1,16 @@
-revision: 4
+ts: 1441924447
+keep-ts: 1441924447
+languages: 
+minor: 1
 username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Statistilise raadiotehnika erikursus
 	#SUBURL [Course:32806 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-ts: 1441924447
-minor: 1
-host: 82.131.7.230
-ip: 89.235.235.166
 blocks: [Course:32806 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
 flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4

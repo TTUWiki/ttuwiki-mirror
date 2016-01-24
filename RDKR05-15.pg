@@ -53,17 +53,15 @@ text: == RDKR05/15 - Kütuste tehnoloogia [Kava:50317 〔Õppekava ÕIS-is〕]
 	[[RAH0740]] Väljendusõpetus
 	
 	
-ts: 1441924153
-blocks: 
-languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 diff-major: 
-flags: 
 keep-ts: 1441924153
+revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDKR05/15 - Kütuste tehnoloogia Kava:50317</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDKR05/15 - Kütuste tehnoloogia <strong class="changes">[</strong>Kava:50317 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-username: AlexDaniel
-host: 82.131.7.230
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924153
+languages: 

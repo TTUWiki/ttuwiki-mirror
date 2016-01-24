@@ -1,16 +1,14 @@
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924452
-flags: 1
-revision: 4
-username: AlexDaniel
-lastmajor: 2
+ts: 1441924452
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
 minor: 1
+revision: 4
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Meditsiiniline keemia
 	#SUBURL [Course:36888 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924452
-blocks: [Course:36888 〔Õppeaine ÕIS-is〕]

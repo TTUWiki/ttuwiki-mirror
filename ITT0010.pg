@@ -1,16 +1,16 @@
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:31238 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-minor: 1
-revision: 4
 text: #SUBTITLE Teoreetiline informaatika
 	#SUBURL [Course:31238 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+keep-ts: 1441924447
+lastmajor: 2
+blocks: [Course:31238 〔Õppeaine ÕIS-is〕]
+flags: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 ts: 1441924447
+username: AlexDaniel
+languages: 
+minor: 1
 ip: 89.235.235.166

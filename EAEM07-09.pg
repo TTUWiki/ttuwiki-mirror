@@ -50,17 +50,15 @@ text: == EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-i
 	[[EEK0071]] Vundamendid
 	
 	
-revision: 4
-diff-major: 
-keep-ts: 1441924149
 host: 82.131.7.230
-languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924149
+diff-major: 
+revision: 4
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEM07/09 - Tööstus- ja tsiviilehitus Kava:50106</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEM07/09 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50106 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924149
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
 username: AlexDaniel
-flags: 
+languages: 
+ts: 1441924149

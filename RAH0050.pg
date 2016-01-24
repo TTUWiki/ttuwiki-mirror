@@ -1,16 +1,14 @@
+revision: 4
+username: AlexDaniel
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Organisatsioonipsühholoogia
 	#SUBURL [Course:34191 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-ts: 1441924449
 lastmajor: 2
-languages: 
-flags: 1
-blocks: [Course:34191 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
-username: AlexDaniel

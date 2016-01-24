@@ -1,6 +1,3 @@
-diff-major: 
-revision: 4
-flags: 
 text: == MASM02/02 - Soojusenergeetika [Kava:728 〔Õppekava ÕIS-is〕]
 	[[MST0050]] Auru- ja gaasiturbiinid
 	[[YMR5720]] Diferentsiaalvõrrandid
@@ -31,14 +28,15 @@ text: == MASM02/02 - Soojusenergeetika [Kava:728 〔Õppekava ÕIS-is〕]
 	[[MSJ0111]] Tuumareaktorid
 	
 	
-minor: 1
-ts: 1441924152
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924152
+diff-major: 
+revision: 4
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MASM02/02 - Soojusenergeetika Kava:728</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MASM02/02 - Soojusenergeetika <strong class="changes">[</strong>Kava:728 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
 languages: 
-host: 82.131.7.230
-blocks: 
-keep-ts: 1441924152
+ts: 1441924152

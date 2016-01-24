@@ -1,16 +1,3 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-blocks: 
-host: 82.131.7.230
-keep-ts: 1441924153
-languages: 
-diff-major: 
-revision: 4
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TADD02/09 - Majandus Kava:50099</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TADD02/09 - Majandus <strong class="changes">[</strong>Kava:50099 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
 text: == TADD02/09 - Majandus [Kava:50099 〔Õppekava ÕIS-is〕]
 	[[TES9140]] Aegridade ökonomeetria
 	[[IDN9040]] Ärianalüüs ja andmekaevandamine: meetodid ja rakendused
@@ -59,4 +46,15 @@ text: == TADD02/09 - Majandus [Kava:50099 〔Õppekava ÕIS-is〕]
 	[[TSE9030]] Väikeriigid Euroopa Liidus
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924153
+revision: 4
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TADD02/09 - Majandus Kava:50099</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TADD02/09 - Majandus <strong class="changes">[</strong>Kava:50099 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924153
+languages: 

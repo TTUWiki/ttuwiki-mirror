@@ -1,16 +1,14 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-username: AlexDaniel
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-blocks: [Course:105450 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Geodeesia praktika
 	#SUBURL [Course:105450 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
-minor: 1
-flags: 1
 revision: 4
+username: AlexDaniel
+minor: 1
+ts: 1441924449
+ip: 89.235.235.166
+languages: 

@@ -1,16 +1,14 @@
+revision: 4
+languages: 
 ip: 89.235.235.166
-keep-ts: 1441924449
+ts: 1441924449
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Magistripraktika
 	#SUBURL [Course:39155 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-username: AlexDaniel
-minor: 1
-blocks: [Course:39155 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 lastmajor: 2
-ts: 1441924449
-revision: 4
-flags: 1
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

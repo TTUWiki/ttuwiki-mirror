@@ -50,17 +50,15 @@ text: == RDER02/09 - Masinaehitustehnoloogia [Kava:50039 〔Õppekava ÕIS-is〕
 	[[RAH0740]] Väljendusõpetus
 	
 	
-username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-keep-ts: 1441924152
-ts: 1441924152
 host: 82.131.7.230
-blocks: 
-flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924152
+revision: 4
+username: AlexDaniel
 minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDER02/09 - Masinaehitustehnoloogia Kava:50039</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDER02/09 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:50039 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
 languages: 
-diff-major: 

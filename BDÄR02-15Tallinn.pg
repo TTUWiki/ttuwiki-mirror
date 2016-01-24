@@ -1,14 +1,3 @@
-revision: 4
-keep-ts: 1441924148
-host: 82.131.7.230
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus Kava:50286</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50286 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-minor: 1
-diff-major: 
-username: AlexDaniel
 text: == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus [Kava:50286 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU4710]] Ärikommunikatsioon
@@ -68,6 +57,15 @@ text: == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus [Kava:5028
 	[[BCU4160]] Vene keel
 	
 	
-ts: 1441924148
-flags: 
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924148
+diff-major: 
+revision: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus Kava:50286</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDÄR02/15Tallinn - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50286 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924148

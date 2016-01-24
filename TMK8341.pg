@@ -1,14 +1,14 @@
+username: AlexDaniel
 blocks: [Course:109974 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 1
 text: #SUBTITLE Tootmis- ja teeninduskorraldus
 	#SUBURL [Course:109974 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-revision: 2
-languages: 
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-host: 82.131.7.230
-minor: 1
 keep-ts: 1441924451
+host: 82.131.7.230
+ts: 1441924451
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2

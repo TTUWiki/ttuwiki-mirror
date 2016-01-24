@@ -1,14 +1,12 @@
-minor: 1
-ts: 1441924449
 text: #SUBTITLE Taastuvenergiate tehnoloogiad
 	#SUBURL [Course:109743 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924449
-blocks: [Course:109743 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-languages: 
 revision: 2
-flags: 1
+languages: 
+ts: 1441924449
+minor: 1
 username: AlexDaniel

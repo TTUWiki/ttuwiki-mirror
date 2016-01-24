@@ -1,20 +1,18 @@
-ip: 89.235.235.166
 languages: 
-keep-ts: 1408885672
+ts: 1408885672
+ip: 89.235.235.166
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== HVWM11/12 - Töö- ja organisatsioonipsühholoogia [http://ois.ttu.ee/portal/page?_pageid=35,428589</strong>&<strong class="changes">amp</strong>;<strong class="changes">_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50179&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HPP8320]] Eetika ja väärtused töö- ja organisatsioonipsühholoogias\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[HPP8520]] Grupiprotsessid ja meeskonna arendamine\\<br />&lt; [[HPP8370]] Hindamine ja mõõtmine töö- ja organisatsioonipsühholoogias\\<br />&lt; [[HPP8102]] Inimfaktor inseneriteaduses\\<br />&lt; [[HHP8202]] Juhtimispsühholoogia\\<br />&lt; [[HPP8440]] Kommunikatsiooni juhtimine organisatsioonis\\<br />&lt; [[HPP8340]] Konsulteerimis- ja nõustamisoskused\\<br />&lt; [[MHT0060]] Kvaliteedijuhtimine\\<br />&lt; [[HPP8115]] Majanduspsühholoogia\\<br />&lt; [[HPP8213]] Organisatsiooni areng ja innovatsioon\\<br />&lt; [[HPP8410]] Organisatsiooniteooria ja -psühholoogia\\<br />&lt; [[HPP8480]] Personali arendamine ja koolitus\\<br />&lt; [[HPP8460]] Personali planeerimine, valik ja hindamine\\<br />&lt; [[HPP8430]] Personalipsühholoogia alused\\<br />&lt; [[HPP8380]] Praktika\\<br />&lt; [[HPP8360]] Sekkumismeetodid ja hindamine\\<br />&lt; [[HPP8310]] Sissejuhatus töö-, organisatsiooni- ja personalipsühholoogiasse\\<br />&lt; [[HPP8540]] Tehnopsühholoogia\\<br />&lt; [[HPP8470]] Töö- ja organisatsioonipsühholoogia interventsioon\\<br />&lt; [[HPP8420]] Töö- ja tööstuspsühholoogia\\<br />&lt; [[HPP8510]] Töömotivatsioon\\<br />&lt; [[HPP8490]] Töötervishoid ja tööohutus\\<br />&lt; [[HPP8450]] Töötervishoiupsühholoogia ja tööelu kvaliteet\\<br />&lt; [[TTS1080]] Tööturuprotsessid ja -poliitika\\<br />&lt; [[HPP8550]] Uudsed uuringumeetodid töö</strong>- <strong class="changes">ja organisatsioonipsühholoogias\\<br />&lt; [[HPP8350]] Uurimismeetodid ja andmeanalüüs\\<br />&lt; [[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HVWM11</strong>-<strong class="changes">12"&gt;</strong></p></div>
-ts: 1408885672
-summary: Автоматическое обновление (расписание)
-lastmajor: 1
+username: Bot
 revision: 2
+keep-ts: 1408885672
 diff-major: 
-blocks: 
+summary: Автоматическое обновление (расписание)
+host: 89.235.223.25
+lastmajor: 1
 text: <include "HVWM11-12">
 	
 	
 	
-username: Bot
-flags: 
-minor: 1
-host: 89.235.223.25

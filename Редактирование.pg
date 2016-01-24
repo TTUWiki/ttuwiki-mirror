@@ -1,9 +1,12 @@
+revision: 3
+languages: 
+ts: 1444736839
+ip: 89.235.231.110
+lastmajorsummary: See Formatting page instead.
+minor: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
-host: 82.131.4.24
-minor: 
-keep-ts: 1444736839
-flags: 
+username: AlexDaniel
 text: DeletedPage
 	
 	=== Тестовая страница
@@ -42,13 +45,8 @@ text: DeletedPage
 	**Результат** смотрите, например, **на [[MSJ0120]]**.
 	
 	
-ts: 1444736839
-summary: See Formatting page instead.
-blocks: 
-username: AlexDaniel
-lastmajorsummary: See Formatting page instead.
-revision: 3
+keep-ts: 1444736839
 diff-major: 1
-ip: 89.235.231.110
-languages: 
+host: 82.131.4.24
+summary: See Formatting page instead.
 lastmajor: 3

@@ -1,12 +1,10 @@
-languages: 
-summary: Автоматическое обновление
-revision: 1
-username: Bot
 text: <include "YAEB14-15">
 	
 	
-minor: 1
-ts: 1438887447
-blocks: 
-flags: 
+summary: Автоматическое обновление
 host: 85.253.110.44
+revision: 1
+minor: 1
+username: Bot
+languages: 
+ts: 1438887447

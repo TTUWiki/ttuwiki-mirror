@@ -1,3 +1,7 @@
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924149
+diff-major: 
 text: == EAEI02/06 - Tööstus- ja tsiviilehitus [Kava:4078 〔Õppekava ÕIS-is〕]
 	[[NTK0040]] Akadeemiline võõrkeel
 	[[NTM0360]] Arhiivindus ja inventeerimine
@@ -85,17 +89,11 @@ text: == EAEI02/06 - Tööstus- ja tsiviilehitus [Kava:4078 〔Õppekava ÕIS-is
 	[[NTS0592]] Vundamendid - projekt
 	
 	
-ts: 1441924149
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEI02/06 - Tööstus- ja tsiviilehitus Kava:4078</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEI02/06 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:4078 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924149
-revision: 4
-languages: 
+minor: 1
 username: AlexDaniel
-flags: 
-diff-major: 
-host: 82.131.7.230
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+ts: 1441924149
+revision: 4

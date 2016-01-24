@@ -1,11 +1,15 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-flags: 
-username: AlexDaniel
+languages: 
+ts: 1441924152
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MASB02/15 - Soojusenergeetika Kava:50298</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MASB02/15 - Soojusenergeetika <strong class="changes">[</strong>Kava:50298 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+username: AlexDaniel
+revision: 4
+keep-ts: 1441924152
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == MASB02/15 - Soojusenergeetika [Kava:50298 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MHD0072]] Dünaamika
@@ -49,9 +53,3 @@ text: == MASB02/15 - Soojusenergeetika [Kava:50298 〔Õppekava ÕIS-is〕]
 	[[MHE0012]] Tugevusõpetus II
 	
 	
-host: 82.131.7.230
-languages: 
-ts: 1441924152
-revision: 4
-keep-ts: 1441924152
-diff-major: 

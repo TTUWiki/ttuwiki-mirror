@@ -1,16 +1,16 @@
-revision: 4
-lastmajor: 2
-flags: 1
-keep-ts: 1441924445
-blocks: [Course:106249 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-minor: 1
-languages: 
 ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+languages: 
+blocks: [Course:106249 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+ts: 1441924445
 text: #SUBTITLE Transpordiinfrastruktuuri planeerimise alused
 	#SUBURL [Course:106249 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+flags: 1
+lastmajor: 2

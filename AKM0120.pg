@@ -1,16 +1,16 @@
-flags: 1
-languages: 
-ts: 1441924444
-keep-ts: 1441924444
-host: 82.131.7.230
 lastmajor: 2
+languages: 
+flags: 1
+blocks: [Course:30298 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ts: 1441924444
 text: #SUBTITLE Lõhketööd
 	#SUBURL [Course:30298 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924444
 minor: 1
-blocks: [Course:30298 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,13 +1,3 @@
-diff-major: 
-flags: 
-blocks: 
-keep-ts: 1441924149
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAB02/09 - Avalik haldus ja riigiteadused Kava:50015</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAB02/09 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-ts: 1441924149
-minor: 1
 text: == HAAB02/09 - Avalik haldus ja riigiteadused [Kava:50015 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HHL0170]] Avalik eetika
@@ -51,6 +41,14 @@ text: == HAAB02/09 - Avalik haldus ja riigiteadused [Kava:50015 〔Õppekava ÕI
 	
 	
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-revision: 5
 host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924149
+revision: 5
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAB02/09 - Avalik haldus ja riigiteadused Kava:50015</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAB02/09 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924149
+languages: 

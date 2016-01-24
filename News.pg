@@ -1,13 +1,11 @@
-flags: 
-blocks: 
-host: 82.131.4.24
-lastmajorsummary: Moved
-revision: 1
 lastmajor: 1
-ts: 1444779775
+host: 82.131.4.24
+summary: Moved
 text: <Journal 10 "^Новость_\d+">
 	
 username: AlexDaniel
-languages: 
 minor: 
-summary: Moved
+lastmajorsummary: Moved
+ts: 1444779775
+languages: 
+revision: 1

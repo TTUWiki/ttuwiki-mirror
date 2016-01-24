@@ -1,16 +1,16 @@
-host: 82.131.7.230
-languages: 
-username: AlexDaniel
 blocks: [Course:33043 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924443
-revision: 4
-lastmajor: 2
 ip: 89.235.235.166
 text: #SUBTITLE Tööstussüsteemide juhtimine
 	#SUBURL [Course:33043 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
+ts: 1441924443
+username: AlexDaniel
+host: 82.131.7.230
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924443
+lastmajor: 2
 minor: 1
+revision: 4
+keep-ts: 1441924443

@@ -1,8 +1,3 @@
-username: AlexDaniel
-languages: 
-host: 82.131.7.230
-diff-major: 
-flags: 
 text: == RDBR06/06 - Hoonete ehitus [Kava:3974 〔Õppekava ÕIS-is〕]
 	[[RAR2061]] Arhitektuur
 	[[RAR2062]] Arhitektuur - projekt
@@ -67,12 +62,15 @@ text: == RDBR06/06 - Hoonete ehitus [Kava:3974 〔Õppekava ÕIS-is〕]
 	[[RAR2162]] Vundamendid - projekt
 	
 	
-blocks: 
-minor: 1
-keep-ts: 1441924152
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924152
+revision: 4
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDBR06/06 - Hoonete ehitus Kava:3974</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDBR06/06 - Hoonete ehitus <strong class="changes">[</strong>Kava:3974 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
 ts: 1441924152
+languages: 

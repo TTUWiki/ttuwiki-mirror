@@ -1,16 +1,14 @@
-keep-ts: 1441924444
-revision: 4
-languages: 
-ip: 89.235.235.166
 lastmajor: 2
-ts: 1441924444
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924444
 text: #SUBTITLE Raha ja pangandus
 	#SUBURL [Course:33385 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 minor: 1
-host: 82.131.7.230
-blocks: [Course:33385 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+ts: 1441924444
+ip: 89.235.235.166
+revision: 4

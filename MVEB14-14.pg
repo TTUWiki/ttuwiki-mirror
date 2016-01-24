@@ -1,16 +1,3 @@
-username: AlexDaniel
-keep-ts: 1441924152
-blocks: 
-ts: 1441924152
-host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MVEB14/14 - Integreeritud tehnoloogiad Kava:50256</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MVEB14/14 - Integreeritud tehnoloogiad <strong class="changes">[</strong>Kava:50256 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-languages: 
-minor: 1
 text: == MVEB14/14 - Integreeritud tehnoloogiad [Kava:50256 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MER0060]] APJ tootmisseadmete programmeerimine
@@ -55,4 +42,15 @@ text: == MVEB14/14 - Integreeritud tehnoloogiad [Kava:50256 〔Õppekava ÕIS-is
 	[[MHE0012]] Tugevusõpetus II
 	
 	
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924152
+diff-major: 
 revision: 4
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MVEB14/14 - Integreeritud tehnoloogiad Kava:50256</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MVEB14/14 - Integreeritud tehnoloogiad <strong class="changes">[</strong>Kava:50256 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+languages: 
+ts: 1441924152

@@ -1,7 +1,3 @@
-revision: 3
-flags: 
-summary: Автоматическое обновление
-lastmajor: 1
 text: <include "HAAB02-15">
 	
 	<include "HAAB02-11">
@@ -16,14 +12,16 @@ text: <include "HAAB02-15">
 	
 	
 	
-keep-ts: 1438886329
-blocks: 
+summary: Автоматическое обновление
 host: 85.253.110.44
-ip: 89.235.235.166
-ts: 1438886329
+lastmajor: 1
 diff-major: 
-languages: 
+keep-ts: 1438886329
+revision: 3
+username: Bot
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "HAAB02-15"&gt;</p></div>
 minor: 1
-username: Bot
+ts: 1438886329
+ip: 89.235.235.166
+languages: 

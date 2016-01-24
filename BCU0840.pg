@@ -2,15 +2,13 @@ text: #SUBTITLE Eelarvestus
 	#SUBURL [Course:33616 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-ts: 1441924444
-lastmajor: 2
-flags: 1
-minor: 1
-languages: 
-blocks: [Course:33616 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 keep-ts: 1441924444
+revision: 4
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+ts: 1441924444
+languages: 

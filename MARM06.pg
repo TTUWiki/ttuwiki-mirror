@@ -1,5 +1,8 @@
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "MARM06-15"&gt;</p></div>
+summary: Автоматическое обновление
+host: 85.253.110.44
+lastmajor: 1
+diff-major: 
+keep-ts: 1438886440
 text: <include "MARM06-15">
 	
 	<include "MARM06-09">
@@ -8,16 +11,11 @@ text: <include "MARM06-15">
 	
 	
 	
-languages: 
-ip: 89.235.235.166
-summary: Автоматическое обновление
-revision: 3
-blocks: 
-keep-ts: 1438886440
-diff-major: 
-flags: 
-host: 85.253.110.44
 username: Bot
-ts: 1438886440
 minor: 1
-lastmajor: 1
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "MARM06-15"&gt;</p></div>
+ip: 89.235.235.166
+ts: 1438886440
+languages: 
+revision: 3

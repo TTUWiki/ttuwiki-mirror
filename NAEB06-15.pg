@@ -1,12 +1,15 @@
+ts: 1441924152
+languages: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAEB06/15 - Keskkonnajuhtimine Kava:50290</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAEB06/15 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:50290 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-languages: 
-host: 82.131.7.230
 revision: 4
-minor: 1
 diff-major: 
+keep-ts: 1441924152
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == NAEB06/15 - Keskkonnajuhtimine [Kava:50290 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTS0341]] Arvutigraafika I
@@ -60,8 +63,3 @@ text: == NAEB06/15 - Keskkonnajuhtimine [Kava:50290 〔Õppekava ÕIS-is〕]
 	[[NTK1180]] Üliõpilastööde koostamise põhimõtted
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924152
-keep-ts: 1441924152
-blocks: 
-username: AlexDaniel

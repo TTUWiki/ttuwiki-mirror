@@ -1,16 +1,16 @@
+minor: 1
+ts: 1441924450
+ip: 89.235.235.166
+keep-ts: 1441924450
+username: AlexDaniel
+blocks: [Course:106008 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tuletisväärtpaberid
 	#SUBURL [Course:106008 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-revision: 4
-blocks: [Course:106008 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-lastmajor: 2
-ip: 89.235.235.166
 host: 82.131.7.230
-username: AlexDaniel
-flags: 1
-minor: 1
 languages: 
+flags: 1
+revision: 4
+lastmajor: 2

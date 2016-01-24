@@ -1,14 +1,12 @@
-flags: 1
-languages: 
-ts: 1441924444
+keep-ts: 1441924444
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Inimressursi juhtimine
 	#SUBURL [Course:109390 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-blocks: [Course:109390 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+languages: 
+ts: 1441924444
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924444
+username: AlexDaniel
+revision: 2

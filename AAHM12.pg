@@ -1,20 +1,18 @@
-ip: 89.235.235.166
 revision: 2
-blocks: 
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">=== AAHM12/13 - Hajaenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50182</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[MER0100]] Arendustöö ja innovatsioon\\<br />&lt; [[VL.0811]] Biogaasi tootmine\\<br />&lt; [[MI.0408]] Biomassi kasutamise ruumiline planeerimine\\<br />&lt; [[MSE0270]] Biomassi termokeemiline muundamine\\<br />&lt; [[AES0250]] Elektrienergia hajatootmine\\<br />&lt; [[AEK8141]] Elektriseadmed ja -edastus\\<br />&lt; [[AES0150]] Elektriturg\\<br />&lt; [[AAV0160]] Elektrivarustuse tulevikuvisioonid\\<br />&lt; [[AAV0180]] Energiasalvestid\\<br />&lt; [[AES3136]] Energiasüsteemide ökonoomika\\<br />&lt; [[AES0200]] Energiasüsteemi strateegiline arendamine\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[AES0360]] Hajaenergeetika investeeringute hindamine - projekt\\<br />&lt; [[MSE0280]] Hajaenergeetika planeerimine\\<br />&lt; [[MSE0260]] Hajaobjekti projekt\\<br />&lt; [[AES0370]] Hajatootmise ühendamine elektrivõrguga\\<br />&lt; [[MSE0290]] Jätkusuutlikud energiatehnoloogiad\\<br />&lt; [[KYF0250]] Jätkusuutliku energeetika põhialused\\<br />&lt; [[MSE0310]] Mikro</strong>- <strong class="changes">ja väike koostootmine\\<br />&lt; [[PK.1533]] Põllumajandusliku biomassi ressursid taastuvenergia tootmiseks\\<br />&lt; [[MSE0300]] Praktika\\<br />&lt; [[MI.0041]] Puitkütuste ressurss ja tootmistehnoloogiad\\<br />&lt; [[MI.0118]] Ruumilise analüüsi alused\\<br />&lt; [[MSJ0120]] Soojuspumbad\\<br />&lt; [[MSJ0310]] Soojustehnika teoreetilised alused\\<br />&lt; [[AEK0060]] Tuuleenergeetika\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "AAHM12</strong>-<strong class="changes">13"&gt;</strong></p></div>
+minor: 1
+username: Bot
+languages: 
+ip: 89.235.235.166
+ts: 1408885551
 text: <include "AAHM12-13">
 	
 	
 	
-ts: 1408885551
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">=== AAHM12/13 - Hajaenergeetika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=50182</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[MER0100]] Arendustöö ja innovatsioon\\<br />&lt; [[VL.0811]] Biogaasi tootmine\\<br />&lt; [[MI.0408]] Biomassi kasutamise ruumiline planeerimine\\<br />&lt; [[MSE0270]] Biomassi termokeemiline muundamine\\<br />&lt; [[AES0250]] Elektrienergia hajatootmine\\<br />&lt; [[AEK8141]] Elektriseadmed ja -edastus\\<br />&lt; [[AES0150]] Elektriturg\\<br />&lt; [[AAV0160]] Elektrivarustuse tulevikuvisioonid\\<br />&lt; [[AAV0180]] Energiasalvestid\\<br />&lt; [[AES3136]] Energiasüsteemide ökonoomika\\<br />&lt; [[AES0200]] Energiasüsteemi strateegiline arendamine\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[AES0360]] Hajaenergeetika investeeringute hindamine - projekt\\<br />&lt; [[MSE0280]] Hajaenergeetika planeerimine\\<br />&lt; [[MSE0260]] Hajaobjekti projekt\\<br />&lt; [[AES0370]] Hajatootmise ühendamine elektrivõrguga\\<br />&lt; [[MSE0290]] Jätkusuutlikud energiatehnoloogiad\\<br />&lt; [[KYF0250]] Jätkusuutliku energeetika põhialused\\<br />&lt; [[MSE0310]] Mikro</strong>- <strong class="changes">ja väike koostootmine\\<br />&lt; [[PK.1533]] Põllumajandusliku biomassi ressursid taastuvenergia tootmiseks\\<br />&lt; [[MSE0300]] Praktika\\<br />&lt; [[MI.0041]] Puitkütuste ressurss ja tootmistehnoloogiad\\<br />&lt; [[MI.0118]] Ruumilise analüüsi alused\\<br />&lt; [[MSJ0120]] Soojuspumbad\\<br />&lt; [[MSJ0310]] Soojustehnika teoreetilised alused\\<br />&lt; [[AEK0060]] Tuuleenergeetika\\</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "AAHM12</strong>-<strong class="changes">13"&gt;</strong></p></div>
-username: Bot
-summary: Автоматическое обновление (расписание)
 host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
 lastmajor: 1
-flags: 
-languages: 
-minor: 1
 keep-ts: 1408885551
+diff-major: 

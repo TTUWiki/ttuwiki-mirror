@@ -1,16 +1,14 @@
+keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-flags: 1
+lastmajor: 2
 text: #SUBTITLE Sissejuhatus politoloogiasse
 	#SUBURL [Course:102215 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924451
-blocks: [Course:102215 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 ts: 1441924451
-revision: 4
+ip: 89.235.235.166
 languages: 
-lastmajor: 2
+username: AlexDaniel
+minor: 1
+revision: 4

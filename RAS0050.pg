@@ -1,16 +1,8 @@
-revision: 5
 lastmajor: 5
-languages: 
-blocks: [Course:105564 〔Õppeaine ÕIS-is〕]
-ts: 1444025546
-host: 86.110.37.246
-diff-major: 1
-lastmajorsummary: 
-minor: 
-ip: 89.235.235.166
-flags: 1
-username: Ain_Laidoja
 summary: 
+host: 86.110.37.246
+keep-ts: 1444025546
+diff-major: 1
 text: #SUBTITLE Kütuste klassifitseerimine ja standardimine
 	#SUBURL [Course:105564 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +11,13 @@ text: #SUBTITLE Kütuste klassifitseerimine ja standardimine
 	
 	[http://data.vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]
 	
-keep-ts: 1444025546
+minor: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]</strong></p></div>
+username: Ain_Laidoja
+languages: 
+lastmajorsummary: 
+ts: 1444025546
+ip: 89.235.235.166
+revision: 5

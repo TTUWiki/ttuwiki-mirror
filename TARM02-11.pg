@@ -1,12 +1,3 @@
-username: AlexDaniel
-keep-ts: 1441924153
-diff-major: 
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TARM02/11 - Ärirahandus ja majandusarvestus Kava:50171</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TARM02/11 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50171 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-revision: 4
 text: == TARM02/11 - Ärirahandus ja majandusarvestus [Kava:50171 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMO1091]] Äriühingute valitsemine
@@ -52,8 +43,15 @@ text: == TARM02/11 - Ärirahandus ja majandusarvestus [Kava:50171 〔Õppekava �
 	[[TER1498]] Võlakirjad ja turud
 	
 	
-ts: 1441924153
+diff-major: 
+keep-ts: 1441924153
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-languages: 
 host: 82.131.7.230
+revision: 4
+ts: 1441924153
+languages: 
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TARM02/11 - Ärirahandus ja majandusarvestus Kava:50171</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TARM02/11 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50171 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1

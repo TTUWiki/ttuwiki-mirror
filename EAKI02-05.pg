@@ -1,16 +1,15 @@
-languages: 
-revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAKI02/05 - Keskkonnatehnika Kava:3737</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAKI02/05 - Keskkonnatehnika <strong class="changes">[</strong>Kava:3737 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
-blocks: 
 minor: 1
-keep-ts: 1441924149
-flags: 
-username: AlexDaniel
 ts: 1441924149
+languages: 
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924149
 text: == EAKI02/05 - Keskkonnatehnika [Kava:3737 〔Õppekava ÕIS-is〕]
 	[[NTK0040]] Akadeemiline võõrkeel
 	[[NTM0170]] Arhitektuuri üldkursus
@@ -125,4 +124,3 @@ text: == EAKI02/05 - Keskkonnatehnika [Kava:3737 〔Õppekava ÕIS-is〕]
 	[[NTM0112]] Visuaalne kommunikatsioon II
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,3 +1,9 @@
+revision: 1
+minor: 
+username: AlexDaniel
+languages: 
+lastmajorsummary: Moved
+ts: 1444780311
 text: #ENG
 	You can **[[Ask|ask your own question]]**.
 	#RUS
@@ -7,14 +13,6 @@ text: #ENG
 	\\
 	<Journal 10 "^Вопрос_\d+">
 	
-revision: 1
-username: AlexDaniel
 lastmajor: 1
-ts: 1444780311
-host: 82.131.4.24
-flags: 
-lastmajorsummary: Moved
-blocks: 
 summary: Moved
-minor: 
-languages: 
+host: 82.131.4.24

@@ -1,14 +1,12 @@
-username: AlexDaniel
-blocks: [Course:109124 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924452
-flags: 1
 minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924452
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 keep-ts: 1441924452
 text: #SUBTITLE Kalatoodete tehnoloogia baaskurus
 	#SUBURL [Course:109124 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 

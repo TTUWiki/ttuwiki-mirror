@@ -1,16 +1,14 @@
-diff-minor: 
-languages: 
-host: 85.253.110.44
+revision: 2
 username: Bot
-summary: Автоматическое обновление
+diff-minor: 
 minor: 1
+ts: 1438887426
+languages: 
 text: <include "VAAM15-15">
 	
 	
 	
-ts: 1438887426
-keep-ts: 1438887426
-revision: 2
+summary: Автоматическое обновление
+host: 85.253.110.44
 diff-major: 
-flags: 
-blocks: 
+keep-ts: 1438887426

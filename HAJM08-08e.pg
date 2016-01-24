@@ -1,9 +1,7 @@
-revision: 4
 keep-ts: 1441924150
-host: 82.131.7.230
-flags: 
-ts: 1441924150
 diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAJM08/08e - Õigusteadus [Kava:50130 〔Õppekava ÕIS-is〕]
 	[[HOA7005]] Avaliku õiguse eriseminar
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
@@ -44,10 +42,10 @@ text: == HAJM08/08e - Õigusteadus [Kava:50130 〔Õppekava ÕIS-is〕]
 	
 	
 languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924150
 minor: 1
-username: AlexDaniel
-blocks: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAJM08/08e - Õigusteadus Kava:50130</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAJM08/08e - Õigusteadus <strong class="changes">[</strong>Kava:50130 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+revision: 4

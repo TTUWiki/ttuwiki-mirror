@@ -1,6 +1,15 @@
-ts: 1441924150
+username: AlexDaniel
 minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAEM02/09 - Elektroonika ja bioonika Kava:50070</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAEM02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50070 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
 languages: 
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924150
 text: == IAEM02/09 - Elektroonika ja bioonika [Kava:50070 〔Õppekava ÕIS-is〕]
 	[[IEM0030]] Andmehõivesüsteemid
 	[[IEM0240]] Biomeditsiinielektroonika
@@ -27,14 +36,3 @@ text: == IAEM02/09 - Elektroonika ja bioonika [Kava:50070 〔Õppekava ÕIS-is�
 	[[IEM0270]] Test ja diagnostika elektroonikas
 	
 	
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAEM02/09 - Elektroonika ja bioonika Kava:50070</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAEM02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50070 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-host: 82.131.7.230
-flags: 
-keep-ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-diff-major: 
-revision: 4

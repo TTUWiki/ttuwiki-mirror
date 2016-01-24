@@ -1,14 +1,12 @@
-minor: 1
-languages: 
+keep-ts: 1441924452
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kala esmakäitlemine ja kalakaubandus
 	#SUBURL [Course:110177 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924452
-keep-ts: 1441924452
+languages: 
 username: AlexDaniel
+minor: 1
 revision: 2
-host: 82.131.7.230
-blocks: [Course:110177 〔Õppeaine ÕIS-is〕]
-flags: 1

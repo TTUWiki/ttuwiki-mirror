@@ -1,21 +1,19 @@
 diff-major: 
-lastmajor: 1
-blocks: 
-minor: 1
-username: Bot
-flags: 
 keep-ts: 1438886461
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "MVEB14-15"&gt;</p></div>
-ts: 1438886461
 summary: Автоматическое обновление
 host: 85.253.110.44
+lastmajor: 1
 text: <include "MVEB14-15">
 	
 	<include "MVEB14-14">
 	
 	
 	
+ts: 1438886461
 ip: 89.235.235.166
-revision: 3
 languages: 
+username: Bot
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "MVEB14-15"&gt;</p></div>
+minor: 1
+revision: 3

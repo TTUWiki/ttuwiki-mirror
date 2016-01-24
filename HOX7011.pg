@@ -1,16 +1,16 @@
-username: AlexDaniel
-ts: 1441924446
-keep-ts: 1441924446
-minor: 1
-lastmajor: 2
-blocks: [Course:101941 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus
 	#SUBURL [Course:101941 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
+minor: 1
+ts: 1441924446
+username: AlexDaniel
+blocks: [Course:101941 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+languages: 
+keep-ts: 1441924446
+lastmajor: 2

@@ -1,7 +1,3 @@
-revision: 4
-summary: Moved to Template
-username: AlexDaniel
-languages: 
 text: DeletedPage
 	
 	При создании новых страниц можно воспользоваться данным шаблоном:
@@ -22,11 +18,13 @@ text: DeletedPage
 	
 	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
 	
-minor: 
-host: 82.131.4.24
-keep-ts: 1444779810
-lastmajorsummary: Moved to Template
 lastmajor: 4
+host: 82.131.4.24
+summary: Moved to Template
+keep-ts: 1444779810
+revision: 4
+username: AlexDaniel
+minor: 
+lastmajorsummary: Moved to Template
 ts: 1444779810
-flags: 
-blocks: 
+languages: 

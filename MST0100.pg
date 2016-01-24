@@ -1,16 +1,16 @@
-lastmajor: 2
-languages: 
-blocks: [Course:31317 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
 text: #SUBTITLE Energeetikaseadmete metall ja konserveerimine
 	#SUBURL [Course:31317 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924448
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ip: 89.235.235.166
 username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+flags: 1
+blocks: [Course:31317 〔Õppeaine ÕIS-is〕]
+minor: 1
+keep-ts: 1441924448
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
+revision: 4

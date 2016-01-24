@@ -1,4 +1,3 @@
-username: AlexDaniel
 text: == TVTB03/03 - Rahvusvaheline ärikorraldus [Kava:1248 〔Õppekava ÕIS-is〕]
 	[[HLI2020]] Akadeemiline inglise keel
 	[[IDU2001]] Äriinfosüsteemid
@@ -39,16 +38,15 @@ text: == TVTB03/03 - Rahvusvaheline ärikorraldus [Kava:1248 〔Õppekava ÕIS-i
 	[[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)
 	
 	
-flags: 
+diff-major: 
+keep-ts: 1441924154
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+ts: 1441924154
+languages: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TVTB03/03 - Rahvusvaheline ärikorraldus Kava:1248</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TVTB03/03 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:1248 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
-host: 82.131.7.230
-keep-ts: 1441924154
-minor: 1
-ts: 1441924154
-revision: 4
-blocks: 
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

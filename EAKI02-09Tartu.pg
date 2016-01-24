@@ -1,3 +1,11 @@
+revision: 4
+ts: 1441924149
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAKI02/09Tartu - Keskkonnatehnika Kava:50095</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAKI02/09Tartu - Keskkonnatehnika <strong class="changes">[</strong>Kava:50095 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == EAKI02/09Tartu - Keskkonnatehnika [Kava:50095 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTK0740]] Arengumudelid
@@ -84,17 +92,7 @@ text: == EAKI02/09Tartu - Keskkonnatehnika [Kava:50095 〔Õppekava ÕIS-is〕]
 	[[NTM0112]] Visuaalne kommunikatsioon II
 	
 	
-languages: 
 diff-major: 
-username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAKI02/09Tartu - Keskkonnatehnika Kava:50095</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAKI02/09Tartu - Keskkonnatehnika <strong class="changes">[</strong>Kava:50095 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
-host: 82.131.7.230
-revision: 4
-flags: 
-minor: 1
-ts: 1441924149
 keep-ts: 1441924149
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,16 +1,14 @@
-revision: 2
-blocks: 
-minor: 1
+keep-ts: 1438887038
+diff-major: 
+summary: Автоматическое обновление
+host: 85.253.110.44
 text: <include "HALM15-15">
 	
 	
 	
-host: 85.253.110.44
-flags: 
-ts: 1438887038
-diff-minor: 
-summary: Автоматическое обновление
 languages: 
-keep-ts: 1438887038
-diff-major: 
+ts: 1438887038
+minor: 1
+diff-minor: 
 username: Bot
+revision: 2

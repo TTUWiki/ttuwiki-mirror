@@ -1,4 +1,15 @@
+languages: 
+ts: 1441924151
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IVEM11/11 - Elektroonika ja kommunikatsioon Kava:50164</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IVEM11/11 - Elektroonika ja kommunikatsioon <strong class="changes">[</strong>Kava:50164 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 username: AlexDaniel
+revision: 4
+keep-ts: 1441924151
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == IVEM11/11 - Elektroonika ja kommunikatsioon [Kava:50164 〔Õppekava ÕIS-is〕]
 	[[IED3010]] Analoog/digitaal skeemide disain
 	[[DBR0210]] Anatoomia ja füsioloogia
@@ -35,16 +46,3 @@ text: == IVEM11/11 - Elektroonika ja kommunikatsioon [Kava:50164 〔Õppekava Õ
 	[[IEM3020]] Test ja diagnostika
 	
 	
-ts: 1441924151
-keep-ts: 1441924151
-minor: 1
-languages: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IVEM11/11 - Elektroonika ja kommunikatsioon Kava:50164</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IVEM11/11 - Elektroonika ja kommunikatsioon <strong class="changes">[</strong>Kava:50164 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-diff-major: 
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-host: 82.131.7.230

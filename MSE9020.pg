@@ -1,16 +1,14 @@
+revision: 4
+ip: 89.235.235.166
+ts: 1441924448
+languages: 
+username: AlexDaniel
 minor: 1
 text: #SUBTITLE Soojusvarustussüsteemide optimeerimine
 	#SUBURL [Course:32742 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924448
-ip: 89.235.235.166
 keep-ts: 1441924448
-flags: 1
-revision: 4
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:32742 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

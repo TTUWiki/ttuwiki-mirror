@@ -1,5 +1,7 @@
-languages: 
-revision: 4
+diff-major: 
+keep-ts: 1441924155
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == YAMB11/11 - Maa-teadused [Kava:50174 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[YKA0011]] Analüütiline keemia
@@ -48,15 +50,11 @@ text: == YAMB11/11 - Maa-teadused [Kava:50174 〔Õppekava ÕIS-is〕]
 	[[NSO8021]] Üldine okeanograafia ja limnoloogia
 	
 	
-minor: 1
 ts: 1441924155
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAMB11/11 - Maa-teadused Kava:50174</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAMB11/11 - Maa-teadused <strong class="changes">[</strong>Kava:50174 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924155
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-blocks: 
-flags: 
-username: AlexDaniel
-host: 82.131.7.230
+minor: 1
+revision: 4

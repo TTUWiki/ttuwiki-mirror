@@ -1,16 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 blocks: [Course:34820 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1441924447
+ip: 89.235.235.166
+revision: 4
 keep-ts: 1441924447
+languages: 
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Keskkonnatehnoloogia
 	#SUBURL [Course:34820 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-host: 82.131.7.230
-ts: 1441924447
-revision: 4
-flags: 1
+lastmajor: 2

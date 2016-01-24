@@ -1,3 +1,7 @@
+keep-ts: 1441924154
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == VAAM15/15 - Merendus [Kava:50319 〔Õppekava ÕIS-is〕]
 	[[VME0110]] Ärilogistika
 	[[HLE6060]] Eesti keele väljendusõpetus
@@ -36,17 +40,11 @@ text: == VAAM15/15 - Merendus [Kava:50319 〔Õppekava ÕIS-is〕]
 	[[VME0230]] Tööpraktika ettevõttes või laeval
 	
 	
-host: 82.131.7.230
-diff-major: 
-blocks: 
-keep-ts: 1441924154
-ts: 1441924154
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
 languages: 
+ts: 1441924154
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VAAM15/15 - Merendus Kava:50319</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VAAM15/15 - Merendus <strong class="changes">[</strong>Kava:50319 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-minor: 1
+username: AlexDaniel
 revision: 4

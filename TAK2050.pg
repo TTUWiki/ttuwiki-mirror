@@ -1,16 +1,14 @@
+revision: 4
+username: AlexDaniel
+minor: 1
+ts: 1441924450
 ip: 89.235.235.166
 languages: 
-username: AlexDaniel
-flags: 1
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ts: 1441924450
-host: 82.131.7.230
-revision: 4
-blocks: [Course:106159 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Strateegiline juhtimisarvestus ja kulujuhtimine
 	#SUBURL [Course:106159 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450

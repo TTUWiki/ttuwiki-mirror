@@ -1,9 +1,15 @@
-minor: 1
-keep-ts: 1441924149
-revision: 5
 languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAB02/02 - Avalik haldus ja riigiteadused Kava:932</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAB02/02 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:932 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+revision: 5
+keep-ts: 1441924149
+diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAAB02/02 - Avalik haldus ja riigiteadused [Kava:932 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HHX0010]] Alusõppe ainetöö
@@ -49,11 +55,3 @@ text: == HAAB02/02 - Avalik haldus ja riigiteadused [Kava:932 〔Õppekava ÕIS-
 	[[HHR0060]] Väljendus- ja vaidlusõpetus
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAB02/02 - Avalik haldus ja riigiteadused Kava:932</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAB02/02 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:932 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-blocks: 
-host: 82.131.7.230
-flags: 
-diff-major: 

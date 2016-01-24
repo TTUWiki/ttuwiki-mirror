@@ -1,12 +1,3 @@
-minor: 1
-languages: 
-username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924149
-ts: 1441924149
-diff-major: 
-blocks: 
 text: == EAEI02/02 - Tööstus- ja tsiviilehitus [Kava:409 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[EEA0020]] Arhitektuur
@@ -125,8 +116,15 @@ text: == EAEI02/02 - Tööstus- ja tsiviilehitus [Kava:409 〔Õppekava ÕIS-is�
 	[[EEG3442]] Vundamendid - projekt
 	
 	
-flags: 
+diff-major: 
+keep-ts: 1441924149
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 revision: 4
+ts: 1441924149
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEI02/02 - Tööstus- ja tsiviilehitus Kava:409</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEI02/02 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:409 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1

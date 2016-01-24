@@ -1,13 +1,15 @@
-diff-major: 
-languages: 
-host: 82.131.7.230
-keep-ts: 1441924149
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EATM07/09 - Teedeehitus ja geodeesia Kava:50105</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EATM07/09 - Teedeehitus ja geodeesia <strong class="changes">[</strong>Kava:50105 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
-flags: 
+username: AlexDaniel
+languages: 
+ts: 1441924149
 revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924149
+diff-major: 
 text: == EATM07/09 - Teedeehitus ja geodeesia [Kava:50105 〔Õppekava ÕIS-is〕]
 	[[ETT0150]] Arvutikasutus teedeasjanduses
 	[[ETG0170]] Deformatsioonide uurimine
@@ -78,7 +80,3 @@ text: == EATM07/09 - Teedeehitus ja geodeesia [Kava:50105 〔Õppekava ÕIS-is�
 	[[ETG8410]] Vesiehitiste uuringud
 	
 	
-ts: 1441924149
-username: AlexDaniel
-minor: 1
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

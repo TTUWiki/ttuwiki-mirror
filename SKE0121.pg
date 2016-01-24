@@ -1,14 +1,12 @@
-languages: 
-blocks: [Course:109402 〔Õppeaine ÕIS-is〕]
-revision: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924450
-host: 82.131.7.230
-minor: 1
 text: #SUBTITLE Inglise ärikeel I
 	#SUBURL [Course:109402 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+revision: 2
+username: AlexDaniel
+minor: 1
+ts: 1441924450
+languages: 

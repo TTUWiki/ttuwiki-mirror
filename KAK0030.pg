@@ -1,16 +1,16 @@
-ts: 1441924447
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:29773 〔Õppeaine ÕIS-is〕]
+flags: 1
+languages: 
+username: AlexDaniel
 host: 82.131.7.230
+minor: 1
+revision: 4
 text: #SUBTITLE Keemiabilansid
 	#SUBURL [Course:29773 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29773 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
 keep-ts: 1441924447
-flags: 1
-revision: 4
-languages: 
-username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2

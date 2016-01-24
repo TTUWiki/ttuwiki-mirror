@@ -1,14 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+minor: 1
 host: 82.131.7.230
-keep-ts: 1441924451
-blocks: [Course:109971 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 1
 languages: 
-ts: 1441924451
+blocks: [Course:109971 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 text: #SUBTITLE Metodoloogia I
 	#SUBURL [Course:109971 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924451
 revision: 2
-minor: 1
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

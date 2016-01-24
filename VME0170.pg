@@ -1,14 +1,12 @@
-flags: 1
-keep-ts: 1441924452
 languages: 
+ts: 1441924452
+minor: 1
+username: AlexDaniel
 revision: 2
+keep-ts: 1441924452
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Laeva remondi organiseerimine ja planeerimine
 	#SUBURL [Course:109043 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-username: AlexDaniel
-ts: 1441924452
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109043 〔Õppeaine ÕIS-is〕]

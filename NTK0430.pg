@@ -1,16 +1,14 @@
-host: 82.131.7.230
 revision: 4
 languages: 
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-ts: 1441924449
-blocks: [Course:39095 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924449
+ts: 1441924449
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Tööstuslikud ökosüsteemid
 	#SUBURL [Course:39095 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924449
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

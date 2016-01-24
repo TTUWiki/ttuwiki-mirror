@@ -1,13 +1,15 @@
+ts: 1441924155
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YALD02/15 - Keemia ja geenitehnoloogia Kava:50297</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YALD02/15 - Keemia ja geenitehnoloogia <strong class="changes">[</strong>Kava:50297 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924155
+minor: 1
 revision: 3
-languages: 
 diff-major: 
+keep-ts: 1441924155
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-username: AlexDaniel
 text: == YALD02/15 - Keemia ja geenitehnoloogia [Kava:50297 〔Õppekava ÕIS-is〕]
 	[[YXX9041]] Ametipraktika
 	[[DBR0210]] Anatoomia ja füsioloogia
@@ -42,7 +44,3 @@ text: == YALD02/15 - Keemia ja geenitehnoloogia [Kava:50297 〔Õppekava ÕIS-is
 	[[HHF9030]] Teadusfilosoofia
 	[[HUP9010]] Teadus- ja hariduskorraldus
 	
-minor: 1
-keep-ts: 1441924155
-blocks: 
-flags: 

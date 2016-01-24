@@ -1,13 +1,7 @@
-flags: 1
-host: 82.131.7.230
-ts: 1441924447
-revision: 9
 blocks: [Course:107206 〔Õppeaine ÕIS-is〕]
 minor: 1
-ip: 82.131.48.5
-lastmajor: 8
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+revision: 9
+ts: 1441924447
 text: #SUBTITLE Erialatutvustus
 	#SUBURL [Course:107206 〔Õppeaine ÕIS-is〕]
 	
@@ -29,5 +23,11 @@ text: #SUBTITLE Erialatutvustus
 	-- Аноним 2014-02-28 10:14 UTC
 	
 	
-languages: 
+flags: 1
 keep-ts: 1441924447
+host: 82.131.7.230
+lastmajor: 8
+ip: 82.131.48.5
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

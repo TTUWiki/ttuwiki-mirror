@@ -1,16 +1,16 @@
-blocks: [Course:100665 〔Õppeaine ÕIS-is〕]
-languages: 
 minor: 1
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
-ip: 89.235.235.166
+lastmajor: 2
 revision: 4
+flags: 1
+keep-ts: 1441924452
 text: #SUBTITLE Anorgaaniline keemia I
 	#SUBURL [Course:100665 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924452
-keep-ts: 1441924452
+ip: 89.235.235.166
+username: AlexDaniel
 host: 82.131.7.230
+languages: 
+blocks: [Course:100665 〔Õppeaine ÕIS-is〕]

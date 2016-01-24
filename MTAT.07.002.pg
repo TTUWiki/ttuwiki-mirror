@@ -1,16 +1,14 @@
-keep-ts: 1441924448
-flags: 1
-blocks: [Course:101177 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-username: AlexDaniel
-revision: 4
-languages: 
-ts: 1441924448
-minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 text: #SUBTITLE Krüptoloogia I
 	#SUBURL [Course:101177 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+username: AlexDaniel
+minor: 1
 ip: 89.235.235.166
+ts: 1441924448
+languages: 
+revision: 4

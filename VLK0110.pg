@@ -1,14 +1,12 @@
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 text: #SUBTITLE Termodünaamika ja soojusülekanne
 	#SUBURL [Course:108815 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-languages: 
-blocks: [Course:108815 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-ts: 1441924452
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 2
+ts: 1441924452
+languages: 
+username: AlexDaniel
+minor: 1

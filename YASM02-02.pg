@@ -1,12 +1,3 @@
-revision: 4
-blocks: 
-username: AlexDaniel
-keep-ts: 1441924155
-diff-major: 
-flags: 
-ts: 1441924155
-host: 82.131.7.230
-minor: 1
 text: == YASM02/02 - Rakenduskeemia ja biotehnoloogia [Kava:962 〔Õppekava ÕIS-is〕]
 	[[YKI0050]] Anorgaaniline keemia II
 	[[TMT1130]] Bioloogilised ohutegurid
@@ -68,7 +59,14 @@ text: == YASM02/02 - Rakenduskeemia ja biotehnoloogia [Kava:962 〔Õppekava ÕI
 	
 	
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
+host: 82.131.7.230
+keep-ts: 1441924155
+diff-major: 
+revision: 4
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YASM02/02 - Rakenduskeemia ja biotehnoloogia Kava:962</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YASM02/02 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:962 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+languages: 
+ts: 1441924155

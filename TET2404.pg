@@ -1,16 +1,16 @@
-blocks: [Course:106004 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 ts: 1441924450
-languages: 
-host: 82.131.7.230
-minor: 1
-flags: 1
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Institutsiooniökonoomika
 	#SUBURL [Course:106004 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
+languages: 
 keep-ts: 1441924450
-username: AlexDaniel
+flags: 1
+lastmajor: 2
+revision: 4
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106004 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

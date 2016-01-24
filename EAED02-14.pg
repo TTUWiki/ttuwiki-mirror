@@ -1,12 +1,3 @@
-minor: 1
-diff-major: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAED02/14 - Ehitus ja keskkonnatehnika Kava:50245</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAED02/14 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50245 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
 text: == EAED02/14 - Ehitus ja keskkonnatehnika [Kava:50245 〔Õppekava ÕIS-is〕]
 	[[EAX9033]] Arhitektuuri ja urbanistika eriõpe I
 	[[EAX9034]] Arhitektuuri ja urbanistika eriõpe II
@@ -29,8 +20,15 @@ text: == EAED02/14 - Ehitus ja keskkonnatehnika [Kava:50245 〔Õppekava ÕIS-is
 	[[ELP9010]] Transpordi planeerimise eripeatükid
 	
 	
-blocks: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924149
+diff-major: 
 revision: 4
-flags: 
-ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAED02/14 - Ehitus ja keskkonnatehnika Kava:50245</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAED02/14 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50245 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
+languages: 
+ts: 1441924149

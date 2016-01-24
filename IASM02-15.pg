@@ -1,6 +1,15 @@
-revision: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IASM02/15 - Arvutisüsteemid Kava:50310</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IASM02/15 - Arvutisüsteemid <strong class="changes">[</strong>Kava:50310 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924150
+revision: 4
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
+diff-major: 
 text: == IASM02/15 - Arvutisüsteemid [Kava:50310 〔Õppekava ÕIS-is〕]
 	[[IDU0220]] Andmebaasid I
 	[[IEM3040]] Andmehõivesüsteemid
@@ -37,14 +46,3 @@ text: == IASM02/15 - Arvutisüsteemid [Kava:50310 〔Õppekava ÕIS-is〕]
 	[[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine
 	
 	
-flags: 
-keep-ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-diff-major: 
-ts: 1441924150
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IASM02/15 - Arvutisüsteemid Kava:50310</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IASM02/15 - Arvutisüsteemid <strong class="changes">[</strong>Kava:50310 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 

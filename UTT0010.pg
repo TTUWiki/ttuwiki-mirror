@@ -1,17 +1,17 @@
-flags: 1
+username: AlexDaniel
 languages: 
 ip: 89.235.235.166
-revision: 5
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 ts: 1441924452
-username: AlexDaniel
-minor: 1
-lastmajor: 4
-blocks: [Course:29293 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Õpingukorraldus
 	#SUBURL [Course:29293 〔Õppeaine ÕIS-is〕]
 	
 	За семестр будет всего пару лекций. В общем-то присутствовать на них не обязательно, там будет просто общая информация об университете и процессе обучения. На первую лекцию все-таки стоит сходить, на ней скорее всего узнаете много нового. А вот на последней делать нечего - в общем-то она просто для того, чтобы люди задали вопросы, которые у них за это время появились. Всю эту информацию можно всегда узнать от однокурсников.
 	
+lastmajor: 4
+flags: 1
+blocks: [Course:29293 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 5
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452

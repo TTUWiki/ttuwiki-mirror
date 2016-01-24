@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-host: 82.131.7.230
-blocks: [Course:100257 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
 revision: 4
 minor: 1
-lastmajor: 2
-flags: 1
+username: AlexDaniel
+languages: 
+ts: 1441924445
+ip: 89.235.235.166
 text: #SUBTITLE Ehitustehnoloogia erikursus
 	#SUBURL [Course:100257 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924445
-ip: 89.235.235.166
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445

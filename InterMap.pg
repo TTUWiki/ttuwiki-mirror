@@ -1,5 +1,6 @@
+keep-ts: 1453415129
 host: 82.131.5.128
-revision: 25
+summary: Employee:
 lastmajor: 25
 text:  File https://files.ttuwiki.ee/
 	 Fi https://files.ttuwiki.ee/
@@ -16,11 +17,10 @@ text:  File https://files.ttuwiki.ee/
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
-minor: 
-languages: 
-username: AlexDaniel
 ts: 1453415129
 ip: 89.235.231.110
-summary: Employee:
-keep-ts: 1453415129
 lastmajorsummary: Employee:
+languages: 
+username: AlexDaniel
+minor: 
+revision: 25

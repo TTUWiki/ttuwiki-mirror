@@ -1,8 +1,14 @@
-flags: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EALB02/12 - Logistika Kava:50192</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EALB02/12 - Logistika <strong class="changes">[</strong>Kava:50192 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
+languages: 
+revision: 4
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
 keep-ts: 1441924149
 text: == EALB02/12 - Logistika [Kava:50192 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -55,11 +61,3 @@ text: == EALB02/12 - Logistika [Kava:50192 〔Õppekava ÕIS-is〕]
 	[[ETV4160]] Vetelvedu
 	
 	
-username: AlexDaniel
-ts: 1441924149
-minor: 1
-languages: 
-host: 82.131.7.230
-blocks: 
-diff-major: 
-revision: 4

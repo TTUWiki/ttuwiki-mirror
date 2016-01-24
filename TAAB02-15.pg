@@ -1,12 +1,3 @@
-diff-major: 
-ts: 1441924153
-blocks: 
-keep-ts: 1441924153
-host: 82.131.7.230
-revision: 4
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TAAB02/15 - Rakenduslik majandusteadus Kava:50333</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TAAB02/15 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50333 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == TAAB02/15 - Rakenduslik majandusteadus [Kava:50333 〔Õppekava ÕIS-is〕]
 	[[TTR0170]] Avaliku sektori ökonoomika
 	[[TER0540]] Eraisiku rahandus ja investeeringud
@@ -53,8 +44,15 @@ text: == TAAB02/15 - Rakenduslik majandusteadus [Kava:50333 〔Õppekava ÕIS-is
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
+keep-ts: 1441924153
+diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-minor: 1
+host: 82.131.7.230
+revision: 4
 languages: 
-flags: 
+ts: 1441924153
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAAB02/15 - Rakenduslik majandusteadus Kava:50333</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAAB02/15 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50333 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel

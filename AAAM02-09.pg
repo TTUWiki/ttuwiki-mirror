@@ -1,17 +1,15 @@
-revision: 4
-diff-major: 
-keep-ts: 1441924148
+languages: 
+ts: 1441924148
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAAM02/09 - Elektriajamid ja jõuelektroonika Kava:50058</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAAM02/09 - Elektriajamid ja jõuelektroonika <strong class="changes">[</strong>Kava:50058 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
-flags: 
-minor: 1
 username: AlexDaniel
-ts: 1441924148
+revision: 4
+keep-ts: 1441924148
+diff-major: 
 host: 82.131.7.230
-blocks: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == AAAM02/09 - Elektriajamid ja jõuelektroonika [Kava:50058 〔Õppekava ÕIS-is〕]
 	[[AAR3380]] Automaatikasüsteemide raalprojekteerimine
 	[[AAR0120]] Elektertransport

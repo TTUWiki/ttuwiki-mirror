@@ -1,14 +1,12 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
-revision: 5
-minor: 1
-ip: 89.235.235.166
 host: 82.131.7.230
-username: AlexDaniel
-keep-ts: 1441924447
 lastmajor: 4
 languages: 
+keep-ts: 1441924447
+minor: 1
 ts: 1441924447
+ip: 89.235.235.166
+blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Veebiteenused
 	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -20,4 +18,6 @@ text: #SUBTITLE Veebiteenused
 	-- AlexDaniel 2014-09-05 13:15:47
 	
 	
+revision: 5
 flags: 1
+username: AlexDaniel

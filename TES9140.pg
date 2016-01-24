@@ -1,16 +1,14 @@
-ip: 89.235.235.166
-username: AlexDaniel
+revision: 4
 ts: 1441924450
-flags: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101834 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 languages: 
+username: AlexDaniel
 minor: 1
-lastmajor: 2
 text: #SUBTITLE Aegridade ökonomeetria
 	#SUBURL [Course:101834 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
 keep-ts: 1441924450
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

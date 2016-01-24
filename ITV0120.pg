@@ -1,16 +1,14 @@
+keep-ts: 1441924447
 lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-flags: 1
-languages: 
-minor: 1
 host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924447
-revision: 4
-blocks: [Course:100883 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Võrgurakendused II
 	#SUBURL [Course:100883 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924447
+ip: 89.235.235.166
+languages: 
+username: AlexDaniel
+minor: 1
+revision: 4

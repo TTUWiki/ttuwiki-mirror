@@ -1,17 +1,3 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TADD02/04 - Majandus Kava:3330</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TADD02/04 - Majandus <strong class="changes">[</strong>Kava:3330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
-flags: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-ts: 1441924153
-minor: 1
-diff-major: 
-keep-ts: 1441924153
-languages: 
-username: AlexDaniel
 text: == TADD02/04 - Majandus [Kava:3330 〔Õppekava ÕIS-is〕]
 	[[TMO9030]] Äriuuringute ajalugu ja areng
 	[[TTR9010]] Avaliku sektori ökonoomika
@@ -46,3 +32,15 @@ text: == TADD02/04 - Majandus [Kava:3330 〔Õppekava ÕIS-is〕]
 	[[TER9645]] Uurimisteemakeskne individuaalõpe
 	
 	
+diff-major: 
+keep-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+ts: 1441924153
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TADD02/04 - Majandus Kava:3330</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TADD02/04 - Majandus <strong class="changes">[</strong>Kava:3330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

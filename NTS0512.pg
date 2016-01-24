@@ -1,16 +1,16 @@
-revision: 4
-ip: 89.235.235.166
+host: 82.131.7.230
+lastmajor: 2
 flags: 1
-keep-ts: 1441924449
 minor: 1
-languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
+blocks: [Course:39804 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Raudbetoonkonstruktsioonid I - projekt
 	#SUBURL [Course:39804 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:39804 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ip: 89.235.235.166
+keep-ts: 1441924449
+languages: 

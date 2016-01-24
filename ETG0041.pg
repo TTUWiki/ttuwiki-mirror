@@ -1,16 +1,14 @@
-languages: 
-blocks: [Course:100323 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
 text: #SUBTITLE Geodeetiliste mõõtmiste andmetöötluse teooria
 	#SUBURL [Course:100323 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 lastmajor: 2
-minor: 1
-flags: 1
-revision: 4
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924445
+revision: 4
+username: AlexDaniel
+minor: 1
 ts: 1441924445
+ip: 89.235.235.166
+languages: 

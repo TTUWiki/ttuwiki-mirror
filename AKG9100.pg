@@ -1,16 +1,14 @@
-blocks: [Course:33085 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
 lastmajor: 2
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Teadusseminar
 	#SUBURL [Course:33085 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924444
-host: 82.131.7.230
 ip: 89.235.235.166
-minor: 1
 ts: 1441924444
+languages: 
+username: AlexDaniel
+minor: 1
+revision: 4

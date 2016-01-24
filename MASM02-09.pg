@@ -1,5 +1,3 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
 text: == MASM02/09 - Soojusenergeetika [Kava:50029 〔Õppekava ÕIS-is〕]
 	[[MER0100]] Arendustöö ja innovatsioon
 	[[MST0050]] Auru- ja gaasiturbiinid
@@ -31,15 +29,15 @@ text: == MASM02/09 - Soojusenergeetika [Kava:50029 〔Õppekava ÕIS-is〕]
 	[[MSJ0170]] Tuumareaktorid
 	
 	
-keep-ts: 1441924152
-username: AlexDaniel
 diff-major: 
-flags: 
+keep-ts: 1441924152
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+ts: 1441924152
 languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MASM02/09 - Soojusenergeetika Kava:50029</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MASM02/09 - Soojusenergeetika <strong class="changes">[</strong>Kava:50029 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
-host: 82.131.7.230
-ts: 1441924152
 minor: 1

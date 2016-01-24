@@ -1,6 +1,14 @@
-keep-ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAGM09/09 - Tehnoloogia valitsemine Kava:50011</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAGM09/09 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50011 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
-blocks: 
+languages: 
+ts: 1441924149
+revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924149
 diff-major: 
 text: == HAGM09/09 - Tehnoloogia valitsemine [Kava:50011 〔Õppekava ÕIS-is〕]
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
@@ -28,13 +36,3 @@ text: == HAGM09/09 - Tehnoloogia valitsemine [Kava:50011 〔Õppekava ÕIS-is〕
 	[[HHA1510]] Väikeriigid
 	
 	
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAGM09/09 - Tehnoloogia valitsemine Kava:50011</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAGM09/09 - Tehnoloogia valitsemine <strong class="changes">[</strong>Kava:50011 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-languages: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-flags: 

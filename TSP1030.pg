@@ -1,16 +1,16 @@
+username: AlexDaniel
+flags: 1
+ip: 89.235.235.166
+revision: 4
 host: 82.131.7.230
 ts: 1441924451
-blocks: [Course:102118 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
-keep-ts: 1441924451
 lastmajor: 2
-languages: 
-ip: 89.235.235.166
 minor: 1
-username: AlexDaniel
+keep-ts: 1441924451
+languages: 
 text: #SUBTITLE Magistritöö seminar
 	#SUBURL [Course:102118 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102118 〔Õppeaine ÕIS-is〕]

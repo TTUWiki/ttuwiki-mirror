@@ -1,14 +1,12 @@
-flags: 1
-blocks: [Course:109403 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-username: AlexDaniel
-minor: 1
-languages: 
 text: #SUBTITLE Teenuste turundus
 	#SUBURL [Course:109403 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+minor: 1
 revision: 2

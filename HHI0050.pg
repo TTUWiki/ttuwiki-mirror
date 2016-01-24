@@ -1,16 +1,14 @@
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+ts: 1441924445
+languages: 
+revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924445
 text: #SUBTITLE Innovatsioon
 	#SUBURL [Course:100777 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
-languages: 
-host: 82.131.7.230
-blocks: [Course:100777 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166

@@ -1,16 +1,14 @@
+revision: 4
+username: AlexDaniel
 minor: 1
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
+ts: 1441924449
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Õhu kvaliteet ja kontroll
 	#SUBURL [Course:39123 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924449
-username: AlexDaniel
 lastmajor: 2
-languages: 
-blocks: [Course:39123 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+keep-ts: 1441924449

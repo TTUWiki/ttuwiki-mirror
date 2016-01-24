@@ -1,16 +1,14 @@
-languages: 
-blocks: [Course:29121 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-ip: 89.235.235.166
-username: AlexDaniel
 minor: 1
-flags: 1
-host: 82.131.7.230
+username: AlexDaniel
+languages: 
+ts: 1441924450
+ip: 89.235.235.166
 revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924450
 text: #SUBTITLE Kaubatundmine
 	#SUBURL [Course:29121 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924450
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

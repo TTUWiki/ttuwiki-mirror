@@ -1,5 +1,29 @@
-minor: 1
+ts: 1445146075
 lastmajorsummary: Translations
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == Other</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == Other <strong class="changes">/ … / Другое</strong></p></div>
+revision: 6
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; You can play around with wiki syntax **on [[Scratch|this page]]**.<br />&gt; #RUS<br />&gt; Опробовать возможности **можно [[Scratch|на этой странице]]**.<br />&gt; == Basics / / Основы<br />&gt; #ENG<br />&gt; |= Wiki text |= Rendered |<br />&gt; | {{{**rasvane kiri**}}} | **rasvane kiri** |<br />&gt; | {{{//kaldkiri//}}} | //kaldkiri// |<br />&gt; | {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |<br />&gt; #EST</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ==Pealkirjad</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |<br />&gt; #ENG<br />&gt; |= Пишете |= Отображается |<br />&gt; | {{{**жирный текст**}}} | **жирный текст** |<br />&gt; | {{{//наклонный текст//}}} | //наклонный текст// |<br />&gt; | {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |</strong><br />&gt; == <strong class="changes">Other<br />&gt; * {{{; Definition : lists.}}}<br />&gt; * {{{"""Blockquotes."""}}}<br />&gt; * {{{''Inline quotes.''}}}<br />&gt; == Headings /</strong> Pealkirjad <strong class="changes">/ Заголовки<br />&gt; #EST</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === Pealikiri <strong class="changes">2</strong><br />&gt; ==== Pealikiri <strong class="changes">3</strong><br />&gt; ===== Pealikiri <strong class="changes">4</strong><br />&gt; ====== Pealikiri <strong class="changes">5</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; <strong class="changes">==Lingid<br />&lt; …</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === Pealikiri <strong class="changes">2</strong><br />&gt; ==== Pealikiri <strong class="changes">3</strong><br />&gt; ===== Pealikiri <strong class="changes">4</strong> <br />&gt; ====== Pealikiri <strong class="changes">5<br />&gt; === Ссылки:<br />&gt; #ENG<br />&gt; |= Pattern |= Result |<br />&gt; |{{{http://www.ttu.ee/}}} |http://www.ttu.ee/ |<br />&gt; |{{{[http://www.ttu.ee/]}}} |[http://www.ttu.ee/] |<br />&gt; |{{{[http://www.ttu.ee/ text]}}} |[http://www.ttu.ee/ text] |<br />&gt; |{{{[[Home]]}}} |[[Home]] |<br />&gt; |{{{[[[Home]]]}}} |[[[Home]]] |<br />&gt; |{{{[[Home|text]]}}} |[[Home|text]] |</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; #EST</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===Kood</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">Code /</strong> Kood <strong class="changes">/ Код</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; == File uploads / … / Загрузка файлов<br />&gt; #RUS<br />&gt; Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида {{{[[File:название файла]]}}}. Это просто сокращенный вариант ссылки {{{[[http://files.ttuwiki.org/название файла]]}}}.<br />&gt; Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой {{{image:}}}, то есть вот так: {{{[[image:File:название файла]]}}}. Таким образом, картинка будет показана прямо на сайте.<br />&gt; Если хотите, чтобы картинка отображалась справа, то вместо {{{image:}}} можно написать ##image/right:##, то есть {{{[[image/right:File:название файла]]}}}.<br />&gt; **Результат** смотрите, например, **на [[MSJ0120]]**.</p></div>
+keep-ts: 1445146075
+host: 85.253.53.160
+summary: translations
+lastmajor: 2
 text: #ENG
 	You can play around with wiki syntax **on [[Scratch|this page]]**.
 	
@@ -127,29 +151,3 @@ text: #ENG
 	
 	**Результат** смотрите, например, **на [[MSJ0120]]**.
 	
-keep-ts: 1445146075
-languages: 
-summary: translations
-ts: 1445146075
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes"></strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">#ENG<br />&gt; You can play around with wiki syntax **on [[Scratch|this page]]**.<br />&gt; #RUS<br />&gt; Опробовать возможности **можно [[Scratch|на этой странице]]**.<br />&gt; == Basics / / Основы<br />&gt; #ENG<br />&gt; |= Wiki text |= Rendered |<br />&gt; | {{{**rasvane kiri**}}} | **rasvane kiri** |<br />&gt; | {{{//kaldkiri//}}} | //kaldkiri// |<br />&gt; | {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |<br />&gt; #EST</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ==Pealkirjad</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">| {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |<br />&gt; #ENG<br />&gt; |= Пишете |= Отображается |<br />&gt; | {{{**жирный текст**}}} | **жирный текст** |<br />&gt; | {{{//наклонный текст//}}} | //наклонный текст// |<br />&gt; | {{{^^Superscripted text.^^}}} | ^^Superscripted text.^^ |<br />&gt; | {{{,,Subscripted text.,,}}} | ,,Subscripted text.,, |<br />&gt; | {{{##Monospaced text.##}}} | ##Monospaced text.## |<br />&gt; | {{{%%Small caps text.%%}}} | %%Small caps text.%% |</strong><br />&gt; == <strong class="changes">Other<br />&gt; * {{{; Definition : lists.}}}<br />&gt; * {{{"""Blockquotes."""}}}<br />&gt; * {{{''Inline quotes.''}}}<br />&gt; == Headings /</strong> Pealkirjad <strong class="changes">/ Заголовки<br />&gt; #EST</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Pealikiri <strong class="changes">2</strong><br />&gt; ==== Pealikiri <strong class="changes">3</strong><br />&gt; ===== Pealikiri <strong class="changes">4</strong><br />&gt; ====== Pealikiri <strong class="changes">5</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; === Pealikiri<br />&lt; ==== Pealikiri<br />&lt; ===== Pealikiri<br />&lt; ====== Pealikiri<br />&lt; <strong class="changes">==Lingid<br />&lt; …</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === Pealikiri <strong class="changes">2</strong><br />&gt; ==== Pealikiri <strong class="changes">3</strong><br />&gt; ===== Pealikiri <strong class="changes">4</strong> <br />&gt; ====== Pealikiri <strong class="changes">5<br />&gt; === Ссылки:<br />&gt; #ENG<br />&gt; |= Pattern |= Result |<br />&gt; |{{{http://www.ttu.ee/}}} |http://www.ttu.ee/ |<br />&gt; |{{{[http://www.ttu.ee/]}}} |[http://www.ttu.ee/] |<br />&gt; |{{{[http://www.ttu.ee/ text]}}} |[http://www.ttu.ee/ text] |<br />&gt; |{{{[[Home]]}}} |[[Home]] |<br />&gt; |{{{[[[Home]]]}}} |[[[Home]]] |<br />&gt; |{{{[[Home|text]]}}} |[[Home|text]] |</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #EST</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; ===Kood</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; === <strong class="changes">Code /</strong> Kood <strong class="changes">/ Код</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; == File uploads / … / Загрузка файлов<br />&gt; #RUS<br />&gt; Под формой для редактирования и написания комментариев есть загрузка файлов. Выбирайте файл и нажимайте “загрузить”, в текст добавится запись вида {{{[[File:название файла]]}}}. Это просто сокращенный вариант ссылки {{{[[http://files.ttuwiki.org/название файла]]}}}.<br />&gt; Если хотите вставить картинку прямо в текст, то добавьте перед ссылкой {{{image:}}}, то есть вот так: {{{[[image:File:название файла]]}}}. Таким образом, картинка будет показана прямо на сайте.<br />&gt; Если хотите, чтобы картинка отображалась справа, то вместо {{{image:}}} можно написать ##image/right:##, то есть {{{[[image/right:File:название файла]]}}}.<br />&gt; **Результат** смотрите, например, **на [[MSJ0120]]**.</p></div>
-revision: 6
-flags: 0
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == Other</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == Other <strong class="changes">/ … / Другое</strong></p></div>
-blocks: </div></div>
-lastmajor: 2
-host: 85.253.53.160

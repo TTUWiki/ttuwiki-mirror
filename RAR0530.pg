@@ -1,16 +1,14 @@
-ts: 1441924449
-blocks: [Course:37663 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:37663 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-languages: 
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 host: 82.131.7.230
 keep-ts: 1441924449
-lastmajor: 2
-minor: 1
+revision: 4
 username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+ts: 1441924449
+languages: 

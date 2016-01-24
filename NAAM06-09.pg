@@ -1,5 +1,7 @@
-host: 82.131.7.230
 diff-major: 
+keep-ts: 1441924152
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == NAAM06/09 - Maastikuarhitektuur [Kava:50111 〔Õppekava ÕIS-is〕]
 	[[NTM1150]] Avalik esinemine
 	[[NTM0580]] Detailplaneeringu koostamine
@@ -36,13 +38,9 @@ text: == NAAM06/09 - Maastikuarhitektuur [Kava:50111 〔Õppekava ÕIS-is〕]
 	
 ts: 1441924152
 languages: 
-revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == NAAM06/09 - Maastikuarhitektuur Kava:50111</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == NAAM06/09 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50111 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
-flags: 
-username: AlexDaniel
-keep-ts: 1441924152
 minor: 1
+revision: 4

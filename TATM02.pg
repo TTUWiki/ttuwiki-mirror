@@ -1,5 +1,11 @@
-minor: 1
+revision: 3
+ts: 1438887179
+ip: 89.235.235.166
+languages: 
 username: Bot
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "TATM02-15"&gt;</p></div>
+minor: 1
 text: <include "TATM02-15">
 	
 	<include "TATM02-12">
@@ -12,16 +18,8 @@ text: <include "TATM02-15">
 	
 	
 	
-keep-ts: 1438887179
 diff-major: 
+keep-ts: 1438887179
 lastmajor: 1
-languages: 
-ts: 1438887179
-ip: 89.235.235.166
-blocks: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "TATM02-15"&gt;</p></div>
 summary: Автоматическое обновление
 host: 85.253.110.44
-flags: 
-revision: 3

@@ -1,10 +1,11 @@
-blocks: 
 revision: 5
-minor: 1
-flags: 
+languages: 
 ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAB02/11 - Avalik haldus ja riigiteadused Kava:50165</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAB02/11 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50165 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAAB02/11 - Avalik haldus ja riigiteadused [Kava:50165 〔Õppekava ÕIS-is〕]
 	[[HLI0020]] Akadeemiline inglise keel
 	[[HHL0170]] Avalik eetika
@@ -48,10 +49,7 @@ text: == HAAB02/11 - Avalik haldus ja riigiteadused [Kava:50165 〔Õppekava ÕI
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-languages: 
-diff-major: 
 keep-ts: 1441924149
+diff-major: 
 host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAB02/11 - Avalik haldus ja riigiteadused Kava:50165</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAB02/11 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50165 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,16 +1,16 @@
-minor: 1
-flags: 1
 host: 82.131.7.230
+username: AlexDaniel
 ts: 1441924447
-blocks: [Course:100510 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 
+keep-ts: 1441924447
 text: #SUBTITLE Saetööstuse tehnoloogia
 	#SUBURL [Course:100510 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-keep-ts: 1441924447
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+ip: 89.235.235.166
+minor: 1
+blocks: [Course:100510 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

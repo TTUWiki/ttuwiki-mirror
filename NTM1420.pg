@@ -1,16 +1,16 @@
-blocks: [Course:102899 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924449
 text: #SUBTITLE Üldine kunstiajalugu
 	#SUBURL [Course:102899 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 languages: 
-minor: 1
+blocks: [Course:102899 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 flags: 1
-ts: 1441924449
+minor: 1
 revision: 4
-username: AlexDaniel

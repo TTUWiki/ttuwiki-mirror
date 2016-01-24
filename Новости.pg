@@ -1,16 +1,14 @@
-lastmajor: 2
-ts: 1444779766
-summary: Moved to News
-flags: 
 minor: 
-languages: 
-lastmajorsummary: Moved to News
-blocks: 
-host: 82.131.4.24
 username: AlexDaniel
+languages: 
+ts: 1444779766
+lastmajorsummary: Moved to News
 revision: 2
+host: 82.131.4.24
+summary: Moved to News
+lastmajor: 2
+keep-ts: 1444779766
 text: DeletedPage
 	
 	<Journal 10 "^Новость_\d+">
 	
-keep-ts: 1444779766

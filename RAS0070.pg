@@ -1,5 +1,17 @@
-revision: 5
+blocks: [Course:105566 〔Õppeaine ÕIS-is〕]
+languages: 
+lastmajor: 5
+flags: 1
+host: 86.110.37.246
+username: Ain_Laidoja
+ip: 89.235.235.166
 summary: 
+lastmajorsummary: 
+diff-major: 1
+minor: 
+keep-ts: 1444025420
+ts: 1444025420
+revision: 5
 text: #SUBTITLE Kütusetööstuse protsessid
 	#SUBURL [Course:105566 〔Õppeaine ÕIS-is〕]
 	
@@ -7,18 +19,6 @@ text: #SUBTITLE Kütusetööstuse protsessid
 	
 	[http://data.vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]
 	
-flags: 1
-keep-ts: 1444025420
-host: 86.110.37.246
-lastmajorsummary: 
-ip: 89.235.235.166
-lastmajor: 5
-languages: 
-ts: 1444025420
-blocks: [Course:105566 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
-minor: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal:<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]</strong></p></div>
-diff-major: 1

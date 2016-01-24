@@ -1,11 +1,3 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == SDSR10/14 - Meretehnika ja väikelaevaehitus Kava:50262</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == SDSR10/14 - Meretehnika ja väikelaevaehitus <strong class="changes">[</strong>Kava:50262 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
-keep-ts: 1441924153
-minor: 1
-username: AlexDaniel
-diff-major: 
 text: == SDSR10/14 - Meretehnika ja väikelaevaehitus [Kava:50262 〔Õppekava ÕIS-is〕]
 	[[SKK1350]] Alumiiniumi tehnoloogia
 	[[MRM5703]] Arvutigraafika ja tehniline joonestamine
@@ -75,9 +67,15 @@ text: == SDSR10/14 - Meretehnika ja väikelaevaehitus [Kava:50262 〔Õppekava �
 	[[LNG5129]] Väikelaeva purjed ja taglastus
 	
 	
+keep-ts: 1441924153
+diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
-blocks: 
-revision: 4
-ts: 1441924153
 host: 82.131.7.230
+revision: 4
+languages: 
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == SDSR10/14 - Meretehnika ja väikelaevaehitus Kava:50262</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == SDSR10/14 - Meretehnika ja väikelaevaehitus <strong class="changes">[</strong>Kava:50262 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel

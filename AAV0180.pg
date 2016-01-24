@@ -1,3 +1,5 @@
+flags: 1
+languages: 
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -15,15 +17,13 @@ text: #SUBTITLE Energiasalvestid
 	 
 	
 username: Ain_Laidoja
-languages: 
-ip: 89.235.235.166
 host: 86.110.37.246
-flags: 1
-lastmajorsummary: 
-ts: 1451930301
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
-revision: 15
-keep-ts: 1451930301
-summary: 
 minor: 
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+lastmajorsummary: 
+keep-ts: 1451930301
+revision: 15
 lastmajor: 15
+summary: 
+ts: 1451930301

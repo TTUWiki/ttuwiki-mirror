@@ -1,17 +1,15 @@
+username: AlexDaniel
 minor: 1
-keep-ts: 1441924149
-diff-major: 
-languages: 
-ts: 1441924149
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAAM02/09 - Avalik haldus Kava:50017</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAAM02/09 - Avalik haldus <strong class="changes">[</strong>Kava:50017 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-host: 82.131.7.230
+ts: 1441924149
+languages: 
 revision: 4
-flags: 
-blocks: 
-username: AlexDaniel
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924149
 text: == HAAM02/09 - Avalik haldus [Kava:50017 〔Õppekava ÕIS-is〕]
 	[[HHM1130]] Avalik teenistus
 	[[HHL1320]] Avaliku halduse teooria ja filosoofia

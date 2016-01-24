@@ -1,13 +1,5 @@
-ip: 84.52.48.194
-host: 82.131.7.230
-flags: 1
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-languages: 
-username: AlexDaniel
 lastmajor: 5
-revision: 7
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Programmeerimise põhikursus keeles C
 	#SUBURL [Course:100200 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -54,5 +46,13 @@ text: #SUBTITLE Programmeerimise põhikursus keeles C
 	
 	-- Atomsk 2014-02-25 23:19 UTC
 	
-ts: 1441924447
 blocks: [Course:100200 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+minor: 1
+flags: 1
+ts: 1441924447
+host: 82.131.7.230
+ip: 84.52.48.194
+languages: 
+username: AlexDaniel
+revision: 7

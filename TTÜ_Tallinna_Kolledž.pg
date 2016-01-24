@@ -1,5 +1,12 @@
 revision: 7
-flags: 
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[BAAM06]] Maastikuarhitektuur</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[BDMR02]] Majandusarvestus</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[BDMR02]] Majandusarvestus <strong class="changes">ja ettevõtluse juhtimine</strong></p></div>
+minor: 1
+username: Bot
+languages: 
+ts: 1438887186
 ip: 89.235.235.166
 text: [[BAAB06]] Maastikuarhitektuur
 	
@@ -12,21 +19,12 @@ text: [[BAAB06]] Maastikuarhitektuur
 	
 	
 	
-ts: 1438887186
-keep-ts: 1438887186
-lastmajor: 3
-blocks: 
 summary: Автоматическое обновление
-languages: 
 host: 85.253.110.44
-username: Bot
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[BAAM06]] Maastikuarhitektuur</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[BDMR02]] Majandusarvestus</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[BDMR02]] Majandusarvestus <strong class="changes">ja ettevõtluse juhtimine</strong></p></div>
+lastmajor: 3
+keep-ts: 1438887186
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">[[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[BDMR02]] Majandusarvestus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[BDMR02]] Majandusarvestus\\<br />&gt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus\\<br />&gt; \\</p></div>
-minor: 1

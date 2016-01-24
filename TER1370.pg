@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-lastmajor: 2
-flags: 1
-languages: 
-host: 82.131.7.230
 revision: 4
+ts: 1441924450
 ip: 89.235.235.166
-minor: 1
+languages: 
 username: AlexDaniel
+minor: 1
 text: #SUBTITLE Risk ja optsioonid
 	#SUBURL [Course:31305 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:31305 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
+keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2

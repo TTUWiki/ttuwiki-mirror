@@ -1,11 +1,10 @@
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
+ts: 1441924447
 username: AlexDaniel
 blocks: [Course:107195 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-lastmajor: 3
-minor: 1
+languages: 
+flags: 1
+keep-ts: 1441924447
 text: #SUBTITLE Modelleerimine
 	#SUBURL [Course:107195 〔Õppeaine ÕIS-is〕]
 	
@@ -14,7 +13,8 @@ text: #SUBTITLE Modelleerimine
 	Описание в ÕIS у него очень красивое, а всё сводится к вот этому:
 	[[image:File:1017412_676832919022636_1384346730_n.jpg||Суть предмета]]
 	
+minor: 1
 revision: 6
-ts: 1441924447
-flags: 1
+lastmajor: 3
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 84.52.48.194

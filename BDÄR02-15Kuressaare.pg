@@ -1,10 +1,3 @@
-flags: 
-revision: 4
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924148
-blocks: 
-languages: 
 text: == BDÄR02/15Kuressaare - Rahvusvaheline majandus ja ärikorraldus [Kava:50287 〔Õppekava ÕIS-is〕]
 	[[SKK0280]] Äriõigus
 	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised
@@ -63,10 +56,15 @@ text: == BDÄR02/15Kuressaare - Rahvusvaheline majandus ja ärikorraldus [Kava:5
 	[[SKE0127]] Väärtusahela juhtimine
 	
 	
-keep-ts: 1441924148
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+keep-ts: 1441924148
+revision: 4
 username: AlexDaniel
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDÄR02/15Kuressaare - Rahvusvaheline majandus ja ärikorraldus Kava:50287</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDÄR02/15Kuressaare - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50287 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924148
+languages: 

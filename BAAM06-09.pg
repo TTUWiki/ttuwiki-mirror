@@ -1,8 +1,3 @@
-minor: 1
-blocks: 
-keep-ts: 1441924148
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == BAAM06/09 - Maastikuarhitektuur [Kava:50111 〔Õppekava ÕIS-is〕]
 	[[NTM1150]] Avalik esinemine
 	[[NTM0580]] Detailplaneeringu koostamine
@@ -37,12 +32,15 @@ text: == BAAM06/09 - Maastikuarhitektuur [Kava:50111 〔Õppekava ÕIS-is〕]
 	[[NTM1290]] Universaalne disain maastikuarhitektuuris
 	
 	
-flags: 
+diff-major: 
+keep-ts: 1441924148
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+ts: 1441924148
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BAAM06/09 - Maastikuarhitektuur Kava:50111</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BAAM06/09 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50111 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924148
-revision: 4
-diff-major: 
-username: AlexDaniel
+minor: 1

@@ -1,11 +1,12 @@
-username: AlexDaniel
-languages: 
-summary: Moved
+lastmajorsummary: Moved
 ts: 1444779275
-host: 82.131.4.24
+languages: 
+username: AlexDaniel
+minor: 
 revision: 1
-blocks: 
 lastmajor: 1
+summary: Moved
+host: 82.131.4.24
 text: * https://pass.ttu.ee/
 	* http://sise.ttu.ee/
 	* https://home.ttu.ee/ - Всё, кроме публичной папки (Webikodu). Для доступа к ней используйте sftp.
@@ -37,6 +38,3 @@ text: * https://pass.ttu.ee/
 	* [[http://193.40.245.132 Vb-006]]
 	* [[http://193.40.245.182 Vb-201]]
 	
-lastmajorsummary: Moved
-flags: 
-minor: 

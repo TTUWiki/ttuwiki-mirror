@@ -1,5 +1,11 @@
-blocks: 
-keep-ts: 1441924150
+revision: 4
+languages: 
+ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAJB08/12 - Õigusteadus Kava:50193</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAJB08/12 - Õigusteadus <strong class="changes">[</strong>Kava:50193 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
 text: == HAJB08/12 - Õigusteadus [Kava:50193 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HOE6011]] Asjaõigus
@@ -56,15 +62,7 @@ text: == HAJB08/12 - Õigusteadus [Kava:50193 〔Õppekava ÕIS-is〕]
 	[[HOR6024]] Võrdlev perekonna- ja pärimisõigus
 	
 	
-host: 82.131.7.230
-revision: 4
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAJB08/12 - Õigusteadus Kava:50193</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAJB08/12 - Õigusteadus <strong class="changes">[</strong>Kava:50193 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+keep-ts: 1441924150
 diff-major: 
-languages: 
-ts: 1441924150
-flags: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230

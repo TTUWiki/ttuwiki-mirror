@@ -1,10 +1,3 @@
-diff-major: 
-keep-ts: 1441924150
-username: AlexDaniel
-flags: 
-host: 82.131.7.230
-languages: 
-minor: 1
 text: == IAEB02/02 - Elektroonika ja bioonika [Kava:1088 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IRT0030]] Andmeside
@@ -45,10 +38,15 @@ text: == IAEB02/02 - Elektroonika ja bioonika [Kava:1088 〔Õppekava ÕIS-is〕
 	[[ISS0110]] Väljendusoskus
 	
 	
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+diff-major: 
+keep-ts: 1441924150
+revision: 4
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAEB02/02 - Elektroonika ja bioonika Kava:1088</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAEB02/02 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:1088 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
 ts: 1441924150
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 

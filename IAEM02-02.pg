@@ -1,14 +1,11 @@
-host: 82.131.7.230
-flags: 
 revision: 4
+ts: 1441924150
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAEM02/02 - Elektroonika ja bioonika Kava:1092</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAEM02/02 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:1092 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924150
 minor: 1
-ts: 1441924150
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == IAEM02/02 - Elektroonika ja bioonika [Kava:1092 〔Õppekava ÕIS-is〕]
 	[[IEM0030]] Andmehõivesüsteemid
 	[[ISC0021]] ASIC disain
@@ -36,6 +33,7 @@ text: == IAEM02/02 - Elektroonika ja bioonika [Kava:1092 〔Õppekava ÕIS-is〕
 	[[IEM0020]] Test ja diagnostika elektroonikas
 	
 	
-languages: 
-username: AlexDaniel
-blocks: 
+diff-major: 
+keep-ts: 1441924150
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

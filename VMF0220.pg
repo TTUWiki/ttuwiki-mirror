@@ -2,13 +2,11 @@ text: #SUBTITLE Kalapüüniste ehitus
 	#SUBURL [Course:109111 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
-minor: 1
-flags: 1
-blocks: [Course:109111 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 2
 ts: 1441924452
 languages: 
-keep-ts: 1441924452
+username: AlexDaniel
+minor: 1

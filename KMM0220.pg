@@ -1,16 +1,16 @@
-host: 82.131.7.230
-languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 ip: 89.235.235.166
-keep-ts: 1441924447
-minor: 1
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:100819 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
+languages: 
 text: #SUBTITLE Puidutööstuse masinad
 	#SUBURL [Course:100819 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
+flags: 1
+ts: 1441924447
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100819 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+host: 82.131.7.230
+lastmajor: 2
+username: AlexDaniel

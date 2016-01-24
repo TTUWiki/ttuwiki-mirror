@@ -1,16 +1,16 @@
-host: 82.131.7.230
-blocks: [Course:100064 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+username: AlexDaniel
 ip: 89.235.235.166
-ts: 1441924447
+revision: 4
 flags: 1
+host: 82.131.7.230
+lastmajor: 2
+ts: 1441924447
+languages: 
 text: #SUBTITLE Separatsiooniprotsessid - praktikum
 	#SUBURL [Course:100064 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924447
 minor: 1
-languages: 
-lastmajor: 2
+blocks: [Course:100064 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

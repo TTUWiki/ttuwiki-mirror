@@ -58,17 +58,15 @@ text: == EAKM07/09 - Keskkonnatehnika [Kava:50107 〔Õppekava ÕIS-is〕]
 	[[EKK0022]] Ventilatsioon - projekt
 	
 	
-blocks: 
 host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924149
+diff-major: 
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAKM07/09 - Keskkonnatehnika Kava:50107</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAKM07/09 - Keskkonnatehnika <strong class="changes">[</strong>Kava:50107 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
 minor: 1
-languages: 
-keep-ts: 1441924149
-revision: 4
 username: AlexDaniel
-diff-major: 
+languages: 
+ts: 1441924149

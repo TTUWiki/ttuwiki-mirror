@@ -1,16 +1,14 @@
-username: AlexDaniel
 ip: 89.235.235.166
+ts: 1441924446
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+revision: 4
 keep-ts: 1441924446
-blocks: [Course:31926 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Väljendus- ja vaidlusõpetus
 	#SUBURL [Course:31926 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
-ts: 1441924446
-minor: 1

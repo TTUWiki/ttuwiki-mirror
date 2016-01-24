@@ -1,13 +1,3 @@
-flags: 
-host: 82.131.7.230
-revision: 4
-ts: 1441924150
-languages: 
-minor: 1
-username: AlexDaniel
-keep-ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
 text: == IALB13/15 - Elektroonika ja telekommunikatsioon [Kava:50307 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITX0040]] Andmeturve
@@ -53,7 +43,15 @@ text: == IALB13/15 - Elektroonika ja telekommunikatsioon [Kava:50307 〔Õppekav
 	[[YMR0170]] Tõenäosusteooria ja matemaatiline statistika
 	
 	
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-major: 
+keep-ts: 1441924150
+revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IALB13/15 - Elektroonika ja telekommunikatsioon Kava:50307</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IALB13/15 - Elektroonika ja telekommunikatsioon <strong class="changes">[</strong>Kava:50307 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+ts: 1441924150
+languages: 

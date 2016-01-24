@@ -1,16 +1,16 @@
-minor: 1
-blocks: [Course:38713 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 host: 82.131.7.230
-flags: 1
+minor: 1
 text: #SUBTITLE Puhke- ja spordialade planeerimine - projekt
 	#SUBURL [Course:38713 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
-username: AlexDaniel
-revision: 4
+flags: 1
 ts: 1441924449
+ip: 89.235.235.166
 keep-ts: 1441924449
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+blocks: [Course:38713 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2

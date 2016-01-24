@@ -1,14 +1,12 @@
+revision: 2
+username: AlexDaniel
+minor: 1
 ts: 1441924452
+languages: 
 text: #SUBTITLE Veekogude ökoloogia
 	#SUBURL [Course:110171 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-minor: 1
-blocks: [Course:110171 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924452
-revision: 2
-languages: 
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452

@@ -1,16 +1,14 @@
-minor: 1
+revision: 4
 username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
 ts: 1441924449
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Eriotstarbeliste alade kujundamine
 	#SUBURL [Course:38962 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-flags: 1
-keep-ts: 1441924449
-ip: 89.235.235.166
-revision: 4
 host: 82.131.7.230
-blocks: [Course:38962 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+keep-ts: 1441924449

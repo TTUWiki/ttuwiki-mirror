@@ -1,13 +1,15 @@
-diff-major: 
-revision: 4
 languages: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924149
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EALB02/04 - Logistika Kava:3723</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EALB02/04 - Logistika <strong class="changes">[</strong>Kava:3723 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+minor: 1
 username: AlexDaniel
+revision: 4
+keep-ts: 1441924149
+diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == EALB02/04 - Logistika [Kava:3723 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMJ0150]] Äri planeerimine
@@ -56,7 +58,3 @@ text: == EALB02/04 - Logistika [Kava:3723 〔Õppekava ÕIS-is〕]
 	[[IDU0130]] Võrgurakendused
 	
 	
-keep-ts: 1441924149
-ts: 1441924149
-minor: 1
-blocks: 

@@ -1,15 +1,13 @@
-host: 85.253.110.44
-diff-major: 
-flags: 
-minor: 1
 languages: 
-username: Bot
-blocks: 
+ts: 1438887014
+minor: 1
 diff-minor: 
+username: Bot
 revision: 2
 keep-ts: 1438887014
+diff-major: 
+host: 85.253.110.44
 summary: Автоматическое обновление
-ts: 1438887014
 text: <include "EAXM15-15">
 	
 	

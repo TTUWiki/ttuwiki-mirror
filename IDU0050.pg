@@ -1,16 +1,16 @@
-ip: 89.235.235.166
 minor: 1
-flags: 1
+lastmajor: 2
+ip: 89.235.235.166
 keep-ts: 1441924447
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1441924447
 languages: 
 text: #SUBTITLE Objektorienteeritud disain
 	#SUBURL [Course:30856 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:30856 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+host: 82.131.7.230
 revision: 4
-ts: 1441924447
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:30856 〔Õppeaine ÕIS-is〕]

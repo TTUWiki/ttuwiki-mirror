@@ -1,8 +1,6 @@
-diff-major: 
 keep-ts: 1441924153
+diff-major: 
 host: 82.131.7.230
-minor: 1
-languages: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == TAKM02/12 - Ärikorraldus [Kava:50198 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
@@ -43,11 +41,11 @@ text: == TAKM02/12 - Ärikorraldus [Kava:50198 〔Õppekava ÕIS-is〕]
 	[[TXX1110]] Uurimistöö
 	
 	
-flags: 
+languages: 
 ts: 1441924153
-revision: 5
-username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAKM02/12 - Ärikorraldus Kava:50198</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAKM02/12 - Ärikorraldus <strong class="changes">[</strong>Kava:50198 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
+username: AlexDaniel
+revision: 5

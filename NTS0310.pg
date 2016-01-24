@@ -1,16 +1,16 @@
-languages: 
 blocks: [Course:38765 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 minor: 1
-ts: 1441924449
-host: 82.131.7.230
-lastmajor: 2
-username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 text: #SUBTITLE Küte ja ventilatsioon
 	#SUBURL [Course:38765 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
 flags: 1
-ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
+ts: 1441924449
+host: 82.131.7.230
+languages: 

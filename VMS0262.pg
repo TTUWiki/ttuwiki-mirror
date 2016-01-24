@@ -1,9 +1,6 @@
-revision: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:109089 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Meretranspordi kommertsekspluatatsioon, põhikursus
 	#SUBURL [Course:109089 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -11,4 +8,5 @@ text: #SUBTITLE Meretranspordi kommertsekspluatatsioon, põhikursus
 languages: 
 ts: 1441924452
 minor: 1
-keep-ts: 1441924452
+username: AlexDaniel
+revision: 2

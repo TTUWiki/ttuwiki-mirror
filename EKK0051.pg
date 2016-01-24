@@ -1,6 +1,18 @@
-revision: 5
+languages: 
 ip: 89.235.235.166
+ts: 1443703030
+lastmajorsummary: 
+minor: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; ==Kirjandus<br />&gt; #Seppänen</strong>, <strong class="changes">M</strong>. <strong class="changes">Seppänen. Hoone sisekliima kujundamine. Tallinn, Koolibri, 1998.<br />&gt; # Enno Abel [http://www.ester.ee/record=b4434678*est Hoonete energiatarve ja sisekliima]</strong></p></div>
+username: Ain_Laidoja
+revision: 5
+keep-ts: 1443703030
 diff-major: 1
+host: 193.40.244.196
+summary: 
+lastmajor: 5
 text: #SUBTITLE Hoonete sisekliima
 	#SUBURL [Course:101601 〔Õppeaine ÕIS-is〕]
 	
@@ -13,17 +25,3 @@ text: #SUBTITLE Hoonete sisekliima
 	
 	# Enno Abel [http://www.ester.ee/record=b4434678*est Hoonete energiatarve ja sisekliima]
 	
-ts: 1443703030
-lastmajorsummary: 
-summary: 
-keep-ts: 1443703030
-blocks: [Course:101601 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
-flags: 1
-minor: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal<br />&gt; ==Kirjandus<br />&gt; #Seppänen</strong>, <strong class="changes">M</strong>. <strong class="changes">Seppänen. Hoone sisekliima kujundamine. Tallinn, Koolibri, 1998.<br />&gt; # Enno Abel [http://www.ester.ee/record=b4434678*est Hoonete energiatarve ja sisekliima]</strong></p></div>
-host: 193.40.244.196
-lastmajor: 5
-languages: 

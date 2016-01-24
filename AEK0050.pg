@@ -1,16 +1,14 @@
-keep-ts: 1441924444
 ts: 1441924444
-minor: 1
-host: 82.131.7.230
 ip: 89.235.235.166
+languages: 
+username: AlexDaniel
+minor: 1
+revision: 4
+keep-ts: 1441924444
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Alajaamad - projekt
 	#SUBURL [Course:31717 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-lastmajor: 2
-blocks: [Course:31717 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-flags: 1

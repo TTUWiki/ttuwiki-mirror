@@ -1,14 +1,12 @@
-blocks: [Course:109752 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-flags: 1
+revision: 2
+username: AlexDaniel
 minor: 1
-keep-ts: 1441924444
+ts: 1441924444
+languages: 
 text: #SUBTITLE Universaalne disain maastikuarhitektuuris
 	#SUBURL [Course:109752 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924444
+host: 82.131.7.230
+keep-ts: 1441924444

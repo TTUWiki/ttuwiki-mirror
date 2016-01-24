@@ -1,3 +1,9 @@
+minor: 1
+ip: 89.235.235.166
+blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 7
+username: AlexDaniel
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:29486 〔Õppeaine ÕIS-is〕]
 	
@@ -25,15 +31,9 @@ text: #SUBTITLE Füüsika I
 	На экзамен приходят все. Экзамен устный, три вопроса: 2 по теории и 1 задача. Кто пропустил много занятий, тем будут еще дополнительные вопросы, а кто написал контрольные на сумму от 160 до 200 баллов - будут предложены автоматы. 
 	PS: единицу в любом случае получите.
 	
-keep-ts: 1441924452
-blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-ts: 1441924452
-flags: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 7
-host: 82.131.7.230
-minor: 1
 lastmajor: 5
+host: 82.131.7.230
+ts: 1441924452
+keep-ts: 1441924452
+languages: 
+flags: 1

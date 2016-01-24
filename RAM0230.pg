@@ -1,16 +1,14 @@
-flags: 1
+languages: 
+ip: 89.235.235.166
+ts: 1441924449
+minor: 1
+username: AlexDaniel
+revision: 4
+keep-ts: 1441924449
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Rakenduste arhitektuur
 	#SUBURL [Course:106262 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-minor: 1
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-revision: 4
-blocks: [Course:106262 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230

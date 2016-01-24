@@ -1,5 +1,7 @@
 keep-ts: 1441924155
-ts: 1441924155
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == YAMD06/09 - Maa-teadused [Kava:50117 〔Õppekava ÕIS-is〕]
 	[[NSO9020]] Atmosfääri- ja kliimateaduste alused
 	[[NSO9091]] Eriseminar okeanograafias ja meteoroloogias
@@ -25,15 +27,11 @@ text: == YAMD06/09 - Maa-teadused [Kava:50117 〔Õppekava ÕIS-is〕]
 	[[NSO9010]] Veeteaduste alused
 	
 	
+languages: 
+ts: 1441924155
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAMD06/09 - Maa-teadused Kava:50117</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAMD06/09 - Maa-teadused <strong class="changes">[</strong>Kava:50117 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
 username: AlexDaniel
-host: 82.131.7.230
-flags: 
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 revision: 4
-blocks: 
-diff-major: 

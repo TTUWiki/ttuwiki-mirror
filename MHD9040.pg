@@ -1,16 +1,16 @@
-languages: 
 keep-ts: 1441924448
-flags: 1
-blocks: [Course:100993 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Masinate töökindlus ja diagnostika
 	#SUBURL [Course:100993 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
 minor: 1
-lastmajor: 2
+username: AlexDaniel
+flags: 1
+blocks: [Course:100993 〔Õppeaine ÕIS-is〕]
+revision: 4
 ts: 1441924448
-ip: 89.235.235.166
-host: 82.131.7.230
+lastmajor: 2

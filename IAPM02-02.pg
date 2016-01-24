@@ -1,17 +1,3 @@
-keep-ts: 1441924150
-ts: 1441924150
-flags: 
-blocks: 
-minor: 1
-languages: 
-host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAPM02/02 - Informaatika Kava:1015</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAPM02/02 - Informaatika <strong class="changes">[</strong>Kava:1015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
 text: == IAPM02/02 - Informaatika [Kava:1015 〔Õppekava ÕIS-is〕]
 	[[ITV0090]] Andmebaaside administreerimine
 	[[IAG0020]] Andmebaasi võrguliidesed
@@ -54,3 +40,15 @@ text: == IAPM02/02 - Informaatika [Kava:1015 〔Õppekava ÕIS-is〕]
 	[[ITV0040]] Võrgurakendused II - hajussüsteemide tehnoloogia
 	
 	
+diff-major: 
+keep-ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+ts: 1441924150
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAPM02/02 - Informaatika Kava:1015</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAPM02/02 - Informaatika <strong class="changes">[</strong>Kava:1015 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

@@ -1,14 +1,7 @@
 diff-major: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TARM02/09 - Ärirahandus ja majandusarvestus Kava:50075</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TARM02/09 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50075 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 keep-ts: 1441924153
-username: AlexDaniel
-blocks: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-flags: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == TARM02/09 - Ärirahandus ja majandusarvestus [Kava:50075 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMO1090]] Äriühingute valitsemine
@@ -51,4 +44,9 @@ text: == TARM02/09 - Ärirahandus ja majandusarvestus [Kava:50075 〔Õppekava �
 	
 ts: 1441924153
 languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TARM02/09 - Ärirahandus ja majandusarvestus Kava:50075</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TARM02/09 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50075 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 revision: 4

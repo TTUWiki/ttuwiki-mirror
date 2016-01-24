@@ -1,14 +1,12 @@
-host: 82.131.7.230
-revision: 2
-minor: 1
 text: #SUBTITLE Geokeemia alused
 	#SUBURL [Course:109841 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924448
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924448
-blocks: [Course:109841 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924448
+revision: 2
 username: AlexDaniel
+minor: 1
+ts: 1441924448
+languages: 

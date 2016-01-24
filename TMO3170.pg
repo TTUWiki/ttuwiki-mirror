@@ -1,9 +1,3 @@
-flags: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">https://moodle.hitsa.ee/mod/folder/view.php?id=</strong>706293</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">[Moodle:</strong>706293 <strong class="changes">Moodle]</strong></p></div>
-diff-major: 
-keep-ts: 1442598717
 text: #SUBTITLE Organisatsiooni ja juhtimise teooriad ja meetodid
 	#SUBURL [Course:33883 〔Õppeaine ÕIS-is〕]
 	
@@ -29,13 +23,19 @@ text: #SUBTITLE Organisatsiooni ja juhtimise teooriad ja meetodid
 	-- AlexDaniel 2015-03-05 22:00:05
 	
 	
-languages: 
+diff-major: 
 summary: Moodle:
-revision: 7
-minor: 1
-blocks: [Course:33883 〔Õppeaine ÕIS-is〕]
-ts: 1442598717
-ip: 89.235.235.166
+keep-ts: 1442598717
 host: 82.131.7.230
 lastmajor: 5
+ip: 89.235.235.166
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">https://moodle.hitsa.ee/mod/folder/view.php?id=</strong>706293</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[Moodle:</strong>706293 <strong class="changes">Moodle]</strong></p></div>
+languages: 
+blocks: [Course:33883 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 1
 username: AlexDaniel
+ts: 1442598717
+revision: 7

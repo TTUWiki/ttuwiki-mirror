@@ -1,16 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
 revision: 4
-ts: 1441924448
+ip: 89.235.235.166
 text: #SUBTITLE Mikrobioloogia - praktikum
 	#SUBURL [Course:27451 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ip: 89.235.235.166
-blocks: [Course:27451 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-host: 82.131.7.230
 minor: 1
+username: AlexDaniel
+blocks: [Course:27451 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+languages: 
+ts: 1441924448
 flags: 1
+keep-ts: 1441924448

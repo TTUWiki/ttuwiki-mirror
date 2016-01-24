@@ -1,13 +1,3 @@
-minor: 
-host: 82.131.5.128
-lastmajor: 11
-lastmajorsummary: ✓
-revision: 11
-ts: 1453232026
-keep-ts: 1453232026
-languages: 
-username: AlexDaniel
-ip: 89.235.239.240
 text: Поступил в 2013-ом на ÄriIT.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -31,4 +21,14 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
+keep-ts: 1453232026
+lastmajor: 11
+host: 82.131.5.128
 summary: ✓
+revision: 11
+lastmajorsummary: ✓
+ip: 89.235.239.240
+ts: 1453232026
+languages: 
+username: AlexDaniel
+minor: 

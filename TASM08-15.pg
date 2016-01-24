@@ -1,7 +1,15 @@
-flags: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50331</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50331 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924153
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+diff-major: 
 text: == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50331 〔Õppekava ÕIS-is〕]
 	[[TSX1101]] Erialane võõrkeel I
 	[[TSX1102]] Erialane võõrkeel II
@@ -33,13 +41,3 @@ text: == TASM08/15 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:5033
 	[[TSP1040]] Võrdlev poliitikateadus
 	
 	
-revision: 4
-ts: 1441924153
-languages: 
-blocks: 
-username: AlexDaniel
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-host: 82.131.7.230
-minor: 1
-keep-ts: 1441924153

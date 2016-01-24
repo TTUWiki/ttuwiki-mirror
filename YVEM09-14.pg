@@ -1,13 +1,7 @@
-revision: 4
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YVEM09/14 - Tervishoiutehnoloogia Kava:50254</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YVEM09/14 - Tervishoiutehnoloogia <strong class="changes">[</strong>Kava:50254 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
+host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-major: 
 keep-ts: 1441924155
-flags: 
-host: 82.131.7.230
 text: == YVEM09/14 - Tervishoiutehnoloogia [Kava:50254 〔Õppekava ÕIS-is〕]
 	[[DMK1031]] Andmete kodeerimine meditsiinis
 	[[IDY0275]] Äriinfosüsteemid
@@ -44,6 +38,10 @@ text: == YVEM09/14 - Tervishoiutehnoloogia [Kava:50254 〔Õppekava ÕIS-is〕]
 	
 	
 username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YVEM09/14 - Tervishoiutehnoloogia Kava:50254</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YVEM09/14 - Tervishoiutehnoloogia <strong class="changes">[</strong>Kava:50254 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
 ts: 1441924155
 languages: 
-minor: 1
+revision: 4

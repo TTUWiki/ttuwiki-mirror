@@ -1,14 +1,12 @@
-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:108943 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924452
 host: 82.131.7.230
+keep-ts: 1441924452
 text: #SUBTITLE Keevitustehnoloogia ja keeviskonstruktsioonid
 	#SUBURL [Course:108943 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 minor: 1
+username: AlexDaniel
 languages: 
+ts: 1441924452
 revision: 2

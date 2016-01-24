@@ -1,17 +1,3 @@
-ts: 1438886370
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "IALB13-15"&gt;</p></div>
-ip: 89.235.235.166
-summary: Автоматическое обновление
-flags: 
-revision: 3
-keep-ts: 1438886370
-blocks: 
-minor: 1
-lastmajor: 1
-diff-major: 
-username: Bot
-languages: 
 text: <include "IALB13-15">
 	
 	<include "IALB13-14">
@@ -20,4 +6,16 @@ text: <include "IALB13-15">
 	
 	
 	
+diff-major: 
+keep-ts: 1438886370
 host: 85.253.110.44
+summary: Автоматическое обновление
+lastmajor: 1
+revision: 3
+ip: 89.235.235.166
+ts: 1438886370
+languages: 
+username: Bot
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "IALB13-15"&gt;</p></div>
+minor: 1

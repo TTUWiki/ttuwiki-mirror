@@ -1,16 +1,14 @@
-blocks: [Course:102205 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-minor: 1
 lastmajor: 2
-ts: 1441924451
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924451
 text: #SUBTITLE Operatsioonide ja logistika juhtimine
 	#SUBURL [Course:102205 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924451
 username: AlexDaniel
-revision: 4
+minor: 1
+ts: 1441924451
+ip: 89.235.235.166
 languages: 
+revision: 4

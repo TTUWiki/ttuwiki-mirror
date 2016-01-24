@@ -1,20 +1,18 @@
+diff-major: 
+keep-ts: 1408885580
+host: 89.235.223.25
+summary: Автоматическое обновление (расписание)
 lastmajor: 1
 text: <include "BDRR13-13">
 	
 	
 	
+ts: 1408885580
+ip: 89.235.235.166
+languages: 
+username: Bot
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== BDRR13/13 - Kinnisvara korrashoid [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_action=view&amp;p_fk_str_yksus_id=342&amp;p_kava_versioon_id=50231&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[EEA0021]] Arhitektuur\\<br />&lt; [[BCU1910]] Ärilogistika\\<br />&lt; [[BCU0141]] Arvestuse alused\\<br />&lt; [[BCU3230]] Arvutigraafika\\<br />&lt; [[BCU4530]] Automaatika alused\\<br />&lt; [[BCU3130]] Eesti keele väljendusõpetus\\<br />&lt; [[BCU4550]] Ehitiste mõõdistamine\\<br />&lt; [[BCU4580]] Ehitiste mõõdistamine - õppepraktika\\<br />&lt; [[BCU3670]] Ehitusfüüsika\\<br />&lt; [[BCU3520]] Ehitusgraafika alused\\<br />&lt; [[BCU1130]] Ehitusinvesteeringute plaanimine\\<br />&lt; [[BCU3680]] Ehituskonstruktsioonide üldkursus\\<br />&lt; [[BCU4560]] Ehituskorraldus\\<br />&lt; [[BCU1290]] Ehitusmaksumuse plaanimine\\<br />&lt; [[BCU3640]] Ehitusmaterjalid\\<br />&lt; [[BCU4500]] Ehitusmehaanika\\<br />&lt; [[BCU4520]] Elektrotehnika ja elektroonika\\<br />&lt; [[BCU4030]] Ettevõtluse alused\\<br />&lt; [[BCU3650]] Hoonete automatiseerimine\\<br />&lt; [[BCU0330]] Informaatika\\<br />&lt; [[BCU3200]] Inglise erialakeel\\<br />&lt; [[BCU0471]] Inglise keel I\\<br />&lt; [[BCU1940]] Innovatsioon ja tootearendus\\<br />&lt; [[BCU3590]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[EPJ3810]] Kinnisvara haldamine\\<br />&lt; [[BCU1300]] Kinnisvara hindamine\\<br />&lt; [[BCU4570]] Kinnisvara korrashoid\\<br />&lt; [[BCU2070]] Kinnisvaraõigus\\<br />&lt; [[BCU1120]] Kinnisvara ökonoomika\\<br />&lt; [[BCU3740]] Küte ja ventilatsioon\\<br />&lt; [[BCU4590]] Linnamajanduse korraldus\\<br />&lt; [[BCU4540]] Majanduse alused\\<br />&lt; [[BCU4490]] Majandusmatemaatika\\<br />&lt; [[BCU3480]] Õiguse alused\\<br />&lt; [[BCU1890]] Operatsioonijuhtimine\\<br />&lt; [[BCU3780]] Praktika ehitiste hooldusettevõttes\\<br />&lt; [[BCU3790]] Praktika kinnisvara haldus- ja arendusettevõttes\\<br />&lt; [[BCU3360]] Projektijuhtimine\\<br />&lt; [[BCU4600]] Raamatupidamine kinnisvara halduses\\<br />&lt; [[BCU3510]] Riski- ja ohutusõpetus\\<br />&lt; [[BCU1250]] Soojus</strong>- <strong class="changes">ja gaasivarustus\\<br />&lt; [[BCU0431]] Statistika\\<br />&lt; [[BCU4510]] Tehniline mehaanika\\<br />&lt; [[EPJ3940]] Tehnovõrkude ekspluatatsioon\\<br />&lt; [[BCU1630]] Tööõigus\\<br />&lt; [[BCU3240]] Uurimistöö alused\\<br />&lt; [[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "BDRR13</strong>-<strong class="changes">13"&gt;</strong></p></div>
-blocks: 
-keep-ts: 1408885580
 minor: 1
-username: Bot
-ts: 1408885580
-diff-major: 
-summary: Автоматическое обновление (расписание)
-languages: 
 revision: 2
-ip: 89.235.235.166
-host: 89.235.223.25
-flags: 

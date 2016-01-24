@@ -1,6 +1,8 @@
-flags: 1
-diff-major: 1
+lastmajor: 9
+host: 193.40.244.217
 summary: 
+diff-major: 1
+keep-ts: 1444736280
 text: #SUBTITLE Loodushoid energeetikas
 	#SUBURL [Course:30508 〔Õppeaine ÕIS-is〕]
 	
@@ -17,16 +19,12 @@ text: #SUBTITLE Loodushoid energeetikas
 	# **2015-10-30** - [http://www.vkg.ee/est/kontaktid/keskkonna-ja-tehnikaosakond Meelis Eldermann'i] loeng CO2 teemal
 	#**2015-11-13 16:00** - Kodutöö esitamise tähtaeg 
 	
-revision: 9
-ip: 89.235.235.166
 username: 
-lastmajorsummary: 
-minor: 
-host: 193.40.244.217
-keep-ts: 1444736280
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; * [http://www.tud.ttu.ee/im/Lauri.Loo/Loodushoid%20energeetikas%20-%20MSJ0030/ Õppeaine koduleht]</p></div>
-lastmajor: 9
-blocks: [Course:30508 〔Õppeaine ÕIS-is〕]
-languages: 
+minor: 
+lastmajorsummary: 
 ts: 1444736280
+ip: 89.235.235.166
+languages: 
+revision: 9

@@ -1,4 +1,3 @@
-revision: 4
 text: == HAHM03/09 - Haldusjuhtimine [Kava:50008 〔Õppekava ÕIS-is〕]
 	[[HHL1200]] Avalik eetika
 	[[HHM1130]] Avalik teenistus
@@ -35,16 +34,15 @@ text: == HAHM03/09 - Haldusjuhtimine [Kava:50008 〔Õppekava ÕIS-is〕]
 	[[HHM1080]] Võrdlev avalik haldus
 	
 	
-blocks: 
-username: AlexDaniel
-minor: 1
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 diff-major: 
 keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
 ts: 1441924149
+languages: 
+username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAHM03/09 - Haldusjuhtimine Kava:50008</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAHM03/09 - Haldusjuhtimine <strong class="changes">[</strong>Kava:50008 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-flags: 

@@ -1,15 +1,6 @@
-revision: 4
-languages: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAGB02/02 - Geotehnoloogia Kava:804</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAGB02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:804 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924148
-ts: 1441924148
-minor: 1
-username: AlexDaniel
 diff-major: 
-flags: 
-blocks: 
+keep-ts: 1441924148
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 text: == AAGB02/02 - Geotehnoloogia [Kava:804 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -62,4 +53,11 @@ text: == AAGB02/02 - Geotehnoloogia [Kava:804 〔Õppekava ÕIS-is〕]
 	[[YGK3350]] Tehniline joonestamine
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924148
+languages: 
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAGB02/02 - Geotehnoloogia Kava:804</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAGB02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:804 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+revision: 4

@@ -1,24 +1,3 @@
-blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
-summary: Wiki -> Info, since it is not a real wiki…
-keep-ts: 1444254337
-flags: 1
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Materials</strong></p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015-09-03 10:51:12<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Примечания</strong></p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; -- AlexDaniel 2015-09-03 14:02:26<br />&lt; ----</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015</strong>-<strong class="changes">09-04 22:38</strong>:<strong class="changes">09<br />&lt; ----</strong><br />&lt; http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-26 14:31:13</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Еще есть какие</strong>-<strong class="changes">то старые материалы</strong>: http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</p></div>
-ip: 89.235.235.166
-host: 85.253.111.195
-languages: 
-lastmajor: 11
-username: AlexDaniel
-lastmajorsummary: Page refactoring
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Wiki</strong>]</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Info</strong>]</p></div>
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
 	
@@ -35,6 +14,25 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
-ts: 1444254337
-minor: 1
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Materials</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015-09-03 10:51:12<br />&lt; ----</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">== Примечания</strong></p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; -- AlexDaniel 2015-09-03 14:02:26<br />&lt; ----</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">-- AlexDaniel 2015</strong>-<strong class="changes">09-04 22:38</strong>:<strong class="changes">09<br />&lt; ----</strong><br />&lt; http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc<br />&lt; <strong class="changes">-- AlexDaniel 2015-09-26 14:31:13</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Еще есть какие</strong>-<strong class="changes">то старые материалы</strong>: http://193.40.251.102/tiki-index.php?page=ITI0020&amp;offset=&amp;sort_mode=comment_desc</p></div>
+keep-ts: 1444254337
+summary: Wiki -> Info, since it is not a real wiki…
+host: 85.253.111.195
+lastmajor: 11
 revision: 12
+ip: 89.235.235.166
+ts: 1444254337
+lastmajorsummary: Page refactoring
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Wiki</strong>]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * [https://courses.cs.ttu.ee/pages/ITI0021 <strong class="changes">Info</strong>]</p></div>

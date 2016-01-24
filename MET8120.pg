@@ -1,16 +1,14 @@
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+keep-ts: 1441924448
 text: #SUBTITLE Töötlemise simulatsiooni rakendusi
 	#SUBURL [Course:30633 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924448
-flags: 1
 minor: 1
-languages: 
-blocks: [Course:30633 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 username: AlexDaniel
+languages: 
 ts: 1441924448
+ip: 89.235.235.166
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-host: 82.131.7.230

@@ -1,22 +1,20 @@
-ip: 89.235.235.166
-revision: 2
+diff-major: 
+keep-ts: 1408885668
+lastmajor: 1
+summary: Автоматическое обновление (расписание)
+host: 89.235.223.25
 text: <include "HAPM10-14">
 	
 	<include "HAPM10-10">
 	
 	
 	
-host: 89.235.223.25
-languages: 
-flags: 
-summary: Автоматическое обновление (расписание)
-lastmajor: 1
-blocks: 
-minor: 1
-keep-ts: 1408885668
 ts: 1408885668
-diff-major: 
+ip: 89.235.235.166
+languages: 
 username: Bot
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== HAPM10/14 - Personalitöö ja -arendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50247&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HPP8113]] Andragoogika alused\\<br />&lt; [[HHM1130]] Avalik teenistus\\<br />&lt; [[HPP8290]] Erialapraktika\\<br />&lt; [[TMJ3331]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[TER8610]] Finantsjuhtimine\\<br />&lt; [[HHP8202]] Juhtimispsühholoogia\\<br />&lt; [[HHR1211]] Kohaliku omavalitsuse korraldus\\<br />&lt; [[HPP8105]] Kommunikatsiooni juhtimine\\<br />&lt; [[HPP8115]] Majanduspsühholoogia\\<br />&lt; [[HPP8107]] Meeskonnatöö ja grupiprotsesside juhtimine\\<br />&lt; [[HPP8110]] Muudatuste juhtimine\\<br />&lt; [[HPP8213]] Organisatsiooni areng ja innovatsioon\\<br />&lt; [[HPP8275]] Personali haldamine ja arendamine julgeolekustruktuurides\\<br />&lt; [[HPP8206]] Personali hindamine\\<br />&lt; [[HPP8221]] Personalijuhtimise võrdlev analüüs väike- ja suurettevõtetes\\<br />&lt; [[HPP8203]] Personali planeerimine\\<br />&lt; [[HPP8208]] Personalitöö eetika\\<br />&lt; [[HPP8201]] Personaliuuringud\\<br />&lt; [[HPP8270]] Personali valik ja planeerimine julgeolekustruktuurides\\<br />&lt; [[TMO1350]] Rahvusvaheline personalijuhtimine\\<br />&lt; [[HPP8101]] Teadusmetodoloogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[HPP8215]] Tööelu kvaliteet\\<br />&lt; [[HPP8260]] Töönõustamine ja töötajate probleemide lahendamine\\<br />&lt; [[HOE6025]] Tööõigus\\<br />&lt; [[HPP8103]] Tööpsühholoogia\\<br />&lt; [[HPP8205]] Töötajate arendamine ja koolitamine\\<br />&lt; [[HPP8104]] Töötasustamine ja motiveerimise süsteemid\\<br />&lt; [[TTS1080]] Tööturuprotsessid ja -poliitika\\<br />&lt; [[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad\\<br />&lt; ===</strong> HAPM10<strong class="changes">/10 - Personalitöö ja</strong> -<strong class="changes">arendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=90&amp;p_kava_versioon_id=50142&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HPP8113]] Andragoogika alused\\<br />&lt; [[HHM1130]] Avalik teenistus\\<br />&lt; [[HHM1090]] Avaliku ja erasektori koostöö\\<br />&lt; [[HPP8210]] Eriala praktika\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[TER8610]] Finantsjuhtimine\\<br />&lt; [[HHP8202]] Juhtimispsühholoogia\\<br />&lt; [[HPP8222]] Kaasaegsed väljakutsed personalijuhtimises\\<br />&lt; [[HHR1211]] Kohaliku omavalitsuse korraldus\\<br />&lt; [[HPP8105]] Kommunikatsiooni juhtimine\\<br />&lt; [[HPP8115]] Majanduspsühholoogia\\<br />&lt; [[TET8280]] Majandusteooria ja ettevõtluskeskkond\\<br />&lt; [[HPP8107]] Meeskonnatöö ja grupiprotsesside juhtimine\\<br />&lt; [[HPP8111]] Multikultuurse töökeskkonna juhtimine\\<br />&lt; [[HPP8110]] Muudatuste juhtimine\\<br />&lt; [[HPP8213]] Organisatsiooni areng ja innovatsioon\\<br />&lt; [[HPP8206]] Personali hindamine\\<br />&lt; [[HHM1020]] Personalijuhtimine avalikus sektoris\\<br />&lt; [[HPP8211]] Personalijuhtimise praktilised probleemid avalikus sektoris\\<br />&lt; [[HPP8234]] Personalijuhtimise praktilised probleemid sisejulgeoleku struktuurides\\<br />&lt; [[HPP8221]] Personalijuhtimise võrdlev analüüs väike- ja suurettevõtetes\\<br />&lt; [[HPP8203]] Personali planeerimine\\<br />&lt; [[HPP8207]] Personali probleemide haldamine\\<br />&lt; [[HPP8231]] Personali strateegiline kujundamine sisejulgeoleku struktuurides\\<br />&lt; [[HPP8208]] Personalitöö eetika\\<br />&lt; [[HPP8201]] Personaliuuringud\\<br />&lt; [[TMO1350]] Rahvusvaheline personalijuhtimine\\<br />&lt; [[HPP8233]] Sisejulgeoleku struktuuri organisatsioonid ja paramilitaarsed organisatsioonid\\<br />&lt; [[HPP8232]] Sisejulgeoleku süsteemi toimimine ja valdkonna poliitika kujundamine\\<br />&lt; [[HPP8101]] Teadusmetodoloogia\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[HPP8112]] Töönõustamine ja tööelu kvaliteet\\<br />&lt; [[HPP8109]] Tööohutus ja töötervishoid\\<br />&lt; [[HOE6025]] Tööõigus\\<br />&lt; [[HPP8103]] Tööpsühholoogia\\<br />&lt; [[HPP8205]] Töötajate arendamine ja koolitamine\\<br />&lt; [[HPP8214]] Töötajate psühhopatoloogia ja puuetega töötaja\\<br />&lt; [[HPP8104]] Töötasustamine ja motiveerimise süsteemid\\<br />&lt; [[TTS1080]] Tööturuprotsessid ja</strong> -<strong class="changes">poliitika\\<br />&lt; [[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>HAPM10-<strong class="changes">14"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "HAPM10</strong>-<strong class="changes">10"&gt;</strong></p></div>
+minor: 1
+revision: 2

@@ -1,9 +1,11 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-flags: 
-keep-ts: 1441924153
+revision: 4
 minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50121</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50121 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 username: AlexDaniel
+languages: 
+ts: 1441924153
 text: == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:50121 〔Õppekava ÕIS-is〕]
 	[[TSP1150]] Eesti rahvusvaheliste suhete süsteemis
 	[[HOL7006]] Euroopa Liidu konstitutsioon
@@ -36,11 +38,7 @@ text: == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud [Kava:5012
 	[[TSP1040]] Võrdlev poliitikateadus
 	
 	
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud Kava:50121</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TASM08/09 - Rahvusvahelised suhted ja Euroopa-Aasia uuringud <strong class="changes">[</strong>Kava:50121 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
 host: 82.131.7.230
-revision: 4
-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+diff-major: 

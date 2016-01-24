@@ -1,19 +1,17 @@
+revision: 6
+username: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Материалов нет</strong>.</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[http://staff</strong>.<strong class="changes">ttu.ee/~jmajak/optimeerimine.html Õppematerjalid]</strong></p></div>
+minor: 
+ip: 89.235.235.166
 ts: 1441266145
-flags: 
+languages: 
 text: ==Optimeerimismeetodid [http://ois.ttu.ee/portal/page?_pageid=35,428610&_dad=portal&_schema=PORTAL&p_action=view&p_id=100353&p_public=1&p_mode=1]
 	[http://staff.ttu.ee/~jmajak/optimeerimine.html Õppematerjalid]
 	
-summary: 
-ip: 89.235.235.166
-lastmajor: 6
-minor: 
-blocks: 
-diff-major: 1
-languages: 
-username: 
 host: 86.110.37.246
-revision: 6
+summary: 
+lastmajor: 6
+diff-major: 1
 keep-ts: 1441266145

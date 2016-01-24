@@ -1,11 +1,7 @@
-host: 82.131.7.230
-minor: 1
-diff-major: 
-blocks: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDKR14/14 - Külmutusseadmed Kava:50275</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDKR14/14 - Külmutusseadmed <strong class="changes">[</strong>Kava:50275 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+keep-ts: 1441924154
+diff-major: 
 text: == VDKR14/14 - Külmutusseadmed [Kava:50275 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
@@ -95,9 +91,11 @@ text: == VDKR14/14 - Külmutusseadmed [Kava:50275 〔Õppekava ÕIS-is〕]
 	[[VAY0451]] Vene keel I (võõrkeelena)
 	
 	
-flags: 
-revision: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDKR14/14 - Külmutusseadmed Kava:50275</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDKR14/14 - Külmutusseadmed <strong class="changes">[</strong>Kava:50275 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
 languages: 
 ts: 1441924154
-keep-ts: 1441924154
-username: AlexDaniel
+revision: 5

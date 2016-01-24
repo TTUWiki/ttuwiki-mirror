@@ -1,4 +1,15 @@
 ts: 1441924149
+languages: 
+username: AlexDaniel
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EALM02/14 - Logistika Kava:50259</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EALM02/14 - Logistika <strong class="changes">[</strong>Kava:50259 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4
+diff-major: 
+keep-ts: 1441924149
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == EALM02/14 - Logistika [Kava:50259 〔Õppekava ÕIS-is〕]
 	[[IDN5430]] Analüütilised meetodid logistikas
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
@@ -45,16 +56,3 @@ text: == EALM02/14 - Logistika [Kava:50259 〔Õppekava ÕIS-is〕]
 	[[ELT0080]] Varude juhtimine ja koostöö tarneahelas
 	
 	
-languages: 
-flags: 
-keep-ts: 1441924149
-revision: 4
-host: 82.131.7.230
-blocks: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EALM02/14 - Logistika Kava:50259</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EALM02/14 - Logistika <strong class="changes">[</strong>Kava:50259 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-minor: 1

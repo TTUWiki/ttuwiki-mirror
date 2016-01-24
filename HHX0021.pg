@@ -1,16 +1,16 @@
-ip: 89.235.235.166
-blocks: [Course:36923 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
 minor: 1
 lastmajor: 2
-revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924446
+ip: 89.235.235.166
 text: #SUBTITLE Põhiõppe ainetöö
 	#SUBURL [Course:36923 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+blocks: [Course:36923 〔Õppeaine ÕIS-is〕]
+flags: 1
+username: AlexDaniel
 host: 82.131.7.230
+revision: 4
 keep-ts: 1441924446

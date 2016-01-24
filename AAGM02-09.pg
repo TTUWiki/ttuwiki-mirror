@@ -1,17 +1,11 @@
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924148
-ts: 1441924148
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
 languages: 
+ts: 1441924148
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAGM02/09 - Geotehnoloogia Kava:50042</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAGM02/09 - Geotehnoloogia <strong class="changes">[</strong>Kava:50042 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-blocks: 
-diff-major: 
-revision: 4
-flags: 
-host: 82.131.7.230
+username: AlexDaniel
 text: == AAGM02/09 - Geotehnoloogia [Kava:50042 〔Õppekava ÕIS-is〕]
 	[[AKM0259]] Allmaakaevandamine ja projekt
 	[[AKM0170]] Allmaarajatised
@@ -40,3 +34,7 @@ text: == AAGM02/09 - Geotehnoloogia [Kava:50042 〔Õppekava ÕIS-is〕]
 	[[YMR0120]] Tõenäosusteooria ja matemaatiline statistika
 	
 	
+keep-ts: 1441924148
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230

@@ -1,3 +1,15 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDKR05/05 - Kütuste tehnoloogia Kava:3593</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDKR05/05 - Kütuste tehnoloogia <strong class="changes">[</strong>Kava:3593 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924153
+revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+diff-major: 
 text: == RDKR05/05 - Kütuste tehnoloogia [Kava:3593 〔Õppekava ÕIS-is〕]
 	[[RAR0600]] Analüütiline keemia
 	[[RAR0551]] Anorgaaniline keemia
@@ -51,17 +63,3 @@ text: == RDKR05/05 - Kütuste tehnoloogia [Kava:3593 〔Õppekava ÕIS-is〕]
 	[[RAX0031]] Võõrkeel I
 	
 	
-flags: 
-diff-major: 
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDKR05/05 - Kütuste tehnoloogia Kava:3593</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDKR05/05 - Kütuste tehnoloogia <strong class="changes">[</strong>Kava:3593 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-minor: 1
-ts: 1441924153
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924153
-revision: 4

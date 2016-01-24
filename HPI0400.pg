@@ -1,14 +1,14 @@
-blocks: [Course:109818 〔Õppeaine ÕIS-is〕]
 languages: 
 minor: 1
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+revision: 2
+keep-ts: 1441924446
 text: #SUBTITLE Tehnilised õppevahendid, IKT, meedia ja e-õpe
 	#SUBURL [Course:109818 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924446
 flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 host: 82.131.7.230
-revision: 2
-keep-ts: 1441924446
+blocks: [Course:109818 〔Õppeaine ÕIS-is〕]

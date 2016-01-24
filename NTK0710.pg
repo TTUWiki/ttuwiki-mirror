@@ -1,13 +1,13 @@
-revision: 4
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
 ip: 89.235.235.166
-host: 82.131.7.230
-ts: 1441924449
+lastmajor: 2
 username: AlexDaniel
+ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
 blocks: [Course:39169 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
+revision: 4
 minor: 1
 text: #SUBTITLE Regionaalareng ja -planeerimine
 	#SUBURL [Course:39169 〔Õppeaine ÕIS-is〕]

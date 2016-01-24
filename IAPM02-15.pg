@@ -1,5 +1,6 @@
 host: 82.131.7.230
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
 diff-major: 
 text: == IAPM02/15 - Informaatika [Kava:50314 〔Õppekava ÕIS-is〕]
 	[[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
@@ -35,13 +36,10 @@ text: == IAPM02/15 - Informaatika [Kava:50314 〔Õppekava ÕIS-is〕]
 	
 	
 minor: 1
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPM02/15 - Informaatika Kava:50314</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPM02/15 - Informaatika <strong class="changes">[</strong>Kava:50314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-keep-ts: 1441924150
+username: AlexDaniel
 languages: 
-blocks: 
-flags: 
 ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4

@@ -1,16 +1,16 @@
-keep-ts: 1441924448
-blocks: [Course:100512 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
 ip: 89.235.235.166
+revision: 4
+flags: 1
 languages: 
+lastmajor: 2
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:100512 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 text: #SUBTITLE Rahvusvaheliste vedude lepingud ja normid
 	#SUBURL [Course:100512 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-lastmajor: 2
-ts: 1441924448
+host: 82.131.7.230
+minor: 1

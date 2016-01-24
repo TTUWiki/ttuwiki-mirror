@@ -1,16 +1,14 @@
-lastmajor: 2
-flags: 1
-ip: 89.235.235.166
-blocks: [Course:38097 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924449
 revision: 4
 username: AlexDaniel
 minor: 1
-keep-ts: 1441924449
+ts: 1441924449
+ip: 89.235.235.166
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Automaatika alused
 	#SUBURL [Course:38097 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924449

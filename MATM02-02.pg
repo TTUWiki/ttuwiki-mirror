@@ -1,8 +1,3 @@
-flags: 
-username: AlexDaniel
-keep-ts: 1441924152
-blocks: 
-minor: 1
 text: == MATM02/02 - Tootearendus ja tootmistehnika [Kava:744 〔Õppekava ÕIS-is〕]
 	[[MEA5682]] Autod II
 	[[MES0040]] Automatiseerimistehnika
@@ -72,12 +67,15 @@ text: == MATM02/02 - Tootearendus ja tootmistehnika [Kava:744 〔Õppekava ÕIS-
 	[[MEA3360]] Varud ja ladustamine
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924152
 diff-major: 
-revision: 5
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+revision: 5
+languages: 
+ts: 1441924152
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MATM02/02 - Tootearendus ja tootmistehnika Kava:744</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MATM02/02 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:744 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
-ts: 1441924152
+username: AlexDaniel

@@ -1,8 +1,3 @@
-ip: 89.235.235.166
-ts: 1438886400
-username: Bot
-revision: 3
-lastmajor: 1
 text: <include "IVEM11-15">
 	
 	<include "IVEM11-14">
@@ -13,13 +8,16 @@ text: <include "IVEM11-15">
 	
 	
 	
+diff-major: 
+keep-ts: 1438886400
+lastmajor: 1
 host: 85.253.110.44
 summary: Автоматическое обновление
+revision: 3
+ip: 89.235.235.166
+ts: 1438886400
+languages: 
+username: Bot
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "IVEM11-15"&gt;</p></div>
-diff-major: 
-languages: 
-keep-ts: 1438886400
-flags: 
-blocks: 
 minor: 1

@@ -1,9 +1,15 @@
-blocks: 
+ts: 1441924149
+languages: 
 username: AlexDaniel
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAIM08/08e - Õigusteadus Kava:50132</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAIM08/08e - Õigusteadus <strong class="changes">[</strong>Kava:50132 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+revision: 4
+diff-major: 
+keep-ts: 1441924149
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAIM08/08e - Õigusteadus [Kava:50132 〔Õppekava ÕIS-is〕]
 	[[HOA7005]] Avaliku õiguse eriseminar
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
@@ -37,11 +43,3 @@ text: == HAIM08/08e - Õigusteadus [Kava:50132 〔Õppekava ÕIS-is〕]
 	[[HOA7016]] Väärteomenetlus
 	
 	
-languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
-flags: 
-diff-major: 
-host: 82.131.7.230
-ts: 1441924149
-revision: 4

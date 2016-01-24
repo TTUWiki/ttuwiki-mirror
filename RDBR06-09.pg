@@ -1,7 +1,11 @@
-keep-ts: 1441924152
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
 username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDBR06/09 - Hoonete ehitus Kava:50021</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDBR06/09 - Hoonete ehitus <strong class="changes">[</strong>Kava:50021 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+ts: 1441924152
+languages: 
 text: == RDBR06/09 - Hoonete ehitus [Kava:50021 〔Õppekava ÕIS-is〕]
 	[[RAR2061]] Arhitektuur
 	[[RAR2062]] Arhitektuur - projekt
@@ -67,13 +71,7 @@ text: == RDBR06/09 - Hoonete ehitus [Kava:50021 〔Õppekava ÕIS-is〕]
 	[[RAR2162]] Vundamendid - projekt
 	
 	
-diff-major: 
-blocks: 
-ts: 1441924152
-languages: 
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDBR06/09 - Hoonete ehitus Kava:50021</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDBR06/09 - Hoonete ehitus <strong class="changes">[</strong>Kava:50021 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+diff-major: 
+keep-ts: 1441924152

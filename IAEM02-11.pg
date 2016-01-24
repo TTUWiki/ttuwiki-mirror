@@ -1,13 +1,11 @@
-host: 82.131.7.230
-minor: 1
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924150
-keep-ts: 1441924150
-blocks: 
+revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAEM02/11 - Elektroonika ja bioonika Kava:50172</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAEM02/11 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50172 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+minor: 1
+ts: 1441924150
+languages: 
 text: == IAEM02/11 - Elektroonika ja bioonika [Kava:50172 〔Õppekava ÕIS-is〕]
 	[[IED3010]] Analoog/digitaal skeemide disain
 	[[IEM3040]] Andmehõivesüsteemid
@@ -38,7 +36,7 @@ text: == IAEM02/11 - Elektroonika ja bioonika [Kava:50172 〔Õppekava ÕIS-is�
 	[[IEM3020]] Test ja diagnostika
 	
 	
-username: AlexDaniel
-languages: 
-revision: 4
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-major: 
+keep-ts: 1441924150

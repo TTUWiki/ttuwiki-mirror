@@ -1,16 +1,16 @@
-lastmajor: 2
 keep-ts: 1441924451
+blocks: [Course:101972 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 1
+ts: 1441924451
+languages: 
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+host: 82.131.7.230
+revision: 4
 text: #SUBTITLE Juhtimise alused
 	#SUBURL [Course:101972 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-revision: 4
-username: AlexDaniel
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:101972 〔Õppeaine ÕIS-is〕]

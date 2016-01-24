@@ -1,15 +1,7 @@
-ts: 1441924153
-username: AlexDaniel
-flags: 
-minor: 1
-blocks: 
-diff-major: 
-languages: 
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TASB08/15 - Rahvusvahelised suhted Kava:50330</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TASB08/15 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924153
+diff-major: 
 text: == TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]
 	[[TSK0309]] Avalik esinemine
 	[[TMJ0110]] Ettevõtluse alused
@@ -58,5 +50,11 @@ text: == TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]
 	[[TSE0040]] XX sajandi Euroopa ajalugu
 	
 	
-keep-ts: 1441924153
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASB08/15 - Rahvusvahelised suhted Kava:50330</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASB08/15 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924153
+revision: 4

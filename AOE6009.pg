@@ -1,16 +1,16 @@
-ts: 1441924444
+languages: 
+blocks: [Course:103111 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+host: 82.131.7.230
+keep-ts: 1441924444
 text: #SUBTITLE Laevanduse töökorraldus ja ökonoomika
 	#SUBURL [Course:103111 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:103111 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924444
-revision: 4
+ts: 1441924444
 minor: 1
+revision: 4
+flags: 1

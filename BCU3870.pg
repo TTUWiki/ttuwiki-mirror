@@ -1,16 +1,14 @@
-lastmajor: 2
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+ts: 1441924444
+languages: 
 username: AlexDaniel
-blocks: [Course:102250 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1
 text: #SUBTITLE Äriõiguslik dokumentatsioon
 	#SUBURL [Course:102250 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924444
-revision: 4
-ts: 1441924444
-ip: 89.235.235.166
-minor: 1
-languages: 
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

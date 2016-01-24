@@ -1,16 +1,14 @@
 username: AlexDaniel
-ip: 89.235.235.166
 minor: 1
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-languages: 
 ts: 1441924452
-blocks: [Course:31755 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
+revision: 4
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 text: #SUBTITLE Orgaanilise sünteesi meetodid
 	#SUBURL [Course:31755 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-lastmajor: 2

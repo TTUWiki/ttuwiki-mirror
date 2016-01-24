@@ -1,4 +1,9 @@
-flags: 1
+host: 193.40.250.236
+username: Ain_Laidoja
+lastmajor: 9
+keep-ts: 1449589857
+revision: 9
+languages: 
 minor: 
 text: #SUBTITLE Energiasüsteemide ökonoomika
 	#SUBURL [Course:25897 〔Õppeaine ÕIS-is〕]
@@ -16,14 +21,9 @@ text: #SUBTITLE Energiasüsteemide ökonoomika
 	*08. Jaanuar 2015  kell 10:00  Ülesanne vaja lahendada: Leida **NPV** , antud 1 aastane investeering elektrijaama //  kas tasub või mitte
 	*Kaks teooria küsimust
 	
-keep-ts: 1449589857
 blocks: [Course:25897 〔Õppeaine ÕIS-is〕]
+flags: 1
 ip: 89.235.235.166
-revision: 9
-host: 193.40.250.236
 summary: 
 lastmajorsummary: 
 ts: 1449589857
-username: Ain_Laidoja
-lastmajor: 9
-languages: 

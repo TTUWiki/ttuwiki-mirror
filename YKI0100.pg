@@ -1,16 +1,14 @@
-keep-ts: 1441924452
-host: 82.131.7.230
-flags: 1
-ip: 89.235.235.166
 text: #SUBTITLE Elementide keemia
 	#SUBURL [Course:31996 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924452
-languages: 
-lastmajor: 2
+keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
 revision: 4
-blocks: [Course:31996 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+languages: 
+ts: 1441924452
+ip: 89.235.235.166
 minor: 1
+username: AlexDaniel

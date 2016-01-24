@@ -1,10 +1,11 @@
-languages: 
-diff-major: 
-ts: 1441924148
+revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EABM03/15 - Keskkonnatehnika ja juhtimine Kava:50305</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EABM03/15 - Keskkonnatehnika ja juhtimine <strong class="changes">[</strong>Kava:50305 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924148
 text: == EABM03/15 - Keskkonnatehnika ja juhtimine [Kava:50305 〔Õppekava ÕIS-is〕]
 	[[EKE8120]] Ametipraktika
 	[[TMK8300]] Ärieetika
@@ -30,9 +31,6 @@ text: == EABM03/15 - Keskkonnatehnika ja juhtimine [Kava:50305 〔Õppekava ÕIS
 	
 	
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924148
-username: AlexDaniel
 host: 82.131.7.230
-flags: 
-blocks: 
-minor: 1
+keep-ts: 1441924148
+diff-major: 

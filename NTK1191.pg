@@ -1,14 +1,12 @@
-blocks: [Course:109782 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-flags: 1
-host: 82.131.7.230
-minor: 1
-revision: 2
 text: #SUBTITLE Keskkonnaseisundi kontroll I
 	#SUBURL [Course:109782 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
+revision: 2
 username: AlexDaniel
+minor: 1
+ts: 1441924449
+languages: 

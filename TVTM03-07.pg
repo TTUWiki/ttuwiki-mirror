@@ -1,3 +1,7 @@
+keep-ts: 1441924154
+diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == TVTM03/07 - Rahvusvaheline ärikorraldus [Kava:5081 〔Õppekava ÕIS-is〕]
 	[[TIX8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
@@ -22,17 +26,11 @@ text: == TVTM03/07 - Rahvusvaheline ärikorraldus [Kava:5081 〔Õppekava ÕIS-i
 	[[TIX2190]] Strateegiline juhtimine
 	
 	
-flags: 
 languages: 
-username: AlexDaniel
-blocks: 
-diff-major: 
 ts: 1441924154
-keep-ts: 1441924154
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TVTM03/07 - Rahvusvaheline ärikorraldus Kava:5081</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TVTM03/07 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:5081 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-host: 82.131.7.230
+username: AlexDaniel
 revision: 5
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-minor: 1

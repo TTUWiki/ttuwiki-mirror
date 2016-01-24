@@ -1,17 +1,11 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
-blocks: 
-diff-major: 
-minor: 1
-languages: 
 revision: 4
-flags: 
 ts: 1441924153
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == SDVR04/09 - Väikeettevõtlus Kava:50094</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == SDVR04/09 - Väikeettevõtlus <strong class="changes">[</strong>Kava:50094 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-host: 82.131.7.230
-keep-ts: 1441924153
+minor: 1
 text: == SDVR04/09 - Väikeettevõtlus [Kava:50094 〔Õppekava ÕIS-is〕]
 	[[SKK0280]] Äriõigus
 	[[SKK0980]] Ärisuhtlus ja äriläbirääkimised
@@ -62,3 +56,7 @@ text: == SDVR04/09 - Väikeettevõtlus [Kava:50094 〔Õppekava ÕIS-is〕]
 	[[SKK0890]] Uurimistöö
 	
 	
+diff-major: 
+keep-ts: 1441924153
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

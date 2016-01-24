@@ -1,16 +1,16 @@
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-blocks: [Course:30055 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
-ts: 1441924448
-keep-ts: 1441924448
-languages: 
 text: #SUBTITLE Keevitus
 	#SUBURL [Course:30055 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:30055 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
 ip: 89.235.235.166
+minor: 1
+flags: 1
+username: AlexDaniel
+languages: 
+keep-ts: 1441924448
+ts: 1441924448
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

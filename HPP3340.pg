@@ -1,16 +1,14 @@
-blocks: [Course:106932 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
 ip: 89.235.235.166
+ts: 1441924446
+languages: 
 username: AlexDaniel
+minor: 1
+revision: 4
+keep-ts: 1441924446
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 text: #SUBTITLE Tervis ja heaolu tööprotsessis
 	#SUBURL [Course:106932 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-flags: 1
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924446
-minor: 1

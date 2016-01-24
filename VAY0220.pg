@@ -1,14 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-blocks: [Course:108825 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-minor: 1
-revision: 2
-flags: 1
-username: AlexDaniel
 text: #SUBTITLE Projektijuhtimine
 	#SUBURL [Course:108825 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+keep-ts: 1441924452
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+languages: 
+ts: 1441924452
+minor: 1
+username: AlexDaniel

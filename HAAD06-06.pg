@@ -1,8 +1,11 @@
-host: 82.131.7.230
-keep-ts: 1441924149
-minor: 1
 revision: 4
-flags: 
+languages: 
+ts: 1441924149
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAD06/06 - Avalik haldus Kava:4059</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAD06/06 - Avalik haldus <strong class="changes">[</strong>Kava:4059 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
 text: == HAAD06/06 - Avalik haldus [Kava:4059 〔Õppekava ÕIS-is〕]
 	[[HHX9040]] Ametipraktika
 	[[HHX9011]] Doktoriseminar I
@@ -31,12 +34,7 @@ text: == HAAD06/06 - Avalik haldus [Kava:4059 〔Õppekava ÕIS-is〕]
 	[[HHA9160]] Väikeriigid ja valitsemine
 	
 	
-blocks: 
-languages: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAD06/06 - Avalik haldus Kava:4059</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAD06/06 - Avalik haldus <strong class="changes">[</strong>Kava:4059 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-ts: 1441924149
-username: AlexDaniel
+keep-ts: 1441924149
 diff-major: 
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

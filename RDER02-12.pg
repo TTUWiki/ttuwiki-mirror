@@ -1,17 +1,7 @@
-ts: 1441924152
-diff-major: 
-minor: 1
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
-username: AlexDaniel
-host: 82.131.7.230
-blocks: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDER02/12 - Masinaehitustehnoloogia Kava:50191</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDER02/12 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:50191 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-languages: 
 keep-ts: 1441924152
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == RDER02/12 - Masinaehitustehnoloogia [Kava:50191 〔Õppekava ÕIS-is〕]
 	[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine
 	[[RAR2081]] Arvutigraafika I
@@ -67,3 +57,11 @@ text: == RDER02/12 - Masinaehitustehnoloogia [Kava:50191 〔Õppekava ÕIS-is〕
 	[[RAH0740]] Väljendusõpetus
 	
 	
+languages: 
+ts: 1441924152
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDER02/12 - Masinaehitustehnoloogia Kava:50191</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDER02/12 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:50191 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+username: AlexDaniel
+revision: 4

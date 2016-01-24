@@ -1,14 +1,13 @@
-lastmajor: 7
-username: AlexDaniel
-ts: 1450557489
-revision: 7
-blocks: 
-ip: 89.235.231.110
-keep-ts: 1450557489
-flags: 
-summary: Image icons with CSS
 languages: 
+lastmajorsummary: Image icons with CSS
+ts: 1450557489
+ip: 89.235.231.110
 minor: 
+username: AlexDaniel
+revision: 7
+keep-ts: 1450557489
+lastmajor: 7
+summary: Image icons with CSS
 host: 82.131.48.179
 text: Если редактируете эту страницу, то помечайте правку как *незначительную*!
 	
@@ -44,4 +43,3 @@ text: Если редактируете эту страницу, то помеч
 	:definition2
 	
 	
-lastmajorsummary: Image icons with CSS

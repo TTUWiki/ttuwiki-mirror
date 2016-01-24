@@ -1,13 +1,5 @@
-lastmajor: 21
-minor: 
-blocks: [Course:28071 〔Õppeaine ÕIS-is〕]
-revision: 21
-ts: 1447668161
-host: 193.40.244.217
 summary: 
-flags: 1
-lastmajorsummary: 
-username: Ain_Laidoja
+host: 193.40.244.217
 text: #SUBTITLE Õigusõpetus
 	#SUBURL [Course:28071 〔Õppeaine ÕIS-is〕]
 	
@@ -38,6 +30,14 @@ text: #SUBTITLE Õigusõpetus
 	
 	# Arvestus toimub  **14. detsember** loengu ruumis
 	
-languages: 
+lastmajor: 21
+ts: 1447668161
+revision: 21
+flags: 1
+minor: 
 ip: 84.52.48.194
 keep-ts: 1447668161
+lastmajorsummary: 
+username: Ain_Laidoja
+languages: 
+blocks: [Course:28071 〔Õppeaine ÕIS-is〕]

@@ -1,13 +1,7 @@
-revision: 4
-languages: 
-host: 82.131.7.230
-blocks: 
-flags: 
 diff-major: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAIM14/14 - Ruumiline planeerimine Kava:50214</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAIM14/14 - Ruumiline planeerimine <strong class="changes">[</strong>Kava:50214 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924152
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == NAIM14/14 - Ruumiline planeerimine [Kava:50214 〔Õppekava ÕIS-is〕]
 	[[NTM1150]] Avalik esinemine
 	[[NTM1440]] Detailplaneeringu koostamine
@@ -33,7 +27,11 @@ text: == NAIM14/14 - Ruumiline planeerimine [Kava:50214 〔Õppekava ÕIS-is〕]
 	[[NTM1610]] Üleilmsed suundumused ja sotsiaalpoliitika
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-username: AlexDaniel
 ts: 1441924152
+languages: 
+username: AlexDaniel
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAIM14/14 - Ruumiline planeerimine Kava:50214</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAIM14/14 - Ruumiline planeerimine <strong class="changes">[</strong>Kava:50214 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+revision: 4

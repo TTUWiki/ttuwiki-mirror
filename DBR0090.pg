@@ -1,16 +1,14 @@
+username: AlexDaniel
+minor: 1
+ts: 1441924444
+ip: 89.235.235.166
+languages: 
+revision: 4
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
 text: #SUBTITLE Bioelektromagnetism
 	#SUBURL [Course:40890 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-minor: 1
-blocks: [Course:40890 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-languages: 
-keep-ts: 1441924444
-host: 82.131.7.230

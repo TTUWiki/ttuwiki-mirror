@@ -1,16 +1,16 @@
-ip: 89.235.235.166
 lastmajor: 2
-keep-ts: 1441924443
-username: AlexDaniel
+host: 82.131.7.230
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Energiatehnika ja elektrivarustuse individuaalõpe
 	#SUBURL [Course:101977 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+revision: 4
+username: AlexDaniel
+minor: 1
+keep-ts: 1441924443
+blocks: [Course:101977 〔Õppeaine ÕIS-is〕]
 flags: 1
 ts: 1441924443
-revision: 4
-languages: 
-minor: 1
-blocks: [Course:101977 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230

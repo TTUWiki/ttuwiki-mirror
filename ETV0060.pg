@@ -1,16 +1,16 @@
+ip: 89.235.235.166
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
-languages: 
+blocks: [Course:31977 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 flags: 1
 minor: 1
-username: AlexDaniel
-keep-ts: 1441924445
-lastmajor: 2
-host: 82.131.7.230
-blocks: [Course:31977 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Kaubavedu
 	#SUBURL [Course:31977 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+host: 82.131.7.230
+username: AlexDaniel

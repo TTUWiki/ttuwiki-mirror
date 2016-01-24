@@ -1,13 +1,14 @@
-blocks: 
-keep-ts: 1441924150
-username: AlexDaniel
 languages: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
+ts: 1441924150
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAKB02/05 - Halduskorraldus Kava:3718</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAKB02/05 - Halduskorraldus <strong class="changes">[</strong>Kava:3718 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-flags: 
+minor: 1
+username: AlexDaniel
+revision: 4
+keep-ts: 1441924150
+diff-major: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 text: == HAKB02/05 - Halduskorraldus [Kava:3718 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -61,6 +62,3 @@ text: == HAKB02/05 - Halduskorraldus [Kava:3718 〔Õppekava ÕIS-is〕]
 	[[HHA3470]] Võõrkeelne asjaajamiskorraldus
 	
 	
-ts: 1441924150
-minor: 1
-revision: 4

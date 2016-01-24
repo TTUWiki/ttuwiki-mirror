@@ -1,16 +1,11 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-flags: 
+revision: 4
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAKB02/14 - Halduskorraldus Kava:50204</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAKB02/14 - Halduskorraldus <strong class="changes">[</strong>Kava:50204 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
-blocks: 
-diff-major: 
-languages: 
 minor: 1
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
+ts: 1441924150
+languages: 
 text: == HAKB02/14 - Halduskorraldus [Kava:50204 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HPP3252]] Arhiivihaldus
@@ -56,4 +51,7 @@ text: == HAKB02/14 - Halduskorraldus [Kava:50204 〔Õppekava ÕIS-is〕]
 	[[HPP3260]] Vanem tööjõud organisatsioonis
 	
 	
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
 keep-ts: 1441924150

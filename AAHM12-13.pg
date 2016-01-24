@@ -1,5 +1,3 @@
-flags: 
-revision: 5
 text: == AAHM12/13 - Hajaenergeetika [Kava:50182 〔Õppekava ÕIS-is〕]
 	[[MER0100]] Arendustöö ja innovatsioon
 	[[VL.0811]] Biogaasi tootmine
@@ -29,15 +27,15 @@ text: == AAHM12/13 - Hajaenergeetika [Kava:50182 〔Õppekava ÕIS-is〕]
 	[[AEK0060]] Tuuleenergeetika
 	
 	
-minor: 1
-keep-ts: 1441924148
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-languages: 
 host: 82.131.7.230
+keep-ts: 1441924148
+diff-major: 
+revision: 5
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAHM12/13 - Hajaenergeetika Kava:50182</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAHM12/13 - Hajaenergeetika <strong class="changes">[</strong>Kava:50182 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-diff-major: 
-blocks: 
-ts: 1441924148
 username: AlexDaniel
+languages: 
+ts: 1441924148

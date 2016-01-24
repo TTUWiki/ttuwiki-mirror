@@ -1,14 +1,12 @@
-username: AlexDaniel
-blocks: [Course:109833 〔Õppeaine ÕIS-is〕]
 revision: 2
-host: 82.131.7.230
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
 ts: 1441924448
 text: #SUBTITLE Hüdrogeoloogia ja hüdroloogia alused
 	#SUBURL [Course:109833 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924448

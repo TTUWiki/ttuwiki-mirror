@@ -1,12 +1,14 @@
-diff-major: 
-keep-ts: 1441924149
-flags: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-blocks: 
 ts: 1441924149
+languages: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAKM07/07 - Keskkonnatehnika Kava:4031</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAKM07/07 - Keskkonnatehnika <strong class="changes">[</strong>Kava:4031 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+revision: 4
+diff-major: 
+keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 text: == EAKM07/07 - Keskkonnatehnika [Kava:4031 〔Õppekava ÕIS-is〕]
 	[[ISS0090]] Arukad hooned
@@ -73,7 +75,3 @@ text: == EAKM07/07 - Keskkonnatehnika [Kava:4031 〔Õppekava ÕIS-is〕]
 	[[EKK0022]] Ventilatsioon - projekt
 	
 	
-languages: 
-username: AlexDaniel
-revision: 4
-minor: 1

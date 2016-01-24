@@ -1,16 +1,14 @@
 revision: 4
+languages: 
+ip: 89.235.235.166
+ts: 1441924452
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Tehniline hüdro- ja aeromehaanika
 	#SUBURL [Course:35003 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-username: AlexDaniel
-ip: 89.235.235.166
+keep-ts: 1441924452
 lastmajor: 2
-ts: 1441924452
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:35003 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-keep-ts: 1441924452

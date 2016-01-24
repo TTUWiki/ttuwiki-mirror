@@ -1,16 +1,14 @@
-flags: 1
-lastmajor: 2
+revision: 4
+languages: 
 ts: 1441924451
+ip: 89.235.235.166
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Tootmise varustamise juhtimine
 	#SUBURL [Course:100440 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-username: AlexDaniel
 keep-ts: 1441924451
-blocks: [Course:100440 〔Õppeaine ÕIS-is〕]
-languages: 
 host: 82.131.7.230
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+lastmajor: 2
