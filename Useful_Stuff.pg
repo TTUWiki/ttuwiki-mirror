@@ -1,13 +1,8 @@
-host: 82.131.5.128
-summary: Engrish → English
-ts: 1453415326
-keep-ts: 1453415326
-username: AlexDaniel
-lastmajorsummary: blogs by Deniss Kumlander
-blocks: 
-flags: 
-minor: 1
-revision: 29
+lastmajorsummary: oppejoud.ee and third party android app for viewing the timetables
+summary: oppejoud.ee and third party android app for viewing the timetables
+ts: 1453723328
+minor: 
+keep-ts: 1453723328
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -86,10 +81,13 @@ text: === University / Ülikool / Университет:
 	* [[Required Changes|Необходимые улучшения]] – известные проблемы и предложения по их исправлению
 	* [[Page Generation|Генерация Страниц]] – страницы с расписаниями и первоначальные страницы для предметов генерируются автоматически.
 	
+	=== Tools
+	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – third-party android app for viewing the timetables (**not free software 😞**)
 	
 	=== Other websites / Muud veebilehed / Другие сайты:
 	
 	#EST
+	*[new:https://oppejoud.ee/]
 	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Venekeelne facebook grupp
 	*[new:http://ttuit.eu/] - Venekeelne veebileht, ei olnud uuendatud aastast 2011.
@@ -106,6 +104,7 @@ text: === University / Ülikool / Университет:
 	*[new:http://wiki.maatriks.eu/doku.php]
 	
 	#RUS
+	*[new:https://oppejoud.ee/]
 	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Русская группа в фейсбуке.
 	*[new:http://ttuit.eu/] - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)
@@ -197,5 +196,8 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+revision: 30
+lastmajor: 30
+host: 85.253.177.126
 languages: 
-lastmajor: 28
+username: AlexDaniel
