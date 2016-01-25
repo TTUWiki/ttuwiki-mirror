@@ -1,12 +1,14 @@
-keep-ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:108974 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Laevaremondi õppepraktika&nbsp;&nbsp;
 	#SUBURL [Course:108974 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924452
-minor: 1
-username: AlexDaniel
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 2
+ts: 1441924452
+host: 82.131.7.230
+languages: 
+username: AlexDaniel
+keep-ts: 1441924452

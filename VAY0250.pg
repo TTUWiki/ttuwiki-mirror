@@ -1,12 +1,14 @@
+revision: 2
+ts: 1441924452
+username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924452
+languages: 
+blocks: [Course:108826 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Meresõidu ajalugu ja traditsioonid
 	#SUBURL [Course:108826 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-revision: 2
 minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924452

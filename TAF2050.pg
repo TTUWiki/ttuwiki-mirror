@@ -1,14 +1,16 @@
-keep-ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
 lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Maksundus
 	#SUBURL [Course:104976 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924450
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-minor: 1
 revision: 4
+username: AlexDaniel
+languages: 
+blocks: [Course:104976 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
+keep-ts: 1441924450

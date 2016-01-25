@@ -1,9 +1,4 @@
-keep-ts: 1443490316
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; Passwords in 2015 (S):<br />&gt; | T 10:00 - 11:30 | T1000_TMT0040 |<br />&gt; | N 08:00 - 09:30 | N815_TMT0040 |<br />&gt; | N 10:00 - 11:30 | N1000_TMT0040 |<br />&gt; | N 12:00 - 13:30 | N1200_TMT0040 |<br />&gt; | N 14:00 - 15:30 | N1400_TMT0040 |<br />&gt; | N 16:00 - 17:30 | N1600_TMT0040 |</p></div>
-host: 82.131.0.212
-summary: moodle passwords
-lastmajor: 6
+languages: 
 text: #SUBTITLE Ergonoomika
 	#SUBURL [Course:31627 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -24,13 +19,20 @@ text: #SUBTITLE Ergonoomika
 	-- AlexDaniel 2015-09-29 03:34:13
 	
 	
-languages: 
 ts: 1443490316
-ip: 89.235.235.166
-lastmajorsummary: moodle passwords
-minor: 1
+host: 82.131.0.212
+username: AlexDaniel
+keep-ts: 1443490316
+revision: 8
+blocks: [Course:31627 〔Õppeaine ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; |= <strong class="changes">Time</strong> |= Password |</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; |= <strong class="changes">Lesson</strong> |= Password |</p></div>
-username: AlexDaniel
-revision: 8
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Passwords in 2015 (S):<br />&gt; | T 10:00 - 11:30 | T1000_TMT0040 |<br />&gt; | N 08:00 - 09:30 | N815_TMT0040 |<br />&gt; | N 10:00 - 11:30 | N1000_TMT0040 |<br />&gt; | N 12:00 - 13:30 | N1200_TMT0040 |<br />&gt; | N 14:00 - 15:30 | N1400_TMT0040 |<br />&gt; | N 16:00 - 17:30 | N1600_TMT0040 |</p></div>
+lastmajorsummary: moodle passwords
+lastmajor: 6
+flags: 1
+summary: moodle passwords
+minor: 1
+ip: 89.235.235.166

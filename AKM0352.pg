@@ -1,12 +1,14 @@
-revision: 2
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-ts: 1441924444
+username: AlexDaniel
+blocks: [Course:109815 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+revision: 2
 languages: 
+ts: 1441924444
+flags: 1
 text: #SUBTITLE Mäenduslik modelleerimine
 	#SUBURL [Course:109815 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924444

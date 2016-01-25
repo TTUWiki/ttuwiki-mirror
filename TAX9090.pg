@@ -1,14 +1,16 @@
+ip: 89.235.235.166
+keep-ts: 1441924450
+lastmajor: 2
+username: AlexDaniel
+host: 82.131.7.230
+flags: 1
+ts: 1441924450
+languages: 
+revision: 4
+minor: 1
 text: #SUBTITLE Majandusarvestuse teooria ja metodoloogia arendused
 	#SUBURL [Course:33538 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924450
-lastmajor: 2
-host: 82.131.7.230
+blocks: [Course:33538 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-minor: 1
