@@ -1,6 +1,21 @@
-username: AlexDaniel
+minor: 1
+flags: 0101
+summary: Touch
+keep-ts: 1407693267
+ts: 1407693267
 ip: 89.235.239.240
+languages: 
 revision: 5
+blocks: <p>DeletedPage</p><p>Вы можете <strong>[[Задать вопрос|задать свой вопрос]]</strong>.<br /><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
+host: 89.235.245.14
+username: AlexDaniel
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; File:arvutid_2_lab.pdf <strong class="changes">???</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; File:arvutid_2_lab.pdf</p></div>
+lastmajor: 2
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль. </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p></div>
 text: Кто-нибудь может объяснить как делается вторая лаба по арвутид 1?
 	
 	-- Kulja 2014-03-29 21:11:30
@@ -54,22 +69,3 @@ text: Кто-нибудь может объяснить как делается 
 	-- AlexDaniel 2014-03-29 22:26:58
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль. </p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; Ах, стоит отметить, что мы делаем логический сдвиг, если не указано иначе. На той же википедии видно несколько разных, но мы делаем самый простой. То есть действительно одни контакты соединяешь с другими, а в один оставшийся подаешь ноль.</p></div>
-summary: Touch
-keep-ts: 1407693267
-host: 89.235.245.14
-languages: 
-flags: 010101010101
-blocks: #ENG
-	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#RUS
-	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
-	
-	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-ts: 1407693267
-minor: 1
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; File:arvutid_2_lab.pdf <strong class="changes">???</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; File:arvutid_2_lab.pdf</p></div>
-lastmajor: 2

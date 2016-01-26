@@ -1,19 +1,12 @@
-languages: 
-lastmajorsummary: 
-ts: 1443159194
-ip: 89.235.235.166
-minor: 1
+revision: 8
+blocks: [Course:31058 〔Õppeaine ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">Jhon</strong> R. Howell, Richard O. Buckius</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">John</strong> R. Howell, Richard O. Buckius</p></div>
+minor: 1
 username: Ain_Laidoja
-revision: 8
-keep-ts: 1443159194
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]</p></div>
-lastmajor: 7
-summary: 
-host: 86.110.37.246
+ip: 89.235.235.166
+flags: 1
 text: #SUBTITLE Termodünaamika I
 	#SUBURL [Course:31058 〔Õppeaine ÕIS-is〕]
 	
@@ -24,3 +17,12 @@ text: #SUBTITLE Termodünaamika I
 	#[http://www.ester.ee/record=b1242207*est Termodünaamika], A.Ots.Tallinn, 1972.  [http://digi.lib.ttu.ee/i/?109 PDF]
 	#[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]
 	
+lastmajorsummary: 
+ts: 1443159194
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; #[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]</p></div>
+lastmajor: 7
+languages: 
+host: 86.110.37.246
+summary: 
+keep-ts: 1443159194

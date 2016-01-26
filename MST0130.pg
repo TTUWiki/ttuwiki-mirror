@@ -1,12 +1,14 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924448
+revision: 2
+ts: 1441924448
+username: AlexDaniel
 text: #SUBTITLE Soojusjõuseadmete projekteerimine - projekt
 	#SUBURL [Course:109917 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 minor: 1
-username: AlexDaniel
+host: 82.131.7.230
+flags: 1
 languages: 
-ts: 1441924448
-revision: 2
+blocks: [Course:109917 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448

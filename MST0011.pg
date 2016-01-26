@@ -1,14 +1,16 @@
-minor: 1
+lastmajor: 2
+flags: 1
+keep-ts: 1441924448
+revision: 4
+host: 82.131.7.230
 username: AlexDaniel
 languages: 
-ts: 1441924448
-ip: 89.235.235.166
-revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-keep-ts: 1441924448
+blocks: [Course:30323 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Soojus- ja massilevi I
 	#SUBURL [Course:30323 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+ts: 1441924448
+ip: 89.235.235.166

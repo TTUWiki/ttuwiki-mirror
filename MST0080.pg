@@ -1,20 +1,22 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Seda õppeainet enam ei loeta</strong>, <strong class="changes">selle asemel [[MST0081]]</strong></p></div>
-minor: 
-username: 
-languages: 
-ip: 89.235.235.166
-ts: 1442559055
-lastmajorsummary: 
-revision: 5
+blocks: [Course:30478 〔Õppeaine ÕIS-is〕]
 summary: 
-host: 86.110.37.246
-lastmajor: 5
+flags: 1
+minor: 
+languages: 
 keep-ts: 1442559055
-diff-major: 1
 text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	#SUBURL [Course:30478 〔Õppeaine ÕIS-is〕]
 	
 	Seda õppeainet enam ei loeta, selle asemel [[MST0081]]
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Seda õppeainet enam ei loeta</strong>, <strong class="changes">selle asemel [[MST0081]]</strong></p></div>
+ts: 1442559055
+lastmajorsummary: 
+lastmajor: 5
+host: 86.110.37.246
+diff-major: 1
+revision: 5
+ip: 89.235.235.166
+username: 

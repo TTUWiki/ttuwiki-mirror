@@ -1,14 +1,16 @@
-revision: 4
-minor: 1
-username: AlexDaniel
-languages: 
-ip: 89.235.235.166
-ts: 1441924450
+keep-ts: 1441924450
 text: #SUBTITLE Plaanimine ja teed
 	#SUBURL [Course:39316 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
 lastmajor: 2
+flags: 1
 host: 82.131.7.230
+revision: 4
+ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
+blocks: [Course:39316 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+languages: 

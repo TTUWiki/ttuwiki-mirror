@@ -1,3 +1,8 @@
+ts: 1444986375
+summary: 
+ip: 89.235.235.166
+revision: 6
+minor: 
 text: #SUBTITLE Katlatehnika
 	#SUBURL [Course:101007 〔Õppeaine ÕIS-is〕]
 	
@@ -6,14 +11,11 @@ text: #SUBTITLE Katlatehnika
 	
 	[http://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/Katlatehnika.pdf Loengukonspekt]
 	
-keep-ts: 1444986375
 lastmajor: 6
-summary: 
-host: 86.110.37.246
-revision: 6
 lastmajorsummary: 
-ip: 89.235.235.166
-ts: 1444986375
+keep-ts: 1444986375
 languages: 
 username: 
-minor: 
+host: 86.110.37.246
+flags: 1
+blocks: [Course:101007 〔Õppeaine ÕIS-is〕]

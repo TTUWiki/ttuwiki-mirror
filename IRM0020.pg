@@ -1,7 +1,6 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 5
+languages: 
 host: 82.131.7.230
-lastmajor: 3
-keep-ts: 1441924447
 text: #SUBTITLE Signaalide transmissioon
 	#SUBURL [Course:29759 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -15,9 +14,12 @@ text: #SUBTITLE Signaalide transmissioon
 	-- Аноним 2014-02-24 22:10 UTC
 	
 	
-minor: 1
-username: AlexDaniel
-languages: 
+blocks: [Course:29759 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 3
+flags: 1
 ts: 1441924447
+username: AlexDaniel
 ip: 84.50.22.158
-revision: 5
+keep-ts: 1441924447
+minor: 1

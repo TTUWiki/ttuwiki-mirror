@@ -2,13 +2,15 @@ text: #SUBTITLE Ehitustehnoloogia - projekt
 	#SUBURL [Course:39246 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
 revision: 4
 minor: 1
+flags: 1
 username: AlexDaniel
-languages: 
 ip: 89.235.235.166
+languages: 
+host: 82.131.7.230
+blocks: [Course:39246 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
