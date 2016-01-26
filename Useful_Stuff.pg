@@ -1,3 +1,12 @@
+lastmajorsummary: oppejoud.ee and third party android app for viewing the timetables
+revision: 32
+summary: 
+ts: 1453847071
+minor: 1
+keep-ts: 1453847071
+languages: 
+username: 
+lastmajor: 30
 text: === University / Ülikool / Университет:
 	#ENG
 	* [[Lifehacks]]
@@ -28,7 +37,7 @@ text: === University / Ülikool / Университет:
 	#RUS
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - отличный документ, всем стоит его прочитать.
 	
-	=== Thesis / Lõpputöö / Дипломные работы
+	=== Thesis / Lõputöö / Дипломные работы
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/informaatikainstituut-6/lopetajale-13/olulised-kuupaevad-6 – Informaatikainstituut
 	
 	=== Blogs / Blogid / Блоги
@@ -191,13 +200,4 @@ text: === University / Ülikool / Университет:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajor: 30
-revision: 31
-username: AlexDaniel
-summary: this way it fits into one line
-lastmajorsummary: oppejoud.ee and third party android app for viewing the timetables
 host: 85.253.177.126
-ts: 1453723364
-keep-ts: 1453723364
-languages: 
-minor: 1
