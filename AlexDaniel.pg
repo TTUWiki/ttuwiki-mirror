@@ -1,3 +1,6 @@
+ts: 1454007412
+ip: 89.235.239.240
+lastmajorsummary: ✓
 text: Поступил в 2013-ом на ÄriIT.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -7,8 +10,8 @@ text: Поступил в 2013-ом на ÄriIT.
 	
 	В этом семестре взял:
 	* [[TMT0040]] - Ergonoomika – ✓
-	* [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine ⌛
-	* [[IDU0230]] - Andmebaasid II ⌛
+	* [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine ✓
+	* [[IDU0230]] - Andmebaasid II ✓
 	* [[ITI0021]] - Loogiline programmeerimine ✓
 	* [[IDX5721]] - Tarkvara kvaliteet ja standardid ✓
 	* [[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö ✓
@@ -21,14 +24,11 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-keep-ts: 1453232026
-lastmajor: 11
-host: 82.131.5.128
-summary: ✓
-revision: 11
-lastmajorsummary: ✓
-ip: 89.235.239.240
-ts: 1453232026
-languages: 
-username: AlexDaniel
 minor: 
+username: AlexDaniel
+languages: 
+summary: ✓
+host: 85.253.177.126
+lastmajor: 12
+keep-ts: 1454007412
+revision: 12
