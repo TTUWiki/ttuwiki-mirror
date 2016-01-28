@@ -1,14 +1,16 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
+ts: 1441924445
 text: #SUBTITLE Ehitusgeodeesia I
 	#SUBURL [Course:29594 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+blocks: [Course:29594 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-keep-ts: 1441924445
-revision: 4
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-ts: 1441924445
 languages: 
+host: 82.131.7.230
+keep-ts: 1441924445
+flags: 1
+minor: 1

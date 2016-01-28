@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-ts: 1441924444
 languages: 
+flags: 1
 username: AlexDaniel
-minor: 1
-revision: 4
 keep-ts: 1441924444
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ts: 1441924444
 text: #SUBTITLE Meditsiiniline kuvamine ja andmehõive
 	#SUBURL [Course:102097 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:102097 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,16 @@
-keep-ts: 1441924453
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
 lastmajor: 2
 text: #SUBTITLE Mittekorrektsed ülesanded
 	#SUBURL [Course:35943 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
+blocks: [Course:35943 〔Õppeaine ÕIS-is〕]
 ts: 1441924453
-languages: 
-username: AlexDaniel
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+flags: 1
+ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel
+keep-ts: 1441924453

@@ -1,14 +1,16 @@
+revision: 4
 keep-ts: 1441924447
-host: 82.131.7.230
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+minor: 1
+ts: 1441924447
+blocks: [Course:101203 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Rünnete ja kaitse simuleerimine
 	#SUBURL [Course:101203 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+flags: 1
 languages: 
-ip: 89.235.235.166
-ts: 1441924447
-minor: 1
 username: AlexDaniel
-revision: 4

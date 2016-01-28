@@ -1,14 +1,16 @@
+flags: 1
+blocks: [Course:100220 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924448
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Töökeskkond ja ergonoomika rõivatööstuses
 	#SUBURL [Course:100220 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ip: 89.235.235.166
-ts: 1441924448
-languages: 
-username: AlexDaniel
 minor: 1
 revision: 4
+ts: 1441924448

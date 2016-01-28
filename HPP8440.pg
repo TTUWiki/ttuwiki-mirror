@@ -1,14 +1,16 @@
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924446
-ip: 89.235.235.166
 revision: 4
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924446
 text: #SUBTITLE Kommunikatsiooni juhtimine organisatsioonis
 	#SUBURL [Course:105774 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+lastmajor: 2
+host: 82.131.7.230
+keep-ts: 1441924446
+blocks: [Course:105774 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ip: 89.235.235.166
+languages: 
+ts: 1441924446

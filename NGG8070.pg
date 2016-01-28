@@ -1,12 +1,14 @@
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
+flags: 1
+host: 82.131.7.230
+revision: 2
+languages: 
 text: #SUBTITLE Kvaternaarigeoloogia ja geomorfoloogia
 	#SUBURL [Course:109842 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+keep-ts: 1441924448
+blocks: [Course:109842 〔Õppeaine ÕIS-is〕]
 minor: 1
 ts: 1441924448
-languages: 
-revision: 2
+username: AlexDaniel

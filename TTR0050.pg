@@ -1,14 +1,16 @@
-username: AlexDaniel
+flags: 1
 minor: 1
-ip: 89.235.235.166
-ts: 1441924451
-languages: 
-revision: 4
-lastmajor: 2
-host: 82.131.7.230
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924451
+languages: 
+revision: 4
+ts: 1441924451
 text: #SUBTITLE Euroopa Liidu institutsioonid
 	#SUBURL [Course:30019 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:30019 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ip: 89.235.235.166
+host: 82.131.7.230

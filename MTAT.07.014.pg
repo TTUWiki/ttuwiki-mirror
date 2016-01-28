@@ -1,13 +1,15 @@
+blocks: [Course:101176 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-minor: 1
 ip: 89.235.235.166
-ts: 1441924448
-languages: 
-revision: 4
 lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 host: 82.131.7.230
+flags: 1
 keep-ts: 1441924448
+revision: 4
+minor: 1
+languages: 
 text: #SUBTITLE Krüptograafilised protokollid
 	#SUBURL [Course:101176 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.

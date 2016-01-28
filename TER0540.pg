@@ -1,12 +1,14 @@
 revision: 2
-languages: 
-ts: 1441924450
+flags: 1
 minor: 1
 username: AlexDaniel
+ts: 1441924450
 text: #SUBTITLE Eraisiku rahandus ja investeeringud
 	#SUBURL [Course:109879 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924450
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109879 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
+keep-ts: 1441924450

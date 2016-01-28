@@ -1,12 +1,14 @@
 ts: 1441924448
+blocks: [Course:105435 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-minor: 1
-revision: 4
-keep-ts: 1441924448
 host: 82.131.7.230
+username: AlexDaniel
+keep-ts: 1441924448
+flags: 1
+languages: 
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 lastmajor: 2
 text: #SUBTITLE Geoloogia õppepraktika II
 	#SUBURL [Course:105435 〔Õppeaine ÕIS-is〕]

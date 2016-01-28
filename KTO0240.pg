@@ -1,14 +1,16 @@
-keep-ts: 1441924448
-lastmajor: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+minor: 1
+blocks: [Course:100405 〔Õppeaine ÕIS-is〕]
+revision: 6
+keep-ts: 1441924448
+flags: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+lastmajor: 4
+username: AlexDaniel
+ip: 84.52.43.21
 text: #SUBTITLE Toitlustusettevõtte projekteerimise alused
 	#SUBURL [Course:100405 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924448
-ip: 84.52.43.21
-languages: 
-username: AlexDaniel
-minor: 1
-revision: 6

@@ -1,14 +1,16 @@
-languages: 
-ts: 1441924445
-ip: 89.235.235.166
-minor: 1
 username: AlexDaniel
-revision: 4
-keep-ts: 1441924445
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 text: #SUBTITLE Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad
 	#SUBURL [Course:39436 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
+blocks: [Course:39436 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+ts: 1441924445
+languages: 
+minor: 1
+keep-ts: 1441924445

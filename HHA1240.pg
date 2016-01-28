@@ -1,14 +1,16 @@
-ts: 1441924445
-ip: 89.235.235.166
+blocks: [Course:38040 〔Õppeaine ÕIS-is〕]
 languages: 
-username: AlexDaniel
-minor: 1
-revision: 4
-keep-ts: 1441924445
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 text: #SUBTITLE Kriisijuhtimine
 	#SUBURL [Course:38040 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+username: AlexDaniel
+keep-ts: 1441924445
+revision: 4
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+ts: 1441924445
+host: 82.131.7.230

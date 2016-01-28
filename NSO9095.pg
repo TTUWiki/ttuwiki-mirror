@@ -1,14 +1,16 @@
+lastmajor: 2
+revision: 4
+languages: 
+username: AlexDaniel
 keep-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-lastmajor: 2
 text: #SUBTITLE Ametipraktika okeanograafias
 	#SUBURL [Course:40999 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:40999 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-ts: 1441924449
-languages: 
-username: AlexDaniel
+flags: 1
 minor: 1
-revision: 4
+ts: 1441924449

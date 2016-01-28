@@ -1,14 +1,16 @@
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
+revision: 4
+lastmajor: 2
 keep-ts: 1441924445
+minor: 1
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+flags: 1
+blocks: [Course:30671 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
 text: #SUBTITLE Keskkonnasäästlik energeetika
 	#SUBURL [Course:30671 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924445
-ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
-revision: 4

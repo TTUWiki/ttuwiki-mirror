@@ -1,14 +1,16 @@
+blocks: [Course:105067 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-languages: 
-ts: 1441924447
-ip: 89.235.235.166
+host: 82.131.7.230
+lastmajor: 2
 minor: 1
-username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924447
 text: #SUBTITLE Elektroonika- ja sidetööstus
 	#SUBURL [Course:105067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
 keep-ts: 1441924447
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+languages: 
+flags: 1

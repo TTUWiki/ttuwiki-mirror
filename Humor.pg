@@ -1,14 +1,16 @@
+username: AlexDaniel
+ts: 1444779079
+languages: 
+flags: 0
+revision: 1
+lastmajor: 1
+summary: Moved
+minor: 
+host: 82.131.4.24
+lastmajorsummary: Moved
 text: #RUS
 	Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-lastmajor: 1
-host: 82.131.4.24
-summary: Moved
-revision: 1
-languages: 
-lastmajorsummary: Moved
-ts: 1444779079
-minor: 
-username: AlexDaniel
+blocks: </div></div>
