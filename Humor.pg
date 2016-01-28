@@ -1,16 +1,14 @@
-username: AlexDaniel
-ts: 1444779079
-languages: 
-flags: 0
-revision: 1
-lastmajor: 1
-summary: Moved
+lastmajorsummary: Translation added
+host: 85.253.177.126
 minor: 
-host: 82.131.4.24
-lastmajorsummary: Moved
-text: #RUS
-	Забавные ссылки:
+languages: 
+text: == Funny links / Lõbusad lingid / Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-blocks: </div></div>
+lastmajor: 2
+username: MaryBoom
+ts: 1453986158
+summary: Translation added
+keep-ts: 1453986158
+revision: 2
