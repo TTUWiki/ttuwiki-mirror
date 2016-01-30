@@ -1,11 +1,14 @@
-ip: 89.235.239.240
 summary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
 keep-ts: 1454144492
+lastmajorsummary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
 username: Artur Gummel
 ts: 1454144492
-revision: 23
-lastmajorsummary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
 host: 84.52.32.112
+ip: 89.235.239.240
+flags: 1
+revision: 23
+lastmajor: 23
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -170,6 +173,5 @@ text: #SUBTITLE Arvutid
 	-- Artur Gummel 2016-01-30 11:01:32
 	
 	
-lastmajor: 23
-minor: 
 languages: 
+minor: 
