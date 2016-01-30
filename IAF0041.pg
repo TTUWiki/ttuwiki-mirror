@@ -1,11 +1,11 @@
-summary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
-host: 84.52.32.112
-blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+ip: 89.235.239.240
+summary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
+keep-ts: 1454144492
 username: Artur Gummel
-ts: 1454144150
-minor: 
-flags: 1
-lastmajorsummary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
+ts: 1454144492
+revision: 23
+lastmajorsummary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
+host: 84.52.32.112
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -161,8 +161,15 @@ text: #SUBTITLE Arvutid
 	-- Artur Gummel 2016-01-30 10:55:50
 	
 	
-ip: 89.235.239.240
-lastmajor: 22
-keep-ts: 1454144150
+	----
+	
+	Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ.
+	
+	[[File:carnoinstall.zip]]
+	
+	-- Artur Gummel 2016-01-30 11:01:32
+	
+	
+lastmajor: 23
+minor: 
 languages: 
-revision: 22
