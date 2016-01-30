@@ -1,14 +1,16 @@
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924449
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
+flags: 1
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:34370 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924449
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+keep-ts: 1441924449
+revision: 4
+ip: 89.235.235.166
+blocks: [Course:34370 〔Õppeaine ÕIS-is〕]
+minor: 1

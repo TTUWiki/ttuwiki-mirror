@@ -1,14 +1,16 @@
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+flags: 1
+revision: 4
+ip: 89.235.235.166
+minor: 1
 host: 82.131.7.230
-lastmajor: 2
+languages: 
 text: #SUBTITLE Mikrokontrollerid ja praktiline robootika
 	#SUBURL [Course:100922 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924448
-ip: 89.235.235.166
-minor: 1
+keep-ts: 1441924448
+lastmajor: 2
+blocks: [Course:100922 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-revision: 4

@@ -1,12 +1,14 @@
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924449
+revision: 2
 text: #SUBTITLE Soojusleviprotsessid
 	#SUBURL [Course:109916 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924449
+blocks: [Course:109916 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 minor: 1
+keep-ts: 1441924449
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-revision: 2
+flags: 1

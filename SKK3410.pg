@@ -1,14 +1,16 @@
 revision: 4
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-ts: 1441924450
-languages: 
+blocks: [Course:29155 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hotellitöö seadusandlus ja standardid
 	#SUBURL [Course:29155 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+flags: 1
 keep-ts: 1441924450
+languages: 
+username: AlexDaniel
+lastmajor: 2
+ts: 1441924450
+minor: 1
+ip: 89.235.235.166
+host: 82.131.7.230

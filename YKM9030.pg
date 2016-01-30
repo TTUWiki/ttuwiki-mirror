@@ -1,14 +1,16 @@
-keep-ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
 lastmajor: 2
+revision: 4
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Kvantbioloogia ja kvantfarmakoloogia
 	#SUBURL [Course:36996 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ip: 89.235.235.166
-ts: 1441924452
-minor: 1
+blocks: [Course:36996 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 username: AlexDaniel
-revision: 4
+ts: 1441924452
+languages: 

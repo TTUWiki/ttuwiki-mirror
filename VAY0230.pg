@@ -1,12 +1,14 @@
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+flags: 1
+username: AlexDaniel
 text: #SUBTITLE Investeeringute juhtimine
 	#SUBURL [Course:108851 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924452
+blocks: [Course:108851 〔Õppeaine ÕIS-is〕]
 languages: 
-username: AlexDaniel
-minor: 1
+ts: 1441924452
+revision: 2
+host: 82.131.7.230

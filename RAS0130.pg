@@ -1,14 +1,16 @@
 revision: 4
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
+keep-ts: 1441924450
+host: 82.131.7.230
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
+ts: 1441924450
+lastmajor: 2
+blocks: [Course:105552 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
 text: #SUBTITLE Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest
 	#SUBURL [Course:105552 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924450
-lastmajor: 2
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,16 @@
-keep-ts: 1441924444
+flags: 1
+blocks: [Course:37798 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-host: 82.131.7.230
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Protokoll ja etikett
 	#SUBURL [Course:37798 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924444
-ip: 89.235.235.166
+keep-ts: 1441924444
 languages: 
-username: AlexDaniel
 minor: 1
 revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
+ts: 1441924444

@@ -1,14 +1,16 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 lastmajor: 2
+minor: 1
 keep-ts: 1441924449
+ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 1
+languages: 
+revision: 4
+blocks: [Course:38725 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Dendroloogia
 	#SUBURL [Course:38725 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-ts: 1441924449
-languages: 
-revision: 4
+host: 82.131.7.230

@@ -1,12 +1,14 @@
-keep-ts: 1441924444
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
+keep-ts: 1441924444
+blocks: [Course:109380 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+flags: 1
+revision: 2
 text: #SUBTITLE Sissejuhatus käitumisökonoomikasse
 	#SUBURL [Course:109380 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
 ts: 1441924444
-minor: 1
-username: AlexDaniel
-revision: 2

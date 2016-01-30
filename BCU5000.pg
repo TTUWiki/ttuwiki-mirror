@@ -1,12 +1,14 @@
+languages: 
 text: #SUBTITLE Maastikuarhitektuuri valikprojekt: interdistsiplinaarsed väljakutsed
 	#SUBURL [Course:109751 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 host: 82.131.7.230
-keep-ts: 1441924444
-revision: 2
-username: AlexDaniel
 minor: 1
 ts: 1441924444
-languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+revision: 2
+blocks: [Course:109751 〔Õppeaine ÕIS-is〕]

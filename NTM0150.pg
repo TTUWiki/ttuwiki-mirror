@@ -1,14 +1,16 @@
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924449
+flags: 1
+minor: 1
+blocks: [Course:38723 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Dekoratiivtaimed
 	#SUBURL [Course:38723 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
-ip: 89.235.235.166
+username: AlexDaniel
 languages: 
+keep-ts: 1441924449
+ip: 89.235.235.166
+host: 82.131.7.230
 revision: 4

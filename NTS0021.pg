@@ -1,14 +1,16 @@
-revision: 4
-username: AlexDaniel
-minor: 1
 ip: 89.235.235.166
-ts: 1441924449
+flags: 1
+lastmajor: 2
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+username: AlexDaniel
+blocks: [Course:38669 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE Ühisveevärk I
 	#SUBURL [Course:38669 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924449
+revision: 4
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924449
