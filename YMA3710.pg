@@ -1,11 +1,8 @@
-host: 82.131.7.230
+revision: 12
+host: 84.52.32.112
 languages: 
-minor: 1
-keep-ts: 1441924452
-ts: 1441924452
-flags: 1
-lastmajor: 9
-username: AlexDaniel
+minor: 
+summary: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -18,7 +15,7 @@ text: #SUBTITLE Lineaaralgebra
 	В.А.Ильин Г.Д.Ким "Линейная алгебра и аналитическая геометрия"
 	
 	===Задачники:
-	И.В.Проскуряков "Сборник задач по линейной алгебре"
+	[https://files.ttuwiki.org/Proskurjakov.djvu И.В.Проскуряков "Сборник задач по линейной алгебре"]
 	Д.В.Клетеник "Сборник задач по аналитической геометрии"
 	
 	== Лекции
@@ -41,8 +38,9 @@ text: #SUBTITLE Lineaaralgebra
 	
 	-- AlexDaniel 2014-09-03 13:59:06
 	
-	
-revision: 11
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
+ts: 1454163280
+lastmajorsummary: 
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454163280
+lastmajor: 12
+username: Artur Gummel
