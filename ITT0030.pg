@@ -1,3 +1,10 @@
+blocks: [Course:100804 〔Õppeaine ÕIS-is〕]
+username: Artur Gummel
+lastmajorsummary: 
+revision: 7
+lastmajor: 7
+flags: 1
+minor: 
 text: #SUBTITLE Diskreetne matemaatika II
 	#SUBURL [Course:100804 〔Õppeaine ÕIS-is〕]
 	
@@ -24,14 +31,9 @@ text: #SUBTITLE Diskreetne matemaatika II
 	[http://files.ttuwiki.org/2013.pdf Пример экзамена]
 	
 	
-ip: 84.52.48.194
 ts: 1454146949
-username: Artur Gummel
-summary: 
+ip: 84.52.48.194
 languages: 
-minor: 
 host: 84.52.32.112
-revision: 7
-lastmajorsummary: 
+summary: 
 keep-ts: 1454146949
-lastmajor: 7
