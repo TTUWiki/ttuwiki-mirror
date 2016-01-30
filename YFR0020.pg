@@ -1,12 +1,5 @@
-flags: 1
-host: 85.253.118.231
-username: AlexDaniel
-ts: 1447604705
-minor: 1
-languages: 
-lastmajorsummary: multilingual
-summary: multilingual
-lastmajor: 13
+lastmajorsummary: 
+revision: 16
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
@@ -28,32 +21,32 @@ text: #SUBTITLE Füüsika
 	# [[File:praks1_1.zip]]
 	#
 	#
+	# [[File:fyysika1_04.zip]]
+	# [[File:fyysika1_05.zip]]
+	# [[File:fyysika1_06.zip]]
+	# [[File:fyysika1_07.zip]]
+	# [[File:fyysika1_08.zip]]
+	# [[File:praks1_9.zip]], [[File:fyysika1_09.zip]]
+	# [[File:fyysika1_10.zip]]
+	# [[File:fyysika1_11.zip]]
+	# [[File:fyysika1_12a.zip]], [[File:fyysika1_12b.zip]]
+	# [[File:fyysika1_13.zip]]
+	# [[File:fyysika1_14.zip]]
+	# [[File:fyysika1_15.zip]]
 	#
+	# [[File:praks1_17.zip]], [[File:fyysika1_17.zip]]
+	# [[File:fyysika1_18.zip]]
+	# [[File:fyysika1_19.zip]]
+	# [[File:fyysika1_20.zip]]
 	#
+	# [[File:fyysika1_22.zip]]
 	#
+	# [[File:fyysika1_24.zip]]
+	# [[File:fyysika1_25.zip]]
 	#
-	#
-	# [[File:praks1_9.zip]]
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	# [[File:praks1_17.zip]]
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	#
-	#
+	# [[File:fyysika1_27.zip]]
+	# [[File:fyysika1_28.zip]]
+	# [[File:fyysika1_29.zip]]
 	
 	== Laborid (teine osa)
 	#
@@ -80,9 +73,17 @@ text: #SUBTITLE Füüsika
 	#
 	#
 	
-	  
 	
+	
+	
+	
+	
+minor: 
+username: Artur Gummel
+lastmajor: 16
+keep-ts: 1454148759
+summary: 
 ip: 89.235.235.166
-keep-ts: 1447604705
-blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
-revision: 15
+ts: 1454148759
+host: 84.52.32.112
+languages: 
