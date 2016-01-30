@@ -1,12 +1,4 @@
-keep-ts: 1454143388
-languages: 
-ts: 1454143388
-lastmajor: 5
 username: Artur Gummel
-flags: 0
-summary: 
-minor: 
-host: 84.52.32.112
 text: #SUBTITLE Sissejuhatus infotehnoloogiasse
 	#SUBURL [Course:31162 〔Õppeaine ÕIS-is〕]
 	
@@ -20,7 +12,15 @@ text: #SUBTITLE Sissejuhatus infotehnoloogiasse
 	
 	Oluline info on [http://lambda.ee/wiki/Sissejuhatus_infotehnoloogiasse siin].
 	
-lastmajorsummary: 
-blocks: </div></div>
 ip: 89.235.235.166
+flags: 10
+ts: 1454143388
+keep-ts: 1454143388
+blocks: [Course:31162 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 5
+lastmajorsummary: 
+summary: 
+host: 84.52.32.112
+languages: 
 revision: 5
+minor: 
