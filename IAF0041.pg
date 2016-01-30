@@ -1,13 +1,11 @@
 summary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
-username: Artur Gummel
-keep-ts: 1454144150
 host: 84.52.32.112
-minor: 
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+username: Artur Gummel
 ts: 1454144150
+minor: 
+flags: 1
 lastmajorsummary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
-revision: 22
-lastmajor: 22
-languages: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -164,3 +162,7 @@ text: #SUBTITLE Arvutid
 	
 	
 ip: 89.235.239.240
+lastmajor: 22
+keep-ts: 1454144150
+languages: 
+revision: 22
