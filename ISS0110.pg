@@ -1,11 +1,4 @@
-lastmajorsummary: 
-lastmajor: 7
-minor: 
-revision: 7
-languages: 
-host: 84.52.32.112
-ip: 84.52.48.194
-keep-ts: 1454143769
+username: Artur Gummel
 text: #SUBTITLE Väljendusoskus
 	#SUBURL [Course:31198 〔Õppeaine ÕIS-is〕]
 	
@@ -25,6 +18,15 @@ text: #SUBTITLE Väljendusoskus
 	10 вопросов по материалу со слайдов. Списывать не рекомендуется, однако у некоторых это получалось. Ответы принимаются в свободной форме, так что ничего сложного в этом нет.
 	
 	
-username: Artur Gummel
+keep-ts: 1454143769
+flags: 1
+revision: 7
 ts: 1454143769
+languages: 
+lastmajorsummary: 
+ip: 84.52.48.194
+host: 84.52.32.112
 summary: 
+minor: 
+blocks: [Course:31198 〔Õppeaine ÕIS-is〕]
+lastmajor: 7
