@@ -1,13 +1,21 @@
-ts: 1441924447
-minor: 1
-flags: 1
-lastmajor: 4
-blocks: [Course:27013 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: Artur Gummel
+keep-ts: 1454164350
+revision: 6
+ip: 89.235.235.166
 text: #SUBTITLE Side
 	#SUBURL [Course:27013 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+	==Информация
+	Вся информация находится [http://www.lr.ttu.ee/side/ тут]
+	
+	==Лекции
+	С осени 2015 года ведет лекции Ivo Müürsepp, также выкладывают видео на сайт, посещение лекций необязательно.
+	
+	==Лабораторные работы
+	В течение семестра необходимо сделать 5 лабораторных работ. Вся необходимая информация имеется на сайте.
+	
+	==Экзамен
+	Предмет заканчивается экзаменом: четыре задачи и два вопроса по теории.
 	----
 	
 	http://www.lr.ttu.ee/side/
@@ -15,9 +23,10 @@ text: #SUBTITLE Side
 	-- AlexDaniel 2014-09-05 22:15:15
 	
 	
+host: 84.52.32.112
 languages: 
-username: AlexDaniel
-keep-ts: 1441924447
-revision: 5
-ip: 89.235.235.166
-host: 82.131.7.230
+lastmajorsummary: 
+minor: 
+lastmajor: 6
+ts: 1454164350
+summary: 
