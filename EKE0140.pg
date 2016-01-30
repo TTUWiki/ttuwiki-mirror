@@ -1,15 +1,14 @@
-host: 82.131.7.230
+keep-ts: 1454156022
+summary: 
+revision: 19
+minor: 
 ip: 84.52.48.194
-username: AlexDaniel
-keep-ts: 1441924445
-lastmajor: 15
-ts: 1441924445
-revision: 18
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 19
+username: Artur Gummel
 languages: 
-blocks: [Course:100863 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
+host: 84.52.32.112
+lastmajorsummary: 
+ts: 1454156022
 text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#SUBURL [Course:100863 〔Õppeaine ÕIS-is〕]
 	
@@ -31,6 +30,11 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	Нумерация относительно редакции 2013-го года. Тетрадь 2014-го практически идентична.
 	
 	Красным выделены те значения, которые вам нужно вписать самим (обычно это то, что она дает на листках), жирным выделены ответы.
+	
+	Старые тетрадки, но задание идентичные:
+	
+	[[File:keskkonnakaitse2.pdf]]
+	[[File:KKK.pdf]]
 	
 	=== Примеры вопросов на экзамене
 	
@@ -54,4 +58,5 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	* Как можно применить вашу профессию для защиты окружающей среды?
 	
 	Многие понятия можно найти здесь: http://www.seit.ee/sass/?ID=1 , а также на слайдах, которые преподаватель выкладывает в ÕIS.
+	
 	
