@@ -1,8 +1,9 @@
-revision: 13
 summary: Хороший сайт для самостоятельного изучения линейной алгебры: http://mathprofi.ru/
-minor: 
-host: 84.52.32.112
-lastmajor: 13
+ip: 89.235.235.166
+blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454163459
+lastmajorsummary: Хороший сайт для самостоятельного изучения линейной алгебры: http://mathprofi.ru/
+languages: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -45,9 +46,10 @@ text: #SUBTITLE Lineaaralgebra
 	-- Artur Gummel 2016-01-30 16:17:39
 	
 	
-username: Artur Gummel
-keep-ts: 1454163459
-ip: 89.235.235.166
-lastmajorsummary: Хороший сайт для самостоятельного изучения линейной алгебры: http://mathprofi.ru/
-languages: 
+lastmajor: 13
+revision: 13
+host: 84.52.32.112
+minor: 
 ts: 1454163459
+username: Artur Gummel
+flags: 1
