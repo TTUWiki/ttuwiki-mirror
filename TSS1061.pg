@@ -1,12 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+host: 82.131.7.230
 text: #SUBTITLE Linna majanduskeskkond ja säästev areng
 	#SUBURL [Course:110166 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-revision: 2
-username: AlexDaniel
-minor: 1
-ts: 1441924451
 languages: 
+username: AlexDaniel
+flags: 1
+minor: 1
+keep-ts: 1441924451
+blocks: [Course:110166 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
