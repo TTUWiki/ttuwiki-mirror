@@ -1,14 +1,13 @@
-summary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
-blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454144492
-lastmajorsummary: Полезная программа для построения карт Карно, минимизации функций, преобразования функций в ДНФ или КНФ. [[File:carnoinstall.zip]] 
-username: Artur Gummel
-ts: 1454144492
+languages: 
+lastmajor: 24
 host: 84.52.32.112
 ip: 89.235.239.240
-flags: 1
-revision: 23
-lastmajor: 23
+ts: 1454144601
+revision: 24
+username: Artur Gummel
+lastmajorsummary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
+summary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
+minor: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -173,5 +172,13 @@ text: #SUBTITLE Arvutid
 	-- Artur Gummel 2016-01-30 11:01:32
 	
 	
-languages: 
-minor: 
+	----
+	
+	Logisim - программа для построения логических схем.
+	
+	[[File:logisim-win-2.7.1.zip]]
+	
+	-- Artur Gummel 2016-01-30 11:03:21
+	
+	
+keep-ts: 1454144601
