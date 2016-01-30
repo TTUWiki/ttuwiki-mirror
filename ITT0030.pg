@@ -1,9 +1,5 @@
-blocks: [Course:100804 〔Õppeaine ÕIS-is〕]
-username: Artur Gummel
-lastmajorsummary: 
-revision: 7
-lastmajor: 7
-flags: 1
+host: 84.52.32.112
+keep-ts: 1454147033
 minor: 
 text: #SUBTITLE Diskreetne matemaatika II
 	#SUBURL [Course:100804 〔Õppeaine ÕIS-is〕]
@@ -21,6 +17,14 @@ text: #SUBTITLE Diskreetne matemaatika II
 	Ходить обязательно, так как в конце каждого занятия небольшая работа на 15 минут.
 	У некоторых студентов получалось эти работы списывать, а кто-то их добывал у студентов прошлого года... Оба варианта бесперспективные - гораздо проще разобраться в материале и спокойно написать эти работы, ведь потом придется писать экзамен, где вам вряд ли что-то поможет.
 	
+	==Домашние работы
+	[[File:hm01.pdf]]
+	[[File:hm02.pdf]]
+	[[File:hm03.pdf]]
+	[[File:hm04.pdf]]
+	[[File:hm05.pdf]]
+	[[File:hm06.pdf]]
+	
 	==Экзамен
 	Состоит из двух частей - письменной и устной.
 	Перед экзаменом будет контрольная работа. Если её написать хорошо, то можно получить автоматом за письменную часть 4 или 5, но на устную все равно идти придется.
@@ -31,9 +35,11 @@ text: #SUBTITLE Diskreetne matemaatika II
 	[http://files.ttuwiki.org/2013.pdf Пример экзамена]
 	
 	
-ts: 1454146949
-ip: 84.52.48.194
-languages: 
-host: 84.52.32.112
+revision: 8
+lastmajorsummary: 
 summary: 
-keep-ts: 1454146949
+lastmajor: 8
+ts: 1454147033
+languages: 
+username: Artur Gummel
+ip: 84.52.48.194
