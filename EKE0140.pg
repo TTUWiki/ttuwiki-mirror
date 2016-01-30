@@ -1,8 +1,6 @@
-ts: 1454156022
-revision: 19
-flags: 1
-lastmajor: 19
-host: 84.52.32.112
+summary: 
+minor: 
+username: Artur Gummel
 text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#SUBURL [Course:100863 〔Õppeaine ÕIS-is〕]
 	
@@ -25,7 +23,7 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	
 	Красным выделены те значения, которые вам нужно вписать самим (обычно это то, что она дает на листках), жирным выделены ответы.
 	
-	Старые тетрадки, но задание идентичные:
+	Старые тетрадки, но задания идентичные:
 	
 	[[File:keskkonnakaitse2.pdf]]
 	[[File:KKK.pdf]]
@@ -54,11 +52,11 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	Многие понятия можно найти здесь: http://www.seit.ee/sass/?ID=1 , а также на слайдах, которые преподаватель выкладывает в ÕIS.
 	
 	
-username: Artur Gummel
-lastmajorsummary: 
-languages: 
-minor: 
+revision: 20
+ts: 1454156036
 ip: 84.52.48.194
-keep-ts: 1454156022
-summary: 
-blocks: [Course:100863 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454156036
+languages: 
+host: 84.52.32.112
+lastmajor: 20
+lastmajorsummary: 
