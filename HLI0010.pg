@@ -1,11 +1,12 @@
-lastmajorsummary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
-summary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
-ts: 1454162640
+languages: 
 host: 84.52.32.112
-username: Artur Gummel
+lastmajor: 5
 minor: 
-keep-ts: 1454162640
-lastmajor: 4
+summary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
+username: Artur Gummel
+ts: 1454162671
+revision: 5
+keep-ts: 1454162671
 text: #SUBTITLE Inglise keel (General)
 	
 	==Информация
@@ -16,7 +17,7 @@ text: #SUBTITLE Inglise keel (General)
 	* по статье написать резюме на 100 слов 
 	* написать тест на 50%
 	
-	Полезный материал:
+	====Полезный материал:
 	
 	[[File:10_mistakes_in_presenting.docx]]
 	[[File:Hints_for_a_succesful_presentation.rtf]]
@@ -29,5 +30,4 @@ text: #SUBTITLE Inglise keel (General)
 	====== Пример теста [[File:test_inglise_keel.jpg]]
 	
 	
-revision: 4
-languages: 
+lastmajorsummary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
