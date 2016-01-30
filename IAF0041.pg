@@ -1,14 +1,13 @@
-keep-ts: 1443634392
-ts: 1443634392
-ip: 89.235.239.240
-summary: patch status: 	Fix Committed → Fix Released
-flags: 1
-username: AlexDaniel
+summary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
+username: Artur Gummel
+keep-ts: 1454144150
+host: 84.52.32.112
 minor: 
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt;  * bufif не работают. Баг репорт с патчем здесь: https://bugs.launchpad.net/geda/+bug/1304681 **2014-04-11** патч приняли, в следующей версии должно всё работать.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt;  * bufif не работают. Баг репорт с патчем здесь: https://bugs.launchpad.net/geda/+bug/1304681 **2014-04-11** патч приняли, в следующей версии должно всё работать. <strong class="changes">**2015-09-30** в последней версии всё ОК.</strong></p></div>
-host: 82.131.0.212
+ts: 1454144150
+lastmajorsummary: Если кто-то все-таки хочет с DixiCad поиграться, то вот: [[File:dfr_dixi.zip]] 
+revision: 22
+lastmajor: 22
+languages: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -155,9 +154,13 @@ text: #SUBTITLE Arvutid
 	
 	-- Juli 2014-03-06 12:53 UTC
 	
-languages: 
-lastmajorsummary: patch status: 	Fix Committed → Fix Released
-revision: 21
-diff-major: 1
-lastmajor: 21
-blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+	----
+	
+	Если кто-то все-таки хочет с DixiCad поиграться, то вот:
+	
+	[[File:dfr_dixi.zip]]
+	
+	-- Artur Gummel 2016-01-30 10:55:50
+	
+	
+ip: 89.235.239.240
