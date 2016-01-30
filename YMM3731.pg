@@ -1,11 +1,13 @@
-lastmajorsummary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
+flags: 1
+languages: 
+keep-ts: 1454141631
+revision: 12
+summary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
 ts: 1454141631
 host: 84.52.32.112
 minor: 
-revision: 12
-languages: 
-ip: 84.52.48.194
-summary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
+lastmajor: 12
+username: Artur Gummel
 text: #SUBTITLE Matemaatiline analüüs I
 	#SUBURL [Course:28197 〔Õppeaine ÕIS-is〕]
 	
@@ -41,6 +43,6 @@ text: #SUBTITLE Matemaatiline analüüs I
 	-- Artur Gummel 2016-01-30 10:13:51
 	
 	
-lastmajor: 12
-username: Artur Gummel
-keep-ts: 1454141631
+lastmajorsummary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
+blocks: [Course:28197 〔Õppeaine ÕIS-is〕]
+ip: 84.52.48.194
