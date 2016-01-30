@@ -1,6 +1,12 @@
-username: Artur Gummel
+lastmajorsummary: 
+lastmajor: 6
 keep-ts: 1454164350
+languages: 
 revision: 6
+blocks: [Course:27013 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1454164350
+host: 84.52.32.112
 ip: 89.235.235.166
 text: #SUBTITLE Side
 	#SUBURL [Course:27013 〔Õppeaine ÕIS-is〕]
@@ -23,10 +29,6 @@ text: #SUBTITLE Side
 	-- AlexDaniel 2014-09-05 22:15:15
 	
 	
-host: 84.52.32.112
-languages: 
-lastmajorsummary: 
 minor: 
-lastmajor: 6
-ts: 1454164350
 summary: 
+username: Artur Gummel
