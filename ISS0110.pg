@@ -1,11 +1,16 @@
-revision: 6
-lastmajor: 3
-ts: 1441924447
+lastmajorsummary: 
+lastmajor: 7
+minor: 
+revision: 7
+languages: 
+host: 84.52.32.112
+ip: 84.52.48.194
+keep-ts: 1454143769
 text: #SUBTITLE Väljendusoskus
 	#SUBURL [Course:31198 〔Õppeaine ÕIS-is〕]
 	
 	==Информация
-	http://staff.ttu.ee/~bgordon/oppetegevus/valjendus/gordon.html
+	http://staff.ttu.ee/~bgordon/oppetegevus/valjendus/
 	
 	==Лекции
 	Посещение по собственному желанию, по сути на лекциях разбирается тот материал, который у него на слайдах.
@@ -20,12 +25,6 @@ text: #SUBTITLE Väljendusoskus
 	10 вопросов по материалу со слайдов. Списывать не рекомендуется, однако у некоторых это получалось. Ответы принимаются в свободной форме, так что ничего сложного в этом нет.
 	
 	
-username: AlexDaniel
-blocks: [Course:31198 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924447
-ip: 84.52.48.194
-minor: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+username: Artur Gummel
+ts: 1454143769
+summary: 
