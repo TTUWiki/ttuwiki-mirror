@@ -1,12 +1,12 @@
-revision: 2
-languages: 
-ts: 1454162416
+lastmajor: 3
+revision: 3
 lastmajorsummary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
+ts: 1454162549
 host: 84.52.32.112
-username: Artur Gummel
-keep-ts: 1454162416
-lastmajor: 2
+summary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
 minor: 
+username: Artur Gummel
+languages: 
 text: #SUBTITLE Inglise keel (General)
 	
 	==Информация
@@ -15,6 +15,7 @@ text: #SUBTITLE Inglise keel (General)
 	* ответить 100 слов
 	* сделать презентацию
 	* по статье написать резюме на 100 слов 
+	* написать тест на 50%
 	
 	Полезный материал:
 	
@@ -26,4 +27,4 @@ text: #SUBTITLE Inglise keel (General)
 	[[File:Making_presentations.doc]]
 	[[File:Three_Ps.rtf]]
 	
-summary: ==Информация В течение семестра необходимо: * ответить 100 слов * сделать презентацию * по статье написать резюме на 100 слов  Полезный . . .
+keep-ts: 1454162549
