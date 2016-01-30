@@ -1,15 +1,7 @@
-minor: 
-ts: 1454147033
-lastmajor: 8
+revision: 9
+lastmajor: 9
 summary: 
-flags: 1
 username: Artur Gummel
-revision: 8
-keep-ts: 1454147033
-languages: 
-ip: 84.52.48.194
-lastmajorsummary: 
-blocks: [Course:100804 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Diskreetne matemaatika II
 	#SUBURL [Course:100804 〔Õppeaine ÕIS-is〕]
 	
@@ -25,6 +17,19 @@ text: #SUBTITLE Diskreetne matemaatika II
 	Проводит занятия г-жа Марго, вам точно понравится.
 	Ходить обязательно, так как в конце каждого занятия небольшая работа на 15 минут.
 	У некоторых студентов получалось эти работы списывать, а кто-то их добывал у студентов прошлого года... Оба варианта бесперспективные - гораздо проще разобраться в материале и спокойно написать эти работы, ведь потом придется писать экзамен, где вам вряд ли что-то поможет.
+	
+	Примеры самостоятельных работ:
+	
+	[[File:pr_01_01.pdf]]
+	[[File:pr_01_02.pdf]]
+	[[File:pr_02_01.pdf]]
+	[[File:pr_02_02.pdf]]
+	[[File:pr_03_01.pdf]]
+	[[File:pr_03_02.pdf]]
+	[[File:pr_04_01.pdf]]
+	[[File:pr_04_02.pdf]]
+	[[File:pr_05_01.pdf]]
+	[[File:pr_05_02.pdf]]
 	
 	==Домашние работы
 	[[File:hm01.pdf]]
@@ -43,5 +48,10 @@ text: #SUBTITLE Diskreetne matemaatika II
 	
 	[http://files.ttuwiki.org/2013.pdf Пример экзамена]
 	
-	
+ts: 1454147099
 host: 84.52.32.112
+lastmajorsummary: 
+minor: 
+keep-ts: 1454147099
+ip: 84.52.48.194
+languages: 
