@@ -1,12 +1,11 @@
-keep-ts: 1441924452
+lastmajorsummary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
+ts: 1454141631
+host: 84.52.32.112
+minor: 
+revision: 12
+languages: 
 ip: 84.52.48.194
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 11
-flags: 1
-minor: 1
-lastmajor: 7
-host: 82.131.7.230
-username: AlexDaniel
+summary: Сборник задач Г. Н. Берман [[File:Берман.pdf]] 
 text: #SUBTITLE Matemaatiline analüüs I
 	#SUBURL [Course:28197 〔Õppeaine ÕIS-is〕]
 	
@@ -33,6 +32,15 @@ text: #SUBTITLE Matemaatiline analüüs I
 	-- Atomsk 2014-02-25 23:19 UTC
 	
 	
-blocks: [Course:28197 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-languages: 
+	----
+	
+	Сборник задач Г. Н. Берман
+	
+	[[File:Берман.pdf]]
+	
+	-- Artur Gummel 2016-01-30 10:13:51
+	
+	
+lastmajor: 12
+username: Artur Gummel
+keep-ts: 1454141631
