@@ -1,13 +1,10 @@
+lastmajorsummary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
+keep-ts: 1454144601
+username: Artur Gummel
 languages: 
-lastmajor: 24
-host: 84.52.32.112
-ip: 89.235.239.240
+flags: 1
 ts: 1454144601
 revision: 24
-username: Artur Gummel
-lastmajorsummary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
-summary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
-minor: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -181,4 +178,9 @@ text: #SUBTITLE Arvutid
 	-- Artur Gummel 2016-01-30 11:03:21
 	
 	
-keep-ts: 1454144601
+host: 84.52.32.112
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+summary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
+lastmajor: 24
+minor: 
+ip: 89.235.239.240
