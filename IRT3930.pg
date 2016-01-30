@@ -1,14 +1,13 @@
-blocks: [Course:27013 〔Õppeaine ÕIS-is〕]
-minor: 
-ip: 89.235.235.166
-username: Artur Gummel
 host: 84.52.32.112
-revision: 7
-lastmajorsummary: 
-summary: 
+keep-ts: 1454164711
+minor: 
+username: Artur Gummel
 languages: 
-lastmajor: 7
-keep-ts: 1454164405
+lastmajorsummary: 
+lastmajor: 8
+revision: 8
+ts: 1454164711
+ip: 89.235.235.166
 text: #SUBTITLE Side
 	#SUBURL [Course:27013 〔Õppeaine ÕIS-is〕]
 	
@@ -23,6 +22,12 @@ text: #SUBTITLE Side
 	
 	==Экзамен
 	Предмет заканчивается экзаменом: четыре задачи и два вопроса по теории.
+	
+	Некоторые примеры вопросов:
+	[[File:example1.png]]
+	[[File:example2.png]]
+	[[File:example3.png]]
+	[[File:example4.jpg]]
 	----
 	
 	http://www.lr.ttu.ee/side/
@@ -30,5 +35,4 @@ text: #SUBTITLE Side
 	-- AlexDaniel 2014-09-05 22:15:15
 	
 	
-flags: 1
-ts: 1454164405
+summary: 
