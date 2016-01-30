@@ -1,21 +1,19 @@
-lastmajorsummary: 
-lastmajor: 6
-keep-ts: 1454164350
+lastmajor: 7
+minor: 
+username: Artur Gummel
 languages: 
-revision: 6
-blocks: [Course:27013 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1454164350
 host: 84.52.32.112
+keep-ts: 1454164405
 ip: 89.235.235.166
+lastmajorsummary: 
 text: #SUBTITLE Side
 	#SUBURL [Course:27013 〔Õppeaine ÕIS-is〕]
 	
 	==Информация
-	Вся информация находится [http://www.lr.ttu.ee/side/ тут]
+	Вся информация находится [http://www.lr.ttu.ee/side/ тут].
 	
 	==Лекции
-	С осени 2015 года ведет лекции Ivo Müürsepp, также выкладывают видео на сайт, посещение лекций необязательно.
+	С осени 2015 года ведет лекции Ivo Müürsepp. Также выкладывают видео с лекций на сайт, посещение лекций необязательно.
 	
 	==Лабораторные работы
 	В течение семестра необходимо сделать 5 лабораторных работ. Вся необходимая информация имеется на сайте.
@@ -29,6 +27,6 @@ text: #SUBTITLE Side
 	-- AlexDaniel 2014-09-05 22:15:15
 	
 	
-minor: 
+revision: 7
 summary: 
-username: Artur Gummel
+ts: 1454164405
