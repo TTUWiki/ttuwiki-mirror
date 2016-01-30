@@ -1,11 +1,14 @@
-lastmajor: 7
+blocks: [Course:27013 〔Õppeaine ÕIS-is〕]
 minor: 
-username: Artur Gummel
-languages: 
-host: 84.52.32.112
-keep-ts: 1454164405
 ip: 89.235.235.166
+username: Artur Gummel
+host: 84.52.32.112
+revision: 7
 lastmajorsummary: 
+summary: 
+languages: 
+lastmajor: 7
+keep-ts: 1454164405
 text: #SUBTITLE Side
 	#SUBURL [Course:27013 〔Õppeaine ÕIS-is〕]
 	
@@ -27,6 +30,5 @@ text: #SUBTITLE Side
 	-- AlexDaniel 2014-09-05 22:15:15
 	
 	
-revision: 7
-summary: 
+flags: 1
 ts: 1454164405
