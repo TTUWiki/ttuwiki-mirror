@@ -1,25 +1,33 @@
-lastmajor: 5
+host: 84.52.32.112
+revision: 7
+keep-ts: 1454266847
+languages: 
+lastmajor: 7
+summary: 
 ip: 89.235.235.166
+minor: 
+username: Artur Gummel
+ts: 1454266847
+lastmajorsummary: 
 text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	#SUBURL [Course:26901 〔Õppeaine ÕIS-is〕]
+	
+	==Информация
 	
 	Программа курса:
 	[[File:idu3350.pdf]]
 	
 	Материалы лекций:
 	http://maurus.ttu.ee/yld_index.php
+	[[File:loeng_sissejuhatusinfosystem.zip]]
+	
+	Материалы практик:
+	[[File:harjutus_sissejuhatusinfosystem.zip]]
 	
 	Пример проекта, который нужно сдать к концу семестра:
 	[[File:Primer_proekta_Ehitusfirma.pdf]]
 	
+	Пример теста:
+	[[File:systemtestexample.png]]
+	[[File:Sissejuhatus-infos_252_steemidesse-testi-vastused.pdf]]
 	
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
-minor: 1
-blocks: [Course:26901 〔Õppeaine ÕIS-is〕]
-revision: 6
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-languages: 
