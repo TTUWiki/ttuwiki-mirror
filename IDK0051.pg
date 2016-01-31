@@ -1,22 +1,20 @@
-flags: 1
+lastmajor: 6
 ip: 89.235.235.166
-keep-ts: 1454267286
-blocks: [Course:100261 〔Õppeaine ÕIS-is〕]
-ts: 1454267286
-lastmajor: 5
-host: 84.52.32.112
-revision: 5
-lastmajorsummary: 
-minor: 
-username: Artur Gummel
-summary: 
 text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	#SUBURL [Course:100261 〔Õppeaine ÕIS-is〕]
 	
-	Информация 
+	==Информация 
 	
 	Вся необходимая информация имеется на странице курса https://courses.cs.ttu.ee/pages/ITI0011
 	
 	
 	
+minor: 
+lastmajorsummary: 
 languages: 
+username: Artur Gummel
+ts: 1454267294
+summary: 
+keep-ts: 1454267294
+host: 84.52.32.112
+revision: 6
