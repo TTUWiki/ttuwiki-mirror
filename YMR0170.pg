@@ -1,18 +1,14 @@
 username: Artur Gummel
-lastmajor: 6
-minor: 
-keep-ts: 1454268661
-languages: 
-blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-ts: 1454268661
+ip: 89.235.235.166
+keep-ts: 1454268685
 summary: 
+revision: 7
+lastmajorsummary: 
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:100678 〔Õppeaine ÕIS-is〕]
 	
 	==Информация
-	У C.И.Бабиченко все стандартно:
-	2 практические работы и работа по теории.
+	У C.И.Бабиченко все стандартно: 2 практические работы и работа по теории.
 	За теорию баллы учитываются с 0, за практические работы необходимо набрать 51%.
 	Оценка обычно получается автоматом, но при желание можно сходить на экзамен и улучшить ее.
 	
@@ -26,7 +22,8 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	
 	-- AlexDaniel 2015-04-28 00:23:34
 	
+ts: 1454268685
+minor: 
+lastmajor: 7
 host: 84.52.32.112
-ip: 89.235.235.166
-revision: 6
-flags: 1
+languages: 
