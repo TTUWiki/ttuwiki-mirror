@@ -1,9 +1,6 @@
-summary: Хороший сайт для самостоятельного изучения линейной алгебры: http://mathprofi.ru/
-ip: 89.235.235.166
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454163459
-lastmajorsummary: Хороший сайт для самостоятельного изучения линейной алгебры: http://mathprofi.ru/
-languages: 
+summary: 
+minor: 
+keep-ts: 1454269062
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -18,6 +15,9 @@ text: #SUBTITLE Lineaaralgebra
 	===Задачники:
 	[https://files.ttuwiki.org/Proskurjakov.djvu И.В.Проскуряков "Сборник задач по линейной алгебре"]
 	Д.В.Клетеник "Сборник задач по аналитической геометрии"
+	
+	==Решебник:
+	[http://www.a-geometry.narod.ru/problems/problems.htm Д.В.Клетеник]
 	
 	== Лекции
 	Пускается листочек с подписями. Сами лекции слушать довольно тяжело.
@@ -46,10 +46,11 @@ text: #SUBTITLE Lineaaralgebra
 	-- Artur Gummel 2016-01-30 16:17:39
 	
 	
-lastmajor: 13
-revision: 13
-host: 84.52.32.112
-minor: 
-ts: 1454163459
+revision: 14
+ip: 89.235.235.166
+lastmajorsummary: 
+ts: 1454269062
+languages: 
 username: Artur Gummel
-flags: 1
+host: 84.52.32.112
+lastmajor: 14
