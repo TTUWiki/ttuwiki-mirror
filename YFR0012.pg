@@ -1,16 +1,17 @@
-flags: 1
-ts: 1441924452
-lastmajor: 2
 text: #SUBTITLE Füüsika II
 	#SUBURL [Course:30617 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-minor: 1
-keep-ts: 1441924452
-languages: 
-blocks: [Course:30617 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
+	See also [[YFR0020]]
+	
+keep-ts: 1454276725
 ip: 89.235.235.166
+revision: 5
+host: 85.253.177.126
+summary: 
+lastmajorsummary: 
+minor: 
+ts: 1454276725
+lastmajor: 5
+languages: 
+username: AlexDaniel
