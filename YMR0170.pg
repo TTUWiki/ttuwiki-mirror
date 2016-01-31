@@ -1,14 +1,16 @@
-username: Artur Gummel
-lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-lastmajor: 10
+ip: 89.235.235.166
+flags: 1
+summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
+minor: 
+languages: 
+ts: 1454268889
 keep-ts: 1454268889
+blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
+username: Artur Gummel
+lastmajor: 10
 revision: 10
 host: 84.52.32.112
-minor: 
-summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-ts: 1454268889
-ip: 89.235.235.166
-languages: 
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:100678 〔Õppeaine ÕIS-is〕]
 	
