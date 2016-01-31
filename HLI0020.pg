@@ -1,14 +1,14 @@
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
-ts: 1441924446
-revision: 8
-blocks: [Course:34840 〔Õppeaine ÕIS-is〕]
+lastmajor: 9
+revision: 9
+minor: 
+summary: 
 ip: 84.52.48.194
-keep-ts: 1441924446
+host: 84.52.32.112
+ts: 1454268134
+keep-ts: 1454268134
+languages: 
+lastmajorsummary: 
+username: Artur Gummel
 text: #SUBTITLE Akadeemiline inglise keel
 	#SUBURL [Course:34840 〔Õppeaine ÕIS-is〕]
 	
@@ -23,11 +23,10 @@ text: #SUBTITLE Akadeemiline inglise keel
 	
 	Заканчивается предмет экзаменом. Всё как обычно - письменная часть с несколькими заданиями и сочинением, устная пятиминутная речь.
 	
+	Стандартные темы для устной части экзамена [[File:Examination_topics.docx]]
 	----
 	
 	Моим преподавателем была Margit Sepp. Всё прекрасно - ходить на занятия интересно, польза ощущается.
 	
 	-- AlexDaniel 2014-08-26 23:32:48
 	
-	
-lastmajor: 7
