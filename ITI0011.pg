@@ -1,24 +1,21 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 
 ip: 89.235.235.166
-ts: 1441924447
-revision: 5
-lastmajor: 4
+username: Artur Gummel
+keep-ts: 1454267391
+host: 84.52.32.112
+ts: 1454267391
+revision: 6
+lastmajor: 6
+languages: 
 text: #SUBTITLE Programmeerimise põhikursus Javas
 	#SUBURL [Course:100805 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
+	==Информация
 	
-	Страница курса: http://courses.cs.ttu.ee/pages/ITI0011
-	Группа с новостями курса: https://groups.google.com/forum/#!forum/iti0011
-	
-	-- Artur Gummel 2014-09-10 10:54:04
+	Страница курса  http://courses.cs.ttu.ee/pages/ITI0011
+	Группа с новостями курса https://groups.google.com/forum/#!forum/iti0011
 	
 	
-blocks: [Course:100805 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924447
+	
+lastmajorsummary: 
+summary: 
