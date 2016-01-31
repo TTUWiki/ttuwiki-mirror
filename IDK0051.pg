@@ -1,5 +1,11 @@
-lastmajor: 6
-ip: 89.235.235.166
+minor: 
+revision: 6
+host: 84.52.32.112
+username: Artur Gummel
+languages: 
+ts: 1454267294
+keep-ts: 1454267294
+summary: 
 text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	#SUBURL [Course:100261 〔Õppeaine ÕIS-is〕]
 	
@@ -9,12 +15,8 @@ text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	
 	
 	
-minor: 
 lastmajorsummary: 
-languages: 
-username: Artur Gummel
-ts: 1454267294
-summary: 
-keep-ts: 1454267294
-host: 84.52.32.112
-revision: 6
+lastmajor: 6
+blocks: [Course:100261 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 1
