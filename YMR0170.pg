@@ -1,8 +1,19 @@
+username: Artur Gummel
+lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
+lastmajor: 10
+keep-ts: 1454268889
+revision: 10
+host: 84.52.32.112
+minor: 
+summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
+ts: 1454268889
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:100678 〔Õppeaine ÕIS-is〕]
 	
 	==Информация
-	У C.И.Бабиченко все стандартно: 2 практические работы и работа по теории.
+	У C. И. Бабиченко все стандартно: 2 практические работы и работа по теории.
 	За теорию баллы учитываются с 0, за практические работы необходимо набрать 51%.
 	Оценка обычно получается автоматом, но при желание можно сходить на экзамен и улучшить ее.
 	
@@ -24,16 +35,3 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	-- Artur Gummel 2016-01-31 21:33:03
 	
 	
-lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-languages: 
-blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
-revision: 9
-flags: 1
-username: Artur Gummel
-keep-ts: 1454268876
-ts: 1454268876
-ip: 89.235.235.166
-summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-minor: 
-lastmajor: 9
-host: 84.52.32.112
