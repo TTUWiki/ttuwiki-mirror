@@ -1,14 +1,13 @@
-blocks: [Course:100261 〔Õppeaine ÕIS-is〕]
-revision: 7
-minor: 
 host: 84.52.32.112
-lastmajorsummary: 
-summary: 
+ts: 1454267958
+keep-ts: 1454267958
+lastmajor: 8
+languages: 
 username: Artur Gummel
-flags: 1
-ip: 89.235.235.166
-lastmajor: 7
-keep-ts: 1454267823
+minor: 
+lastmajorsummary: 
+revision: 8
+summary: 
 text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	#SUBURL [Course:100261 〔Õppeaine ÕIS-is〕]
 	
@@ -18,5 +17,6 @@ text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	
 	Пример контрольной работы: [[File:kt2.jpg]]
 	
-ts: 1454267823
-languages: 
+	Правила и оценивание предмета [[File:IDK2015_sygis2015_reeglid_v2.pdf]]
+	
+ip: 89.235.235.166
