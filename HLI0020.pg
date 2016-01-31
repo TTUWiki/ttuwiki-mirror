@@ -1,14 +1,13 @@
-lastmajor: 9
-revision: 9
-minor: 
-summary: 
-ip: 84.52.48.194
-host: 84.52.32.112
 ts: 1454268134
 keep-ts: 1454268134
+lastmajor: 9
+ip: 84.52.48.194
+flags: 1
+host: 84.52.32.112
+username: Artur Gummel
 languages: 
 lastmajorsummary: 
-username: Artur Gummel
+summary: 
 text: #SUBTITLE Akadeemiline inglise keel
 	#SUBURL [Course:34840 〔Õppeaine ÕIS-is〕]
 	
@@ -30,3 +29,6 @@ text: #SUBTITLE Akadeemiline inglise keel
 	
 	-- AlexDaniel 2014-08-26 23:32:48
 	
+minor: 
+blocks: [Course:34840 〔Õppeaine ÕIS-is〕]
+revision: 9
