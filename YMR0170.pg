@@ -1,11 +1,13 @@
-keep-ts: 1454268784
 lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-flags: 1
-languages: 
-ip: 89.235.235.166
-summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-revision: 8
+lastmajor: 9
+revision: 9
 host: 84.52.32.112
+languages: 
+username: Artur Gummel
+minor: 
+keep-ts: 1454268876
+summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
+ts: 1454268876
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:100678 〔Õppeaine ÕIS-is〕]
 	
@@ -18,6 +20,7 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	[https://files.ttuwiki.org/Gmurman.Rukovodstvo.djvu Гмурман задачи]
 	[https://files.ttuwiki.org/Gmurman.Teorija.djvu Гмурман теория]
 	[https://files.ttuwiki.org/175-___1969.djvu Комбинаторика Виленкин]
+	[http://sernam.ru/book_tp.php Е.С. Вентцель теория вероятностей]
 	----
 	
 	http://web.zone.ee/sb/
@@ -31,8 +34,4 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	-- Artur Gummel 2016-01-31 21:33:03
 	
 	
-lastmajor: 8
-ts: 1454268784
-minor: 
-blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
-username: Artur Gummel
+ip: 89.235.235.166
