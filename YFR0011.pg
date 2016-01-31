@@ -1,12 +1,18 @@
-minor: 1
+lastmajor: 8
+summary: link to YFR0020
+host: 85.253.177.126
+ts: 1454276711
+lastmajorsummary: link to YFR0020
+minor: 
 ip: 89.235.235.166
-blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 7
+keep-ts: 1454276711
 username: AlexDaniel
+languages: 
+revision: 8
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:29486 〔Õppeaine ÕIS-is〕]
 	
+	See also: [[YFR0020]]
 	
 	==Лекции:
 	
@@ -31,9 +37,3 @@ text: #SUBTITLE Füüsika I
 	На экзамен приходят все. Экзамен устный, три вопроса: 2 по теории и 1 задача. Кто пропустил много занятий, тем будут еще дополнительные вопросы, а кто написал контрольные на сумму от 160 до 200 баллов - будут предложены автоматы. 
 	PS: единицу в любом случае получите.
 	
-lastmajor: 5
-host: 82.131.7.230
-ts: 1441924452
-keep-ts: 1441924452
-languages: 
-flags: 1
