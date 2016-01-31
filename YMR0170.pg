@@ -1,6 +1,12 @@
-summary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-lastmajor: 12
+ts: 1454276344
+keep-ts: 1454276344
+summary: немного про экзамен
+lastmajorsummary: немного про экзамен
 languages: 
+username: AlexDaniel
+host: 85.253.177.126
+lastmajor: 13
+revision: 13
 ip: 89.235.235.166
 minor: 
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
@@ -9,7 +15,7 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	==Информация
 	У C. И. Бабиченко все стандартно: 2 практические работы и работа по теории.
 	За теорию баллы учитываются с 0, за практические работы необходимо набрать 51%.
-	Оценка обычно получается автоматом, но при желание можно сходить на экзамен и улучшить ее.
+	Оценка обычно получается автоматом, но при желании можно сходить на экзамен и улучшить ее (обычно никто на экзамен не идет, у всех автоматом. Гораздо проще переписать работы сто раз в течении семестра чем сдавать экзамен).
 	
 	==Материал
 	[https://files.ttuwiki.org/Gmurman.Rukovodstvo.djvu Гмурман задачи]
@@ -35,11 +41,3 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	
 	
 	
-host: 84.52.32.112
-lastmajorsummary: Хороший сайт для самостоятельного изучения теории вероятностей http://mathprofi.ru/teorija_verojatnostei.html
-ts: 1454269582
-revision: 12
-blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454269582
-username: Artur Gummel
-flags: 1
