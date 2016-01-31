@@ -1,10 +1,14 @@
-keep-ts: 1454267823
-ts: 1454267823
-username: Artur Gummel
-summary: 
-ip: 89.235.235.166
-lastmajorsummary: 
+blocks: [Course:100261 〔Õppeaine ÕIS-is〕]
+revision: 7
 minor: 
+host: 84.52.32.112
+lastmajorsummary: 
+summary: 
+username: Artur Gummel
+flags: 1
+ip: 89.235.235.166
+lastmajor: 7
+keep-ts: 1454267823
 text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	#SUBURL [Course:100261 〔Õppeaine ÕIS-is〕]
 	
@@ -14,7 +18,5 @@ text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	
 	Пример контрольной работы: [[File:kt2.jpg]]
 	
-lastmajor: 7
+ts: 1454267823
 languages: 
-host: 84.52.32.112
-revision: 7
