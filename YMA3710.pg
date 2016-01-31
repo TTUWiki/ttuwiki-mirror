@@ -1,15 +1,3 @@
-minor: 
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
-ts: 1454269062
-revision: 14
-summary: 
-lastmajor: 14
-keep-ts: 1454269062
-host: 84.52.32.112
-lastmajorsummary: 
-username: Artur Gummel
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -26,7 +14,7 @@ text: #SUBTITLE Lineaaralgebra
 	Д.В.Клетеник "Сборник задач по аналитической геометрии"
 	
 	==Решебник:
-	[http://www.a-geometry.narod.ru/problems/problems.htm Д.В.Клетеник]
+	[http://www.a-geometry.narod.ru/problems/problems.htm Д.В.Клетеник “Сборник задач по аналитической геометрии”]
 	
 	== Лекции
 	Пускается листочек с подписями. Сами лекции слушать довольно тяжело.
@@ -55,4 +43,14 @@ text: #SUBTITLE Lineaaralgebra
 	-- Artur Gummel 2016-01-30 16:17:39
 	
 	
+lastmajor: 15
+keep-ts: 1454269077
 ip: 89.235.235.166
+minor: 
+ts: 1454269077
+host: 84.52.32.112
+summary: 
+languages: 
+lastmajorsummary: 
+revision: 15
+username: Artur Gummel
