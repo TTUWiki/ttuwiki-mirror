@@ -1,14 +1,16 @@
-languages: 
-ts: 1441924446
-ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
-revision: 4
 keep-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
+languages: 
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:101643 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+flags: 1
+username: AlexDaniel
 lastmajor: 2
 text: #SUBTITLE Võrdlev konstitutsiooniõigus
 	#SUBURL [Course:101643 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ip: 89.235.235.166
