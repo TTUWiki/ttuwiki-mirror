@@ -1,3 +1,7 @@
+minor: 1
+keep-ts: 1454310829
+revision: 26
+languages: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -172,14 +176,12 @@ text: #SUBTITLE Arvutid
 	
 	 
 	
-revision: 26
-username: AlexDaniel
-host: 85.253.177.126
+lastmajorsummary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
+flags: 1
 ip: 89.235.239.240
 summary: touch
+host: 85.253.177.126
+username: AlexDaniel
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
 lastmajor: 25
-keep-ts: 1454310829
-lastmajorsummary: Logisim - программа для построения логических схем. [[File:logisim-win-2.7.1.zip]] 
 ts: 1454310829
-minor: 1
-languages: 
