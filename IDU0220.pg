@@ -1,16 +1,10 @@
-host: 84.52.32.112
-ip: 89.235.235.166
-languages: 
-revision: 15
-keep-ts: 1454340193
-summary: 
-ts: 1454340193
-flags: 1
-minor: 
-username: Artur Gummel
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
 lastmajorsummary: 
-lastmajor: 15
+ip: 89.235.235.166
+host: 84.52.32.112
+keep-ts: 1454344251
+username: Artur Gummel
+lastmajor: 16
+revision: 16
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -40,6 +34,9 @@ text: #SUBTITLE Andmebaasid I
 	
 	[https://files.ttuwiki.org/Kordamiskysimused_IDU0220_2015.pdf Вопросы для повторения]
 	[https://files.ttuwiki.org/exampleofquestions.pdf Пример вопросов в тесте]
+	Пример контрольной работы по SQL:
+	[[File:sqlkontrolltoonaide.png]]
+	[[File:Tsirkus.mdb]]
 	----
 	
 	[[https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CCsQFjACOAo&url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&ei=R4VPVaDyBIe_ygPL34HQDw&usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&sig2=qD1B9LR0ufQwwzg1OWze5g&cad=rja Макросы в LibreOffice Base]]
@@ -61,3 +58,7 @@ text: #SUBTITLE Andmebaasid I
 	-- AlexDaniel 2015-05-13 02:32:11
 	
 	
+minor: 
+ts: 1454344251
+languages: 
+summary: 
