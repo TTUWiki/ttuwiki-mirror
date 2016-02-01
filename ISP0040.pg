@@ -1,8 +1,9 @@
-summary: 
+flags: 1
+minor: 
+revision: 15
 languages: 
+ts: 1454354485
 lastmajor: 15
-keep-ts: 1454354485
-ip: 193.40.244.196
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -28,9 +29,10 @@ text: #SUBTITLE Arvutivõrgud
 	
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
-username: Artur Gummel
-host: 84.52.32.112
-ts: 1454354485
+ip: 193.40.244.196
 lastmajorsummary: 
-revision: 15
-minor: 
+summary: 
+username: Artur Gummel
+blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454354485
+host: 84.52.32.112
