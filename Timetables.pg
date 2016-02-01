@@ -1,7 +1,9 @@
-username: AlexDaniel
-text: [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
-	[[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
-	[[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
+revision: 7
+lastmajor: 6
+lastmajorsummary: Links to anchors
+text: * [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
+	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
+	* [[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
 	
 	== Links
 	<include "Timetables (Full-time studies)">
@@ -19,12 +21,10 @@ text: [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-languages: 
-lastmajor: 6
-lastmajorsummary: Links to anchors
+keep-ts: 1454370667
+minor: 1
 summary: Links to anchors
-ts: 1454370163
-revision: 6
-minor: 
-keep-ts: 1454370163
 host: 85.253.177.126
+ts: 1454370667
+languages: 
+username: AlexDaniel
