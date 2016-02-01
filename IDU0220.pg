@@ -1,11 +1,16 @@
-lastmajor: 15
-ip: 89.235.235.166
-ts: 1454340193
-keep-ts: 1454340193
-languages: 
-lastmajorsummary: 
-username: Artur Gummel
 host: 84.52.32.112
+ip: 89.235.235.166
+languages: 
+revision: 15
+keep-ts: 1454340193
+summary: 
+ts: 1454340193
+flags: 1
+minor: 
+username: Artur Gummel
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
+lastmajor: 15
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -56,6 +61,3 @@ text: #SUBTITLE Andmebaasid I
 	-- AlexDaniel 2015-05-13 02:32:11
 	
 	
-minor: 
-summary: 
-revision: 15
