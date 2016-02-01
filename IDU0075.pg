@@ -1,3 +1,11 @@
+lastmajor: 9
+revision: 9
+lastmajorsummary: 
+username: Artur Gummel
+ip: 89.235.235.166
+ts: 1454356259
+minor: 
+summary: 
 text: #SUBTITLE Veebiteenused
 	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
 	
@@ -6,7 +14,7 @@ text: #SUBTITLE Veebiteenused
 	Для сдачи практик, проекта и теории вам поможет Google.
 	Предлагается использовать на практиках [https://netbeans.org/ NetBeans] и [https://www.soapui.org/ SoapUI].
 	
-	Для сдачи предмета необходимо сдать проект, написать контрольную работу по теории и WSDL.
+	Для сдачи предмета необходимо сдать проект, написать контрольную работу по теории и [https://en.wikipedia.org/wiki/Web_Services_Description_Language WSDL].
 	За выполненные на практикуме задания можно получать дополнительные баллы.
 	
 	==Материал
@@ -15,16 +23,6 @@ text: #SUBTITLE Veebiteenused
 	
 	
 	
-ip: 89.235.235.166
-flags: 1
+keep-ts: 1454356259
 languages: 
-summary: 
-lastmajor: 8
-minor: 
 host: 84.52.32.112
-lastmajorsummary: 
-username: Artur Gummel
-blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
-ts: 1454356211
-revision: 8
-keep-ts: 1454356211
