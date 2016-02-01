@@ -1,8 +1,12 @@
-lastmajor: 9
 host: 84.52.32.112
+ip: 193.40.244.196
 summary: 
-flags: 1
-ts: 1454353487
+username: Artur Gummel
+languages: 
+revision: 10
+ts: 1454353636
+lastmajorsummary: 
+lastmajor: 10
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +19,10 @@ text: #SUBTITLE Arvutivõrgud
 	
 	Some students did not like this so much, so they had to write to dean's office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.
 	
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 9
-username: Artur Gummel
-lastmajorsummary: 
-ip: 193.40.244.196
+	======Перевод лабораторных работ на русский язык
+	NB! Обязательно сверяйтесь с оригиналом, могут быть неточности.
+	[[File:ISP0040_lab1_RU.pdf]]
+	[[File:ISP0040_lab2_RU.pdf]]
+	
+keep-ts: 1454353636
 minor: 
-keep-ts: 1454353487
