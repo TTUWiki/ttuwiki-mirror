@@ -1,20 +1,12 @@
-languages: 
-host: 85.253.177.126
-lastmajorsummary: Automatic Update
-ts: 1454306400
-username: Bot
+revision: 2
 minor: 
-text: === Doctoral studies / Doktoriõpe / Докторантура
-	#ENG
-	Images were generated: **2016-02-01**
-	#EST
-	Viimast korda uuendatud: **2016-02-01**
-	#RUS
-	Изображения были сгенерированы: **2016-02-01**
-	#LANG_END
-	##[https://files.ttuwiki.org/Doctoral_20160201.png
-	|Image]##
+lastmajorsummary: Deleted
+lastmajor: 2
+host: 85.253.177.126
+keep-ts: 1454306701
+username: AlexDaniel
+languages: 
+text: DeletedPage
 	
-revision: 1
-summary: Automatic Update
-lastmajor: 1
+ts: 1454306701
+summary: Deleted
