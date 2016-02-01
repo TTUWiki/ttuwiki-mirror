@@ -1,22 +1,9 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == Note to Russian <strong class="changes">or</strong> English students</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == Note to Russian <strong class="changes">and</strong> English students</p></div>
-username: AlexDaniel
-ts: 1442631152
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов.<br />&lt; ----<br />&lt; Сайт преподавателя -</strong> http://reinpx.wix.com/rp3#!__arvutivorgud<br />&lt; <strong class="changes">-- Аноним 2014-02-25 08</strong>:<strong class="changes">44 UTC<br />&lt; ----<br />&lt; Весной 2015-го пароль от moodle был</strong> **192.168.15.83<strong class="changes">**.<br />&lt; -- AlexDaniel</strong> 2015<strong class="changes">-04-15 21:32:49</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">== Materials:<br />&gt; * [[</strong>http://reinpx.wix.com/rp3#!__arvutivorgud <strong class="changes">Õppejõu koduleht]]<br />&gt; * [Moodle</strong>:<strong class="changes">9723 Moodle] – requires a password 😥 (was</strong> **192.168.15.83<strong class="changes">** in</strong> 2015<strong class="changes">)<br />&gt; == Note to Russian or English students<br />&gt; You **cannot** pass this course without knowing Estionian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.<br />&gt; Some students did not like this so much, so they had to write to dean's office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.</strong></p></div>
-keep-ts: 1442631152
-languages: 
-summary: 
-host: 82.131.7.230
-lastmajorsummary: Info
-lastmajor: 7
-flags: 1
-revision: 8
+revision: 9
 ip: 193.40.244.196
-minor: 1
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454353487
+host: 84.52.32.112
+username: Artur Gummel
+ts: 1454353487
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -25,7 +12,12 @@ text: #SUBTITLE Arvutivõrgud
 	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.15.83** in 2015)
 	
 	== Note to Russian and English students
-	You **cannot** pass this course without knowing Estionian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.
+	You **cannot** pass this course without knowing Estonian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.
 	
 	Some students did not like this so much, so they had to write to dean's office asking for alternative way to pass the laboratory work. It worked, they were given a chance to pass this course by writing an essay.
 	
+minor: 
+lastmajorsummary: 
+summary: 
+lastmajor: 9
+languages: 
