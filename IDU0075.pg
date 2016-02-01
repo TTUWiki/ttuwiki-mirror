@@ -1,30 +1,28 @@
-lastmajorsummary: 
-lastmajor: 7
+ip: 89.235.235.166
 username: Artur Gummel
-languages: 
+lastmajorsummary: 
+host: 84.52.32.112
+revision: 8
+summary: 
+keep-ts: 1454356211
+lastmajor: 8
+minor: 
+ts: 1454356211
 text: #SUBTITLE Veebiteenused
 	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
 	
 	==Информация
 	
 	Для сдачи практик, проекта и теории вам поможет Google.
-	Предлагается использовать на практиках [https://netbeans.org/ NetBeans] и [https://www.soapui.org/ SoapUI]
+	Предлагается использовать на практиках [https://netbeans.org/ NetBeans] и [https://www.soapui.org/ SoapUI].
 	
 	Для сдачи предмета необходимо сдать проект, написать контрольную работу по теории и WSDL.
 	За выполненные на практикуме задания можно получать дополнительные баллы.
 	
 	==Материал
 	
-	Весь материал Tarvo Treier выкладывает у себя на сайте http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
+	Весь материал Tarvo Treier выкладывает у себя на [http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/ сайте].
 	
 	
 	
-host: 84.52.32.112
-keep-ts: 1454356140
-flags: 1
-summary: 
-ip: 89.235.235.166
-ts: 1454356140
-revision: 7
-minor: 
-blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
+languages: 
