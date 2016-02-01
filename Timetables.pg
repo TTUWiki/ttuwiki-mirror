@@ -1,9 +1,9 @@
-minor: 
-languages: 
-ts: 1454211260
 username: AlexDaniel
-keep-ts: 1454211260
-text: == Links
+text: [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
+	[[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
+	[[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
+	
+	== Links
 	<include "Timetables (Full-time studies)">
 	<include "Timetables (Distance learning)">
 	<include "Timetables (Doctoral studies)">
@@ -19,8 +19,12 @@ text: == Links
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-summary: New structure based on includes
-lastmajor: 5
-lastmajorsummary: New structure based on includes
-revision: 5
+languages: 
+lastmajor: 6
+lastmajorsummary: Links to anchors
+summary: Links to anchors
+ts: 1454370163
+revision: 6
+minor: 
+keep-ts: 1454370163
 host: 85.253.177.126
