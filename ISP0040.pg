@@ -1,9 +1,11 @@
-flags: 1
-minor: 
-revision: 15
+ip: 193.40.244.196
+lastmajorsummary: 
+keep-ts: 1454354505
 languages: 
-ts: 1454354485
-lastmajor: 15
+summary: 
+username: Artur Gummel
+ts: 1454354505
+host: 84.52.32.112
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -11,7 +13,7 @@ text: #SUBTITLE Arvutivõrgud
 	* [[http://reinpx.wix.com/rp3#!__arvutivorgud Õppejõu koduleht]]
 	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.15.83** in 2015)
 	* [http://files.ttuwiki.org/Computer_Networking_second_edition_rus.pdf Джеймс Ф. Куроуз, Кит В. Росс Компьютерные сети 2-е издание]
-	* [[File:Arvutivorgud.all.pdf]]
+	* [[File:Arvutivorgud.all.pdf]] (rus)
 	
 	== Note to Russian and English students
 	You **cannot** pass this course without knowing Estonian. You can write the exam in any language you like, but you will have to explain (in Estonian) what you were doing during the laboratory works. Only minimal knowledge is required though.
@@ -29,10 +31,6 @@ text: #SUBTITLE Arvutivõrgud
 	
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
-ip: 193.40.244.196
-lastmajorsummary: 
-summary: 
-username: Artur Gummel
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454354485
-host: 84.52.32.112
+lastmajor: 16
+minor: 
+revision: 16
