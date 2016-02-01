@@ -1,9 +1,19 @@
-revision: 7
-lastmajor: 6
-lastmajorsummary: Links to anchors
-text: * [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
+username: AlexDaniel
+revision: 8
+summary: translations
+ts: 1454370796
+text: #ENG
+	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
 	* [[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
+	#EST
+	* [[#Timetables_(Full-time_studies)|Statsionaarõpe]] ([[#Timetables_(Full-time studies,_images)|PNG]])
+	* [[#Timetables_(Distance learning)|Kaugõpe]] ([[#Timetables_(Distance learning,_images)|PNG]])
+	* [[#Timetables_(Doctoral studies)|Doktoriõpe]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
+	#RUS
+	* [[#Timetables_(Full-time_studies)|Стационарное обучение]] ([[#Timetables_(Full-time studies,_images)|PNG]])
+	* [[#Timetables_(Distance learning)|Заочное обучение]] ([[#Timetables_(Distance learning,_images)|PNG]])
+	* [[#Timetables_(Doctoral studies)|Докторантура]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
 	
 	== Links
 	<include "Timetables (Full-time studies)">
@@ -21,10 +31,9 @@ text: * [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Fu
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-keep-ts: 1454370667
-minor: 1
-summary: Links to anchors
-host: 85.253.177.126
-ts: 1454370667
+keep-ts: 1454370796
 languages: 
-username: AlexDaniel
+host: 85.253.177.126
+lastmajorsummary: Links to anchors
+lastmajor: 6
+minor: 1
