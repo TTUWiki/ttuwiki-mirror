@@ -1,14 +1,16 @@
-ip: 89.235.235.166
 ts: 1441924451
-languages: 
-username: AlexDaniel
+flags: 1
 minor: 1
-revision: 4
-keep-ts: 1441924451
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:40719 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 host: 82.131.7.230
-lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Operatsioonijuhtimine
 	#SUBURL [Course:40719 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+revision: 4
+lastmajor: 2

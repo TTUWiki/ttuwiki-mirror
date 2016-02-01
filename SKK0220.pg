@@ -1,14 +1,16 @@
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+lastmajor: 2
 text: #SUBTITLE Arvutiõpetus
 	#SUBURL [Course:39511 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-revision: 4
-username: AlexDaniel
-minor: 1
-ts: 1441924450
 ip: 89.235.235.166
-languages: 
+ts: 1441924450
+host: 82.131.7.230
+revision: 4
+keep-ts: 1441924450
+username: AlexDaniel
+blocks: [Course:39511 〔Õppeaine ÕIS-is〕]
