@@ -1,16 +1,14 @@
-flags: 1
+minor: 
+revision: 12
+lastmajor: 12
 username: Artur Gummel
-ts: 1454339577
+summary: 
+ts: 1454339835
 lastmajorsummary: 
 host: 84.52.32.112
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 11
 ip: 89.235.235.166
-keep-ts: 1454339577
-minor: 
-lastmajor: 11
-summary: 
+keep-ts: 1454339835
+languages: 
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -26,7 +24,8 @@ text: #SUBTITLE Andmebaasid I
 	Харьютусы могут быть по SQL-у и по проекту.
 	На SQL будут даваться задания, которые нужно будет решать – за это получаете баллы. В случае, если этих баллов много, можете быть освобождены от контрольной работы.
 	
-	Рекомендуется самостоятельно про решать [https://files.ttuwiki.org/Kohustuslik_iseseisva_harjutamise_ylesanne_IDU0220_2_2015_vastused.pdf эти задания]
+	Рекомендуется самостоятельно про решать [https://files.ttuwiki.org/Kohustuslik_iseseisva_harjutamise_ylesanne_IDU0220_2_2015_vastused.pdf эти задания] для [https://files.ttuwiki.org/Magajate_Systeem.mdb базы данных]
+	
 	
 	== Экзамен
 	Помимо теста на экзамене нужно сдать проект и написать контрольную по SQL.
@@ -56,5 +55,4 @@ text: #SUBTITLE Andmebaasid I
 	[[http://www.baseprogramming.com/BaseMacros.pdf и еще]]
 	
 	-- AlexDaniel 2015-05-13 02:32:11
-	
 	
