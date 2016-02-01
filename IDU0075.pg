@@ -1,23 +1,27 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 4
-languages: 
-keep-ts: 1441924447
-minor: 1
-ts: 1441924447
-ip: 89.235.235.166
-blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
+lastmajor: 6
+host: 84.52.32.112
 text: #SUBTITLE Veebiteenused
 	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
+	==Информация
 	
-	http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
+	Для сдачи практик, проекта и теории вам поможет Google.
+	Предлагается использовать на практиках [https://netbeans.org/ NetBeans] и [https://www.soapui.org/ SoapUI]
 	
-	-- AlexDaniel 2014-09-05 13:15:47
+	Для сдачи предмета необходимо сдать проект, написать контрольную работу по теории и по возможности получать баллы за практикумы.
+	
+	==Материал
+	
+	Весь материал Tarvo Treier выкладывает у себя на сайте http://www.tud.ttu.ee/im/Tarvo.Treier/idu0075/
 	
 	
-revision: 5
-flags: 1
-username: AlexDaniel
+	
+ts: 1454355911
+summary: 
+lastmajorsummary: 
+revision: 6
+keep-ts: 1454355911
+minor: 
+languages: 
+ip: 89.235.235.166
+username: Artur Gummel
