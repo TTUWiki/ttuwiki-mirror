@@ -1,8 +1,16 @@
-ip: 193.40.244.196
-host: 84.52.32.112
+keep-ts: 1454353973
+username: Artur Gummel
+summary: 
 revision: 12
+ts: 1454353973
 lastmajor: 12
+blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
+host: 84.52.32.112
 minor: 
+ip: 193.40.244.196
+languages: 
+flags: 1
+lastmajorsummary: 
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -29,9 +37,3 @@ text: #SUBTITLE Arvutivõrgud
 	[http://files.ttuwiki.org/Computer_Networking_second_edition_rus.pdf Джеймс Ф. Куроуз, Кит В. Росс Компьютерные сети 2-е издание]
 	
 	
-lastmajorsummary: 
-username: Artur Gummel
-keep-ts: 1454353973
-languages: 
-summary: 
-ts: 1454353973
