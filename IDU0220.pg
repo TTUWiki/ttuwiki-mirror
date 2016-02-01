@@ -1,8 +1,6 @@
-revision: 13
+summary: 
 lastmajorsummary: 
-lastmajor: 13
-host: 84.52.32.112
-flags: 1
+ts: 1454340060
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -30,6 +28,8 @@ text: #SUBTITLE Andmebaasid I
 	
 	Тест в маурусе. Вариантов ответов много – наугад не получится. Сделать можно две попытки, и еще третью в день второй попытки (в случае, если совсем нули…).
 	
+	[https://files.ttuwiki.org/Kordamiskysimused_IDU0220_2015.pdf Вопросы для повторения]
+	
 	----
 	
 	[[https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CCsQFjACOAo&url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&ei=R4VPVaDyBIe_ygPL34HQDw&usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&sig2=qD1B9LR0ufQwwzg1OWze5g&cad=rja Макросы в LibreOffice Base]]
@@ -50,11 +50,12 @@ text: #SUBTITLE Andmebaasid I
 	
 	-- AlexDaniel 2015-05-13 02:32:11
 	
-username: Artur Gummel
-languages: 
-summary: 
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+	
+revision: 14
+keep-ts: 1454340060
 ip: 89.235.235.166
-keep-ts: 1454339857
-ts: 1454339857
+languages: 
+lastmajor: 14
+username: Artur Gummel
 minor: 
+host: 84.52.32.112
