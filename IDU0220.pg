@@ -1,9 +1,3 @@
-summary: 
-username: Artur Gummel
-keep-ts: 1454339835
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1454339835
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +13,7 @@ text: #SUBTITLE Andmebaasid I
 	Харьютусы могут быть по SQL-у и по проекту.
 	На SQL будут даваться задания, которые нужно будет решать – за это получаете баллы. В случае, если этих баллов много, можете быть освобождены от контрольной работы.
 	
-	Рекомендуется самостоятельно про решать [https://files.ttuwiki.org/Kohustuslik_iseseisva_harjutamise_ylesanne_IDU0220_2_2015_vastused.pdf эти задания] для [https://files.ttuwiki.org/Magajate_Systeem.mdb базы данных]
+	Рекомендуется самостоятельно про решать [https://files.ttuwiki.org/Kohustuslik_iseseisva_harjutamise_ylesanne_IDU0220_2_2015_vastused.pdf эти задания] для [https://files.ttuwiki.org/Magajate_Systeem.mdb базы данных].
 	
 	
 	== Экзамен
@@ -51,10 +45,14 @@ text: #SUBTITLE Andmebaasid I
 	
 	-- AlexDaniel 2015-05-13 02:32:11
 	
-lastmajor: 12
 ip: 89.235.235.166
-host: 84.52.32.112
-languages: 
-revision: 12
+lastmajor: 13
 lastmajorsummary: 
+username: Artur Gummel
 minor: 
+keep-ts: 1454339857
+ts: 1454339857
+summary: 
+languages: 
+host: 84.52.32.112
+revision: 13
