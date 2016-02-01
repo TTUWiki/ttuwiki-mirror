@@ -1,9 +1,7 @@
-host: 84.52.32.112
 languages: 
-ts: 1454353636
 summary: 
-lastmajor: 10
-minor: 
+lastmajorsummary: 
+revision: 11
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -21,10 +19,14 @@ text: #SUBTITLE Arvutivõrgud
 	[[File:ISP0040_lab1_RU.pdf]]
 	[[File:ISP0040_lab2_RU.pdf]]
 	
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454353636
-revision: 10
-lastmajorsummary: 
-flags: 1
-ip: 193.40.244.196
+	Пример выполнения лабораторных работ:
+	[[File:ISP0041_lab1_Ethernet_LAN_RU.pdf]]
+	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
+	
 username: Artur Gummel
+host: 84.52.32.112
+keep-ts: 1454353808
+ts: 1454353808
+minor: 
+ip: 193.40.244.196
+lastmajor: 11
