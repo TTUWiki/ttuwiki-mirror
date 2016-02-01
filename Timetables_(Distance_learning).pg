@@ -1,20 +1,13 @@
-username: Bot
-keep-ts: 1454310224
-summary: Automatic Update
-revision: 3
-host: 85.253.177.126
-minor: 
-ts: 1454310224
-lastmajorsummary: Automatic Update
-lastmajor: 3
-text: === Distance learning / Kaugõpe / Заочное обучение
+text: [:foo]
+	
+	=== Distance learning / Kaugõpe / Заочное обучение
 	#ENG
 	Links to timetables are relevant during the whole semester.
 	#EST
 	Lingid tunniplaanidele on aktuaalsed semestri vältel.
 	#RUS
 	Ссылки на расписания актуальны в течении семестра.
-	
+	#LANG_END
 	==== A-energeetikateaduskond 
 	##[https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40175|AAAB20] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40165|AAAB40] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40154|AAAB60] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40164|AAAB80] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40024|AAVB20] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40014|AAVB40] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40003|AAVB60] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=40013|AAVB80]##
 	==== E-ehitusteaduskond 
@@ -30,4 +23,13 @@ text: === Distance learning / Kaugõpe / Заочное обучение
 	==== T-majandusteaduskond 
 	##[https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39902|TABBK81] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39900|TABBK82] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39901|TABBK83] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39903|TABBK84]##
 	
+revision: 4
+keep-ts: 1454369460
+lastmajor: 3
+minor: 1
+host: 85.253.177.126
 languages: 
+summary: test
+username: AlexDaniel
+lastmajorsummary: Automatic Update
+ts: 1454369460
