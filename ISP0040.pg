@@ -1,12 +1,9 @@
 host: 84.52.32.112
-ip: 193.40.244.196
-summary: 
-username: Artur Gummel
 languages: 
-revision: 10
 ts: 1454353636
-lastmajorsummary: 
+summary: 
 lastmajor: 10
+minor: 
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -24,5 +21,10 @@ text: #SUBTITLE Arvutivõrgud
 	[[File:ISP0040_lab1_RU.pdf]]
 	[[File:ISP0040_lab2_RU.pdf]]
 	
+blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
 keep-ts: 1454353636
-minor: 
+revision: 10
+lastmajorsummary: 
+flags: 1
+ip: 193.40.244.196
+username: Artur Gummel
