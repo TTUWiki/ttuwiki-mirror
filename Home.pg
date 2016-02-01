@@ -1,5 +1,4 @@
-minor: 0
-lastmajor: 37
+host: 85.253.177.126
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -24,7 +23,7 @@ text: #ENG
 	== Faculties / Teaduskonnad / Факультеты
 	<include "Õppekavad">
 	
-	===== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
+	== Compare Programmes / Õppekavade võrdlemine / Сравнить учебные программы:
 	#ENG
 	Choose two similar programmes (e.g. **IABB02-14** and **IAPB02-14**) and press **Diff**. Courses that do not exist in second programme will be marked red, courses that do not exist in first programme are marked green. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Example]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
@@ -37,13 +36,14 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-blocks: </div></div>
-keep-ts: 1450939387
-revision: 37
-lastmajorsummary: Rollback to 2015-11-30 00:46:12
-ts: 1450939387
+summary: Better heading level
+ts: 1454310536
+lastmajorsummary: Better heading level
+keep-ts: 1454310536
 username: AlexDaniel
-summary: Rollback to 2015-11-30 00:46:12
 flags: 0
 languages: 
-host: 82.131.48.179
+minor: 
+revision: 38
+lastmajor: 38
+blocks: </div></div>
