@@ -1,9 +1,10 @@
-lastmajorsummary: 
+keep-ts: 1454408285
 revision: 15
-username: Artur Gummel
-languages: 
 minor: 
-ts: 1454408285
+languages: 
+summary: 
+host: 84.52.32.112
+flags: 1
 text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	#SUBURL [Course:100678 〔Õppeaine ÕIS-is〕]
 	
@@ -37,8 +38,9 @@ text: #SUBTITLE Tõenäosusteooria ja matemaatiline statistika
 	-- Artur Gummel 2016-01-31 21:33:03
 	
 	
-host: 84.52.32.112
-ip: 89.235.235.166
-summary: 
-keep-ts: 1454408285
+lastmajorsummary: 
 lastmajor: 15
+ip: 89.235.235.166
+ts: 1454408285
+username: Artur Gummel
+blocks: [Course:100678 〔Õppeaine ÕIS-is〕]
