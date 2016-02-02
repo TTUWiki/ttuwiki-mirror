@@ -1,14 +1,13 @@
-minor: 1
-lastmajor: 617
-revision: 618
-ip: 89.235.239.240
+lastmajorsummary: 
+summary: 
+username: Artur Gummel
+minor: 
 languages: 
-ts: 1441924447
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1454405568
+lastmajor: 619
+host: 84.52.32.112
+ip: 89.235.239.240
+keep-ts: 1454405568
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -32,6 +31,11 @@ text: #SUBTITLE Süsteemiteooria
 	
 	==Экзамен
 	На экзамен идут только те, кто не смог получить общую оценку выше 1 (что на самом деле довольно сложно). Все правила допуска к экзамену довольно подробно описаны на страничке у г-на Гордона.
+	
+	Примеры экзамена:
+	[[File:systeooriaexample1.jpg]]
+	[[File:systeooriaexample2.jpg]]
+	[[File:systeooriaexample3.jpg]]
 	
 	==Свободное программное обеспечение (Лабораторные)
 	Есть несколько программ, о которых вам будет полезно знать:
@@ -191,4 +195,4 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-username: AlexDaniel
+revision: 619
