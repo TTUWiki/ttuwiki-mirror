@@ -1,12 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924452
+ts: 1441924452
+flags: 1
+username: AlexDaniel
 text: #SUBTITLE Külmutusseadmete montaaž
 	#SUBURL [Course:110103 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
-ts: 1441924452
-languages: 
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+minor: 1
+host: 82.131.7.230
+languages: 
+blocks: [Course:110103 〔Õppeaine ÕIS-is〕]
