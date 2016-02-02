@@ -1,16 +1,10 @@
-keep-ts: 1454403168
-summary: Üsna probleemitult läbitav aine. Semestri jooksul tehtud töö (äriplaan) annab 80% eksamihindest. Seda  tuleb pidevalt teha, aga raske ei ole. Eksam . . .
-lastmajorsummary: Üsna probleemitult läbitav aine. Semestri jooksul tehtud töö (äriplaan) annab 80% eksamihindest. Seda  tuleb pidevalt teha, aga raske ei ole. Eksam . . .
-blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-host: 131.207.242.128
-revision: 5
 languages: 
-ts: 1454403168
 username: j
+summary: eksam
 minor: 
-lastmajor: 5
+revision: 6
+keep-ts: 1454403324
+ip: 89.235.235.166
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -24,3 +18,14 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:52:47
 	
 	
+	----
+	
+	eksam
+	
+	-- j 2016-02-02 10:55:24
+	
+	
+ts: 1454403324
+lastmajorsummary: eksam
+host: 131.207.242.128
+lastmajor: 6
