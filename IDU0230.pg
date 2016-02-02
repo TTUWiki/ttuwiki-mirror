@@ -1,13 +1,6 @@
-languages: 
-minor: 1
-flags: 1
-ip: 89.235.235.166
-ts: 1441924447
-keep-ts: 1441924447
-blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
-revision: 7
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 
+keep-ts: 1454418721
+host: 84.52.32.112
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -15,5 +8,18 @@ text: #SUBTITLE Andmebaasid II
 	
 	Препод советует использовать PostgreSQL, но выбор между PostgreSQL и Oracle остается за вами.
 	
-lastmajor: 4
-host: 82.131.7.230
+	==Материалы
+	
+	Все еще находятся в [http://maurus.ttu.ee/aine_index.php?aine=347 маурусе]
+	
+	Пример проекта:
+	http://maurus.ttu.ee/ained/IDU0230_2015/doc/2/Naidisprojekt_IDU0230_vastuvotuajad_ver4_7.pdf
+	
+languages: 
+lastmajorsummary: 
+ip: 89.235.235.166
+lastmajor: 8
+ts: 1454418721
+revision: 8
+username: Artur Gummel
+summary: 
