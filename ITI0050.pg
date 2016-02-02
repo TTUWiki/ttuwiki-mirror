@@ -1,3 +1,11 @@
+username: Artur Gummel
+minor: 
+ip: 89.235.235.166
+languages: 
+revision: 8
+host: 84.52.32.112
+lastmajorsummary: 
+lastmajor: 8
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -7,23 +15,13 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	Более старую информацию можно найти [https://moodle.hitsa.ee/course/view.php?id=1356 здесь]. Пароль: T12
 	
 	В течение семестра будет:
-	* 8 заданий, которые надо сделать за время практикума
+	* 8 заданий, которые надо сделать за время практикумов
 	* 6 тестов в мудле
 	* 3 домашние работы
 	* 1 контрольная работа на 8-9 неделе
 	* экзамен
 	
 	
-ip: 89.235.235.166
-ts: 1454409387
-languages: 
-revision: 7
-flags: 1
-minor: 
-keep-ts: 1454409387
-lastmajor: 7
+keep-ts: 1454409478
+ts: 1454409478
 summary: 
-username: Artur Gummel
-blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-host: 84.52.32.112
