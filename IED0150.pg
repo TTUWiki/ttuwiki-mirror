@@ -1,17 +1,21 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1454441524
+summary: 
+minor: 
 languages: 
-minor: 1
-username: AlexDaniel
-flags: 1
-keep-ts: 1441924447
-ip: 84.52.48.194
-ts: 1441924447
-lastmajor: 5
 text: #SUBTITLE Elektroonika
 	#SUBURL [Course:37210 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+	==Информация
+	В течение семестра необходимо сделать:
+	* 4 лабораторные работы
+	* написать итоговую работу по лабораторным
+	* экзамен
+	
+	Оценка за лабораторную часть влияет на оценку за предмет только в спорных ситуациях.
+	
+	==Материал
+	На сайту [http://www.ttu.ee/infotehnoloogia-teaduskond/thomas-johann-seebecki-elektroonikainstituut-2/oppetoo-24/oppeained-31/bakalaureus-2/elektroonika-5/ ТТУ].
+	[Конспект М.Пиккова http://www.elin.ttu.ee/eldes/LOENGUD/ELEKTR/Elektroonika.pdf]
 	----
 	
 	
@@ -27,5 +31,10 @@ text: #SUBTITLE Elektroonika
 	-- AlexDaniel 2014-02-26 00:10 UTC
 	
 	
-blocks: [Course:37210 〔Õppeaine ÕIS-is〕]
-revision: 7
+revision: 8
+host: 84.52.32.112
+ip: 84.52.48.194
+lastmajor: 8
+username: Artur Gummel
+lastmajorsummary: 
+keep-ts: 1454441524
