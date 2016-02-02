@@ -1,12 +1,11 @@
-keep-ts: 1454418721
-lastmajor: 8
-summary: 
-username: Artur Gummel
 host: 84.52.32.112
+ts: 1454418872
+ip: 89.235.235.166
 minor: 
-flags: 1
-blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
-languages: 
+lastmajor: 9
+lastmajorsummary: 
+username: Artur Gummel
+keep-ts: 1454418872
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,10 @@ text: #SUBTITLE Andmebaasid II
 	Пример проекта:
 	http://maurus.ttu.ee/ained/IDU0230_2015/doc/2/Naidisprojekt_IDU0230_vastuvotuajad_ver4_7.pdf
 	
-revision: 8
-ip: 89.235.235.166
-lastmajorsummary: 
-ts: 1454418721
+	==Экзамен:
+	Тест по теории из 20 вопросов, обязательно нужно ответить на 10.
+	[https://ttuwiki.ee/Kordamiskysimused_IDU0230_2015_ver_2_8.pdf Вопросы для повторения]
+	
+revision: 9
+languages: 
+summary: 
