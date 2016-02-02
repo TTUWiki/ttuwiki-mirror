@@ -1,21 +1,19 @@
-ts: 1454418928
-lastmajorsummary: 
-blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
-host: 84.52.32.112
-revision: 10
+revision: 11
+keep-ts: 1454419083
 ip: 89.235.235.166
-languages: 
-keep-ts: 1454418928
-summary: 
+minor: 
+host: 84.52.32.112
+ts: 1454419083
 username: Artur Gummel
-flags: 1
-lastmajor: 10
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
+	==Информация
 	В рамках этого предмета можно либо продолжить проект по [[IDU0220]], либо начать новый. Поскольку объем работы большой, препод настоятельно советует делать проект вдвоем, а то и втроем. 
 	
 	Препод советует использовать PostgreSQL, но выбор между PostgreSQL и Oracle остается за вами.
+	
+	Делается все тоже самое, что было на [[IDU0220]], но теперь знаний больше, а значит и проект должен получится идеальным.
 	
 	==Материалы
 	
@@ -26,6 +24,9 @@ text: #SUBTITLE Andmebaasid II
 	
 	==Экзамен:
 	Тест по теории из 20 вопросов, обязательно нужно ответить на 10.
-	[http://files.ttuwiki.org//Kordamiskysimused_IDU0230_2015_ver_2_8.pdf Вопросы для повторения]
+	[https://files.ttuwiki.org//Kordamiskysimused_IDU0230_2015_ver_2_8.pdf Вопросы для повторения]
 	
-minor: 
+summary: 
+languages: 
+lastmajor: 11
+lastmajorsummary: 
