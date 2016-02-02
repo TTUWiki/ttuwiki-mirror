@@ -1,8 +1,5 @@
-ip: 84.52.48.194
-revision: 8
-lastmajor: 8
-minor: 
-languages: 
+revision: 9
+keep-ts: 1454441548
 text: #SUBTITLE Elektroonika
 	#SUBURL [Course:37210 〔Õppeaine ÕIS-is〕]
 	
@@ -16,7 +13,7 @@ text: #SUBTITLE Elektroonika
 	
 	==Материал
 	На сайту [http://www.ttu.ee/infotehnoloogia-teaduskond/thomas-johann-seebecki-elektroonikainstituut-2/oppetoo-24/oppeained-31/bakalaureus-2/elektroonika-5/ ТТУ].
-	[Конспект М.Пиккова http://www.elin.ttu.ee/eldes/LOENGUD/ELEKTR/Elektroonika.pdf]
+	[http://www.elin.ttu.ee/eldes/LOENGUD/ELEKTR/Elektroonika.pdf Конспект М.Пиккова]
 	----
 	
 	
@@ -32,11 +29,12 @@ text: #SUBTITLE Elektroonika
 	-- AlexDaniel 2014-02-26 00:10 UTC
 	
 	
-username: Artur Gummel
-flags: 1
-keep-ts: 1454441524
-summary: 
-lastmajorsummary: 
-blocks: [Course:37210 〔Õppeaine ÕIS-is〕]
+minor: 
 host: 84.52.32.112
-ts: 1454441524
+ts: 1454441548
+summary: 
+lastmajor: 9
+ip: 84.52.48.194
+username: Artur Gummel
+lastmajorsummary: 
+languages: 
