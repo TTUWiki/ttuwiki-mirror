@@ -1,12 +1,6 @@
-lastmajorsummary: 
-summary: 
+flags: 1
 username: Artur Gummel
-minor: 
-languages: 
-ts: 1454405568
-lastmajor: 619
-host: 84.52.32.112
-ip: 89.235.239.240
+lastmajorsummary: 
 keep-ts: 1454405568
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
@@ -195,4 +189,12 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
+lastmajor: 619
+minor: 
+ts: 1454405568
+languages: 
 revision: 619
+summary: 
+host: 84.52.32.112
+blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
+ip: 89.235.239.240
