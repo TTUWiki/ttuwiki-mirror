@@ -1,5 +1,5 @@
-summary: 
-languages: 
+host: 84.52.32.112
+ts: 1454421105
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
 	
@@ -12,6 +12,8 @@ text: #SUBTITLE Loogiline programmeerimine
 	* [https://courses.cs.ttu.ee/pages/ITI0021 Info]
 	* [Moodle:5901 Moodle]
 	* https://ained.ttu.ee/course/view.php?id=3
+	* [http://lpn.swi-prolog.org/lpnpage.php?pageid=top Learn Prolog Now!]
+	* [https://sites.google.com/site/prologsite/prolog-problems/1 Prolog Lists]
 	== Примечания
 	На первой лекции просто болтовня про правила игры, через 50 минут отпускает.
 	
@@ -21,14 +23,12 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
-flags: 1
-keep-ts: 1454420834
-minor: 
-username: Artur Gummel
-host: 84.52.32.112
-ts: 1454420834
-revision: 14
+languages: 
+lastmajor: 15
 ip: 89.235.235.166
-blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
+minor: 
+revision: 15
 lastmajorsummary: 
-lastmajor: 14
+keep-ts: 1454421105
+summary: 
+username: Artur Gummel
