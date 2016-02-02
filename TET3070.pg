@@ -1,9 +1,13 @@
-blocks: [Course:27751 〔Õppeaine ÕIS-is〕]
-username: Artur Gummel
-ts: 1454442219
-revision: 6
+summary: 
+keep-ts: 1454442268
 languages: 
-lastmajor: 6
+lastmajor: 7
+minor: 
+ts: 1454442268
+revision: 7
+ip: 89.235.235.166
+username: Artur Gummel
+lastmajorsummary: 
 text: #SUBTITLE Mikro- ja makroökonoomika
 	#SUBURL [Course:27751 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +19,7 @@ text: #SUBTITLE Mikro- ja makroökonoomika
 	
 	==Материалы
 	
-	[files.ttuwiki.ee/lekcii_po_ekonomike.zip Лекции за 2014 год].
+	[https://files.ttuwiki.ee/lekcii_po_ekonomike.zip Лекции за 2014 год].
 	
 	
-lastmajorsummary: 
 host: 84.52.32.112
-ip: 89.235.235.166
-keep-ts: 1454442219
-flags: 1
-minor: 
-summary: 
