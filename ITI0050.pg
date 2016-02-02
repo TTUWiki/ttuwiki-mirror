@@ -1,10 +1,10 @@
-host: 84.52.32.112
-summary: 
-languages: 
-lastmajorsummary: 
 ip: 89.235.235.166
-ts: 1454408781
-lastmajor: 5
+blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
+username: Artur Gummel
+revision: 5
+minor: 
+host: 84.52.32.112
+lastmajorsummary: 
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -13,7 +13,9 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	Актуальная информация находится [https://ained.ttu.ee/course/view.php?id=5 тут]. Пароль: algoritm-E10
 	Более старую информацию можно найти [https://moodle.hitsa.ee/course/view.php?id=1356 здесь]. Пароль T12
 	
-username: Artur Gummel
-revision: 5
+languages: 
+ts: 1454408781
 keep-ts: 1454408781
-minor: 
+flags: 1
+summary: 
+lastmajor: 5
