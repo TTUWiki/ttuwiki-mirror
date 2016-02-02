@@ -1,16 +1,24 @@
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924451
-lastmajor: 2
-ip: 89.235.235.166
-keep-ts: 1441924451
-flags: 1
 languages: 
-minor: 1
+keep-ts: 1454403168
+minor: 
+lastmajor: 5
+revision: 5
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+	----
+	
+	Üsna probleemitult läbitav aine. Semestri jooksul tehtud töö (äriplaan) annab 80% eksamihindest. Seda  tuleb pidevalt teha, aga raske ei ole. Eksam on valikvastustega ja täitsa tehtav. 
+	Loenguõppejõud - Urve Venesaar
+	Harjutus - Signe Rosenberg: väga tore ja mõistlik naisterahvas, ei ole kuri. Punkte annab heldekäeliselt.
+	
+	-- j 2016-02-02 10:52:47
+	
+	
+ts: 1454403168
+host: 131.207.242.128
+ip: 89.235.235.166
+lastmajorsummary: Üsna probleemitult läbitav aine. Semestri jooksul tehtud töö (äriplaan) annab 80% eksamihindest. Seda  tuleb pidevalt teha, aga raske ei ole. Eksam . . .
+summary: Üsna probleemitult läbitav aine. Semestri jooksul tehtud töö (äriplaan) annab 80% eksamihindest. Seda  tuleb pidevalt teha, aga raske ei ole. Eksam . . .
+username: j
