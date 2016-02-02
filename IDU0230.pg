@@ -1,10 +1,4 @@
 revision: 11
-keep-ts: 1454419083
-ip: 89.235.235.166
-minor: 
-host: 84.52.32.112
-ts: 1454419083
-username: Artur Gummel
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -26,7 +20,15 @@ text: #SUBTITLE Andmebaasid II
 	Тест по теории из 20 вопросов, обязательно нужно ответить на 10.
 	[https://files.ttuwiki.org//Kordamiskysimused_IDU0230_2015_ver_2_8.pdf Вопросы для повторения]
 	
-summary: 
-languages: 
 lastmajor: 11
+blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
+summary: 
+username: Artur Gummel
+flags: 1
+host: 84.52.32.112
+minor: 
+ip: 89.235.235.166
+keep-ts: 1454419083
+ts: 1454419083
+languages: 
 lastmajorsummary: 
