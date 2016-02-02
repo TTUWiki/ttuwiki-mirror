@@ -1,6 +1,12 @@
-minor: 
 keep-ts: 1454418721
+lastmajor: 8
+summary: 
+username: Artur Gummel
 host: 84.52.32.112
+minor: 
+flags: 1
+blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +21,7 @@ text: #SUBTITLE Andmebaasid II
 	Пример проекта:
 	http://maurus.ttu.ee/ained/IDU0230_2015/doc/2/Naidisprojekt_IDU0230_vastuvotuajad_ver4_7.pdf
 	
-languages: 
-lastmajorsummary: 
-ip: 89.235.235.166
-lastmajor: 8
-ts: 1454418721
 revision: 8
-username: Artur Gummel
-summary: 
+ip: 89.235.235.166
+lastmajorsummary: 
+ts: 1454418721
