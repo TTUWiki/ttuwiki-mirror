@@ -1,10 +1,16 @@
-languages: 
-username: j
-summary: eksam
-minor: 
-revision: 6
 keep-ts: 1454403324
+username: j
+host: 131.207.242.128
+flags: 1
+languages: 
+revision: 6
+ts: 1454403324
+minor: 
+blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+summary: eksam
+lastmajor: 6
 ip: 89.235.235.166
+lastmajorsummary: eksam
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -25,7 +31,3 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:55:24
 	
 	
-ts: 1454403324
-lastmajorsummary: eksam
-host: 131.207.242.128
-lastmajor: 6
