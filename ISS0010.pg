@@ -1,7 +1,11 @@
-host: 84.52.32.112
-ts: 1454407010
+ip: 89.235.239.240
 lastmajorsummary: 
+languages: 
+lastmajor: 622
+ts: 1454407448
+summary: 
 username: Artur Gummel
+minor: 
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,11 @@ text: #SUBTITLE Süsteemiteooria
 	
 	Поскольку харьютусов 8 (после которых идут лабораторные), а лекций 16, материал на лекциях значительно отстает от того, что вы будете делать на харьютусах. 
 	
-	Пример контрольных работ:
+	Некоторый материал с практик:
+	[[File:systeooria_material1.pdf]]
+	[[File:systeooria_material2.pdf]]
 	
+	Пример контрольных работ:
 	[[File:systeooria_kt_1.jpg]]
 	[[File:systeooria_kt_2.jpg]]
 	[[File:systeooria_kt_3.jpg]]
@@ -200,18 +207,6 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-	
-	
-	
-	
-	
-	
-summary: 
-minor: 
-flags: 1
-ip: 89.235.239.240
-revision: 621
-lastmajor: 621
-blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454407010
-languages: 
+revision: 622
+keep-ts: 1454407448
+host: 84.52.32.112
