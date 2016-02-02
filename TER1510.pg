@@ -2,13 +2,15 @@ text: #SUBTITLE Magistriseminar
 	#SUBURL [Course:37896 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+languages: 
+minor: 1
+ip: 89.235.235.166
 lastmajor: 2
 keep-ts: 1441924450
+flags: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+blocks: [Course:37896 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-minor: 1
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
