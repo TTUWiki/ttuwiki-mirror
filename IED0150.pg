@@ -1,5 +1,6 @@
-ts: 1454441524
-summary: 
+ip: 84.52.48.194
+revision: 8
+lastmajor: 8
 minor: 
 languages: 
 text: #SUBTITLE Elektroonika
@@ -31,10 +32,11 @@ text: #SUBTITLE Elektroonika
 	-- AlexDaniel 2014-02-26 00:10 UTC
 	
 	
-revision: 8
-host: 84.52.32.112
-ip: 84.52.48.194
-lastmajor: 8
 username: Artur Gummel
-lastmajorsummary: 
+flags: 1
 keep-ts: 1454441524
+summary: 
+lastmajorsummary: 
+blocks: [Course:37210 〔Õppeaine ÕIS-is〕]
+host: 84.52.32.112
+ts: 1454441524
