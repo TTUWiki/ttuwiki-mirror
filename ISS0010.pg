@@ -1,4 +1,7 @@
-ip: 89.235.239.240
+keep-ts: 1454405753
+blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
+minor: 
+username: Artur Gummel
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -191,13 +194,12 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-host: 84.52.32.112
-languages: 
-revision: 620
-minor: 
-lastmajorsummary: 
+flags: 1
 ts: 1454405753
-username: Artur Gummel
-summary: 
-keep-ts: 1454405753
 lastmajor: 620
+revision: 620
+lastmajorsummary: 
+ip: 89.235.239.240
+languages: 
+host: 84.52.32.112
+summary: 

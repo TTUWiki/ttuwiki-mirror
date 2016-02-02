@@ -1,14 +1,16 @@
-revision: 4
+languages: 
 username: AlexDaniel
 minor: 1
-ip: 89.235.235.166
+blocks: [Course:101207 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-languages: 
+revision: 4
+flags: 1
 text: #SUBTITLE Siseaudit
 	#SUBURL [Course:101207 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+ip: 89.235.235.166
+host: 82.131.7.230
