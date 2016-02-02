@@ -1,16 +1,34 @@
-lastmajor: 2
-username: AlexDaniel
+ts: 1454420519
 ip: 89.235.235.166
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:100775 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454420519
+username: Artur Gummel
 languages: 
-revision: 4
+lastmajor: 5
+summary: 
 text: #SUBTITLE Tarkvaratehnika
 	#SUBURL [Course:100775 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-keep-ts: 1441924446
-minor: 1
+	==Информация
+	
+	Целью данного предмета является научиться работать в команде. Какой проект вы будете делать абсолютно неважно, даже простой калькулятор можно целый семестр делать и получить за это максимальное количество баллов.
+	
+	==Практикумы
+	
+	В начале семестра разбиваем свой проект на три итерации. И следовательно в течение семестра их защищаем, если что-то не успели, то не страшно, главное, чтобы к третьей итерации было все готово.
+	
+	К каждой практике надо заполнять standUp в http://hektor1.ttu.ee/.
+	
+	==Материал
+	
+	Слайды и видео с лекций можно найти [http://maurus.ttu.ee/sts/?page_id=2097 тут].
+	
+	==Экзамен
+	Экзамен трудный, количество не сдавших большое. 
+	[http://files.ttuwiki.org/tarkvara_eksami_korraldus.PNG Об экзамене].
+	[http://files.ttuwiki.org/Tarkvaratehnika_kordamiskysimused.pdf Вопросы для повторения]. 
+	NB! Вопросы с каждым годом могут отличаться. Зависит от того, что рассказывали на лекциях.
+	
+host: 84.52.32.112
+revision: 5
+minor: 
+lastmajorsummary: 
