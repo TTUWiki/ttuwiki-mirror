@@ -1,10 +1,7 @@
-ts: 1454420519
-ip: 89.235.235.166
+minor: 
+revision: 5
 keep-ts: 1454420519
-username: Artur Gummel
-languages: 
-lastmajor: 5
-summary: 
+ts: 1454420519
 text: #SUBTITLE Tarkvaratehnika
 	#SUBURL [Course:100775 〔Õppeaine ÕIS-is〕]
 	
@@ -28,7 +25,12 @@ text: #SUBTITLE Tarkvaratehnika
 	[http://files.ttuwiki.org/Tarkvaratehnika_kordamiskysimused.pdf Вопросы для повторения]. 
 	NB! Вопросы с каждым годом могут отличаться. Зависит от того, что рассказывали на лекциях.
 	
+lastmajor: 5
+languages: 
+flags: 1
+blocks: [Course:100775 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 host: 84.52.32.112
-revision: 5
-minor: 
+summary: 
 lastmajorsummary: 
+username: Artur Gummel
