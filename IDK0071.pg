@@ -1,7 +1,14 @@
-revision: 6
+summary: 
+ts: 1454420598
+lastmajor: 6
 lastmajorsummary: 
+ip: 89.235.235.166
 languages: 
+flags: 1
+keep-ts: 1454420598
 host: 84.52.32.112
+revision: 6
+blocks: [Course:100775 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tarkvaratehnika
 	#SUBURL [Course:100775 〔Õppeaine ÕIS-is〕]
 	
@@ -26,9 +33,4 @@ text: #SUBTITLE Tarkvaratehnika
 	NB! Вопросы с каждым годом могут отличаться. Зависит от того, что рассказывали на лекциях.
 	
 username: Artur Gummel
-lastmajor: 6
-ip: 89.235.235.166
-keep-ts: 1454420598
-summary: 
 minor: 
-ts: 1454420598
