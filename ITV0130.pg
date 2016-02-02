@@ -1,16 +1,30 @@
+host: 84.52.32.112
+keep-ts: 1454443393
+lastmajor: 5
+ts: 1454443393
 ip: 89.235.235.166
-blocks: [Course:100884 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924447
-minor: 1
-lastmajor: 2
+username: Artur Gummel
 languages: 
-host: 82.131.7.230
-revision: 4
-ts: 1441924447
+revision: 5
+lastmajorsummary: 
+summary: 
 text: #SUBTITLE Kasutajaliidesed
 	#SUBURL [Course:100884 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+	==Информация
+	
+	В течение семестра надо сдать проект и написать контрольную по "теории".
+	По "теории", потому что как таковой теории нет, вопросы будут а-ля:
+	*какой должна быть кнопка на странице; 
+	*как привлечь пользователя к какому-то объекту; 
+	*вопросы с лекций; 
+	*объяснить, что делает код CSS; 
+	*написать функцию AJAX и т.д.
+	
+	Лекции бывали интересными, т.к в основном рассматривались жизненные ситуации связанные с [https://en.wikipedia.org/wiki/User_interface UI]. 
+	
+	==Материал
+	http://lambda.ee/wiki/Kasutajaliidesed
+	
+	
+minor: 
