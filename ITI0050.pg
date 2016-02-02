@@ -1,12 +1,9 @@
+ts: 1454410448
+host: 84.52.32.112
+lastmajor: 10
 ip: 89.235.235.166
-lastmajor: 9
-minor: 
-summary: 
-flags: 1
-keep-ts: 1454409652
+lastmajorsummary: 
 languages: 
-username: Artur Gummel
-blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -26,9 +23,10 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	
 	[http://files.ttuwiki.org/AlgorithmsinJava.djvu Алгоритмы на Java 4-е издание Р. Седжвик, К.Уэйн]
 	
+	[http://files.ttuwiki.org/sbornik_testov_algoritmi.pdf Сборник тестов за 2015 год]
 	
-	
-ts: 1454409652
-lastmajorsummary: 
-revision: 9
-host: 84.52.32.112
+username: Artur Gummel
+revision: 10
+keep-ts: 1454410448
+minor: 
+summary: 
