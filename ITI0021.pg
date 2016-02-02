@@ -1,12 +1,10 @@
-blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-summary: 
-lastmajor: 13
-host: 84.52.32.112
-minor: 
-keep-ts: 1454420717
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
+	
+	==Информация
+	*10 практических работ
+	*3 контрольные работы по теории и практике
+	*1 домашняя работа, скорей всего шашки.
 	
 	== Materials
 	* [https://courses.cs.ttu.ee/pages/ITI0021 Info]
@@ -21,9 +19,14 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
-revision: 13
-languages: 
-ts: 1454420717
-flags: 1
+minor: 
+lastmajorsummary: 
+keep-ts: 1454420834
+ts: 1454420834
+host: 84.52.32.112
+summary: 
 ip: 89.235.235.166
+languages: 
 username: Artur Gummel
+revision: 14
+lastmajor: 14
