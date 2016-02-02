@@ -1,7 +1,4 @@
-flags: 1
-username: Artur Gummel
-lastmajorsummary: 
-keep-ts: 1454405568
+ip: 89.235.239.240
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +19,11 @@ text: #SUBTITLE Süsteemiteooria
 	
 	==Лабораторные
 	Лабораторные заключаются в решение различных задач в MATLAB. По сути теперь вы узнаете, что всё, что вы делали вручную на бумаги, можно за несколько секунд сделать в MATLAB... Огромный минус в том, что MATLAB вы вряд ли легко сможете поставить себе на компьютер. Другие альтернативы описаны ниже.
+	
+	Примеры лабораторных работ:
+	[[File:lab_1.pdf]]
+	[[File:lab_2.pdf]]
+	[[File:lab_3.pdf]]
 	
 	==Экзамен
 	На экзамен идут только те, кто не смог получить общую оценку выше 1 (что на самом деле довольно сложно). Все правила допуска к экзамену довольно подробно описаны на страничке у г-на Гордона.
@@ -189,12 +191,13 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-lastmajor: 619
-minor: 
-ts: 1454405568
-languages: 
-revision: 619
-summary: 
 host: 84.52.32.112
-blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
-ip: 89.235.239.240
+languages: 
+revision: 620
+minor: 
+lastmajorsummary: 
+ts: 1454405753
+username: Artur Gummel
+summary: 
+keep-ts: 1454405753
+lastmajor: 620
