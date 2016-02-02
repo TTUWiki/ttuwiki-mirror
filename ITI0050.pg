@@ -1,9 +1,13 @@
-ts: 1454410448
-host: 84.52.32.112
-lastmajor: 10
-ip: 89.235.235.166
 lastmajorsummary: 
+lastmajor: 10
+host: 84.52.32.112
+minor: 
+keep-ts: 1454410448
+blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
 languages: 
+revision: 10
+ts: 1454410448
+flags: 1
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -25,8 +29,6 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	
 	[http://files.ttuwiki.org/sbornik_testov_algoritmi.pdf Сборник тестов за 2015 год]
 	
+ip: 89.235.235.166
 username: Artur Gummel
-revision: 10
-keep-ts: 1454410448
-minor: 
 summary: 
