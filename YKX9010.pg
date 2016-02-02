@@ -1,14 +1,16 @@
-revision: 4
 minor: 1
-username: AlexDaniel
+lastmajor: 2
+blocks: [Course:36399 〔Õppeaine ÕIS-is〕]
 languages: 
-ip: 89.235.235.166
-ts: 1441924452
+host: 82.131.7.230
+flags: 1
+revision: 4
+username: AlexDaniel
 text: #SUBTITLE Erialase keemia süvakursus
 	#SUBURL [Course:36399 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ip: 89.235.235.166
+ts: 1441924452
 keep-ts: 1441924452
