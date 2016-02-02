@@ -1,16 +1,12 @@
-minor: 
-flags: 1
-keep-ts: 1454408794
-host: 84.52.32.112
-blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
 username: Artur Gummel
-languages: 
+minor: 
 ip: 89.235.235.166
-lastmajorsummary: 
-lastmajor: 6
+keep-ts: 1454409387
+revision: 7
+languages: 
 summary: 
-revision: 6
-ts: 1454408794
+lastmajorsummary: 
+ts: 1454409387
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -19,3 +15,13 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	Актуальная информация находится [https://ained.ttu.ee/course/view.php?id=5 тут]. Пароль: algoritm-E10
 	Более старую информацию можно найти [https://moodle.hitsa.ee/course/view.php?id=1356 здесь]. Пароль: T12
 	
+	В течение семестра будет:
+	* 8 заданий, которые надо сделать за время практикума
+	* 6 тестов в мудле
+	* 3 домашние работы
+	* 1 контрольная работа на 8-9 неделе
+	* экзамен
+	
+	
+lastmajor: 7
+host: 84.52.32.112
