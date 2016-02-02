@@ -1,29 +1,25 @@
 languages: 
+ts: 1454442219
+keep-ts: 1454442219
+ip: 89.235.235.166
+revision: 6
+lastmajor: 6
+summary: 
+minor: 
+lastmajorsummary: 
+host: 84.52.32.112
 text: #SUBTITLE Mikro- ja makroökonoomika
 	#SUBURL [Course:27751 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	----
+	==Информация
 	
-	Программа курса и правила "игры": 
-	[[File:programma_kursa.pdf]]
-	
-	Материалы лекций:
-	[[File:lekcii_po_ekonomike.rar]]
+	[https://moodle.hitsa.ee/course/view.php?id=3690 Moodle]
 	
 	Если на лекции можно не ходить, то на практики обязательно, иначе самим будет сложно разобраться во всех задачах.
 	
-	-- Artur Gummel 2014-09-10 10:51:30
+	==Материалы
+	
+	[files.ttuwiki.ee/lekcii_po_ekonomike.zip Лекции за 2014 год].
 	
 	
-ts: 1441924450
-blocks: [Course:27751 〔Õppeaine ÕIS-is〕]
-minor: 1
-host: 82.131.7.230
-revision: 5
-keep-ts: 1441924450
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 4
+username: Artur Gummel
