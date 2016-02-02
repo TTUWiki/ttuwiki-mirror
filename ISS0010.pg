@@ -1,7 +1,9 @@
-keep-ts: 1454405753
-blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
-minor: 
-username: Artur Gummel
+ip: 89.235.239.240
+languages: 
+keep-ts: 1454407010
+lastmajor: 621
+lastmajorsummary: 
+revision: 621
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -19,6 +21,12 @@ text: #SUBTITLE Süsteemiteooria
 	В последний харьютус перед контрольной г-ин Гордон сообщает, какие типы задач будут на контрольной.
 	
 	Поскольку харьютусов 8 (после которых идут лабораторные), а лекций 16, материал на лекциях значительно отстает от того, что вы будете делать на харьютусах. 
+	
+	Пример контрольных работ:
+	
+	[[File:systeooria_kt_1.jpg]]
+	[[File:systeooria_kt_2.jpg]]
+	[[File:systeooria_kt_3.jpg]]
 	
 	==Лабораторные
 	Лабораторные заключаются в решение различных задач в MATLAB. По сути теперь вы узнаете, что всё, что вы делали вручную на бумаги, можно за несколько секунд сделать в MATLAB... Огромный минус в том, что MATLAB вы вряд ли легко сможете поставить себе на компьютер. Другие альтернативы описаны ниже.
@@ -194,12 +202,14 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-flags: 1
-ts: 1454405753
-lastmajor: 620
-revision: 620
-lastmajorsummary: 
-ip: 89.235.239.240
-languages: 
-host: 84.52.32.112
+	
+	
+	
+	
+	
+	
+username: Artur Gummel
+minor: 
 summary: 
+host: 84.52.32.112
+ts: 1454407010
