@@ -1,14 +1,16 @@
-revision: 4
-ip: 89.235.235.166
-ts: 1441924445
-languages: 
-username: AlexDaniel
-minor: 1
 text: #SUBTITLE Hüdraulika alused
 	#SUBURL [Course:29412 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924445
-lastmajor: 2
-host: 82.131.7.230
+blocks: [Course:29412 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+keep-ts: 1441924445
+revision: 4
+ip: 89.235.235.166
+ts: 1441924445
+languages: 
+lastmajor: 2
+flags: 1
+host: 82.131.7.230

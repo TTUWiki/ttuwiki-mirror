@@ -1,14 +1,16 @@
-keep-ts: 1441924450
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924450
+flags: 1
 lastmajor: 2
+minor: 1
+host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ip: 89.235.235.166
 text: #SUBTITLE Arvestus mittetulundusühingutes, siht- ja riigiasutustes
 	#SUBURL [Course:37973 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924450
-ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
+blocks: [Course:37973 〔Õppeaine ÕIS-is〕]
 revision: 4

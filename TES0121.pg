@@ -1,14 +1,16 @@
-keep-ts: 1441924450
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 text: #SUBTITLE Statistika
 	#SUBURL [Course:102162 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-minor: 1
+blocks: [Course:102162 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 revision: 4
+minor: 1
+keep-ts: 1441924450
+username: AlexDaniel
+ts: 1441924450
+lastmajor: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ip: 89.235.235.166

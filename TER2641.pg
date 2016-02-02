@@ -1,14 +1,16 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+username: AlexDaniel
 text: #SUBTITLE Rahanduse alused
 	#SUBURL [Course:37081 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924450
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-languages: 
-ip: 89.235.235.166
-ts: 1441924450
 minor: 1
-username: AlexDaniel
+revision: 4
+flags: 1
+lastmajor: 2
+languages: 
+host: 82.131.7.230
+blocks: [Course:37081 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166

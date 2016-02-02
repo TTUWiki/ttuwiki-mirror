@@ -1,12 +1,14 @@
-revision: 2
-ts: 1441924447
-languages: 
-username: AlexDaniel
-minor: 1
 text: #SUBTITLE Õpetaja kui juht ja nõustaja
 	#SUBURL [Course:109478 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924447
-host: 82.131.7.230
+ts: 1441924447
+languages: 
+blocks: [Course:109478 〔Õppeaine ÕIS-is〕]
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 2
+host: 82.131.7.230
+keep-ts: 1441924447
+minor: 1

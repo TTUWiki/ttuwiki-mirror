@@ -1,12 +1,14 @@
+languages: 
+revision: 2
+flags: 1
+host: 82.131.7.230
 text: #SUBTITLE Elektriajamite üldkursus
 	#SUBURL [Course:109756 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
 ts: 1441924449
-languages: 
-username: AlexDaniel
 minor: 1
+keep-ts: 1441924449
+blocks: [Course:109756 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

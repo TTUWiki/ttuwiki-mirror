@@ -1,13 +1,15 @@
-languages: 
 ip: 89.235.235.166
-ts: 1441924451
-minor: 1
 username: AlexDaniel
-revision: 4
-keep-ts: 1441924451
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1441924451
 host: 82.131.7.230
+minor: 1
+lastmajor: 2
+keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100724 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 text: #SUBTITLE Controlling tootmissüsteemides
 	#SUBURL [Course:100724 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.

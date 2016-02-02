@@ -1,14 +1,16 @@
-keep-ts: 1441924451
+username: AlexDaniel
 lastmajor: 2
-host: 82.131.7.230
+revision: 4
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+keep-ts: 1441924451
+flags: 1
+minor: 1
+ts: 1441924451
 text: #SUBTITLE Rahvusvaheline terrorism
 	#SUBURL [Course:102098 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924451
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-minor: 1
-revision: 4
+host: 82.131.7.230
+blocks: [Course:102098 〔Õppeaine ÕIS-is〕]
