@@ -1,3 +1,5 @@
+summary: 
+languages: 
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
 	
@@ -19,14 +21,14 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
-minor: 
-lastmajorsummary: 
+flags: 1
 keep-ts: 1454420834
-ts: 1454420834
-host: 84.52.32.112
-summary: 
-ip: 89.235.235.166
-languages: 
+minor: 
 username: Artur Gummel
+host: 84.52.32.112
+ts: 1454420834
 revision: 14
+ip: 89.235.235.166
+blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
 lastmajor: 14
