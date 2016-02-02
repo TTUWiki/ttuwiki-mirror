@@ -1,21 +1,22 @@
-minor: 
-flags: 0
+languages: 
+lastmajor: 2
+lastmajorsummary: important link has to be bold
+host: 85.253.177.126
+revision: 2
 text: #ENG
-	If you have found some bug on this website, please create a new [[https://github.com/TTUWiki/ttuwiki-website/issues issue on GitHub]]. Feature requests are welcome too!
+	If you have found some bug on this website, please **create a new [[https://github.com/TTUWiki/ttuwiki-website/issues issue on GitHub]]**. Feature requests are welcome too!
 	
 	If you have no GitHub account (or if you do not want to create one) then just leave a comment here!
 	
 	#RUS
-	Если вы нашли проблему на этом сайте, создайте новый [[https://github.com/TTUWiki/ttuwiki-website/issues issue на GitHub-е]]. Там же можно писать любые другие предложения!
+	Если вы нашли проблему на этом сайте, **создайте новый [[https://github.com/TTUWiki/ttuwiki-website/issues issue на GitHub-е]]**. Там же можно писать любые другие предложения!
 	
 	Если у вас нет аккаунта на GitHub (или если вы не хотите его создавать), тогда просто оставьте комментарий здесь!
 	
-ts: 1444734696
+minor: 
 blocks: </div></div>
-languages: 
-revision: 1
-lastmajorsummary: Explain bug reports and feature requests
-summary: Explain bug reports and feature requests
-username: 
-lastmajor: 1
-host: 82.131.4.24
+flags: 0
+summary: important link has to be bold
+ts: 1454443326
+keep-ts: 1454443326
+username: AlexDaniel
