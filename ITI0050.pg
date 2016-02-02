@@ -1,12 +1,3 @@
-username: Artur Gummel
-minor: 
-ip: 89.235.235.166
-keep-ts: 1454409387
-revision: 7
-languages: 
-summary: 
-lastmajorsummary: 
-ts: 1454409387
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:31428 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,16 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	* экзамен
 	
 	
+ip: 89.235.235.166
+ts: 1454409387
+languages: 
+revision: 7
+flags: 1
+minor: 
+keep-ts: 1454409387
 lastmajor: 7
+summary: 
+username: Artur Gummel
+blocks: [Course:31428 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
 host: 84.52.32.112
