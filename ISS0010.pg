@@ -1,9 +1,7 @@
-ip: 89.235.239.240
-languages: 
-keep-ts: 1454407010
-lastmajor: 621
+host: 84.52.32.112
+ts: 1454407010
 lastmajorsummary: 
-revision: 621
+username: Artur Gummel
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -208,8 +206,12 @@ text: #SUBTITLE Süsteemiteooria
 	
 	
 	
-username: Artur Gummel
-minor: 
 summary: 
-host: 84.52.32.112
-ts: 1454407010
+minor: 
+flags: 1
+ip: 89.235.239.240
+revision: 621
+lastmajor: 621
+blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
+keep-ts: 1454407010
+languages: 
