@@ -1,13 +1,5 @@
-username: Ain_Laidoja
 minor: 
-lastmajorsummary: 
-ts: 1453220684
-languages: 
-revision: 44
-lastmajor: 44
-host: 86.110.37.246
-summary: 
-keep-ts: 1453220684
+lastmajor: 45
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -55,6 +47,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	== Kevadsemester 2016
 	
+	#[[MSE0290]] - Jätkusuutlikud energiatehnoloogiad
+	
 	#[[AAHM12-13]]
 	==Lisaks:
 	
@@ -67,3 +61,11 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
 	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
+ts: 1454530098
+lastmajorsummary: 
+summary: 
+keep-ts: 1454530098
+host: 86.110.37.246
+languages: 
+revision: 45
+username: Ain_Laidoja
