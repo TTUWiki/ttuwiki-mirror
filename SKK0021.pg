@@ -1,14 +1,16 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+ts: 1441924450
 lastmajor: 2
+flags: 1
+blocks: [Course:31855 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
 keep-ts: 1441924450
+languages: 
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:31855 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-ts: 1441924450
-languages: 
-revision: 4

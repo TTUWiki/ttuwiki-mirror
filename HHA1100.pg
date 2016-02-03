@@ -1,14 +1,16 @@
 languages: 
-ts: 1441924445
-ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 lastmajor: 2
+minor: 1
+keep-ts: 1441924445
 text: #SUBTITLE Diplomaatia ja välisteenistuse ajalugu
 	#SUBURL [Course:35103 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 1
+blocks: [Course:35103 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ip: 89.235.235.166
