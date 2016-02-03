@@ -1,19 +1,16 @@
-flags: 1
-minor: 
-ip: 89.235.235.166
-host: 86.110.37.246
-keep-ts: 1454519992
-username: Ain_Laidoja
 languages: 
-summary: 
-blocks: [Course:106025 〔Õppeaine ÕIS-is〕]
-ts: 1454519992
+minor: 
+username: Ain_Laidoja
 text: #SUBTITLE Jätkusuutlikud energiatehnoloogiad
 	#SUBURL [Course:106025 〔Õppeaine ÕIS-is〕]
 	
 	==Õppematerjal
 	
 	[http://velar.ee/mse0290-suistainable-energy-technologies/ Õppeaine kodulehekülg]
+	
+	==Материалы
+	
+	
 	
 	
 	== Kirjandus
@@ -25,6 +22,11 @@ text: #SUBTITLE Jätkusuutlikud energiatehnoloogiad
 	#http://www.ren21.net/REN21Activities/Publications/GlobalStatusReport/GSR2011/tabid/56142/Default.aspx
 	#http://www.map.ren21.net/#fr-FR/search/by-technology/3,13,29,122/46
 	
-lastmajor: 6
-revision: 6
+lastmajor: 7
+summary: 
+ts: 1454531072
+keep-ts: 1454531072
+host: 86.110.37.246
+revision: 7
+ip: 89.235.235.166
 lastmajorsummary: 
