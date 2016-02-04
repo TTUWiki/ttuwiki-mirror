@@ -1,14 +1,24 @@
-lastmajorsummary: Translation added
-host: 85.253.177.126
+ts: 1454625236
 minor: 
+host: 85.253.177.126
+lastmajorsummary: “C and Object-Oriented Programming”
 languages: 
-text: == Funny links / Lõbusad lingid / Забавные ссылки:
+username: AlexDaniel
+text: == “C and Object-Oriented Programming”
+	IT guys will get it.
+	
+	Attention, ladies and gentlemen! It looks like C language is not what we were thinking:
+	* [[IDK0061|IDK0061 - Keel C ja objektorienteeritud programmeerimine]]
+	* [[RAR0341|RAR0341 - Keel C ja objektorienteeritud programmeerimine]]
+	* [[RAR1790|RAR1790 - Keel C ja objektorienteeritud programmeerimine]]
+	
+	Although I see how one can confuse C language with C++, it completely escapes me how can you confuse it with C#. It brings a good question whether people creating the study programme and lectures are competent enough to be associated with IT in any way, let alone to teach. [[http://imgur.com/gallery/dRlR3 These people have no idea]].
+	
+	== Funny links / Lõbusad lingid / Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-lastmajor: 2
-username: MaryBoom
-ts: 1453986158
-summary: Translation added
-keep-ts: 1453986158
-revision: 2
+lastmajor: 3
+revision: 3
+summary: “C and Object-Oriented Programming”
+keep-ts: 1454625236
