@@ -1,14 +1,16 @@
+keep-ts: 1441924449
+host: 82.131.7.230
+blocks: [Course:101572 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Magistripraktika
 	#SUBURL [Course:101572 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-languages: 
+username: AlexDaniel
 ts: 1441924449
 ip: 89.235.235.166
+revision: 4
+languages: 
+lastmajor: 2
 minor: 1
-username: AlexDaniel
+flags: 1

@@ -1,10 +1,14 @@
-revision: 8
-username: Ain_Laidoja
+lastmajor: 8
 keep-ts: 1454570566
+ts: 1454570566
+summary: 
 ip: 89.235.235.166
+host: 86.110.37.246
 lastmajorsummary: 
 minor: 
-ts: 1454570566
+username: Ain_Laidoja
+blocks: [Course:106025 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Jätkusuutlikud energiatehnoloogiad
 	#SUBURL [Course:106025 〔Õppeaine ÕIS-is〕]
 	
@@ -22,7 +26,5 @@ text: #SUBTITLE Jätkusuutlikud energiatehnoloogiad
 	#http://www.ren21.net/REN21Activities/Publications/GlobalStatusReport/GSR2011/tabid/56142/Default.aspx
 	#http://www.map.ren21.net/#fr-FR/search/by-technology/3,13,29,122/46
 	
-languages: 
-host: 86.110.37.246
-lastmajor: 8
-summary: 
+flags: 1
+revision: 8
