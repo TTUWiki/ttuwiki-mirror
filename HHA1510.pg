@@ -1,14 +1,16 @@
-revision: 4
-username: AlexDaniel
 minor: 1
+blocks: [Course:39454 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
-ip: 89.235.235.166
-languages: 
+lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Väikeriigid
 	#SUBURL [Course:39454 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+languages: 
+revision: 4
+ip: 89.235.235.166
 keep-ts: 1441924445

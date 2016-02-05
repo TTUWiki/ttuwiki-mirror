@@ -1,12 +1,14 @@
+host: 82.131.7.230
 revision: 2
-ts: 1441924452
-languages: 
-username: AlexDaniel
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Üldine hüdroloogia
 	#SUBURL [Course:109031 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924452
+languages: 
+blocks: [Course:109031 〔Õppeaine ÕIS-is〕]
+flags: 1
+username: AlexDaniel
 keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230

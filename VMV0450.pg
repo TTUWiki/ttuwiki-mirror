@@ -1,12 +1,14 @@
+languages: 
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hüdrograafia tehnoloogiline praktika
 	#SUBURL [Course:110093 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-revision: 2
-username: AlexDaniel
-minor: 1
 ts: 1441924452
-languages: 
+flags: 1
+host: 82.131.7.230
+minor: 1
+keep-ts: 1441924452
+blocks: [Course:110093 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

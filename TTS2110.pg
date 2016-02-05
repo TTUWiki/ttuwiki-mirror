@@ -1,14 +1,16 @@
-revision: 4
 username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+blocks: [Course:37127 〔Õppeaine ÕIS-is〕]
+flags: 1
 minor: 1
 ts: 1441924451
-ip: 89.235.235.166
-languages: 
 text: #SUBTITLE Sotsioloogia
 	#SUBURL [Course:37127 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
+languages: 
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
