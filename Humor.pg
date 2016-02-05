@@ -1,8 +1,9 @@
-ts: 1454625236
-minor: 
+lastmajor: 3
 host: 85.253.177.126
-lastmajorsummary: “C and Object-Oriented Programming”
-languages: 
+keep-ts: 1454683248
+ts: 1454683248
+minor: 1
+revision: 4
 username: AlexDaniel
 text: == “C and Object-Oriented Programming”
 	IT guys will get it.
@@ -12,13 +13,12 @@ text: == “C and Object-Oriented Programming”
 	* [[RAR0341|RAR0341 - Keel C ja objektorienteeritud programmeerimine]]
 	* [[RAR1790|RAR1790 - Keel C ja objektorienteeritud programmeerimine]]
 	
-	Although I see how one can confuse C language with C++, it completely escapes me how can you confuse it with C#. It brings a good question whether people creating the study programme and lectures are competent enough to be associated with IT in any way, let alone to teach. [[http://imgur.com/gallery/dRlR3 These people have no idea]].
+	Although I see how one can confuse C language with C++, it completely escapes me how can you confuse it with C#. It brings a good question whether people creating the study programme and lecturers are competent enough to be associated with IT in any way, let alone to teach. [[http://imgur.com/gallery/dRlR3 These people have no idea]].
 	
 	== Funny links / Lõbusad lingid / Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-lastmajor: 3
-revision: 3
-summary: “C and Object-Oriented Programming”
-keep-ts: 1454625236
+summary: lectures → lecturers
+languages: 
+lastmajorsummary: “C and Object-Oriented Programming”
