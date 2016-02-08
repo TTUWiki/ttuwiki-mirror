@@ -1,0 +1,101 @@
+lastmajorsummary: Some information about translations
+revision: 1
+host: 85.253.177.126
+text: This website was started as a Russian wiki, but due to high demand multilingual functionality was added.
+	
+	This raised a couple of problems because it was highly unwanted to introduce extra complexity to the interface.
+	
+	Current solution is based on a couple of principles:
+	* **You should feel free to write in any language**. Your contributions are welcome even if the language of your contribution is not the language of the rest of the page.
+	* Translations are not separated into separate pages. Doing it other way will cause translations to go out of date quickly.
+	* It should be easy to switch between translations without reloading the page (so that you can visually see the differences between translations).
+	* Structure of the page should not depend on the language.
+	* It should be possible to translate page incrementally.
+	
+	== Markup
+	
+	Let's say you have a page with these contents:
+	{{{
+	This is a test.
+	
+	== Test 1
+	Text text
+	
+	== Test 2
+	Text text
+	}}}
+	This page has no translated parts and the sections are not marked. We can start by adding tags to places that we want to translate:
+	{{{
+	#ENG
+	This is a test.
+	
+	== Test 1
+	#ENG
+	Text text
+	
+	== Test 2
+	Text text
+	}}}
+	Doing so will make {{{ENG / EST / RUS}}} buttons appear. Both **EST** and **RUS** will be marked red (no translations yet). Translated section only lasts till the next heading.
+	
+	Let's add some translations:
+	{{{
+	#ENG
+	This is a test.
+	
+	#RUS
+	Это проверка.
+	
+	== Test 1
+	#ENG
+	Text text
+	
+	#RUS
+	Текст текст
+	
+	#EST
+	Tekst tekst
+	
+	== Test 2
+	Text text
+	}}}
+	The order does not matter and some translations might be missing. That's fine, somebody else will add missing translations later.
+	
+	However, the headings are still not translated. Let's try to fix that:
+	{{{
+	#ENG
+	This is a test.
+	
+	#RUS
+	Это проверка.
+	
+	== Test 1 / Proov 1 / Проверка 1
+	#ENG
+	Text text
+	
+	#RUS
+	Текст текст
+	
+	#EST
+	Tekst tekst
+	
+	== Test 2
+	Text text
+	}}}
+	
+	In other words, the syntax is: **English heading / Estonian heading / Russian heading**. Right now you cannot provide just two, either give all three translations or just leave one universal heading.
+	
+	== Advanced contributors
+	**These recommendations are for advanced contributors. As a regular user you should not worry about these things.**
+	
+	* If you speak several languages equally then please prefer **English**. Estonian, Russian, and international students have no problems reading English text. For that reason this website defaults to English in various places.
+	* Page names should be in English unless the page content is language-specific. E.g. it is OK to have a page called “Список предметов на русском языке”
+	* If some section has to be translated but nobody is willing to write a translation then just put a language tag to this section. This will turn on the language buttons and missing translations will be shining red. Perhaps that will give some motivation to other contributors.
+	* You can close some section spontaneously (far before the heading) by using {{{#LANG_END}}} tag. This should not be required most of the time.
+	
+ts: 1454911807
+languages: 
+lastmajor: 1
+summary: Some information about translations
+username: AlexDaniel
+minor: 
