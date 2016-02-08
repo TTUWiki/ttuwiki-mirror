@@ -1,17 +1,11 @@
-lastmajor: 34
-ts: 1454894488
-keep-ts: 1454894488
-summary: Link to Languages and Translations
 username: AlexDaniel
-revision: 34
-host: 85.253.177.126
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
 	* [[News]] – what's new on this website
 	* [[Formatting]] – all about wikitext
 	* [[Template]] – simple template for writing course pages
-	* [[Languages and Translations]] – h
+	* [[Languages and Translations]] – which languages should be prefered and how to write translations
 	* [[FAQ]] – frequently asked questions
 	* [[Required Changes]] – about known problems
 	* [[Page Generation]] – some pages on this wiki are generated automatically
@@ -21,7 +15,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[News|Uudised]] – veebilehe uudised
 	* [[Formatting|Redigeerimine]] – Selle veebilehe võimalustest
 	* [[Template|Mall]] – Uute lehekülgede loomiseks
-	* [[Languages and Translations]] – which languages should be prefered and how to write translations
+	* [[Languages and Translations]] – 
 	* [[FAQ]] – Sageli esitatavad küsimused
 	* [[Required Changes|Vajalikud muutused]] – teatud probleemid ja ettepanekud nende lahendamiseks
 	* [[Page Generation|Lehekülgede genereerimine]] – 
@@ -201,6 +195,12 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-languages: 
+ts: 1454894504
+lastmajor: 34
+summary: Link to Languages and Translations
 lastmajorsummary: Link to Languages and Translations
-minor: 
+revision: 35
+minor: 1
+keep-ts: 1454894504
+host: 85.253.177.126
+languages: 
