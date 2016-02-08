@@ -1,14 +1,16 @@
+username: AlexDaniel
+blocks: [Course:34390 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
+minor: 1
+ip: 89.235.235.166
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+ts: 1441924449
 lastmajor: 2
+flags: 1
 text: #SUBTITLE Infosüsteemide arendusprotsess
 	#SUBURL [Course:34390 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ip: 89.235.235.166
-ts: 1441924449
-minor: 1
-username: AlexDaniel
-revision: 4

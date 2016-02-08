@@ -1,12 +1,14 @@
-username: AlexDaniel
 minor: 1
 ts: 1441924450
-languages: 
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109385 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
 text: #SUBTITLE Rahvamajandus
 	#SUBURL [Course:109385 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+username: AlexDaniel
+flags: 1

@@ -1,20 +1,9 @@
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
-flags: 010101010101
-summary: Всем всё понятно :))
-revision: 2
 ip: 89.235.239.240
-ts: 1408998184
-minor: 
-blocks: #ENG
-	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#RUS
-	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
-	
-	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-keep-ts: 1408998184
-host: 89.235.245.58
+lastmajor: 2
 username: AlexDaniel
 diff-major: 1
+flags: 
+blocks: 
 text: Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?
 	
 	-- AlexDaniel 2014-03-18 02:51:25
@@ -26,5 +15,12 @@ text: Осталось ли на сайте еще что-то непонятн�
 	-- AlexDaniel 2014-08-25 23:23:04
 	
 	
-lastmajor: 2
+host: 89.235.245.58
+minor: 
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
+summary: Всем всё понятно :))
 languages: 
+keep-ts: 1408998184
+revision: 2
+ts: 1408998184

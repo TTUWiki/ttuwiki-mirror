@@ -1,12 +1,14 @@
+flags: 1
+languages: 
+minor: 1
+host: 82.131.7.230
+ts: 1441924452
+revision: 2
+username: AlexDaniel
+blocks: [Course:109381 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 text: #SUBTITLE Ohutus, ohuteave
 	#SUBURL [Course:109381 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-ts: 1441924452
-minor: 1
-username: AlexDaniel
-revision: 2

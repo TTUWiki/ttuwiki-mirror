@@ -1,14 +1,16 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:34262 〔Õppeaine ÕIS-is〕]
+flags: 1
 lastmajor: 2
+ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+host: 82.131.7.230
 keep-ts: 1441924449
+revision: 4
 text: #SUBTITLE Tööstusettevõtte infosüsteemid
 	#SUBURL [Course:34262 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-minor: 1
-ts: 1441924449
-ip: 89.235.235.166
-languages: 
-revision: 4

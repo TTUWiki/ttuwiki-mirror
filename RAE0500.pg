@@ -1,12 +1,14 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 keep-ts: 1441924449
+host: 82.131.7.230
 text: #SUBTITLE Pumbad ja ventilaatorid
 	#SUBURL [Course:109918 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 minor: 1
 username: AlexDaniel
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109918 〔Õppeaine ÕIS-is〕]
 languages: 
 ts: 1441924449
-revision: 2

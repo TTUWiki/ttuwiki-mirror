@@ -1,14 +1,16 @@
-revision: 4
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
 minor: 1
+flags: 1
+lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Sissejuhatus rahandusse
 	#SUBURL [Course:102022 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924450
+languages: 
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102022 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-lastmajor: 2
+ts: 1441924450
+username: AlexDaniel

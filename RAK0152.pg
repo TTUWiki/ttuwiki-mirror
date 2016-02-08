@@ -1,12 +1,14 @@
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+languages: 
+ts: 1441924449
+revision: 2
+flags: 1
+keep-ts: 1441924449
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Gaaside ja vedelike voolamine - praktikum
 	#SUBURL [Course:109873 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924449
-languages: 
-username: AlexDaniel
+blocks: [Course:109873 〔Õppeaine ÕIS-is〕]
 minor: 1
-revision: 2
