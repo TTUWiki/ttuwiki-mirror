@@ -1,13 +1,14 @@
+summary: Описание только о Гордоне
+host: 85.253.177.126
+minor: 
+blocks: [Course:31211 〔Õppeaine ÕIS-is〕]
 revision: 623
 username: AlexDaniel
-lastmajor: 623
-keep-ts: 1454968764
 ip: 89.235.239.240
-languages: 
+keep-ts: 1454968764
+flags: 1
 ts: 1454968764
-minor: 
-lastmajorsummary: Описание только о Гордоне
-summary: Описание только о Гордоне
+languages: 
 text: #SUBTITLE Süsteemiteooria
 	#SUBURL [Course:31211 〔Õppeaine ÕIS-is〕]
 	
@@ -209,4 +210,5 @@ text: #SUBTITLE Süsteemiteooria
 	Всё примерно то же самое, что и в занятии 2.
 	
 	
-host: 85.253.177.126
+lastmajor: 623
+lastmajorsummary: Описание только о Гордоне
