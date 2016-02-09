@@ -1,5 +1,11 @@
-minor: 
-lastmajor: 45
+host: 85.253.177.126
+summary: https, otherwise these links are not working
+lastmajorsummary: https, otherwise these links are not working
+keep-ts: 1454998578
+ts: 1454998578
+revision: 46
+username: AlexDaniel
+lastmajor: 46
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -58,14 +64,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
 	
 	Veel:
-	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
-	* [[http://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
+	* [[https://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
+	* [[https://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
 	
-ts: 1454530098
-lastmajorsummary: 
-summary: 
-keep-ts: 1454530098
-host: 86.110.37.246
 languages: 
-revision: 45
-username: Ain_Laidoja
+minor: 
