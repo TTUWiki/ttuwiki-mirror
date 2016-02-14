@@ -1,13 +1,8 @@
-minor: 
-languages: 
+username: 
 revision: 17
-ip: 89.235.235.166
-summary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
-lastmajor: 17
-keep-ts: 1455443131
+languages: 
 ts: 1455443131
-lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
-host: 84.52.25.33
+flags: 1
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -70,4 +65,11 @@ text: #SUBTITLE Andmebaasid I
 	-- Аноним 2016-02-14 11:45:30
 	
 	
-username: 
+keep-ts: 1455443131
+summary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
+ip: 89.235.235.166
+host: 84.52.25.33
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+lastmajor: 17
+minor: 
+lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
