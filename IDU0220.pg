@@ -1,16 +1,13 @@
-ip: 89.235.235.166
-lastmajor: 17
-languages: 
 lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
-summary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
-username: 
+revision: 19
+languages: 
+summary: комменты в один
+lastmajor: 17
+host: 85.253.177.126
+username: AlexDaniel
+ip: 89.235.235.166
+keep-ts: 1455474890
 minor: 1
-ts: 1455443154
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-host: 84.52.25.33
-revision: 18
-keep-ts: 1455443154
-flags: 1
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -47,19 +44,9 @@ text: #SUBTITLE Andmebaasid I
 	
 	[[https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0CCsQFjACOAo&url=http%3A%2F%2Fwww.u3ainbath.org.uk%2Fgroup_pages%2Ffoss%2FLinkedFiles2008%2FDB%2Fmacros_that_work.odt&ei=R4VPVaDyBIe_ygPL34HQDw&usg=AFQjCNF8i4LZKQj027yTEyL4KqxiucB3sQ&sig2=qD1B9LR0ufQwwzg1OWze5g&cad=rja Макросы в LibreOffice Base]]
 	
-	-- AlexDaniel 2015-05-10 19:32:54
-	
-	
-	----
-	
 	[[https://wiki.openoffice.org/wiki/Documentation/BASIC_Guide/Database_Access Еще немного про макросы]]
 	
-	-- AlexDaniel 2015-05-10 19:47:54
-	
-	
-	----
-	
-	[[http://www.baseprogramming.com/BaseMacros.pdf и еще]]
+	[[http://www.baseprogramming.com/BaseMacros.pdf И еще]]
 	
 	-- AlexDaniel 2015-05-13 02:32:11
 	
@@ -73,3 +60,4 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
+ts: 1455474890
