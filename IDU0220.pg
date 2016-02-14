@@ -1,13 +1,13 @@
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-host: 84.52.32.112
-revision: 16
-username: Artur Gummel
-flags: 1
+minor: 
+languages: 
+revision: 17
 ip: 89.235.235.166
-lastmajor: 16
-summary: 
-lastmajorsummary: 
-keep-ts: 1454344251
+summary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
+lastmajor: 17
+keep-ts: 1455443131
+ts: 1455443131
+lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
+host: 84.52.25.33
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -61,6 +61,13 @@ text: #SUBTITLE Andmebaasid I
 	-- AlexDaniel 2015-05-13 02:32:11
 	
 	
-languages: 
-minor: 
-ts: 1454344251
+	----
+	
+	http://forum.webmasterschool.ru/tmp/sql.pdf
+	
+	Неплохая книга по SQL.
+	
+	-- Аноним 2016-02-14 11:45:30
+	
+	
+username: 
