@@ -1,12 +1,14 @@
-languages: 
-ts: 1441924448
 minor: 1
+flags: 1
 username: AlexDaniel
-revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:110127 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 keep-ts: 1441924448
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tootmistehnoloogia
 	#SUBURL [Course:110127 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
