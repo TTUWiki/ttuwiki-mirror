@@ -1,12 +1,10 @@
-lastmajor: 36
-lastmajorsummary: Link to http://sci-hub.io/
-minor: 
-languages: 
-username: AlexDaniel
+ts: 1455836915
+minor: 1
 summary: Link to http://sci-hub.io/
-revision: 36
-ts: 1455836889
-host: 85.253.177.126
+lastmajorsummary: Link to http://sci-hub.io/
+lastmajor: 36
+keep-ts: 1455836915
+languages: 
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -74,7 +72,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Free Food|Бесплатная еда]] – как иногда можно подкормиться.
 	* [[Humor|Юмор]] – забавные ссылки и истории.
 	
-	=== Science /  / Наука
+	=== Science / Teadus / Наука
 	* http://sci-hub.io/ – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
 	
 	=== Scholarships / Õppetoetused / Стипендии
@@ -206,4 +204,6 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-keep-ts: 1455836889
+host: 85.253.177.126
+username: AlexDaniel
+revision: 37
