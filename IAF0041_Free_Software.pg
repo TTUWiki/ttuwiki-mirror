@@ -1,10 +1,11 @@
-languages: 
-ts: 1455916917
-summary: Moved from IAF0041
+keep-ts: 1455917008
+minor: 1
+lastmajorsummary: Moved from IAF0041
 host: 85.253.177.126
-lastmajor: 1
-revision: 1
-text: Самой удобной связкой скорее всего будет [[http://www.geda-project.org/ gschem + icarus + gtkwave]].
+revision: 2
+text: На этой странийе подробно расписано как пройти [[IAF0041]] используя только свободное программное обеспечение.
+	
+	Самой удобной связкой скорее всего будет [[http://www.geda-project.org/ gschem + icarus + gtkwave]].
 	
 	 * **gschem** - тут просто рисуем схему
 	 * **gnetlist** - преобразует схему в verilog модуль
@@ -118,6 +119,8 @@ text: Самой удобной связкой скорее всего буде�
 	
 	* http://www.easy-asic.de/downloads/HOWTO_hierarchical_designs.pdf
 	
-minor: 
+languages: 
 username: AlexDaniel
-lastmajorsummary: Moved from IAF0041
+lastmajor: 1
+ts: 1455917008
+summary: Moved from IAF0041
