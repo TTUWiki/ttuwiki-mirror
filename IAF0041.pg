@@ -1,13 +1,10 @@
-ts: 1455916763
-summary: Refactored out gEDA guide
-lastmajor: 28
-revision: 28
+minor: 1
+keep-ts: 1455916777
+ts: 1455916777
+host: 85.253.177.126
 lastmajorsummary: Refactored out gEDA guide
-ip: 89.235.239.240
-minor: 
-username: AlexDaniel
-blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 28
+languages: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -25,7 +22,7 @@ text: #SUBTITLE Arvutid
 	
 	 * http://ww.fastad.com/circuit/ - Миленький java applet.
 	 * Proteus - вроде бы нормальная программа, но стоит каких-то нечеловеческих денег.
-	 * **gEDA** - свободный вариант, но работает только на GNU/Linux, да и в целом требует более глубоких знаний. **Этот вариант довольно подробно описан ниже на [[IAF0041 Free Software]]**
+	 * **gEDA** - свободный вариант, но работает только на GNU/Linux, да и в целом требует более глубоких знаний. **Этот вариант довольно подробно описан на [[IAF0041 Free Software]]**
 	
 	
 	=== Обсуждения
@@ -76,6 +73,7 @@ text: #SUBTITLE Arvutid
 	-- Аноним 2016-02-19 18:49:29
 	
 	
-keep-ts: 1455916763
-languages: 
-host: 85.253.177.126
+username: AlexDaniel
+ip: 89.235.239.240
+summary: Refactored out gEDA guide
+revision: 29
