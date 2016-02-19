@@ -1,9 +1,12 @@
-keep-ts: 1455917008
 minor: 1
+username: AlexDaniel
 lastmajorsummary: Moved from IAF0041
+ts: 1455917021
+languages: 
+keep-ts: 1455917021
+summary: Moved from IAF0041
 host: 85.253.177.126
-revision: 2
-text: На этой странийе подробно расписано как пройти [[IAF0041]] используя только свободное программное обеспечение.
+text: На этой странийе подробно расписано как пройти **[[IAF0041]]** используя только свободное программное обеспечение.
 	
 	Самой удобной связкой скорее всего будет [[http://www.geda-project.org/ gschem + icarus + gtkwave]].
 	
@@ -119,8 +122,5 @@ text: На этой странийе подробно расписано как 
 	
 	* http://www.easy-asic.de/downloads/HOWTO_hierarchical_designs.pdf
 	
-languages: 
-username: AlexDaniel
+revision: 3
 lastmajor: 1
-ts: 1455917008
-summary: Moved from IAF0041
