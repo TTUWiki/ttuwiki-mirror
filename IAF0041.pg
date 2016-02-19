@@ -1,16 +1,13 @@
-lastmajorsummary: Refactored out gEDA guide
-blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+revision: 30
 summary: Refactored out gEDA guide
-minor: 1
-host: 85.253.177.126
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
-	=== Информация
+	== Информация
 	Страничка предмета: http://www.pld.ttu.ee/~teet/a1_k_ttu.html
 	Задания и другие материалы: https://edu.pld.ttu.ee/
 	
-	=== Харьютусы
+	== Харьютусы
 	Допуском к экзамену являются выполненные лабы и пары проверочных. Проверочные проблем никаких вызывать не должны, вся информация присутствует на слайдах и в википедии. С лабами немного сложнее, но если понимаете, что от вас требуется, то всё будет в порядке.
 	
 	По какой-то причине до сих пор иногда рекомендуется использовать [[http://www.pld.ttu.ee/info/dixi/ DixiCad]] - смело это игнорируйте. !DixiCad - это устаревший софт, который даже загуглить нормально нельзя (все результаты поиска связаны с ТТУ).
@@ -23,7 +20,7 @@ text: #SUBTITLE Arvutid
 	 * **gEDA** - свободный вариант, но работает только на GNU/Linux, да и в целом требует более глубоких знаний. **Этот вариант довольно подробно описан на [[IAF0041 Free Software]]**
 	
 	
-	=== Обсуждения
+	== Обсуждения
 	
 	 * [[Вопрос 8]] - про вторую лабу.
 	
@@ -71,11 +68,12 @@ text: #SUBTITLE Arvutid
 	-- Аноним 2016-02-19 18:49:29
 	
 	
-lastmajor: 28
-revision: 29
-languages: 
-keep-ts: 1455916777
-username: AlexDaniel
+minor: 1
+keep-ts: 1455917046
 ip: 89.235.239.240
-flags: 1
-ts: 1455916777
+languages: 
+lastmajor: 28
+username: AlexDaniel
+ts: 1455917046
+host: 85.253.177.126
+lastmajorsummary: Refactored out gEDA guide
