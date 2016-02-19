@@ -1,13 +1,13 @@
-languages: 
-host: 85.253.177.126
 ts: 1455916763
 summary: Refactored out gEDA guide
-minor: 
-username: AlexDaniel
-revision: 28
 lastmajor: 28
+revision: 28
 lastmajorsummary: Refactored out gEDA guide
 ip: 89.235.239.240
+minor: 
+username: AlexDaniel
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
 	
@@ -77,3 +77,5 @@ text: #SUBTITLE Arvutid
 	
 	
 keep-ts: 1455916763
+languages: 
+host: 85.253.177.126
