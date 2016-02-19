@@ -1,11 +1,9 @@
-keep-ts: 1455900570
-ip: 89.235.239.240
-host: 84.50.11.5
-ts: 1455900570
+blocks: [Course:30874 〔Õppeaine ÕIS-is〕]
 lastmajor: 27
+summary: Пускай он и за 2005 год, но он хорош. [[File:arvutid_eksami_vastused.pdf]] 
 lastmajorsummary: Пускай он и за 2005 год, но он хорош. [[File:arvutid_eksami_vastused.pdf]] 
-revision: 27
-username: 
+ts: 1455900570
+ip: 89.235.239.240
 languages: 
 text: #SUBTITLE Arvutid
 	#SUBURL [Course:30874 〔Õppeaine ÕIS-is〕]
@@ -190,5 +188,9 @@ text: #SUBTITLE Arvutid
 	-- Аноним 2016-02-19 18:49:29
 	
 	
-summary: Пускай он и за 2005 год, но он хорош. [[File:arvutid_eksami_vastused.pdf]] 
+flags: 1
 minor: 
+keep-ts: 1455900570
+revision: 27
+username: 
+host: 84.50.11.5
