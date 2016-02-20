@@ -1,6 +1,10 @@
-lastmajorsummary: Some interesting findings (more)
-lastmajor: 3
-ts: 1455945744
+revision: 4
+languages: 
+ts: 1455946356
+username: AlexDaniel
+summary: Some interesting findings (more) (and more)
+lastmajor: 4
+minor: 
 text: Every time I dig into ÕIS I face lots of interesting things. At some point I decided that it would make sense to share these things, so I started this page.
 	
 	== Names with a dot
@@ -149,10 +153,415 @@ text: Every time I dig into ÕIS I face lots of interesting things. At some poin
 	* [[TE.0004]]
 	* [[VL.0811]]
 	
-minor: 
-summary: Some interesting findings (more)
-keep-ts: 1455945744
+	== Longest Estonian course names
+	{{{
+	– Do you have any lectures today?
+	– Yeah, I have, um… Computation Methods in Chemical Engineering and Fundamentals of Chemical Processes Design!
+	}}}
+	
+	* **98** [[HHI0018]] Kultuur, identiteet ja ideoloogia: olulised perspektiivid mõistmaks Venemaad ja idapartnerlusriike
+	* **90** [[EEA7412]] Linnaehituse projektide stuudio. Planeerimisprojekt LII. Avaliku ruumi, väljaku planeering
+	* **90** [[EAL0020]] Linnaehituse projektide stuudio. Planeerimisprojekt LII. Avaliku ruumi, väljaku planeering
+	* **88** [[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
+	* **86** [[VLL0680]] Isiklik ohutus ja ühiskondlik vastutus ("Ellujäämine ekstreemsetes olukordades merel")
+	* **86** [[HHI0016]] Venemaa ja idanaabruspoliitika majandus- ja äripoliitika keskkond ning institutsioonid
+	* **85** [[EAA0010]] Linnaehituse strateegiad /Jätkusuutlik linnaehituslik transformeering Tallinna näitel
+	* **78** [[HPP8233]] Sisejulgeoleku struktuuri organisatsioonid ja paramilitaarsed organisatsioonid
+	* **78** [[HHI1421]] Äristrateegiad. Äriplaneerimine, toote ja teenuse planeerimine ning arendamine
+	* **78** [[EEA7411]] Linnaehituse projektide stuudio. Planeerimisprojekt LI. Madaltihe elamukvartal
+	* **78** [[EAL0010]] Linnaehituse projektide stuudio. Planeerimisprojekt LI. Madaltihe elamukvartal
+	* **77** [[EEA7050]] Linnaehituslik planeerimine. Planeerimisprojekt II. Planeering linna keskuses
+	* **77** [[EAL0050]] Linnaehituslik planeerimine. Planeerimisprojekt II. Planeering linna keskuses
+	* **76** [[EEA7040]] Linnaehituslik planeerimine. Planeerimisprojekt I. Energiatõhus linnakvartal
+	* **76** [[EAL0040]] Linnaehituslik planeerimine. Planeerimisprojekt I. Energiatõhus linnakvartal
+	* **75** [[TSP1025]] Hiina poliitilised ja majanduslikud suhted USA ja Venemaaga 20.-21.sajandil
+	* **74** [[VLL0670]] Mereside praktikum (GMDSS raadioside operaatori piirangutega (ROC) kursus)
+	* **74** [[RAS0100]] Arvutusmeetodid keemiatehnikas ja keemiaprotsesside projekteerimise alused
+	* **74** [[KMP0030]] Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine
+	* **73** [[HOR7006]] Sissejuhatus Ameerika Ühendriikide kohtumenetlusse ja vahekohtumenetlusse
+	* **73** [[HHL1081]] Koostööl põhinev majandus: kapitalism, ühisomand ja tulevikustsenaariumid
+	* **72** [[IED9010]] Elektroonika komponendid II: Hajumis- ja transpordinähtused pooljuhtides
+	* **72** [[EEA7351]] Arhitektuuri ja linnaehituse ajalugu 19.saj. teisest poolest tänapäevani
+	* **71** [[TSP1024]] Julgeolekupoliitika Kaug-Idas 20. sajandi teisel poolel ja 21. sajandil
+	* **70** [[HPP8234]] Personalijuhtimise praktilised probleemid sisejulgeoleku struktuurides
+	* **69** [[NGG9060]] Geoloogilised protsessid ja füüsikalis-keemilised meetodid geoloogias
+	* **69** [[IED9000]] Elektroonika komponendid I: Tänapäevase tahkiselektroonika probleemid
+	* **69** [[BCU4970]] Maastikuprojekt VIII: Keeruliste maastike strateegiad ja planeerimine
+	* **68** [[KMM0470]] Puidu-, tekstiili- ja plastijäätmete ringlussevõtt ja energiakasutus
+	* **68** [[HPP8232]] Sisejulgeoleku süsteemi toimimine ja valdkonna poliitika kujundamine
+	* **68** [[BCU5000]] Maastikuarhitektuuri valikprojekt: interdistsiplinaarsed väljakutsed
+	* **67** [[IDU0310]] Asjade interneti lahendused: targad seadmed, protsessid ja teenused
+	* **67** [[IDU0110]] Organisatsiooni digitaalstrateegia ja äriprotsesside modelleerimine
+	* **67** [[HHA1500]] Ettevõtlus, valitsemine ja rahvusvaheline majandus. Juhtumiuuringud
+	* **67** [[ETV6040]] Liikluskorraldus ja -ohutus ning intelligentsed transpordisüsteemid
+	* **67** [[EEA7020]] Arhitektuurne projekt II. Olulise linnaehitusliku tähtsusega objekt
+	* **67** [[EAA0240]] Arhitektuurne projekt II. Olulise linnaehitusliku tähtsusega objekt
+	* **67** [[DMK9030]] Meditsiiniline kuvamine, andmebaaside teke, kasutamine ja kvaliteet
+	* **66** [[RAS0130]] Täiendavad peatükid kütuste töötlemise protsessidest ja seadmetest
+	* **66** [[HOL6028]] Õigusel, turvalisusel ja vabadusel põhineva ala õigus ja poliitika
+	* **66** [[HHI0021]] Venemaa ja idapartnerlusriikide õigussüsteemid: võrdlev lähenemine
+	* **65** [[HHL8011]] Riik ja avalik haldus klassikalises hiina ja islami traditsioonis
+	* **65** [[EAA0090]] Arhitektuuri ja linnaehitusteooriate peegeldused 1 [TTÜ workshop]
+	* **64** [[MLM5126]] Sisepõlemismootorite ja käitursüsteemide valik ning monteerimine
+	* **64** [[HPP8231]] Personali strateegiline kujundamine sisejulgeoleku struktuurides
+	* **63** [[VLL0720]] Esmaabi baasõpe ("Ellujäämine ekstreemsetes olukordades merel")
+	* **63** [[IDU0435]] Sissejuhatus infoühiskonna tehnoloogiatesse ja e-valitsemisesse
+	* **63** [[HPP8310]] Sissejuhatus töö-, organisatsiooni- ja personalipsühholoogiasse
+	* **63** [[HHA1420]] Tehnoloogiline muutus ja tehnoloogilis-majanduslikud paradigmad
+	* **62** [[TSS1051]] Jätkusuutliku arengu poliitika: mitmemeetodiline juhtumiuuring
+	* **62** [[TSP1007]] Aasia ja Vaikse ookeani piirkonna uuringud: uued perspektiivid
+	* **62** [[RAS0060]] Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses
+	* **62** [[PK.1533]] Põllumajandusliku biomassi ressursid taastuvenergia tootmiseks
+	* **62** [[IDU1601]] Infosüsteemid ja nende sotsiaalsed ning majanduslikud aspektid
+	* **62** [[HOA6022]] Norm ning normi kehtestamine: juriidiline ja sotsiaalne aspekt
+	* **62** [[EEA7413]] Planeerimisprojekt LIII. Linnaehituslik analüüs, üldplaneering
+	* **62** [[EAL0030]] Planeerimisprojekt LIII. Linnaehituslik analüüs, üldplaneering
+	* **61** [[TSK1300]] Kultuuridevaheline kommunikatsioon rahvusvahelises keskkonnas
+	* **61** [[EEA7392]] Arhitektuurne projekt ÜII. Väike ühiskondlik hoone - paviljon
+	* **61** [[EAA0180]] Arhitektuurne projekt ÜII. Väike ühiskondlik hoone - paviljon
+	* **61** [[BCU4450]] Keskkonna planeerimise alused ja keskkonnameetmete ökonoomika
+	* **60** [[VLM0150]] Laevaremondiettevõtete ökonoomika, juhtimine ja planeerimine
+	* **60** [[VLL0660]] Mereside praktika (GMDSS raadioside operaatori (GOC) kursus)
+	* **60** [[TXX1030]] Kvantitatiivsed ja kvalitatiivsed analüüsimeetodid ärinduses
+	* **60** [[HPP8221]] Personalijuhtimise võrdlev analüüs väike- ja suurettevõtetes
+	* **60** [[EEK0036]] Ehituskonstruktsioonid arhitektidele, metallkonstruktsioonid
+	* **59** [[YTD0080]] Geenitehnoloogia eetilised, õiguslikud ja ärilised aspektid
+	* **59** [[TSP0007]] Sissejuhatus Aasia ja Vaikse ookeani piirkonna uuringutesse
+	* **59** [[TSP0006]] Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse
+	* **59** [[TAF1190]] Raamatupidamispettused ja kohtulik raamatupidamisekspertiis
+	* **59** [[NSO9096]] Õpetamis- ja ametipraktika okeanograafias ja meteoroloogias
+	* **59** [[IAF9130]] Otsustusdiagrammid ja nende rakendused digitaaldiagnostikas
+	* **59** [[HPP8550]] Uudsed uuringumeetodid töö- ja organisatsioonipsühholoogias
+	* **59** [[HPP8211]] Personalijuhtimise praktilised probleemid avalikus sektoris
+	* **58** [[VLK0132]] Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II
+	* **58** [[NGG8039]] Geomaterjalid ja füüsikalis-keemilised meetodid geoloogias
+	* **58** [[MTAT.07.018]] Sõjakunsti ajalugu: antiikajast võrgupõhise sõjapidamiseni
+	* **58** [[IDU0200]] Veebipõhiste rakenduste arhitektuur, disain ja tehnoloogia
+	* **58** [[IDK1651]] Ärikriitiliste infosüsteemide arendus Progress vahenditega
+	* **58** [[HPP8370]] Hindamine ja mõõtmine töö- ja organisatsioonipsühholoogias
+	* **58** [[HHR2030]] Kohaliku omavalitsuse majanduse ja finantsjuhtimise alused
+	* **57** [[TSK1027]] Kultuuridevahelise kommunikatsiooni dialoogiline käsitlus
+	* **57** [[NTR0020]] Sissejuhatus erialasse (küberfüüsikaline süsteemitehnika)
+	* **57** [[MEA5120]] Väikelaeva elektrilised süsteemid ja navigatsiooniseadmed
+	* **57** [[ITV9180]] Tehisintellekti süsteemid internetis, semantiline võrk II
+	* **57** [[ITI8510]] Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine
+	* **57** [[HPP8275]] Personali haldamine ja arendamine julgeolekustruktuurides
+	* **57** [[HHR1040]] Kohalik omavalitsus ja struktuuripoliitika Euroopa Liidus
+	* **57** [[EEA7030]] Arhitektuurne projekt III. Restaureerimine ja interjöörid
+	* **57** [[DMK9020]] Inimkeha ehitus, toimimine ja diagnostilised tehnoloogiad
+	* **56** [[VLL0070]] Radarnavigatsioon ja automaatikaseadme (ARPA) kasutamine
+	* **56** [[TTK0010]] Sissejuhatus keskkonnapoliitikasse ja keskkonnaõigusesse
+	* **56** [[TMO1180]] Organisatsiooni strateegiline diagnostika ja kujundamine
+	* **56** [[TAF1140]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes
+	* **56** [[TAF1040]] Arvestus mittetulundusühingutes, siht- ja riigiasutustes
+	* **56** [[RAR2570]] Operatsioonisüsteemid ja arvutivõrkude administreerimine
+	* **56** [[RAR0342]] Keel C ja objektorienteeritud programmeerimine - projekt
+	* **56** [[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	* **56** [[NTM1630]] Kogukondlik ja majandusareng ning omavalitsuse toimimine
+	* **56** [[KYP9020]] Täiendavad peatükid elektronmaterjalide tehnoloogiast II
+	* **56** [[KMX0550]] CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes
+	* **56** [[KMM0460]] Puidu- ja plastijäätmete ringlussevõtt ja energiakasutus
+	* **56** [[ITV9170]] Tehisintellekti süsteemid internetis, semantiline võrk I
+	* **56** [[ITV0051]] Operatsioonisüsteemid ja arvutivõrkude administreerimine
+	* **56** [[ITV0050]] Operatsioonisüsteemid ja arvutivõrkude administreerimine
+	* **56** [[IRT0160]] Telekommunikatsiooni teenuste võrgurakenduste platvormid
+	* **56** [[IDY0303]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	* **56** [[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	* **56** [[IDK5151]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
+	* **56** [[IDK0062]] Keel C ja objektorienteeritud programmeerimine - projekt
+	* **56** [[HPP8320]] Eetika ja väärtused töö- ja organisatsioonipsühholoogias
+	* **56** [[HHF0023]] Kaasaegne teaduslik mõtlemine ja filosoofilised meetodid
+	* **56** [[EAK0030]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad II
+	* **56** [[DMK1060]] Töötervishoiu ja tööohutuse õiguslik regulatsioon Eestis
+	* **55** [[VLK0370]] Lõpueksam: Külmutusautomaat- ja automaatjuhtimisseadmed
+	* **55** [[VLK0230]] Lõpueksam: Külmutusautomaat- ja automaatjuhtimisseadmed
+	* **55** [[VLK0131]] Külmutusautomaatikaseadmed, automaatjuhtimissüsteemid I
+	* **55** [[TER9090]] Hargmaised ettevõtted ja rahvusvahelised majandussuhted
+	* **55** [[TER1340]] Rahvusvahelised arveldused ja tehingute finantseerimine
+	* **55** [[KYP9010]] Täiendavad peatükid elektronmaterjalide tehnoloogiast I
+	* **55** [[KTT9040]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II
+	* **55** [[KTT9011]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast II
+	* **55** [[ITX8540]] Tarkvaraarenduse teaduspõhine meeskonnaprojekt: startup
+	* **55** [[ITX8210]] Turvaintsidendi halduse ja küberkriminalistika meetodid
+	* **55** [[IDU0425]] E-riigi lahenduste rakendamise ja turundamise metoodika
+	* **55** [[IDN9040]] Ärianalüüs ja andmekaevandamine: meetodid ja rakendused
+	* **55** [[IAG0650]] Riikliku andmevahetuskihi projekteerimine ja arendamine
+	* **55** [[HPP8270]] Personali valik ja planeerimine julgeolekustruktuurides
+	* **55** [[HOR7008]] Läbirääkimised ja kliendisuhted juriidilises kontekstis
+	* **55** [[HOR7002]] Rahvusvahelised ja Euroopa inimõiguste kaitse süsteemid
+	* **55** [[EEA7010]] Arhitektuurne projekt I. Ühiskondlik hoone - saalehitis
+	* **55** [[EAK0020]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad I
+	* **55** [[EAA0230]] Arhitektuurne projekt I. Ühiskondlik hoone - saalehitis
+	* **54** [[VMF0610]] Kalapüügi bioloogilised alused ja kalapüügitehnoloogia
+	* **54** [[TMT1190]] Töötervishoiu ja tööohutuse juhtimine organisatsioonis
+	* **54** [[NGG9085]] Spetsialiseerumine füüsikalises geoloogias, koondeksam
+	* **54** [[KTO9010]] Täiendavad peatükid toiduteadusest ja -tehnoloogiast I
+	* **54** [[KMX0560]] CAD/CAM tehnoloogia mööbli-, plasti- ja rõivatööstuses
+	* **54** [[KAT0033]] Protsesside bilansid ja projekteerimine II - praktikum
+	* **54** [[IDX9022]] Tehisintellekti rakendused info- ja teadmussüsteemides
+	* **54** [[IDX9020]] Tehisintellekti rakendused info- ja teadmussüsteemides
+	* **54** [[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid
+	* **54** [[HHR9020]] Kohaliku omavalitsuse ja regionaaljuhtimise eriseminar
+	* **54** [[HHI1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria
+	* **54** [[HHA1410]] Majanduspoliitika ajalugu ja ebaühtlase arengu teooria
+	* **54** [[EKK0270]] Hoonete soojusliku käitumise modelleerimine ja analüüs
+	* **54** [[EEA7391]] Arhitektuurne alustusprojekt ÜI. Arhitektuursed ruumid
+	* **53** [[VMS0210]] Merendusettevõtte tegevuse finantseerimine, algkursus
+	* **53** [[VMF0280]] Keskkonnamõjude hindamine ja keskkonnajuhtimissüsteem
+	* **53** [[VLK0380]] Lõpueksam: Külmutusseadmete ehitus ja ekspluatatsioon
+	* **53** [[VLK0180]] Lõpueksam: Külmutusseadmete ehitus ja ekspluatatsioon
+	* **53** [[RAR0130]] Tootearendusprojekti juhtimine ja ettevõtte asutamine
+	* **53** [[RAE0130]] Sissejuhatus ehituskonstruktsioonide projekteerimisse
+	* **53** [[ITI9130]] Funktsionaalsete programmeerimiskeelte kompileerimine
+	* **53** [[IDX9010]] Tarkvara kvaliteedijuhtimise ja standardite eriteemad
+	* **53** [[IDU0420]] E-valitsemisele ülemineku planeerimine ja rakendamine
+	* **53** [[IDU0400]] E-valitsemine: poliitikad, strateegiad ja raamistikud
+	* **53** [[IDU0192]] Protsessitehnika infosüsteemide arendamisel - projekt
+	* **53** [[HPI0380]] Tehnikaõppe didaktika - inseneripedagoogika praktikum
+	* **53** [[HOL7020]] Euroopa Liidu õiguse rakendamise meetodid ja praktika
+	* **53** [[HOE7140]] Infotehnoloogiliste toodete õiguslik režiim ja kaitse
+	* **53** [[HOA7009]] Kriminaal- ja karistuspoliitika probleemid ja arengud
+	* **53** [[EEK0013]] Ehituskonstruktsioonide projekteerimise üldpõhimõtted
+	* **53** [[EEA7070]] Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad
+	* **53** [[EAA0080]] Eksperimentaalne arhitektuur [Lõuna-Euroopa workshop]
+	* **52** [[VMF0120]] Kalakäitlemise tehnoloogilised protsessid ja seadmed
+	* **52** [[TXX1050]] Rahanduse ja majandusarvestuse alane kommunikatsioon
+	* **52** [[TEM9071]] Dünaamilised ja stohhastilised protsessid majanduses
+	* **52** [[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine
+	* **52** [[MSJ9020]] Kütuste põletamise uued tehnoloogiad ja kombiseadmed
+	* **52** [[MER9070]] Tehnoloogiliste protsesside ja toodete simuleerimine
+	* **52** [[IRZ9020]] Diskreetsed juhuslikud signaalid ja nende töötlemine
+	* **52** [[IAF9550]] Vigade ja rikete lokaliseerimine digitaalsüsteemides
+	* **52** [[HOX7011]] Rahvusvaheline ja Euroopa energia- ja keskkonnaõigus
+	* **52** [[HOE7120]] Internetis toimijate õigused, kohustused ja vastutus
+	* **52** [[HOE7100]] Külalisloengute sari: Õigus ja tehnoloogia praktikas
+	* **52** [[HHI0022]] Äri eripärad ELis, Venemaal ja idapartnerlusriikides
+	* **52** [[HHA9100]] Majanduspoliitika ajalugu ja tehnoloogia valitsemine
+	* **52** [[HHA1430]] Finantspoliitikad, innovatsioon ja majanduslik areng
+	* **52** [[ETV6020]] Maakasutuse ja transpordi integreeritud planeerimine
+	* **52** [[EEA7393]] Arhitektuurne projekt ÜIII. Avaliku kasutusega hoone
+	* **52** [[EAA0190]] Arhitektuurne projekt ÜIII. Avaliku kasutusega hoone
+	* **52** [[BCU4960]] Maastikuprojekt VII: Ehitus ja vertikaalplaneerimine
+	* **51** [[YXX9010]] Keemia ja geenitehnoloogia valdkonna doktoriseminar
+	* **51** [[VLL0940]] Mereside (GMDSS raadioside operaatori (GOC) kursus)
+	* **51** [[VLL0600]] Mereside (GMDSS raadioside operaatori (GOC) kursus)
+	* **51** [[VLK0200]] Külmutustehniliste torusüsteemide montaaž ja remont
+	* **51** [[TMO1110]] Magistriseminar (juhtimine, inimressursi juhtimine)
+	* **51** [[TAX9090]] Majandusarvestuse teooria ja metodoloogia arendused
+	* **51** [[TAF1180]] Magistriseminar (majandusarvestus, audiitortegevus)
+	* **51** [[NGG8086]] Geoloogilised protsessid ja kivimid (välipraktikum)
+	* **51** [[MSE0130]] Soojustehniliste seadmete projekteerimine - projekt
+	* **51** [[KAT9010]] Separatsiooniprotsesside printsiibid ja tehnoloogia
+	* **51** [[ITC8050]] Küberjulgeoleku strateegia ja operatsioonide alused
+	* **51** [[HOR7005]] Rahvusvaheliste kaubandustehingute õiguslik analüüs
+	* **51** [[HHP1050]] Nüüdisaegne organisatsioonipsühholoogia ja -kultuur
+	* **51** [[EEA7060]] Linnaehituslik planeerimine. Planeerimisprojekt III
+	* **51** [[EAL0060]] Linnaehituslik planeerimine. Planeerimisprojekt III
+	* **51** [[DBR0270]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt
+	* **51** [[DBR0020]] Biomeditsiinitehnika ja meditsiinifüüsika - projekt
+	
+	== Longest English course names
+	* **109** [[HHI0016]] Institutional Context of Policymaking in Economics and Business: Russia and EU Neighbourhood Target Countries
+	* **108** [[HHI0018]] Culture, identity and ideology: essential insights for understanding Russia and Eastern partership countries
+	* **89** [[RAS0100]] Computation Methods in Chemical Engineering and Fundamentals of Chemical Processes Design
+	* **86** [[VLM0250]] Basics of Automatic Control and Elements of Automatic Control Systems. Instrumentation
+	* **84** [[HHI1421]] Business Strategies. Business Planning, Product and Service Planning and Development
+	* **82** [[TSP1025]] China's Political and Economic Relations with Russia and the US in 20-21 Centuries
+	* **82** [[IDX9022]] Applications of Artificial Intelligence in Information and Knowledge Based Systems
+	* **82** [[IDX9020]] Applications of Artificial Intelligence in Information and knowledge based systems
+	* **80** [[TSP1024]] Security Policy in the Far-East in the 2nd half of the 20th and the 21th Century
+	* **80** [[MLM5126]] Selection and Installation of Internal Combustion Engines and Propulsion Devices
+	* **80** [[IAG0650]] Design and Development of Data Exchange Layer for Government Information Systems
+	* **80** [[HHL1081]] Demystifying the collaborative economy: capitalism, commons and future scenarios
+	* **80** [[EEA7411]] Urban Planning Studio. Planning Project LI. Low Rise High Density Living Quarter
+	* **80** [[EAL0010]] Urban Planning Studio. Planning Project LI. Low Rise High Density Living Quarter
+	* **79** [[VLL0050]] The Operational Use of Electronic Chart Display and Information Systems (ECDIS)
+	* **79** [[HHI0021]] Legal systems in Russia and Eastern partnership countries: comparative approach
+	* **77** [[MI.0041]] Estimation of energy wood resources and production technologies of wood fuels
+	* **74** [[VLM0200]] Seapractice for Qualification of Officer in Charge of an Engineering Watch
+	* **74** [[HPP8310]] Orientation: introduction to work, organisational and personnel psychology
+	* **73** [[VLK0370]] Final exam: Refrigerating Control Equipment and Automatic Control Systems
+	* **73** [[VLK0230]] Final exam: Refrigerating Control Equipment and Automatic Control Systems
+	* **72** [[HPP8233]] Internal Security Structure Organizations and Paramilitary Organizations
+	* **72** [[EEA7412]] Urban Planning Studio. Planning Project LII. Open Space, Square Planning
+	* **72** [[EAL0020]] Urban Planning Studio. Planning Project LII. Open Space, Square Planning
+	* **71** [[KYF0100]] Specialized Information Retrieval in Chemistry and Materials Technology
+	* **71** [[HHM1070]] Policy Skills: Strategic Management, Policy Analysis and Lesson-Drawing
+	* **71** [[HHM1030]] Policy Skills: Strategic Management, Policy Analysis and Lesson-Drawing
+	* **71** [[BCU5000]] Special project in landscape architecture: interdisciplinary challenges
+	* **71** [[BCU4970]] Landscape Project VIII: Strategies and plans for complicated landscapes
+	* **69** [[IED9010]] Electronics Components II: Scattering and Transport in Semiconductors
+	* **69** [[HPP8234]] Practical Problems in PM in Internal Security Structure Organizations
+	* **69** [[BCU4680]] Work placement of the speciality of Services Marketing and Management
+	* **68** [[TMO1110]] Master Degree Course Worksop (management, human resource management)
+	* **68** [[MTAT.07.018]] History of Art of War: From Ancient World to Network-Centric Warfare
+	* **68** [[IED9000]] Electronics Components I: Problems of Modern Solid State Electronics
+	* **68** [[ETV7032]] Analysis and Re-engineering of Supply Chain Processes - course paper
+	* **67** [[VMF0280]] Environmental Impact Assessment and Environmental Management System
+	* **67** [[RAS0130]] Complementary chapters of fuel technology processes and apparatures
+	* **67** [[KMX0550]] CAD/CAM Technology in Woodworking and Plastics Industry Enterprises
+	* **67** [[KAT7023]] Student with Learning and Behavioural Difficulties in the Classroom
+	* **67** [[IDU0310]] Internet of Things Solutions: Smart Devices, Processes and Services
+	* **67** [[DMK1060]] Legislative Regulation of Occupational Health and Safety in Estonia
+	* **66** [[IDU0110]] Digital Strategy of an Organisation and Business Process modelling
+	* **66** [[EEA7040]] Urban Planning. Planning Project I. Energy Efficient Urban Quarter
+	* **66** [[EAL0040]] Urban Planning. Planning Project I. Energy Efficient Urban Quarter
+	* **65** [[VLK0380]] Final exam: Construction and Operation of Refrigerating Equipment
+	* **65** [[VLK0180]] Final exam: Construction and Operation of Refrigerating Equipment
+	* **65** [[KMM0470]] Recycling and Energy Recovery of Wood, Textile and Plastic Wastes
+	* **65** [[HPI0380]] Didactics of Teaching Engineering - Engineering Pedagogy Practice
+	* **65** [[HHR9020]] Advanced Seminar in Local Self-government and Regional Management
+	* **65** [[EEA7020]] Architectural Project II. Important Building in Urban Environment
+	* **65** [[EAA0240]] Architectural Project II. Important Building in Urban Environment
+	* **64** [[VLK0132]] Refrigerating Control Equipment and Automatic Control Systems II
+	* **64** [[SKK1410]] Shipbuilding Technology for Small Craft. Assembly of Small Craft
+	* **64** [[IDU0192]] Process Engineering in Information Systems Development - project
+	* **64** [[HPP8370]] Assessment and Measurement in Work and Organizational Psychology
+	* **64** [[HHL8011]] The State and Public Administration in Classical China and Islam
+	* **63** [[VLK0131]] Refrigerating Control Equipment and Automatic Control Systems I
+	* **63** [[RAS0060]] Environmental Risk Assesment and Ecotoxicology in Fuel Industry
+	* **63** [[NTM1630]] Community and economic development, and municipality management
+	* **63** [[MSJ9020]] Fuel Burning New Technologies and Combined Thermal Power Plants
+	* **63** [[IDN9040]] Business Intelligence and Data Mining: Methods and Applications
+	* **63** [[IDK1651]] Business Critical Information System Development Using Progress
+	* **63** [[HOR7006]] Introduction to Litigation and Arbitration in the United States
+	* **63** [[ELP0030]] Business Environment for Logistics and Transportation Companies
+	* **63** [[BCU1180]] Urban Residental Environment and Housing Process - Course Paper
+	* **63** [[AAV9110]] Individual Learning of Power Engineering and Electricity Supply
+	* **62** [[VMS0210]] Financing Activity of Maritime Transport Company, Basic Course
+	* **62** [[VLK0200]] Refrigeration Systems Piping Installation, Maintenance, Repair
+	* **62** [[NGG8039]] Geomaterials and Physical-Chemical Research Methods in Geology
+	* **62** [[KMX0560]] CAD/CAM Technology in Furniture, Plastics and Garment Industry
+	* **62** [[HOE7140]] Legal Regime and Protection of Information Technology Products
+	* **62** [[HHA1500]] Case Studies in Business, Government and International Economy
+	* **62** [[EEA7050]] Urban Planning. Planning Project II. Planning in a City Centre
+	* **62** [[EAL0050]] Urban Planning. Planning Project II. Planning in a City Centre
+	* **61** [[NSO9096]] Teaching and practical skills in oceanography and meteorology
+	* **61** [[IRT0160]] Telecommunication Services and Network Application Frameworks
+	* **61** [[HPP8270]] Personnel selection and classification in security structures
+	* **61** [[AES0360]] Feasibility Studies of Distributed Power Generation - project
+	* **60** [[VLM0210]] Instrumentation Automatic Control Systems. Automatic Control
+	* **60** [[VAY0080]] Mathematical Analysis (FSV - Functions of Several Variables)
+	* **60** [[IDU0200]] Web-based Applications - Architecture, Desing and Technology
+	* **60** [[HOL7020]] Methods and practice of implementation of European Union Law
+	* **60** [[DMK1022]] Principles of anatomy, disease and medical aid with practice
+	* **60** [[BCU4450]] Basics of Environmental Planning and Environmental Economics
+	* **59** [[VLK0360]] Final exam: Mounting and Repair of Refrigerating Facilities
+	* **59** [[VLK0220]] Final exam: Mounting and Repair of Refrigerating Facilities
+	* **59** [[TSP1037]] Chinese Society and Politics in the 20th and 21st Centuries
+	* **59** [[TSP1027]] Chinese Society and Politics in the 20th and 21st Centuries
+	* **59** [[NSO8051]] Seminar in Oceanography and Meteorology for Master Students
+	* **59** [[NGG9060]] Geological Processes and Physical-Chemical Methods of Study
+	* **59** [[MSE0031]] Computing and Information Technology in Thermal Engineering
+	* **59** [[KAK0047]] Advanced Processes of Environmental Technology - Laboratory
+	* **59** [[IDU3192]] Team Management in Developing Information Systems - Project
+	* **59** [[IDU0040]] Strategic Management and Development of Information Systems
+	* **59** [[HPP8275]] Personnel management and development in security structures
+	* **59** [[HOL6028]] Law and Policy of the Area of Freedom, Security and Justice
+	* **59** [[HOE7120]] Rights, Obligations and Liability of Actors on the Internet
+	* **59** [[HOE7040]] Technology and the individual: ethics of law and technology
+	* **59** [[HOA6022]] Legal Norm and Application of Norm: Legal and Social Aspect
+	* **59** [[HHI1410]] History of Economic Policy and Theory of Uneven Development
+	* **59** [[HHA1410]] History of Economic Policy and Theory of Uneven Development
+	* **59** [[EEA7392]] Architectural Project ÜII. Small Public Building - Pavilion
+	* **59** [[EAA0180]] Architectural Project ÜII. Small Public Building - Pavilion
+	* **58** [[TTK0010]] Introduction to Environmental Policy and Environmental Law
+	* **58** [[TMK1200]] Project Management, Presentation and Intellectual Property
+	* **58** [[IXX9520]] Preparation and Explanation of Research Grant Applications
+	* **58** [[HPP8450]] Occupational Health Psychology and Quality of Working Life
+	* **58** [[HOR7003]] Case Studies in International Humanitarian and Refugee Law
+	* **58** [[HHF0023]] Contemporary scientific thinking and philosophical methods
+	* **58** [[EKK0240]] High Performance City District and Buildings Facade Design
+	* **58** [[EER8412]] Special Course of Reinforced Concrete Structures - project
+	* **57** [[YXX0010]] Science of Risk and Safety in Chemistry and Biotechnology
+	* **57** [[VLK0063]] Construction and Operation of Refrigerating Equipment III
+	* **57** [[TTR1050]] Economy of Nature Exploitation and Environment Protection
+	* **57** [[TSK1300]] Cross-Cultural Communication in International Environment
+	* **57** [[TMT1190]] Occupational Health and Safety Management in Organisation
+	* **57** [[TMJ1210]] International Business Opportunities in the Baltic Region
+	* **57** [[NTK0840]] Use and protection of natural resources in European Union
+	* **57** [[ITX8210]] Methods of Security Incident Handling and Cyber Forensics
+	* **57** [[ITX8110]] Introduction to Combinatorics and Elementary Cryptography
+	* **57** [[ITX8090]] Information and Cyber Security Assurance in Organisations
+	* **57** [[IDU1601]] Information Systems and their Social and Economic Aspects
+	* **57** [[IDU0425]] Methodology for e-governance Implementation and Marketing
+	* **57** [[IAF9130]] Decision Diagrams and Applications in Digital Diagnostics
+	* **57** [[HPP8550]] New Research Trends in Work and Organizational Psychology
+	* **57** [[HPP8231]] Strategic PM in Internal Security Structure Organizations
+	* **57** [[HHP1050]] Modern Organisational Psychology and Organisation Culture
+	* **57** [[EEK0026]] Construction Elements for Architects, Structural Concrete
+	* **57** [[BCU4960]] Landscape Project VII: Construction and vertical planning
+	* **56** [[YKA0030]] Quality System and Control in Laboratory and in Industry
+	* **56** [[VMF0120]] Technological Processes and Equipment of Fish Processing
+	* **56** [[VME0120]] Environmental pollution prevention and pollution control
+	* **56** [[VLM0010]] Development Trends of Modern Marine Propulsion Machinery
+	* **56** [[VLK0062]] Construction and Operation of Refrigerating Equipment II
+	* **56** [[RAR0130]] Product Development Management and Company Establishment
+	* **56** [[NTK0762]] Environmental consciousness and education - course paper
+	* **56** [[KYF9020]] Special Course in Chemical Kinetics and Enzyme Catalysis
+	* **56** [[KMT0480]] Technology and Equipment of Textile and Garment Industry
+	* **56** [[KMM0460]] Recycling and Energy Recovery of Wood and Plastic Wastes
+	* **56** [[ITV0040]] Network Applications II - Distributed Systems Technology
+	* **56** [[ITI8530]] Formal Methods in Embedded Real-Time Systems Development
+	* **56** [[IDK0062]] The C Language and Object-oriented Programming - project
+	* **56** [[HOA6018]] Regulatory Aspects of Health and Safety in the Workplace
+	* **56** [[HHR2030]] Local Government - Introduction to Economics and Finance
+	* **56** [[HHI0132]] techEstonia - Innovation lab of an Entrepreneurail State
+	* **55** [[VLM0220]] Operation and Maintenance of Ships Electrical Equipment
+	* **55** [[VLK0061]] Construction and Operation of Refrigerating Equipment I
+	* **55** [[TTP1040]] European Union Economic Policy and Business Environment
+	* **55** [[TSS1051]] Sustainable Development Policy: Multi-method Case Study
+	* **55** [[TSE0030]] The European Union's Common Foreign and Security Policy
+	* **55** [[TMT1100]] Styles and design of working environment and ergonomics
+	* **55** [[TER9230]] Financial Institution Analysis and Financial Management
+	* **55** [[RAH0820]] Foreign Language for Science and Speciality Terminology
+	* **55** [[MHT0014]] Measurements in Mechanical Engineering and Mechatronics
+	* **55** [[KXX9150]] Graduate Seminar in Chemical and Materials Technology 3
+	* **55** [[KXX9140]] Graduate Seminar in Chemical and Materials Technology 2
+	* **55** [[KXX9130]] Graduate Seminar in Chemical and Materials Technology 1
+	* **55** [[KAT3182]] Design Projects in Fundamentals of Chemical Engineering
+	* **55** [[HPP8460]] Personnel planning, selection and performance appraisal
+	* **55** [[HPP8320]] Ethics and Values in Work and Organizational Psychology
+	* **55** [[HOX7011]] International and European Energy and Environmental Law
+	* **55** [[HOR7005]] Legal Analysis of International Commercial Transactions
+	* **55** [[HOE7100]] Cycle of guest lectures: Law and Technology in practice
+	* **55** [[HHA1430]] Financial Policies, Innovation and Economic Development
+	* **55** [[ETV7010]] Int'l Supply Chain Network Design and Resource Planning
+	* **55** [[DMK1600]] Master's Practice in cooperation with industry partners
+	* **55** [[DKE1050]] Master's Practice in Cooperation with Industry Partners
+	* **54** [[YTD0080]] Ethical, Legal and Business Aspects in Gene Technology
+	* **54** [[VMV0380]] Environmental Protection and Ecology of Coastal Waters
+	* **54** [[TSS1061]] Urban Economic Environment and Sustainable Development
+	* **54** [[TSP1026]] Foreign Policy of China in the 20th and 21st Centuries
+	* **54** [[SKK1090]] Practical Training for Preparing of the Diploma Thesis
+	* **54** [[PK.1533]] Agro-biomass resources for renewable energy production
+	* **54** [[NTU0030]] Revision of Productive Skills in the Estonian language
+	* **54** [[KXX9120]] Doctoral Course in Chemical and Materials Technology 3
+	* **54** [[KXX9110]] Doctoral Course in Chemical and Materials Technology 2
+	* **54** [[KXX9100]] Doctoral Course in Chemical and Materials Technology 1
+	* **54** [[KMT0090]] Working Environment and Ergonomics in Garment Industry
+	* **54** [[KAK0020]] Chemical Process Industries and Sustainable Technology
+	* **54** [[IDU0191]] Process Engineering in Information Systems Development
+	* **54** [[IDU0172]] Technology of Information System Development - Project
+	* **54** [[HLE6060]] Revision of Productive Skills in the Estonian Language
+	* **54** [[EMX9034]] Environmental and Coastal Engineering Special Study II
+	* **54** [[ELT0080]] Inventory Management and Collaboration in Supply Chain
+	* **54** [[BCU3690]] Work placement of speciality of International Business
+	* **53** [[VME0150]] Hydrodynamics and seagoing characteristics of vessels
+	* **53** [[RAR0693]] Process and Equipment of Fuel Industry - Course Paper
+	* **53** [[RAK0240]] Process and Equipment of Fuel Industry - Course Paper
+	* **53** [[MEA5120]] Small Craft Electrical Systems and Navigation Devices
+	* **53** [[KXX9080]] Graduate Seminar in Chemical and Materials Technology
+	* **53** [[KXX9070]] Doctor's Course in Chemistry and Materials Technology
+	* **53** [[IRT0100]] Telecommunications Networks - Structures and Services
+	* **53** [[IDU9020]] Advanced Topics of Information Systems Development II
+	* **53** [[IDU1652]] Project Management in Information Systems Development
+	* **53** [[IAF9550]] Fault Location and Error Diagnosis in Digital Systems
+	* **53** [[HOR7008]] Negotiation and Client Relations in the Legal Context
+	* **53** [[HOR7002]] International and European Protection of Human Rights
+	* **53** [[HHR1040]] Local Self-government and Structural Policy in the EU
+	* **53** [[ETV7031]] Analysis and Re-engineering of Supply Chain Processes
+	
+keep-ts: 1455946356
 host: 85.253.177.126
-username: AlexDaniel
-revision: 3
-languages: 
+lastmajorsummary: Some interesting findings (more) (and more)
