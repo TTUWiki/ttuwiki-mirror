@@ -1,6 +1,11 @@
-username: AlexDaniel
-ts: 1455946621
+languages: 
+host: 85.253.177.126
+summary: Some interesting findings (more) (and more) (and more)
+lastmajor: 5
+ts: 1455946882
 text: Every time I dig into ÕIS I face lots of interesting things. At some point I decided that it would make sense to share these things, so I started this page. I'll keep other interesting facts and stats here too.
+	
+	If you have ideas for other interesting stats then please leave a comment.
 	
 	== Names with a dot
 	It seems like lecturer names are free-written and are not linked to actual accounts. For example, one of the courses lists **M. Pihlak** ([[TEM0324]]) when **Margus Pihlak** was probably meant.
@@ -574,10 +579,7 @@ text: Every time I dig into ÕIS I face lots of interesting things. At some poin
 	* **4** [[RAR1160]] Side
 	
 minor: 1
-languages: 
-lastmajor: 5
-keep-ts: 1455946621
 lastmajorsummary: Some interesting findings (more) (and more) (and more)
-summary: Some interesting findings (more) (and more) (and more)
-revision: 6
-host: 85.253.177.126
+revision: 7
+keep-ts: 1455946882
+username: AlexDaniel
