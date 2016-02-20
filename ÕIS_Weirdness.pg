@@ -1,10 +1,5 @@
-revision: 4
-languages: 
-ts: 1455946356
-username: AlexDaniel
-summary: Some interesting findings (more) (and more)
-lastmajor: 4
-minor: 
+revision: 5
+lastmajorsummary: Some interesting findings (more) (and more) (and more)
 text: Every time I dig into ÕIS I face lots of interesting things. At some point I decided that it would make sense to share these things, so I started this page.
 	
 	== Names with a dot
@@ -562,6 +557,27 @@ text: Every time I dig into ÕIS I face lots of interesting things. At some poin
 	* **53** [[HHR1040]] Local Self-government and Structural Policy in the EU
 	* **53** [[ETV7031]] Analysis and Re-engineering of Supply Chain Processes
 	
-keep-ts: 1455946356
+	== Shortest course names
+	Other course names are very short.
+	
+	English names:
+	* **3** [[EEA7120]] BIM
+	* **4** [[SKK0910]] Sale
+	
+	Estonian names:
+	* **3** [[EEA7120]] BIM
+	* **4** [[EKK0011]] Küte
+	* **4** [[EKK0200]] Küte
+	* **4** [[IRT3930]] Side
+	* **4** [[NTR0050]] Side
+	* **4** [[RAR0470]] Side
+	* **4** [[RAR1160]] Side
+	
+minor: 
+username: AlexDaniel
+keep-ts: 1455946591
+summary: Some interesting findings (more) (and more) (and more)
+languages: 
 host: 85.253.177.126
-lastmajorsummary: Some interesting findings (more) (and more)
+lastmajor: 5
+ts: 1455946591
