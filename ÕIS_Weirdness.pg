@@ -1,4 +1,6 @@
-languages: 
+lastmajorsummary: Some interesting findings (more)
+lastmajor: 3
+ts: 1455945744
 text: Every time I dig into ÕIS I face lots of interesting things. At some point I decided that it would make sense to share these things, so I started this page.
 	
 	== Names with a dot
@@ -57,13 +59,100 @@ text: Every time I dig into ÕIS I face lots of interesting things. At some poin
 	* **22** Hanna Kaarina Pohjonen ([[DMK9030]], [[DMK1500]], [[DMK1100]], [[DMK1014]])
 	* **22** Ahti Veikko Pietarinen ([[HHL0042]], [[HHF9030]], [[HHF1030]])
 	
+	== List of courses with characters other than A-Z 0-9
+	* [[ARFS.01.016]]
+	* [[ETTÜ71000]]
+	* [[ETTÜ71001]]
+	* [[ETTÜ71002]]
+	* [[ETTÜ71003]]
+	* [[ETTÜ71004]]
+	* [[ETTÜ71006]]
+	* [[ETTÜ71007]]
+	* [[ETTÜ71008]]
+	* [[ETTÜ71009]]
+	* [[ETTÜ71010]]
+	* [[ETTÜ71011]]
+	* [[ETTÜ71013]]
+	* [[ETTÜ71014]]
+	* [[FLFI.02.117]]
+	* [[LOFY.01.098]]
+	* [[LOFY.01.116]]
+	* [[LOFY.01.118]]
+	* [[LOFY.01.125]]
+	* [[LOFY.01.126]]
+	* [[LOFY.01.127]]
+	* [[LOFY.01.129]]
+	* [[LOFY.01.130]]
+	* [[LOFY.01.131]]
+	* [[LOFY.01.133]]
+	* [[LOFY.01.134]]
+	* [[LOFY.01.135]]
+	* [[LOFY.01.146]]
+	* [[LOFY.01.147]]
+	* [[LOFY.02.034]]
+	* [[LOKT.02.045]]
+	* [[LOKT.02.046]]
+	* [[MI.0041]]
+	* [[MI.0118]]
+	* [[MI.0408]]
+	* [[MJJV.03.158]]
+	* [[MJJV.10.033]]
+	* [[MJJV.11.001]]
+	* [[MJRI.10.035]]
+	* [[MTAT.00.023]]
+	* [[MTAT.00.028]]
+	* [[MTAT.03.083]]
+	* [[MTAT.03.159]]
+	* [[MTAT.03.174]]
+	* [[MTAT.03.183]]
+	* [[MTAT.03.190]]
+	* [[MTAT.03.206]]
+	* [[MTAT.03.229]]
+	* [[MTAT.03.231]]
+	* [[MTAT.03.238]]
+	* [[MTAT.03.240]]
+	* [[MTAT.03.243]]
+	* [[MTAT.03.244]]
+	* [[MTAT.03.245]]
+	* [[MTAT.03.246]]
+	* [[MTAT.03.247]]
+	* [[MTAT.03.248]]
+	* [[MTAT.03.262]]
+	* [[MTAT.03.266]]
+	* [[MTAT.03.270]]
+	* [[MTAT.03.280]]
+	* [[MTAT.03.295]]
+	* [[MTAT.03.306]]
+	* [[MTAT.03.307]]
+	* [[MTAT.03.308]]
+	* [[MTAT.05.008]]
+	* [[MTAT.07.002]]
+	* [[MTAT.07.003]]
+	* [[MTAT.07.004]]
+	* [[MTAT.07.014]]
+	* [[MTAT.07.015]]
+	* [[MTAT.07.016]]
+	* [[MTAT.07.017]]
+	* [[MTAT.07.018]]
+	* [[MTAT.07.019]]
+	* [[MTAT.07.020]]
+	* [[MTAT.07.022]]
+	* [[MTAT.07.024]]
+	* [[MTAT.08.004]]
+	* [[MTAT.08.021]]
+	* [[MTAT.08.027]]
+	* [[MTAT.08.308]]
+	* [[OIAO.05.070]]
+	* [[OIEO.06.052]]
+	* [[PK.1533]]
+	* [[SHUH.02.001]]
+	* [[TE.0004]]
+	* [[VL.0811]]
 	
-summary: Some interesting findings
-keep-ts: 1455945231
+minor: 
+summary: Some interesting findings (more)
+keep-ts: 1455945744
 host: 85.253.177.126
-lastmajor: 1
-revision: 2
-lastmajorsummary: Some interesting findings
-ts: 1455945231
 username: AlexDaniel
-minor: 1
+revision: 3
+languages: 
