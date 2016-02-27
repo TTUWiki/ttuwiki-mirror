@@ -1,13 +1,13 @@
-keep-ts: 1456584020
-summary: 
-username: Ain_Laidoja
-revision: 12
-flags: 1
-host: 86.110.37.246
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
-minor: 
 lastmajorsummary: 
+keep-ts: 1456584080
+ts: 1456584080
+summary: 
 languages: 
+minor: 
+lastmajor: 13
+revision: 13
+username: Ain_Laidoja
+host: 86.110.37.246
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -28,9 +28,7 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	 
 	#[http://www.energiatalgud.ee/img_auth.php/a/ae/Keskkonnainvesteeringute_Keskus._Eesti_P%C3%B5levkivi%C3%B5li_tootmise_parim_v%C3%B5imalik_tehnika._2013.pdf Eesti Põlevkiviõli tootmise parim võimalik tehnika] Estivo, 2013
 	#[http://www.energiatalgud.ee/img_auth.php/4/4f/Konist,_A._P%C3%B5levkivi%C3%B5li_tootmisel_tekkiva_uttegaasi_kasutusv%C3%B5imaluste_uuring.pdf Põlevkiviõli tootmisel tekkiva uttegaasi kasutusvõimaluste uuring] Alar Konist, 2014
-	#[http://digi.lib.ttu.ee/i/file.php?DLID=1918&t=1 Eesti põlevkivi töötlemine] Mäeinseneride õppematerjal 2015
+	#[http://digi.lib.ttu.ee/i/?1918 Eesti põlevkivi töötlemine] Mäeinseneride õppematerjal 2015
 	
 	==Upcoming events
 	
-ts: 1456584020
-lastmajor: 12
