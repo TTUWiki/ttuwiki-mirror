@@ -1,13 +1,6 @@
-lastmajorsummary: 
-keep-ts: 1456584080
-ts: 1456584080
-summary: 
 languages: 
 minor: 
-lastmajor: 13
-revision: 13
-username: Ain_Laidoja
-host: 86.110.37.246
+blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -32,3 +25,12 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	
 	==Upcoming events
 	
+lastmajorsummary: 
+lastmajor: 13
+summary: 
+ts: 1456584080
+keep-ts: 1456584080
+revision: 13
+flags: 1
+host: 86.110.37.246
+username: Ain_Laidoja
