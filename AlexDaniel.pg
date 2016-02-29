@@ -1,11 +1,19 @@
-ts: 1454007412
-ip: 89.235.239.240
-lastmajorsummary: ✓
+lastmajor: 13
+username: AlexDaniel
+ts: 1456713535
+host: 85.253.110.192
+minor: 
 text: Поступил в 2013-ом на ÄriIT.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
-	== Осенний семетр 2015-го года
+	== 2016
+	В этом семестре взял:
+	
+	* [[TMK1250]] Toote ja teenuse arendamine
+	
+	== 2015-2016
+	
 	Расписание моей группы: [Timetable:37672 IABB51]
 	
 	В этом семестре взял:
@@ -24,11 +32,9 @@ text: Поступил в 2013-ом на ÄriIT.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-minor: 
-username: AlexDaniel
+lastmajorsummary: TMK1250
+summary: TMK1250
+keep-ts: 1456713535
+ip: 89.235.239.240
+revision: 13
 languages: 
-summary: ✓
-host: 85.253.177.126
-lastmajor: 12
-keep-ts: 1454007412
-revision: 12
