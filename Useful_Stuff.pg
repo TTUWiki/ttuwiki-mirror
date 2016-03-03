@@ -1,8 +1,10 @@
-lastmajor: 38
-host: 85.253.110.192
+lastmajor: 39
+minor: 
+lastmajorsummary: Akadeemiline kirjutamine
+summary: Akadeemiline kirjutamine
 languages: 
-keep-ts: 1456508273
-username: AlexDaniel
+revision: 39
+ts: 1456999375
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -82,6 +84,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* http://www.ttu.ee/public/t/tudengile/Finantsinfo/Oppetoetused_stipendiumid.pdf - отличный документ, всем стоит его прочитать.
 	
 	=== Thesis / Lõputöö / Дипломные работы
+	* http://www.ttu.ee/tudengile/oppeinfo/akadeemiline-kirjutamine/
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/informaatikainstituut-6/lopetajale-13/olulised-kuupaevad-6 – Informaatikainstituut
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/arvutiteaduse-instituut/at-tudengile/lopetamine-2/teema-ja-juhendaja/
 	
@@ -203,8 +206,6 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-ts: 1456508273
-lastmajorsummary: Teema ja juhendaja (IT only)
-minor: 
-revision: 38
-summary: Teema ja juhendaja (IT only)
+username: AlexDaniel
+host: 85.253.110.192
+keep-ts: 1456999375
