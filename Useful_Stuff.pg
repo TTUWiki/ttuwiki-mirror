@@ -1,10 +1,7 @@
-lastmajor: 39
-minor: 
-lastmajorsummary: Akadeemiline kirjutamine
-summary: Akadeemiline kirjutamine
+ts: 1457270264
 languages: 
-revision: 39
-ts: 1456999375
+revision: 40
+lastmajor: 40
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -87,6 +84,9 @@ text: === This wiki / Veebilehest / О сайте:
 	* http://www.ttu.ee/tudengile/oppeinfo/akadeemiline-kirjutamine/
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/informaatikainstituut-6/lopetajale-13/olulised-kuupaevad-6 – Informaatikainstituut
 	* http://www.ttu.ee/infotehnoloogia-teaduskond/arvutiteaduse-instituut/at-tudengile/lopetamine-2/teema-ja-juhendaja/
+	* http://www.dcc.ttu.ee/ReinP/L%F5put%F6%F6de%20koostamine.htm **Rein Paluoja**
+	* http://tepandi.ee/juhendatavatele.pdf  **Jaak Tepandi**
+	* http://www.ttu.ee/public/u/uliopilasesindus/Tegevus/Valdkonnad/Haridusvaldkond/Loputoo_vead.pdf **Ann Vihalem**
 	
 	=== Blogs / Blogid / Блоги
 	* [[http://kumlander.blogspot.com.ee/ Russian]] and [[http://kumlandereng.blogspot.com.ee/ English]] blogs by [[Employee:Deniss Kumlander]] – very valuable information expressed in a honest way.
@@ -206,6 +206,9 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-username: AlexDaniel
-host: 85.253.110.192
-keep-ts: 1456999375
+summary: 
+keep-ts: 1457270264
+host: 84.50.11.5
+username: 
+lastmajorsummary: 
+minor: 
