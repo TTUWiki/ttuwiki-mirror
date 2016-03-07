@@ -1,11 +1,7 @@
-ts: 1455474890
+lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
 lastmajor: 17
-keep-ts: 1455474890
-languages: 
-ip: 89.235.235.166
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-revision: 19
-username: AlexDaniel
+summary: комменты в один
+ts: 1455474890
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -58,8 +54,12 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-minor: 1
-host: 85.253.177.126
-summary: комменты в один
-lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
 flags: 1
+keep-ts: 1455474890
+ip: 89.235.235.166
+revision: 19
+host: 85.253.177.126
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+minor: 1
