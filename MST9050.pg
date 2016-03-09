@@ -1,18 +1,18 @@
-lastmajor: 5
-ip: 89.235.235.166
+languages: 
+host: 86.110.37.246
+flags: 1
 summary: 
-blocks: 
+username: Ain_Laidoja
+ip: 89.235.235.166
+keep-ts: 1455971202
+blocks: [Course:100081 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
 ts: 1455971202
-minor: 
+revision: 5
 text: #SUBTITLE Soojusfüüsika erikursus
 	#SUBURL [Course:100081 〔Õppeaine ÕIS-is〕]
 	
 	[https://www.ttu.ee/public/m/Mehaanikateaduskond/Instituudid/soojustehnika-instituut/oppematerjalid/MST_9050_Sofy_Valitud_peatukke.pdf Õppematerjal]
 	
-keep-ts: 1455971202
-revision: 5
-username: Ain_Laidoja
-languages: 
-host: 86.110.37.246
-flags: 
-lastmajorsummary: 
+lastmajor: 5
+minor: 
