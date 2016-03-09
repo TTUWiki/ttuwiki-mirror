@@ -1,10 +1,11 @@
+lastmajor: 44
+keep-ts: 1457561199
+summary: https://mois.ttu.ee/ !!!
 minor: 
-languages: 
-keep-ts: 1457368765
-revision: 43
-host: 85.253.110.192
-ts: 1457368765
-lastmajorsummary: http://digi.lib.ttu.ee/search/
+revision: 44
+lastmajorsummary: https://mois.ttu.ee/ !!!
+username: AlexDaniel
+ts: 1457561199
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -52,6 +53,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	=== University / Ülikool / Университет:
 	#ENG
+	* https://mois.ttu.ee/ – mobile version of ÕIS. **Much faster**.
 	* [[Lifehacks]]
 	* [[Subdomains]] – all these links that you always forget.
 	* [[EAP]] – all about EAP.
@@ -59,6 +61,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor]] – funny links and stories.
 	
 	#EST
+	* https://mois.ttu.ee/ – mobiilne versioon. **Väga kiire**
 	* [[Lifehacks| Lifehack-id]]
 	* [[Subdomains|Alldomeenid]] –  need lingid, mida kunagi ei viitsi otsida.
 	* [[EAP]] – Natukene infot Euroopa ainepunktidest.
@@ -66,6 +69,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor|Huumor]] – lõbusad lingid ja lood.
 	 
 	#RUS
+	* https://mois.ttu.ee/ – мобильная версия ÕIS-а. **Очень быстро** работает.
 	* [[Lifehacks|Хитрости и прочее]]
 	* [[Subdomains|Поддомены]] – те самые ссылки, которые всегда лень искать.
 	* [[EAP]] – немного информации про ЕАП.
@@ -211,6 +215,5 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajor: 43
-username: AlexDaniel
-summary: http://digi.lib.ttu.ee/search/
+host: 85.253.110.192
+languages: 
