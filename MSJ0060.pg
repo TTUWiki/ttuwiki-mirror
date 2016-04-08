@@ -1,25 +1,24 @@
-host: 86.110.37.246
-revision: 5
-ts: 1443076042
-keep-ts: 1443076042
-languages: 
 ip: 89.235.235.166
-minor: 
-flags: 1
+languages: 
+ts: 1460103339
 summary: 
+keep-ts: 1460103339
 lastmajorsummary: 
-lastmajor: 5
-username: Ain_Laidoja
 text: #SUBTITLE Soojuselektrijaamad
 	#SUBURL [Course:31105 〔Õppeaine ÕIS-is〕]
+	
+	==Õppematerjal
+	
+	Õppematerjal on SALASTATUD
+	
 	
 	==Kirjandus
 	
 	#Рыжкин В.Я. Тепловые электрические станции. – М.: Энергоатомиздат, 1987, 328 с. http://www.plib.ru/library/book/15633.html
 	#Рихтер Л.А., Елизаров Д.П., Лавыг
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Kirjandus<br />&gt; #Рыжкин В.Я. Тепловые электрические станции. – М.: Энергоатомиздат</strong>, <strong class="changes">1987, 328 с. http://www.plib.ru/library/book/15633.html<br />&gt; #Рихтер Л.А., Елизаров Д</strong>.<strong class="changes">П., Лавыг</strong></p></div>
-diff-major: 1
-blocks: [Course:31105 〔Õppeaine ÕIS-is〕]
+lastmajor: 6
+revision: 6
+username: 
+minor: 
+host: 193.40.25.254
