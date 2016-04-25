@@ -1,11 +1,6 @@
-lastmajor: 44
-keep-ts: 1457561199
-summary: https://mois.ttu.ee/ !!!
-minor: 
-revision: 44
-lastmajorsummary: https://mois.ttu.ee/ !!!
-username: AlexDaniel
-ts: 1457561199
+revision: 45
+lastmajor: 45
+host: 82.131.6.186
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -99,6 +94,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* http://ati.ttu.ee/?page=4721 Lõputöö koostamine ja vormistamine
 	=== Blogs / Blogid / Блоги
 	* [[http://kumlander.blogspot.com.ee/ Russian]] and [[http://kumlandereng.blogspot.com.ee/ English]] blogs by [[Employee:Deniss Kumlander]] – very valuable information expressed in a honest way.
+	* http://vaskaiabm.blogspot.com.ee/
 	
 	=== Tools
 	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – third-party app for viewing the timetables (**not free software 😞**)
@@ -215,5 +211,10 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-host: 85.253.110.192
 languages: 
+lastmajorsummary: http://vaskaiabm.blogspot.com.ee/
+ts: 1461568073
+summary: http://vaskaiabm.blogspot.com.ee/
+username: 
+minor: 
+keep-ts: 1461568073
