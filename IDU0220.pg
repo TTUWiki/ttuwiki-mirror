@@ -1,7 +1,8 @@
-lastmajorsummary: http://forum.webmasterschool.ru/tmp/sql.pdf Неплохая книга по SQL.
-lastmajor: 17
-summary: комменты в один
-ts: 1455474890
+username: Artur Gummel
+host: 89.235.198.110
+languages: 
+keep-ts: 1461859444
+summary: 
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -9,6 +10,8 @@ text: #SUBTITLE Andmebaasid I
 	Видеолекции по предмету:
 	
 	http://maurus.ttu.ee/ained/IDU3381_2005_KAUG/doc/77/Paevase_oppe_loengud_IDU0220_2014_05_20.html
+	
+	http://maurus.ttu.ee/ained/IDU0220_2015/doc/6/Loengud_IDU0220_2015_05_22.html
 	
 	== Лекции
 	Есть видеозаписи. Иногда можно получить дополнительные баллы. В общем-то можно и не посещать, работа на харьютусах куда важнее.
@@ -54,12 +57,9 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-flags: 1
-keep-ts: 1455474890
+lastmajorsummary: 
 ip: 89.235.235.166
-revision: 19
-host: 85.253.177.126
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-minor: 1
+revision: 20
+ts: 1461859444
+minor: 
+lastmajor: 20
