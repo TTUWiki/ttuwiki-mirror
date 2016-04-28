@@ -1,6 +1,11 @@
-flags: 1
-lastmajor: 12
+host: 89.235.198.110
+lastmajor: 13
 summary: 
+languages: 
+username: Artur Gummel
+ip: 89.235.235.166
+revision: 13
+keep-ts: 1461859555
 text: #SUBTITLE Andmebaasid II
 	#SUBURL [Course:100734 〔Õppeaine ÕIS-is〕]
 	
@@ -13,8 +18,9 @@ text: #SUBTITLE Andmebaasid II
 	
 	==Материалы
 	
-	[http://maurus.ttu.ee/ained/IDU0230_2015/doc/3/Loengud_IDU0230_2015_12_15.html Видеолекции по предмету]
 	Все еще находятся в [http://maurus.ttu.ee/aine_index.php?aine=347 маурусе]
+	
+	[http://maurus.ttu.ee/ained/IDU0230_2015/doc/3/Loengud_IDU0230_2015_12_15.html Видеолекции по предмету]
 	
 	Пример проекта:
 	http://maurus.ttu.ee/ained/IDU0230_2015/doc/2/Naidisprojekt_IDU0230_vastuvotuajad_ver4_7.pdf
@@ -23,13 +29,6 @@ text: #SUBTITLE Andmebaasid II
 	Тест по теории из 20 вопросов, обязательно нужно ответить на 10.
 	[https://files.ttuwiki.org//Kordamiskysimused_IDU0230_2015_ver_2_8.pdf Вопросы для повторения]
 	
-ip: 89.235.235.166
-revision: 12
-keep-ts: 1461859536
-ts: 1461859536
-languages: 
-blocks: [Course:100734 〔Õppeaine ÕIS-is〕]
 minor: 
-username: Artur Gummel
-host: 89.235.198.110
 lastmajorsummary: 
+ts: 1461859555
