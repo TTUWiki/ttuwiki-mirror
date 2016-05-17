@@ -1,13 +1,13 @@
-keep-ts: 1460103339
-languages: 
-minor: 
 blocks: [Course:31105 〔Õppeaine ÕIS-is〕]
-username: 
-host: 193.40.25.254
-ts: 1460103339
-ip: 89.235.235.166
+minor: 
 summary: 
+ip: 89.235.235.166
+username: 
+revision: 6
+flags: 1
+lastmajor: 6
 lastmajorsummary: 
+ts: 1460103339
 text: #SUBTITLE Soojuselektrijaamad
 	#SUBURL [Course:31105 〔Õppeaine ÕIS-is〕]
 	
@@ -21,6 +21,6 @@ text: #SUBTITLE Soojuselektrijaamad
 	#Рыжкин В.Я. Тепловые электрические станции. – М.: Энергоатомиздат, 1987, 328 с. http://www.plib.ru/library/book/15633.html
 	#Рихтер Л.А., Елизаров Д.П., Лавыг
 	
-flags: 1
-revision: 6
-lastmajor: 6
+languages: 
+keep-ts: 1460103339
+host: 193.40.25.254
