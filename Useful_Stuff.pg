@@ -1,6 +1,12 @@
-revision: 45
-lastmajor: 45
-host: 82.131.6.186
+username: AlexDaniel
+minor: 
+ts: 1465397097
+revision: 46
+summary: ÕIS 2
+lastmajor: 46
+host: 85.253.179.150
+languages: 
+keep-ts: 1465397097
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -49,6 +55,7 @@ text: === This wiki / Veebilehest / О сайте:
 	=== University / Ülikool / Университет:
 	#ENG
 	* https://mois.ttu.ee/ – mobile version of ÕIS. **Much faster**.
+	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks]]
 	* [[Subdomains]] – all these links that you always forget.
 	* [[EAP]] – all about EAP.
@@ -57,6 +64,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	#EST
 	* https://mois.ttu.ee/ – mobiilne versioon. **Väga kiire**
+	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks| Lifehack-id]]
 	* [[Subdomains|Alldomeenid]] –  need lingid, mida kunagi ei viitsi otsida.
 	* [[EAP]] – Natukene infot Euroopa ainepunktidest.
@@ -65,6 +73,7 @@ text: === This wiki / Veebilehest / О сайте:
 	 
 	#RUS
 	* https://mois.ttu.ee/ – мобильная версия ÕIS-а. **Очень быстро** работает.
+	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks|Хитрости и прочее]]
 	* [[Subdomains|Поддомены]] – те самые ссылки, которые всегда лень искать.
 	* [[EAP]] – немного информации про ЕАП.
@@ -211,10 +220,4 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-languages: 
-lastmajorsummary: http://vaskaiabm.blogspot.com.ee/
-ts: 1461568073
-summary: http://vaskaiabm.blogspot.com.ee/
-username: 
-minor: 
-keep-ts: 1461568073
+lastmajorsummary: ÕIS 2
