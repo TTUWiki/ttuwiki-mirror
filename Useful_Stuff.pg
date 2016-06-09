@@ -1,12 +1,13 @@
-username: AlexDaniel
-minor: 
-ts: 1465397097
-revision: 46
-summary: ÕIS 2
+username: Artur Gummel
+revision: 47
+ts: 1465456519
+summary: 
+keep-ts: 1465456519
 lastmajor: 46
-host: 85.253.179.150
+minor: 1
+host: 89.235.193.47
+lastmajorsummary: ÕIS 2
 languages: 
-keep-ts: 1465397097
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -72,7 +73,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor|Huumor]] – lõbusad lingid ja lood.
 	 
 	#RUS
-	* https://mois.ttu.ee/ – мобильная версия ÕIS-а. **Очень быстро** работает.
+	* [https://mois.ttu.ee/uusois/uus_ois2.mob_leht https://mois.ttu.ee/] – мобильная версия ÕIS-а. **Очень быстро** работает.
 	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks|Хитрости и прочее]]
 	* [[Subdomains|Поддомены]] – те самые ссылки, которые всегда лень искать.
@@ -220,4 +221,3 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajorsummary: ÕIS 2
