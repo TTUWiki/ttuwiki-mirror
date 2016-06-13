@@ -1,13 +1,11 @@
-username: Artur Gummel
-revision: 47
-ts: 1465456519
+host: 193.40.250.232
+revision: 48
 summary: 
-keep-ts: 1465456519
-lastmajor: 46
-minor: 1
-host: 89.235.193.47
-lastmajorsummary: ÕIS 2
 languages: 
+username: AlexDaniel
+keep-ts: 1465836038
+lastmajor: 46
+lastmajorsummary: ÕIS 2
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -55,7 +53,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	=== University / Ülikool / Университет:
 	#ENG
-	* https://mois.ttu.ee/ – mobile version of ÕIS. **Much faster**.
+	* [https://mois.ttu.ee/uusois/uus_ois2.mob_leht https://mois.ttu.ee/] – mobile version of ÕIS. **Much faster**.
 	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks]]
 	* [[Subdomains]] – all these links that you always forget.
@@ -64,7 +62,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor]] – funny links and stories.
 	
 	#EST
-	* https://mois.ttu.ee/ – mobiilne versioon. **Väga kiire**
+	* [https://mois.ttu.ee/uusois/uus_ois2.mob_leht https://mois.ttu.ee/] – mobiilne versioon. **Väga kiire**
 	* https://ois2.ttu.ee – ÕIS 2
 	* [[Lifehacks| Lifehack-id]]
 	* [[Subdomains|Alldomeenid]] –  need lingid, mida kunagi ei viitsi otsida.
@@ -221,3 +219,5 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+minor: 1
+ts: 1465836038
