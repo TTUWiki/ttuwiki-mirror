@@ -1,15 +1,11 @@
-flags: 0
-languages: 
-keep-ts: 1465802899
-host: 86.110.32.164
-ts: 1465802899
-summary: 
+ts: 1465804399
+blocks: </div></div>
+revision: 51
 minor: 
-username: Ain_Laidoja
+host: 86.110.32.164
+keep-ts: 1465804399
 lastmajorsummary: 
-revision: 50
-text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
-	#Minu Õppekava [[MASM02-09]] 
+text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
 	
@@ -44,5 +40,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	
 	
-lastmajor: 50
-blocks: </div></div>
+summary: 
+languages: 
+lastmajor: 51
+flags: 0
+username: Ain_Laidoja
