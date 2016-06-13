@@ -1,3 +1,12 @@
+username: Ain_Laidoja
+lastmajorsummary: 
+summary: 
+host: 86.110.32.164
+languages: 
+minor: 
+blocks: </div></div>
+lastmajor: 48
+flags: 0
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -24,50 +33,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Альтернативa дорогому центральному отоплению]
 	
-	== Sügissemester 2015
 	
 	
-	==Õppeained:
-	
-	#[[AES0250]] -	Elektrienergia hajatootmine TEHTUD
-	#[[AEK8141]] -	Elektriseadmed ja -edastus TEHTUD
-	#[[AAV0180]] -	Energiasalvestid TEHTUD
-	#[[AES0200]] -	Energiasüsteemi strateegiline arendamine TEHTUD
-	#[[AES3136]] -	Energiasüsteemide ökonoomika TEHTUD
-	#[[MSE0280]] -Hajaenergeetika planeerimine TEHTUD
-	#[[AES0360]] -Hajaenergeetika investeeringute hindamine - projekt  TEHTUD
-	#[[MSE0260]] -Hajaobjekti projekt TEHTUD
-	#[[AES0370]] -	Hajatootmise ühendamine elektrivõrguga TEHTUD
-	#[[MSJ0030]] -	Loodushoid energeetikas
-	#[[MXX0040]] -Magistriseminar TEHTUD
-	#[[MSJ0340]] -	Põlevkivi termilise töötlemise tehnoloogiad
-	#[[MSJ0060]] -	Soojuselektrijaamad
-	#[[HLX8040]] -	Teadusvõõrkeel   mis on tegelikult [[HLI8750]] TEHTUD
-	#[[TTO3160]] -	Õigusõpetus TEHTUD
-	
-	== Kevadsemester 2016
-	
-	#[[MSE0290]] - Jätkusuutlikud energiatehnoloogiad
-	
-	#[[AAHM12-13]]
-	==Lisaks:
-	
-	[[RAKM11-12]] --  [Kava:50177 〔Õppekava ÕIS-is〕]
-	
-	#[[RAS0070]] Kütusetööstuse protsessid
-	#[[RAS0050]] Kütuste klassifitseerimine ja standardimine
-	
-	Veel:
-	* [[https://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B4%7D%5B0-9%5D%7B2%7D%2F%5B0-9%5D%7B2%7D Kõik Õppekavad]]
-	* [[https://ttuwiki.ee/?search=%5E%5BA-Z%C3%84%C3%96%C3%9C%C3%95%5D%7B3%7D%5B0-9%5D%2B%5Cs- Kõik Ained]]
-	
-minor: 
-lastmajorsummary: 
-lastmajor: 47
-languages: 
-username: Ain_Laidoja
-revision: 47
-summary: 
-ts: 1462947068
-keep-ts: 1462947068
-host: 86.110.32.164
+ts: 1465800004
+revision: 48
+keep-ts: 1465800004
