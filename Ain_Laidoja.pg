@@ -1,3 +1,11 @@
+lastmajorsummary: 
+username: Ain_Laidoja
+keep-ts: 1465837243
+revision: 53
+lastmajor: 53
+host: 86.110.32.164
+summary: 
+minor: 
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -14,32 +22,5 @@ text: #Minu Õppekava [[MASM02-09]]
 	
 	
 	
-	
-	
-	
-	#ENG
-	Articles:
-	
-	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatives to expensive District Heating]
-	
-	[http://www.tud.ttu.ee/web/Ain.Laidoja/CHP_suvise_soojuse_salvestamine_bioolisse_ain_laidoja_2015.pdf Storing excess heat into fast pyrolysis oil]
-	
-	#RUS
-	Статьи:
-	
-	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Альтернативa дорогому центральному отоплению]
-	
-	
-	
-keep-ts: 1465837177
-blocks: </div></div>
-host: 86.110.32.164
-username: Ain_Laidoja
+ts: 1465837243
 languages: 
-revision: 52
-ts: 1465837177
-flags: 0
-summary: 
-lastmajor: 52
-minor: 
-lastmajorsummary: 
