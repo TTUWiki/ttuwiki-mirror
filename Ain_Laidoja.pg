@@ -1,8 +1,13 @@
-blocks: </div></div>
-lastmajorsummary: 
-revision: 49
-lastmajor: 49
+flags: 0
+languages: 
+keep-ts: 1465802899
+host: 86.110.32.164
+ts: 1465802899
+summary: 
 minor: 
+username: Ain_Laidoja
+lastmajorsummary: 
+revision: 50
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -16,7 +21,13 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/CHP_suvise_soojuse_salvestamine_bioolisse_ain_laidoja_2015.pdf CHP suvise soojuse salvestamine bioõlisse]
 	
-	[https://goo.gl/photos/uHphhEXNqtDtQKMT6 Puidu ja põlevkivi koos-pürolüüs]
+	
+	[http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016.pdf Puidu ja põlevkivi koos-pürolüüs] * [http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016_esitlus.pdf Esitlus] *  [https://goo.gl/photos/uHphhEXNqtDtQKMT6 Fotod]
+	
+	
+	
+	
+	
 	
 	
 	#ENG
@@ -33,10 +44,5 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	
 	
-keep-ts: 1465800281
-username: Ain_Laidoja
-ts: 1465800281
-languages: 
-flags: 0
-host: 86.110.32.164
-summary: 
+lastmajor: 50
+blocks: </div></div>
