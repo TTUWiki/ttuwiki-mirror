@@ -1,15 +1,6 @@
-ts: 1465804399
-blocks: </div></div>
-revision: 51
-minor: 
-host: 86.110.32.164
-keep-ts: 1465804399
-lastmajorsummary: 
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
-	
-	#EST
 	 
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatiiiv kallile kaugküttele]
 	
@@ -40,8 +31,15 @@ text: #Minu Õppekava [[MASM02-09]]
 	
 	
 	
-summary: 
-languages: 
-lastmajor: 51
-flags: 0
+keep-ts: 1465837177
+blocks: </div></div>
+host: 86.110.32.164
 username: Ain_Laidoja
+languages: 
+revision: 52
+ts: 1465837177
+flags: 0
+summary: 
+lastmajor: 52
+minor: 
+lastmajorsummary: 
