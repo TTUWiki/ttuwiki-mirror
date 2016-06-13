@@ -1,12 +1,8 @@
-username: Ain_Laidoja
-lastmajorsummary: 
-summary: 
-host: 86.110.32.164
-languages: 
-minor: 
 blocks: </div></div>
-lastmajor: 48
-flags: 0
+lastmajorsummary: 
+revision: 49
+lastmajor: 49
+minor: 
 text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]  
 	#Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
@@ -15,6 +11,8 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	#EST
 	 
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatiiiv kallile kaugküttele]
+	
+	[http://www.tud.ttu.ee/web/Ain.Laidoja/vaikeste_elektritootjate_liitumine_elektrivorguga_ain.laidoja_2015.pdf Väikeste elektritootjate liitumine elektrivõrguga ]
 	
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/CHP_suvise_soojuse_salvestamine_bioolisse_ain_laidoja_2015.pdf CHP suvise soojuse salvestamine bioõlisse]
 	
@@ -35,6 +33,10 @@ text: #Minu TTÜ [http://www.tud.ttu.ee/web/Ain.Laidoja kodulehekülg]
 	
 	
 	
-ts: 1465800004
-revision: 48
-keep-ts: 1465800004
+keep-ts: 1465800281
+username: Ain_Laidoja
+ts: 1465800281
+languages: 
+flags: 0
+host: 86.110.32.164
+summary: 
