@@ -1,11 +1,6 @@
-host: 193.40.250.232
-revision: 48
-summary: 
+revision: 49
 languages: 
-username: AlexDaniel
-keep-ts: 1465836038
-lastmajor: 46
-lastmajorsummary: ÕIS 2
+ts: 1465902632
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -111,6 +106,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	#EST
 	*[new:https://oppejoud.ee/]
+	*[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]
 	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Venekeelne facebook grupp
 	*[new:http://ttuit.eu/] - Venekeelne veebileht, ei olnud uuendatud aastast 2011.
@@ -128,6 +124,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	#RUS
 	*[new:https://oppejoud.ee/]
+	*[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]
 	*[new:http://studiesleak.com]
 	*[new:https://www.facebook.com/groups/rusttu/] - Русская группа в фейсбуке.
 	*[new:http://ttuit.eu/] - Наиболее полный источник информации. С 2011-го года автором не обновляется, но есть возможность заливать файлы. (С 2014-03-04 после некоторых сбоев данная возможность пропала)
@@ -219,5 +216,10 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-minor: 1
-ts: 1465836038
+lastmajor: 49
+summary: Сайт с публикациями и cv преподавателей.
+host: 89.235.215.183
+keep-ts: 1465902632
+username: Artur Gummel
+lastmajorsummary: Сайт с публикациями и cv преподавателей.
+minor: 
