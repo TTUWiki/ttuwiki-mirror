@@ -1,10 +1,4 @@
-username: 
-languages: 
-host: 85.253.179.150
-summary: 
-minor: 1
-ts: 1466093102
-ip: 89.235.235.166
+keep-ts: 1466093102
 text: #SUBTITLE Ettevõtluse alused
 	#SUBURL [Course:100478 〔Õppeaine ÕIS-is〕]
 	
@@ -24,6 +18,14 @@ text: #SUBTITLE Ettevõtluse alused
 	==Экзамен
 	Тест из 20 вопросов. Вопросы по большей части очевидные, можно серьезно не готовиться, но при этом написать на 100% все-таки сложно. На итоговую оценку больше всего влияют работы в течение семестра.
 	
-revision: 6
-keep-ts: 1466093102
+summary: 
+host: 85.253.179.150
 lastmajor: 4
+revision: 6
+flags: 1
+username: 
+ts: 1466093102
+minor: 1
+ip: 89.235.235.166
+languages: 
+blocks: [Course:100478 〔Õppeaine ÕIS-is〕]
