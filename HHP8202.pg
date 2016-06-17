@@ -1,7 +1,16 @@
-minor: 
-lastmajorsummary: He is a dick.
-ip: 89.235.235.166
+summary: He is a dick.
+languages: 
+lastmajor: 5
+keep-ts: 1466147152
+host: 193.40.250.201
 ts: 1466147152
+lastmajorsummary: He is a dick.
+flags: 1
+minor: 
+username: blackmail
+revision: 5
+ip: 89.235.235.166
+blocks: [Course:26291 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Juhtimispsühholoogia
 	#SUBURL [Course:26291 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -13,10 +22,3 @@ text: #SUBTITLE Juhtimispsühholoogia
 	-- blackmail 2016-06-17 10:05:52
 	
 	
-keep-ts: 1466147152
-lastmajor: 5
-username: blackmail
-host: 193.40.250.201
-revision: 5
-languages: 
-summary: He is a dick.
