@@ -1,14 +1,14 @@
-ip: 89.235.235.166
-summary: Such comments are more suitable for https://oppejoud.ee/, I think :)
-languages: 
-flags: 1
-lastmajorsummary: Such comments are more suitable for https://oppejoud.ee/, I think :)
-keep-ts: 1466158013
-blocks: [Course:26291 〔Õppeaine ÕIS-is〕]
-host: 85.253.179.150
-ts: 1466158013
-lastmajor: 6
 username: AlexDaniel
+languages: 
+ts: 1466347608
+minor: 1
+lastmajorsummary: Such comments are more suitable for https://oppejoud.ee/, I think :)
+lastmajor: 6
+keep-ts: 1466347608
+ip: 89.235.235.166
+summary: 
+host: 82.131.48.102
+revision: 7
 text: #SUBTITLE Juhtimispsühholoogia
 	#SUBURL [Course:26291 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -22,10 +22,8 @@ text: #SUBTITLE Juhtimispsühholoogia
 	
 	----
 	
-	Such comments are more suitable for https://oppejoud.ee/, I think :)
+	Such comments are more suitable for [[https://oppejoud.ee/?action=read&name=Mario%20Martinez-Corcoles https://oppejoud.ee/]], I think :)
 	
 	-- AlexDaniel 2016-06-17 13:06:53
 	
 	
-revision: 6
-minor: 
