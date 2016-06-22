@@ -1,3 +1,10 @@
+keep-ts: 1466628232
+revision: 53
+lastmajor: 51
+lastmajorsummary: Õppetegevusega seotud otsuste vaidlustamine
+host: 46.39.155.34
+summary: New section: Professors
+ts: 1466628232
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -72,8 +79,8 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor|Юмор]] – забавные ссылки и истории.
 	
 	=== Professors / Õppejõud / Преподаватели
-	* [https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]
-	* [https://oppejoud.ee/]
+	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]]
+	* [[https://oppejoud.ee/]]
 	
 	=== Science / Teadus / Наука
 	* http://sci-hub.io/ – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
@@ -213,13 +220,6 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajorsummary: Õppetegevusega seotud otsuste vaidlustamine
-host: 46.39.155.34
-ts: 1466628210
-summary: New section: Professors
-revision: 52
-keep-ts: 1466628210
-lastmajor: 51
-languages: 
 minor: 1
+languages: 
 username: AlexDaniel
