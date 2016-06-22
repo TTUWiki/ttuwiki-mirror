@@ -1,6 +1,3 @@
-revision: 49
-languages: 
-ts: 1465902632
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -98,7 +95,7 @@ text: === This wiki / Veebilehest / О сайте:
 	=== Blogs / Blogid / Блоги
 	* [[http://kumlander.blogspot.com.ee/ Russian]] and [[http://kumlandereng.blogspot.com.ee/ English]] blogs by [[Employee:Deniss Kumlander]] – very valuable information expressed in a honest way.
 	* http://vaskaiabm.blogspot.com.ee/
-	
+	* http://www.ttu.ee/tudengile/oppeinfo/oppekorraldus/oppetegevuse-juhendid-ja-oigusaktid/oppee/#25_vaidl Õppetegevusega seotud otsuste vaidlustamine
 	=== Tools
 	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – third-party app for viewing the timetables (**not free software 😞**)
 	
@@ -216,10 +213,13 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajor: 49
-summary: Сайт с публикациями и cv преподавателей.
-host: 89.235.215.183
-keep-ts: 1465902632
+lastmajor: 50
+lastmajorsummary: Õppetegevusega seotud otsuste vaidlustamine
+ts: 1466594424
+keep-ts: 1466594424
 username: Artur Gummel
-lastmajorsummary: Сайт с публикациями и cv преподавателей.
+summary: Õppetegevusega seotud otsuste vaidlustamine
+revision: 50
+host: 89.235.216.199
 minor: 
+languages: 
