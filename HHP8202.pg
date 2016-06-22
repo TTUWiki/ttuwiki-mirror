@@ -1,14 +1,3 @@
-username: AlexDaniel
-languages: 
-ts: 1466347608
-minor: 1
-lastmajorsummary: Such comments are more suitable for https://oppejoud.ee/, I think :)
-lastmajor: 6
-keep-ts: 1466347608
-ip: 89.235.235.166
-summary: 
-host: 82.131.48.102
-revision: 7
 text: #SUBTITLE Juhtimispsühholoogia
 	#SUBURL [Course:26291 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -27,3 +16,16 @@ text: #SUBTITLE Juhtimispsühholoogia
 	-- AlexDaniel 2016-06-17 13:06:53
 	
 	
+ts: 1466347608
+host: 82.131.48.102
+ip: 89.235.235.166
+lastmajorsummary: Such comments are more suitable for https://oppejoud.ee/, I think :)
+blocks: [Course:26291 〔Õppeaine ÕIS-is〕]
+keep-ts: 1466347608
+revision: 7
+languages: 
+username: AlexDaniel
+minor: 1
+lastmajor: 6
+flags: 1
+summary: 
