@@ -1,10 +1,13 @@
-keep-ts: 1466628232
-revision: 53
-lastmajor: 51
-lastmajorsummary: Õppetegevusega seotud otsuste vaidlustamine
-host: 46.39.155.34
-summary: New section: Professors
-ts: 1466628232
+summary: EnergeetikaTTUmaterjalid 	
+revision: 54
+minor: 
+ts: 1466887243
+languages: 
+keep-ts: 1466887243
+host: 82.131.48.102
+lastmajorsummary: EnergeetikaTTUmaterjalid 	
+username: Marjana Voronina
+lastmajor: 54
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -127,6 +130,7 @@ text: === This wiki / Veebilehest / О сайте:
 	*[new:http://iasb.me.pn/] - lingid, mida kõik niigi teavad
 	*[new:http://web.zone.ee/aldas/] - mõned failid
 	*[new:http://wiki.maatriks.eu/doku.php]
+	*[new:https://sites.google.com/site/energeetikattumaterjalid/]
 	
 	#RUS
 	*[new:http://studiesleak.com]
@@ -143,6 +147,7 @@ text: === This wiki / Veebilehest / О сайте:
 	*[new:http://iasb.me.pn/] - набор и так уже всем известных ссылок. Возможно, что когда-нибудь будет свой контент.
 	*[new:http://web.zone.ee/aldas/] - какие-то файлы.
 	*[new:http://wiki.maatriks.eu/doku.php] - чья-то персональная вики.
+	*[new:https://sites.google.com/site/energeetikattumaterjalid/]
 	
 	==== Archives / Arhiivid / Архивы:
 	
@@ -220,6 +225,3 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-minor: 1
-languages: 
-username: AlexDaniel
