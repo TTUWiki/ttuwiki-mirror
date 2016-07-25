@@ -1,7 +1,9 @@
+keep-ts: 1469411763
 languages: 
-revision: 56
-minor: 
-host: 85.253.224.176
+lastmajor: 57
+summary: professors
+username: Marjana Voronina
+revision: 57
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -76,8 +78,17 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[Humor|Юмор]] – забавные ссылки и истории.
 	
 	=== Professors / Õppejõud / Преподаватели
-	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]]
-	* [[https://oppejoud.ee/]]
+	#ENG
+	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - contact information, CVs, research papers
+	* [[https://oppejoud.ee/]] - students' opinions
+	
+	#EST
+	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - kontakt, CV-d, publikatsioonid
+	* [[https://oppejoud.ee/]] - tudengite arvamused
+	
+	#RUS
+	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - контактная информация, CV, публикации
+	* [[https://oppejoud.ee/]] - впечатления студентов
 	
 	=== Science / Teadus / Наука
 	* http://sci-hub.io/ – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
@@ -224,9 +235,7 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajor: 56
-summary: translations
-ts: 1469410931
-lastmajorsummary: translations
-keep-ts: 1469410931
-username: Marjana Voronina
+lastmajorsummary: professors
+ts: 1469411763
+host: 85.253.224.176
+minor: 
