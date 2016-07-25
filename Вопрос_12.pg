@@ -1,7 +1,5 @@
-lastmajorsummary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
 ts: 1469409227
-host: 85.253.224.176
-languages: 
+lastmajorsummary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
 text: Am I the only one who finds it weird? :)
 	
 	[[File:Screenshot_from_2016-07-25_04-09-01.png]]
@@ -11,8 +9,14 @@ text: Am I the only one who finds it weird? :)
 	-- Marjana Voronina 2016-07-25 04:13:47
 	
 	
-revision: 1
-minor: 
 summary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
 lastmajor: 1
+languages: 
+host: 85.253.224.176
+blocks: <h2>== Most recent question / Viimane küsimus / Последний вопрос
+	</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
+	
+minor: 
+revision: 1
+flags: 0101
 username: Marjana Voronina
