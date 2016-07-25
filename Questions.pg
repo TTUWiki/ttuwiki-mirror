@@ -1,11 +1,13 @@
-revision: 1
-minor: 
-username: AlexDaniel
+revision: 2
 languages: 
-lastmajorsummary: Moved
-ts: 1444780311
+minor: 
+ts: 1469409551
+summary: Estonian
+host: 85.253.224.176
 text: #ENG
 	You can **[[Ask|ask your own question]]**.
+	#EST
+	Siin võite **[[Ask|oma küsimuse esitada]]**.
 	#RUS
 	Вы можете **[[Ask|задать свой вопрос]]**.
 	#LANG_END
@@ -13,6 +15,7 @@ text: #ENG
 	\\
 	<Journal 10 "^Вопрос_\d+">
 	
-lastmajor: 1
-summary: Moved
-host: 82.131.4.24
+username: Marjana Voronina
+keep-ts: 1469409551
+lastmajorsummary: Estonian
+lastmajor: 2
