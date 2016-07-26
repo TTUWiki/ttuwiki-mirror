@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-lastmajor: 2
 languages: 
-blocks: [Course:30026 〔Õppeaine ÕIS-is〕]
+revision: 4
 ip: 89.235.235.166
 username: AlexDaniel
-keep-ts: 1441924447
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 host: 82.131.7.230
-flags: 1
-revision: 4
 text: #SUBTITLE Polümeeride keemia ja füüsika
 	#SUBURL [Course:30026 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924447
+keep-ts: 1441924447

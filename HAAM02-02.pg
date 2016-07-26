@@ -1,15 +1,4 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAM02/02 - Avalik haldus Kava:1229</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAM02/02 - Avalik haldus <strong class="changes">[</strong>Kava:1229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924149
-revision: 4
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
-diff-major: 
 text: == HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]
 	[[HHA3280]] Arengupoliitikad ja üleilmastumine
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -44,3 +33,14 @@ text: == HAAM02/02 - Avalik haldus [Kava:1229 〔Õppekava ÕIS-is〕]
 	[[HHA3250]] Tehnoloogilis-majanduslikud paradigmad
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAM02/02 - Avalik haldus Kava:1229</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAM02/02 - Avalik haldus <strong class="changes">[</strong>Kava:1229 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924149
+keep-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+languages: 
+revision: 4
+username: AlexDaniel
+diff-major: 

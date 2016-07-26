@@ -1,14 +1,12 @@
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-host: 82.131.7.230
 languages: 
-flags: 1
-blocks: [Course:108846 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
+username: AlexDaniel
+revision: 2
 text: #SUBTITLE Laeva abimehhanismid I
 	#SUBURL [Course:108846 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924452
+ts: 1441924452
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,11 +1,7 @@
-revision: 4
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TATM02/10 - Juhtimine ja turundus Kava:50151</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TATM02/10 - Juhtimine ja turundus <strong class="changes">[</strong>Kava:50151 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924153
 languages: 
+username: AlexDaniel
+revision: 4
+diff-major: 
 text: == TATM02/10 - Juhtimine ja turundus [Kava:50151 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
@@ -61,6 +57,10 @@ text: == TATM02/10 - Juhtimine ja turundus [Kava:50151 〔Õppekava ÕIS-is〕]
 	
 	
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
 keep-ts: 1441924153
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TATM02/10 - Juhtimine ja turundus Kava:50151</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TATM02/10 - Juhtimine ja turundus <strong class="changes">[</strong>Kava:50151 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

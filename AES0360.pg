@@ -1,9 +1,5 @@
-username: Ain_Laidoja
-languages: 
-ts: 1447445513
+summary: 
 minor: 
-flags: 1
-host: 86.110.37.246
 text: #SUBTITLE Hajaenergeetika investeeringute hindamine - projekt
 	#SUBURL [Course:106071 〔Õppeaine ÕIS-is〕]
 	
@@ -20,10 +16,12 @@ text: #SUBTITLE Hajaenergeetika investeeringute hindamine - projekt
 	• 15.nädal: kaitsmine
 	• 16.nädal: kaitsmine
 	
-summary: 
-blocks: [Course:106071 〔Õppeaine ÕIS-is〕]
-revision: 6
-lastmajor: 6
+host: 86.110.37.246
+ts: 1447445513
 lastmajorsummary: 
-ip: 89.235.235.166
 keep-ts: 1447445513
+languages: 
+ip: 89.235.235.166
+lastmajor: 6
+username: Ain_Laidoja
+revision: 6

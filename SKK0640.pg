@@ -1,16 +1,14 @@
-keep-ts: 1441924450
+languages: 
+revision: 4
 username: AlexDaniel
+ip: 89.235.235.166
 lastmajor: 2
-flags: 1
+host: 82.131.7.230
 text: #SUBTITLE Restoraniteenindus
 	#SUBURL [Course:36820 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:36820 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+keep-ts: 1441924450
+ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-revision: 4
-host: 82.131.7.230
-languages: 
-ts: 1441924450

@@ -1,11 +1,9 @@
-revision: 4
+diff-major: 
 languages: 
-ts: 1441924150
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HVJM12/12 - Tehnoloogiaõigus Kava:50186</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HVJM12/12 - Tehnoloogiaõigus <strong class="changes">[</strong>Kava:50186 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 4
 username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
 text: == HVJM12/12 - Tehnoloogiaõigus [Kava:50186 〔Õppekava ÕIS-is〕]
 	[[IDK0310]] Automaatsed ja süstematiseeritud õiguslikud protsessid
 	[[HOE7170]] Autoriõigused ja naabrusõigused
@@ -36,7 +34,9 @@ text: == HVJM12/12 - Tehnoloogiaõigus [Kava:50186 〔Õppekava ÕIS-is〕]
 	[[HOE7110]] Tööstusomand
 	
 	
-keep-ts: 1441924150
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+keep-ts: 1441924150
+ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HVJM12/12 - Tehnoloogiaõigus Kava:50186</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HVJM12/12 - Tehnoloogiaõigus <strong class="changes">[</strong>Kava:50186 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

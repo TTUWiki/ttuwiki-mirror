@@ -1,16 +1,14 @@
-minor: 1
 revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
+languages: 
+ts: 1441924447
+keep-ts: 1441924447
+host: 82.131.7.230
 text: #SUBTITLE Sidud, süsteemid, signaalid
 	#SUBURL [Course:31240 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:31240 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-username: AlexDaniel
-lastmajor: 2
-languages: 
+minor: 1

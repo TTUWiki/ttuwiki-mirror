@@ -1,16 +1,14 @@
-ip: 89.235.235.166
 username: AlexDaniel
+ip: 89.235.235.166
 revision: 87
-flags: 1
-minor: 1
+lastmajor: 86
+languages: 
 ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 text: #SUBTITLE Visuaalne kommunikatsioon I
 	#SUBURL [Course:30241 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 86
-blocks: [Course:30241 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924452
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

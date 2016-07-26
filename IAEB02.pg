@@ -1,20 +1,20 @@
-host: 89.235.223.25
-summary: Автоматическое обновление (расписание)
-lastmajor: 1
-keep-ts: 1408885682
 diff-major: 
+languages: 
+username: Bot
+ip: 89.235.235.166
+revision: 2
+lastmajor: 1
+summary: Автоматическое обновление (расписание)
+minor: 1
 text: <include "IAEB02-09">
 	
 	<include "IAEB02-02">
 	
 	
 	
-minor: 1
+host: 89.235.223.25
+keep-ts: 1408885682
+ts: 1408885682
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== IAEB02/09 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50050&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0040]] Arvutivõrgud\\<br />&lt; [[IEM0210]] Bioonika\\<br />&lt; [[IAY0150]] Digitaalsüsteemid\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[AME0011]] Elektromagnetilise ühilduvuse alused\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[IED0210]] Erialatutvustus\\<br />&lt; [[HHF3080]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[IEM0200]] Informatsioon ja füüsika\\<br />&lt; [[IED0030]] Jõuelektroonika\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[IRM0010]] Laineväljad\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[KYP0080]] Materjali füüsika ja keemia\\<br />&lt; [[TET3070]] Mikro- ja makroökonoomika\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IED0270]] Praktika\\<br />&lt; [[IAG0581]] Programmeerimine I\\<br />&lt; [[IAG0582]] Programmeerimine II\\<br />&lt; [[IED0240]] Sensoorika\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IDU3350]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[IED0020]] Skeemitehnika I\\<br />&lt; [[IED0170]] Skeemitehnika II\\<br />&lt; [[IED3050]] SPICE simulatsioonid\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[YMR0170]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\<br />&lt; ===</strong> IAEB02<strong class="changes">/02</strong> - <strong class="changes">Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1088&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[HLX0020]] Akadeemiline võõrkeel\\<br />&lt; [[IRT0030]] Andmeside\\<br />&lt; [[IRM0030]] Antennid ja RF elektroonika\\<br />&lt; [[IAF0041]] Arvutid\\<br />&lt; [[ISP0041]] Arvutivõrgud\\<br />&lt; [[IAY0010]] Diskreetne matemaatika\\<br />&lt; [[IED0160]] Elektroonika\\<br />&lt; [[IED0040]] Elektroonikatoodete tehnoloogiad\\<br />&lt; [[HHF3070]] Filosoofia\\<br />&lt; [[YFR0011]] Füüsika I\\<br />&lt; [[YFR0012]] Füüsika II\\<br />&lt; [[IAG0081]] Informaatika I\\<br />&lt; [[IAG0082]] Informaatika II\\<br />&lt; [[IED0030]] Jõuelektroonika\\<br />&lt; [[IEM0010]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[EKE3710]] Keskkonnakaitse\\<br />&lt; [[MHT0020]] Kvaliteediohje ja töökindlus\\<br />&lt; [[YMA3710]] Lineaaralgebra\\<br />&lt; [[MHE0061]] Masinatehnika\\<br />&lt; [[YMM3731]] Matemaatiline analüüs I\\<br />&lt; [[YMM3740]] Matemaatiline analüüs II\\<br />&lt; [[IED0010]] Mikroelektroonika\\<br />&lt; [[TET3070]] Mikro</strong>- <strong class="changes">ja makroökonoomika\\<br />&lt; [[ISS0050]] Mõõtmine\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[UTT0010]] Õpingukorraldus\\<br />&lt; [[IED0110]] Praktika\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[ISC0011]] Sidud, süsteemid, signaalid\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[ITV0010]] Sissejuhatus infotehnoloogiasse\\<br />&lt; [[IED0020]] Skeemitehnika I\\<br />&lt; [[IED0170]] Skeemitehnika II\\<br />&lt; [[ISS0010]] Süsteemiteooria\\<br />&lt; [[IED0180]] Tahkiselektroonika\\<br />&lt; [[YMR0070]] Tõenäosusteooria ja matemaatiline statistika\\<br />&lt; [[ISS0110]] Väljendusoskus\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IAEB02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IAEB02</strong>-<strong class="changes">02"&gt;</strong></p></div>
-username: Bot
-languages: 
-ip: 89.235.235.166
-ts: 1408885682
-revision: 2

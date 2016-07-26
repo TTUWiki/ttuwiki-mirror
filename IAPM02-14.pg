@@ -1,8 +1,11 @@
-revision: 4
-ts: 1441924150
-languages: 
+diff-major: 
 username: AlexDaniel
+revision: 4
+languages: 
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
+ts: 1441924150
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPM02/14 - Informaatika Kava:50272</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPM02/14 - Informaatika <strong class="changes">[</strong>Kava:50272 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
@@ -57,7 +60,4 @@ text: == IAPM02/14 - Informaatika [Kava:50272 〔Õppekava ÕIS-is〕]
 	[[IDK5210]] Visuaalprogrammeerimine
 	
 	
-diff-major: 
-keep-ts: 1441924150
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230

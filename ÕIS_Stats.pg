@@ -1,9 +1,10 @@
 revision: 1
-minor: 
-languages: 
-summary: Some stats
-host: 85.253.177.126
+username: AlexDaniel
 lastmajor: 1
+languages: 
+lastmajorsummary: Some stats
+ts: 1455947463
+host: 85.253.177.126
 text: Similarly to [[ÕIS Weirdness]], here are some numeric stats. 
 	
 	These stats do not include courses that are not part of any programme (e.g. vabaained). This will be addressed in the future.
@@ -14,6 +15,5 @@ text: Similarly to [[ÕIS Weirdness]], here are some numeric stats.
 	* **4014** courses with different Estonian names
 	* **4277** courses with different English names
 	
-username: AlexDaniel
-lastmajorsummary: Some stats
-ts: 1455947463
+summary: Some stats
+minor: 

@@ -1,16 +1,14 @@
-ip: 89.235.235.166
+ts: 1441924447
+keep-ts: 1441924447
 text: #SUBTITLE Toiteseadmed
 	#SUBURL [Course:107021 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:107021 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-keep-ts: 1441924447
 host: 82.131.7.230
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+username: AlexDaniel
+lastmajor: 2
 revision: 4
+ip: 89.235.235.166
+languages: 

@@ -1,3 +1,15 @@
+diff-major: 
+revision: 4
+username: AlexDaniel
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == SDSR10/10 - Meretehnika ja väikelaevaehitus Kava:50147</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == SDSR10/10 - Meretehnika ja väikelaevaehitus <strong class="changes">[</strong>Kava:50147 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924153
+ts: 1441924153
+host: 82.131.7.230
 text: == SDSR10/10 - Meretehnika ja väikelaevaehitus [Kava:50147 〔Õppekava ÕIS-is〕]
 	[[SKK1350]] Alumiiniumi tehnoloogia
 	[[SKK0280]] Äriõigus
@@ -59,15 +71,3 @@ text: == SDSR10/10 - Meretehnika ja väikelaevaehitus [Kava:50147 〔Õppekava �
 	[[SKK1450]] Väikelaeva turundus
 	
 	
-keep-ts: 1441924153
-diff-major: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-languages: 
-ts: 1441924153
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == SDSR10/10 - Meretehnika ja väikelaevaehitus Kava:50147</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == SDSR10/10 - Meretehnika ja väikelaevaehitus <strong class="changes">[</strong>Kava:50147 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel

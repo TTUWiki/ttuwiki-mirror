@@ -1,15 +1,9 @@
-ip: 89.235.231.98
-ts: 1414176340
 languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; unexpectedmedia # 2014-10-24 ISS0010</p></div>
-minor: 1
-revision: 5
-diff-major: 
-keep-ts: 1414176340
 lastmajor: 1
-summary: ISS0010
+ip: 89.235.231.98
+revision: 5
+username: AlexDaniel
+diff-major: 
 host: 89.235.232.183
 text: casino
 	payday # 2014-07-11 EAUM12
@@ -17,3 +11,9 @@ text: casino
 	greatnoiseensemble # 2014-10-23 ISS0010
 	unexpectedmedia # 2014-10-24 ISS0010
 	
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; unexpectedmedia # 2014-10-24 ISS0010</p></div>
+ts: 1414176340
+keep-ts: 1414176340
+minor: 1
+summary: ISS0010

@@ -1,15 +1,3 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFM02/14 - Tehniline füüsika Kava:50248</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFM02/14 - Tehniline füüsika <strong class="changes">[</strong>Kava:50248 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924154
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
 text: == YAFM02/14 - Tehniline füüsika [Kava:50248 〔Õppekava ÕIS-is〕]
 	[[YMR8021]] Arvutusmeetodid II
 	[[EMR0180]] Elastsusteooria seminar
@@ -38,3 +26,15 @@ text: == YAFM02/14 - Tehniline füüsika [Kava:50248 〔Õppekava ÕIS-is〕]
 	[[YFX8010]] Uurimistöö III
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFM02/14 - Tehniline füüsika Kava:50248</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFM02/14 - Tehniline füüsika <strong class="changes">[</strong>Kava:50248 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 4
+username: AlexDaniel
+diff-major: 

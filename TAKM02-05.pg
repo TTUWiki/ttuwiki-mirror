@@ -1,15 +1,5 @@
-languages: 
-ts: 1441924153
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TAKM02/05 - Ärikorraldus Kava:3661</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TAKM02/05 - Ärikorraldus <strong class="changes">[</strong>Kava:3661 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924153
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
 text: == TAKM02/05 - Ärikorraldus [Kava:3661 〔Õppekava ÕIS-is〕]
 	[[TMJ8130]] Ärilogistika
 	[[TMM1210]] Ärisuhtlus
@@ -50,3 +40,13 @@ text: == TAKM02/05 - Ärikorraldus [Kava:3661 〔Õppekava ÕIS-is〕]
 	[[TXX1100]] Uurimistöö
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924153
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TAKM02/05 - Ärikorraldus Kava:3661</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TAKM02/05 - Ärikorraldus <strong class="changes">[</strong>Kava:3661 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+languages: 
+username: AlexDaniel
+revision: 4

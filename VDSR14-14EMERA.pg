@@ -1,3 +1,9 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine Kava:50284</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50284 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+host: 82.131.7.230
 text: == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine [Kava:50284 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VAA0080]] Arvutigraafika
@@ -75,15 +81,9 @@ text: == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine [Kava:50
 	[[VAY0521]] Vene keel I (võõrkeelena)
 	
 	
-diff-major: 
-keep-ts: 1441924154
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-ts: 1441924154
-languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine Kava:50284</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDSR14/14EMERA - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50284 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 

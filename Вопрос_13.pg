@@ -1,9 +1,7 @@
+summary: Same thing here :( [[File:Screenshot_from_2016-07-25_04-14-49.png]] 
 minor: 
-host: 85.253.224.176
-revision: 1
-flags: 0101
-lastmajor: 1
-username: Marjana Voronina
+lastmajorsummary: Same thing here :( [[File:Screenshot_from_2016-07-25_04-14-49.png]] 
+ts: 1469409402
 text: Same thing here :(
 	
 	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
@@ -11,10 +9,8 @@ text: Same thing here :(
 	-- Marjana Voronina 2016-07-25 04:16:42
 	
 	
+host: 85.253.224.176
+revision: 1
+username: Marjana Voronina
+lastmajor: 1
 languages: 
-summary: Same thing here :( [[File:Screenshot_from_2016-07-25_04-14-49.png]] 
-blocks: <h2>== Most recent question / Viimane küsimus / Последний вопрос
-	</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
-	
-lastmajorsummary: Same thing here :( [[File:Screenshot_from_2016-07-25_04-14-49.png]] 
-ts: 1469409402

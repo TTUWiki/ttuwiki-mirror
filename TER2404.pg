@@ -1,16 +1,14 @@
-keep-ts: 1441924450
-host: 82.131.7.230
-flags: 1
-blocks: [Course:106007 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
 minor: 1
+keep-ts: 1441924450
 ts: 1441924450
-revision: 4
-username: AlexDaniel
-lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Määratud maksetega instrumendid
 	#SUBURL [Course:106007 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+languages: 

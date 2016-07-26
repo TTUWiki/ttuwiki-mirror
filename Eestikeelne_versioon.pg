@@ -29,15 +29,15 @@ text: Tere tulemast mitteametlikku TTÜ wikisse (veebisait, mis võimaldab selle
 	-- AlexDaniel 2015-09-05 17:33:01
 	
 	
-keep-ts: 1441463581
-diff-major: 1
 host: 82.131.7.230
-summary: Aitäh kommentaari eest, Erik! Jah, ilmselt peab ka eestikeelse versiooni tegema. Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna . . .
-lastmajor: 6
-revision: 6
-languages: 
 ts: 1441463581
-minor: 
+keep-ts: 1441463581
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; ----<br />&gt; Aitäh kommentaari eest, Erik!<br />&gt; Jah, ilmselt peab ka eestikeelse versiooni tegema.<br />&gt; Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna ma üksi ei jõua mitmes keeles teksti lisada (eriti arvestades sellega, et eestikeelse teksti lisamine võtab mul palju rohkem aega), ei näinud mõtet teha eestikeelset versiooni.<br />&gt; Arvan, et hakkan eestikeelse versiooniga tegelema järgmise nädala lõpus. Aga sellega seoses tekib mitut küsimust. Näiteks, kui eesti lehel puudub informatsioon, aga venekeelsel on olemas, kas kasutaja peaks siis venekeelset infot nägema?<br />&gt; Kui rääkida sellest, et info erinevates keeltes on täiesti eraldatud (näiteks nagu Wikipeedias), siis asi on selge. Aga ma usun, et see ei ole parim variant.<br />&gt; Mul oleks hea meel kuulda, kuidas võiks see asi kasutajate jaoks välja näha.<br />&gt; -- AlexDaniel 2015-09-05 17:33:01</p></div>
+summary: Aitäh kommentaari eest, Erik! Jah, ilmselt peab ka eestikeelse versiooni tegema. Asi on selles, et kõik wikid põhinevad kasutajate panusel. Kuna . . .
+minor: 
+languages: 
+revision: 6
 username: AlexDaniel
+lastmajor: 6
+diff-major: 1

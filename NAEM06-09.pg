@@ -1,6 +1,8 @@
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEM06/09 - Tööstusökoloogia Kava:50096</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEM06/09 - Tööstusökoloogia <strong class="changes">[</strong>Kava:50096 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924152
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924152
 host: 82.131.7.230
 text: == NAEM06/09 - Tööstusökoloogia [Kava:50096 〔Õppekava ÕIS-is〕]
 	[[NTK1160]] Arenguökonoomika
@@ -32,11 +34,9 @@ text: == NAEM06/09 - Tööstusökoloogia [Kava:50096 〔Õppekava ÕIS-is〕]
 	[[NTK1100]] Tööstusökoloogia töövahendid
 	
 	
-ts: 1441924152
-languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEM06/09 - Tööstusökoloogia Kava:50096</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEM06/09 - Tööstusökoloogia <strong class="changes">[</strong>Kava:50096 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 revision: 4
+username: AlexDaniel
+languages: 
+diff-major: 

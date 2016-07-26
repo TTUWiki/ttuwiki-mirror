@@ -1,16 +1,14 @@
-keep-ts: 1441924443
-ts: 1441924443
 host: 82.131.7.230
 text: #SUBTITLE Elektriseadmete tõrked ja töökindlus
 	#SUBURL [Course:101163 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-languages: 
-blocks: [Course:101163 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ts: 1441924443
+keep-ts: 1441924443
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+languages: 
 revision: 4
-ip: 89.235.235.166
 username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166

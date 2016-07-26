@@ -1,16 +1,14 @@
-keep-ts: 1441924451
+username: AlexDaniel
 lastmajor: 2
 ip: 89.235.235.166
-minor: 1
-languages: 
-ts: 1441924451
-username: AlexDaniel
-host: 82.131.7.230
 revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+keep-ts: 1441924451
+ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Sotsiaalpoliitika
 	#SUBURL [Course:29914 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29914 〔Õppeaine ÕIS-is〕]

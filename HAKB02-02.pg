@@ -1,15 +1,9 @@
-ts: 1441924150
-languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAKB02/02 - Halduskorraldus Kava:1203</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAKB02/02 - Halduskorraldus <strong class="changes">[</strong>Kava:1203 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-revision: 4
 diff-major: 
-keep-ts: 1441924150
+languages: 
+revision: 4
+username: AlexDaniel
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == HAKB02/02 - Halduskorraldus [Kava:1203 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HHX0010]] Alusõppe ainetöö
@@ -63,3 +57,9 @@ text: == HAKB02/02 - Halduskorraldus [Kava:1203 〔Õppekava ÕIS-is〕]
 	[[HHA3470]] Võõrkeelne asjaajamiskorraldus
 	
 	
+host: 82.131.7.230
+ts: 1441924150
+keep-ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAKB02/02 - Halduskorraldus Kava:1203</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAKB02/02 - Halduskorraldus <strong class="changes">[</strong>Kava:1203 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

@@ -1,11 +1,12 @@
+username: AlexDaniel
 revision: 4
 languages: 
+diff-major: 
 ts: 1441924151
+keep-ts: 1441924151
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MADM10/14 - Disain ja tootearendus Kava:50265</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MADM10/14 - Disain ja tootearendus <strong class="changes">[</strong>Kava:50265 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
 text: == MADM10/14 - Disain ja tootearendus [Kava:50265 〔Õppekava ÕIS-is〕]
 	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[HHA1530]] Arengupoliitikad ja üleilmastumine
@@ -39,7 +40,6 @@ text: == MADM10/14 - Disain ja tootearendus [Kava:50265 〔Õppekava ÕIS-is〕]
 	[[TMJ0160]] Üliõpilasfirma loomine
 	
 	
-keep-ts: 1441924151
-diff-major: 
 host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

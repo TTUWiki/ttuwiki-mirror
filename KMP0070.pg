@@ -1,16 +1,14 @@
+lastmajor: 2
+revision: 4
 username: AlexDaniel
+ip: 89.235.235.166
+languages: 
+ts: 1441924447
+keep-ts: 1441924447
+host: 82.131.7.230
 text: #SUBTITLE Adhesioon ja adhesiivid
 	#SUBURL [Course:30062 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30062 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-revision: 4
-ip: 89.235.235.166
-languages: 
-keep-ts: 1441924447
 minor: 1
-flags: 1

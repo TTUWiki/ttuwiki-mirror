@@ -1,16 +1,14 @@
 minor: 1
-flags: 1
-revision: 4
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Mõõtmised mehhanotehnikas ja mehhatroonikas
 	#SUBURL [Course:105190 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-blocks: [Course:105190 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924448
-lastmajor: 2
-username: AlexDaniel
 ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+languages: 
+lastmajor: 2
+revision: 4
+username: AlexDaniel
+ip: 89.235.235.166

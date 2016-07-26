@@ -1,16 +1,14 @@
-flags: 1
-minor: 1
-blocks: [Course:100633 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
 revision: 4
+lastmajor: 2
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924444
+keep-ts: 1441924444
+host: 82.131.7.230
 text: #SUBTITLE Hüdrogeoloogia
 	#SUBURL [Course:100633 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
-keep-ts: 1441924444
-lastmajor: 2

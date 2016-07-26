@@ -1,14 +1,12 @@
-flags: 1
 languages: 
-host: 82.131.7.230
 username: AlexDaniel
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109795 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
+revision: 2
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Muinsuskaitse filosoofia ja ajalugu
 	#SUBURL [Course:109795 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
+keep-ts: 1441924444
+ts: 1441924444

@@ -1,15 +1,3 @@
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TARM02/02 - Ärirahandus ja majandusarvestus Kava:791</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TARM02/02 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:791 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924153
-languages: 
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-diff-major: 
-keep-ts: 1441924153
 text: == TARM02/02 - Ärirahandus ja majandusarvestus [Kava:791 〔Õppekava ÕIS-is〕]
 	[[TTO1020]] Äriõigus
 	[[TMO1090]] Äriühingute valitsemine
@@ -45,3 +33,15 @@ text: == TARM02/02 - Ärirahandus ja majandusarvestus [Kava:791 〔Õppekava ÕI
 	[[TER1398]] Võlakirjad ja turud
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924153
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TARM02/02 - Ärirahandus ja majandusarvestus Kava:791</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TARM02/02 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:791 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 4
+username: AlexDaniel
+diff-major: 

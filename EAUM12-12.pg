@@ -1,11 +1,9 @@
+diff-major: 
+languages: 
+username: AlexDaniel
 revision: 4
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine Kava:50197</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine <strong class="changes">[</strong>Kava:50197 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == EAUM12/12 - Linnaehitus ja hoonete projekteerimine [Kava:50197 〔Õppekava ÕIS-is〕]
 	[[EEA7130]] 3D programmide õpe
 	[[EEA7140]] Arhitekt, arhitektuur ja eetika
@@ -43,6 +41,8 @@ text: == EAUM12/12 - Linnaehitus ja hoonete projekteerimine [Kava:50197 〔Õppe
 	
 	
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924149
 keep-ts: 1441924149
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine Kava:50197</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAUM12/12 - Linnaehitus ja hoonete projekteerimine <strong class="changes">[</strong>Kava:50197 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

@@ -1,16 +1,14 @@
-username: AlexDaniel
-languages: 
-ts: 1441924448
-flags: 1
+host: 82.131.7.230
 text: #SUBTITLE Füüsikalise geoloogia seminar
 	#SUBURL [Course:102343 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
-blocks: [Course:102343 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 keep-ts: 1441924448
-lastmajor: 2
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
 revision: 4
+lastmajor: 2
+username: AlexDaniel

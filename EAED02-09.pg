@@ -1,7 +1,12 @@
+username: AlexDaniel
+revision: 4
+languages: 
 diff-major: 
 keep-ts: 1441924149
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAED02/09 - Ehitus ja keskkonnatehnika Kava:50110</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAED02/09 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50110 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == EAED02/09 - Ehitus ja keskkonnatehnika [Kava:50110 〔Õppekava ÕIS-is〕]
 	[[EXX9010]] Doktoriseminar
 	[[EXX9040]] Doktoritöö temaatika erikursus
@@ -17,11 +22,6 @@ text: == EAED02/09 - Ehitus ja keskkonnatehnika [Kava:50110 〔Õppekava ÕIS-is
 	[[HUP9010]] Teadus- ja hariduskorraldus
 	
 	
-ts: 1441924149
-languages: 
-username: AlexDaniel
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAED02/09 - Ehitus ja keskkonnatehnika Kava:50110</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAED02/09 - Ehitus ja keskkonnatehnika <strong class="changes">[</strong>Kava:50110 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4

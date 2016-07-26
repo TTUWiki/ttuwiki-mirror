@@ -1,6 +1,5 @@
-keep-ts: 1441924150
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
 host: 82.131.7.230
 text: == IAPB02/14 - Informaatika [Kava:50263 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -51,11 +50,12 @@ text: == IAPB02/14 - Informaatika [Kava:50263 〔Õppekava ÕIS-is〕]
 	[[ITV0120]] Võrgurakendused II
 	
 	
-languages: 
-ts: 1441924150
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPB02/14 - Informaatika Kava:50263</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPB02/14 - Informaatika <strong class="changes">[</strong>Kava:50263 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924150
+keep-ts: 1441924150
+diff-major: 
+languages: 
 username: AlexDaniel
 revision: 5

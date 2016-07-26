@@ -1,16 +1,14 @@
-flags: 1
-host: 82.131.7.230
+lastmajor: 2
+revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
-blocks: [Course:106955 〔Õppeaine ÕIS-is〕]
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924447
+keep-ts: 1441924447
+host: 82.131.7.230
 text: #SUBTITLE E-demokraatia kontseptsioonid
 	#SUBURL [Course:106955 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924447
-revision: 4
-minor: 1
-languages: 
-lastmajor: 2
-keep-ts: 1441924447
-username: AlexDaniel

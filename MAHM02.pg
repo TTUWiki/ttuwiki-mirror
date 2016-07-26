@@ -1,17 +1,10 @@
+summary: Автоматическое обновление (расписание)
 minor: 1
+ts: 1408885767
+keep-ts: 1408885767
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== MAHM02/13 - Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50235&amp;p_net=intranet&amp;p_lang=ET</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[ISS0023]] Arukad juhtimissüsteemid\\<br />&lt; [[ISS0065]] Automaatikavahendid\\<br />&lt; [[EMR0040]] Biomehaanika alused\\<br />&lt; [[IEM0210]] Bioonika\\<br />&lt; [[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas\\<br />&lt; [[HLI3001]] Ettekannete ja sõnavõttude koostamine ja pidamine\\<br />&lt; [[TMJ1030]] Ettevõtlus ja äri planeerimine\\<br />&lt; [[HHF0010]] Filosoofia põhiprobleemid\\<br />&lt; [[MHX0050]] Inseneripraktika\\<br />&lt; [[MHT0040]] Kvaliteedijuhtimine\\<br />&lt; [[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine\\<br />&lt; [[MHK0040]] Masinnägemine\\<br />&lt; [[MHK0031]] Mehhatroonikasüsteemid\\<br />&lt; [[MHT0014]] Mõõtmised mehhanotehnikas ja mehhatroonikas\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[ISS0089]] Programmeeritavad kontrollerid - jätkukursus\\<br />&lt; [[MER0030]] Raalkonstrueerimissüsteemid\\<br />&lt; [[ISP0051]] Rakenduslik andmeside\\<br />&lt; [[YFR8180]] Rakendusoptika\\<br />&lt; [[AAR0080]] Robotitehnika erikursus\\<br />&lt; [[MHE0030]] Sõidukite mehhatroonika\\<br />&lt; [[MHK0071]] Tehnoloogiad erivajadusteks\\<br />&lt; [[TMK8340]] Tootmiskorraldus\\<br />&lt; [[MET0120]] Tootmisprotsessid ja -seadmed\\<br />&lt; [[TMJ1240]] Üliõpilasfirma praktikum\\<br />&lt; [[TMJ1230]] Uute tehnoloogiaettevõtete loomine ja rahastamine\\<br />&lt; ===</strong> MAHM02<strong class="changes">/09</strong> - <strong class="changes">Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=50019&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[ISS0060]] Automaatikavahendid\\<br />&lt; [[ISS0022]] Automaatjuhtimissüsteemide jätkukursus\\<br />&lt; [[EMR0040]] Biomehaanika alused\\<br />&lt; [[MHD0050]] Diferentsiaalvõrrandid masinamehaanikas\\<br />&lt; [[HLE6060]] Eesti keele väljendusõpetus\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[HHF0010]] Filosoofia põhiprobleemid\\<br />&lt; [[MHX0050]] Inseneripraktika\\<br />&lt; [[MHT0040]] Kvaliteedijuhtimine\\<br />&lt; [[MHK0060]] Maksumus- ja keskkonnakeskne projekteerimine\\<br />&lt; [[MHK0040]] Masinnägemine\\<br />&lt; [[MHK0030]] Mehhatroonika\\<br />&lt; [[MHT0014]] Mõõtmised mehhanotehnikas ja mehhatroonikas\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[HHP3170]] Organisatsioonipsühholoogia\\<br />&lt; [[ISP0070]] Proaktiivtehnoloogiad\\<br />&lt; [[ISS0079]] Programmeeritavad kontrollerid\\<br />&lt; [[TMK0090]] Projektijuhtimine\\<br />&lt; [[MER0030]] Raalkonstrueerimissüsteemid\\<br />&lt; [[YFR8180]] Rakendusoptika\\<br />&lt; [[AAR0080]] Robotitehnika erikursus\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[MHK0071]] Tehnoloogiad erivajadusteks\\<br />&lt; [[ISP0050]] Tööstuslik andmeside\\<br />&lt; [[MET0120]] Tootmisprotsessid ja -seadmed\\<br />&lt; ===</strong> MAHM02<strong class="changes">/02</strong> - <strong class="changes">Mehhatroonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=95&amp;p_kava_versioon_id=871&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[MER0060]] APJ tootmisseadmete programmeerimine\\<br />&lt; [[ISS0060]] Automaatikavahendid\\<br />&lt; [[ISS0022]] Automaatjuhtimissüsteemide jätkukursus\\<br />&lt; [[EMR0040]] Biomehaanika alused\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[MHD0020]] Insenerimehaanika erikursus\\<br />&lt; [[MHX0050]] Inseneripraktika\\<br />&lt; [[MHT0040]] Kvaliteedijuhtimine\\<br />&lt; [[MHX0030]] Magistriseminar\\<br />&lt; [[MHK0040]] Masinnägemine\\<br />&lt; [[MHK0030]] Mehhatroonika\\<br />&lt; [[TTO3160]] Õigusõpetus\\<br />&lt; [[HHP3170]] Organisatsioonipsühholoogia\\<br />&lt; [[ISS0070]] Programmeeritavad kontrollerid\\<br />&lt; [[TMK8310]] Projektijuhtimine\\<br />&lt; [[MER0030]] Raalkonstrueerimissüsteemid\\<br />&lt; [[YFR8180]] Rakendusoptika\\<br />&lt; [[AAR0080]] Robotitehnika erikursus\\<br />&lt; [[IRT3930]] Side\\<br />&lt; [[AAR0030]] Sissejuhatus robotitehnikasse\\<br />&lt; [[MHE0090]] Teadustöö ja eksperimenditehnika\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[ITT0020]] Tehisintellekti algoritmid\\<br />&lt; [[MHK0070]] Tehnoloogiad erivajadusteks\\<br />&lt; [[MET0120]] Tootmisprotsessid ja</strong> -<strong class="changes">seadmed\\<br />&lt; [[TMM8830]] Turunduse kontseptsioonid\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>MAHM02-<strong class="changes">13"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>MAHM02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "MAHM02</strong>-<strong class="changes">02"&gt;</strong></p></div>
-username: Bot
-languages: 
-ip: 89.235.235.166
-ts: 1408885767
-revision: 2
-lastmajor: 1
-host: 89.235.223.25
-summary: Автоматическое обновление (расписание)
-keep-ts: 1408885767
-diff-major: 
 text: <include "MAHM02-13">
 	
 	<include "MAHM02-09">
@@ -20,3 +13,10 @@ text: <include "MAHM02-13">
 	
 	
 	
+host: 89.235.223.25
+diff-major: 
+username: Bot
+revision: 2
+ip: 89.235.235.166
+lastmajor: 1
+languages: 

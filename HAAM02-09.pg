@@ -1,15 +1,7 @@
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAAM02/09 - Avalik haldus Kava:50017</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAAM02/09 - Avalik haldus <strong class="changes">[</strong>Kava:50017 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924149
 languages: 
+username: AlexDaniel
 revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 diff-major: 
-keep-ts: 1441924149
 text: == HAAM02/09 - Avalik haldus [Kava:50017 〔Õppekava ÕIS-is〕]
 	[[HHM1130]] Avalik teenistus
 	[[HHL1320]] Avaliku halduse teooria ja filosoofia
@@ -38,3 +30,11 @@ text: == HAAM02/09 - Avalik haldus [Kava:50017 〔Õppekava ÕIS-is〕]
 	[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad
 	
 	
+host: 82.131.7.230
+ts: 1441924149
+keep-ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAAM02/09 - Avalik haldus Kava:50017</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAAM02/09 - Avalik haldus <strong class="changes">[</strong>Kava:50017 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

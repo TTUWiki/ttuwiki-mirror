@@ -1,19 +1,19 @@
-revision: 3
-ts: 1438886426
+diff-major: 
 ip: 89.235.235.166
-languages: 
+revision: 3
 username: Bot
+lastmajor: 1
+languages: 
+minor: 1
+summary: Автоматическое обновление
+ts: 1438886426
+keep-ts: 1438886426
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "KVEM12-15"&gt;</p></div>
-minor: 1
 text: <include "KVEM12-15">
 	
 	<include "KVEM12-13">
 	
 	
 	
-diff-major: 
-keep-ts: 1438886426
-lastmajor: 1
-summary: Автоматическое обновление
 host: 85.253.110.44

@@ -1,11 +1,8 @@
-revision: 4
-minor: 
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; ----<br />&lt; Tere tulemast wiki-sse!<br />&lt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&lt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
-username: 
-languages: 
 ts: 1444150376
 lastmajorsummary: 
+keep-ts: 1444150376
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; Tere tulemast wiki-sse!<br />&lt; Loodan, et sel nädalavahetusel mitmekeelne uuendus saab valmis. 😊<br />&lt; -- AlexDaniel 2015-09-24 23:17:20</p></div>
 text: == Sügissemester 2015
 	
 	
@@ -17,8 +14,11 @@ text: == Sügissemester 2015
 	[[EEK0070]] Pinnasemehaanika ja ehitusgeoloogia alused
 	
 	
-summary: 
 host: 86.110.37.246
+minor: 
+summary: 
+username: 
 lastmajor: 4
-keep-ts: 1444150376
+revision: 4
+languages: 
 diff-major: 1

@@ -1,16 +1,14 @@
-blocks: [Course:100504 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Inseneri- ja juhtimispraktika
 	#SUBURL [Course:100504 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
 keep-ts: 1441924448
-flags: 1
+ts: 1441924448
+languages: 
+ip: 89.235.235.166
+lastmajor: 2
+revision: 4
 username: AlexDaniel

@@ -1,16 +1,14 @@
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-keep-ts: 1441924447
-revision: 4
-lastmajor: 2
-blocks: [Course:100341 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
 ts: 1441924447
-username: AlexDaniel
+keep-ts: 1441924447
 text: #SUBTITLE Polümeeride füüsika ja mehaanika
 	#SUBURL [Course:100341 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 host: 82.131.7.230
-flags: 1

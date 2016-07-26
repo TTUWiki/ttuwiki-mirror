@@ -1,16 +1,14 @@
-username: AlexDaniel
-keep-ts: 1441924448
-flags: 1
 text: #SUBTITLE Sõidukite dünaamika
 	#SUBURL [Course:32756 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:32756 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-revision: 4
-ip: 89.235.235.166
-lastmajor: 2
 host: 82.131.7.230
 ts: 1441924448
+keep-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 4

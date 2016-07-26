@@ -1,16 +1,14 @@
-minor: 1
-ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30383 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924453
-ts: 1441924453
-revision: 4
-flags: 1
-host: 82.131.7.230
 languages: 
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Zooloogia
 	#SUBURL [Course:30383 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924453
+ts: 1441924453

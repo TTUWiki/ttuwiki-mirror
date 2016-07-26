@@ -1,16 +1,14 @@
-ts: 1441924450
-flags: 1
-blocks: [Course:106009 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
 keep-ts: 1441924450
-lastmajor: 2
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Portfellijuhtimine
 	#SUBURL [Course:106009 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+ip: 89.235.235.166
 revision: 4
 username: AlexDaniel
-ip: 89.235.235.166
+lastmajor: 2
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

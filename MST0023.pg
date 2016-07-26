@@ -1,14 +1,12 @@
-username: AlexDaniel
-blocks: [Course:109939 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
 revision: 2
+username: AlexDaniel
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
+keep-ts: 1441924448
+ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Mõõtevahendid soojustehnikas
 	#SUBURL [Course:109939 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924448
-host: 82.131.7.230
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

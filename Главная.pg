@@ -1,17 +1,3 @@
-username: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; DeletedPage</p></div>
-minor: 
-lastmajorsummary: Moved to Home
-ip: 89.235.239.240
-ts: 1444704708
-languages: 
-revision: 38
-lastmajor: 38
-host: 82.131.4.24
-summary: Moved to Home
-diff-major: 1
-keep-ts: 1444704708
 text: DeletedPage
 	
 	Добро пожаловать на неофициальную русскоязычную вики Таллиннского Технического Университета (сайт, который все могут редактировать)!
@@ -30,3 +16,17 @@ text: DeletedPage
 	Выберите две похожие программы, например IABB02-14 и IAPB02-14, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало.
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
+host: 82.131.4.24
+lastmajorsummary: Moved to Home
+ts: 1444704708
+keep-ts: 1444704708
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
+summary: Moved to Home
+minor: 
+languages: 
+username: 
+ip: 89.235.239.240
+revision: 38
+lastmajor: 38
+diff-major: 1

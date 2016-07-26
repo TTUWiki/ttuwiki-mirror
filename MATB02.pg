@@ -1,19 +1,19 @@
-summary: Автоматическое обновление (расписание)
-host: 89.235.223.25
-lastmajor: 1
 diff-major: 
+revision: 3
+ip: 89.235.235.166
+username: Bot
+lastmajor: 1
+languages: 
+summary: Автоматическое обновление (расписание)
+minor: 1
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;<br />&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;</p></div>
+ts: 1408891520
 keep-ts: 1408891520
+host: 89.235.223.25
 text: <include "MATB02-09">
 	
 	<include "MATB02-02">
 	
 	
 	
-username: Bot
-minor: 1
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;<br />&lt; &lt;include "MATB02-09"&gt;<br />&lt; &lt;include "MATB02-02"&gt;</p></div>
-ip: 89.235.235.166
-ts: 1408891520
-languages: 
-revision: 3

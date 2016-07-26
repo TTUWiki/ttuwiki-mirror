@@ -1,8 +1,9 @@
-revision: 5
-ts: 1441924153
-languages: 
 username: AlexDaniel
-minor: 1
+revision: 5
+languages: 
+diff-major: 
+keep-ts: 1441924153
+ts: 1441924153
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAM02/09 - Rakenduslik majandusteadus Kava:50047</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAM02/09 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50047 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
@@ -33,7 +34,6 @@ text: == TAAM02/09 - Rakenduslik majandusteadus [Kava:50047 〔Õppekava ÕIS-is
 	[[TTX199P]] Tööpraktika
 	
 	
-diff-major: 
-keep-ts: 1441924153
 host: 82.131.7.230
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

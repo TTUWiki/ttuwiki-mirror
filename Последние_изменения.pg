@@ -1,18 +1,18 @@
-lastmajor: 6
-host: 82.131.4.24
+minor: 
 summary: Moved to Recent Changes
-diff-major: 1
-keep-ts: 1444705297
 text: DeletedPage
 	
 	Здесь видны последние изменения на сайте
 	
-username: AlexDaniel
-minor: 
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; DeletedPage</p></div>
+host: 82.131.4.24
+keep-ts: 1444705297
 lastmajorsummary: Moved to Recent Changes
 ts: 1444705297
-ip: 89.235.239.240
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
+diff-major: 1
 languages: 
 revision: 6
+ip: 89.235.239.240
+username: AlexDaniel
+lastmajor: 6

@@ -1,15 +1,7 @@
 languages: 
-ts: 1441924153
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TADD02/02 - Majandus Kava:1328</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TADD02/02 - Majandus <strong class="changes">[</strong>Kava:1328 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
 revision: 4
-keep-ts: 1441924153
+username: AlexDaniel
 diff-major: 
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == TADD02/02 - Majandus [Kava:1328 〔Õppekava ÕIS-is〕]
 	[[TXX9130]] Ametipraktika
 	[[IDU9050]] Andmeaidad, ERP ja CRM süsteemid
@@ -43,3 +35,11 @@ text: == TADD02/02 - Majandus [Kava:1328 〔Õppekava ÕIS-is〕]
 	[[TMT9140]] Tööturu nüüdisaegsed teooriad
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924153
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TADD02/02 - Majandus Kava:1328</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TADD02/02 - Majandus <strong class="changes">[</strong>Kava:1328 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

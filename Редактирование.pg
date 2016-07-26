@@ -1,12 +1,14 @@
 revision: 3
-languages: 
-ts: 1444736839
 ip: 89.235.231.110
+username: AlexDaniel
+lastmajor: 3
+languages: 
+diff-major: 1
+keep-ts: 1444736839
+ts: 1444736839
 lastmajorsummary: See Formatting page instead.
-minor: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
-username: AlexDaniel
 text: DeletedPage
 	
 	=== Тестовая страница
@@ -45,8 +47,6 @@ text: DeletedPage
 	**Результат** смотрите, например, **на [[MSJ0120]]**.
 	
 	
-keep-ts: 1444736839
-diff-major: 1
 host: 82.131.4.24
+minor: 
 summary: See Formatting page instead.
-lastmajor: 3

@@ -1,14 +1,12 @@
-languages: 
+keep-ts: 1441924448
+ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Litoloogia ja settekivimite petrograafia
 	#SUBURL [Course:109858 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-blocks: [Course:109858 〔Õppeaine ÕIS-is〕]
 minor: 1
-revision: 2
-ts: 1441924448
-flags: 1
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
+username: AlexDaniel
+revision: 2
+languages: 

@@ -1,3 +1,10 @@
+diff-major: 
+languages: 
+revision: 4
+username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
 text: == IASM02/11 - Arvutisüsteemid [Kava:50170 〔Õppekava ÕIS-is〕]
 	[[ISP0030]] Agentsüsteemid
 	[[IAG0050]] Algoritmikeelte analüüs
@@ -43,15 +50,8 @@ text: == IASM02/11 - Arvutisüsteemid [Kava:50170 〔Õppekava ÕIS-is〕]
 	[[ISP0050]] Tööstuslik andmeside
 	
 	
-keep-ts: 1441924150
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-languages: 
-ts: 1441924150
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IASM02/11 - Arvutisüsteemid Kava:50170</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IASM02/11 - Arvutisüsteemid <strong class="changes">[</strong>Kava:50170 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+ts: 1441924150
+keep-ts: 1441924150

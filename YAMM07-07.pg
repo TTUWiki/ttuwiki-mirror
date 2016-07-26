@@ -1,3 +1,13 @@
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAMM07/07 - Maa-teadused Kava:5032</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAMM07/07 - Maa-teadused <strong class="changes">[</strong>Kava:5032 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
+keep-ts: 1441924155
+host: 82.131.7.230
 text: == YAMM07/07 - Maa-teadused [Kava:5032 〔Õppekava ÕIS-is〕]
 	[[NSO7032]] Dünaamiline meteoroloogia
 	[[NSO0030]] Dünaamiline okeanograafia
@@ -52,15 +62,5 @@ text: == YAMM07/07 - Maa-teadused [Kava:5032 〔Õppekava ÕIS-is〕]
 	[[EMD0050]] Ülevaade merendusest ja laevandusest
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924155
-diff-major: 
-revision: 4
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAMM07/07 - Maa-teadused Kava:5032</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAMM07/07 - Maa-teadused <strong class="changes">[</strong>Kava:5032 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924155
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

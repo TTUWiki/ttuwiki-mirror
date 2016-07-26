@@ -1,11 +1,8 @@
-revision: 4
+keep-ts: 1441924150
+ts: 1441924150
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAKB02/09 - Halduskorraldus Kava:50007</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAKB02/09 - Halduskorraldus <strong class="changes">[</strong>Kava:50007 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924150
 text: == HAKB02/09 - Halduskorraldus [Kava:50007 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HPP3252]] Arhiivihaldus
@@ -53,7 +50,10 @@ text: == HAKB02/09 - Halduskorraldus [Kava:50007 〔Õppekava ÕIS-is〕]
 	[[HOE6017]] Võlaõiguse üldosa
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924150
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+languages: 
 diff-major: 

@@ -1,15 +1,8 @@
-minor: 1
+keep-ts: 1441924155
+ts: 1441924155
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YASB02/15 - Rakenduskeemia ja biotehnoloogia Kava:50318</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YASB02/15 - Rakenduskeemia ja biotehnoloogia <strong class="changes">[</strong>Kava:50318 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924155
-revision: 3
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924155
-diff-major: 
 text: == YASB02/15 - Rakenduskeemia ja biotehnoloogia [Kava:50318 〔Õppekava ÕIS-is〕]
 	[[YKI0140]] Aine ehitus
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -53,3 +46,10 @@ text: == YASB02/15 - Rakenduskeemia ja biotehnoloogia [Kava:50318 〔Õppekava �
 	[[YMR3720]] Tõenäosusteooria ja matemaatiline statistika
 	[[YKB3200]] Üldloodusteadus
 	
+host: 82.131.7.230
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 3
+username: AlexDaniel
+languages: 
+diff-major: 

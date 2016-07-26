@@ -1,5 +1,5 @@
-lastmajorsummary: Some information about translations
-revision: 1
+minor: 
+summary: Some information about translations
 host: 85.253.177.126
 text: This website was started as a Russian wiki, but due to high demand multilingual functionality was added.
 	
@@ -93,9 +93,9 @@ text: This website was started as a Russian wiki, but due to high demand multili
 	* If some section has to be translated but nobody is willing to write a translation then just put a language tag to this section. This will turn on the language buttons and missing translations will be shining red. Perhaps that will give some motivation to other contributors.
 	* You can close some section spontaneously (far before the heading) by using {{{#LANG_END}}} tag. This should not be required most of the time.
 	
+lastmajorsummary: Some information about translations
 ts: 1454911807
 languages: 
 lastmajor: 1
-summary: Some information about translations
 username: AlexDaniel
-minor: 
+revision: 1

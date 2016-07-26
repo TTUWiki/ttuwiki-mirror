@@ -1,7 +1,10 @@
 diff-major: 
-keep-ts: 1441924148
-host: 82.131.7.230
+languages: 
+username: AlexDaniel
+revision: 4
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == AAGM02/02 - Geotehnoloogia [Kava:1236 〔Õppekava ÕIS-is〕]
 	[[AKM0091]] Allmaakaevandamine
 	[[AKM0092]] Allmaakaevandamine - projekt
@@ -44,11 +47,8 @@ text: == AAGM02/02 - Geotehnoloogia [Kava:1236 〔Õppekava ÕIS-is〕]
 	[[AKM0032]] Tootmispraktika II
 	
 	
-ts: 1441924148
-languages: 
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == AAGM02/02 - Geotehnoloogia Kava:1236</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == AAGM02/02 - Geotehnoloogia <strong class="changes">[</strong>Kava:1236 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-revision: 4
+keep-ts: 1441924148
+ts: 1441924148

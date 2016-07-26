@@ -1,13 +1,14 @@
-summary: 
-ip: 89.235.235.166
-host: 84.52.32.112
+revision: 5
 username: Artur Gummel
-lastmajorsummary: 
-keep-ts: 1454157433
+ip: 89.235.235.166
 lastmajor: 5
-flags: 1
-blocks: [Course:31203 〔Õppeaine ÕIS-is〕]
+languages: 
+summary: 
+minor: 
+lastmajorsummary: 
 ts: 1454157433
+keep-ts: 1454157433
+host: 84.52.32.112
 text: #SUBTITLE Mõõtmine
 	#SUBURL [Course:31203 〔Õppeaine ÕIS-is〕]
 	
@@ -15,6 +16,3 @@ text: #SUBTITLE Mõõtmine
 	
 	http://iscx.dcc.ttu.ee/
 	
-languages: 
-minor: 
-revision: 5

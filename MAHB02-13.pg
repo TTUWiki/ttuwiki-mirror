@@ -1,15 +1,9 @@
+diff-major: 
 languages: 
-ts: 1441924151
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == MAHB02/13 - Mehhatroonika Kava:50234</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == MAHB02/13 - Mehhatroonika <strong class="changes">[</strong>Kava:50234 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 username: AlexDaniel
 revision: 4
-keep-ts: 1441924151
-diff-major: 
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
 text: == MAHB02/13 - Mehhatroonika [Kava:50234 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MER0060]] APJ tootmisseadmete programmeerimine
@@ -56,3 +50,9 @@ text: == MAHB02/13 - Mehhatroonika [Kava:50234 〔Õppekava ÕIS-is〕]
 	[[MHE0012]] Tugevusõpetus II
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924151
+ts: 1441924151
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == MAHB02/13 - Mehhatroonika Kava:50234</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == MAHB02/13 - Mehhatroonika <strong class="changes">[</strong>Kava:50234 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

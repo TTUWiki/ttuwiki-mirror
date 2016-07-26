@@ -1,16 +1,14 @@
+revision: 4
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
+ts: 1441924449
+keep-ts: 1441924449
 text: #SUBTITLE Informaatika õpetamise metoodika
 	#SUBURL [Course:34404 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924449
 host: 82.131.7.230
-keep-ts: 1441924449
-revision: 4
-username: AlexDaniel
-minor: 1
-blocks: [Course:34404 〔Õppeaine ÕIS-is〕]
-flags: 1
-ip: 89.235.235.166
-languages: 
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

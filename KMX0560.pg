@@ -1,14 +1,12 @@
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:110069 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-revision: 2
 languages: 
+username: AlexDaniel
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE CAD/CAM tehnoloogia mööbli-, plasti- ja rõivatööstuses
 	#SUBURL [Course:110069 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
+host: 82.131.7.230
 ts: 1441924448
-flags: 1
+keep-ts: 1441924448

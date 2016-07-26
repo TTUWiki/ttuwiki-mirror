@@ -1,16 +1,14 @@
+ts: 1441924452
+keep-ts: 1441924452
 text: #SUBTITLE Uurimistöö I (Alusõppe uurimistöö)
 	#SUBURL [Course:31666 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-ip: 89.235.235.166
-ts: 1441924452
-flags: 1
-keep-ts: 1441924452
 host: 82.131.7.230
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
 revision: 4
 languages: 
-blocks: [Course:31666 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

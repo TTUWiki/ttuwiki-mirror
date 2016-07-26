@@ -1,16 +1,14 @@
-revision: 4
-ip: 89.235.235.166
-languages: 
-keep-ts: 1441924447
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 text: #SUBTITLE Nõudluse juhtimine ja prognoosimine
 	#SUBURL [Course:106302 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-username: AlexDaniel
 ts: 1441924447
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106302 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+languages: 
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2

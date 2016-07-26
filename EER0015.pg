@@ -1,16 +1,14 @@
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+revision: 4
+languages: 
 ts: 1441924445
+keep-ts: 1441924445
+host: 82.131.7.230
 text: #SUBTITLE Raudbetoonkonstruktsioonid - praktikum
 	#SUBURL [Course:30700 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924445
-host: 82.131.7.230
-languages: 
 minor: 1
-revision: 4
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:30700 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-lastmajor: 2

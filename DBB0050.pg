@@ -1,16 +1,14 @@
+keep-ts: 1441924444
 ts: 1441924444
-username: AlexDaniel
 text: #SUBTITLE Biomeditsiinitehnoloogia
 	#SUBURL [Course:40849 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ip: 89.235.235.166
-blocks: [Course:40849 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-flags: 1
+ip: 89.235.235.166
 revision: 4
+username: AlexDaniel
 lastmajor: 2
-keep-ts: 1441924444
+languages: 

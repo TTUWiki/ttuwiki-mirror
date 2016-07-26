@@ -1,14 +1,12 @@
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 ts: 1441924452
 text: #SUBTITLE Laevade kommertsekspluatatsioon
 	#SUBURL [Course:109033 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:109033 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-revision: 2
 username: AlexDaniel
-flags: 1
-minor: 1
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 languages: 

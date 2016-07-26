@@ -1,14 +1,12 @@
-languages: 
-minor: 1
 host: 82.131.7.230
-ts: 1441924446
-blocks: [Course:109862 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Halduskohtumenetlus
 	#SUBURL [Course:109862 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
 keep-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+revision: 2
 username: AlexDaniel

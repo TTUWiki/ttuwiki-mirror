@@ -1,11 +1,15 @@
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
+languages: 
+ip: 89.235.235.166
 revision: 7
 username: Bot
-diff-minor: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
+lastmajor: 3
+summary: Автоматическое обновление
 minor: 1
-ip: 89.235.235.166
-ts: 1438887185
-languages: 
+host: 85.253.110.44
 text: [[MATB02]] Tootearendus ja tootmistehnika
 	
 	[[SDER02]] Elektroonsed süsteemid
@@ -15,11 +19,7 @@ text: [[MATB02]] Tootearendus ja tootmistehnika
 	
 	
 	
-host: 85.253.110.44
-summary: Автоматическое обновление
-lastmajor: 3
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[SDSR10]] Väikelaevaehitus\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[SDSR10]] Väikelaevaehitus\\<br />&gt; \\</p></div>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[BDÄR02]] Rahvusvaheline majandus ja ärikorraldus</p></div>
 keep-ts: 1438887185
+ts: 1438887185

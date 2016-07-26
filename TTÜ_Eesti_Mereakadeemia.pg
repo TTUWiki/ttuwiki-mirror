@@ -1,18 +1,5 @@
-ts: 1438887184
-languages: 
-username: Bot
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[VDFR14]] </p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">VDTR15]] Kalanduse tehnoloogiate majandamine ja juhtimine<br />&gt; [[</strong>VDFR14]] <strong class="changes">Kalapüügi ja -käitlemise tehnoloogia</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[VDLR14]] Laevajuhtimine</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">VDLR14]] Tüürimees<br />&lt; [[</strong>VDVR14]] Veeteede ohutuse korraldamine <strong class="changes">ja haldamine</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[VDVR14]] Veeteede <strong class="changes">haldamine ja</strong> ohutuse korraldamine</p></div>
-revision: 3
-diff-major: 
-keep-ts: 1438887184
-host: 85.253.110.44
 summary: Автоматическое обновление
+minor: 1
 text: [[VAEM14]] Merendus
 	
 	[[VDTR15]] Kalanduse tehnoloogiate majandamine ja juhtimine
@@ -25,3 +12,16 @@ text: [[VAEM14]] Merendus
 	
 	
 	
+host: 85.253.110.44
+ts: 1438887184
+keep-ts: 1438887184
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[VDFR14]] </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">VDTR15]] Kalanduse tehnoloogiate majandamine ja juhtimine<br />&gt; [[</strong>VDFR14]] <strong class="changes">Kalapüügi ja -käitlemise tehnoloogia</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[VDLR14]] Laevajuhtimine</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">VDLR14]] Tüürimees<br />&lt; [[</strong>VDVR14]] Veeteede ohutuse korraldamine <strong class="changes">ja haldamine</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[VDVR14]] Veeteede <strong class="changes">haldamine ja</strong> ohutuse korraldamine</p></div>
+diff-major: 
+languages: 
+username: Bot
+revision: 3

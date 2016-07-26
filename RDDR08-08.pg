@@ -1,3 +1,10 @@
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924152
+keep-ts: 1441924152
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDDR08/08 - Tootmise automatiseerimine Kava:5374</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDDR08/08 - Tootmise automatiseerimine <strong class="changes">[</strong>Kava:5374 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == RDDR08/08 - Tootmise automatiseerimine [Kava:5374 〔Õppekava ÕIS-is〕]
 	[[RAR0971]] Andmebaasid I
 	[[RAR2760]] Arvjuhtimissüsteemid - programmeerimine ja juhtimine
@@ -57,15 +64,8 @@ text: == RDDR08/08 - Tootmise automatiseerimine [Kava:5374 〔Õppekava ÕIS-is�
 	[[RAX0480]] Üldvõõrkeel
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 diff-major: 
-keep-ts: 1441924152
 revision: 4
 username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDDR08/08 - Tootmise automatiseerimine Kava:5374</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDDR08/08 - Tootmise automatiseerimine <strong class="changes">[</strong>Kava:5374 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
 languages: 

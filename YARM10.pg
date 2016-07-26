@@ -1,16 +1,16 @@
-ts: 1408885966
+diff-major: 
 ip: 89.235.235.166
-languages: 
+revision: 2
+lastmajor: 1
 username: Bot
+languages: 
+summary: Автоматическое обновление (расписание)
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== YARM10/10 - Merendus [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_fk_str_yksus_id=94&amp;p_kava_versioon_id=50146&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;</strong><strong class="changes">p_from=]<br />&lt; [[KTJ6011]] Ärilogistika\\<br />&lt; [[NSO8044]] Dünaamiline okeanograafia\\<br />&lt; [[AST6006]] Erialane praktika\\<br />&lt; [[TER8610]] Finantsjuhtimine\\<br />&lt; [[KHG6023]] Geograafilised infosüsteemid\\<br />&lt; [[KHG6024]] Geotehniliste tööde projekti koostamine\\<br />&lt; [[EXX0023]] Hüdrotehnilised ehitised sadamates\\<br />&lt; [[TMJ8620]] Investeeringute analüüs\\<br />&lt; [[MLM6022]] Kaasaegsed laevaremondi tehnoloogiad\\<br />&lt; [[AOE6007]] Kaubandusliku meresõidu õigus\\<br />&lt; [[EKE0140]] Keskkonnakaitse ja säästev areng\\<br />&lt; [[LJO6012]] Keskkonnareostuse vältimine ja reostustõrje\\<br />&lt; [[TMK1120]] Kvaliteedi ja tootlikkuse juhtimine\\<br />&lt; [[MEA6020]] Laeva automaatjuhtimissüsteemid\\<br />&lt; [[LJO6013]] Laevade ehitus\\<br />&lt; [[AOE6008]] Laevade prahtimine ja agenteerimine\\<br />&lt; [[MEA6021]] Laeva elektroonika\\<br />&lt; [[KTJ6018]] Laevafirma juhtimine\\<br />&lt; [[LNG6015]] Laeva hüdrodünaamika ja sõiduomadused\\<br />&lt; [[LJO6016]] Laeva juhtimise optimeerimine\\<br />&lt; [[AOE6009]] Laevanduse töökorraldus ja ökonoomika\\<br />&lt; [[MLM6017]] Laeva remondi organiseerimine ja planeerimine\\<br />&lt; [[NSO8040]] Looduslike veekogude modelleerimine\\<br />&lt; [[AST6002]] Magistriseminar\\<br />&lt; [[NSO8042]] Merekeskkonna kaitse\\<br />&lt; [[KHM6025]] Meremeteoroloogia\\<br />&lt; [[AOE6003]] Merendusklaster Eestis ja Euroopa riikides\\<br />&lt; [[LJO6014]] Meresõiduohutuse juhtimissüsteemid\\<br />&lt; [[LJO6019]] Ohutuse ja turvalisuse juhtimine laevanduses\\<br />&lt; [[TMK8310]] Projektijuhtimine\\<br />&lt; [[AOE6004]] Rahvusvaheline avalik mereõigus\\<br />&lt; [[LJO6005]] Riskide haldamine merenduses\\<br />&lt; [[KTJ6010]] Sadamate ekspluatatsioon\\<br />&lt; [[IDU3530]] Sissejuhatus infosüsteemidesse\\<br />&lt; [[MSJ0120]] Soojuspumbad\\<br />&lt; [[AST6001]] Teadustöö metoodika\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[KHG6026]] Veeteede kavandamine\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "YARM10-10"&gt;</strong></p></div>
-minor: 1
-revision: 2
-diff-major: 
 keep-ts: 1408885966
-lastmajor: 1
-summary: Автоматическое обновление (расписание)
+ts: 1408885966
 host: 89.235.223.25
 text: <include "YARM10-10">
 	

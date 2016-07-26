@@ -1,14 +1,3 @@
-languages: 
-ts: 1441924154
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAGB02/02 - Geenitehnoloogia Kava:491</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAGB02/02 - Geenitehnoloogia <strong class="changes">[</strong>Kava:491 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924154
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 text: == YAGB02/02 - Geenitehnoloogia [Kava:491 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -60,3 +49,14 @@ text: == YAGB02/02 - Geenitehnoloogia [Kava:491 〔Õppekava ÕIS-is〕]
 	[[YTG0070]] Zooloogia ja botaanika välipraktikum
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAGB02/02 - Geenitehnoloogia Kava:491</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAGB02/02 - Geenitehnoloogia <strong class="changes">[</strong>Kava:491 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 4
+username: AlexDaniel
+diff-major: 

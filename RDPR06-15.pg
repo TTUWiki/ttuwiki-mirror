@@ -1,7 +1,13 @@
+username: AlexDaniel
+revision: 4
+languages: 
 diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDPR06/15 - Energiatehnika Kava:50322</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDPR06/15 - Energiatehnika <strong class="changes">[</strong>Kava:50322 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 keep-ts: 1441924153
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == RDPR06/15 - Energiatehnika [Kava:50322 〔Õppekava ÕIS-is〕]
 	[[RAA0320]] Alajaamad
 	[[RAR1230]] Automaatika alused
@@ -67,11 +73,5 @@ text: == RDPR06/15 - Energiatehnika [Kava:50322 〔Õppekava ÕIS-is〕]
 	[[RAH0740]] Väljendusõpetus
 	
 	
-ts: 1441924153
-languages: 
-username: AlexDaniel
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDPR06/15 - Energiatehnika Kava:50322</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDPR06/15 - Energiatehnika <strong class="changes">[</strong>Kava:50322 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

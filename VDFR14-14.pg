@@ -1,11 +1,11 @@
-revision: 5
-ts: 1441924154
-languages: 
-username: AlexDaniel
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia Kava:50278</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia <strong class="changes">[</strong>Kava:50278 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+host: 82.131.7.230
 text: == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia [Kava:50278 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VAA0080]] Arvutigraafika
@@ -105,6 +105,6 @@ text: == VDFR14/14 - Kalapüügi ja -käitlemise tehnoloogia [Kava:50278 〔Õpp
 	
 	
 diff-major: 
-keep-ts: 1441924154
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
+revision: 5
+username: AlexDaniel
+languages: 

@@ -1,3 +1,4 @@
+host: 89.235.223.25
 text: <include "BAAB06-13">
 	
 	<include "BAAB06-11">
@@ -8,16 +9,15 @@ text: <include "BAAB06-13">
 	
 	
 	
-diff-major: 
-keep-ts: 1408891290
-lastmajor: 1
-host: 89.235.223.25
-summary: Автоматическое обновление (расписание)
-revision: 3
-ts: 1408891290
-ip: 89.235.235.166
-languages: 
-username: Bot
 diff-minor: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; &lt;include "BAAB06-13"&gt;<br />&lt; &lt;include "BAAB06-11"&gt;<br />&lt; &lt;include "BAAB06-09"&gt;<br />&lt; &lt;include "BAAB06-06"&gt;</p></div>
+keep-ts: 1408891290
+ts: 1408891290
+summary: Автоматическое обновление (расписание)
 minor: 1
+languages: 
+lastmajor: 1
+username: Bot
+ip: 89.235.235.166
+revision: 3
+diff-major: 

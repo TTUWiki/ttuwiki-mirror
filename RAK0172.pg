@@ -1,14 +1,12 @@
-blocks: [Course:109899 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 2
-minor: 1
+keep-ts: 1441924449
+ts: 1441924449
+host: 82.131.7.230
 text: #SUBTITLE Massileviprotsessid - praktikum
 	#SUBURL [Course:109899 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924449
-flags: 1
-host: 82.131.7.230
-keep-ts: 1441924449
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+username: AlexDaniel
+languages: 

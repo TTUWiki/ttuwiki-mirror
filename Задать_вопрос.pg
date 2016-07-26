@@ -1,8 +1,4 @@
-keep-ts: 1444705215
-diff-major: 1
-lastmajor: 4
 host: 82.131.4.24
-summary: Moved to Ask
 text: DeletedPage
 	
 	== Последний вопрос
@@ -16,12 +12,16 @@ text: DeletedPage
 	Все вопросы видны на [[Вопросы|отдельной странице]].
 	
 	
-languages: 
-lastmajorsummary: Moved to Ask
-ip: 89.235.239.240
-ts: 1444705215
-minor: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; DeletedPage</p></div>
+ts: 1444705215
+lastmajorsummary: Moved to Ask
+keep-ts: 1444705215
+minor: 
+summary: Moved to Ask
+languages: 
 username: AlexDaniel
+ip: 89.235.239.240
 revision: 4
+lastmajor: 4
+diff-major: 1

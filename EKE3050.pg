@@ -1,16 +1,14 @@
-username: AlexDaniel
-blocks: [Course:25225 〔Õppeaine ÕIS-is〕]
 languages: 
-ts: 1441924445
-keep-ts: 1441924445
+username: AlexDaniel
 ip: 89.235.235.166
-minor: 1
-flags: 1
 lastmajor: 2
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 text: #SUBTITLE Hüdroloogia ja vesiehitised
 	#SUBURL [Course:25225 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+ts: 1441924445
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

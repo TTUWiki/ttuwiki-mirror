@@ -1,3 +1,11 @@
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine Kava:50276</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine <strong class="changes">[</strong>Kava:50276 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924154
+ts: 1441924154
+host: 82.131.7.230
 text: == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine [Kava:50276 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VMV0070]] Andmetöötlus ja andmebaasid
@@ -78,14 +86,6 @@ text: == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine [Kava:50276 〔�
 	
 	
 diff-major: 
-keep-ts: 1441924154
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 5
-ts: 1441924154
-languages: 
 username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine Kava:50276</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDVR14/14 - Veeteede haldamine ja ohutuse korraldamine <strong class="changes">[</strong>Kava:50276 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+revision: 5
+languages: 

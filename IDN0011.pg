@@ -1,15 +1,5 @@
-flags: 1
-lastmajor: 12
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-host: 82.131.7.230
-languages: 
-ts: 1441924447
-revision: 13
 minor: 1
-username: AlexDaniel
-ip: 89.235.235.166
-blocks: [Course:100854 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Erialatutvustus
 	#SUBURL [Course:100854 〔Õppeaine ÕIS-is〕]
 	
@@ -62,3 +52,11 @@ text: #SUBTITLE Erialatutvustus
 	-- AlexDaniel 2014-10-23 22:49:04
 	
 	
+host: 82.131.7.230
+ts: 1441924447
+keep-ts: 1441924447
+languages: 
+revision: 13
+lastmajor: 12
+ip: 89.235.235.166
+username: AlexDaniel

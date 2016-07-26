@@ -1,3 +1,12 @@
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 
+ts: 1441924149
+keep-ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAEM07/09 - Tööstus- ja tsiviilehitus Kava:50106</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAEM07/09 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50106 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-is〕]
 	[[EEA0024]] Arhitektuur - projekt II
 	[[TTO1100]] Äriõigus
@@ -51,14 +60,5 @@ text: == EAEM07/09 - Tööstus- ja tsiviilehitus [Kava:50106 〔Õppekava ÕIS-i
 	
 	
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
-diff-major: 
-revision: 4
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAEM07/09 - Tööstus- ja tsiviilehitus Kava:50106</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAEM07/09 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:50106 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924149
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

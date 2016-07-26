@@ -1,14 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+languages: 
+username: AlexDaniel
 revision: 2
 minor: 1
-blocks: [Course:110036 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tarkvara töökindlus
 	#SUBURL [Course:110036 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-keep-ts: 1441924447
 host: 82.131.7.230
+ts: 1441924447
+keep-ts: 1441924447

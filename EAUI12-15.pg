@@ -1,11 +1,8 @@
-revision: 4
-ts: 1441924149
 languages: 
 username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAUI12/15 - Arhitektuur Kava:50271</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAUI12/15 - Arhitektuur <strong class="changes">[</strong>Kava:50271 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+revision: 4
+diff-major: 
+host: 82.131.7.230
 text: == EAUI12/15 - Arhitektuur [Kava:50271 〔Õppekava ÕIS-is〕]
 	[[EEA7130]] 3D programmide õpe
 	[[EAK0040]] Arhitekt, arhitektuur ja eetika
@@ -99,7 +96,10 @@ text: == EAUI12/15 - Arhitektuur [Kava:50271 〔Õppekava ÕIS-is〕]
 	[[EEA7100]] XXI sajandi linnaehituslikud arengusuunad
 	
 	
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAUI12/15 - Arhitektuur Kava:50271</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAUI12/15 - Arhitektuur <strong class="changes">[</strong>Kava:50271 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924149
-host: 82.131.7.230
+ts: 1441924149
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

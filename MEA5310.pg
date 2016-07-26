@@ -1,16 +1,14 @@
-blocks: [Course:28525 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-minor: 1
 revision: 4
+lastmajor: 2
+username: AlexDaniel
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 ts: 1441924448
 text: #SUBTITLE Automootorid
 	#SUBURL [Course:28525 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
 host: 82.131.7.230
-keep-ts: 1441924448
-flags: 1

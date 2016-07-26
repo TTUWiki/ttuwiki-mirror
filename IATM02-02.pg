@@ -1,15 +1,9 @@
-ts: 1441924150
-languages: 
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IATM02/02 - Telekommunikatsioon Kava:1119</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IATM02/02 - Telekommunikatsioon <strong class="changes">[</strong>Kava:1119 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-revision: 4
-diff-major: 
 keep-ts: 1441924150
+ts: 1441924150
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == IATM02/02 - Telekommunikatsioon [Kava:1119 〔Õppekava ÕIS-is〕]
 	[[IRZ0090]] Adaptiivne signaalitöötlus
 	[[IRT0030]] Andmeside
@@ -44,3 +38,9 @@ text: == IATM02/02 - Telekommunikatsioon [Kava:1119 〔Õppekava ÕIS-is〕]
 	[[IRT0110]] Televisiooni- ja videotehnika
 	
 	
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+languages: 
+diff-major: 

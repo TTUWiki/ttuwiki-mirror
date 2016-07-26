@@ -1,16 +1,14 @@
-minor: 1
-ts: 1441924450
-blocks: [Course:103267 〔Õppeaine ÕIS-is〕]
-languages: 
+lastmajor: 2
+ip: 89.235.235.166
+revision: 4
 username: AlexDaniel
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ts: 1441924450
 text: #SUBTITLE Väikelaeva ehituse tehnoloogia ja koostamine
 	#SUBURL [Course:103267 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-keep-ts: 1441924450
 host: 82.131.7.230
-flags: 1
-revision: 4
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

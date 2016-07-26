@@ -1,7 +1,3 @@
-summary: Moved to Subdomains
-host: 82.131.4.24
-lastmajor: 20
-keep-ts: 1444779262
 text: DeletedPage
 	
 	* https://pass.ttu.ee/
@@ -35,9 +31,13 @@ text: DeletedPage
 	* [[http://193.40.245.132 Vb-006]]
 	* [[http://193.40.245.182 Vb-201]]
 	
-username: AlexDaniel
-minor: 
-ts: 1444779262
+host: 82.131.4.24
+keep-ts: 1444779262
 lastmajorsummary: Moved to Subdomains
+ts: 1444779262
+summary: Moved to Subdomains
+minor: 
 languages: 
 revision: 20
+lastmajor: 20
+username: AlexDaniel

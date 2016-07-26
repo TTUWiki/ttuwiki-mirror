@@ -1,7 +1,13 @@
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+languages: 
 diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BAAB06/11 - Maastikuarhitektuur Kava:50176</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BAAB06/11 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50176 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
 keep-ts: 1441924148
+host: 82.131.7.230
 text: == BAAB06/11 - Maastikuarhitektuur [Kava:50176 〔Õppekava ÕIS-is〕]
 	[[NTM0360]] Arhiivindus ja inventeerimine
 	[[NTM1200]] Arhitektuuri ja linnaplaneeringu ajalugu
@@ -58,11 +64,5 @@ text: == BAAB06/11 - Maastikuarhitektuur [Kava:50176 〔Õppekava ÕIS-is〕]
 	[[NTM1020]] Välisruumi käsitlus ja analüüs
 	
 	
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BAAB06/11 - Maastikuarhitektuur Kava:50176</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BAAB06/11 - Maastikuarhitektuur <strong class="changes">[</strong>Kava:50176 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 minor: 1
-ts: 1441924148
-languages: 
-revision: 4

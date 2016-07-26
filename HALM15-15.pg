@@ -1,15 +1,8 @@
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HALM15/15 - Kutseõpetaja Kava:50183</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HALM15/15 - Kutseõpetaja <strong class="changes">[</strong>Kava:50183 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924150
 languages: 
+username: AlexDaniel
 revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 diff-major: 
-keep-ts: 1441924150
+host: 82.131.7.230
 text: == HALM15/15 - Kutseõpetaja [Kava:50183 〔Õppekava ÕIS-is〕]
 	[[KAN7030]] Andragoogika
 	[[KAT7019]] Areng ja õppimine
@@ -58,3 +51,10 @@ text: == HALM15/15 - Kutseõpetaja [Kava:50183 〔Õppekava ÕIS-is〕]
 	[[HPI0230]] Väljendusoskus ja akadeemiline kirjutamine
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HALM15/15 - Kutseõpetaja Kava:50183</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HALM15/15 - Kutseõpetaja <strong class="changes">[</strong>Kava:50183 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924150
+ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

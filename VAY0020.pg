@@ -1,14 +1,12 @@
 minor: 1
-revision: 2
-blocks: [Course:108760 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+keep-ts: 1441924452
 host: 82.131.7.230
 text: #SUBTITLE Analüütiline geomeetria
 	#SUBURL [Course:108760 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-keep-ts: 1441924452
-languages: 
+revision: 2
 username: AlexDaniel
-ts: 1441924452
+languages: 

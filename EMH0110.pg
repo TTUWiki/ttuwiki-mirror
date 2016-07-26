@@ -1,16 +1,14 @@
+keep-ts: 1441924445
+ts: 1441924445
+host: 82.131.7.230
 text: #SUBTITLE Lainetuse dünaamika
 	#SUBURL [Course:37975 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924445
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924445
 minor: 1
-username: AlexDaniel
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-blocks: [Course:37975 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 

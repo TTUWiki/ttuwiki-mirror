@@ -1,4 +1,14 @@
+lastmajor: 18
+username: Ain_Laidoja
+ip: 89.235.235.166
+revision: 18
+languages: 
+summary: 
+minor: 
 keep-ts: 1449901382
+ts: 1449901382
+lastmajorsummary: 
+host: 86.110.37.246
 text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	#SUBURL [Course:40643 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +23,3 @@ text: #SUBTITLE Energiasüsteemi strateegiline arendamine
 	
 	Moodelis teha   alates  **16.Detsember
 	
-host: 86.110.37.246
-lastmajorsummary: 
-blocks: [Course:40643 〔Õppeaine ÕIS-is〕]
-summary: 
-minor: 
-revision: 18
-languages: 
-username: Ain_Laidoja
-ip: 89.235.235.166
-flags: 1
-lastmajor: 18
-ts: 1449901382

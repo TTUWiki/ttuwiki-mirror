@@ -1,16 +1,14 @@
+keep-ts: 1441924449
+ts: 1441924449
+host: 82.131.7.230
 text: #SUBTITLE Keskkonnateadlikkus ja keskkonnaharidus - ainetöö
 	#SUBURL [Course:39148 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
-flags: 1
-blocks: [Course:39148 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-keep-ts: 1441924449
-username: AlexDaniel
-ts: 1441924449
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 4
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+languages: 

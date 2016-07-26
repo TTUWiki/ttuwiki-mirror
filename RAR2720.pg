@@ -1,16 +1,14 @@
+languages: 
 revision: 4
 lastmajor: 2
 username: AlexDaniel
-minor: 1
-blocks: [Course:41387 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Hoonete automatiseerimine
 	#SUBURL [Course:41387 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924450
-languages: 
-ip: 89.235.235.166
 keep-ts: 1441924450
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

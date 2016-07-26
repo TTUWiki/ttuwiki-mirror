@@ -1,14 +1,12 @@
-host: 82.131.7.230
+username: AlexDaniel
+revision: 2
+languages: 
+keep-ts: 1441924452
+ts: 1441924452
 text: #SUBTITLE Meretranspordi ökonoomika
 	#SUBURL [Course:109067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 minor: 1
-keep-ts: 1441924452
-flags: 1
-username: AlexDaniel
-languages: 
-blocks: [Course:109067 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

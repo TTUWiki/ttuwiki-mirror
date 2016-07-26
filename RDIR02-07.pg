@@ -1,15 +1,3 @@
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDIR02/07 - Rakendusinfotehnoloogia Kava:5067</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDIR02/07 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:5067 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924153
-revision: 4
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924153
-diff-major: 
 text: == RDIR02/07 - Rakendusinfotehnoloogia [Kava:5067 〔Õppekava ÕIS-is〕]
 	[[RAR0320]] Algoritmid ja andmestruktuurid
 	[[RAR0330]] Andmeanalüüsi algoritmika
@@ -62,3 +50,15 @@ text: == RDIR02/07 - Rakendusinfotehnoloogia [Kava:5067 〔Õppekava ÕIS-is〕]
 	[[RAX0032]] Võõrkeel II
 	
 	
+host: 82.131.7.230
+ts: 1441924153
+keep-ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDIR02/07 - Rakendusinfotehnoloogia Kava:5067</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDIR02/07 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:5067 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+username: AlexDaniel
+revision: 4
+diff-major: 

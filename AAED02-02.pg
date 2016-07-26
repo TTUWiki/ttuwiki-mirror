@@ -1,3 +1,8 @@
+keep-ts: 1441924148
+ts: 1441924148
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAED02/02 - Energia- ja geotehnika Kava:1314</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAED02/02 - Energia- ja geotehnika <strong class="changes">[</strong>Kava:1314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == AAED02/02 - Energia- ja geotehnika [Kava:1314 〔Õppekava ÕIS-is〕]
 	[[AKM9140]] Allmaarajatiste erikursus
 	[[AAR9140]] Ametipraktika
@@ -45,15 +50,10 @@ text: == AAED02/02 - Energia- ja geotehnika [Kava:1314 〔Õppekava ÕIS-is〕]
 	[[AAV9720]] Üldistatud elektrienergia muundurid
 	
 	
-keep-ts: 1441924148
-diff-major: 
 host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-languages: 
-ts: 1441924148
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAED02/02 - Energia- ja geotehnika Kava:1314</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAED02/02 - Energia- ja geotehnika <strong class="changes">[</strong>Kava:1314 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
+revision: 4
 username: AlexDaniel
+languages: 
+diff-major: 

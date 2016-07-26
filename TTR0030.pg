@@ -1,16 +1,14 @@
-ts: 1441924451
-minor: 1
-revision: 4
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
-blocks: [Course:30017 〔Õppeaine ÕIS-is〕]
-languages: 
+minor: 1
+keep-ts: 1441924451
+ts: 1441924451
 text: #SUBTITLE Avaliku sektori ökonoomika
 	#SUBURL [Course:30017 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924451
+host: 82.131.7.230
 ip: 89.235.235.166
+revision: 4
 lastmajor: 2
+username: AlexDaniel
+languages: 

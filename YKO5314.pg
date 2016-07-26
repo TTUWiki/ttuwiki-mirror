@@ -1,16 +1,14 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Orgaaniline süntees - ainetöö
 	#SUBURL [Course:108217 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-blocks: [Course:108217 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-revision: 4
-flags: 1
-languages: 
-minor: 1
-ip: 89.235.235.166
 keep-ts: 1441924452
+ts: 1441924452
+languages: 
+revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2

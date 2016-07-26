@@ -1,8 +1,10 @@
-diff-major: 
-keep-ts: 1438887117
-lastmajor: 1
-host: 85.253.110.44
+minor: 1
 summary: Автоматическое обновление
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "NAEM06-15"&gt;</p></div>
+keep-ts: 1438887117
+ts: 1438887117
+host: 85.253.110.44
 text: <include "NAEM06-15">
 	
 	<include "NAEM06-09">
@@ -11,11 +13,9 @@ text: <include "NAEM06-15">
 	
 	
 	
-ip: 89.235.235.166
-ts: 1438887117
-languages: 
+diff-major: 
 username: Bot
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "NAEM06-15"&gt;</p></div>
-minor: 1
 revision: 3
+lastmajor: 1
+ip: 89.235.235.166
+languages: 

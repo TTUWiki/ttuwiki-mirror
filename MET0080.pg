@@ -1,16 +1,14 @@
-keep-ts: 1441924448
-languages: 
-ts: 1441924448
-blocks: [Course:30282 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-flags: 1
-revision: 4
 minor: 1
+keep-ts: 1441924448
+ts: 1441924448
 host: 82.131.7.230
 text: #SUBTITLE Teadmuspõhised süsteemid masinaehituses
 	#SUBURL [Course:30282 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 

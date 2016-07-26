@@ -1,16 +1,14 @@
-keep-ts: 1441924444
-host: 82.131.7.230
-flags: 1
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Euroopa Liidu majandus
 	#SUBURL [Course:100949 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-revision: 4
-ip: 89.235.235.166
-blocks: [Course:100949 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 ts: 1441924444
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

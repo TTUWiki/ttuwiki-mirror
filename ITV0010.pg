@@ -1,16 +1,6 @@
-revision: 6
-summary: 
-username: Artur Gummel
-flags: 10
-languages: 
-host: 84.52.32.112
-lastmajor: 6
-lastmajorsummary: 
 minor: 
-ts: 1454143646
-ip: 89.235.235.166
-keep-ts: 1454143646
-blocks: [Course:31162 〔Õppeaine ÕIS-is〕]</div></div>
+summary: 
+host: 84.52.32.112
 text: #SUBTITLE Sissejuhatus infotehnoloogiasse
 	#SUBURL [Course:31162 〔Õppeaine ÕIS-is〕]
 	
@@ -20,3 +10,11 @@ text: #SUBTITLE Sissejuhatus infotehnoloogiasse
 	#RUS 
 	Вся важная информация находится [http://lambda.ee/wiki/Sissejuhatus_infotehnoloogiasse тут], но студенты изучающие предмет на русском языке могут найти дополнительную информацию [http://kumlander.eu/itv0010/ здесь].
 	
+ts: 1454143646
+keep-ts: 1454143646
+lastmajorsummary: 
+languages: 
+ip: 89.235.235.166
+lastmajor: 6
+revision: 6
+username: Artur Gummel

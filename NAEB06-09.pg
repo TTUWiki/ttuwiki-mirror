@@ -1,3 +1,13 @@
+username: AlexDaniel
+revision: 5
+languages: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEB06/09 - Keskkonnajuhtimine Kava:50087</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEB06/09 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:50087 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924152
+keep-ts: 1441924152
+host: 82.131.7.230
 text: == NAEB06/09 - Keskkonnajuhtimine [Kava:50087 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTS0341]] Arvutigraafika I
@@ -51,15 +61,5 @@ text: == NAEB06/09 - Keskkonnajuhtimine [Kava:50087 〔Õppekava ÕIS-is〕]
 	[[NTK0630]] Veereostus ja -kaitse
 	
 	
-diff-major: 
-keep-ts: 1441924152
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-revision: 5
-ts: 1441924152
-languages: 
-username: AlexDaniel
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEB06/09 - Keskkonnajuhtimine Kava:50087</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEB06/09 - Keskkonnajuhtimine <strong class="changes">[</strong>Kava:50087 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>

@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
-ts: 1441924452
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
-blocks: [Course:29438 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
+ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Matemaatilise teksti vormistamine TEX-is
 	#SUBURL [Course:29438 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
 username: AlexDaniel
 lastmajor: 2
-host: 82.131.7.230
+ip: 89.235.235.166
+languages: 

@@ -1,15 +1,7 @@
-ts: 1441924150
 languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia Kava:1341</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia <strong class="changes">[</strong>Kava:1341 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 revision: 4
+username: AlexDaniel
 diff-major: 
-keep-ts: 1441924150
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia [Kava:1341 〔Õppekava ÕIS-is〕]
 	[[IRZ9010]] Adaptiivne signaalitöötlus
 	[[ISP9030]] Agentsüsteemide alused
@@ -79,3 +71,11 @@ text: == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia [Kava:1341 〔Õppekav
 	[[IEM9020]] Voolutoime-elektroonika ja signaalitöötlus
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924150
+ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia Kava:1341</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAQD02/02 - Info- ja kommunikatsioonitehnoloogia <strong class="changes">[</strong>Kava:1341 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

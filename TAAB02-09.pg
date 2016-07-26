@@ -1,3 +1,7 @@
+languages: 
+revision: 5
+username: AlexDaniel
+diff-major: 
 text: == TAAB02/09 - Rakenduslik majandusteadus [Kava:50045 〔Õppekava ÕIS-is〕]
 	[[TTR0070]] Avalikud suhted
 	[[TTR0170]] Avaliku sektori ökonoomika
@@ -45,15 +49,11 @@ text: == TAAB02/09 - Rakenduslik majandusteadus [Kava:50045 〔Õppekava ÕIS-is
 	[[TXX0040]] Uurimistöö II
 	
 	
-keep-ts: 1441924153
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-revision: 5
-languages: 
 ts: 1441924153
-minor: 1
+keep-ts: 1441924153
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAB02/09 - Rakenduslik majandusteadus Kava:50045</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAB02/09 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:50045 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

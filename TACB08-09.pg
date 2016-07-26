@@ -1,15 +1,7 @@
 languages: 
-ts: 1441924153
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TACB08/09 - Ärikorraldus Kava:50124</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TACB08/09 - Ärikorraldus <strong class="changes">[</strong>Kava:50124 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
 revision: 4
-keep-ts: 1441924153
+username: AlexDaniel
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == TACB08/09 - Ärikorraldus [Kava:50124 〔Õppekava ÕIS-is〕]
 	[[TIX3380]] Ärialane suhtlemine
 	[[TIX3340]] Ärieetika
@@ -60,3 +52,11 @@ text: == TACB08/09 - Ärikorraldus [Kava:50124 〔Õppekava ÕIS-is〕]
 	[[TIX3750]] Uurimistöö alused
 	
 	
+host: 82.131.7.230
+ts: 1441924153
+keep-ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TACB08/09 - Ärikorraldus Kava:50124</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TACB08/09 - Ärikorraldus <strong class="changes">[</strong>Kava:50124 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

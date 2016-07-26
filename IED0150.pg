@@ -1,7 +1,8 @@
-username: Artur Gummel
-blocks: [Course:37210 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 9
 lastmajor: 9
-host: 84.52.32.112
+ip: 84.52.48.194
+username: Artur Gummel
 text: #SUBTITLE Elektroonika
 	#SUBURL [Course:37210 〔Õppeaine ÕIS-is〕]
 	
@@ -31,12 +32,9 @@ text: #SUBTITLE Elektroonika
 	-- AlexDaniel 2014-02-26 00:10 UTC
 	
 	
-languages: 
-ip: 84.52.48.194
-minor: 
-keep-ts: 1454441548
-summary: 
-revision: 9
+host: 84.52.32.112
 lastmajorsummary: 
-flags: 1
+keep-ts: 1454441548
 ts: 1454441548
+summary: 
+minor: 

@@ -1,7 +1,8 @@
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 5
+username: AlexDaniel
 diff-major: 
-keep-ts: 1441924152
+host: 82.131.7.230
 text: == MATB02/09 - Tootearendus ja tootmistehnika [Kava:50005 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[MER0060]] APJ tootmisseadmete programmeerimine
@@ -51,11 +52,10 @@ text: == MATB02/09 - Tootearendus ja tootmistehnika [Kava:50005 〔Õppekava ÕI
 	[[MHE0012]] Tugevusõpetus II
 	
 	
-username: AlexDaniel
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == MATB02/09 - Tootearendus ja tootmistehnika Kava:50005</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == MATB02/09 - Tootearendus ja tootmistehnika <strong class="changes">[</strong>Kava:50005 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924152
 ts: 1441924152
-languages: 
-revision: 5
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

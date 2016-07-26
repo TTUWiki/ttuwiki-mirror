@@ -1,16 +1,14 @@
-ip: 89.235.235.166
-ts: 1441924447
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
 minor: 1
-revision: 4
-keep-ts: 1441924447
-flags: 1
-blocks: [Course:108463 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Ettevõtte äriarhitektuur - projekt
 	#SUBURL [Course:108463 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+ts: 1441924447
+keep-ts: 1441924447
+languages: 
+revision: 4
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2

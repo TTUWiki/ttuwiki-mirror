@@ -1,11 +1,11 @@
-revision: 1
-ts: 1408036836
-languages: 
-username: AlexDaniel
-minor: 
+host: 89.235.237.48
 text: Эта страница была удалена.
 	Спам является одной из возможных причин.
 	
-host: 89.235.237.48
+ts: 1408036836
 summary: Эта страница была удалена. Спам является одной из возможных причин.
+minor: 
+languages: 
+username: AlexDaniel
 lastmajor: 1
+revision: 1

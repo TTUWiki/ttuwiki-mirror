@@ -1,14 +1,12 @@
-host: 82.131.7.230
-ts: 1441924450
-flags: 1
+username: AlexDaniel
 revision: 2
-minor: 1
+languages: 
+ts: 1441924450
+keep-ts: 1441924450
 text: #SUBTITLE Kliendisuhete juhtimine
 	#SUBURL [Course:109416 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:109416 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
+host: 82.131.7.230
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450

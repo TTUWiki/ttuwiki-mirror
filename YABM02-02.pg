@@ -1,3 +1,6 @@
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == YABM02/02 - Biomeditsiinitehnoloogia [Kava:1041 〔Õppekava ÕIS-is〕]
 	[[DBR0010]] Anatoomia ja füsioloogia
 	[[DBR0090]] Bioelektromagnetism
@@ -25,15 +28,12 @@ text: == YABM02/02 - Biomeditsiinitehnoloogia [Kava:1041 〔Õppekava ÕIS-is〕
 	[[HLX8040]] Teadusvõõrkeel
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
-revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YABM02/02 - Biomeditsiinitehnoloogia Kava:1041</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YABM02/02 - Biomeditsiinitehnoloogia <strong class="changes">[</strong>Kava:1041 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
+keep-ts: 1441924154
 ts: 1441924154
+diff-major: 
+languages: 
+username: AlexDaniel
+revision: 4

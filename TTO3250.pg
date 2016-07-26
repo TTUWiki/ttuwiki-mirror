@@ -1,16 +1,14 @@
 username: AlexDaniel
-ts: 1441924451
-blocks: [Course:28043 〔Õppeaine ÕIS-is〕]
-revision: 4
 lastmajor: 2
-flags: 1
+revision: 4
+ip: 89.235.235.166
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+ts: 1441924451
 text: #SUBTITLE Intellektuaalse omandi õigus
 	#SUBURL [Course:28043 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1

@@ -1,16 +1,14 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-ip: 89.235.235.166
-keep-ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Väärtpaberid ja portfelliteooria
 	#SUBURL [Course:30613 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-host: 82.131.7.230
-blocks: [Course:30613 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-flags: 1
+keep-ts: 1441924450
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+languages: 
+lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+revision: 4

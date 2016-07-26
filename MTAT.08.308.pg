@@ -1,14 +1,12 @@
-revision: 2
-blocks: [Course:110059 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
-languages: 
 text: #SUBTITLE Ontoloogiate arendus
 	#SUBURL [Course:110059 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
+host: 82.131.7.230
+ts: 1441924448
 keep-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+revision: 2
+username: AlexDaniel

@@ -1,16 +1,14 @@
-minor: 1
-keep-ts: 1441924452
-flags: 1
+languages: 
+lastmajor: 2
 revision: 4
 ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:34548 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-languages: 
-lastmajor: 2
 text: #SUBTITLE Üldine keemia
 	#SUBURL [Course:34548 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924452
 ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

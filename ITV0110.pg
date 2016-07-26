@@ -1,11 +1,10 @@
-ip: 89.235.235.166
+languages: 
 revision: 5
 lastmajor: 4
-blocks: [Course:100882 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Võrgurakendused I
 	#SUBURL [Course:100882 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -17,7 +16,6 @@ text: #SUBTITLE Võrgurakendused I
 	-- AlexDaniel 2014-09-02 17:31:57
 	
 	
-flags: 1
-minor: 1
-ts: 1441924447
+host: 82.131.7.230
 keep-ts: 1441924447
+ts: 1441924447

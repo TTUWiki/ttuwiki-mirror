@@ -1,16 +1,14 @@
 keep-ts: 1441924443
-flags: 1
-lastmajor: 2
+ts: 1441924443
+host: 82.131.7.230
 text: #SUBTITLE Elektrivarustuse tulevikuvisioonid
 	#SUBURL [Course:101561 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924443
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:101561 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
 ip: 89.235.235.166
+username: AlexDaniel
 revision: 4
+lastmajor: 2
 languages: 

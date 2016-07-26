@@ -1,16 +1,14 @@
-keep-ts: 1441924444
-lastmajor: 2
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
-ts: 1441924444
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100717 〔Õppeaine ÕIS-is〕]
-revision: 4
 minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Elektrisüsteemi stabiilsus
 	#SUBURL [Course:100717 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924444
+ts: 1441924444
+languages: 
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
+lastmajor: 2

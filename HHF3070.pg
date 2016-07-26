@@ -1,16 +1,14 @@
+languages: 
+revision: 4
+lastmajor: 2
 ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:26367 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924445
-minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Filosoofia
 	#SUBURL [Course:26367 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
+ts: 1441924445
 keep-ts: 1441924445
-host: 82.131.7.230
-lastmajor: 2
-revision: 4
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,3 +1,13 @@
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFM02/09 - Tehniline füüsika Kava:50084</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFM02/09 - Tehniline füüsika <strong class="changes">[</strong>Kava:50084 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924154
+ts: 1441924154
+host: 82.131.7.230
 text: == YAFM02/09 - Tehniline füüsika [Kava:50084 〔Õppekava ÕIS-is〕]
 	[[YMA8040]] Diferentsiaalgeomeetria
 	[[EMR0180]] Elastsusteooria seminar
@@ -40,15 +50,5 @@ text: == YAFM02/09 - Tehniline füüsika [Kava:50084 〔Õppekava ÕIS-is〕]
 	[[YMA5201]] Üldalgebra alused
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-diff-major: 
-keep-ts: 1441924154
-revision: 4
-username: AlexDaniel
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFM02/09 - Tehniline füüsika Kava:50084</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFM02/09 - Tehniline füüsika <strong class="changes">[</strong>Kava:50084 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,3 +1,13 @@
+username: AlexDaniel
+revision: 5
+languages: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDLR14/14EMERA - Laevajuhtimine Kava:50282</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDLR14/14EMERA - Laevajuhtimine <strong class="changes">[</strong>Kava:50282 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+host: 82.131.7.230
 text: == VDLR14/14EMERA - Laevajuhtimine [Kava:50282 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VMS0110]] Baaslogistika
@@ -94,15 +104,5 @@ text: == VDLR14/14EMERA - Laevajuhtimine [Kava:50282 〔Õppekava ÕIS-is〕]
 	[[VAY0520]] Vene keel tüürimeestele (võõrkeelena)
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
-revision: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDLR14/14EMERA - Laevajuhtimine Kava:50282</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDLR14/14EMERA - Laevajuhtimine <strong class="changes">[</strong>Kava:50282 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-username: AlexDaniel
-languages: 
-ts: 1441924154
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

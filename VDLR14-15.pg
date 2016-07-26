@@ -1,11 +1,5 @@
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDLR14/15 - Laevajuhtimine Kava:50321</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDLR14/15 - Laevajuhtimine <strong class="changes">[</strong>Kava:50321 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924154
 text: == VDLR14/15 - Laevajuhtimine [Kava:50321 〔Õppekava ÕIS-is〕]
 	[[VMS0110]] Baaslogistika
 	[[VAY0350]] Demokraatia ja kodanikuühiskond
@@ -107,6 +101,12 @@ text: == VDLR14/15 - Laevajuhtimine [Kava:50321 〔Õppekava ÕIS-is〕]
 	
 	
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDLR14/15 - Laevajuhtimine Kava:50321</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDLR14/15 - Laevajuhtimine <strong class="changes">[</strong>Kava:50321 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 diff-major: 
+languages: 
+revision: 4
+username: AlexDaniel

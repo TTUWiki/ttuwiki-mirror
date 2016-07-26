@@ -1,14 +1,12 @@
+revision: 2
+username: AlexDaniel
 languages: 
 ts: 1441924444
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:109749 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924444
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-revision: 2
+host: 82.131.7.230
 text: #SUBTITLE Maastikuprojekt VI: Disain
 	#SUBURL [Course:109749 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

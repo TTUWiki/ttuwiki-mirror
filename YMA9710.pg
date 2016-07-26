@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ip: 89.235.235.166
-username: AlexDaniel
 languages: 
-flags: 1
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
 lastmajor: 2
-host: 82.131.7.230
 text: #SUBTITLE Tensorarvutus
 	#SUBURL [Course:35895 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
 ts: 1441924452
 keep-ts: 1441924452
-blocks: [Course:35895 〔Õppeaine ÕIS-is〕]
-revision: 4
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

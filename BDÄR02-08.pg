@@ -1,11 +1,13 @@
+username: AlexDaniel
 revision: 5
+languages: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDÄR02/08 - Rahvusvaheline majandus ja ärikorraldus Kava:50090</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDÄR02/08 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50090 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
+keep-ts: 1441924148
 ts: 1441924148
+host: 82.131.7.230
 text: == BDÄR02/08 - Rahvusvaheline majandus ja ärikorraldus [Kava:50090 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU1910]] Ärilogistika
@@ -71,7 +73,5 @@ text: == BDÄR02/08 - Rahvusvaheline majandus ja ärikorraldus [Kava:50090 〔Õ
 	[[BCU1640]] Võlaõiguse üldosa
 	
 	
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924148
-diff-major: 
+minor: 1

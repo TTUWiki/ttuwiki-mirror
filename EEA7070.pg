@@ -1,16 +1,14 @@
-flags: 1
-languages: 
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
 minor: 1
-ip: 89.235.235.166
-revision: 4
 host: 82.131.7.230
 text: #SUBTITLE Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad
 	#SUBURL [Course:106320 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924445
-blocks: [Course:106320 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+languages: 
+revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
 lastmajor: 2

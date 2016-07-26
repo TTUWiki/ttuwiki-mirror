@@ -1,16 +1,14 @@
-host: 82.131.7.230
-minor: 1
-keep-ts: 1441924451
-flags: 1
-ip: 89.235.235.166
 username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
+revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924451
+keep-ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Prantsuse keel II
 	#SUBURL [Course:102115 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924451
-revision: 4
-blocks: [Course:102115 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 

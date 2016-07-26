@@ -1,3 +1,8 @@
+languages: 
+username: AlexDaniel
+revision: 4
+diff-major: 
+host: 82.131.7.230
 text: == SDER02/09 - Elektroonsed süsteemid [Kava:50091 〔Õppekava ÕIS-is〕]
 	[[IRT0030]] Andmeside
 	[[IAF0041]] Arvutid
@@ -42,15 +47,10 @@ text: == SDER02/09 - Elektroonsed süsteemid [Kava:50091 〔Õppekava ÕIS-is〕
 	[[SKK0180]] Tootmispraktika
 	
 	
-diff-major: 
-keep-ts: 1441924153
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 4
-ts: 1441924153
-languages: 
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == SDER02/09 - Elektroonsed süsteemid Kava:50091</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == SDER02/09 - Elektroonsed süsteemid <strong class="changes">[</strong>Kava:50091 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924153
+ts: 1441924153
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

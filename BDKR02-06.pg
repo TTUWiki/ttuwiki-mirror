@@ -1,11 +1,13 @@
 revision: 4
-ts: 1441924148
-languages: 
 username: AlexDaniel
+languages: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == BDKR02/06 - Kinnisvara haldamine Kava:4088</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == BDKR02/06 - Kinnisvara haldamine <strong class="changes">[</strong>Kava:4088 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+ts: 1441924148
+keep-ts: 1441924148
+host: 82.131.7.230
 text: == BDKR02/06 - Kinnisvara haldamine [Kava:4088 〔Õppekava ÕIS-is〕]
 	[[BCU0960]] Arhitektuur
 	[[BCU1061]] Arvutigraafika I
@@ -63,7 +65,5 @@ text: == BDKR02/06 - Kinnisvara haldamine [Kava:4088 〔Õppekava ÕIS-is〕]
 	[[BCU2090]] Veevarustus, kanalisatsioon ja jäätmeärastus
 	
 	
-diff-major: 
-keep-ts: 1441924148
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

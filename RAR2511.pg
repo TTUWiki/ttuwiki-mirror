@@ -1,16 +1,14 @@
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+languages: 
+ts: 1441924450
+keep-ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Õppepraktika
 	#SUBURL [Course:39376 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-lastmajor: 2
-ts: 1441924450
-flags: 1
-minor: 1
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924450
-blocks: [Course:39376 〔Õppeaine ÕIS-is〕]
+minor: 1

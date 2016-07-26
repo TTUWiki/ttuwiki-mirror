@@ -1,14 +1,12 @@
-minor: 1
-blocks: [Course:110105 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 2
+languages: 
+keep-ts: 1441924452
 ts: 1441924452
 text: #SUBTITLE Külmutusseadmete projekteerimine
 	#SUBURL [Course:110105 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-keep-ts: 1441924452
-languages: 
-revision: 2
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

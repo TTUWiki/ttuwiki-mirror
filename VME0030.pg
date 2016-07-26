@@ -1,14 +1,12 @@
-flags: 1
+username: AlexDaniel
 revision: 2
+languages: 
+keep-ts: 1441924452
+ts: 1441924452
 host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheline avalik mereõigus
 	#SUBURL [Course:109022 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-ts: 1441924452
-keep-ts: 1441924452
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109022 〔Õppeaine ÕIS-is〕]
-languages: 

@@ -1,16 +1,14 @@
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
 ip: 89.235.235.166
-minor: 1
+lastmajor: 2
+revision: 4
+username: AlexDaniel
+languages: 
+ts: 1441924448
+keep-ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Tekstiilmaterjaliõpetus II
 	#SUBURL [Course:32094 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924448
-ts: 1441924448
-blocks: [Course:32094 〔Õppeaine ÕIS-is〕]
-revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
+minor: 1

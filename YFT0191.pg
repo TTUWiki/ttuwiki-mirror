@@ -1,5 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+languages: 
+lastmajor: 2
 revision: 4
 ip: 89.235.235.166
 username: AlexDaniel
@@ -7,10 +7,8 @@ text: #SUBTITLE Kaasaegne füüsika I
 	#SUBURL [Course:32430 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-blocks: [Course:32430 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 ts: 1441924452
 keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-host: 82.131.7.230
-lastmajor: 2

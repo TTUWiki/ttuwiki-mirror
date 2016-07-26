@@ -1,16 +1,14 @@
-keep-ts: 1441924449
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-blocks: [Course:38904 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+username: AlexDaniel
 ip: 89.235.235.166
-ts: 1441924449
-flags: 1
 revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+ts: 1441924449
+keep-ts: 1441924449
+host: 82.131.7.230
 text: #SUBTITLE Filosoofia ajalugu
 	#SUBURL [Course:38904 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,6 +1,14 @@
 diff-major: 
-keep-ts: 1441924148
+username: AlexDaniel
+revision: 4
+languages: 
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAVM02/09 - Elektroenergeetika Kava:50098</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAVM02/09 - Elektroenergeetika <strong class="changes">[</strong>Kava:50098 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924148
+keep-ts: 1441924148
 host: 82.131.7.230
 text: == AAVM02/09 - Elektroenergeetika [Kava:50098 〔Õppekava ÕIS-is〕]
 	[[AEK0080]] Alajaamad - projekt
@@ -43,11 +51,3 @@ text: == AAVM02/09 - Elektroenergeetika [Kava:50098 〔Õppekava ÕIS-is〕]
 	[[AMM0031]] Väljateooria
 	
 	
-ts: 1441924148
-languages: 
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAVM02/09 - Elektroenergeetika Kava:50098</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAVM02/09 - Elektroenergeetika <strong class="changes">[</strong>Kava:50098 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-revision: 4

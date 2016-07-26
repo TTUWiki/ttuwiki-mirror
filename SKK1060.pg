@@ -1,16 +1,14 @@
-username: AlexDaniel
-ip: 89.235.235.166
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-host: 82.131.7.230
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-revision: 4
+keep-ts: 1441924450
 text: #SUBTITLE Rakendusmehaanika
 	#SUBURL [Course:103124 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
+host: 82.131.7.230
 lastmajor: 2
-blocks: [Course:103124 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+revision: 4
+languages: 

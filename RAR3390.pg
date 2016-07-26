@@ -1,16 +1,14 @@
-host: 82.131.7.230
-keep-ts: 1441924450
-revision: 4
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-blocks: [Course:34268 〔Õppeaine ÕIS-is〕]
+revision: 4
 username: AlexDaniel
-minor: 1
+lastmajor: 2
 ip: 89.235.235.166
-ts: 1441924450
 text: #SUBTITLE Töö- ja palgakorraldus
 	#SUBURL [Course:34268 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+keep-ts: 1441924450
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

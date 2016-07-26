@@ -1,16 +1,14 @@
-flags: 1
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 revision: 4
-languages: 
 ip: 89.235.235.166
-host: 82.131.7.230
+username: AlexDaniel
+languages: 
 keep-ts: 1441924450
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Finantsjuhtimine
 	#SUBURL [Course:105022 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-lastmajor: 2
-blocks: [Course:105022 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

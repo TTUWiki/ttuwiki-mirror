@@ -1,8 +1,6 @@
-lastmajor: 1
 summary: Автоматическое обновление
+minor: 1
 host: 85.253.110.44
-keep-ts: 1438887461
-diff-major: 
 text: <include "YALD02-15">
 	
 	<include "YALD02-13">
@@ -15,11 +13,13 @@ text: <include "YALD02-15">
 	
 	
 	
-minor: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "YALD02-15"&gt;</p></div>
-username: Bot
-languages: 
-ip: 89.235.235.166
+keep-ts: 1438887461
 ts: 1438887461
+diff-major: 
+languages: 
+username: Bot
+lastmajor: 1
+ip: 89.235.235.166
 revision: 3

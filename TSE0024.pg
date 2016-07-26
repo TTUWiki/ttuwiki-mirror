@@ -1,14 +1,12 @@
-host: 82.131.7.230
-flags: 1
-blocks: [Course:103487 〔Õppeaine ÕIS-is〕]
 languages: 
-minor: 1
-keep-ts: 1441924451
+username: AlexDaniel
+revision: 2
 text: #SUBTITLE Euroopa Liidu poliitikad
 	#SUBURL [Course:103487 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924451
 ts: 1441924451
-revision: 2
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

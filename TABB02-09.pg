@@ -1,3 +1,13 @@
+username: AlexDaniel
+revision: 5
+languages: 
+diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TABB02/09 - Ärindus Kava:50049</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TABB02/09 - Ärindus <strong class="changes">[</strong>Kava:50049 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924153
+ts: 1441924153
+host: 82.131.7.230
 text: == TABB02/09 - Ärindus [Kava:50049 〔Õppekava ÕIS-is〕]
 	[[TMK0070]] Ärieetika
 	[[TMJ0030]] Ärilogistika
@@ -47,15 +57,5 @@ text: == TABB02/09 - Ärindus [Kava:50049 〔Õppekava ÕIS-is〕]
 	[[TXX0025]] Uurimistöö
 	
 	
-keep-ts: 1441924153
-diff-major: 
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 5
-languages: 
-ts: 1441924153
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TABB02/09 - Ärindus Kava:50049</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TABB02/09 - Ärindus <strong class="changes">[</strong>Kava:50049 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-username: AlexDaniel

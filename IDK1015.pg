@@ -1,3 +1,4 @@
+host: 82.131.7.230
 text: #SUBTITLE Programmeerimise põhikursus
 	#SUBURL [Course:107203 〔Õppeaine ÕIS-is〕]
 	
@@ -26,15 +27,12 @@ text: #SUBTITLE Programmeerimise põhikursus
 	==Экзамен
 	По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед "классом".
 	
-revision: 10
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-lastmajor: 8
-flags: 1
-blocks: [Course:107203 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924446
 ts: 1441924446
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 languages: 
+username: AlexDaniel
+lastmajor: 8
 ip: 84.52.43.21
+revision: 10

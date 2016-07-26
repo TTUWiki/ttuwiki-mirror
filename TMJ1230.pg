@@ -1,16 +1,14 @@
-ts: 1441924451
-languages: 
 keep-ts: 1441924451
-username: AlexDaniel
+ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Uute tehnoloogiaettevõtete loomine ja rahastamine
 	#SUBURL [Course:106267 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-host: 82.131.7.230
-blocks: [Course:106267 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 revision: 4
-flags: 1
 ip: 89.235.235.166
+lastmajor: 2
+languages: 

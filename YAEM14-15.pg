@@ -1,7 +1,13 @@
+username: AlexDaniel
+revision: 3
+languages: 
 diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAEM14/15 - Maa-teadused ja geotehnoloogia Kava:50294</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAEM14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50294 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924154
+ts: 1441924154
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == YAEM14/15 - Maa-teadused ja geotehnoloogia [Kava:50294 〔Õppekava ÕIS-is〕]
 	[[AKM0358]] Allmaakaevandamine ja projekt
 	[[AKM0170]] Allmaarajatised
@@ -59,11 +65,5 @@ text: == YAEM14/15 - Maa-teadused ja geotehnoloogia [Kava:50294 〔Õppekava ÕI
 	[[NSO8030]] Teadustöö metoodika
 	[[HLX8040]] Teadusvõõrkeel
 	
-ts: 1441924154
-languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAEM14/15 - Maa-teadused ja geotehnoloogia Kava:50294</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAEM14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50294 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-revision: 3
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

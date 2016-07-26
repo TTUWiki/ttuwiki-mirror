@@ -1,16 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+keep-ts: 1441924450
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Operatsioonisüsteemid ja arvutivõrkude administreerimine
 	#SUBURL [Course:40503 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-lastmajor: 2
-revision: 4
-blocks: [Course:40503 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924450
-flags: 1
-ts: 1441924450
 username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
 languages: 

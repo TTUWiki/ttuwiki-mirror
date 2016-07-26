@@ -1,14 +1,12 @@
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109823 〔Õppeaine ÕIS-is〕]
-languages: 
+minor: 1
+ts: 1441924444
 keep-ts: 1441924444
+host: 82.131.7.230
 text: #SUBTITLE Avakaevandamine ja projekt
 	#SUBURL [Course:109823 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924444
-minor: 1
 username: AlexDaniel
 revision: 2
+languages: 

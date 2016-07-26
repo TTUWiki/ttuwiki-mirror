@@ -1,11 +1,7 @@
-revision: 4
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia Kava:50089</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia <strong class="changes">[</strong>Kava:50089 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
 languages: 
-ts: 1441924150
+username: AlexDaniel
+revision: 4
+diff-major: 
 text: == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [Kava:50089 〔Õppekava ÕIS-is〕]
 	[[IDK9010]] Agentorienteeritud modelleerimise eriteemad
 	[[ISP9630]] Agentsüsteemide alused
@@ -48,7 +44,11 @@ text: == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia [Kava:50089 〔Õppeka
 	[[IEA9030]] Voolutoime-elektroonika ja signaalitöötlus
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
 keep-ts: 1441924150
-diff-major: 
+ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia Kava:50089</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IAQD02/09 - Info- ja kommunikatsioonitehnoloogia <strong class="changes">[</strong>Kava:50089 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

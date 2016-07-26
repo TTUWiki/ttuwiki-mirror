@@ -1,14 +1,12 @@
+revision: 2
 username: AlexDaniel
 languages: 
-minor: 1
-blocks: [Course:110386 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924453
-flags: 1
+ts: 1441924453
+host: 82.131.7.230
 text: #SUBTITLE Matemaatikapaketid
 	#SUBURL [Course:110386 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924453
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

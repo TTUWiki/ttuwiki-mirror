@@ -1,16 +1,14 @@
-host: 82.131.7.230
+languages: 
 revision: 4
-ts: 1441924450
+lastmajor: 2
+username: AlexDaniel
 ip: 89.235.235.166
-blocks: [Course:39273 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Vundamendid
 	#SUBURL [Course:39273 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-flags: 1
-languages: 
+keep-ts: 1441924450
+ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1

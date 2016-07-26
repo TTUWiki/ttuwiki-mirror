@@ -1,14 +1,14 @@
-revision: 2
-diff-minor: 
-minor: 1
 username: Bot
+revision: 2
 languages: 
+diff-major: 
+keep-ts: 1408891544
 ts: 1408891544
+diff-minor: 
 text: <include "NDFR13-13">
 	
 	
 	
-summary: Автоматическое обновление (расписание)
 host: 89.235.223.25
-keep-ts: 1408891544
-diff-major: 
+minor: 1
+summary: Автоматическое обновление (расписание)

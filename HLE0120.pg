@@ -1,16 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-ts: 1441924446
-flags: 1
-blocks: [Course:34880 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
+host: 82.131.7.230
 text: #SUBTITLE Akadeemiline vene keel
 	#SUBURL [Course:34880 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-ip: 89.235.231.110
-lastmajor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924446
+keep-ts: 1441924446
 languages: 
 revision: 3
+ip: 89.235.231.110
+username: AlexDaniel
+lastmajor: 1

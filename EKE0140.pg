@@ -1,5 +1,8 @@
+minor: 
+summary: 
+keep-ts: 1454156036
 ts: 1454156036
-ip: 84.52.48.194
+lastmajorsummary: 
 text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#SUBURL [Course:100863 〔Õppeaine ÕIS-is〕]
 	
@@ -51,14 +54,9 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	Многие понятия можно найти здесь: http://www.seit.ee/sass/?ID=1 , а также на слайдах, которые преподаватель выкладывает в ÕIS.
 	
 	
-blocks: [Course:100863 〔Õppeaine ÕIS-is〕]
-minor: 
-flags: 1
-summary: 
-username: Artur Gummel
-lastmajorsummary: 
-keep-ts: 1454156036
 host: 84.52.32.112
 revision: 20
-languages: 
+username: Artur Gummel
+ip: 84.52.48.194
 lastmajor: 20
+languages: 

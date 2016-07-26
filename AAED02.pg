@@ -1,20 +1,20 @@
-revision: 2
-languages: 
+diff-major: 
 ip: 89.235.235.166
-ts: 1408885543
+revision: 2
+lastmajor: 1
+username: Bot
+languages: 
 minor: 1
+summary: Автоматическое обновление (расписание)
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== AAED02/09 - Energia- ja geotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_kava_versioon_id=50118&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[AXX9020]] Doktoriseminar\\<br />&lt; [[AMM9001]] Elektrikvaliteedi individuaalõpe\\<br />&lt; [[AES9020]] Elektroenergeetika teadusseminar I\\<br />&lt; [[AEK9020]] Elektroenergeetika teadusseminar II\\<br />&lt; [[AME9001]] Elektromagnetilise ühilduvuse individuaalõpe\\<br />&lt; [[AME9011]] Elektrotehnika teadusseminar I\\<br />&lt; [[AMM9011]] Elektrotehnika teadusseminar II\\<br />&lt; [[AES9010]] Energiasüsteemide individuaalõpe\\<br />&lt; [[AAV9110]] Energiatehnika ja elektrivarustuse individuaalõpe\\<br />&lt; [[AAV9120]] Energiatehnika teadusseminar\\<br />&lt; [[HHI9010]] Innovatsioon\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[AEK9010]] Kõrgepingetehnika individuaalõpe\\<br />&lt; [[HHP9030]] Kõrgkoolididaktika\\<br />&lt; [[AKM9170]] Mäenduse individuaalõpe\\<br />&lt; [[AKM9160]] Mäenduse teadusseminar II\\<br />&lt; [[AXX9011]] Õpetamispraktika I\\<br />&lt; [[AXX9012]] Õpetamispraktika II\\<br />&lt; [[AKG9130]] Rakendusgeoloogia individuaalõpe\\<br />&lt; [[AKG9120]] Rakendusgeoloogia teadusseminar I\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus- ja hariduskorraldus\\<br />&lt; [[AAR9110]] Tööstusautomaatika individuaalõpe\\<br />&lt; [[AAR9120]] Tööstusautomaatika teadusseminar\\<br />&lt; ===</strong> AAED02<strong class="changes">/02 - Energia</strong>- <strong class="changes">ja geotehnika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=88&amp;p_kava_versioon_id=1314&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[AKM9140]] Allmaarajatiste erikursus\\<br />&lt; [[AAR9140]] Ametipraktika\\<br />&lt; [[AEK9220]] Dielektrikute läbilöögiteooriad\\<br />&lt; [[AAR9130]] Doktoriõppe eriseminar\\<br />&lt; [[AES9730]] Ebamäärased süsteemid\\<br />&lt; [[AAV9730]] Elektriajamite ja elektrivarustuse teadusseminar\\<br />&lt; [[AMM9010]] Elektrivõrgu parameetrite stabiliseerimine\\<br />&lt; [[AES9691]] Elektroenergeetika teadusseminar I\\<br />&lt; [[AES9692]] Elektroenergeetika teadusseminar II\\<br />&lt; [[AME8110]] Elektromagnetilise ühilduvuse erikursus\\<br />&lt; [[AME8120]] Elektrotehnika erikursus II\\<br />&lt; [[AMM9040]] Elektrotehnika eriseminar\\<br />&lt; [[AMM9050]] Elektrotehnika teadusseminar I\\<br />&lt; [[AMM9060]] Elektrotehnika teadusseminar II\\<br />&lt; [[AAV9700]] Energia ja keskkond\\<br />&lt; [[AAV9710]] Energiasalvestus ja sääst\\<br />&lt; [[AES9740]] Energiasüsteemide küberneetika\\<br />&lt; [[AES9770]] Energiasüsteemide majanduskorraldus\\<br />&lt; [[AES9750]] Energiasüsteemi optimeerimise erikursus\\<br />&lt; [[AES9760]] Energiasüsteemi siirdeprotsesside erikursus\\<br />&lt; [[AKM9120]] Eriseminar\\<br />&lt; [[AKG9060]] Geotehnika erikursus\\<br />&lt; [[AKG9070]] Hüdrogeoloogia erikursus\\<br />&lt; [[AAR9700]] Inimese ja masina vastastiktoime\\<br />&lt; [[HHP9010]] Juhtimispsühholoogia\\<br />&lt; [[AKG9050]] Kaevandusgeoloogia erikursus\\<br />&lt; [[AKG9040]] Keskkonnakaitse erikursus\\<br />&lt; [[AEK9230]] Kõrgepingetehnika erikursus\\<br />&lt; [[HHP9020]] Kõrgkoolididaktika\\<br />&lt; [[AAR9720]] Liikumise optimaaljuhtimine\\<br />&lt; [[AMM9020]] Liinide juhitav kompensatsioon\\<br />&lt; [[AKM9130]] Mäeettevõtte tehnoloogiastruktuur\\<br />&lt; [[AKM9020]] Mäetööstuse planeering\\<br />&lt; [[AKM9010]] Mäetööstuskeskkonna kujundamine\\<br />&lt; [[YMM9060]] Matemaatika doktorantidele I\\<br />&lt; [[YMR9140]] Matemaatika doktorantidele II\\<br />&lt; [[AME9030]] Muundustehnika erikursus\\<br />&lt; [[TMK9310]] Projektijuhtimine\\<br />&lt; [[HHF9030]] Teadusfilosoofia\\<br />&lt; [[HUP9010]] Teadus</strong>- <strong class="changes">ja hariduskorraldus\\<br />&lt; [[AKG9100]] Teadusseminar\\<br />&lt; [[AAR9730]] Tööstusautomaatika teadusseminar\\<br />&lt; [[AAR9710]] Tööstussüsteemide juhtimine\\<br />&lt; [[AAV9720]] Üldistatud elektrienergia muundurid\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>AAED02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "AAED02</strong>-<strong class="changes">02"&gt;</strong></p></div>
-username: Bot
+keep-ts: 1408885543
+ts: 1408885543
+host: 89.235.223.25
 text: <include "AAED02-09">
 	
 	<include "AAED02-02">
 	
 	
 	
-keep-ts: 1408885543
-diff-major: 
-lastmajor: 1
-host: 89.235.223.25
-summary: Автоматическое обновление (расписание)

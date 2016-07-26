@@ -1,3 +1,16 @@
+languages: 
+username: Bot
+ip: 89.235.235.166
+lastmajor: 3
+revision: 4
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">KATM02</strong>]] <strong class="changes">Toidutehnika</strong> ja <strong class="changes">tootearendus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">KAKM02</strong>]] <strong class="changes">Keemia-</strong> ja <strong class="changes">keskkonnakaitse tehnoloogia</strong>\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[KATM02]] Toidutehnika ja tootearendus\\<br />&gt; \\<br />&gt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\<br />&gt; \\</p></div>
 text: [[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia
 	[[KAOB02]] Puidu- ja tekstiilitehnoloogia
 	[[KATB02]] Toidutehnika ja tootearendus
@@ -13,23 +26,10 @@ text: [[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia
 	
 	
 host: 89.235.223.25
-summary: Автоматическое обновление (расписание)
-lastmajor: 3
+ts: 1408885756
 keep-ts: 1408885756
-diff-major: <p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia\\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">KATM02</strong>]] <strong class="changes">Toidutehnika</strong> ja <strong class="changes">tootearendus</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">KAKM02</strong>]] <strong class="changes">Keemia-</strong> ja <strong class="changes">keskkonnakaitse tehnoloogia</strong>\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[KAOM02]] Materjalitehnoloogia\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[KATM02]] Toidutehnika ja tootearendus\\<br />&gt; \\<br />&gt; [[KAAD02]] Keemia- ja materjalitehnoloogia\\<br />&gt; \\</p></div>
-revision: 4
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia<strong class="changes">\\</strong><br />&lt; [[KAOB02]] <strong class="changes">Materjalitehnoloogia\\</strong><br />&lt; [[KATB02]] Toidutehnika ja tootearendus<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia<strong class="changes">\\</strong><br />&lt; [[KAYM09]] Materjalid ja protsessid jätkusuutlikus energeetikas<strong class="changes">\\</strong><br />&lt; [[KAOM02]] Materjalitehnoloogia<strong class="changes">\\</strong><br />&lt; [[KVEM12]] Puidu- ja plastitehnoloogia<strong class="changes">\\</strong><br />&lt; [[KATM02]] Toidutehnika ja tootearendus<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[KAAD02]] Keemia- ja materjalitehnoloogia<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[KAKB02]] Keemia- ja keskkonnakaitse tehnoloogia<br />&gt; [[KAOB02]] <strong class="changes">Puidu- ja tekstiilitehnoloogia</strong><br />&gt; [[KATB02]] Toidutehnika ja tootearendus<br />&gt; [[KAKM02]] Keemia- ja keskkonnakaitse tehnoloogia<br />&gt; [[KAYM09]] Materjalid ja protsessid jätkusuutlikus energeetikas<br />&gt; [[KAOM02]] Materjalitehnoloogia<br />&gt; [[KVEM12]] Puidu- ja plastitehnoloogia<br />&gt; [[KATM02]] Toidutehnika ja tootearendus<br />&gt; [[KAAD02]] Keemia- ja materjalitehnoloogia</p></div>
+summary: Автоматическое обновление (расписание)
 minor: 1
-username: Bot
-languages: 
-ts: 1408885756
-ip: 89.235.235.166

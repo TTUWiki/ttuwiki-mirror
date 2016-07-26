@@ -1,14 +1,12 @@
-flags: 1
-username: AlexDaniel
-ts: 1441924449
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitushanke juhtimine
 	#SUBURL [Course:109745 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+ts: 1441924449
 keep-ts: 1441924449
+languages: 
 revision: 2
-minor: 1
-blocks: [Course:109745 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

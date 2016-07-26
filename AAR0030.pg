@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-ts: 1441924443
-ip: 89.235.235.166
-blocks: [Course:31225 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Sissejuhatus robotitehnikasse
 	#SUBURL [Course:31225 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-languages: 
-minor: 1
+ts: 1441924443
 keep-ts: 1441924443
-host: 82.131.7.230
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166

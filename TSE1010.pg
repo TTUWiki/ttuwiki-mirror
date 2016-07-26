@@ -1,16 +1,14 @@
+username: AlexDaniel
+lastmajor: 2
+revision: 4
 ip: 89.235.235.166
-blocks: [Course:101902 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924451
+keep-ts: 1441924451
 text: #SUBTITLE Euroopa poliitiline integratsioon
 	#SUBURL [Course:101902 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
 host: 82.131.7.230
-keep-ts: 1441924451
-languages: 
-ts: 1441924451
-lastmajor: 2
-revision: 4
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1

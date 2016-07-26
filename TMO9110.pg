@@ -1,16 +1,14 @@
-blocks: [Course:37390 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Juhtimise eriseminar
 	#SUBURL [Course:37390 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-keep-ts: 1441924451
-ip: 89.235.235.166
 ts: 1441924451
-flags: 1
+keep-ts: 1441924451
+languages: 
+revision: 4
+ip: 89.235.235.166
 username: AlexDaniel
-host: 82.131.7.230
+lastmajor: 2

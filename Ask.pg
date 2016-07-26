@@ -1,15 +1,12 @@
-revision: 8
-blocks: </div></div>
-keep-ts: 1445556642
-ts: 1445556642
-summary: 
-flags: 0
-host: 85.253.178.230
-lastmajor: 7
-languages: 
-lastmajorsummary: EST translation added
 minor: 1
+host: 85.253.178.230
+summary: 
+ts: 1445556642
 username: MaryBoom
+blocks: </div></div>
+revision: 8
+keep-ts: 1445556642
+lastmajor: 7
 text: == Most recent question / Viimane küsimus / Последний вопрос
 	<Journal 1,10 "^Вопрос_\d+">
 	
@@ -30,3 +27,6 @@ text: == Most recent question / Viimane küsimus / Последний вопро
 	Все вопросы видны на [[Questions|отдельной странице]].
 	
 	
+languages: 
+lastmajorsummary: EST translation added
+flags: 0

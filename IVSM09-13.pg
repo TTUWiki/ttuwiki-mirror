@@ -1,15 +1,12 @@
+username: AlexDaniel
+revision: 4
 languages: 
+diff-major: 
 ts: 1441924151
-minor: 1
+keep-ts: 1441924151
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IVSM09/13 - Tarkvaratehnika Kava:50242</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IVSM09/13 - Tarkvaratehnika <strong class="changes">[</strong>Kava:50242 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924151
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == IVSM09/13 - Tarkvaratehnika [Kava:50242 〔Õppekava ÕIS-is〕]
 	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[ITI8590]] Algoritmide ja andmestruktuuride erikursus
@@ -52,3 +49,6 @@ text: == IVSM09/13 - Tarkvaratehnika [Kava:50242 〔Õppekava ÕIS-is〕]
 	[[MTAT.03.247]] Turvalise tarkvaradisaini põhimõtted: projektitöö
 	
 	
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

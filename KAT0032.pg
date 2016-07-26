@@ -1,16 +1,14 @@
-ip: 89.235.235.166
-keep-ts: 1441924447
 username: AlexDaniel
-flags: 1
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
 languages: 
-minor: 1
+ts: 1441924447
+keep-ts: 1441924447
+host: 82.131.7.230
 text: #SUBTITLE Protsesside bilansid ja projekteerimine II
 	#SUBURL [Course:100066 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-blocks: [Course:100066 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447

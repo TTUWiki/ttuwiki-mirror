@@ -1,11 +1,11 @@
-summary: описание
-host: 193.40.244.196
+revision: 1
+username: AlexDaniel
 lastmajor: 1
+languages: 
+ts: 1441278813
 text: Под этим ником вносятся автоматические изменения (например, обновление расписаний). 
 	Смотрите информацию про [[Генерация Страниц|генерацию страниц]].
 	
-username: AlexDaniel
+host: 193.40.244.196
 minor: 
-ts: 1441278813
-languages: 
-revision: 1
+summary: описание

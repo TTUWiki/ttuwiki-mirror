@@ -1,14 +1,12 @@
+languages: 
+revision: 2
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Keskkonna- ja säästva arengu poliitika
 	#SUBURL [Course:109972 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924451
-minor: 1
-languages: 
-username: AlexDaniel
-flags: 1
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924451
-blocks: [Course:109972 〔Õppeaine ÕIS-is〕]
-revision: 2
+keep-ts: 1441924451

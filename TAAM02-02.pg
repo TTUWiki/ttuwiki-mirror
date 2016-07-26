@@ -1,15 +1,10 @@
-languages: 
-ts: 1441924153
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+ts: 1441924153
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAAM02/02 - Rakenduslik majandusteadus Kava:720</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAAM02/02 - Rakenduslik majandusteadus <strong class="changes">[</strong>Kava:720 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 5
-keep-ts: 1441924153
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == TAAM02/02 - Rakenduslik majandusteadus [Kava:720 〔Õppekava ÕIS-is〕]
 	[[TTR1020]] Arenguökonoomika
 	[[TTR1030]] Avaliku sektori ökonoomika
@@ -34,3 +29,8 @@ text: == TAAM02/02 - Rakenduslik majandusteadus [Kava:720 〔Õppekava ÕIS-is�
 	[[TER1351]] Väärtpaberid ja portfelliteooria
 	
 	
+host: 82.131.7.230
+diff-major: 
+revision: 5
+username: AlexDaniel
+languages: 

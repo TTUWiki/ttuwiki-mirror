@@ -1,16 +1,14 @@
 languages: 
 revision: 4
-username: AlexDaniel
 ip: 89.235.235.166
-flags: 1
 lastmajor: 2
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924445
-minor: 1
-blocks: [Course:106223 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Transpordivõrk
 	#SUBURL [Course:106223 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+keep-ts: 1441924445
+ts: 1441924445
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

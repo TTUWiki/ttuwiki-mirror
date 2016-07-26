@@ -1,7 +1,5 @@
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924154
-diff-major: 
+minor: 1
 text: == YAFD06/09 - Tehniline füüsika [Kava:50085 〔Õppekava ÕIS-is〕]
 	[[YFX9020]] Ametipraktika
 	[[YMR9020]] Arvutusmeetodid
@@ -55,11 +53,13 @@ text: == YAFD06/09 - Tehniline füüsika [Kava:50085 〔Õppekava ÕIS-is〕]
 	[[YMR9030]] Variatsioonmeetodid
 	
 	
-minor: 1
+host: 82.131.7.230
+ts: 1441924154
+keep-ts: 1441924154
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == YAFD06/09 - Tehniline füüsika Kava:50085</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == YAFD06/09 - Tehniline füüsika <strong class="changes">[</strong>Kava:50085 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+diff-major: 
 languages: 
-ts: 1441924154
 revision: 4
+username: AlexDaniel

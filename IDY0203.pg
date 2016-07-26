@@ -1,16 +1,14 @@
-minor: 1
-lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	#SUBURL [Course:101540 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924447
-blocks: [Course:101540 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
 ts: 1441924447
-revision: 4
-host: 82.131.7.230
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 languages: 
+revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
+lastmajor: 2

@@ -1,8 +1,11 @@
 diff-major: 
-keep-ts: 1408885684
+languages: 
+revision: 2
+ip: 89.235.235.166
 lastmajor: 1
+username: Bot
+minor: 1
 summary: Автоматическое обновление (расписание)
-host: 89.235.223.25
 text: <include "IAEM02-11">
 	
 	<include "IAEM02-09">
@@ -11,12 +14,9 @@ text: <include "IAEM02-11">
 	
 	
 	
+host: 89.235.223.25
+keep-ts: 1408885684
 ts: 1408885684
-ip: 89.235.235.166
-languages: 
-username: Bot
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">=== IAEM02/11 - Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50172&amp;p_net=intranet&amp;p_lang=ET</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_rezhiim=0&amp;p_mode=1&amp;p_from=]<br />&lt; [[IED3010]] Analoog/digitaal skeemide disain\\<br />&lt; [[IEM3040]] Andmehõivesüsteemid\\<br />&lt; [[IEM3240]] Biomeditsiinielektroonika\\<br />&lt; [[DBB0220]] Biomeditsiiniseadmed\\<br />&lt; [[DBR0150]] Biosensoorika\\<br />&lt; [[IEX3010]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IEX3020]] Elektroonika erikursus\\<br />&lt; [[IED3080]] Elektroonika- ja sidetööstus\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IED3090]] Erialapraktika\\<br />&lt; [[TMJ0110]] Ettevõtluse alused\\<br />&lt; [[IEM3220]] Füsioloogia ja tehnika\\<br />&lt; [[IBX0030]] Innovaatika ja loov probleemilahendus\\<br />&lt; [[IEM0230]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[IED3040]] Kiipdisain\\<br />&lt; [[IEM0290]] Kõne analüüs ja süntees\\<br />&lt; [[IED3030]] Mikroelektroonika\\<br />&lt; [[IED3070]] Nanoelektroonika\\<br />&lt; [[IEM3010]] Navigeerimine ja positsioneerimine\\<br />&lt; [[DBB0300]] Optoelektroonika ja integraaloptika\\<br />&lt; [[IBX0020]] Robootika\\<br />&lt; [[IEM0250]] Sensorsignaalitöötlus\\<br />&lt; [[IEA0200]] Sensorvõrgud\\<br />&lt; [[IRZ0140]] Signaalid ja signaalitöötlus\\<br />&lt; [[IED3060]] Tahkiselektroonika\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[IEM3020]] Test ja diagnostika\\<br />&lt; ===</strong> IAEM02<strong class="changes">/09</strong> - <strong class="changes">Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=50070&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IEM0030]] Andmehõivesüsteemid\\<br />&lt; [[IEM0240]] Biomeditsiinielektroonika\\<br />&lt; [[DBR0150]] Biosensoorika\\<br />&lt; [[IEX0210]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IEX0270]] Elektroonika erikursus\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IED0260]] Erialapraktika\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[IEM0220]] Füsioloogia ja tehnika\\<br />&lt; [[IBX0030]] Innovaatika ja loov probleemilahendus\\<br />&lt; [[IEM0230]] Juhtimine ja side elektronsüsteemides\\<br />&lt; [[IED0250]] Kiipdisain\\<br />&lt; [[IEM0290]] Kõne analüüs ja süntees\\<br />&lt; [[IED0060]] Mikro- ja nanoelektroonika\\<br />&lt; [[IEM0260]] Mobiilsed positsioneerimissüsteemid\\<br />&lt; [[DBB0070]] Optoelektroonika ja integraaloptika\\<br />&lt; [[IED0200]] Pooljuhtseadised\\<br />&lt; [[IBX0020]] Robootika\\<br />&lt; [[IEM0250]] Sensorsignaalitöötlus\\<br />&lt; [[IEA0200]] Sensorvõrgud\\<br />&lt; [[IED0220]] Tahkiselektroonika\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[IEM0270]] Test ja diagnostika elektroonikas\\<br />&lt; ===</strong> IAEM02<strong class="changes">/02</strong> - <strong class="changes">Elektroonika ja bioonika [http://ois.ttu.ee/portal/page?_pageid=35,428589&amp;_dad=portal&amp;_schema=PORTAL&amp;p_action=view&amp;p_fk_str_yksus_id=91&amp;p_kava_versioon_id=1092&amp;p_net=intranet&amp;p_lang=ET&amp;p_rezhiim=0&amp;</strong><strong class="changes">p_mode=1</strong>&<strong class="changes">amp</strong>;<strong class="changes">p_from=]<br />&lt; [[IEM0030]] Andmehõivesüsteemid\\<br />&lt; [[ISC0021]] ASIC disain\\<br />&lt; [[IEM0070]] Biomeditsiinielektroonika\\<br />&lt; [[IEX0010]] Elektronsüsteemid - kompleksprojekt\\<br />&lt; [[IED0070]] Elektroonika erikursus I\\<br />&lt; [[IEM0060]] Elektroonika erikursus II\\<br />&lt; [[TMT0040]] Ergonoomika\\<br />&lt; [[IED0120]] Erialapraktika\\<br />&lt; [[TMJ3330]] Ettevõtte majandusõpetus\\<br />&lt; [[IED0080]] Kiipdisain\\<br />&lt; [[IAY0130]] Kiipsüsteemi disain\\<br />&lt; [[IEM0080]] Kõne analüüs ja süntees\\<br />&lt; [[MHK0030]] Mehhatroonika\\<br />&lt; [[IED0060]] Mikro- ja nanoelektroonika\\<br />&lt; [[IED0140]] Mikrolülituste skeemitehnika\\<br />&lt; [[IEM0040]] Mobiilsed navigatsioonisüsteemid\\<br />&lt; [[IED0190]] Optoelektroonika ja integraaloptika\\<br />&lt; [[IRM0090]] RF disaini paketid\\<br />&lt; [[IAY0070]] Riist</strong>- <strong class="changes">ja tarkvara koosdisain\\<br />&lt; [[IAY0040]] Riistvara kirjelduskeeled ja modelleerimine\\<br />&lt; [[IED0050]] Sensoorika\\<br />&lt; [[IEM0050]] Sensorsignaalitöötlus\\<br />&lt; [[HLX8040]] Teadusvõõrkeel\\<br />&lt; [[IEM0020]] Test ja diagnostika elektroonikas\\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IAEM02-<strong class="changes">11"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "</strong>IAEM02-<strong class="changes">09"&gt;</strong><br />&gt; &<strong class="changes">lt</strong>;<strong class="changes">include "IAEM02</strong>-<strong class="changes">02"&gt;</strong></p></div>
-revision: 2

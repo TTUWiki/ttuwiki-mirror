@@ -1,14 +1,12 @@
-blocks: [Course:106850 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-minor: 1
+keep-ts: 1441924449
+ts: 1441924449
+host: 82.131.7.230
 text: #SUBTITLE Automaatika alused
 	#SUBURL [Course:106850 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924449
-flags: 1
-ts: 1441924449
-revision: 2
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 2
+languages: 

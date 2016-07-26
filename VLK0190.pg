@@ -1,14 +1,12 @@
-flags: 1
+languages: 
 revision: 2
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109102 〔Õppeaine ÕIS-is〕]
-minor: 1
+username: AlexDaniel
 text: #SUBTITLE Keskkonnaohutus
 	#SUBURL [Course:109102 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924452
-languages: 
 host: 82.131.7.230
-username: AlexDaniel
+keep-ts: 1441924452
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

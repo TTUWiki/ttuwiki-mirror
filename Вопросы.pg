@@ -1,16 +1,16 @@
-revision: 3
-username: AlexDaniel
-minor: 
-ts: 1444780198
-lastmajorsummary: Moved to Questions
 languages: 
+username: AlexDaniel
+revision: 3
+lastmajor: 3
 text: DeletedPage
 	
 	Вы можете **[[Задать вопрос|задать свой вопрос]]**.
 	\\
 	<Journal 10 "^Вопрос_\d+">
 	
-summary: Moved to Questions
 host: 82.131.4.24
-lastmajor: 3
+lastmajorsummary: Moved to Questions
 keep-ts: 1444780198
+ts: 1444780198
+minor: 
+summary: Moved to Questions

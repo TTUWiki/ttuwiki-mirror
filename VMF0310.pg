@@ -1,14 +1,12 @@
-host: 82.131.7.230
 username: AlexDaniel
-flags: 1
-blocks: [Course:109128 〔Õppeaine ÕIS-is〕]
+revision: 2
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+keep-ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Mikrobioloogia
 	#SUBURL [Course:109128 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-revision: 2
-ts: 1441924452
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1

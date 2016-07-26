@@ -1,16 +1,14 @@
 minor: 1
-blocks: [Course:36875 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheline majandus ja rahandus
 	#SUBURL [Course:36875 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
-ts: 1441924451
-keep-ts: 1441924451
-flags: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+username: AlexDaniel
+languages: 

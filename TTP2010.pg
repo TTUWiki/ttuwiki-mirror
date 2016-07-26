@@ -1,16 +1,14 @@
+languages: 
+revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Balti majandus
 	#SUBURL [Course:37154 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924451
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-blocks: [Course:37154 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-username: AlexDaniel
 host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
+keep-ts: 1441924451
+ts: 1441924451

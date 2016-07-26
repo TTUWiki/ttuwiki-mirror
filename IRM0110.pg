@@ -1,16 +1,14 @@
+keep-ts: 1441924447
 ts: 1441924447
 host: 82.131.7.230
-flags: 1
-blocks: [Course:107010 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-lastmajor: 2
-languages: 
 text: #SUBTITLE Laineväljad ja antennid
 	#SUBURL [Course:107010 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 revision: 4
-keep-ts: 1441924447
+ip: 89.235.235.166
+username: AlexDaniel
+languages: 

@@ -1,14 +1,7 @@
-revision: 6
-lastmajor: 6
-flags: 1
-host: 84.52.32.112
-ip: 89.235.235.166
-languages: 
-blocks: [Course:100805 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454267391
-summary: 
 lastmajorsummary: 
-username: Artur Gummel
+ts: 1454267391
+keep-ts: 1454267391
+host: 84.52.32.112
 text: #SUBTITLE Programmeerimise põhikursus Javas
 	#SUBURL [Course:100805 〔Õppeaine ÕIS-is〕]
 	
@@ -19,5 +12,10 @@ text: #SUBTITLE Programmeerimise põhikursus Javas
 	
 	
 	
+summary: 
 minor: 
-ts: 1454267391
+ip: 89.235.235.166
+username: Artur Gummel
+revision: 6
+lastmajor: 6
+languages: 

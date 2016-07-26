@@ -1,3 +1,10 @@
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924154
+keep-ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAFM02/02 - Tehniline füüsika Kava:1265</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAFM02/02 - Tehniline füüsika <strong class="changes">[</strong>Kava:1265 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == YAFM02/02 - Tehniline füüsika [Kava:1265 〔Õppekava ÕIS-is〕]
 	[[EMR9090]] Biomehaanika seminar
 	[[NSO0030]] Dünaamiline okeanograafia
@@ -41,15 +48,8 @@ text: == YAFM02/02 - Tehniline füüsika [Kava:1265 〔Õppekava ÕIS-is〕]
 	[[NGG8020]] Üldine ja füüsikaline geoloogia
 	
 	
-diff-major: 
-keep-ts: 1441924154
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
-ts: 1441924154
-languages: 
+diff-major: 
 username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAFM02/02 - Tehniline füüsika Kava:1265</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAFM02/02 - Tehniline füüsika <strong class="changes">[</strong>Kava:1265 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+revision: 4
+languages: 

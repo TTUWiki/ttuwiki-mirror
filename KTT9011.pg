@@ -1,16 +1,14 @@
-blocks: [Course:102348 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-keep-ts: 1441924448
-flags: 1
 ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+keep-ts: 1441924448
 ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Täiendavad peatükid toiduteadusest ja -tehnoloogiast II
 	#SUBURL [Course:102348 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-revision: 4
-minor: 1

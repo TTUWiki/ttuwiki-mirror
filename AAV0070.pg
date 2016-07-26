@@ -1,16 +1,14 @@
+languages: 
+username: AlexDaniel
 lastmajor: 2
-keep-ts: 1441924443
+revision: 4
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Elektriajamite ja tööstusautomaatika teadusseminar
 	#SUBURL [Course:31006 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924443
-languages: 
-minor: 1
-revision: 4
-flags: 1
+keep-ts: 1441924443
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:31006 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230
+minor: 1

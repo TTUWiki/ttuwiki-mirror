@@ -1,16 +1,16 @@
-keep-ts: 1444779057
-lastmajor: 2
-host: 82.131.4.24
 summary: Moved to Humor
+minor: 
+lastmajorsummary: Moved to Humor
+keep-ts: 1444779057
+ts: 1444779057
 text: DeletedPage
 	
 	Забавные ссылки:
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
-lastmajorsummary: Moved to Humor
-ts: 1444779057
-languages: 
-username: AlexDaniel
-minor: 
+host: 82.131.4.24
 revision: 2
+username: AlexDaniel
+lastmajor: 2
+languages: 

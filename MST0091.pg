@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
 keep-ts: 1441924448
 ts: 1441924448
-languages: 
-blocks: [Course:39772 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
 host: 82.131.7.230
-ip: 89.235.235.166
 text: #SUBTITLE Soojusfüüsika erikursus
 	#SUBURL [Course:39772 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+languages: 

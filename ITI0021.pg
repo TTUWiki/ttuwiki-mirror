@@ -1,14 +1,6 @@
-flags: 1
 lastmajorsummary: 
-ip: 89.235.235.166
-ts: 1454421105
-languages: 
-minor: 
-lastmajor: 15
-revision: 15
 keep-ts: 1454421105
-host: 84.52.32.112
-blocks: [Course:100803 〔Õppeaine ÕIS-is〕]
+ts: 1454421105
 text: #SUBTITLE Loogiline programmeerimine
 	#SUBURL [Course:100803 〔Õppeaine ÕIS-is〕]
 	
@@ -32,5 +24,11 @@ text: #SUBTITLE Loogiline programmeerimine
 	
 	
 	
+host: 84.52.32.112
+minor: 
 summary: 
+revision: 15
+lastmajor: 15
+ip: 89.235.235.166
 username: Artur Gummel
+languages: 

@@ -1,16 +1,14 @@
-blocks: [Course:29563 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-ts: 1441924445
-host: 82.131.7.230
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Geodeetilised instrumendid
 	#SUBURL [Course:29563 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+ts: 1441924445
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+languages: 
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
 revision: 4

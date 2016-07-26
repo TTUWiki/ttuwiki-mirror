@@ -1,3 +1,16 @@
+diff-major: 1
+username: AlexDaniel
+revision: 3
+lastmajor: 3
+languages: 
+minor: 
+summary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development<br />&gt; -- AlexDaniel 2015-09-25 22:34:29</p></div>
+keep-ts: 1443209669
+lastmajorsummary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
+ts: 1443209669
+host: 84.52.29.248
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -9,18 +22,3 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- AlexDaniel 2015-09-25 22:34:29
 	
 	
-blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
-lastmajor: 3
-ts: 1443209669
-host: 84.52.29.248
-lastmajorsummary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
-summary: https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development
-diff-major: 1
-keep-ts: 1443209669
-minor: 
-languages: 
-flags: 1
-revision: 3
-username: AlexDaniel
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; https://courses.cs.ttu.ee/pages/Teadmisp%C3%B5hise_tarkvaraarenduse_meetodid_/_Methods_of_Knowledge_Based_Software_Development<br />&gt; -- AlexDaniel 2015-09-25 22:34:29</p></div>

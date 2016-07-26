@@ -1,3 +1,6 @@
+lastmajorsummary: 
+keep-ts: 1454443393
+ts: 1454443393
 text: #SUBTITLE Kasutajaliidesed
 	#SUBURL [Course:100884 〔Õppeaine ÕIS-is〕]
 	
@@ -17,16 +20,11 @@ text: #SUBTITLE Kasutajaliidesed
 	http://lambda.ee/wiki/Kasutajaliidesed
 	
 	
-lastmajor: 5
-username: Artur Gummel
-keep-ts: 1454443393
-blocks: [Course:100884 〔Õppeaine ÕIS-is〕]
-minor: 
-summary: 
-flags: 1
 host: 84.52.32.112
-languages: 
-ts: 1454443393
+summary: 
+minor: 
+username: Artur Gummel
+lastmajor: 5
 ip: 89.235.235.166
 revision: 5
-lastmajorsummary: 
+languages: 

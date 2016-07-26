@@ -1,8 +1,12 @@
-languages: 
 lastmajor: 2
-lastmajorsummary: important link has to be bold
-host: 85.253.177.126
 revision: 2
+username: AlexDaniel
+languages: 
+summary: important link has to be bold
+minor: 
+lastmajorsummary: important link has to be bold
+keep-ts: 1454443326
+ts: 1454443326
 text: #ENG
 	If you have found some bug on this website, please **create a new [[https://github.com/TTUWiki/ttuwiki-website/issues issue on GitHub]]**. Feature requests are welcome too!
 	
@@ -13,10 +17,4 @@ text: #ENG
 	
 	Если у вас нет аккаунта на GitHub (или если вы не хотите его создавать), тогда просто оставьте комментарий здесь!
 	
-minor: 
-blocks: </div></div>
-flags: 0
-summary: important link has to be bold
-ts: 1454443326
-keep-ts: 1454443326
-username: AlexDaniel
+host: 85.253.177.126

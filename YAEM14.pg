@@ -1,10 +1,10 @@
-revision: 1
-minor: 1
-username: Bot
-languages: 
-ts: 1438887449
 text: <include "YAEM14-15">
 	
 	
-summary: Автоматическое обновление
 host: 85.253.110.44
+ts: 1438887449
+summary: Автоматическое обновление
+minor: 1
+languages: 
+username: Bot
+revision: 1

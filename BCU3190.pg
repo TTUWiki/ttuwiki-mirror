@@ -1,16 +1,14 @@
-keep-ts: 1441924444
-blocks: [Course:100928 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
-flags: 1
+languages: 
 revision: 4
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Finantsanalüüs - ainetöö
 	#SUBURL [Course:100928 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+host: 82.131.7.230
+keep-ts: 1441924444
 ts: 1441924444
-lastmajor: 2
 minor: 1
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

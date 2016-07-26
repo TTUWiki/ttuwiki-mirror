@@ -1,11 +1,6 @@
-revision: 4
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TASB08/10 - Rahvusvahelised suhted Kava:50149</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TASB08/10 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50149 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924153
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == TASB08/10 - Rahvusvahelised suhted [Kava:50149 〔Õppekava ÕIS-is〕]
 	[[TSK0110]] Aasia uuringud
 	[[TSK0309]] Avalik esinemine
@@ -63,7 +58,12 @@ text: == TASB08/10 - Rahvusvahelised suhted [Kava:50149 〔Õppekava ÕIS-is〕]
 	[[TSE0040]] XX sajandi Euroopa ajalugu
 	
 	
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TASB08/10 - Rahvusvahelised suhted Kava:50149</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TASB08/10 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50149 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924153
 keep-ts: 1441924153
 diff-major: 
+languages: 
+username: AlexDaniel
+revision: 4

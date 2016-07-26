@@ -1,16 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE Rahvusvahelised julgeoleku-uuringud
 	#SUBURL [Course:101980 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-languages: 
-blocks: [Course:101980 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
 host: 82.131.7.230
-revision: 4
-minor: 1
+ts: 1441924451
 keep-ts: 1441924451
+languages: 
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+revision: 4

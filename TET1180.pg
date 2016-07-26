@@ -1,16 +1,14 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
+languages: 
+keep-ts: 1441924450
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Rakenduslik majandusanalüüs
 	#SUBURL [Course:108368 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924450
-lastmajor: 2
-flags: 1
-blocks: [Course:108368 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924450
-languages: 
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

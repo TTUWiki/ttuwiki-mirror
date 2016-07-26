@@ -1,11 +1,8 @@
-revision: 4
-ts: 1441924152
 languages: 
+revision: 4
 username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika Kava:50206</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika <strong class="changes">[</strong>Kava:50206 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+diff-major: 
+host: 82.131.7.230
 text: == NDFR14/15 - Küberfüüsikaline süsteemitehnika [Kava:50206 〔Õppekava ÕIS-is〕]
 	[[NTR0160]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[NTX0010]] Akadeemiline võõrkeel
@@ -59,7 +56,10 @@ text: == NDFR14/15 - Küberfüüsikaline süsteemitehnika [Kava:50206 〔Õppeka
 	[[NTR0030]] Võrgurakendused
 	
 	
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika Kava:50206</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NDFR14/15 - Küberfüüsikaline süsteemitehnika <strong class="changes">[</strong>Kava:50206 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924152
-host: 82.131.7.230
+ts: 1441924152
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,11 +1,14 @@
 revision: 3
-languages: 
+username: Bot
 ip: 89.235.235.166
-ts: 1438886283
-minor: 1
+lastmajor: 1
+languages: 
+diff-major: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "EABM03-15"&gt;</p></div>
-username: Bot
+keep-ts: 1438886283
+ts: 1438886283
+host: 85.253.110.44
 text: <include "EABM03-15">
 	
 	<include "EABM03-09">
@@ -16,8 +19,5 @@ text: <include "EABM03-15">
 	
 	
 	
-keep-ts: 1438886283
-diff-major: 
-lastmajor: 1
+minor: 1
 summary: Автоматическое обновление
-host: 85.253.110.44

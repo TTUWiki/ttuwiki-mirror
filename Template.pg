@@ -1,13 +1,12 @@
-blocks: </div></div>
-lastmajor: 1
-languages: 
-flags: 0
-lastmajorsummary: Moved
-ts: 1444779829
-revision: 1
-summary: Moved
-host: 82.131.4.24
 username: AlexDaniel
+lastmajor: 1
+revision: 1
+languages: 
+summary: Moved
+minor: 
+ts: 1444779829
+lastmajorsummary: Moved
+host: 82.131.4.24
 text: #RUS
 	
 	При создании новых страниц можно воспользоваться данным шаблоном:
@@ -28,4 +27,3 @@ text: #RUS
 	
 	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
 	
-minor: 

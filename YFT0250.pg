@@ -1,16 +1,14 @@
-host: 82.131.7.230
-blocks: [Course:32447 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-flags: 1
-revision: 4
-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Elektrodünaamika
 	#SUBURL [Course:32447 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-languages: 
+ts: 1441924452
 keep-ts: 1441924452
+languages: 
+revision: 4
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel

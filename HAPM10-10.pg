@@ -1,3 +1,8 @@
+ts: 1441924150
+keep-ts: 1441924150
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == HAPM10/10 - Personalitöö ja -arendus Kava:50142</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == HAPM10/10 - Personalitöö ja -arendus <strong class="changes">[</strong>Kava:50142 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == HAPM10/10 - Personalitöö ja -arendus [Kava:50142 〔Õppekava ÕIS-is〕]
 	[[HPP8113]] Andragoogika alused
 	[[HHM1130]] Avalik teenistus
@@ -41,15 +46,10 @@ text: == HAPM10/10 - Personalitöö ja -arendus [Kava:50142 〔Õppekava ÕIS-is
 	[[HPP8212]] Virtuaalsed, mobiilsed ja multilokaalsed töökohad
 	
 	
-diff-major: 
-keep-ts: 1441924150
 host: 82.131.7.230
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 revision: 4
-ts: 1441924150
-languages: 
 username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == HAPM10/10 - Personalitöö ja -arendus Kava:50142</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == HAPM10/10 - Personalitöö ja -arendus <strong class="changes">[</strong>Kava:50142 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+languages: 
+diff-major: 

@@ -1,12 +1,6 @@
-revision: 5
-username: Bot
+summary: Автоматическое обновление
 minor: 1
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[YAEM14]] Maa-teadused ja geotehnoloogia</p></div>
-ts: 1438886325
-ip: 89.235.235.166
-languages: 
+host: 85.253.110.44
 text: [[AAVB02]] Elektroenergeetika
 	[[AAAB02]] Elektrotehnika
 	[[AAGB02]] Geotehnoloogia
@@ -22,13 +16,19 @@ text: [[AAVB02]] Elektroenergeetika
 	
 	
 	
-summary: Автоматическое обновление
-host: 85.253.110.44
-lastmajor: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[YAEM14]] Maa-teadused ja geotehnoloogia</p></div>
+keep-ts: 1438886325
+ts: 1438886325
 diff-major: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[AAVB02]] Elektroenergeetika\\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&lt; [[AAED02]] Energia- ja geotehnika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[AAAM02]] Elektriajamid ja jõuelektroonika\\<br />&gt; [[AAVM02]] Elektroenergeetika\\</p></div><p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">[[AAVB02]] Elektroenergeetika</strong>\\<br />&lt; [[<strong class="changes">AAVM02</strong>]] <strong class="changes">Elektroenergeetika</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[<strong class="changes">AAED02</strong>]] <strong class="changes">Energia- ja geotehnika\\</strong><br />&gt; \\</p></div>
-keep-ts: 1438886325
+languages: 
+lastmajor: 3
+revision: 5
+username: Bot
+ip: 89.235.235.166

@@ -1,16 +1,14 @@
-minor: 1
-revision: 4
-languages: 
-keep-ts: 1441924452
-ts: 1441924452
-username: AlexDaniel
-lastmajor: 2
-host: 82.131.7.230
-blocks: [Course:32221 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1
+ts: 1441924452
+keep-ts: 1441924452
 text: #SUBTITLE Matemaatika doktorantidele I
 	#SUBURL [Course:32221 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
+lastmajor: 2
+languages: 

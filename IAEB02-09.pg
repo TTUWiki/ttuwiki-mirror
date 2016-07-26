@@ -1,15 +1,12 @@
-minor: 1
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 
+ts: 1441924150
+keep-ts: 1441924150
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAEB02/09 - Elektroonika ja bioonika Kava:50050</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAEB02/09 - Elektroonika ja bioonika <strong class="changes">[</strong>Kava:50050 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924150
-revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924150
-diff-major: 
 text: == IAEB02/09 - Elektroonika ja bioonika [Kava:50050 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IAF0041]] Arvutid
@@ -50,3 +47,6 @@ text: == IAEB02/09 - Elektroonika ja bioonika [Kava:50050 〔Õppekava ÕIS-is�
 	[[ISS0110]] Väljendusoskus
 	
 	
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

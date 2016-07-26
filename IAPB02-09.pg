@@ -1,11 +1,10 @@
-revision: 4
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924150
 ts: 1441924150
-languages: 
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IAPB02/09 - Informaatika Kava:50067</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IAPB02/09 - Informaatika <strong class="changes">[</strong>Kava:50067 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 text: == IAPB02/09 - Informaatika [Kava:50067 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[ITI0050]] Algoritmid ja andmestruktuurid
@@ -49,7 +48,8 @@ text: == IAPB02/09 - Informaatika [Kava:50067 〔Õppekava ÕIS-is〕]
 	[[ITV0120]] Võrgurakendused II
 	
 	
-diff-major: 
-keep-ts: 1441924150
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-major: 
+revision: 4
+username: AlexDaniel
+languages: 

@@ -1,11 +1,15 @@
+diff-major: 
 revision: 4
+username: AlexDaniel
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IVCM09/09 - Küberkaitse Kava:50092</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IVCM09/09 - Küberkaitse <strong class="changes">[</strong>Kava:50092 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
+keep-ts: 1441924151
 ts: 1441924151
+host: 82.131.7.230
 text: == IVCM09/09 - Küberkaitse [Kava:50092 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[HLI2200]] Eesti keel ja kultuur I
@@ -42,7 +46,3 @@ text: == IVCM09/09 - Küberkaitse [Kava:50092 〔Õppekava ÕIS-is〕]
 	[[MTAT.08.004]] Võrgutehnoloogia II
 	
 	
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924151
-diff-major: 

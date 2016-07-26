@@ -1,11 +1,15 @@
+diff-major: 
 revision: 4
 username: AlexDaniel
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAHM03/11 - Haldusjuhtimine Kava:50167</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAHM03/11 - Haldusjuhtimine <strong class="changes">[</strong>Kava:50167 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 ts: 1441924149
-languages: 
+keep-ts: 1441924149
+host: 82.131.7.230
 text: == HAHM03/11 - Haldusjuhtimine [Kava:50167 〔Õppekava ÕIS-is〕]
 	[[HHL1200]] Avalik eetika
 	[[HHM1031]] Avalik teenistus
@@ -48,7 +52,3 @@ text: == HAHM03/11 - Haldusjuhtimine [Kava:50167 〔Õppekava ÕIS-is〕]
 	[[HHM1081]] Võrdlev avalik haldus
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-diff-major: 
-keep-ts: 1441924149

@@ -1,14 +1,12 @@
-flags: 1
-blocks: [Course:109394 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924450
+keep-ts: 1441924450
 text: #SUBTITLE Strateegiline juhtimine
 	#SUBURL [Course:109394 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924450
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 host: 82.131.7.230
-languages: 
+revision: 2
 username: AlexDaniel
-ts: 1441924450
+languages: 

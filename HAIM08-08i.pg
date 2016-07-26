@@ -1,11 +1,9 @@
-revision: 4
-ts: 1441924149
-languages: 
-username: AlexDaniel
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAIM08/08i - Õigusteadus Kava:50133</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAIM08/08i - Õigusteadus <strong class="changes">[</strong>Kava:50133 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924149
+ts: 1441924149
+host: 82.131.7.230
 text: == HAIM08/08i - Õigusteadus [Kava:50133 〔Õppekava ÕIS-is〕]
 	[[HOL7007]] EL institutsionaalne õigus edasijõudnutele
 	[[HOL6018]] EL tarbijakaitseõigus
@@ -26,7 +24,9 @@ text: == HAIM08/08i - Õigusteadus [Kava:50133 〔Õppekava ÕIS-is〕]
 	[[HOR6029]] Tsiviil- ja kriminaalkohtu praktika
 	
 	
-diff-major: 
-keep-ts: 1441924149
-host: 82.131.7.230
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+languages: 
+diff-major: 

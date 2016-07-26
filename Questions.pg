@@ -1,9 +1,6 @@
-revision: 2
-languages: 
-minor: 
+lastmajorsummary: Estonian
+keep-ts: 1469409551
 ts: 1469409551
-summary: Estonian
-host: 85.253.224.176
 text: #ENG
 	You can **[[Ask|ask your own question]]**.
 	#EST
@@ -15,7 +12,10 @@ text: #ENG
 	\\
 	<Journal 10 "^Вопрос_\d+">
 	
+host: 85.253.224.176
+summary: Estonian
+minor: 
 username: Marjana Voronina
-keep-ts: 1469409551
-lastmajorsummary: Estonian
 lastmajor: 2
+revision: 2
+languages: 

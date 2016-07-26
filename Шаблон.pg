@@ -18,13 +18,13 @@ text: DeletedPage
 	
 	Если харьютусы проводят разные люди, то желательно указать в скобках к какому именно преподавателю относится написанная информация.
 	
-lastmajor: 4
 host: 82.131.4.24
-summary: Moved to Template
-keep-ts: 1444779810
-revision: 4
-username: AlexDaniel
-minor: 
-lastmajorsummary: Moved to Template
 ts: 1444779810
+lastmajorsummary: Moved to Template
+keep-ts: 1444779810
+minor: 
+summary: Moved to Template
 languages: 
+revision: 4
+lastmajor: 4
+username: AlexDaniel

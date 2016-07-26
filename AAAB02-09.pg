@@ -1,6 +1,12 @@
-keep-ts: 1441924148
+username: AlexDaniel
+revision: 4
+languages: 
 diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == AAAB02/09 - Elektrotehnika Kava:50056</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == AAAB02/09 - Elektrotehnika <strong class="changes">[</strong>Kava:50056 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924148
+ts: 1441924148
 host: 82.131.7.230
 text: == AAAB02/09 - Elektrotehnika [Kava:50056 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -42,11 +48,5 @@ text: == AAAB02/09 - Elektrotehnika [Kava:50056 〔Õppekava ÕIS-is〕]
 	[[AAR0040]] Tootmise automatiseerimine
 	
 	
-languages: 
-ts: 1441924148
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == AAAB02/09 - Elektrotehnika Kava:50056</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == AAAB02/09 - Elektrotehnika <strong class="changes">[</strong>Kava:50056 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

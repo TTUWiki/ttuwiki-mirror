@@ -1,16 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924450
 keep-ts: 1441924450
-revision: 4
-username: AlexDaniel
 text: #SUBTITLE Võlakirjad ja turud
 	#SUBURL [Course:101173 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-minor: 1
 host: 82.131.7.230
-blocks: [Course:101173 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 2
 ip: 89.235.235.166
-ts: 1441924450
+revision: 4
+username: AlexDaniel
 languages: 

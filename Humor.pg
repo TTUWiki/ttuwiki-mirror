@@ -1,10 +1,6 @@
-lastmajor: 3
-host: 85.253.177.126
+lastmajorsummary: “C and Object-Oriented Programming”
 keep-ts: 1454683248
 ts: 1454683248
-minor: 1
-revision: 4
-username: AlexDaniel
 text: == “C and Object-Oriented Programming”
 	IT guys will get it.
 	
@@ -19,6 +15,10 @@ text: == “C and Object-Oriented Programming”
 	
 	* http://ajaviide.ee/kavalad-vaesed-uliopilased/
 	
+host: 85.253.177.126
+minor: 1
 summary: lectures → lecturers
+username: AlexDaniel
+revision: 4
+lastmajor: 3
 languages: 
-lastmajorsummary: “C and Object-Oriented Programming”

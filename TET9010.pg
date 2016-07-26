@@ -1,16 +1,14 @@
-lastmajor: 2
-blocks: [Course:32991 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924450
+keep-ts: 1441924450
 text: #SUBTITLE Majandusteooria ja -metodoloogia
 	#SUBURL [Course:32991 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-minor: 1
-ip: 89.235.235.166
-keep-ts: 1441924450
-ts: 1441924450
 host: 82.131.7.230
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 revision: 4
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 

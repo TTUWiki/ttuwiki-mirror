@@ -1,16 +1,14 @@
+revision: 4
+username: AlexDaniel
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-keep-ts: 1441924450
-host: 82.131.7.230
-flags: 1
-minor: 1
-blocks: [Course:36873 〔Õppeaine ÕIS-is〕]
 languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Õiguse alused
 	#SUBURL [Course:36873 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-ts: 1441924450
-revision: 4

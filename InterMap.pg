@@ -1,7 +1,9 @@
-keep-ts: 1453415129
-host: 82.131.5.128
-summary: Employee:
+languages: 
+ip: 89.235.231.110
+revision: 25
+username: AlexDaniel
 lastmajor: 25
+host: 82.131.5.128
 text:  File https://files.ttuwiki.ee/
 	 Fi https://files.ttuwiki.ee/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
@@ -17,10 +19,8 @@ text:  File https://files.ttuwiki.ee/
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
-ts: 1453415129
-ip: 89.235.231.110
 lastmajorsummary: Employee:
-languages: 
-username: AlexDaniel
+ts: 1453415129
+keep-ts: 1453415129
+summary: Employee:
 minor: 
-revision: 25

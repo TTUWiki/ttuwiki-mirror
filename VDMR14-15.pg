@@ -1,7 +1,8 @@
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924154
 keep-ts: 1441924154
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDMR14/15 - Laeva jõuseadmed Kava:50328</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDMR14/15 - Laeva jõuseadmed <strong class="changes">[</strong>Kava:50328 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == VDMR14/15 - Laeva jõuseadmed [Kava:50328 〔Õppekava ÕIS-is〕]
 	[[VLM0250]] Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
 	[[VAA0110]] CAD projekteerimine
@@ -110,11 +111,10 @@ text: == VDMR14/15 - Laeva jõuseadmed [Kava:50328 〔Õppekava ÕIS-is〕]
 	[[VAY0451]] Vene keel I (võõrkeelena)
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDMR14/15 - Laeva jõuseadmed Kava:50328</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDMR14/15 - Laeva jõuseadmed <strong class="changes">[</strong>Kava:50328 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
 minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+revision: 4
 username: AlexDaniel
 languages: 
-ts: 1441924154
-revision: 4
+diff-major: 

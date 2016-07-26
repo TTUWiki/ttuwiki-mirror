@@ -1,16 +1,14 @@
-lastmajor: 2
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924449
-languages: 
-revision: 4
-host: 82.131.7.230
-blocks: [Course:106113 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ip: 89.235.235.166
-ts: 1441924449
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Tootmisseadmete korrashoid
 	#SUBURL [Course:106113 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924449
+keep-ts: 1441924449
+languages: 
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
+lastmajor: 2

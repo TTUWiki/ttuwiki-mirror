@@ -1,11 +1,3 @@
-revision: 7
-lastmajorsummary: Automatic Update
-ts: 1454893938
-minor: 
-host: 85.253.177.126
-languages: 
-keep-ts: 1454893938
-summary: Automatic Update
 text: [:Timetables (Distance learning)]
 	
 	=== Distance learning / Kaugõpe / Заочное обучение
@@ -31,5 +23,13 @@ text: [:Timetables (Distance learning)]
 	==== T-majandusteaduskond 
 	##[https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39902|TABBK81] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39900|TABBK82] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39901|TABBK83] [https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=162&g=39903|TABBK84]##
 	
+host: 85.253.177.126
+ts: 1454893938
+lastmajorsummary: Automatic Update
+keep-ts: 1454893938
+summary: Automatic Update
+minor: 
+languages: 
 lastmajor: 7
+revision: 7
 username: Bot

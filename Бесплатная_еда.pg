@@ -1,3 +1,13 @@
+lastmajor: 4
+username: AlexDaniel
+revision: 4
+languages: 
+summary: Moved to Free Food
+minor: 
+ts: 1444779141
+lastmajorsummary: Moved to Free Food
+keep-ts: 1444779141
+host: 82.131.4.24
 text: DeletedPage
 	
 	== Конкурс дипломных работ
@@ -36,13 +46,3 @@ text: DeletedPage
 	
 	**Что можно съесть:** то, что в этот раз у вас окажется на подносе. Две тарелки с салатами и тарелка с мясом и рисом (которую вам только что работница дала) – норма.
 	
-keep-ts: 1444779141
-lastmajor: 4
-summary: Moved to Free Food
-host: 82.131.4.24
-revision: 4
-lastmajorsummary: Moved to Free Food
-ts: 1444779141
-languages: 
-username: AlexDaniel
-minor: 

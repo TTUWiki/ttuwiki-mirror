@@ -1,16 +1,14 @@
-lastmajor: 2
-blocks: [Course:39440 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
 username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+revision: 4
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+keep-ts: 1441924445
 text: #SUBTITLE Tehnoloogia ja tööstus. Juhtumiuuringud
 	#SUBURL [Course:39440 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
-ts: 1441924445
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
-minor: 1
+host: 82.131.7.230

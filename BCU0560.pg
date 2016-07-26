@@ -1,16 +1,14 @@
-lastmajor: 2
+languages: 
+ip: 89.235.235.166
+username: AlexDaniel
 revision: 4
+lastmajor: 2
 text: #SUBTITLE Strateegiline juhtimine
 	#SUBURL [Course:33399 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:33399 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 host: 82.131.7.230
-flags: 1
 ts: 1441924444
+keep-ts: 1441924444
 minor: 1
-languages: 
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

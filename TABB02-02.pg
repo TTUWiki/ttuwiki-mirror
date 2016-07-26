@@ -1,15 +1,8 @@
-languages: 
+keep-ts: 1441924153
 ts: 1441924153
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TABB02/02 - Ärindus Kava:777</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TABB02/02 - Ärindus <strong class="changes">[</strong>Kava:777 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924153
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == TABB02/02 - Ärindus [Kava:777 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMK0070]] Ärieetika
@@ -61,3 +54,10 @@ text: == TABB02/02 - Ärindus [Kava:777 〔Õppekava ÕIS-is〕]
 	[[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)
 	
 	
+host: 82.131.7.230
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+languages: 
+diff-major: 

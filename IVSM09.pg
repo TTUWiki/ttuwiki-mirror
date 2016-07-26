@@ -6,16 +6,16 @@ text: <include "IVSM09-15">
 	
 	
 	
-summary: Автоматическое обновление
 host: 85.253.110.44
-lastmajor: 1
 keep-ts: 1438886407
-diff-major: 
-revision: 3
-minor: 1
+ts: 1438886407
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "IVSM09-15"&gt;</p></div>
-username: Bot
+minor: 1
+summary: Автоматическое обновление
 languages: 
 ip: 89.235.235.166
-ts: 1438886407
+revision: 3
+username: Bot
+lastmajor: 1
+diff-major: 

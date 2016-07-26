@@ -1,5 +1,5 @@
-revision: 8
-username: AlexDaniel
+summary: Some interesting findings (more) (and more) (and more), see also
+minor: 
 text: Every time I dig into ÕIS I face lots of interesting things. At some point I decided that it would make sense to share these things, so I started this page. I'll keep other interesting facts and stats here too.
 	
 	If you have ideas for other interesting stats then please leave a comment.
@@ -577,11 +577,11 @@ text: Every time I dig into ÕIS I face lots of interesting things. At some poin
 	* **4** [[RAR0470]] Side
 	* **4** [[RAR1160]] Side
 	
-lastmajor: 8
-lastmajorsummary: Some interesting findings (more) (and more) (and more), see also
-keep-ts: 1455947492
 host: 85.253.177.126
-summary: Some interesting findings (more) (and more) (and more), see also
+keep-ts: 1455947492
+lastmajorsummary: Some interesting findings (more) (and more) (and more), see also
 ts: 1455947492
 languages: 
-minor: 
+lastmajor: 8
+username: AlexDaniel
+revision: 8

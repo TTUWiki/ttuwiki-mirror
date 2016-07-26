@@ -1,11 +1,7 @@
+languages: 
 revision: 4
 username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAGM02/02 - Geenitehnoloogia Kava:525</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAGM02/02 - Geenitehnoloogia <strong class="changes">[</strong>Kava:525 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924155
-languages: 
+diff-major: 
 text: == YAGM02/02 - Geenitehnoloogia [Kava:525 〔Õppekava ÕIS-is〕]
 	[[ITI0050]] Algoritmid ja andmestruktuurid
 	[[YTM0032]] Arengubioloogia II
@@ -49,6 +45,10 @@ text: == YAGM02/02 - Geenitehnoloogia [Kava:525 〔Õppekava ÕIS-is〕]
 	
 	
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
 keep-ts: 1441924155
+ts: 1441924155
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAGM02/02 - Geenitehnoloogia Kava:525</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAGM02/02 - Geenitehnoloogia <strong class="changes">[</strong>Kava:525 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

@@ -1,3 +1,14 @@
+diff-major: 
+username: AlexDaniel
+revision: 4
+languages: 
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVTM03/03 - Rahvusvaheline ärikorraldus Kava:1289</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTM03/03 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:1289 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == TVTM03/03 - Rahvusvaheline ärikorraldus [Kava:1289 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
@@ -21,15 +32,4 @@ text: == TVTM03/03 - Rahvusvaheline ärikorraldus [Kava:1289 〔Õppekava ÕIS-i
 	[[TTP2020]] Venemaa majandus
 	
 	
-keep-ts: 1441924154
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
-languages: 
-ts: 1441924154
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVTM03/03 - Rahvusvaheline ärikorraldus Kava:1289</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVTM03/03 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:1289 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel

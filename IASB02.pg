@@ -1,8 +1,10 @@
-diff-major: 
-keep-ts: 1438886382
-summary: Автоматическое обновление
-host: 85.253.110.44
+languages: 
 lastmajor: 1
+revision: 3
+ip: 89.235.235.166
+username: Bot
+diff-major: 
+host: 85.253.110.44
 text: <include "IASB02-15">
 	
 	<include "IASB02-14">
@@ -13,11 +15,9 @@ text: <include "IASB02-15">
 	
 	
 	
-ip: 89.235.235.166
-ts: 1438886382
-languages: 
-username: Bot
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "IASB02-15"&gt;</p></div>
+ts: 1438886382
+keep-ts: 1438886382
 minor: 1
-revision: 3
+summary: Автоматическое обновление

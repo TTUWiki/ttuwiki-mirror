@@ -1,13 +1,12 @@
-minor: 
-username: Bot
-lastmajorsummary: Automatic Update
-revision: 3
-keep-ts: 1454895536
-languages: 
-ts: 1454895536
 lastmajor: 3
+revision: 3
+username: Bot
+languages: 
 summary: Automatic Update
-host: 85.253.177.126
+minor: 
+ts: 1454895536
+keep-ts: 1454895536
+lastmajorsummary: Automatic Update
 text: [:Timetables (Distance learning, images)]
 	
 	=== Distance learning / Kaugõpe / Заочное обучение
@@ -33,3 +32,4 @@ text: [:Timetables (Distance learning, images)]
 	==== T-majandusteaduskond 
 	##[https://files.ttuwiki.org/TABBK81_20160208.png|TABBK81] [https://files.ttuwiki.org/TABBK82_20160208.png|TABBK82] [https://files.ttuwiki.org/TABBK83_20160208.png|TABBK83] [https://files.ttuwiki.org/TABBK84_20160208.png|TABBK84]##
 	
+host: 85.253.177.126

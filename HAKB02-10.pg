@@ -1,7 +1,7 @@
+languages: 
+revision: 4
+username: AlexDaniel
 diff-major: 
-keep-ts: 1441924150
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == HAKB02/10 - Halduskorraldus [Kava:50148 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[HPP3252]] Arhiivihaldus
@@ -51,11 +51,11 @@ text: == HAKB02/10 - Halduskorraldus [Kava:50148 〔Õppekava ÕIS-is〕]
 	[[HPP3221]] Võõrkeel halduskorralduses
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924150
 ts: 1441924150
-languages: 
-username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAKB02/10 - Halduskorraldus Kava:50148</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAKB02/10 - Halduskorraldus <strong class="changes">[</strong>Kava:50148 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 minor: 1
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

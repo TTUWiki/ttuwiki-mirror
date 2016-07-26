@@ -1,6 +1,10 @@
+languages: 
+revision: 2
 username: Bot
-keep-ts: 1454369719
+lastmajor: 2
+minor: 
 summary: Automatic Update
+host: 85.253.177.126
 text: [:Timetables (Doctoral studies)]
 	
 	=== Doctoral studies / Doktoriõpe / Докторантура
@@ -13,10 +17,6 @@ text: [:Timetables (Doctoral studies)]
 	#LANG_END
 	##[https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&from_menu=1&b=3|Link]##
 	
-minor: 
-languages: 
-ts: 1454369719
-lastmajor: 2
-host: 85.253.177.126
-revision: 2
 lastmajorsummary: Automatic Update
+ts: 1454369719
+keep-ts: 1454369719

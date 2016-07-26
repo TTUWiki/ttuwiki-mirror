@@ -1,7 +1,7 @@
-username: AlexDaniel
-revision: 8
-summary: translations
+lastmajorsummary: Links to anchors
+keep-ts: 1454370796
 ts: 1454370796
+host: 85.253.177.126
 text: #ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
@@ -31,9 +31,9 @@ text: #ENG
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-keep-ts: 1454370796
-languages: 
-host: 85.253.177.126
-lastmajorsummary: Links to anchors
-lastmajor: 6
 minor: 1
+summary: translations
+lastmajor: 6
+username: AlexDaniel
+revision: 8
+languages: 

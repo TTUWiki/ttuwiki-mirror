@@ -1,16 +1,14 @@
-flags: 1
-minor: 1
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+username: AlexDaniel
 languages: 
+ts: 1441924449
 keep-ts: 1441924449
 host: 82.131.7.230
-username: AlexDaniel
-ts: 1441924449
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:39011 〔Õppeaine ÕIS-is〕]
-revision: 4
 text: #SUBTITLE Projekteerimine ja maastikuehitus
 	#SUBURL [Course:39011 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

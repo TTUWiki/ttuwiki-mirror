@@ -1,16 +1,8 @@
-ts: 1438887187
-ip: 89.235.235.166
-languages: 
-username: Bot
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[NAEB06]] Keskkonnajuhtimine</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">NAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">BAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">NDFR13</strong>]] <strong class="changes">Küber-füüsikaline</strong> süsteemitehnika</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">NDFR14</strong>]] <strong class="changes">Küberfüüsikaline</strong> süsteemitehnika</p></div>
-minor: 1
 revision: 7
+ip: 89.235.235.166
+username: Bot
+lastmajor: 3
+languages: 
 diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[AAAB02]] Elektrotehnika\\</p></div><p><strong>Deleted:</strong></p>
@@ -19,10 +11,15 @@ diff-major: <p><strong>Deleted:</strong></p>
 	<div class="new"><p>&gt; \\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia\\<br />&lt; [[NAEI13]] Ehitus\\<br />&lt; [[NAEM06]] Tööstusökoloogia\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[NAEM06]] Tööstusökoloogia\\<br />&gt; \\<br />&gt; [[NAEI13]] Ehitus\\<br />&gt; [[EAKI02]] Keskkonnatehnika\\<br />&gt; [[EAEI02]] Tööstus- ja tsiviilehitus\\<br />&gt; [[EATI02]] Transpordiehitus\\<br />&gt; \\</p></div>
+ts: 1438887187
 keep-ts: 1438887187
-summary: Автоматическое обновление
-host: 85.253.110.44
-lastmajor: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[NAEB06]] Keskkonnajuhtimine</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[NAEB06]] Tööstusökoloogia</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">NAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">BAAM06</strong>]] Maastikuarhitektuur</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">NDFR13</strong>]] <strong class="changes">Küber-füüsikaline</strong> süsteemitehnika</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">NDFR14</strong>]] <strong class="changes">Küberfüüsikaline</strong> süsteemitehnika</p></div>
 text: [[AAVB02]] Elektroenergeetika
 	[[AAAB02]] Elektrotehnika
 	[[NAEB06]] Keskkonnajuhtimine
@@ -43,3 +40,6 @@ text: [[AAVB02]] Elektroenergeetika
 	
 	
 	
+host: 85.253.110.44
+summary: Автоматическое обновление
+minor: 1

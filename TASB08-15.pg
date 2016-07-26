@@ -1,7 +1,8 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924153
+languages: 
+revision: 4
+username: AlexDaniel
 diff-major: 
+host: 82.131.7.230
 text: == TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]
 	[[TSK0309]] Avalik esinemine
 	[[TMJ0110]] Ettevõtluse alused
@@ -53,8 +54,7 @@ text: == TASB08/15 - Rahvusvahelised suhted [Kava:50330 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TASB08/15 - Rahvusvahelised suhted Kava:50330</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TASB08/15 - Rahvusvahelised suhted <strong class="changes">[</strong>Kava:50330 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
+keep-ts: 1441924153
 ts: 1441924153
-revision: 4
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]

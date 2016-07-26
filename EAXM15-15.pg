@@ -1,11 +1,3 @@
-revision: 4
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == EAXM15/15 - Hooned ja rajatised Kava:50306</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == EAXM15/15 - Hooned ja rajatised <strong class="changes">[</strong>Kava:50306 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924149
 text: == EAXM15/15 - Hooned ja rajatised [Kava:50306 〔Õppekava ÕIS-is〕]
 	[[EAA0130]] Arhitektuurne projekt
 	[[TTO1100]] Äriõigus
@@ -159,7 +151,15 @@ text: == EAXM15/15 - Hooned ja rajatised [Kava:50306 〔Õppekava ÕIS-is〕]
 	[[EEK0071]] Vundamendid
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
+ts: 1441924149
 keep-ts: 1441924149
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == EAXM15/15 - Hooned ja rajatised Kava:50306</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == EAXM15/15 - Hooned ja rajatised <strong class="changes">[</strong>Kava:50306 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 4
+username: AlexDaniel
 diff-major: 

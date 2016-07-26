@@ -1,15 +1,3 @@
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == KAOB02/09 - Puidu- ja tekstiilitehnoloogia Kava:50040</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == KAOB02/09 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:50040 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924151
-revision: 5
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924151
-diff-major: 
 text: == KAOB02/09 - Puidu- ja tekstiilitehnoloogia [Kava:50040 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[TMK0070]] Ärieetika
@@ -49,3 +37,15 @@ text: == KAOB02/09 - Puidu- ja tekstiilitehnoloogia [Kava:50040 〔Õppekava ÕI
 	[[TMM0100]] Turundus
 	
 	
+host: 82.131.7.230
+ts: 1441924151
+keep-ts: 1441924151
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KAOB02/09 - Puidu- ja tekstiilitehnoloogia Kava:50040</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KAOB02/09 - Puidu- ja tekstiilitehnoloogia <strong class="changes">[</strong>Kava:50040 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
+revision: 5
+username: AlexDaniel
+diff-major: 

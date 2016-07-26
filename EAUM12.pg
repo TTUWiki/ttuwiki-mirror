@@ -1,14 +1,14 @@
-ts: 1413108316
-ip: 84.52.48.17
-languages: 
-username: AlexDaniel
-minor: 0
-revision: 98
-keep-ts: 1413108316
-lastmajor: 98
 summary: Откат до 2014-10-09 12:27:55
-host: 84.52.46.195
+minor: 0
+ts: 1413108316
+keep-ts: 1413108316
 text: <include "EAUM12-12">
 	
 	
 	
+host: 84.52.46.195
+username: AlexDaniel
+lastmajor: 98
+revision: 98
+ip: 84.52.48.17
+languages: 

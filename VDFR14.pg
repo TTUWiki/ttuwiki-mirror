@@ -1,17 +1,17 @@
-revision: 3
+diff-major: 
 languages: 
-ts: 1438887200
-minor: 1
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; &lt;include "VDFR14-14EMERA"&gt;</p></div>
+revision: 3
 username: Bot
+summary: Автоматическое обновление
+minor: 1
 text: <include "VDFR14-14EMERA">
 	
 	<include "VDFR14-14">
 	
 	
 	
-keep-ts: 1438887200
-diff-major: 
-summary: Автоматическое обновление
 host: 85.253.110.44
+keep-ts: 1438887200
+ts: 1438887200
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; &lt;include "VDFR14-14EMERA"&gt;</p></div>

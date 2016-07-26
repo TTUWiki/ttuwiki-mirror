@@ -1,16 +1,14 @@
-keep-ts: 1441924445
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+keep-ts: 1441924445
 text: #SUBTITLE Metallkonstruktsioonid I - projekt
 	#SUBURL [Course:30570 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 host: 82.131.7.230
-languages: 
+lastmajor: 2
+username: AlexDaniel
+revision: 4
 ip: 89.235.235.166
-ts: 1441924445
-blocks: [Course:30570 〔Õppeaine ÕIS-is〕]
+languages: 

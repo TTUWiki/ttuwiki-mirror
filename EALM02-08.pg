@@ -1,7 +1,4 @@
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924149
-diff-major: 
 text: == EALM02/08 - Logistika [Kava:5379 〔Õppekava ÕIS-is〕]
 	[[TTO1030]] Äritegevuse õiguslik keskkond
 	[[YMR5730]] Arvutusmeetodid
@@ -38,8 +35,11 @@ text: == EALM02/08 - Logistika [Kava:5379 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EALM02/08 - Logistika Kava:5379</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EALM02/08 - Logistika <strong class="changes">[</strong>Kava:5379 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
 ts: 1441924149
+keep-ts: 1441924149
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+languages: 
 revision: 4
+username: AlexDaniel
+diff-major: 

@@ -1,3 +1,15 @@
+revision: 5
+ip: 89.235.235.166
+lastmajor: 5
+username: Ain_Laidoja
+languages: 
+diff-major: 1
+ts: 1444025546
+keep-ts: 1444025546
+lastmajorsummary: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]</strong></p></div>
 text: #SUBTITLE Kütuste klassifitseerimine ja standardimine
 	#SUBURL [Course:105564 〔Õppeaine ÕIS-is〕]
 	
@@ -6,20 +18,6 @@ text: #SUBTITLE Kütuste klassifitseerimine ja standardimine
 	
 	[http://data.vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]
 	
-summary: 
-flags: 1
-diff-major: 1
-ts: 1444025546
-lastmajor: 5
-blocks: [Course:105564 〔Õppeaine ÕIS-is〕]
-languages: 
-username: Ain_Laidoja
 host: 86.110.37.246
-ip: 89.235.235.166
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjalid<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/Kutuste_klassifits_harjutused Õppeaine kodulehekülg]</strong></p></div>
 minor: 
-keep-ts: 1444025546
-lastmajorsummary: 
-revision: 5
+summary: 

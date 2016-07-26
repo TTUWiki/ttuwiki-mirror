@@ -1,16 +1,14 @@
 languages: 
-keep-ts: 1441924449
+username: AlexDaniel
 ip: 89.235.235.166
-ts: 1441924449
+lastmajor: 2
+revision: 4
 text: #SUBTITLE Hüdraulika ja vesiehitised
 	#SUBURL [Course:38948 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-blocks: [Course:38948 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-minor: 1
-username: AlexDaniel
-flags: 1
 host: 82.131.7.230
+keep-ts: 1441924449
+ts: 1441924449
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

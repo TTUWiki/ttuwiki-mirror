@@ -1,16 +1,14 @@
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924447
-languages: 
-revision: 4
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:106434 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
 text: #SUBTITLE Programmeeritavad kontrollerid - jätkukursus
 	#SUBURL [Course:106434 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+keep-ts: 1441924447
+ts: 1441924447
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
 lastmajor: 2

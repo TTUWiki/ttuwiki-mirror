@@ -1,11 +1,5 @@
-revision: 3
-ts: 1441924154
-languages: 
-username: AlexDaniel
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YAEB14/15 - Maa-teadused ja geotehnoloogia Kava:50295</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YAEB14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50295 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 text: == YAEB14/15 - Maa-teadused ja geotehnoloogia [Kava:50295 〔Õppekava ÕIS-is〕]
 	[[NGG0012]] Ajalooline geoloogia
 	[[HLX0020]] Akadeemiline võõrkeel
@@ -79,7 +73,13 @@ text: == YAEB14/15 - Maa-teadused ja geotehnoloogia [Kava:50295 〔Õppekava ÕI
 	[[NSO8021]] Üldine okeanograafia ja limnoloogia
 	[[NSO0120]] Veekogude ökoloogia ja keskkonnakaitse
 	
-diff-major: 
-keep-ts: 1441924154
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YAEB14/15 - Maa-teadused ja geotehnoloogia Kava:50295</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YAEB14/15 - Maa-teadused ja geotehnoloogia <strong class="changes">[</strong>Kava:50295 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+languages: 
+revision: 3
+username: AlexDaniel

@@ -1,14 +1,12 @@
-flags: 1
-minor: 1
-blocks: [Course:110028 〔Õppeaine ÕIS-is〕]
 revision: 2
+username: AlexDaniel
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 ts: 1441924447
 keep-ts: 1441924447
+host: 82.131.7.230
 text: #SUBTITLE Süsteemiaspektid sides
 	#SUBURL [Course:110028 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

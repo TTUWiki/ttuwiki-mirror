@@ -1,11 +1,11 @@
-revision: 3
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == VDVR14/15 - Veeteede haldamine ja ohutuse korraldamine Kava:50320</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == VDVR14/15 - Veeteede haldamine ja ohutuse korraldamine <strong class="changes">[</strong>Kava:50320 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-username: AlexDaniel
-languages: 
+keep-ts: 1441924154
 ts: 1441924154
+host: 82.131.7.230
 text: == VDVR14/15 - Veeteede haldamine ja ohutuse korraldamine [Kava:50320 〔Õppekava ÕIS-is〕]
 	[[VAA0220]] Arvutigraafika ja tehniline joonestamine
 	[[VMS0110]] Baaslogistika
@@ -89,7 +89,7 @@ text: == VDVR14/15 - Veeteede haldamine ja ohutuse korraldamine [Kava:50320 〔�
 	[[VAY0610]] Vene keel edasijõudnutele (võõrkeelena)
 	[[VAY0590]] Vene keel (võõrkeelena)
 	
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-keep-ts: 1441924154
 diff-major: 
+username: AlexDaniel
+revision: 3
+languages: 

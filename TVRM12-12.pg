@@ -1,7 +1,15 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924154
 diff-major: 
+username: AlexDaniel
+revision: 4
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVRM12/12 - Rahandus ja majandusanalüüs Kava:50185</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVRM12/12 - Rahandus ja majandusanalüüs <strong class="changes">[</strong>Kava:50185 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+host: 82.131.7.230
 text: == TVRM12/12 - Rahandus ja majandusanalüüs [Kava:50185 〔Õppekava ÕIS-is〕]
 	[[TSK1012]] Analüütiline kirjutamine ja esitlemine
 	[[IDN0200]] Andmekaevandamine ja võrgustike analüüs
@@ -44,11 +52,3 @@ text: == TVRM12/12 - Rahandus ja majandusanalüüs [Kava:50185 〔Õppekava ÕIS
 	[[TER2405]] Tuletisväärtpaberid
 	
 	
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVRM12/12 - Rahandus ja majandusanalüüs Kava:50185</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVRM12/12 - Rahandus ja majandusanalüüs <strong class="changes">[</strong>Kava:50185 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924154
-revision: 4

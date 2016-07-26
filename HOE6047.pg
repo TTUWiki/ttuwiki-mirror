@@ -1,16 +1,14 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Rahvusvaheline müügiõigus
 	#SUBURL [Course:108234 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
+host: 82.131.7.230
 ts: 1441924446
-minor: 1
-revision: 4
-blocks: [Course:108234 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-flags: 1
 keep-ts: 1441924446
+languages: 
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
 lastmajor: 2

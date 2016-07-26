@@ -1,11 +1,13 @@
+username: AlexDaniel
 revision: 4
 languages: 
-ts: 1441924149
-minor: 1
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAAB02/15 - Avalik haldus ja riigiteadused Kava:50311</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAAB02/15 - Avalik haldus ja riigiteadused <strong class="changes">[</strong>Kava:50311 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+ts: 1441924149
+keep-ts: 1441924149
+host: 82.131.7.230
 text: == HAAB02/15 - Avalik haldus ja riigiteadused [Kava:50311 〔Õppekava ÕIS-is〕]
 	[[HHL0171]] Avalik eetika ja korruptsioon
 	[[HHX0050]] Avaliku halduse bakalaureuseeksam
@@ -48,7 +50,5 @@ text: == HAAB02/15 - Avalik haldus ja riigiteadused [Kava:50311 〔Õppekava ÕI
 	[[HPP0040]] Väljendus- ja vaidlusõpetus
 	
 	
-keep-ts: 1441924149
-diff-major: 
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

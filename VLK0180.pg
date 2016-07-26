@@ -1,14 +1,12 @@
 minor: 1
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+ts: 1441924452
 text: #SUBTITLE Lõpueksam: Külmutusseadmete ehitus ja ekspluatatsioon
 	#SUBURL [Course:109101 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-blocks: [Course:109101 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 revision: 2
-keep-ts: 1441924452
-ts: 1441924452
+username: AlexDaniel
+languages: 

@@ -1,13 +1,4 @@
-revision: 5
-languages: 
-ip: 89.235.235.166
-ts: 1438887147
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[HAAB02]] Avalik haldus</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[HAAB02]] Avalik haldus <strong class="changes">ja riigiteadused</strong></p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[HALM15]] Kutseõpetaja</p></div>
-username: Bot
+host: 85.253.110.44
 text: [[HAAB02]] Avalik haldus ja riigiteadused
 	[[HAKB02]] Halduskorraldus
 	[[HAJB08]] Õigusteadus
@@ -25,7 +16,19 @@ text: [[HAAB02]] Avalik haldus ja riigiteadused
 	
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[HAAB02]] Avalik haldus</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[HAAB02]] Avalik haldus <strong class="changes">ja riigiteadused</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[HALM15]] Kutseõpetaja</p></div>
+ts: 1438887147
 keep-ts: 1438887147
+minor: 1
+summary: Автоматическое обновление
+languages: 
+ip: 89.235.235.166
+revision: 5
+username: Bot
+lastmajor: 3
 diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[<strong class="changes">HAAD06</strong>]] <strong class="changes">Avalik haldus</strong>\\</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[<strong class="changes">HAKB02</strong>]] <strong class="changes">Halduskorraldus\\<br />&gt; [[HAJB08]] Õigusteadus\\</strong><br />&gt; \\</p></div><p><strong>Deleted:</strong></p>
@@ -34,6 +37,3 @@ diff-major: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[HAKB02]] Halduskorraldus\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[HAGM09]] Tehnoloogia valitsemine\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[HAAD06]] Avalik haldus\\<br />&gt; \\</p></div>
-host: 85.253.110.44
-summary: Автоматическое обновление
-lastmajor: 3

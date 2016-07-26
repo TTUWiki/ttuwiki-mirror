@@ -1,16 +1,14 @@
-flags: 1
-revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Masinnägemissüsteemid
 	#SUBURL [Course:108222 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
 keep-ts: 1441924449
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-username: AlexDaniel
-ts: 1441924449
-blocks: [Course:108222 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-host: 82.131.7.230
+revision: 4
 ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel

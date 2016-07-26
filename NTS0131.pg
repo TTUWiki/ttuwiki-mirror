@@ -1,16 +1,14 @@
-flags: 1
-lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-blocks: [Course:38550 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 languages: 
-minor: 1
-keep-ts: 1441924449
-ts: 1441924449
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:38550 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+ts: 1441924449
+keep-ts: 1441924449
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

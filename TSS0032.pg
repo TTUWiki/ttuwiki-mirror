@@ -1,14 +1,12 @@
-keep-ts: 1441924451
-blocks: [Course:110195 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924451
-username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 revision: 2
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Jätkusuutlikud linna arengustrateegiad
 	#SUBURL [Course:110195 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
+keep-ts: 1441924451
+ts: 1441924451

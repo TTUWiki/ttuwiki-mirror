@@ -1,3 +1,11 @@
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IABB02/02 - Äriinfotehnoloogia Kava:655</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IABB02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:655 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924150
+ts: 1441924150
+host: 82.131.7.230
 text: == IABB02/02 - Äriinfotehnoloogia [Kava:655 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IDU0120]] Andmebaaside programmeerimine
@@ -38,15 +46,7 @@ text: == IABB02/02 - Äriinfotehnoloogia [Kava:655 〔Õppekava ÕIS-is〕]
 	[[IDK0040]] Võrgurakendused I
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924150
 diff-major: 
 revision: 4
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IABB02/02 - Äriinfotehnoloogia Kava:655</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IABB02/02 - Äriinfotehnoloogia <strong class="changes">[</strong>Kava:655 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
 username: AlexDaniel
 languages: 
-ts: 1441924150

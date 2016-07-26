@@ -1,11 +1,11 @@
-lastmajor: 1
-host: 82.131.4.24
 summary: Moved
+minor: 
 text: <Journal 10 "^Новость_\d+">
 	
-username: AlexDaniel
-minor: 
+host: 82.131.4.24
 lastmajorsummary: Moved
 ts: 1444779775
 languages: 
+lastmajor: 1
 revision: 1
+username: AlexDaniel

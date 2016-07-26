@@ -1,11 +1,4 @@
-revision: 4
-ts: 1441924153
-languages: 
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDIR02/12 - Rakendusinfotehnoloogia Kava:50200</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDIR02/12 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:50200 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
 text: == RDIR02/12 - Rakendusinfotehnoloogia [Kava:50200 〔Õppekava ÕIS-is〕]
 	[[RAM0100]] 3D-modelleerimine
 	[[RAR0320]] Algoritmid ja andmestruktuurid
@@ -77,7 +70,14 @@ text: == RDIR02/12 - Rakendusinfotehnoloogia [Kava:50200 〔Õppekava ÕIS-is〕
 	[[RAM0180]] Võrgutehnoloogiad
 	
 	
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDIR02/12 - Rakendusinfotehnoloogia Kava:50200</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDIR02/12 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:50200 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 keep-ts: 1441924153
-host: 82.131.7.230
+ts: 1441924153
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+languages: 
+username: AlexDaniel
+revision: 4
+diff-major: 

@@ -1,3 +1,14 @@
+diff-major: 
+username: AlexDaniel
+revision: 5
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+keep-ts: 1441924153
+ts: 1441924153
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TARM02/13 - Ärirahandus ja majandusarvestus Kava:50239</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TARM02/13 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50239 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == TARM02/13 - Ärirahandus ja majandusarvestus [Kava:50239 〔Õppekava ÕIS-is〕]
 	[[TMK1160]] Analüüsimeetodid äriuuringutes
 	[[TAF1060]] Arvestuse infosüsteemid
@@ -42,15 +53,4 @@ text: == TARM02/13 - Ärirahandus ja majandusarvestus [Kava:50239 〔Õppekava �
 	[[TER1498]] Võlakirjad ja turud
 	
 	
-diff-major: 
-keep-ts: 1441924153
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-revision: 5
-ts: 1441924153
-languages: 
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TARM02/13 - Ärirahandus ja majandusarvestus Kava:50239</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TARM02/13 - Ärirahandus ja majandusarvestus <strong class="changes">[</strong>Kava:50239 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1

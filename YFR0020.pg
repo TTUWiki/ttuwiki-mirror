@@ -1,16 +1,9 @@
-keep-ts: 1454148759
-languages: 
-blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
-username: Artur Gummel
-lastmajorsummary: 
 minor: 
-host: 84.52.32.112
 summary: 
-ip: 89.235.235.166
+lastmajorsummary: 
 ts: 1454148759
-revision: 16
-flags: 1
-lastmajor: 16
+keep-ts: 1454148759
+host: 84.52.32.112
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
@@ -89,3 +82,8 @@ text: #SUBTITLE Füüsika
 	
 	
 	
+username: Artur Gummel
+ip: 89.235.235.166
+revision: 16
+lastmajor: 16
+languages: 

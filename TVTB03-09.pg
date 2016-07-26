@@ -1,15 +1,6 @@
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVTB03/09 - Rahvusvaheline ärikorraldus Kava:50068</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVTB03/09 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50068 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924154
-revision: 4
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
 text: == TVTB03/09 - Rahvusvaheline ärikorraldus [Kava:50068 〔Õppekava ÕIS-is〕]
 	[[TIX2150]] Ärisuhtlus
 	[[TIX2320]] Äritegevuse õiguslik keskkond
@@ -51,3 +42,12 @@ text: == TVTB03/09 - Rahvusvaheline ärikorraldus [Kava:50068 〔Õppekava ÕIS-
 	[[TIX0020]] Uurimistöö II
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVTB03/09 - Rahvusvaheline ärikorraldus Kava:50068</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTB03/09 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50068 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+diff-major: 
+languages: 
+username: AlexDaniel
+revision: 4

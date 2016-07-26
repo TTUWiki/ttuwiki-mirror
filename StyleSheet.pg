@@ -1,17 +1,16 @@
+diff-major: 1
+revision: 91
+lastmajor: 91
 ip: 89.235.239.240
-ts: 1402695286
-languages: 
 username: AlexDaniel
+languages: 
+summary: 
 minor: 
+ts: 1402695286
+keep-ts: 1402695286
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; div<strong class="changes">..</strong>page p.comment:after {</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; div<strong class="changes">.</strong>page p.comment:after {</p></div>
-revision: 91
-diff-major: 1
-keep-ts: 1402695286
-host: 89-235-239-240.saturn.infonet.ee
-summary: 
-lastmajor: 91
 text: body {
 	    background-color: #DDDDDD;
 	    color: #282828;
@@ -256,3 +255,4 @@ text: body {
 	    margin-bottom: 35px;
 	}
 	
+host: 89-235-239-240.saturn.infonet.ee

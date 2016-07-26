@@ -1,7 +1,5 @@
-diff-major: 
-keep-ts: 1441924153
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == RDIR02/09 - Rakendusinfotehnoloogia [Kava:50020 〔Õppekava ÕIS-is〕]
 	[[RAR0320]] Algoritmid ja andmestruktuurid
 	[[RAR0330]] Andmeanalüüsi algoritmika
@@ -59,11 +57,13 @@ text: == RDIR02/09 - Rakendusinfotehnoloogia [Kava:50020 〔Õppekava ÕIS-is〕
 	[[RAR2582]] Visuaalprogrammeerimise keeled II
 	
 	
+host: 82.131.7.230
+keep-ts: 1441924153
 ts: 1441924153
-languages: 
-username: AlexDaniel
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == RDIR02/09 - Rakendusinfotehnoloogia Kava:50020</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == RDIR02/09 - Rakendusinfotehnoloogia <strong class="changes">[</strong>Kava:50020 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+diff-major: 
+languages: 
 revision: 4
+username: AlexDaniel

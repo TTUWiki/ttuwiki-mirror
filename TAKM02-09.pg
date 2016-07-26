@@ -1,6 +1,6 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924153
+languages: 
+username: AlexDaniel
+revision: 4
 diff-major: 
 text: == TAKM02/09 - Ärikorraldus [Kava:50052 〔Õppekava ÕIS-is〕]
 	[[TMJ8130]] Ärilogistika
@@ -44,11 +44,11 @@ text: == TAKM02/09 - Ärikorraldus [Kava:50052 〔Õppekava ÕIS-is〕]
 	[[TXX1110]] Uurimistöö
 	
 	
-minor: 1
+host: 82.131.7.230
+ts: 1441924153
+keep-ts: 1441924153
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TAKM02/09 - Ärikorraldus Kava:50052</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TAKM02/09 - Ärikorraldus <strong class="changes">[</strong>Kava:50052 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924153
-revision: 4
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

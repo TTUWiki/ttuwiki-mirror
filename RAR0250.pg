@@ -1,16 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
 lastmajor: 2
-ts: 1441924449
+revision: 4
 ip: 89.235.235.166
-flags: 1
+username: AlexDaniel
+languages: 
+ts: 1441924449
+keep-ts: 1441924449
 text: #SUBTITLE Operatsioonisüsteemid
 	#SUBURL [Course:34356 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-blocks: [Course:34356 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924449
-username: AlexDaniel
-revision: 4
+host: 82.131.7.230
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

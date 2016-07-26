@@ -1,16 +1,14 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-lastmajor: 2
-keep-ts: 1441924446
 ip: 89.235.235.166
+lastmajor: 2
 username: AlexDaniel
 revision: 4
-flags: 1
-blocks: [Course:102263 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924446
+keep-ts: 1441924446
+host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheline kaubandusvaidluste menetlemine
 	#SUBURL [Course:102263 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

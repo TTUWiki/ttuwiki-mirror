@@ -1,16 +1,14 @@
-ts: 1441924452
-languages: 
 ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
+username: AlexDaniel
 revision: 4
 lastmajor: 2
-username: AlexDaniel
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+keep-ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Sissejuhatus astrofüüsikasse
 	#SUBURL [Course:40434 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-blocks: [Course:40434 〔Õppeaine ÕIS-is〕]
-flags: 1

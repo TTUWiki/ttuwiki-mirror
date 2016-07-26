@@ -1,16 +1,14 @@
-keep-ts: 1441924453
-flags: 1
-lastmajor: 2
-ts: 1441924453
+languages: 
+revision: 4
+ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:40789 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 minor: 1
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Evolutsiooniline bioloogia
 	#SUBURL [Course:40789 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-ip: 89.235.235.166
-languages: 
+ts: 1441924453
+keep-ts: 1441924453

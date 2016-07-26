@@ -1,11 +1,3 @@
-revision: 6
-languages: 
-ts: 1444735632
-lastmajorsummary: Moved to Lifehacks
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; DeletedPage</p></div>
-minor: 
-username: 
 text: DeletedPage
 	
 	== Душ
@@ -28,8 +20,16 @@ text: DeletedPage
 	== Больше советов
 	Знаете еще что-то? Не стесняйтесь писать!
 	
-keep-ts: 1444735632
-diff-major: 1
 host: 82.131.4.24
+keep-ts: 1444735632
+ts: 1444735632
+lastmajorsummary: Moved to Lifehacks
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; DeletedPage</p></div>
 summary: Moved to Lifehacks
+minor: 
+languages: 
 lastmajor: 6
+username: 
+revision: 6
+diff-major: 1

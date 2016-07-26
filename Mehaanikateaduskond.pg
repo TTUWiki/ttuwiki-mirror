@@ -1,15 +1,3 @@
-host: 89.235.223.25
-summary: Автоматическое обновление (расписание)
-lastmajor: 3
-diff-major: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">MADM10</strong>]] <strong class="changes">Disain ja tootearendus</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[MAHM02]] Mehhatroonika\\<br />&lt; [[MAPD02]] Mehhanotehnika\\<br />&lt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Deleted:</strong></p>
-	<div class="old"><p>&lt; [[MASM02]] Soojusenergeetika\\</p></div><p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; \\<br />&gt; [[MADM10]] Disain ja tootearendus\\<br />&gt; [[MAHM02]] Mehhatroonika\\<br />&gt; [[MASM02]] Soojusenergeetika\\<br />&gt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">MAPD02</strong>]] <strong class="changes">Mehhanotehnika\\</strong><br />&gt; \\</p></div>
-keep-ts: 1408885790
 text: [[MVEB14]] Integreeritud tehnoloogiad
 	[[MAHB02]] Mehhatroonika
 	[[MASB02]] Soojusenergeetika
@@ -25,12 +13,24 @@ text: [[MVEB14]] Integreeritud tehnoloogiad
 	
 	
 	
-username: Bot
+host: 89.235.223.25
+keep-ts: 1408885790
+ts: 1408885790
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; [[MVEB14]] Integreeritud tehnoloogiad<strong class="changes">\\</strong><br />&lt; [[MAHB02]] Mehhatroonika<strong class="changes">\\</strong><br />&lt; [[MASB02]] Soojusenergeetika<strong class="changes">\\</strong><br />&lt; [[MATB02]] Tootearendus ja tootmistehnika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[MADM10]] Disain ja tootearendus<strong class="changes">\\</strong><br />&lt; [[MAHM02]] Mehhatroonika<strong class="changes">\\</strong><br />&lt; [[MASM02]] Soojusenergeetika<strong class="changes">\\</strong><br />&lt; [[MARM06]] Tööstustehnika ja juhtimine<strong class="changes">\\</strong><br />&lt; [[MATM02]] Tootearendus ja tootmistehnika<strong class="changes">\\<br />&lt; \\</strong><br />&lt; [[MAPD02]] Mehhanotehnika<strong class="changes">\\<br />&lt; \\</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; [[MVEB14]] Integreeritud tehnoloogiad<br />&gt; [[MAHB02]] Mehhatroonika<br />&gt; [[MASB02]] Soojusenergeetika<br />&gt; [[MATB02]] Tootearendus ja tootmistehnika<br />&gt; [[MADM10]] Disain ja tootearendus<br />&gt; [[MAHM02]] Mehhatroonika<br />&gt; [[MASM02]] Soojusenergeetika<br />&gt; [[MARM06]] Tööstustehnika ja juhtimine<br />&gt; [[MATM02]] Tootearendus ja tootmistehnika<br />&gt; [[MAPD02]] Mehhanotehnika</p></div>
 minor: 1
-ip: 89.235.235.166
-ts: 1408885790
+summary: Автоматическое обновление (расписание)
 languages: 
 revision: 4
+lastmajor: 3
+ip: 89.235.235.166
+username: Bot
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">MADM10</strong>]] <strong class="changes">Disain ja tootearendus</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[MAHM02]] Mehhatroonika\\<br />&lt; [[MAPD02]] Mehhanotehnika\\<br />&lt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; [[MASM02]] Soojusenergeetika\\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\<br />&gt; [[MADM10]] Disain ja tootearendus\\<br />&gt; [[MAHM02]] Mehhatroonika\\<br />&gt; [[MASM02]] Soojusenergeetika\\<br />&gt; [[MARM06]] Tööstustehnika ja juhtimine\\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">MVEB14</strong>]] <strong class="changes">Integreeritud tehnoloogiad</strong>\\</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">\\</strong><br />&gt; [[<strong class="changes">MAPD02</strong>]] <strong class="changes">Mehhanotehnika\\</strong><br />&gt; \\</p></div>

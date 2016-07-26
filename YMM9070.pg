@@ -1,16 +1,14 @@
-blocks: [Course:36119 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-flags: 1
-revision: 4
-minor: 1
+keep-ts: 1441924452
+ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Fourier' ja lainekeste teisendused
 	#SUBURL [Course:36119 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ip: 89.235.235.166
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924452
-keep-ts: 1441924452
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
 lastmajor: 2
+languages: 

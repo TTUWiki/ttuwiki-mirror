@@ -1,16 +1,14 @@
-blocks: [Course:101963 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924446
-ip: 89.235.235.166
-lastmajor: 2
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-languages: 
 revision: 4
-minor: 1
-flags: 1
+lastmajor: 2
+ip: 89.235.235.166
+languages: 
+keep-ts: 1441924446
+ts: 1441924446
+host: 82.131.7.230
 text: #SUBTITLE Euroopa rahaliidu õiguslikud alused
 	#SUBURL [Course:101963 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

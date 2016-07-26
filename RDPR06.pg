@@ -1,11 +1,8 @@
-revision: 3
-ip: 89.235.235.166
-ts: 1438887137
-languages: 
-username: Bot
-minor: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "RDPR06-15"&gt;</p></div>
+ts: 1438887137
+keep-ts: 1438887137
+host: 85.253.110.44
 text: <include "RDPR06-15">
 	
 	<include "RDPR06-09">
@@ -14,8 +11,11 @@ text: <include "RDPR06-15">
 	
 	
 	
-diff-major: 
-keep-ts: 1438887137
-host: 85.253.110.44
+minor: 1
 summary: Автоматическое обновление
+ip: 89.235.235.166
 lastmajor: 1
+revision: 3
+username: Bot
+languages: 
+diff-major: 

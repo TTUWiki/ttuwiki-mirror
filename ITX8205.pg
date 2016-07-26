@@ -1,16 +1,14 @@
-username: AlexDaniel
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 revision: 4
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Arvutivõrgu ja võrguliikluse analüüs
 	#SUBURL [Course:108597 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-flags: 1
-host: 82.131.7.230
+ts: 1441924447
 keep-ts: 1441924447
 minor: 1
-blocks: [Course:108597 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

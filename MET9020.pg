@@ -1,16 +1,14 @@
+lastmajor: 2
 revision: 4
-languages: 
+username: AlexDaniel
 ip: 89.235.235.166
-flags: 1
-minor: 1
+languages: 
+keep-ts: 1441924448
+ts: 1441924448
 text: #SUBTITLE Tootmistehnika eripeatükid
 	#SUBURL [Course:100710 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 host: 82.131.7.230
-ts: 1441924448
-keep-ts: 1441924448
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100710 〔Õppeaine ÕIS-is〕]
-lastmajor: 2

@@ -1,11 +1,13 @@
 revision: 4
-ts: 1441924149
-languages: 
 username: AlexDaniel
+languages: 
+diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == EAEM07/07 - Tööstus- ja tsiviilehitus Kava:4037</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == EAEM07/07 - Tööstus- ja tsiviilehitus <strong class="changes">[</strong>Kava:4037 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+ts: 1441924149
+keep-ts: 1441924149
+host: 82.131.7.230
 text: == EAEM07/07 - Tööstus- ja tsiviilehitus [Kava:4037 〔Õppekava ÕIS-is〕]
 	[[EEA0020]] Arhitektuur
 	[[EEA0030]] Arhitektuur - projekt I
@@ -71,7 +73,5 @@ text: == EAEM07/07 - Tööstus- ja tsiviilehitus [Kava:4037 〔Õppekava ÕIS-is
 	[[EEG3442]] Vundamendid - projekt
 	
 	
-diff-major: 
-keep-ts: 1441924149
-host: 82.131.7.230
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

@@ -1,14 +1,14 @@
-ts: 1438887369
-languages: 
-username: Bot
 minor: 1
-diff-minor: 
-revision: 2
-diff-major: 
-keep-ts: 1438887369
 summary: Автоматическое обновление
 host: 85.253.110.44
 text: <include "NDFR14-15">
 	
 	
 	
+diff-minor: 
+keep-ts: 1438887369
+ts: 1438887369
+diff-major: 
+languages: 
+revision: 2
+username: Bot

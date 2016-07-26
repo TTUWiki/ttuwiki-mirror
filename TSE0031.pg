@@ -1,16 +1,14 @@
-blocks: [Course:102979 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-minor: 1
+languages: 
 revision: 4
+ip: 89.235.235.166
 username: AlexDaniel
-keep-ts: 1441924451
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Sotsiaalpoliitika Euroopa Liidus
 	#SUBURL [Course:102979 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
 ts: 1441924451
-lastmajor: 2
+keep-ts: 1441924451

@@ -1,7 +1,12 @@
-keep-ts: 1444820417
 lastmajor: 6
+revision: 6
+username: AlexDaniel
+languages: 
+minor: 
 summary: For now, let's leave it like this.
-host: 82.131.4.24
+lastmajorsummary: For now, let's leave it like this.
+ts: 1444820417
+keep-ts: 1444820417
 text: == MASM02/15 - Soojusenergeetika [Kava:50299 〔Õppekava ÕIS-is〕]
 	Tunniplaanid: ^^[Ti:38372 MASM11] [Ti:37010 MASM31]^^
 	
@@ -39,9 +44,4 @@ text: == MASM02/15 - Soojusenergeetika [Kava:50299 〔Õppekava ÕIS-is〕]
 	[[MSJ0170]] Tuumareaktorid
 	
 	
-languages: 
-lastmajorsummary: For now, let's leave it like this.
-ts: 1444820417
-minor: 
-username: AlexDaniel
-revision: 6
+host: 82.131.4.24

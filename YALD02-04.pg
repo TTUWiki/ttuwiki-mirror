@@ -1,15 +1,4 @@
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == YALD02/04 - Keemia ja geenitehnoloogia Kava:3290</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == YALD02/04 - Keemia ja geenitehnoloogia <strong class="changes">[</strong>Kava:3290 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924155
-languages: 
-revision: 4
 host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-keep-ts: 1441924155
 text: == YALD02/04 - Keemia ja geenitehnoloogia [Kava:3290 〔Õppekava ÕIS-is〕]
 	[[YXX9040]] Ametipraktika
 	[[YKI9100]] Arvutuskeemia erikursus
@@ -47,3 +36,14 @@ text: == YALD02/04 - Keemia ja geenitehnoloogia [Kava:3290 〔Õppekava ÕIS-is�
 	[[HUP9010]] Teadus- ja hariduskorraldus
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == YALD02/04 - Keemia ja geenitehnoloogia Kava:3290</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == YALD02/04 - Keemia ja geenitehnoloogia <strong class="changes">[</strong>Kava:3290 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924155
+keep-ts: 1441924155
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
+languages: 
+username: AlexDaniel
+revision: 4
+diff-major: 

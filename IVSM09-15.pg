@@ -1,3 +1,9 @@
+diff-major: 
+languages: 
+revision: 4
+username: AlexDaniel
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1
 text: == IVSM09/15 - Tarkvaratehnika [Kava:50313 〔Õppekava ÕIS-is〕]
 	[[IDY0203]] Agentorienteeritud modelleerimine ja multiagentsüsteemid
 	[[ITI8590]] Algoritmide ja andmestruktuuride erikursus
@@ -35,15 +41,9 @@ text: == IVSM09/15 - Tarkvaratehnika [Kava:50313 〔Õppekava ÕIS-is〕]
 	[[MTAT.03.295]] Väle tarkvaraarendus
 	
 	
-keep-ts: 1441924151
-diff-major: 
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
-languages: 
 ts: 1441924151
-minor: 1
+keep-ts: 1441924151
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == IVSM09/15 - Tarkvaratehnika Kava:50313</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == IVSM09/15 - Tarkvaratehnika <strong class="changes">[</strong>Kava:50313 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel

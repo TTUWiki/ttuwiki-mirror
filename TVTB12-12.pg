@@ -1,7 +1,15 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924154
 diff-major: 
+revision: 5
+username: AlexDaniel
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == TVTB12/12 - Rahvusvaheline ärikorraldus Kava:50201</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == TVTB12/12 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50201 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154
+host: 82.131.7.230
 text: == TVTB12/12 - Rahvusvaheline ärikorraldus [Kava:50201 〔Õppekava ÕIS-is〕]
 	[[TMM2540]] Ärisuhtlus
 	[[TTO2020]] Äritegevuse õiguslik keskkond
@@ -49,11 +57,3 @@ text: == TVTB12/12 - Rahvusvaheline ärikorraldus [Kava:50201 〔Õppekava ÕIS-
 	[[TXX0020]] Uurimistöö II (Põhiõppe uurimistöö)
 	
 	
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == TVTB12/12 - Rahvusvaheline ärikorraldus Kava:50201</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == TVTB12/12 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50201 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-languages: 
-ts: 1441924154
-revision: 5

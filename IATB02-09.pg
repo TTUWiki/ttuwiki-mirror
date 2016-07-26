@@ -1,15 +1,8 @@
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == IATB02/09 - Telekommunikatsioon Kava:50023</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == IATB02/09 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50023 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924150
 languages: 
 revision: 4
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
+username: AlexDaniel
 diff-major: 
-keep-ts: 1441924150
+host: 82.131.7.230
 text: == IATB02/09 - Telekommunikatsioon [Kava:50023 〔Õppekava ÕIS-is〕]
 	[[HLX0020]] Akadeemiline võõrkeel
 	[[IRM0030]] Antennid ja RF elektroonika
@@ -56,3 +49,10 @@ text: == IATB02/09 - Telekommunikatsioon [Kava:50023 〔Õppekava ÕIS-is〕]
 	[[ISS0110]] Väljendusoskus
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == IATB02/09 - Telekommunikatsioon Kava:50023</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == IATB02/09 - Telekommunikatsioon <strong class="changes">[</strong>Kava:50023 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924150
+ts: 1441924150
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+minor: 1

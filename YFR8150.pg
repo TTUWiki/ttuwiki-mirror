@@ -1,16 +1,14 @@
-flags: 1
 text: #SUBTITLE Tahke keha füüsika
 	#SUBURL [Course:28239 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-languages: 
-blocks: [Course:28239 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
+ts: 1441924452
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 lastmajor: 2
+revision: 4
 ip: 89.235.235.166
 username: AlexDaniel
-revision: 4

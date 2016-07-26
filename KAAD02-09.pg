@@ -1,7 +1,15 @@
-keep-ts: 1441924151
 diff-major: 
-host: 82.131.7.230
+username: AlexDaniel
+revision: 5
+languages: 
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == KAAD02/09 - Keemia- ja materjalitehnoloogia Kava:50140</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == KAAD02/09 - Keemia- ja materjalitehnoloogia <strong class="changes">[</strong>Kava:50140 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924151
+keep-ts: 1441924151
+host: 82.131.7.230
 text: == KAAD02/09 - Keemia- ja materjalitehnoloogia [Kava:50140 〔Õppekava ÕIS-is〕]
 	[[KAT9020]] Fluidumi dünaamika, soojuslevi ja massilevi
 	[[KMP9010]] Insenerlik polümeeriteadus
@@ -32,11 +40,3 @@ text: == KAAD02/09 - Keemia- ja materjalitehnoloogia [Kava:50140 〔Õppekava Õ
 	[[KMT9021]] Valitud probleemid tekstiilimaterjalidest
 	
 	
-languages: 
-ts: 1441924151
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == KAAD02/09 - Keemia- ja materjalitehnoloogia Kava:50140</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == KAAD02/09 - Keemia- ja materjalitehnoloogia <strong class="changes">[</strong>Kava:50140 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
-revision: 5

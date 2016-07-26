@@ -1,16 +1,14 @@
-host: 82.131.7.230
-keep-ts: 1441924449
-ts: 1441924449
+languages: 
+ip: 89.235.235.166
+lastmajor: 2
 username: AlexDaniel
-blocks: [Course:41369 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Suhtlemispsühholoogia
 	#SUBURL [Course:41369 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-flags: 1
+host: 82.131.7.230
+ts: 1441924449
+keep-ts: 1441924449
 minor: 1
-languages: 
-revision: 4
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

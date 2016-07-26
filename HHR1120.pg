@@ -1,16 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 host: 82.131.7.230
-lastmajor: 2
-keep-ts: 1441924446
-blocks: [Course:38032 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
-languages: 
 text: #SUBTITLE Valla ja linna juhtimine
 	#SUBURL [Course:38032 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924446
 ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
+languages: 
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
+revision: 4

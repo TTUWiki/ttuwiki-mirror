@@ -1,14 +1,12 @@
-keep-ts: 1441924452
-languages: 
-revision: 2
 text: #SUBTITLE Kala esmakäitlemine
 	#SUBURL [Course:109155 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+keep-ts: 1441924452
 ts: 1441924452
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109155 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
+languages: 
+revision: 2
 username: AlexDaniel

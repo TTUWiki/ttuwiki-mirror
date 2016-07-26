@@ -1,3 +1,15 @@
+diff-major: 
+revision: 4
+username: AlexDaniel
+languages: 
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == RDER02/02 - Masinaehitustehnoloogia Kava:1591</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == RDER02/02 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:1591 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924152
+ts: 1441924152
+host: 82.131.7.230
 text: == RDER02/02 - Masinaehitustehnoloogia [Kava:1591 〔Õppekava ÕIS-is〕]
 	[[RAR0110]] Arvestuse alused
 	[[RAR0090]] Automatiseerimistehnika ja arvjuhtimissüsteemid
@@ -52,15 +64,3 @@ text: == RDER02/02 - Masinaehitustehnoloogia [Kava:1591 〔Õppekava ÕIS-is〕]
 	[[RAX0032]] Võõrkeel II
 	
 	
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-diff-major: 
-keep-ts: 1441924152
-revision: 4
-username: AlexDaniel
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == RDER02/02 - Masinaehitustehnoloogia Kava:1591</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == RDER02/02 - Masinaehitustehnoloogia <strong class="changes">[</strong>Kava:1591 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
-ts: 1441924152
-languages: 

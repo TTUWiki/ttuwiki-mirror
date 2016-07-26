@@ -1,11 +1,8 @@
-lastmajorsummary: 
-username: Ain_Laidoja
-keep-ts: 1465837243
-revision: 53
+languages: 
 lastmajor: 53
+revision: 53
+username: Ain_Laidoja
 host: 86.110.32.164
-summary: 
-minor: 
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -22,5 +19,8 @@ text: #Minu Õppekava [[MASM02-09]]
 	
 	
 	
+lastmajorsummary: 
+keep-ts: 1465837243
 ts: 1465837243
-languages: 
+minor: 
+summary: 

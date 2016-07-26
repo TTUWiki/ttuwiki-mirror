@@ -1,14 +1,3 @@
-languages: 
-ts: 1438886454
-ip: 89.235.235.166
-minor: 1
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; [[<strong class="changes">YARM10</strong>]] <strong class="changes">Merendus</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; [[<strong class="changes">YAEM14</strong>]] <strong class="changes">Maa-teadused ja geotehnoloogia</strong></p></div>
-username: Bot
-revision: 5
-keep-ts: 1438886454
 diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YABM02]] Biomeditsiinitehnoloogia\\<br />&lt; [[YADM12]] Biomeditsiinitehnika ja meditsiinifüüsika\\<br />&lt; [[YAFB02]] Tehniline füüsika\\<br />&lt; [[YAFD06]] Tehniline füüsika\\<br />&lt; [[YAFM02]] Tehniline füüsika\\</p></div><p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YAGM02]] Geenitehnoloogia\\<br />&lt; [[YALD02]] Keemia ja geenitehnoloogia\\</p></div><p><strong>Changed:</strong></p>
@@ -17,9 +6,20 @@ diff-major: <p><strong>Deleted:</strong></p>
 	<div class="old"><p>&lt; [[YASB02]] Rakenduskeemia ja biotehnoloogia\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; [[YAFM02]] Tehniline füüsika\\</p></div><p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; \\<br />&gt; [[YALD02]] Keemia ja geenitehnoloogia\\<br />&gt; [[YAMD06]] Maa-teadused\\<br />&gt; [[YAFD06]] Tehniline füüsika\\<br />&gt; \\</p></div>
-summary: Автоматическое обновление
-host: 85.253.110.44
+username: Bot
 lastmajor: 3
+revision: 5
+ip: 89.235.235.166
+languages: 
+minor: 1
+summary: Автоматическое обновление
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [[YAEB14]] Maa-teadused ja geotehnoloogia</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">YARM10</strong>]] <strong class="changes">Merendus</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; [[<strong class="changes">YAEM14</strong>]] <strong class="changes">Maa-teadused ja geotehnoloogia</strong></p></div>
+ts: 1438886454
+keep-ts: 1438886454
+host: 85.253.110.44
 text: [[YAGB02]] Geenitehnoloogia
 	[[YAMB11]] Maa-teadused
 	[[YAEB14]] Maa-teadused ja geotehnoloogia

@@ -1,16 +1,14 @@
-username: AlexDaniel
-lastmajor: 2
-languages: 
-ip: 89.235.235.166
-blocks: [Course:101953 〔Õppeaine ÕIS-is〕]
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924446
-host: 82.131.7.230
-revision: 4
-flags: 1
+ts: 1441924446
 text: #SUBTITLE Intellektuaalse omandi eriseminar
 	#SUBURL [Course:101953 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
-minor: 1
+host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
+revision: 4
+lastmajor: 2
+languages: 

@@ -1,16 +1,14 @@
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-flags: 1
-ip: 89.235.235.166
-host: 82.131.7.230
 minor: 1
-blocks: [Course:26761 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
 keep-ts: 1441924447
-lastmajor: 2
 text: #SUBTITLE Visuaalprogrammeerimine
 	#SUBURL [Course:26761 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
 languages: 

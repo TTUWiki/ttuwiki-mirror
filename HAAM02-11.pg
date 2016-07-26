@@ -1,3 +1,6 @@
+minor: 1
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+host: 82.131.7.230
 text: == HAAM02/11 - Avalik haldus [Kava:50166 〔Õppekava ÕIS-is〕]
 	[[HHM1130]] Avalik teenistus
 	[[HHM1131]] Avaliku halduse erikursus
@@ -28,15 +31,12 @@ text: == HAAM02/11 - Avalik haldus [Kava:50166 〔Õppekava ÕIS-is〕]
 	[[HHL1310]] Võrdlev halduspoliitika ja EL poliitikad
 	
 	
-host: 82.131.7.230
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-keep-ts: 1441924149
-revision: 5
-username: AlexDaniel
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == HAAM02/11 - Avalik haldus Kava:50166</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == HAAM02/11 - Avalik haldus <strong class="changes">[</strong>Kava:50166 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 ts: 1441924149
+keep-ts: 1441924149
+diff-major: 
 languages: 
+username: AlexDaniel
+revision: 5

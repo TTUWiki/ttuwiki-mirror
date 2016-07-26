@@ -1,11 +1,7 @@
-lastmajorsummary: Moved
-ts: 1444779275
 languages: 
-username: AlexDaniel
-minor: 
 revision: 1
+username: AlexDaniel
 lastmajor: 1
-summary: Moved
 host: 82.131.4.24
 text: * https://pass.ttu.ee/
 	* http://sise.ttu.ee/
@@ -38,3 +34,7 @@ text: * https://pass.ttu.ee/
 	* [[http://193.40.245.132 Vb-006]]
 	* [[http://193.40.245.182 Vb-201]]
 	
+lastmajorsummary: Moved
+ts: 1444779275
+summary: Moved
+minor: 

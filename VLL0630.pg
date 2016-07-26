@@ -1,14 +1,12 @@
 username: AlexDaniel
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
-languages: 
 revision: 2
+languages: 
 ts: 1441924452
+keep-ts: 1441924452
+host: 82.131.7.230
 text: #SUBTITLE Elektroonilised laevajuhtimise seadmed I
 	#SUBURL [Course:109004 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-blocks: [Course:109004 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

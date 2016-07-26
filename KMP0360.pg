@@ -1,16 +1,14 @@
-languages: 
-blocks: [Course:107215 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
 lastmajor: 2
-flags: 1
+username: AlexDaniel
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+ts: 1441924448
 text: #SUBTITLE Eriomadustega materjalid
 	#SUBURL [Course:107215 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
-ts: 1441924448
-keep-ts: 1441924448
+host: 82.131.7.230

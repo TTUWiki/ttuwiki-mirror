@@ -1,16 +1,14 @@
-keep-ts: 1441924450
-host: 82.131.7.230
-revision: 4
-ts: 1441924450
-lastmajor: 2
-languages: 
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Matemaatilised ja statistilised meetodid
 	#SUBURL [Course:37359 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
-blocks: [Course:37359 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+keep-ts: 1441924450
+languages: 
 ip: 89.235.235.166
+revision: 4
+lastmajor: 2
 username: AlexDaniel

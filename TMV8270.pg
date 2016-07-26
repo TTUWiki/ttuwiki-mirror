@@ -1,16 +1,14 @@
-host: 82.131.7.230
-flags: 1
+lastmajor: 2
 ip: 89.235.235.166
-languages: 
-ts: 1441924451
 username: AlexDaniel
+revision: 4
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924451
+keep-ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Ettevõtlus ja väikeettevõtted
 	#SUBURL [Course:39633 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
-keep-ts: 1441924451
-lastmajor: 2
-revision: 4
-blocks: [Course:39633 〔Õppeaine ÕIS-is〕]

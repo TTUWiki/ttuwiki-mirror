@@ -1,7 +1,8 @@
-summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
-diff-major: 
 keep-ts: 1441924154
+ts: 1441924154
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine Kava:50285</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine <strong class="changes">[</strong>Kava:50285 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine [Kava:50285 〔Õppekava ÕIS-is〕]
 	[[VAY0020]] Analüütiline geomeetria
 	[[VMV0070]] Andmetöötlus ja andmebaasid
@@ -84,11 +85,10 @@ text: == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine [Kava:50285
 	[[VMV0270]] Vesirajatised sadamas
 	
 	
-username: AlexDaniel
+host: 82.131.7.230
+summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine Kava:50285</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDVR14/14EMERA - Veeteede haldamine ja ohutuse korraldamine <strong class="changes">[</strong>Kava:50285 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924154
-languages: 
+username: AlexDaniel
 revision: 5
+languages: 
+diff-major: 

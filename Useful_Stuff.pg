@@ -1,9 +1,9 @@
-keep-ts: 1469411763
 languages: 
 lastmajor: 57
-summary: professors
 username: Marjana Voronina
 revision: 57
+minor: 
+summary: professors
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -235,7 +235,7 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+host: 85.253.224.176
 lastmajorsummary: professors
 ts: 1469411763
-host: 85.253.224.176
-minor: 
+keep-ts: 1469411763

@@ -1,16 +1,14 @@
-revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Alumiiniumi tehnoloogia
 	#SUBURL [Course:107156 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-username: AlexDaniel
 keep-ts: 1441924450
 ts: 1441924450
-languages: 
 minor: 1
-host: 82.131.7.230
-blocks: [Course:107156 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+revision: 4
+lastmajor: 2
 ip: 89.235.235.166

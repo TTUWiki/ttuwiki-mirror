@@ -1,7 +1,10 @@
-host: 82.131.7.230
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
+ts: 1441924148
 keep-ts: 1441924148
-diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus Kava:50016</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
 text: == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus [Kava:50016 〔Õppekava ÕIS-is〕]
 	[[BCU0510]] Ärieetika alused
 	[[BCU1910]] Ärilogistika
@@ -72,11 +75,8 @@ text: == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus [Kava:50016 〔Õ
 	[[BCU4160]] Vene keel
 	
 	
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus Kava:50016</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == BDÄR02/09 - Rahvusvaheline majandus ja ärikorraldus <strong class="changes">[</strong>Kava:50016 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+host: 82.131.7.230
+diff-major: 
 username: AlexDaniel
-languages: 
-ts: 1441924148
 revision: 5
+languages: 

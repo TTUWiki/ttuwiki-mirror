@@ -1,15 +1,10 @@
-username: AlexDaniel
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == NAEI13/13 - Ehitus Kava:50213</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == NAEI13/13 - Ehitus <strong class="changes">[</strong>Kava:50213 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-ts: 1441924152
+diff-major: 
 languages: 
 revision: 5
-host: 82.131.7.230
+username: AlexDaniel
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-diff-major: 
-keep-ts: 1441924152
+host: 82.131.7.230
 text: == NAEI13/13 - Ehitus [Kava:50213 〔Õppekava ÕIS-is〕]
 	[[NTX0010]] Akadeemiline võõrkeel
 	[[NTM0460]] Arhitektuurigraafika
@@ -101,3 +96,8 @@ text: == NAEI13/13 - Ehitus [Kava:50213 〔Õppekava ÕIS-is〕]
 	[[NTS0591]] Vundamendid
 	
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == NAEI13/13 - Ehitus Kava:50213</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == NAEI13/13 - Ehitus <strong class="changes">[</strong>Kava:50213 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+keep-ts: 1441924152
+ts: 1441924152

@@ -1,15 +1,13 @@
-languages: 
-ts: 1438886448
 ip: 89.235.235.166
-minor: 1
+revision: 3
+username: Bot
+lastmajor: 1
+languages: 
+diff-major: 
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; &lt;include "MASM02-15"&gt;</p></div>
-username: Bot
-revision: 3
+ts: 1438886448
 keep-ts: 1438886448
-diff-major: 
-lastmajor: 1
-summary: Автоматическое обновление
 host: 85.253.110.44
 text: <include "MASM02-15">
 	
@@ -19,3 +17,5 @@ text: <include "MASM02-15">
 	
 	
 	
+minor: 1
+summary: Автоматическое обновление

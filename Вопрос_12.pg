@@ -1,13 +1,10 @@
-host: 85.253.224.176
-summary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
-blocks: #ENG
-	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#EST
-	<p>Siin võite <strong>[[Ask|oma küsimuse esitada]]</strong>.<br /></p>#RUS
-	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
-	
-	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-languages: 
+username: Marjana Voronina
+revision: 1
 lastmajor: 1
+languages: 
+lastmajorsummary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
+ts: 1469409227
+host: 85.253.224.176
 text: Am I the only one who finds it weird? :)
 	
 	[[File:Screenshot_from_2016-07-25_04-09-01.png]]
@@ -17,9 +14,5 @@ text: Am I the only one who finds it weird? :)
 	-- Marjana Voronina 2016-07-25 04:13:47
 	
 	
-ts: 1469409227
 minor: 
-lastmajorsummary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!
-username: Marjana Voronina
-flags: 0101010101010101
-revision: 1
+summary: Am I the only one who finds it weird? :) [[File:Screenshot_from_2016-07-25_04-09-01.png]] Hint: translation missing!

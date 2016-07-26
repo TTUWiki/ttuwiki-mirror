@@ -1,7 +1,5 @@
-keep-ts: 1441924154
-diff-major: 
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
-host: 82.131.7.230
 text: == TVTM03/11 - Rahvusvaheline ärikorraldus [Kava:50158 〔Õppekava ÕIS-is〕]
 	[[TMK8300]] Ärieetika
 	[[IDY0275]] Äriinfosüsteemid
@@ -35,11 +33,13 @@ text: == TVTM03/11 - Rahvusvaheline ärikorraldus [Kava:50158 〔Õppekava ÕIS-
 	[[TMM2700]] Turundusuuring
 	
 	
-languages: 
+host: 82.131.7.230
+keep-ts: 1441924154
 ts: 1441924154
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; == TVTM03/11 - Rahvusvaheline ärikorraldus Kava:50158</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; == TVTM03/11 - Rahvusvaheline ärikorraldus <strong class="changes">[</strong>Kava:50158 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-minor: 1
+diff-major: 
+languages: 
 username: AlexDaniel
 revision: 5

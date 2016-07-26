@@ -1,15 +1,10 @@
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine Kava:50323</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50323 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
-username: AlexDaniel
+diff-major: 
 languages: 
-ts: 1441924154
 revision: 3
+username: AlexDaniel
+minor: 1
 summary: (Kava\:\d+) → [$1 〔Õppekava ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924154
-diff-major: 
 text: == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine [Kava:50323 〔Õppekava ÕIS-is〕]
 	[[VAA0080]] Arvutigraafika
 	[[VMS0110]] Baaslogistika
@@ -92,3 +87,8 @@ text: == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine [Kava:50323 �
 	[[VAY0522]] Vene keel II (võõrkeelena)
 	[[VAY0521]] Vene keel I (võõrkeelena)
 	
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine Kava:50323</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; == VDSR14/15 - Sadamamajandamine ja meretranspordi juhtimine <strong class="changes">[</strong>Kava:50323 <strong class="changes">〔Õppekava ÕIS-is〕]</strong></p></div>
+ts: 1441924154
+keep-ts: 1441924154

@@ -1,16 +1,14 @@
+revision: 4
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
+languages: 
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+keep-ts: 1441924446
 text: #SUBTITLE Keel C ja objektorienteeritud programmeerimine - projekt
 	#SUBURL [Course:32196 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
-blocks: [Course:32196 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-revision: 4
-ts: 1441924446
-flags: 1
