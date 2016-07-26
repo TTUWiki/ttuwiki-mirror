@@ -1,24 +1,12 @@
-diff-major: 1
-languages: 
-revision: 2
-ip: 89.235.239.240
+minor: 1
+summary: Moved
 username: AlexDaniel
+host: 85.253.224.176
+revision: 3
+ts: 1469509240
+text: #REDIRECT [[Question 1]]
+	
 lastmajor: 2
-minor: 
-summary: Всем всё понятно :))
-text: Осталось ли на сайте еще что-то непонятное или нелогичное? Или может у вас есть какие-то пожелания?
-	
-	-- AlexDaniel 2014-03-18 02:51:25
-	
-	----
-	
-	Всем всё понятно :))
-	
-	-- AlexDaniel 2014-08-25 23:23:04
-	
-	
-host: 89.235.245.58
-keep-ts: 1408998184
-ts: 1408998184
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всем всё понятно :))<br />&gt; -- AlexDaniel 2014-08-25 23:23:04</p></div>
+ip: 89.235.239.240
+languages: 
+keep-ts: 1469509240
