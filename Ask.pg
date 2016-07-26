@@ -1,7 +1,15 @@
-ts: 1469508840
+ts: 1469509081
+keep-ts: 1469509081
+blocks: </div></div>
+lastmajorsummary: Вопрос → Question, show 2
+lastmajor: 10
 username: AlexDaniel
-text: == Most recent question / Viimane küsimus / Последний вопрос
-	<Journal 1,10 "^Question_\d+">
+host: 85.253.224.176
+languages: 
+minor: 
+summary: Вопрос → Question, show 2
+text: == Most recent questions / Viimased küsimused / Последние вопросы
+	<Journal 2,10 "^Question_\d+">
 	
 	== Ask your question / Esita küsimus / Задать вопрос
 	#ENG
@@ -20,13 +28,5 @@ text: == Most recent question / Viimane küsimus / Последний вопро
 	Все вопросы видны на [[Questions|отдельной странице]].
 	
 	
-languages: 
-blocks: </div></div>
-host: 85.253.224.176
-summary: Вопрос → Question
 flags: 0
-revision: 9
-lastmajor: 9
-minor: 
-keep-ts: 1469508840
-lastmajorsummary: Вопрос → Question
+revision: 10
