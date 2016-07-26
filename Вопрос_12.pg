@@ -1,3 +1,5 @@
+languages: 
+username: AlexDaniel
 text: Am I the only one who finds it weird? :)
 	
 	[[File:Screenshot_from_2016-07-25_04-09-01.png]]
@@ -13,18 +15,16 @@ text: Am I the only one who finds it weird? :)
 	
 	Actually, it was not missing. It is just one of those fossils from the days when the whole wiki was in Russian.
 	
-	Fixed. I also got rid of other hard-coded translations.
+	Fixed. I also got rid of other hard-coded translations. Note that there are still some things that are less than awesome.
 	
 	-- AlexDaniel 2016-07-26 07:38:21
 	
 	
-summary: Right! Actually, it was not missing. It is just one of those fossils from the days when the whole wiki was in Russian. Fixed. I also got rid of . . .
-minor: 
-languages: 
-keep-ts: 1469507902
-revision: 2
-lastmajor: 2
+revision: 3
 host: 85.253.224.176
-username: AlexDaniel
+keep-ts: 1469507935
+minor: 1
+lastmajor: 2
+ts: 1469507935
+summary: Right! Actually, it was not missing. It is just one of those fossils from the days when the whole wiki was in Russian. Fixed. I also got rid of . . .
 lastmajorsummary: Right! Actually, it was not missing. It is just one of those fossils from the days when the whole wiki was in Russian. Fixed. I also got rid of . . .
-ts: 1469507902
