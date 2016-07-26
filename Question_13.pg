@@ -1,0 +1,25 @@
+ts: 1469508413
+username: AlexDaniel
+summary: Moved
+minor: 1
+languages: 
+text: Same thing here :(
+	
+	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
+	
+	-- Marjana Voronina 2016-07-25 04:16:42
+	
+	
+	----
+	
+	Yeah. But you can help!
+	
+	Download [[https://raw.githubusercontent.com/kensanata/oddmuse/master/modules/translations/estonian-utf8.pl this file]] and fill in missing translations. Then send it back to me and I will update the website.
+	
+	You can also submit a pull request on GitHub if you know how to do that. The repo is [[https://github.com/kensanata/oddmuse/blob/master/modules/translations/estonian-utf8.pl#L235 here]]. Actually, you can probably just click the “edit” button there and it will create a pull request for you when you are done.
+	
+	-- AlexDaniel 2016-07-26 07:44:44
+	
+	
+revision: 1
+host: 85.253.224.176
