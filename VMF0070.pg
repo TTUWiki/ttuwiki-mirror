@@ -1,12 +1,14 @@
-ts: 1441924452
-keep-ts: 1441924452
-host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Erialane praktika
 	#SUBURL [Course:108856 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:108856 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
+ts: 1441924452
+revision: 2
+username: AlexDaniel
+keep-ts: 1441924452
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 2
-languages: 

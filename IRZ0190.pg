@@ -3,12 +3,14 @@ text: #SUBTITLE Kanalikodeerimine telekommunikatsioonis
 	#SUBURL [Course:108237 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924447
+lastmajor: 2
 ts: 1441924447
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+username: AlexDaniel
+flags: 1
+blocks: [Course:108237 〔Õppeaine ÕIS-is〕]
+languages: 

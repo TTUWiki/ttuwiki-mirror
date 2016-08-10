@@ -1,4 +1,5 @@
-ts: 1454267958
+minor: 
+ip: 89.235.235.166
 keep-ts: 1454267958
 lastmajorsummary: 
 text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
@@ -12,11 +13,12 @@ text: #SUBTITLE Objektorienteeritud programmeerimine keeles Java
 	
 	Правила и оценивание предмета [[File:IDK2015_sygis2015_reeglid_v2.pdf]]
 	
-host: 84.52.32.112
-summary: 
-minor: 
-username: Artur Gummel
-ip: 89.235.235.166
 revision: 8
+ts: 1454267958
+host: 84.52.32.112
 lastmajor: 8
+blocks: [Course:100261 〔Õppeaine ÕIS-is〕]
 languages: 
+flags: 1
+username: Artur Gummel
+summary: 

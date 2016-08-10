@@ -1,14 +1,16 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 languages: 
-ip: 89.235.235.166
+minor: 1
 lastmajor: 2
 revision: 4
-username: AlexDaniel
-host: 82.131.7.230
+blocks: [Course:103683 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Sissejuhatav projekt
 	#SUBURL [Course:103683 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
 keep-ts: 1441924448
-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 1
+host: 82.131.7.230

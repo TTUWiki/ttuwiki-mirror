@@ -1,14 +1,16 @@
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 ts: 1441924447
-keep-ts: 1441924447
+host: 82.131.7.230
+languages: 
 text: #SUBTITLE Dünaamiliste süsteemide modelleerimine
 	#SUBURL [Course:33039 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
+lastmajor: 2
+blocks: [Course:33039 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+keep-ts: 1441924447

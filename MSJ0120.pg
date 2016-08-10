@@ -1,8 +1,15 @@
-summary: Uploaded file corrected.
-minor: 
-ts: 1445266137
+ip: 89.235.235.166
 keep-ts: 1445266137
+lastmajor: 14
+ts: 1445266137
+flags: 1
+summary: Uploaded file corrected.
+blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
+host: 85.253.53.160
 lastmajorsummary: Uploaded file corrected.
+revision: 14
+languages: 
+minor: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -13,9 +20,4 @@ text: #SUBTITLE Soojuspumbad
 	
 	
 	
-host: 85.253.53.160
-revision: 14
 username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 14
-languages: 

@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-keep-ts: 1441924452
-host: 82.131.7.230
 text: #SUBTITLE Eripraktikum  I
 	#SUBURL [Course:28319 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
 languages: 
+revision: 4
+host: 82.131.7.230
+blocks: [Course:28319 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 1
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+ts: 1441924452
+keep-ts: 1441924452

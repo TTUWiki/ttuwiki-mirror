@@ -1,14 +1,16 @@
-languages: 
-lastmajor: 2
-username: AlexDaniel
-revision: 4
+minor: 1
 ip: 89.235.235.166
 text: #SUBTITLE Õhu kvaliteet ja atmosfääri kaitse
 	#SUBURL [Course:38624 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+flags: 1
+blocks: [Course:38624 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
 keep-ts: 1441924449
-minor: 1
+languages: 
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel

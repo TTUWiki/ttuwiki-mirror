@@ -1,14 +1,16 @@
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-languages: 
 keep-ts: 1441924445
+username: AlexDaniel
+minor: 1
+host: 82.131.7.230
+ip: 89.235.235.166
 ts: 1441924445
+lastmajor: 2
 text: #SUBTITLE Tehnovõrkude ekspluatatsioon
 	#SUBURL [Course:25517 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+flags: 1
+revision: 4
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+blocks: [Course:25517 〔Õppeaine ÕIS-is〕]

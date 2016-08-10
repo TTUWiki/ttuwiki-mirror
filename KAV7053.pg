@@ -1,12 +1,14 @@
-languages: 
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Õppevahendid kutsehariduses
 	#SUBURL [Course:109607 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924447
+blocks: [Course:109607 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 ts: 1441924447
+username: AlexDaniel

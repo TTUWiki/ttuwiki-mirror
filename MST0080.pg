@@ -1,20 +1,22 @@
 languages: 
 ip: 89.235.235.166
-revision: 5
-username: 
-lastmajor: 5
+host: 86.110.37.246
 diff-major: 1
+flags: 1
 text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	#SUBURL [Course:30478 〔Õppeaine ÕIS-is〕]
 	
 	Seda õppeainet enam ei loeta, selle asemel [[MST0081]]
 	
-host: 86.110.37.246
-lastmajorsummary: 
 keep-ts: 1442559055
+lastmajor: 5
+lastmajorsummary: 
+blocks: [Course:30478 〔Õppeaine ÕIS-is〕]
+username: 
+summary: 
 ts: 1442559055
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста</strong>, <strong class="changes">здесь не хватает твоих полезных советов.</strong></p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">Seda õppeainet enam ei loeta</strong>, <strong class="changes">selle asemel [[MST0081]]</strong></p></div>
 minor: 
-summary: 
+revision: 5

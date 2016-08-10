@@ -1,9 +1,9 @@
-languages: 
-username: Ain_Laidoja
+flags: 1
+minor: 
 revision: 10
-ip: 89.235.235.166
+languages: 
 lastmajor: 10
-host: 193.40.250.236
+ts: 1450175058
 text: #SUBTITLE Hajaobjekti projekt
 	#SUBURL [Course:106022 〔Õppeaine ÕIS-is〕]
 	
@@ -19,8 +19,10 @@ text: #SUBTITLE Hajaobjekti projekt
 	
 	* **2016-01-14** PROJEKTI KAITSMINE  10:00-11:00
 	
-keep-ts: 1450175058
-ts: 1450175058
 lastmajorsummary: 
+username: Ain_Laidoja
+ip: 89.235.235.166
+host: 193.40.250.236
+blocks: [Course:106022 〔Õppeaine ÕIS-is〕]
+keep-ts: 1450175058
 summary: 
-minor: 

@@ -1,12 +1,14 @@
-languages: 
-revision: 2
 username: AlexDaniel
-minor: 1
+keep-ts: 1441924450
+flags: 1
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109955 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+minor: 1
 host: 82.131.7.230
+revision: 2
 text: #SUBTITLE Rakenduslik majandusanalüüs
 	#SUBURL [Course:109955 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924450
-ts: 1441924450

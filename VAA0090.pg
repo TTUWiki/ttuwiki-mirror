@@ -1,12 +1,14 @@
-username: AlexDaniel
-revision: 2
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-keep-ts: 1441924452
-host: 82.131.7.230
 text: #SUBTITLE Kujutav geomeetria
 	#SUBURL [Course:108888 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+ts: 1441924452
+languages: 
+blocks: [Course:108888 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
+flags: 1
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

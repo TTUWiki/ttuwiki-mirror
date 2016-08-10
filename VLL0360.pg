@@ -1,12 +1,14 @@
-host: 82.131.7.230
-text: #SUBTITLE Sillatöö organiseerimine ja juhtimine
-	#SUBURL [Course:108925 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
+revision: 2
+username: AlexDaniel
 ts: 1441924452
 keep-ts: 1441924452
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 2
-username: AlexDaniel
+flags: 1
+text: #SUBTITLE Sillatöö organiseerimine ja juhtimine
+	#SUBURL [Course:108925 〔Õppeaine ÕIS-is〕]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+host: 82.131.7.230
+blocks: [Course:108925 〔Õppeaine ÕIS-is〕]

@@ -1,12 +1,14 @@
 revision: 2
-username: AlexDaniel
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
-keep-ts: 1441924452
 text: #SUBTITLE Rannikuvööndi integreeritud areng II
 	#SUBURL [Course:109175 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
+keep-ts: 1441924452
+minor: 1
+flags: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+blocks: [Course:109175 〔Õppeaine ÕIS-is〕]

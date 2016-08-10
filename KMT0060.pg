@@ -1,14 +1,16 @@
+host: 82.131.7.230
 username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-languages: 
-keep-ts: 1441924448
+blocks: [Course:32111 〔Õppeaine ÕIS-is〕]
 ts: 1441924448
+flags: 1
+minor: 1
+ip: 89.235.235.166
 text: #SUBTITLE Õmblusettevõtete tootmisseadmed
 	#SUBURL [Course:32111 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
+lastmajor: 2
+keep-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 

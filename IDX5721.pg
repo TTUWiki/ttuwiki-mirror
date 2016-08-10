@@ -1,4 +1,14 @@
-host: 85.253.118.231
+ts: 1446300518
+username: AlexDaniel
+lastmajorsummary: My presentation: [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.odp]] [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.pdf]] 
+blocks: [Course:26827 〔Õppeaine ÕIS-is〕]
+languages: 
+summary: My presentation: [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.odp]] [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.pdf]] 
+flags: 1
+ip: 89.235.235.166
+minor: 1
+revision: 17
+lastmajor: 16
 text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	#SUBURL [Course:26827 〔Õppeaine ÕIS-is〕]
 	
@@ -22,12 +32,4 @@ text: #SUBTITLE Tarkvara kvaliteet ja standardid
 	
 	
 keep-ts: 1446300518
-ts: 1446300518
-lastmajorsummary: My presentation: [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.odp]] [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.pdf]] 
-summary: My presentation: [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.odp]] [[File:Mned_asjad_mida_iga_IT-inimene_peab_teadma.pdf]] 
-minor: 1
-languages: 
-lastmajor: 16
-revision: 17
-ip: 89.235.235.166
-username: AlexDaniel
+host: 85.253.118.231

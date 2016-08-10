@@ -1,12 +1,14 @@
-host: 82.131.7.230
+username: AlexDaniel
+blocks: [Course:109962 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitusjoonis I
 	#SUBURL [Course:109962 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+flags: 1
+minor: 1
 keep-ts: 1441924444
 ts: 1441924444
-minor: 1
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 2
-username: AlexDaniel

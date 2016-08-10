@@ -1,12 +1,14 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 keep-ts: 1441924448
+revision: 2
+host: 82.131.7.230
 ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 1
 text: #SUBTITLE Sissejuhatus soojusenergeetikasse
 	#SUBURL [Course:108776 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-revision: 2
-username: AlexDaniel
-languages: 
+minor: 1
+blocks: [Course:108776 〔Õppeaine ÕIS-is〕]

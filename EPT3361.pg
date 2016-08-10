@@ -1,14 +1,16 @@
+keep-ts: 1441924445
+blocks: [Course:25533 〔Õppeaine ÕIS-is〕]
 languages: 
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
 revision: 4
-host: 82.131.7.230
+ts: 1441924445
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Ehituspraktika I
 	#SUBURL [Course:25533 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924445
-keep-ts: 1441924445
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-languages: 
-keep-ts: 1441924453
-ts: 1441924453
 text: #SUBTITLE Erialase õpetamise metoodika
 	#SUBURL [Course:101123 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+ip: 89.235.235.166
+flags: 1
+languages: 
+keep-ts: 1441924453
+revision: 4
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924453
+host: 82.131.7.230
 minor: 1
+blocks: [Course:101123 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

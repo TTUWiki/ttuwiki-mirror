@@ -1,12 +1,14 @@
-languages: 
-revision: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+flags: 1
+keep-ts: 1441924447
+languages: 
+username: AlexDaniel
+ts: 1441924447
 text: #SUBTITLE Magistriseminar I
 	#SUBURL [Course:110049 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+blocks: [Course:110049 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924447
-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

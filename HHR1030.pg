@@ -1,14 +1,16 @@
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 keep-ts: 1441924446
-ts: 1441924446
-host: 82.131.7.230
 text: #SUBTITLE Teadustöö meetodid
 	#SUBURL [Course:31863 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
+blocks: [Course:31863 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+languages: 
+ip: 89.235.235.166
+username: AlexDaniel
+host: 82.131.7.230
+lastmajor: 2
+revision: 4
+minor: 1

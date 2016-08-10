@@ -1,12 +1,14 @@
-revision: 2
-username: AlexDaniel
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-ts: 1441924449
-host: 82.131.7.230
 text: #SUBTITLE Säästlik tootmine
 	#SUBURL [Course:109921 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+languages: 
+keep-ts: 1441924449
+flags: 1
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924449
+revision: 2
+blocks: [Course:109921 〔Õppeaine ÕIS-is〕]

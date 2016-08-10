@@ -1,14 +1,16 @@
+lastmajor: 2
+languages: 
+ip: 89.235.235.166
+revision: 4
+minor: 1
 keep-ts: 1441924444
-ts: 1441924444
 text: #SUBTITLE Geoloogia uurimismeetodid
 	#SUBURL [Course:30126 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30126 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
 username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-languages: 
+flags: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

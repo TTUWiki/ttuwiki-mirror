@@ -1,7 +1,13 @@
-minor: 
-summary: 
+host: 86.110.37.246
+ip: 89.235.235.166
+blocks: [Course:30472 〔Õppeaine ÕIS-is〕]
 keep-ts: 1454440331
+flags: 1
+languages: 
+summary: 
 ts: 1454440331
+username: Ain_Laidoja
+lastmajor: 5
 lastmajorsummary: 
 text: #SUBTITLE Auru- ja gaasiturbiinid
 	#SUBURL [Course:30472 〔Õppeaine ÕIS-is〕]
@@ -10,9 +16,5 @@ text: #SUBTITLE Auru- ja gaasiturbiinid
 	[[image/icon:File:capstone_C30.jpeg|Gaasiturbiin Capstone C30 Soojustehnika instituudis]]
 	
 	
-host: 86.110.37.246
-username: Ain_Laidoja
-ip: 89.235.235.166
+minor: 
 revision: 5
-lastmajor: 5
-languages: 

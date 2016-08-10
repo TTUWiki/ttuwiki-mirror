@@ -1,12 +1,14 @@
-languages: 
-username: AlexDaniel
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924452
+blocks: [Course:109084 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Mereõigus II
 	#SUBURL [Course:109084 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 2
+username: AlexDaniel
 keep-ts: 1441924452
-ts: 1441924452
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1

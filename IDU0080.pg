@@ -1,10 +1,15 @@
-languages: 
-username: AlexDaniel
-lastmajor: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
 revision: 5
+languages: 
+blocks: [Course:32181 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 1
+ts: 1441924447
+username: AlexDaniel
 ip: 89.235.235.166
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 4
 text: #SUBTITLE Veebiteenused ja Interneti-lahenduste arhitektuur
 	#SUBURL [Course:32181 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -16,6 +21,3 @@ text: #SUBTITLE Veebiteenused ja Interneti-lahenduste arhitektuur
 	-- MaryBoom 2015-08-06 17:19:47
 	
 	
-host: 82.131.7.230
-ts: 1441924447
-keep-ts: 1441924447

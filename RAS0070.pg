@@ -1,11 +1,13 @@
-summary: 
-minor: 
-lastmajorsummary: 
-keep-ts: 1444025420
+blocks: [Course:105566 〔Õppeaine ÕIS-is〕]
+lastmajor: 5
+host: 86.110.37.246
 ts: 1444025420
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal:<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]</strong></p></div>
+diff-major: 1
+summary: 
+lastmajorsummary: 
+revision: 5
+flags: 1
+minor: 
 text: #SUBTITLE Kütusetööstuse protsessid
 	#SUBURL [Course:105566 〔Õppeaine ÕIS-is〕]
 	
@@ -13,10 +15,10 @@ text: #SUBTITLE Kütusetööstuse protsessid
 	
 	[http://data.vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]
 	
-host: 86.110.37.246
-diff-major: 1
-ip: 89.235.235.166
-revision: 5
-username: Ain_Laidoja
-lastmajor: 5
+keep-ts: 1444025420
 languages: 
+username: Ain_Laidoja
+ip: 89.235.235.166
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">==Õppematerjal:<br />&gt; [http://data</strong>.<strong class="changes">vk.edu.ee/RAKM/KutuseproChek Õppeaine kodulehekülg]</strong></p></div>

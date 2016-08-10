@@ -1,9 +1,11 @@
-languages: 
-revision: 5
+lastmajorsummary: 
+flags: 1
 lastmajor: 5
-username: AlexDaniel
-ip: 89.235.235.166
 minor: 
+keep-ts: 1454276725
+ip: 89.235.235.166
+blocks: [Course:30617 〔Õppeaine ÕIS-is〕]
+revision: 5
 summary: 
 text: #SUBTITLE Füüsika II
 	#SUBURL [Course:30617 〔Õppeaine ÕIS-is〕]
@@ -11,7 +13,7 @@ text: #SUBTITLE Füüsika II
 	
 	See also [[YFR0020]]
 	
-host: 85.253.177.126
-lastmajorsummary: 
-keep-ts: 1454276725
 ts: 1454276725
+host: 85.253.177.126
+username: AlexDaniel
+languages: 

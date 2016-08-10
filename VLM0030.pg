@@ -1,12 +1,14 @@
 revision: 2
-username: AlexDaniel
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-ts: 1441924452
-host: 82.131.7.230
 text: #SUBTITLE Keevitamise õppepraktika&nbsp;&nbsp;
 	#SUBURL [Course:108844 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:108844 〔Õppeaine ÕIS-is〕]
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+languages: 
+ts: 1441924452
+username: AlexDaniel
+minor: 1
+host: 82.131.7.230

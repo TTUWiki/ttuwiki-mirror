@@ -1,7 +1,12 @@
-minor: 1
+languages: 
+blocks: [Course:107102 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
+flags: 1
+username: AlexDaniel
+revision: 4
+minor: 1
 keep-ts: 1441924444
+ts: 1441924444
 text: #SUBTITLE Maastike üldkursus, tüpoloogia
 	#SUBURL [Course:107102 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -9,6 +14,3 @@ text: #SUBTITLE Maastike üldkursus, tüpoloogia
 host: 82.131.7.230
 ip: 89.235.235.166
 lastmajor: 2
-username: AlexDaniel
-revision: 4
-languages: 

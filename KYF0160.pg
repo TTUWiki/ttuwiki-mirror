@@ -1,14 +1,16 @@
-minor: 1
+blocks: [Course:101072 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-ts: 1441924448
-host: 82.131.7.230
 text: #SUBTITLE Termodünaamika
 	#SUBURL [Course:101072 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
+host: 82.131.7.230
+minor: 1
 languages: 
+ts: 1441924448
+lastmajor: 2
+ip: 89.235.235.166
+keep-ts: 1441924448
+flags: 1

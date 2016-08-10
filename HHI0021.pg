@@ -1,12 +1,14 @@
-revision: 2
-username: AlexDaniel
+flags: 1
+minor: 1
 languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
 keep-ts: 1441924445
-ts: 1441924445
 text: #SUBTITLE Venemaa ja idapartnerlusriikide õigussüsteemid: võrdlev lähenemine
 	#SUBURL [Course:108499 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+blocks: [Course:108499 〔Õppeaine ÕIS-is〕]
+revision: 2

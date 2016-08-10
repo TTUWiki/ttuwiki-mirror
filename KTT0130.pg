@@ -1,14 +1,16 @@
-languages: 
+blocks: [Course:100370 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-minor: 1
+languages: 
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 text: #SUBTITLE Taimse toorme töötlemine
 	#SUBURL [Course:100370 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 host: 82.131.7.230
-keep-ts: 1441924448
+lastmajor: 2
 ts: 1441924448
+minor: 1
+ip: 89.235.235.166
+revision: 4

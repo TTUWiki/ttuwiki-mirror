@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ts: 1441924448
 text: #SUBTITLE Toitumisõpetus - praktikum
 	#SUBURL [Course:30076 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924448
-keep-ts: 1441924448
-languages: 
-lastmajor: 2
+flags: 1
 ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30076 〔Õppeaine ÕIS-is〕]
 revision: 4
+keep-ts: 1441924448
+host: 82.131.7.230
+minor: 1
 username: AlexDaniel

@@ -1,14 +1,16 @@
+flags: 1
 host: 82.131.7.230
+minor: 1
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Turundusuuringud
 	#SUBURL [Course:101261 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924450
-keep-ts: 1441924450
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 ip: 89.235.235.166
-username: AlexDaniel
 revision: 4
 lastmajor: 2
+blocks: [Course:101261 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450

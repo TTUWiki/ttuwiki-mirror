@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+flags: 1
+lastmajor: 2
 host: 82.131.7.230
+languages: 
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Erialased ettekanded
 	#SUBURL [Course:33185 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924453
+blocks: [Course:33185 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924453
-languages: 
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
+keep-ts: 1441924453

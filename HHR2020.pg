@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
+flags: 1
 keep-ts: 1441924446
+lastmajor: 2
 text: #SUBTITLE Kohaliku omavalitsuse õiguse alused
 	#SUBURL [Course:41281 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
 revision: 4
+host: 82.131.7.230
 username: AlexDaniel
+ts: 1441924446
 languages: 
+blocks: [Course:41281 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

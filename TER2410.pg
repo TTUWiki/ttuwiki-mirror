@@ -1,14 +1,16 @@
-username: AlexDaniel
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
 minor: 1
+blocks: [Course:36324 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+flags: 1
+revision: 4
 ts: 1441924450
-keep-ts: 1441924450
 text: #SUBTITLE Ettevõtte rahandus
 	#SUBURL [Course:36324 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+keep-ts: 1441924450

@@ -1,14 +1,16 @@
-lastmajor: 2
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-keep-ts: 1441924448
-host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Tootmise plaanimine ja juhtimine
 	#SUBURL [Course:37288 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924448
+keep-ts: 1441924448
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:37288 〔Õppeaine ÕIS-is〕]
+flags: 1
+host: 82.131.7.230
+languages: 
+revision: 4

@@ -1,12 +1,14 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ts: 1441924444
-host: 82.131.7.230
 text: #SUBTITLE Jäätmekäitlus maastikuarhitektidele
 	#SUBURL [Course:109750 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 2
-username: AlexDaniel
+ts: 1441924444
 languages: 
+minor: 1
+blocks: [Course:109750 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+revision: 2
+host: 82.131.7.230

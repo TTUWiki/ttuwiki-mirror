@@ -1,14 +1,16 @@
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ts: 1441924446
-keep-ts: 1441924446
 host: 82.131.7.230
+ip: 89.235.235.166
+flags: 1
 text: #SUBTITLE Internetis toimijate õigused, kohustused ja vastutus
 	#SUBURL [Course:106187 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+lastmajor: 2
+blocks: [Course:106187 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+keep-ts: 1441924446
+ts: 1441924446
+minor: 1

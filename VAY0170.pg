@@ -1,12 +1,14 @@
 languages: 
 revision: 2
-username: AlexDaniel
 text: #SUBTITLE Ettevõtlusõpe
 	#SUBURL [Course:108817 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924452
-keep-ts: 1441924452
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+host: 82.131.7.230
+keep-ts: 1441924452
+flags: 1
+blocks: [Course:108817 〔Õppeaine ÕIS-is〕]
+ts: 1441924452

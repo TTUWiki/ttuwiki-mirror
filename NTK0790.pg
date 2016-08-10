@@ -1,14 +1,16 @@
-minor: 1
+revision: 4
+lastmajor: 2
+blocks: [Course:39131 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-ts: 1441924449
+languages: 
 host: 82.131.7.230
+keep-ts: 1441924449
+ip: 89.235.235.166
 text: #SUBTITLE Keskkonnatehnoloogiad
 	#SUBURL [Course:39131 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajor: 2
-revision: 4
+minor: 1
 username: AlexDaniel
-ip: 89.235.235.166
-languages: 
+flags: 1
+ts: 1441924449

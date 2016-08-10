@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-username: AlexDaniel
-languages: 
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-ts: 1441924447
 text: #SUBTITLE Veeteede kavandamine
 	#SUBURL [Course:103092 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
 host: 82.131.7.230
+keep-ts: 1441924447
+ts: 1441924447
+username: AlexDaniel
+revision: 4
+lastmajor: 2
+ip: 89.235.235.166
+minor: 1
+languages: 
+blocks: [Course:103092 〔Õppeaine ÕIS-is〕]

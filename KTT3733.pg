@@ -1,14 +1,16 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 ts: 1441924448
+flags: 1
+blocks: [Course:33797 〔Õppeaine ÕIS-is〕]
+revision: 4
 keep-ts: 1441924448
+minor: 1
+host: 82.131.7.230
+lastmajor: 2
+languages: 
 text: #SUBTITLE Mikrobioloogia ja toiduhügieen
 	#SUBURL [Course:33797 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-lastmajor: 2
 username: AlexDaniel
 ip: 89.235.235.166
-revision: 4
-languages: 

@@ -1,6 +1,15 @@
 minor: 
+ip: 89.235.235.166
+username: Artur Gummel
 summary: 
+languages: 
 host: 84.52.32.112
+flags: 1
+ts: 1454266847
+revision: 7
+lastmajorsummary: 
+keep-ts: 1454266847
+lastmajor: 7
 text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	#SUBURL [Course:26901 〔Õppeaine ÕIS-is〕]
 	
@@ -23,11 +32,4 @@ text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	[[File:systemtestexample.png]]
 	[[File:Sissejuhatus-infos_252_steemidesse-testi-vastused.pdf]]
 	
-lastmajorsummary: 
-ts: 1454266847
-keep-ts: 1454266847
-languages: 
-ip: 89.235.235.166
-username: Artur Gummel
-revision: 7
-lastmajor: 7
+blocks: [Course:26901 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,16 @@
-languages: 
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+revision: 4
+flags: 1
+blocks: [Course:39252 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+keep-ts: 1441924450
 text: #SUBTITLE Ehitusfüüsika
 	#SUBURL [Course:39252 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924450
-keep-ts: 1441924450
+minor: 1
+lastmajor: 2
+username: AlexDaniel

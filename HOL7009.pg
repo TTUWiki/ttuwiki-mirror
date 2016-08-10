@@ -1,14 +1,16 @@
-languages: 
-username: AlexDaniel
-revision: 4
+minor: 1
+host: 82.131.7.230
 ip: 89.235.235.166
-lastmajor: 2
+username: AlexDaniel
+ts: 1441924446
+blocks: [Course:102247 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE EL konkurentsiõiguse aktuaalseid probleeme
 	#SUBURL [Course:102247 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924446
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 1
+lastmajor: 2
+revision: 4
+languages: 

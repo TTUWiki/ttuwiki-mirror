@@ -1,12 +1,14 @@
 username: AlexDaniel
-revision: 2
-languages: 
-keep-ts: 1441924451
-ts: 1441924451
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110009 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Erialapraktika (kaubanduse juhtimine)
 	#SUBURL [Course:110009 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 minor: 1
+languages: 
+keep-ts: 1441924451
+ts: 1441924451
+flags: 1

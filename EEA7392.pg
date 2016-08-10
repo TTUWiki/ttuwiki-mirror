@@ -1,14 +1,16 @@
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
 lastmajor: 2
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-ts: 1441924445
+host: 82.131.7.230
 text: #SUBTITLE Arhitektuurne projekt ÜII. Väike ühiskondlik hoone - paviljon
 	#SUBURL [Course:107162 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+ts: 1441924445
+blocks: [Course:107162 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+flags: 1
+languages: 
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166

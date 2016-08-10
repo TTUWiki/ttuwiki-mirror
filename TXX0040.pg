@@ -1,14 +1,16 @@
-languages: 
+blocks: [Course:100856 〔Õppeaine ÕIS-is〕]
 revision: 4
+flags: 1
+minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
 text: #SUBTITLE Uurimistöö II
 	#SUBURL [Course:100856 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 keep-ts: 1441924452
+languages: 
+ip: 89.235.235.166
 ts: 1441924452
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

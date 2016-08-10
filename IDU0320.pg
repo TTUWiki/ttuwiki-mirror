@@ -1,14 +1,16 @@
-languages: 
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 text: #SUBTITLE Äriinfosüsteemid
 	#SUBURL [Course:106947 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924447
+lastmajor: 2
+ip: 89.235.235.166
 keep-ts: 1441924447
+username: AlexDaniel
+languages: 
+blocks: [Course:106947 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+flags: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

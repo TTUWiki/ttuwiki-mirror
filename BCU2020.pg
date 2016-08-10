@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ts: 1441924444
-host: 82.131.7.230
 text: #SUBTITLE Soome keel
 	#SUBURL [Course:38485 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+lastmajor: 2
+flags: 1
+languages: 
+revision: 4
+ts: 1441924444
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+blocks: [Course:38485 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166

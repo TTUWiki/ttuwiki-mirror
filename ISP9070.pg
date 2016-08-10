@@ -1,14 +1,16 @@
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ts: 1441924447
-keep-ts: 1441924447
 text: #SUBTITLE Proaktiivtehnoloogiad
 	#SUBURL [Course:102365 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+blocks: [Course:102365 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+keep-ts: 1441924447
+languages: 
+ts: 1441924447
+ip: 89.235.235.166
+minor: 1
+flags: 1
+revision: 4

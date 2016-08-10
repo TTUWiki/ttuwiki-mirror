@@ -1,12 +1,14 @@
-username: AlexDaniel
-revision: 2
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
 ts: 1441924452
-host: 82.131.7.230
+keep-ts: 1441924452
 text: #SUBTITLE Keskkonna kaugsondeerimine
 	#SUBURL [Course:109457 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 1
+revision: 2
+blocks: [Course:109457 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+host: 82.131.7.230

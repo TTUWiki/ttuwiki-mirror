@@ -1,3 +1,6 @@
+revision: 7
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Matemaatiline analüüs II
 	#SUBURL [Course:28199 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -11,13 +14,12 @@ text: #SUBTITLE Matemaatiline analüüs II
 	-- Atomsk 2014-02-25 23:20 UTC
 	
 	
-host: 82.131.7.230
 keep-ts: 1441924452
-ts: 1441924452
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-ip: 84.52.48.194
-revision: 7
 lastmajor: 4
+username: AlexDaniel
+flags: 1
+blocks: [Course:28199 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+ip: 84.52.48.194
+host: 82.131.7.230

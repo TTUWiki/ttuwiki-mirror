@@ -2,11 +2,13 @@ text: #SUBTITLE E-valitsemine kohalikus omavalitsuses
 	#SUBURL [Course:110057 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924446
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
 revision: 2
+keep-ts: 1441924446
+flags: 1
+ts: 1441924446
+languages: 
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:110057 〔Õppeaine ÕIS-is〕]
+minor: 1

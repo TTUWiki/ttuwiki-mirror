@@ -1,14 +1,16 @@
-lastmajor: 2
-ip: 89.235.235.166
-revision: 4
 username: AlexDaniel
-languages: 
-minor: 1
+lastmajor: 2
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
+ip: 89.235.235.166
 keep-ts: 1441924450
-host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Finantsriskid logistikas
 	#SUBURL [Course:27705 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:27705 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+languages: 
+host: 82.131.7.230
+minor: 1

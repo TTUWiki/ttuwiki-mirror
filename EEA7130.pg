@@ -1,14 +1,16 @@
-keep-ts: 1441924445
-ts: 1441924445
+revision: 4
+flags: 1
 text: #SUBTITLE 3D programmide õpe
 	#SUBURL [Course:106322 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+ts: 1441924445
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:106322 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
 username: AlexDaniel
+keep-ts: 1441924445
 languages: 

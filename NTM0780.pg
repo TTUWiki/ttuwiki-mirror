@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-host: 82.131.7.230
+languages: 
+revision: 4
 text: #SUBTITLE Dendroloogiline inventeerimine
 	#SUBURL [Course:38970 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
-ts: 1441924449
-languages: 
-revision: 4
-username: AlexDaniel
 ip: 89.235.235.166
+blocks: [Course:38970 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+keep-ts: 1441924449
+host: 82.131.7.230
+flags: 1
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+ts: 1441924449

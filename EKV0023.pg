@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-languages: 
-keep-ts: 1441924445
-ts: 1441924445
 host: 82.131.7.230
+ip: 89.235.235.166
+flags: 1
+languages: 
+revision: 4
+keep-ts: 1441924445
+minor: 1
+blocks: [Course:30944 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ühisveevärk II - projekt
 	#SUBURL [Course:30944 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+lastmajor: 2

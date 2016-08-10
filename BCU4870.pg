@@ -1,12 +1,14 @@
-ts: 1441924444
-keep-ts: 1441924444
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Finantsalane inglise keel II
 	#SUBURL [Course:109631 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+keep-ts: 1441924444
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-username: AlexDaniel
+flags: 1
 languages: 
+revision: 2
+ts: 1441924444
+host: 82.131.7.230
+blocks: [Course:109631 〔Õppeaine ÕIS-is〕]

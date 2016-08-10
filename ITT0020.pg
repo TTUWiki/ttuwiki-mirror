@@ -1,14 +1,16 @@
-ip: 89.235.235.166
 revision: 4
-username: AlexDaniel
-lastmajor: 2
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 1
+blocks: [Course:31303 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 minor: 1
-keep-ts: 1441924447
-ts: 1441924447
+lastmajor: 2
 text: #SUBTITLE Tehisintellekti algoritmid
 	#SUBURL [Course:31303 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924447
+languages: 
+keep-ts: 1441924447
 host: 82.131.7.230

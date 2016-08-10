@@ -1,13 +1,7 @@
-lastmajor: 4
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 6
-languages: 
-minor: 1
-summary: 
-ts: 1446062895
-keep-ts: 1446062895
 host: 85.253.118.231
+flags: 1
+minor: 1
+blocks: [Course:100403 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Filosoofia
 	#SUBURL [Course:100403 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +19,11 @@ text: #SUBTITLE Filosoofia
 	
 	В целом халява.
 	
+ip: 89.235.235.166
+ts: 1446062895
+languages: 
+summary: 
+keep-ts: 1446062895
+lastmajor: 4
+username: AlexDaniel
+revision: 6

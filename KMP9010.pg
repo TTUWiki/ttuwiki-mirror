@@ -1,14 +1,16 @@
+username: AlexDaniel
+blocks: [Course:33001 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+languages: 
+lastmajor: 2
+revision: 4
+flags: 1
+ip: 89.235.235.166
+minor: 1
+ts: 1441924448
 text: #SUBTITLE Insenerlik polümeeriteadus
 	#SUBURL [Course:33001 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 host: 82.131.7.230
-keep-ts: 1441924448
-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2

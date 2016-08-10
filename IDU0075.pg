@@ -1,4 +1,16 @@
+ip: 89.235.235.166
 host: 84.52.32.112
+username: Artur Gummel
+languages: 
+lastmajor: 9
+blocks: [Course:104246 〔Õppeaine ÕIS-is〕]
+ts: 1454356259
+keep-ts: 1454356259
+revision: 9
+flags: 1
+minor: 
+lastmajorsummary: 
+summary: 
 text: #SUBTITLE Veebiteenused
 	#SUBURL [Course:104246 〔Õppeaine ÕIS-is〕]
 	
@@ -16,13 +28,3 @@ text: #SUBTITLE Veebiteenused
 	
 	
 	
-lastmajorsummary: 
-ts: 1454356259
-keep-ts: 1454356259
-minor: 
-summary: 
-languages: 
-lastmajor: 9
-revision: 9
-username: Artur Gummel
-ip: 89.235.235.166

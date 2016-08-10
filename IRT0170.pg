@@ -1,14 +1,16 @@
-languages: 
 revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+keep-ts: 1441924447
 text: #SUBTITLE Telekommunikatsiooni teenuste arendus
 	#SUBURL [Course:108208 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+languages: 
+ip: 89.235.235.166
+flags: 1
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+blocks: [Course:108208 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924447
-keep-ts: 1441924447

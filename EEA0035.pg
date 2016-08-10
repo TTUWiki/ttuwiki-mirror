@@ -1,12 +1,14 @@
-revision: 2
+blocks: [Course:109959 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 username: AlexDaniel
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ts: 1441924445
-keep-ts: 1441924445
-host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Heliisolatsioon ja ruumiakustika
 	#SUBURL [Course:109959 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924445
+keep-ts: 1441924445
+minor: 1
+revision: 2

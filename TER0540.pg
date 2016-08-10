@@ -1,12 +1,14 @@
-languages: 
-username: AlexDaniel
 revision: 2
 text: #SUBTITLE Eraisiku rahandus ja investeeringud
 	#SUBURL [Course:109879 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924450
+username: AlexDaniel
 ts: 1441924450
-minor: 1
+keep-ts: 1441924450
+blocks: [Course:109879 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+flags: 1

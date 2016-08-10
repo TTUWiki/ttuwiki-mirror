@@ -1,7 +1,8 @@
-summary: Moodle:
-minor: 1
-keep-ts: 1442598717
-ts: 1442598717
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 7
+diff-major: 
+username: AlexDaniel
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; <strong class="changes">https://moodle.hitsa.ee/mod/folder/view.php?id=</strong>706293</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; <strong class="changes">[Moodle:</strong>706293 <strong class="changes">Moodle]</strong></p></div>
@@ -30,10 +31,11 @@ text: #SUBTITLE Organisatsiooni ja juhtimise teooriad ja meetodid
 	-- AlexDaniel 2015-03-05 22:00:05
 	
 	
-host: 82.131.7.230
-diff-major: 
-revision: 7
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 5
 languages: 
+ts: 1442598717
+minor: 1
+blocks: [Course:33883 〔Õppeaine ÕIS-is〕]
+keep-ts: 1442598717
+flags: 1
+summary: Moodle:
+lastmajor: 5

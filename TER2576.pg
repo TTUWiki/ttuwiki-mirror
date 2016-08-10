@@ -1,12 +1,14 @@
+host: 82.131.7.230
 languages: 
-revision: 2
+blocks: [Course:108497 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 text: #SUBTITLE Raha, finantsinstitutsioonid ja turud
 	#SUBURL [Course:108497 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924450
 keep-ts: 1441924450
+ts: 1441924450
+revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+flags: 1

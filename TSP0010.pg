@@ -1,14 +1,16 @@
-lastmajor: 2
-revision: 4
 ip: 89.235.235.166
+flags: 1
+blocks: [Course:102096 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
 username: AlexDaniel
+host: 82.131.7.230
 languages: 
-ts: 1441924451
 keep-ts: 1441924451
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 text: #SUBTITLE Poliitiline filosoofia
 	#SUBURL [Course:102096 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

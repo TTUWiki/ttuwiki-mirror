@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-lastmajor: 2
-revision: 4
-username: AlexDaniel
-languages: 
-keep-ts: 1441924446
-ts: 1441924446
 text: #SUBTITLE Uurimismeetodid ja andmeanalüüs
 	#SUBURL [Course:105753 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
+ts: 1441924446
+lastmajor: 2
+revision: 4
+keep-ts: 1441924446
+ip: 89.235.235.166
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
+blocks: [Course:105753 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

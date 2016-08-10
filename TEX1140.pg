@@ -1,14 +1,16 @@
-username: AlexDaniel
+keep-ts: 1441924451
 revision: 4
 ip: 89.235.235.166
 lastmajor: 2
-languages: 
 ts: 1441924451
-keep-ts: 1441924451
+username: AlexDaniel
+blocks: [Course:108403 〔Õppeaine ÕIS-is〕]
+flags: 1
 text: #SUBTITLE Magistriseminar
 	#SUBURL [Course:108403 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230

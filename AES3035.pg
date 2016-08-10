@@ -3,12 +3,14 @@ text: #SUBTITLE Elektrijaamad
 	#SUBURL [Course:25889 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924444
 keep-ts: 1441924444
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 username: AlexDaniel
-revision: 4
 lastmajor: 2
+revision: 4
+blocks: [Course:25889 〔Õppeaine ÕIS-is〕]
+languages: 
 ip: 89.235.235.166
+minor: 1
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444

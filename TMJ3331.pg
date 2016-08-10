@@ -1,11 +1,14 @@
-languages: 
-ip: 89.235.235.166
-revision: 7
 username: j
-lastmajor: 7
-summary:  [[File:ettevtlus2016.docx]] 
-minor: 
+keep-ts: 1454403341
 host: 131.207.242.128
+languages: 
+blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+lastmajor: 7
+ts: 1454403341
+ip: 89.235.235.166
+minor: 
+summary:  [[File:ettevtlus2016.docx]] 
+revision: 7
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -35,6 +38,5 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:55:41
 	
 	
-keep-ts: 1454403341
+flags: 1
 lastmajorsummary:  [[File:ettevtlus2016.docx]] 
-ts: 1454403341

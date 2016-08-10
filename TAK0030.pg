@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 minor: 1
-keep-ts: 1441924450
 ts: 1441924450
+keep-ts: 1441924450
+blocks: [Course:37241 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+languages: 
 text: #SUBTITLE Kuluarvestus
 	#SUBURL [Course:37241 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
 revision: 4
-ip: 89.235.235.166
 lastmajor: 2
-languages: 
+flags: 1
+ip: 89.235.235.166

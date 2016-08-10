@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-ts: 1441924451
-host: 82.131.7.230
 text: #SUBTITLE Praktiline personalijuhtimine ja töösuhted
 	#SUBURL [Course:38407 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-revision: 4
+blocks: [Course:38407 〔Õppeaine ÕIS-is〕]
+flags: 1
+keep-ts: 1441924451
 username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
+minor: 1
+host: 82.131.7.230
 languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2

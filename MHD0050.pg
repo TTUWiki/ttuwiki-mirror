@@ -1,14 +1,16 @@
-host: 82.131.7.230
+ts: 1441924448
+ip: 89.235.235.166
+lastmajor: 2
 text: #SUBTITLE Diferentsiaalvõrrandid masinamehaanikas
 	#SUBURL [Course:37284 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924448
-keep-ts: 1441924448
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+keep-ts: 1441924448
+host: 82.131.7.230
+flags: 1
+blocks: [Course:37284 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
+minor: 1
 revision: 4

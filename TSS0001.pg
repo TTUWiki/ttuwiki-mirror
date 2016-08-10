@@ -1,12 +1,14 @@
-keep-ts: 1441924451
-ts: 1441924451
+username: AlexDaniel
 text: #SUBTITLE Ühiskond, kultuur, indiviid
 	#SUBURL [Course:110124 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+blocks: [Course:110124 〔Õppeaine ÕIS-is〕]
 minor: 1
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+flags: 1
+keep-ts: 1441924451
 revision: 2
+ts: 1441924451
 languages: 

@@ -1,20 +1,22 @@
-minor: 
 summary: 
-lastmajorsummary: 
-keep-ts: 1444328393
-ts: 1444328393
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">==Course material<br />&lt; Course material is handed over during lessons.<br />&lt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony<br />&lt; ==Upcoming Events<br />&lt; *Last Lesson is hold on **Nov. 12th**<br />&lt; *Informative presentation either **19 or 23 or 26th November**<br />&lt; ==Examination<br />&lt; Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes">Vaata [[HLI8750]]</strong></p></div>
 text: #SUBTITLE Teadusvõõrkeel
 	#SUBURL [Course:30760 〔Õppeaine ÕIS-is〕]
 	
 	Vaata [[HLI8750]]
 	
+lastmajorsummary: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==Course material<br />&lt; Course material is handed over during lessons.<br />&lt; There is no proper course material available for download. Some help is in [https://moodle.hitsa.ee/course/view.php?id=2880 Moodle], but Moodle itself is real agony<br />&lt; ==Upcoming Events<br />&lt; *Last Lesson is hold on **Nov. 12th**<br />&lt; *Informative presentation either **19 or 23 or 26th November**<br />&lt; ==Examination<br />&lt; Examination procedure is well described [http://www.ttu.ee/public/s/sotsiaalteaduskond/Instituudid/keeltekeskus/HLI8070_nouded2014.pdf here]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Vaata [[HLI8750]]</strong></p></div>
+flags: 1
+ts: 1444328393
 host: 86.110.37.246
-diff-major: 1
-username: Ain_Laidoja
-ip: 89.235.235.166
 revision: 9
-lastmajor: 9
+diff-major: 1
+minor: 
+keep-ts: 1444328393
+ip: 89.235.235.166
 languages: 
+username: Ain_Laidoja
+blocks: [Course:30760 〔Õppeaine ÕIS-is〕]
+lastmajor: 9

@@ -1,12 +1,14 @@
 keep-ts: 1441924452
-ts: 1441924452
+host: 82.131.7.230
+username: AlexDaniel
+minor: 1
 text: #SUBTITLE Kalapüügi bioloogilised alused ja kalapüügitehnoloogia
 	#SUBURL [Course:110181 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-username: AlexDaniel
+ts: 1441924452
+blocks: [Course:110181 〔Õppeaine ÕIS-is〕]
 languages: 
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1

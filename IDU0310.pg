@@ -1,14 +1,16 @@
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
 ts: 1441924447
-host: 82.131.7.230
+revision: 4
+keep-ts: 1441924447
+minor: 1
+languages: 
+ip: 89.235.235.166
 text: #SUBTITLE Asjade interneti lahendused: targad seadmed, protsessid ja teenused
 	#SUBURL [Course:106945 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+lastmajor: 2
+blocks: [Course:106945 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230
+flags: 1

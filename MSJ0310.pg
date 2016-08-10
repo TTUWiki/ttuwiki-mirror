@@ -1,13 +1,14 @@
-lastmajor: 5
-revision: 5
-username: Ain_Laidoja
-ip: 89.235.235.166
-languages: 
+flags: 1
 minor: 
-summary: 
-keep-ts: 1454433935
-ts: 1454433935
+revision: 5
 lastmajorsummary: 
+host: 86.110.37.246
+summary: 
+blocks: [Course:106059 〔Õppeaine ÕIS-is〕]
+username: Ain_Laidoja
+lastmajor: 5
+languages: 
+keep-ts: 1454433935
 text: #SUBTITLE Soojustehnika teoreetilised alused
 	#SUBURL [Course:106059 〔Õppeaine ÕIS-is〕]
 	
@@ -15,4 +16,5 @@ text: #SUBTITLE Soojustehnika teoreetilised alused
 	
 	*[http://staff.ttu.ee/~akonist Õppeaine koduleht]
 	
-host: 86.110.37.246
+ip: 89.235.235.166
+ts: 1454433935

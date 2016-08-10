@@ -1,14 +1,16 @@
+keep-ts: 1441924448
 text: #SUBTITLE Füüsikaline okeanograafia ja limnoloogia
 	#SUBURL [Course:40456 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924448
 ts: 1441924448
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-lastmajor: 2
+blocks: [Course:40456 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 ip: 89.235.235.166
+minor: 1
+languages: 
+host: 82.131.7.230
+revision: 4
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

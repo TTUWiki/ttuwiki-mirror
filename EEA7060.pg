@@ -1,14 +1,16 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106290 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-languages: 
-ts: 1441924445
+flags: 1
 keep-ts: 1441924445
-host: 82.131.7.230
 text: #SUBTITLE Linnaehituslik planeerimine. Planeerimisprojekt III
 	#SUBURL [Course:106290 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
 minor: 1
+ts: 1441924445
+username: AlexDaniel
+lastmajor: 2
+languages: 

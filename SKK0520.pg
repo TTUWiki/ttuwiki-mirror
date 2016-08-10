@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
+host: 82.131.7.230
+ip: 89.235.235.166
 ts: 1441924450
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+revision: 4
+keep-ts: 1441924450
+username: AlexDaniel
+blocks: [Course:39521 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kvaliteedi ja tootlikkuse juhtimine
 	#SUBURL [Course:39521 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-languages: 
+flags: 1

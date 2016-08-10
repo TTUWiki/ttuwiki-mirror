@@ -1,14 +1,16 @@
+blocks: [Course:30243 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 6
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 5
-host: 82.131.7.230
 text: #SUBTITLE Visuaalne kommunikatsioon II
 	#SUBURL [Course:30243 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924452
+revision: 6
 ts: 1441924452
+keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 5
+flags: 1
+ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel
 minor: 1

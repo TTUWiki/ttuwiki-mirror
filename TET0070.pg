@@ -1,12 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 2
 minor: 1
+flags: 1
+languages: 
+keep-ts: 1441924450
 text: #SUBTITLE Mikroökonoomika keskkursus
 	#SUBURL [Course:110085 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-languages: 
-revision: 2
-username: AlexDaniel
+host: 82.131.7.230
+blocks: [Course:110085 〔Õppeaine ÕIS-is〕]

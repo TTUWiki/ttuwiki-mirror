@@ -1,12 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+keep-ts: 1441924447
+revision: 2
+host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Kutsepedagoogiline praktika I
 	#SUBURL [Course:110684 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924447
 ts: 1441924447
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110684 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-revision: 2
+minor: 1
+languages: 

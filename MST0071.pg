@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-username: AlexDaniel
+minor: 1
+blocks: [Course:101281 〔Õppeaine ÕIS-is〕]
 languages: 
-keep-ts: 1441924448
-ts: 1441924448
 text: #SUBTITLE Soojusjõuseadmed
 	#SUBURL [Course:101281 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
+ip: 89.235.235.166
+keep-ts: 1441924448
+flags: 1
+ts: 1441924448
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+username: AlexDaniel

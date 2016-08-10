@@ -1,14 +1,16 @@
-languages: 
-lastmajor: 2
 revision: 4
 ip: 89.235.235.166
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
+blocks: [Course:29604 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+username: AlexDaniel
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kartograafia
 	#SUBURL [Course:29604 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924445
+lastmajor: 2
 ts: 1441924445
+flags: 1

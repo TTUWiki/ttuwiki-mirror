@@ -1,14 +1,16 @@
-ts: 1441924447
+minor: 1
+blocks: [Course:32320 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
 keep-ts: 1441924447
+host: 82.131.7.230
+revision: 4
+languages: 
+flags: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Infotehnoloogia
 	#SUBURL [Course:32320 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-languages: 
+ts: 1441924447

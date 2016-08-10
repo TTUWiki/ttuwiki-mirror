@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 minor: 1
+languages: 
+revision: 4
+blocks: [Course:100716 〔Õppeaine ÕIS-is〕]
+flags: 1
+keep-ts: 1441924444
+username: AlexDaniel
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
 text: #SUBTITLE Lühised
 	#SUBURL [Course:100716 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924444
-ts: 1441924444
-languages: 
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
 lastmajor: 2

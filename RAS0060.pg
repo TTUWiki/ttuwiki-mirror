@@ -1,14 +1,16 @@
+username: AlexDaniel
+keep-ts: 1441924450
+ip: 89.235.235.166
+flags: 1
+host: 82.131.7.230
+revision: 4
+languages: 
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924450
 text: #SUBTITLE Keskkonnariskide hindamine ja ökotoksikoloogia kütusetööstuses
 	#SUBURL [Course:105559 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924450
-ts: 1441924450
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
+blocks: [Course:105559 〔Õppeaine ÕIS-is〕]

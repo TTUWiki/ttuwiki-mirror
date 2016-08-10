@@ -1,12 +1,14 @@
-languages: 
-username: AlexDaniel
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Sissejuhatus kaasahaaratuse teooriasse
 	#SUBURL [Course:109391 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
 ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
 keep-ts: 1441924444
+blocks: [Course:109391 〔Õppeaine ÕIS-is〕]
+revision: 2
+username: AlexDaniel
+host: 82.131.7.230

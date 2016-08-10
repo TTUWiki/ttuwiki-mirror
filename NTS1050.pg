@@ -1,14 +1,16 @@
+keep-ts: 1441924449
+ip: 89.235.235.166
+languages: 
+revision: 4
+host: 82.131.7.230
+ts: 1441924449
+blocks: [Course:101031 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+minor: 1
 text: #SUBTITLE Komposiitmaterjalid
 	#SUBURL [Course:101031 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924449
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
-lastmajor: 2
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
+flags: 1

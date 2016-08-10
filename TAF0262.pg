@@ -1,14 +1,16 @@
-keep-ts: 1441924450
-ts: 1441924450
+minor: 1
+languages: 
+username: AlexDaniel
 text: #SUBTITLE Finantsarvestus II
 	#SUBURL [Course:102087 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+keep-ts: 1441924450
 revision: 4
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+host: 82.131.7.230
 ip: 89.235.235.166
 lastmajor: 2
-languages: 
+blocks: [Course:102087 〔Õppeaine ÕIS-is〕]

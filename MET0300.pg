@@ -1,12 +1,14 @@
-username: AlexDaniel
 revision: 2
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-ts: 1441924448
 host: 82.131.7.230
+minor: 1
+flags: 1
+username: AlexDaniel
+blocks: [Course:109855 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Kiirprototüüpimise projekt
 	#SUBURL [Course:109855 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924448

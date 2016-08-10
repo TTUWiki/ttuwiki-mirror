@@ -1,14 +1,16 @@
-host: 82.131.7.230
+flags: 1
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+keep-ts: 1441924447
+lastmajor: 2
+languages: 
+ip: 89.235.235.166
+revision: 4
+blocks: [Course:29630 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Keskkonnakeemia
 	#SUBURL [Course:29630 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924447
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
+host: 82.131.7.230

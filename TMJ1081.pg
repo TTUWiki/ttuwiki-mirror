@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+host: 82.131.7.230
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+ts: 1441924451
+ip: 89.235.235.166
+languages: 
+flags: 1
 text: #SUBTITLE Tarneahela juhtimine
 	#SUBURL [Course:100865 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924451
-keep-ts: 1441924451
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
+blocks: [Course:100865 〔Õppeaine ÕIS-is〕]
 lastmajor: 2

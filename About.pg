@@ -1,7 +1,3 @@
-languages: 
-username: AlexDaniel
-revision: 2
-lastmajor: 1
 text: #ENG
 	This website was created to save time of the students, because we often waste it for searching for the required information. Same questions were asked every semester, because there was no place where these questions could be recorded and structured.
 	
@@ -25,9 +21,15 @@ text: #ENG
 	
 	Исходники этого сайта выложены на [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. Распространяются под той же лицензией, что и [[https://oddmuse.org/ Oddmuse]], то есть [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
 	
-host: 85.253.53.160
-ts: 1445213978
+username: AlexDaniel
 lastmajorsummary: About this wiki
-keep-ts: 1445213978
-summary: site -> website
 minor: 1
+ts: 1445213978
+revision: 2
+languages: 
+lastmajor: 1
+flags: 0
+keep-ts: 1445213978
+blocks: </div></div>
+host: 85.253.53.160
+summary: site -> website

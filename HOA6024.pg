@@ -1,14 +1,16 @@
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-minor: 1
+blocks: [Course:105003 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-ts: 1441924446
+username: AlexDaniel
+minor: 1
+revision: 4
+flags: 1
 text: #SUBTITLE Sissejuhatus õigusteadusesse
 	#SUBURL [Course:105003 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ip: 89.235.235.166
+ts: 1441924446
+lastmajor: 2
+languages: 
+keep-ts: 1441924446
 host: 82.131.7.230

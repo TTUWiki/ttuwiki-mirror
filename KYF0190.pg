@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-ts: 1441924448
+username: AlexDaniel
+languages: 
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Materjalide kasutamine
 	#SUBURL [Course:101075 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-username: AlexDaniel
 ip: 89.235.235.166
-lastmajor: 2
+keep-ts: 1441924448
+ts: 1441924448
+blocks: [Course:101075 〔Õppeaine ÕIS-is〕]
+flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-languages: 
+minor: 1

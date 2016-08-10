@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-lastmajor: 2
-languages: 
-keep-ts: 1441924452
-ts: 1441924452
-host: 82.131.7.230
 text: #SUBTITLE Rakendusmatemaatika
 	#SUBURL [Course:100103 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 minor: 1
+languages: 
+ts: 1441924452
+blocks: [Course:100103 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924452
+flags: 1

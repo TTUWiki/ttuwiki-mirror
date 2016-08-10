@@ -1,12 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+blocks: [Course:109601 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
+keep-ts: 1441924447
+ts: 1441924447
+username: AlexDaniel
 text: #SUBTITLE Õppeprotsessi juhtimine kutsehariduses
 	#SUBURL [Course:109601 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924447
-ts: 1441924447
-languages: 
-username: AlexDaniel
+flags: 1
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

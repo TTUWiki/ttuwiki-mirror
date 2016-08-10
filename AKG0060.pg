@@ -1,14 +1,16 @@
-host: 82.131.7.230
+username: AlexDaniel
+minor: 1
+languages: 
+revision: 4
 text: #SUBTITLE Maavarade geoloogia
 	#SUBURL [Course:30122 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924444
-keep-ts: 1441924444
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
+keep-ts: 1441924444
+ts: 1441924444
+flags: 1
 lastmajor: 2
+blocks: [Course:30122 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230

@@ -1,14 +1,16 @@
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
 languages: 
-keep-ts: 1441924447
-ts: 1441924447
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+keep-ts: 1441924447
+flags: 1
+blocks: [Course:100075 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Keskkonnatehnoloogia eriprotsessid
 	#SUBURL [Course:100075 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924447
+ip: 89.235.235.166
 minor: 1
+lastmajor: 2

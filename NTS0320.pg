@@ -1,14 +1,16 @@
-minor: 1
+keep-ts: 1441924449
+revision: 4
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38598 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
+languages: 
+flags: 1
+username: AlexDaniel
 text: #SUBTITLE Ehituskorraldus
 	#SUBURL [Course:38598 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924449
-ts: 1441924449
-languages: 
 lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
+ts: 1441924449

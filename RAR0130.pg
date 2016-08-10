@@ -1,14 +1,16 @@
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
 username: AlexDaniel
-revision: 4
 host: 82.131.7.230
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 text: #SUBTITLE Tootearendusprojekti juhtimine ja ettevõtte asutamine
 	#SUBURL [Course:34248 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924449
+lastmajor: 2
+flags: 1
+blocks: [Course:34248 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+ip: 89.235.235.166
+keep-ts: 1441924449

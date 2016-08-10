@@ -1,14 +1,16 @@
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 minor: 1
-ts: 1441924449
 keep-ts: 1441924449
+languages: 
 host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924449
 text: #SUBTITLE Jäätmekäitlustehnoloogia ja -tehnika - projekt
 	#SUBURL [Course:38763 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
+blocks: [Course:38763 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4

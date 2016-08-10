@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
 username: AlexDaniel
 languages: 
-keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 ts: 1441924449
+flags: 1
+minor: 1
+lastmajor: 2
+keep-ts: 1441924449
 text: #SUBTITLE Maastikuarhitektuuri ajalugu
 	#SUBURL [Course:38931 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+revision: 4
 host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38931 〔Õppeaine ÕIS-is〕]

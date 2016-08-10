@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 1
+keep-ts: 1441924448
+lastmajor: 2
 host: 82.131.7.230
+ts: 1441924448
 text: #SUBTITLE Interaktsioonidisain
 	#SUBURL [Course:108444 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-keep-ts: 1441924448
-ts: 1441924448
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-lastmajor: 2
+minor: 1
+blocks: [Course:108444 〔Õppeaine ÕIS-is〕]
 revision: 4
 ip: 89.235.235.166
-username: AlexDaniel

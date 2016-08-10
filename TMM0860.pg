@@ -1,12 +1,12 @@
-lastmajor: 4
 username: AlexDaniel
-revision: 5
 ip: 89.235.235.166
-languages: 
+revision: 5
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+host: 82.131.7.230
+languages: 
 keep-ts: 1441924451
 ts: 1441924451
+lastmajor: 4
 text: #SUBTITLE Turunduskommunikatsioon I
 	#SUBURL [Course:30355 〔Õppeaine ÕIS-is〕]
 	
@@ -29,4 +29,6 @@ text: #SUBTITLE Turunduskommunikatsioon I
 	
 	Экзамен можно писать на русском языке, всё остальное, в общем-то, будет на эстонском.
 	
-host: 82.131.7.230
+blocks: [Course:30355 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 1

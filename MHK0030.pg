@@ -1,14 +1,16 @@
-languages: 
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-username: AlexDaniel
-lastmajor: 2
-host: 82.131.7.230
+minor: 1
+flags: 1
 text: #SUBTITLE Mehhatroonika
 	#SUBURL [Course:31834 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+host: 82.131.7.230
+blocks: [Course:31834 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
 keep-ts: 1441924448
 ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+languages: 

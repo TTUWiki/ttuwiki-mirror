@@ -1,12 +1,14 @@
-languages: 
 revision: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+ts: 1441924449
 host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Inimese ja arvuti interaktsioon
 	#SUBURL [Course:109427 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924449
+blocks: [Course:109427 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 keep-ts: 1441924449

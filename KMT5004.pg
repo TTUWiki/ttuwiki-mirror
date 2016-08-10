@@ -1,14 +1,16 @@
-languages: 
-ip: 89.235.235.166
-lastmajor: 2
+flags: 1
 username: AlexDaniel
-revision: 4
-host: 82.131.7.230
+keep-ts: 1441924448
 text: #SUBTITLE Mereõigus ja EL reeglid
 	#SUBURL [Course:108421 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924448
-keep-ts: 1441924448
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
 minor: 1
+revision: 4
+lastmajor: 2
+blocks: [Course:108421 〔Õppeaine ÕIS-is〕]
+ts: 1441924448

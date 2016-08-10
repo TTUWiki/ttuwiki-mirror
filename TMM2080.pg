@@ -1,14 +1,16 @@
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924451
-ts: 1441924451
+username: AlexDaniel
+flags: 1
+blocks: [Course:104958 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Äriturundus
 	#SUBURL [Course:104958 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+ip: 89.235.235.166
+revision: 4
 host: 82.131.7.230
+lastmajor: 2
+ts: 1441924451
+minor: 1

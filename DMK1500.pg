@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924444
 keep-ts: 1441924444
+username: AlexDaniel
+languages: 
+minor: 1
+ip: 89.235.235.166
+flags: 1
+revision: 4
+host: 82.131.7.230
+lastmajor: 2
+blocks: [Course:102168 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Erialased ettekanded ja seminarid
 	#SUBURL [Course:102168 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1

@@ -1,14 +1,16 @@
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
+host: 82.131.7.230
+flags: 1
 username: AlexDaniel
-revision: 4
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Geenitehnoloogia II
 	#SUBURL [Course:34556 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924453
 ts: 1441924453
+revision: 4
+minor: 1
+languages: 
+blocks: [Course:34556 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+keep-ts: 1441924453

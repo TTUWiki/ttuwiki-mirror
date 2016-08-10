@@ -1,8 +1,7 @@
+flags: 1
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
 keep-ts: 1441924452
-host: 82.131.7.230
 text: #SUBTITLE Meremajanduse alused
 	#SUBURL [Course:109079 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -10,3 +9,6 @@ text: #SUBTITLE Meremajanduse alused
 username: AlexDaniel
 revision: 2
 languages: 
+host: 82.131.7.230
+blocks: [Course:109079 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

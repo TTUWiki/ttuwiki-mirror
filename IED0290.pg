@@ -1,14 +1,16 @@
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
 lastmajor: 2
-languages: 
 ts: 1441924447
-keep-ts: 1441924447
-host: 82.131.7.230
 text: #SUBTITLE Sensoorika
 	#SUBURL [Course:107186 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:107186 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+revision: 4
+languages: 
+username: AlexDaniel
 minor: 1
+ip: 89.235.235.166
+host: 82.131.7.230
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

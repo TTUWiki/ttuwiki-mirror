@@ -1,12 +1,14 @@
-keep-ts: 1441924452
+flags: 1
+blocks: [Course:108768 〔Õppeaine ÕIS-is〕]
+minor: 1
 ts: 1441924452
+languages: 
+keep-ts: 1441924452
 host: 82.131.7.230
+revision: 2
 text: #SUBTITLE Ihtüoloogia
 	#SUBURL [Course:108768 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
 username: AlexDaniel
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

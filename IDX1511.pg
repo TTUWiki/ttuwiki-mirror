@@ -1,12 +1,14 @@
-languages: 
+keep-ts: 1441924447
 revision: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
-host: 82.131.7.230
+blocks: [Course:110066 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tarkvara protsessid ja kvaliteet
 	#SUBURL [Course:110066 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
+flags: 1
+host: 82.131.7.230
 ts: 1441924447
-keep-ts: 1441924447

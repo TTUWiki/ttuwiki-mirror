@@ -1,14 +1,16 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+languages: 
+keep-ts: 1441924446
+username: AlexDaniel
 text: #SUBTITLE Kaasaegsed väljakutsed personalijuhtimises
 	#SUBURL [Course:103694 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:103694 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924446
-ts: 1441924446
-languages: 
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
 lastmajor: 2
+ts: 1441924446
+ip: 89.235.235.166
+revision: 4
+minor: 1
+flags: 1

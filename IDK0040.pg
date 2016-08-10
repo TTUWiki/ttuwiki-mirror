@@ -1,3 +1,7 @@
+flags: 1
+ts: 1454267131
+summary: 
+lastmajor: 5
 text: #SUBTITLE Võrgurakendused I
 	#SUBURL [Course:31026 〔Õppeaine ÕIS-is〕]
 	
@@ -7,14 +11,12 @@ text: #SUBTITLE Võrgurakendused I
 	
 	За семестр необходимо сдать 5 практических работ и написать контрольную работу по теории.
 	
+ip: 89.235.235.166
+blocks: [Course:31026 〔Õppeaine ÕIS-is〕]
 host: 84.52.32.112
-ts: 1454267131
+revision: 5
+minor: 
+username: Artur Gummel
+languages: 
 lastmajorsummary: 
 keep-ts: 1454267131
-minor: 
-summary: 
-languages: 
-ip: 89.235.235.166
-revision: 5
-username: Artur Gummel
-lastmajor: 5

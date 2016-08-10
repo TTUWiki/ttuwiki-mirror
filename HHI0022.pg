@@ -1,12 +1,14 @@
-username: AlexDaniel
-revision: 2
-languages: 
-keep-ts: 1441924445
-ts: 1441924445
 text: #SUBTITLE Äri eripärad ELis, Venemaal ja idapartnerlusriikides
 	#SUBURL [Course:108481 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+username: AlexDaniel
+ts: 1441924445
+keep-ts: 1441924445
 host: 82.131.7.230
+blocks: [Course:108481 〔Õppeaine ÕIS-is〕]
+revision: 2
 minor: 1
+flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

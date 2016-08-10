@@ -1,16 +1,3 @@
-revision: 8
-username: Ain_Laidoja
-ip: 89.235.235.166
-lastmajor: 7
-languages: 
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; #[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]</p></div>
-keep-ts: 1443159194
-lastmajorsummary: 
-ts: 1443159194
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">Jhon</strong> R. Howell, Richard O. Buckius</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">John</strong> R. Howell, Richard O. Buckius</p></div>
 text: #SUBTITLE Termodünaamika I
 	#SUBURL [Course:31058 〔Õppeaine ÕIS-is〕]
 	
@@ -22,5 +9,20 @@ text: #SUBTITLE Termodünaamika I
 	#[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]
 	
 host: 86.110.37.246
+username: Ain_Laidoja
 summary: 
+lastmajorsummary: 
+ip: 89.235.235.166
+revision: 8
 minor: 1
+keep-ts: 1443159194
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">Jhon</strong> R. Howell, Richard O. Buckius</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #[http://www.ester.ee/record=b1280600*est Fundamentals of Engineering Thermodynamics], <strong class="changes">John</strong> R. Howell, Richard O. Buckius</p></div>
+ts: 1443159194
+languages: 
+flags: 1
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; #[http://www.ester.ee/record=b2697019*est Soojustehnika aluskursus] : termodünaamika. Põlemine. Soojusülekanne : õpik kõrgkoolidele. Arvo Ots [http://digi.lib.ttu.ee/i/?967 PDF]</p></div>
+blocks: [Course:31058 〔Õppeaine ÕIS-is〕]
+lastmajor: 7

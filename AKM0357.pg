@@ -1,12 +1,14 @@
-revision: 2
-username: AlexDaniel
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 ts: 1441924444
 text: #SUBTITLE Mäemajandus ja projekt
 	#SUBURL [Course:109811 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+flags: 1
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109811 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+languages: 
+username: AlexDaniel
+revision: 2
 host: 82.131.7.230
