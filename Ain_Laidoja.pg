@@ -1,5 +1,9 @@
+languages: 
+keep-ts: 1470821678
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
+	
+	[[image/right:File:fisher_assay.png|Fisher assay or sometimes called Fisher retort]]
 	
 	 
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/alternatiiv_kallile_kaugkyttele.pdf Alternatiiiv kallile kaugküttele]
@@ -12,23 +16,11 @@ text: #Minu Õppekava [[MASM02-09]]
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016.pdf Puidu ja põlevkivi koos-pürolüüs] * [http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016_esitlus.pdf Esitlus] *  [https://goo.gl/photos/uHphhEXNqtDtQKMT6 Fotod]
 	
 	
-	
-	
-	----
-	
-	
-	[[File:fisher_assay.png]]
-	
-	-- Ain_Laidoja 2016-08-10 12:32:45
-	
-	
-languages: 
+lastmajor: 55
 username: Ain_Laidoja
-lastmajor: 54
+ts: 1470821678
 minor: 
-keep-ts: 1470821566
-summary:  [[File:fisher_assay.png]] 
-ts: 1470821566
-revision: 54
 lastmajorsummary:  [[File:fisher_assay.png]] 
+revision: 55
+summary:  [[File:fisher_assay.png]] 
 host: 86.110.32.164
