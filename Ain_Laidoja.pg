@@ -1,8 +1,3 @@
-languages: 
-lastmajor: 53
-revision: 53
-username: Ain_Laidoja
-host: 86.110.32.164
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -19,8 +14,21 @@ text: #Minu Õppekava [[MASM02-09]]
 	
 	
 	
-lastmajorsummary: 
-keep-ts: 1465837243
-ts: 1465837243
+	----
+	
+	
+	[[File:fisher_assay.png]]
+	
+	-- Ain_Laidoja 2016-08-10 12:32:45
+	
+	
+languages: 
+username: Ain_Laidoja
+lastmajor: 54
 minor: 
-summary: 
+keep-ts: 1470821566
+summary:  [[File:fisher_assay.png]] 
+ts: 1470821566
+revision: 54
+lastmajorsummary:  [[File:fisher_assay.png]] 
+host: 86.110.32.164
