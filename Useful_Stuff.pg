@@ -1,8 +1,13 @@
+revision: 59
 languages: 
+username: AlexDaniel
+minor: 1
+keep-ts: 1471127265
 lastmajor: 58
 summary: sci-hub moved
-ts: 1471126342
 lastmajorsummary: sci-hub moved
+ts: 1471127265
+host: 85.253.210.14
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -90,7 +95,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[https://oppejoud.ee/]] - впечатления студентов
 	
 	=== Science / Teadus / Наука
-	* https://sci-hub.bz/ / https://sci-hub.cc/ / https://sci-hub.ac/ – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
+	* https://sci-hub.ac/ [[http://sci-hub.bz/ .bz]] [[http://sci-hub.cc/ .cc]] – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
 	
 	=== Scholarships / Õppetoetused / Стипендии
 	#ENG
@@ -234,8 +239,3 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-host: 85.253.210.14
-keep-ts: 1471126342
-username: AlexDaniel
-minor: 
-revision: 58
