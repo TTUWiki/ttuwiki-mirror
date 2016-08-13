@@ -1,14 +1,16 @@
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
 host: 82.131.7.230
 text: #SUBTITLE Tahke keha ja pooljuhtide füüsika
 	#SUBURL [Course:108308 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 keep-ts: 1441924452
+lastmajor: 2
+blocks: [Course:108308 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
+username: AlexDaniel
+ip: 89.235.235.166
+minor: 1

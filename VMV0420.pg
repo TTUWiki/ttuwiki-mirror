@@ -1,12 +1,14 @@
-revision: 2
-username: AlexDaniel
+minor: 1
 languages: 
-ts: 1441924452
 keep-ts: 1441924452
+ts: 1441924452
 host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Kõrgem geodeesia - ainetöö
 	#SUBURL [Course:110091 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+username: AlexDaniel
+revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+blocks: [Course:110091 〔Õppeaine ÕIS-is〕]

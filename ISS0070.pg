@@ -1,14 +1,16 @@
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
-ts: 1441924447
-host: 82.131.7.230
+username: AlexDaniel
+languages: 
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Programmeeritavad kontrollerid
 	#SUBURL [Course:31270 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:31270 〔Õppeaine ÕIS-is〕]
+flags: 1
+revision: 4
+ip: 89.235.235.166
+ts: 1441924447
+host: 82.131.7.230

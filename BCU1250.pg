@@ -1,14 +1,16 @@
+ts: 1441924444
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
+languages: 
+host: 82.131.7.230
+revision: 4
+flags: 1
+blocks: [Course:33992 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 text: #SUBTITLE Soojus- ja gaasivarustus
 	#SUBURL [Course:33992 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-keep-ts: 1441924444
-ts: 1441924444
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
