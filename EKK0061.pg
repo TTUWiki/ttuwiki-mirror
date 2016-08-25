@@ -1,16 +1,18 @@
-minor: 1
-keep-ts: 1441924445
 text: #SUBTITLE Gaasivarustus
 	#SUBURL [Course:30776 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-lastmajor: 2
-flags: 1
-ts: 1441924445
-revision: 4
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+	==Kirjandus
+	
+	#Gaasi kasutamine ettevõtetes. http://www.ester.ee/record=b1204615*est
+	
+revision: 5
+host: 86.110.32.164
+keep-ts: 1472114368
+lastmajor: 5
 languages: 
-blocks: [Course:30776 〔Õppeaine ÕIS-is〕]
+minor: 
+lastmajorsummary: 
 ip: 89.235.235.166
+summary: 
+username: Ain_Laidoja
+ts: 1472114368
