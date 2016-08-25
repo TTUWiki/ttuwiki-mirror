@@ -1,14 +1,16 @@
-revision: 4
-lastmajor: 2
 ip: 89.235.235.166
+blocks: [Course:31008 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-languages: 
-ts: 1441924453
-keep-ts: 1441924453
-host: 82.131.7.230
+flags: 1
 text: #SUBTITLE Biomeditsiin
 	#SUBURL [Course:31008 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
+ts: 1441924453
+keep-ts: 1441924453
+languages: 
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
+minor: 1

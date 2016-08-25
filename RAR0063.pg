@@ -1,14 +1,16 @@
-lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924449
+flags: 1
 ts: 1441924449
 text: #SUBTITLE Erialapraktika I
 	#SUBURL [Course:34276 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+blocks: [Course:34276 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+keep-ts: 1441924449
+languages: 
+minor: 1
+revision: 4
+lastmajor: 2
+ip: 89.235.235.166
 host: 82.131.7.230

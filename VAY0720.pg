@@ -1,12 +1,14 @@
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
 keep-ts: 1441924452
-host: 82.131.7.230
+blocks: [Course:110063 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Eesti keel II tüürimeestele (võõrkeelena)
 	#SUBURL [Course:110063 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+languages: 
+flags: 1
 revision: 2
 username: AlexDaniel
-languages: 
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

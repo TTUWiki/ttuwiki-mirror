@@ -1,14 +1,16 @@
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924447
+ip: 89.235.235.166
+minor: 1
 keep-ts: 1441924447
+blocks: [Course:108380 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Elektronsüsteemid - kompleksprojekt
 	#SUBURL [Course:108380 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 1
+lastmajor: 2

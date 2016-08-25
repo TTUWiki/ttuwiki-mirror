@@ -1,12 +1,14 @@
-username: AlexDaniel
-revision: 2
-languages: 
-minor: 1
+blocks: [Course:109182 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
 keep-ts: 1441924452
+username: AlexDaniel
+flags: 1
+minor: 1
 host: 82.131.7.230
+languages: 
+revision: 2
 text: #SUBTITLE Lõpueksam: Laeva juhtimine
 	#SUBURL [Course:109182 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+ts: 1441924452

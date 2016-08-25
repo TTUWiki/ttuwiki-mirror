@@ -1,14 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:40529 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ip: 89.235.235.166
 text: #SUBTITLE Geoprotsesside modelleerimine
 	#SUBURL [Course:40529 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-ts: 1441924448
-keep-ts: 1441924448
-languages: 
 lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
+ts: 1441924448
+host: 82.131.7.230
+keep-ts: 1441924448
 revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 1
+minor: 1

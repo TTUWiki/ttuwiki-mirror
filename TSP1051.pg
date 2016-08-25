@@ -1,12 +1,14 @@
-languages: 
-username: AlexDaniel
-revision: 2
 text: #SUBTITLE Rahvusvahelised suhted - aktuaalseid küsimusi
 	#SUBURL [Course:110013 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+blocks: [Course:110013 〔Õppeaine ÕIS-is〕]
+languages: 
 keep-ts: 1441924451
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+flags: 1
+host: 82.131.7.230
 minor: 1
+ts: 1441924451
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,16 @@
+revision: 3
+host: 82.131.7.230
+ip: 89.235.231.110
 ts: 1441924446
-keep-ts: 1441924446
 text: #SUBTITLE Akadeemiline prantsuse keel
 	#SUBURL [Course:34900 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
+flags: 1
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 3
-lastmajor: 1
+keep-ts: 1441924446
 username: AlexDaniel
-ip: 89.235.231.110
+blocks: [Course:34900 〔Õppeaine ÕIS-is〕]
+lastmajor: 1
 languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
