@@ -1,3 +1,8 @@
+summary: vabavara → vaba tarkvara
+ts: 1473115309
+lastmajor: 61
+host: 82.131.7.144
+revision: 61
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -113,7 +118,7 @@ text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – third-party Android app for viewing the timetables (**not free software 😞**)
 	#EST
-	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – kolmanda osapoole tunniplaanide vaatamise Androidi äpp (**mitte vabavara 😞**)
+	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – kolmanda osapoole tunniplaanide vaatamise Androidi äpp (**mitte vaba tarkvara 😞**)
 	#RUS
 	* [[https://play.google.com/store/apps/details?id=ee.ttu.schedule Android app for viewing ÕIS schedule]] – стороннее android-приложение для просмотра расписаний (**не свободное 😞**)
 	
@@ -229,13 +234,8 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-revision: 60
-host: 85.253.210.14
-lastmajorsummary: sci-hub moved
-minor: 1
-summary: sci-hub moved
-lastmajor: 58
-keep-ts: 1471127296
+keep-ts: 1473115309
+lastmajorsummary: vabavara → vaba tarkvara
 languages: 
+minor: 
 username: AlexDaniel
-ts: 1471127296
