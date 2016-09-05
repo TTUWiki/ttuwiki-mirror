@@ -1,16 +1,15 @@
-revision: 9
-host: 193.40.250.230
-flags: 1
-summary: no placeholder
-ts: 1473087527
-blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-lastmajorsummary: formatting
+summary: moodle, esimene ülesanne
+revision: 10
+keep-ts: 1473116859
 ip: 89.235.235.166
-lastmajor: 8
+minor: 
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
+	
+	https://moodle.hitsa.ee/enrol/index.php?id=7945
+	pass: ettevõte
+	
+	NB! Esimene ülesanne: välja mõelda äriidee. Tähtaeg: **20. september 2016**
 	
 	----
 	
@@ -31,5 +30,9 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:55:41
 	
 	
-keep-ts: 1473087527
-username: AlexDaniel
+ts: 1473116859
+lastmajorsummary: moodle, esimene ülesanne
+lastmajor: 10
+username: Marjana Voronina
+host: 82.131.7.144
+languages: 
