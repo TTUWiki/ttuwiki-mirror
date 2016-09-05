@@ -1,14 +1,9 @@
-username: j
-keep-ts: 1454403341
-host: 131.207.242.128
-languages: 
-blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
-lastmajor: 7
-ts: 1454403341
 ip: 89.235.235.166
+keep-ts: 1473087485
+ts: 1473087485
 minor: 
-summary:  [[File:ettevtlus2016.docx]] 
-revision: 7
+summary: formatting
+lastmajorsummary: formatting
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -26,17 +21,14 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	
 	eksam
 	
-	-- j 2016-02-02 10:55:24
-	
-	
-	----
-	
-	
 	
 	[[File:ettevtlus2016.docx]]
 	
 	-- j 2016-02-02 10:55:41
 	
 	
-flags: 1
-lastmajorsummary:  [[File:ettevtlus2016.docx]] 
+username: AlexDaniel
+host: 193.40.250.230
+languages: 
+lastmajor: 8
+revision: 8
