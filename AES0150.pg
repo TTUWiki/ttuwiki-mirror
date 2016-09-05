@@ -1,13 +1,3 @@
-blocks: [Course:39529 〔Õppeaine ÕIS-is〕]
-ts: 1473085907
-summary: 
-languages: 
-lastmajorsummary: 
-username: Ain_Laidoja
-host: 193.40.250.235
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1473085907
 text: #SUBTITLE Elektriturg
 	#SUBURL [Course:39529 〔Õppeaine ÕIS-is〕]
 	
@@ -20,9 +10,17 @@ text: #SUBTITLE Elektriturg
 	#[http://www.ester.ee/record=b2312631*est Power Systems Economics]. 	Wangensteen, Ivar Trondheim : Tapir Academic Press, c2007
 	# [http://www.ssrn.com www.ssrn.com Social Science Research Network ]
 	#[http://search.ebscohost.com 	EBSCOhost] (ligipääs ilmselt TTÜ raamatukogust)
-	#iTunes University
-	#http://www.energiatalgud.ee/
+	#[http://www.open.edu/itunes/ iTunes University]
+	#[http://www.energiatalgud.ee Eneregiatalgud]
 	
-lastmajor: 10
+host: 193.40.250.235
+lastmajorsummary: 
+ip: 89.235.235.166
+summary: 
+languages: 
 minor: 
-revision: 10
+keep-ts: 1473085990
+ts: 1473085990
+lastmajor: 11
+revision: 11
+username: Ain_Laidoja
