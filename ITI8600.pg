@@ -1,5 +1,15 @@
+ts: 1473074582
+username: 
+revision: 4
+minor: 
+blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
+flags: 1
 keep-ts: 1473074582
+lastmajor: 4
+summary: Книга: Russel and Norvig. artificial intelligence: a modern approach 3rd edition 2010 . . .
 lastmajorsummary: Книга: Russel and Norvig. artificial intelligence: a modern approach 3rd edition 2010 . . .
+languages: 
+host: 213.168.4.167
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -19,11 +29,3 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- Аноним 2016-09-05 14:23:01
 	
 	
-summary: Книга: Russel and Norvig. artificial intelligence: a modern approach 3rd edition 2010 . . .
-username: 
-host: 213.168.4.167
-ts: 1473074582
-minor: 
-lastmajor: 4
-revision: 4
-languages: 
