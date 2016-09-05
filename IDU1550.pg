@@ -1,15 +1,17 @@
-summary: 
-host: 213.168.4.167
 revision: 3
+lastmajorsummary: 
 text: #SUBTITLE Tarkvara arhitektuur ja disain
 	#SUBURL [Course:110068 〔Õppeaine ÕIS-is〕]
 	https://moodle.hitsa.ee/course/view.php?id=14074
 	password: tarkvara
 	
-lastmajor: 3
-username: 
-lastmajorsummary: 
-ts: 1473074678
-languages: 
-minor: 
 keep-ts: 1473074678
+blocks: [Course:110068 〔Õppeaine ÕIS-is〕]
+ts: 1473074678
+minor: 
+summary: 
+username: 
+host: 213.168.4.167
+languages: 
+flags: 1
+lastmajor: 3
