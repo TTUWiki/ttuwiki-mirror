@@ -1,14 +1,16 @@
-ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
 revision: 4
-languages: 
-keep-ts: 1441924444
 ts: 1441924444
+flags: 1
+languages: 
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:33571 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+lastmajor: 2
 text: #SUBTITLE Rahvusvaheline ärikorraldus
 	#SUBURL [Course:33571 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
