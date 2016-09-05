@@ -1,7 +1,14 @@
-lastmajorsummary: formatting
-username: AlexDaniel
-minor: 1
+revision: 9
+host: 193.40.250.230
+flags: 1
+summary: no placeholder
 ts: 1473087527
+blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+lastmajorsummary: formatting
+ip: 89.235.235.166
+lastmajor: 8
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	
@@ -25,9 +32,4 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	
 	
 keep-ts: 1473087527
-lastmajor: 8
-languages: 
-host: 193.40.250.230
-ip: 89.235.235.166
-summary: no placeholder
-revision: 9
+username: AlexDaniel
