@@ -1,5 +1,3 @@
-languages: 
-keep-ts: 1470821678
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -16,11 +14,29 @@ text: #Minu Õppekava [[MASM02-09]]
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016.pdf Puidu ja põlevkivi koos-pürolüüs] * [http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016_esitlus.pdf Esitlus] *  [https://goo.gl/photos/uHphhEXNqtDtQKMT6 Fotod]
 	
 	
-lastmajor: 55
-username: Ain_Laidoja
-ts: 1470821678
+	----
+	
+	Hi!
+	
+	I remember you was questioning the need of PNG images for timetables. :)
+	
+	This reminded me about it:
+	
+	https://files.progarm.org/2016-09-05-150710_940x140_scrot.png
+	
+	All three ÕIS-s are down (ois, ois2 and mois). If not ttuwiki, then where should people see timetables? :)
+	Too bad I didn't pull the timetables yet. Such a pity. The thing is, there was a significant time window during this summer when I had no ÕIS account at all (bachelor's account terminated, master's account not yet ready), so I though that I'll delay the work until things settle down a bit. Uh! My bad.
+	
+	-- AlexDaniel 2016-09-05 15:13:27
+	
+	
+username: AlexDaniel
+languages: 
+keep-ts: 1473077607
+revision: 56
+host: 213.168.4.167
+lastmajorsummary: Hi! I remember you was questioning the need of PNG images for timetables. :) This reminded me about it: . . .
+summary: Hi! I remember you was questioning the need of PNG images for timetables. :) This reminded me about it: . . .
 minor: 
-lastmajorsummary:  [[File:fisher_assay.png]] 
-revision: 55
-summary:  [[File:fisher_assay.png]] 
-host: 86.110.32.164
+ts: 1473077607
+lastmajor: 56
