@@ -1,5 +1,14 @@
-text: == **ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.**
-	
+flags: 0
+ts: 1473077242
+blocks: </div></div>
+keep-ts: 1473077242
+summary: ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.
+host: 213.168.4.167
+minor: 1
+lastmajorsummary: ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.
+text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.**
+	\\
+	\\
 	#ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -37,15 +46,7 @@ text: == **ÕIS is down, but there are no PNG versions of timetables on this wik
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-summary: ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.
-lastmajorsummary: ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.
 username: AlexDaniel
-revision: 40
-host: 213.168.4.167
-ts: 1473077195
-minor: 1
-blocks: </div></div>
-keep-ts: 1473077195
 languages: 
-flags: 0
 lastmajor: 39
+revision: 41
