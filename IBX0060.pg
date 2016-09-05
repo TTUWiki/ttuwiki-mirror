@@ -1,15 +1,17 @@
-revision: 3
-ts: 1473084772
 keep-ts: 1473084772
+lastmajorsummary: Link to moodle
+host: 193.40.250.230
+minor: 
+username: AlexDaniel
+languages: 
 text: #SUBTITLE Robootika
 	#SUBURL [Course:109951 〔Õppeaine ÕIS-is〕]
 	
 	Materials, assignments, etc.: Moodle:5625 (no password 😊).
 	
-username: AlexDaniel
-minor: 
+revision: 3
 summary: Link to moodle
-languages: 
-lastmajorsummary: Link to moodle
+blocks: [Course:109951 〔Õppeaine ÕIS-is〕]
+ts: 1473084772
 lastmajor: 3
-host: 193.40.250.230
+flags: 1
