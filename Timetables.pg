@@ -1,6 +1,10 @@
-lastmajor: 10
-username: AlexDaniel
-text: #ENG
+ts: 1473087867
+summary: Temporary “not up-to-date notice”
+minor: 
+revision: 11
+text: == ⚠ Timetables are not up to date.
+	
+	#ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
 	* [[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
@@ -29,11 +33,9 @@ text: #ENG
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-keep-ts: 1473087828
-lastmajorsummary: Rollback to 2016-02-02 01:53:16
-summary: Rollback to 2016-02-02 01:53:16
-languages: 
-ts: 1473087828
+keep-ts: 1473087867
+lastmajorsummary: Temporary “not up-to-date notice”
+username: AlexDaniel
 host: 193.40.250.230
-minor: 
-revision: 10
+languages: 
+lastmajor: 11
