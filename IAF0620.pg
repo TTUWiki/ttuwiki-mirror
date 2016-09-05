@@ -1,16 +1,18 @@
 username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 5
-lastmajorsummary: link to materials
+keep-ts: 1473077761
+host: 213.168.4.167
 text: #SUBTITLE Digitaalsüsteemide verifitseerimine
 	#SUBURL [Course:100991 〔Õppeaine ÕIS-is〕]
 	
 	Materials: http://ati.ttu.ee/~jaan/verification/
 	
-host: 213.168.4.167
-summary: link to materials
-keep-ts: 1473077761
+lastmajor: 5
 ts: 1473077761
-languages: 
+lastmajorsummary: link to materials
+blocks: [Course:100991 〔Õppeaine ÕIS-is〕]
+flags: 1
+ip: 89.235.235.166
 revision: 5
+languages: 
 minor: 
+summary: link to materials
