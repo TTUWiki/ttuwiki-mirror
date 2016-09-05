@@ -1,14 +1,15 @@
-flags: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-languages: 
-ts: 1441924446
-blocks: [Course:109951 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924446
+revision: 3
+ts: 1473084772
+keep-ts: 1473084772
 text: #SUBTITLE Robootika
 	#SUBURL [Course:109951 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
+	Materials, assignments, etc.: Moodle:5625 (no password 😊).
+	
+username: AlexDaniel
+minor: 
+summary: Link to moodle
+languages: 
+lastmajorsummary: Link to moodle
+lastmajor: 3
+host: 193.40.250.230
