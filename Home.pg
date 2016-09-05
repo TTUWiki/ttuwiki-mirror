@@ -1,4 +1,13 @@
-text: #ENG
+revision: 43
+languages: 
+lastmajorsummary: Rollback to 2016-09-05 15:07:22
+summary: Rollback to 2016-09-05 15:07:22
+keep-ts: 1473112617
+blocks: </div></div>
+text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.**
+	\\
+	\\
+	#ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
 	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[About|TTÜWiki]]!
@@ -35,15 +44,9 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-lastmajorsummary: Rollback to 2016-02-01 09:08:56
-revision: 42
-username: AlexDaniel
-lastmajor: 42
 minor: 0
-summary: Rollback to 2016-02-01 09:08:56
-keep-ts: 1473087809
-ts: 1473087809
-languages: 
-host: 193.40.250.230
+username: AlexDaniel
 flags: 0
-blocks: </div></div>
+ts: 1473112617
+host: 82.131.7.144
+lastmajor: 43
