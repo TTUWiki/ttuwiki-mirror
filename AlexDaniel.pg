@@ -1,40 +1,22 @@
-text: Поступил в 2013-ом на ÄriIT.
+summary: Small update
+lastmajor: 14
+revision: 14
+username: AlexDaniel
+lastmajorsummary: Small update
+text: Studying Computer Systems Engineering.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
-	== 2016
-	В этом семестре взял:
+	== I find these pages interesting:
 	
-	* [[TMK1250]] Toote ja teenuse arendamine
-	
-	== 2015-2016
-	
-	Расписание моей группы: [Timetable:37672 IABB51]
-	
-	В этом семестре взял:
-	* [[TMT0040]] - Ergonoomika – ✓
-	* [[IDU0111]] - Äriprotsesside modelleerimine ja automatiseerimine ✓
-	* [[IDU0230]] - Andmebaasid II ✓
-	* [[ITI0021]] - Loogiline programmeerimine ✓
-	* [[IDX5721]] - Tarkvara kvaliteet ja standardid ✓
-	* [[IDX5722]] - Tarkvara kvaliteet ja standardid - ainetöö ✓
-	
-	
-	===Интересные статьи:
-	
-	=====Использование [[https://en.wikipedia.org/wiki/Free_software free software]] в ТТУ:
+	=== [[https://en.wikipedia.org/wiki/Free_software Free software]] in TUT:
 	 * [[IAF0041|Arvutid]] - как делать лабораторные работы в [[http://www.geda-project.org/ gEDA]].
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-host: 85.253.110.192
-keep-ts: 1456713535
-ts: 1456713535
-lastmajorsummary: TMK1250
-minor: 
-summary: TMK1250
-languages: 
-lastmajor: 13
+keep-ts: 1473078325
 ip: 89.235.239.240
-revision: 13
-username: AlexDaniel
+host: 213.168.4.167
+ts: 1473078325
+minor: 
+languages: 
