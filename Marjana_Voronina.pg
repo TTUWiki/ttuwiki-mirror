@@ -1,25 +1,25 @@
-lastmajorsummary: formatting
-minor: 
-summary: formatting
-keep-ts: 1473165615
-lastmajor: 9
-ts: 1473165615
-username: Marjana Voronina
-revision: 9
-languages: 
-host: 193.40.250.239
 text: ===2016 fall
 	
 	|= Course |= EAP | 
-	| [[IDU1550]] Tarkvara arhitektuur ja disain | 6 |
-	| [[IDX1511]] Tarkvara protsessid ja kvaliteet | 6 |
-	| [[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid | 6 |
-	| [[ITI8610]] Tarkvara töökindlus | 6 |
-	| [[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
-	| [[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
-	| [[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
-	| [[IDU0210]] Hajusarhitektuurid | 5 |
+	|[[IDU1550]] Tarkvara arhitektuur ja disain | 6 |
+	|[[IDX1511]] Tarkvara protsessid ja kvaliteet | 6 |
+	|[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid | 6 |
+	|[[ITI8610]] Tarkvara töökindlus | 6 |
+	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
+	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
+	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
+	|[[IDU0210]] Hajusarhitektuurid | 5 |
 	| **Total** | **44** |
 	
 	
 	
+languages: 
+username: Marjana Voronina
+summary: formatting
+ts: 1473165658
+keep-ts: 1473165658
+lastmajor: 9
+lastmajorsummary: formatting
+revision: 10
+host: 193.40.250.239
+minor: 1
