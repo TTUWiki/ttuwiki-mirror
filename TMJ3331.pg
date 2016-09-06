@@ -1,8 +1,4 @@
-summary: moodle, esimene ülesanne
-revision: 10
-keep-ts: 1473116859
-ip: 89.235.235.166
-minor: 
+username: Marjana Voronina
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	
@@ -30,9 +26,15 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:55:41
 	
 	
-ts: 1473116859
+summary: moodle, esimene ülesanne
+revision: 10
 lastmajorsummary: moodle, esimene ülesanne
 lastmajor: 10
-username: Marjana Voronina
+keep-ts: 1473116859
+blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+minor: 
+ip: 89.235.235.166
 host: 82.131.7.144
+ts: 1473116859
 languages: 
+flags: 1
