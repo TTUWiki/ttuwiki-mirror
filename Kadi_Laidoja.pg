@@ -1,14 +1,5 @@
-host: 86.110.32.164
-lastmajorsummary: :)
-keep-ts: 1473172623
-lastmajor: 7
-ts: 1473172623
-blocks: </div></div>
-languages: 
-revision: 7
 text: #Minu õppekava [[IABM02-16]] 
 	
-	#Erialaained
 	[[HHF0023]] Kaasaegne teaduslik mõtlemine ja filosoofilised meetodid
 	[[IDK1651]] Ärikriitiliste infosüsteemide arendus Progress vahenditega
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
@@ -17,7 +8,13 @@ text: #Minu õppekava [[IABM02-16]]
 	[[IDX5721]] Tarkvara kvaliteet ja standardid
 	[[IDN1653]] Värvitud Petri võrgud: mudelid ja valideerimine
 	
-minor: 
-summary: :)
-flags: 0
+lastmajorsummary: :)
 username: Kadi_Laidoja
+ts: 1473172699
+minor: 
+keep-ts: 1473172699
+revision: 8
+summary: :)
+lastmajor: 8
+host: 86.110.32.164
+languages: 
