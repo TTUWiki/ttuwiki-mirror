@@ -1,11 +1,8 @@
-ts: 1473160843
 host: 193.40.250.230
-revision: 7
-keep-ts: 1473160843
-minor: 1
-lastmajorsummary: 
-lastmajor: 5
-languages: 
+ts: 1473160856
+keep-ts: 1473160856
+summary: formatting
+username: AlexDaniel
 text: ===2016 fall
 	
 	|= Course |= EAP | 
@@ -18,9 +15,12 @@ text: ===2016 fall
 	| [[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	| [[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
 	| [[IDU0210]] Hajusarhitektuurid | 5 |
-	| Total | 44 |
+	| **Total** | **44** |
 	
 	
 	
-summary: formatting
-username: AlexDaniel
+lastmajor: 5
+revision: 8
+languages: 
+minor: 1
+lastmajorsummary: 
