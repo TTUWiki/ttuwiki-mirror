@@ -1,8 +1,9 @@
-text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.**
-	\\
-	\\
-	
-	#ENG
+host: 82.131.7.144
+username: AlexDaniel
+lastmajorsummary: Rollback to 2016-09-06 00:56:30
+summary: Rollback to 2016-09-06 00:56:30
+minor: 0
+text: #ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
 	* [[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
@@ -31,13 +32,8 @@ text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-summary: Rollback to 2016-09-05 15:17:04
-lastmajor: 14
-lastmajorsummary: Rollback to 2016-09-05 15:17:04
-ts: 1473112605
+keep-ts: 1473176853
 languages: 
-host: 82.131.7.144
-minor: 0
-keep-ts: 1473112605
-username: AlexDaniel
-revision: 14
+lastmajor: 15
+ts: 1473176853
+revision: 15
