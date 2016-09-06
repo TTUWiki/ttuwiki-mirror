@@ -1,12 +1,12 @@
-host: 86.110.32.164
-text: #Minu Õppekava [[IABM02-16]] 
+keep-ts: 1473172014
+ts: 1473172014
+text: #Minu õppekava [[IABM02-16]] 
 	
+lastmajorsummary: :)
+revision: 6
+languages: 
 minor: 
 summary: :)
-languages: 
+lastmajor: 6
 username: 
-lastmajorsummary: :)
-ts: 1473171998
-lastmajor: 5
-keep-ts: 1473171998
-revision: 5
+host: 86.110.32.164
