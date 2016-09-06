@@ -1,11 +1,26 @@
-summary: Small update
-lastmajor: 14
-revision: 14
-username: AlexDaniel
-lastmajorsummary: Small update
+minor: 
+revision: 15
+lastmajorsummary: My study plan
+ip: 89.235.239.240
+lastmajor: 15
+keep-ts: 1473201516
+languages: 
+ts: 1473201516
+host: 82.131.7.144
 text: Studying Computer Systems Engineering.
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
+	
+	== My study plan (2016 Autumn)
+	**Subject to change!**
+	
+	| [[IBX0060]] |Robotics |
+	| [[IAF0320]] |Computer Systems Engineering |
+	| [[IAG0010]] |Advanced Course in Programming I |
+	| [[IAG0420]] |Foundations and Management of Cyber Security |
+	| [[IAY0600]] |Digital Systems Design |
+	| [[IAG0450]] |Analysis of Programming Languages |
+	
 	
 	== I find these pages interesting:
 	
@@ -14,9 +29,5 @@ text: Studying Computer Systems Engineering.
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-keep-ts: 1473078325
-ip: 89.235.239.240
-host: 213.168.4.167
-ts: 1473078325
-minor: 
-languages: 
+username: AlexDaniel
+summary: My study plan
