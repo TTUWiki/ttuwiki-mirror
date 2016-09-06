@@ -1,3 +1,11 @@
+lastmajor: 9
+revision: 11
+host: 193.40.250.239
+summary: ainetöö
+keep-ts: 1473169306
+ts: 1473169306
+lastmajorsummary: formatting
+minor: 1
 text: ===2016 fall
 	
 	|= Course |= EAP | 
@@ -9,17 +17,10 @@ text: ===2016 fall
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
 	|[[IDU0210]] Hajusarhitektuurid | 5 |
+	|[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö | 2 |
 	| **Total** | **44** |
 	
 	
 	
-languages: 
 username: Marjana Voronina
-summary: formatting
-ts: 1473165658
-keep-ts: 1473165658
-lastmajor: 9
-lastmajorsummary: formatting
-revision: 10
-host: 193.40.250.239
-minor: 1
+languages: 
