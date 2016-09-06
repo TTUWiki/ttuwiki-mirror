@@ -1,13 +1,9 @@
-revision: 43
-languages: 
-lastmajorsummary: Rollback to 2016-09-05 15:07:22
-summary: Rollback to 2016-09-05 15:07:22
-keep-ts: 1473112617
-blocks: </div></div>
-text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this wiki yet. Sorry.**
-	\\
-	\\
-	#ENG
+lastmajor: 44
+username: AlexDaniel
+host: 82.131.7.144
+ts: 1473176842
+revision: 44
+text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
 	Here you can share your experience with other students. Do you know some student [[Lifehacks|lifehack]]? Then share it with everybody on [[About|TTÜWiki]]!
@@ -45,8 +41,9 @@ text: == **⚠ ÕIS is down, but there are no PNG versions of timetables on this
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
 minor: 0
-username: AlexDaniel
 flags: 0
-ts: 1473112617
-host: 82.131.7.144
-lastmajor: 43
+keep-ts: 1473176842
+lastmajorsummary: Rollback to 2016-09-05 18:03:29
+languages: 
+blocks: </div></div>
+summary: Rollback to 2016-09-05 18:03:29
