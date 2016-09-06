@@ -1,12 +1,11 @@
-lastmajorsummary: 
-keep-ts: 1473159564
-summary: 
+ts: 1473160843
+host: 193.40.250.230
+revision: 7
+keep-ts: 1473160843
 minor: 1
-ts: 1473159564
-revision: 6
-languages: 
-host: 82.131.7.144
+lastmajorsummary: 
 lastmajor: 5
+languages: 
 text: ===2016 fall
 	
 	|= Course |= EAP | 
@@ -19,9 +18,9 @@ text: ===2016 fall
 	| [[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	| [[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
 	| [[IDU0210]] Hajusarhitektuurid | 5 |
-	
 	| Total | 44 |
 	
 	
 	
-username: Marjana Voronina
+summary: formatting
+username: AlexDaniel
