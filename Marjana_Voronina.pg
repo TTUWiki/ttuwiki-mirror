@@ -1,10 +1,8 @@
-ts: 1473169669
-lastmajor: 9
+minor: 
+keep-ts: 1473201814
 username: Marjana Voronina
-revision: 12
-languages: 
-host: 193.40.250.239
-text: ===2016 fall
+text: ==My study plan
+	===2016 fall
 	
 	|= Course |= EAP | 
 	|[[IDU1550]] Tarkvara arhitektuur ja disain | 6 |
@@ -23,7 +21,10 @@ text: ===2016 fall
 	
 	
 	
-lastmajorsummary: formatting
-summary: kehaline kasvatus
-minor: 1
-keep-ts: 1473169669
+lastmajor: 13
+languages: 
+ts: 1473201814
+revision: 13
+summary: heading
+lastmajorsummary: heading
+host: 82.131.7.144
