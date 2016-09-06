@@ -1,8 +1,12 @@
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-ts: 1473161023
-languages: 
-host: 193.40.250.230
+ts: 1473161047
 minor: 1
+summary: date format
+ip: 89.235.235.166
+host: 193.40.250.230
+keep-ts: 1473161047
+languages: 
+lastmajor: 6
+lastmajorsummary: Deadlines
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -11,13 +15,7 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	== Deadlines
 	
-	* **12 SEP 2016** [[http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/IAF0320_Lecture1_F2016_vdist.pdf Lecture 1]], page 13
+	* **2016-09-12** [[http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/IAF0320_Lecture1_F2016_vdist.pdf Lecture 1]], page 13
 	
-keep-ts: 1473161023
-revision: 8
-flags: 1
-lastmajorsummary: Deadlines
-ip: 89.235.235.166
-lastmajor: 6
-summary: formatting
 username: AlexDaniel
+revision: 9
