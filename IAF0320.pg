@@ -1,17 +1,19 @@
-lastmajor: 5
+minor: 
+username: AlexDaniel
+lastmajorsummary: 
 keep-ts: 1473156743
-host: 193.40.250.230
-ts: 1473156743
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
 	
 	Course materials: http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/
 	
+flags: 1
 languages: 
+ts: 1473156743
+lastmajor: 5
 ip: 89.235.235.166
-revision: 5
+host: 193.40.250.230
 summary: 
-username: AlexDaniel
-minor: 
-lastmajorsummary: 
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+revision: 5
