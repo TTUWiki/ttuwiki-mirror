@@ -1,11 +1,9 @@
+ts: 1473169669
 lastmajor: 9
-revision: 11
+username: Marjana Voronina
+revision: 12
+languages: 
 host: 193.40.250.239
-summary: ainetöö
-keep-ts: 1473169306
-ts: 1473169306
-lastmajorsummary: formatting
-minor: 1
 text: ===2016 fall
 	
 	|= Course |= EAP | 
@@ -15,12 +13,17 @@ text: ===2016 fall
 	|[[ITI8610]] Tarkvara töökindlus | 6 |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
+	|[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö | 2 |
+	|HSK3031 Kehaline kasvatus | 2 |
+	| **Total** | **35** |
+	
+	
 	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
 	|[[IDU0210]] Hajusarhitektuurid | 5 |
-	|[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö | 2 |
-	| **Total** | **44** |
 	
 	
 	
-username: Marjana Voronina
-languages: 
+lastmajorsummary: formatting
+summary: kehaline kasvatus
+minor: 1
+keep-ts: 1473169669
