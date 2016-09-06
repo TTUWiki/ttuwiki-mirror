@@ -1,12 +1,23 @@
-keep-ts: 1473172014
-ts: 1473172014
+host: 86.110.32.164
+lastmajorsummary: :)
+keep-ts: 1473172623
+lastmajor: 7
+ts: 1473172623
+blocks: </div></div>
+languages: 
+revision: 7
 text: #Minu õppekava [[IABM02-16]] 
 	
-lastmajorsummary: :)
-revision: 6
-languages: 
+	#Erialaained
+	[[HHF0023]] Kaasaegne teaduslik mõtlemine ja filosoofilised meetodid
+	[[IDK1651]] Ärikriitiliste infosüsteemide arendus Progress vahenditega
+	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
+	[[TMJ3331]] Ettevõtlus ja äri planeerimine
+	[[IDU1341]] Infosüsteemide ülalhoid
+	[[IDX5721]] Tarkvara kvaliteet ja standardid
+	[[IDN1653]] Värvitud Petri võrgud: mudelid ja valideerimine
+	
 minor: 
 summary: :)
-lastmajor: 6
-username: 
-host: 86.110.32.164
+flags: 0
+username: Kadi_Laidoja
