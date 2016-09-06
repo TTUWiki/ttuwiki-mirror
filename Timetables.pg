@@ -1,9 +1,16 @@
+summary: Rollback to 2016-09-05 18:04:37
+keep-ts: 1473176880
 host: 82.131.7.144
-username: AlexDaniel
-lastmajorsummary: Rollback to 2016-09-06 00:56:30
-summary: Rollback to 2016-09-06 00:56:30
+lastmajorsummary: Rollback to 2016-09-05 18:04:37
+ts: 1473176880
 minor: 0
-text: #ENG
+languages: 
+lastmajor: 16
+username: AlexDaniel
+text: == ⚠ Timetables are not up to date.
+	\\
+	\\
+	#ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
 	* [[#Timetables_(Doctoral studies)|Doctoral studies]] ([[#Timetables_(Doctoral studies,_images)|PNG]])
@@ -32,8 +39,4 @@ text: #ENG
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-keep-ts: 1473176853
-languages: 
-lastmajor: 15
-ts: 1473176853
-revision: 15
+revision: 16
