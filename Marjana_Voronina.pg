@@ -1,12 +1,16 @@
-host: 193.40.250.230
-ts: 1473160856
-keep-ts: 1473160856
+lastmajorsummary: formatting
+minor: 
 summary: formatting
-username: AlexDaniel
+keep-ts: 1473165615
+lastmajor: 9
+ts: 1473165615
+username: Marjana Voronina
+revision: 9
+languages: 
+host: 193.40.250.239
 text: ===2016 fall
 	
 	|= Course |= EAP | 
-	
 	| [[IDU1550]] Tarkvara arhitektuur ja disain | 6 |
 	| [[IDX1511]] Tarkvara protsessid ja kvaliteet | 6 |
 	| [[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid | 6 |
@@ -19,8 +23,3 @@ text: ===2016 fall
 	
 	
 	
-lastmajor: 5
-revision: 8
-languages: 
-minor: 1
-lastmajorsummary: 
