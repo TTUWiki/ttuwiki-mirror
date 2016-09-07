@@ -1,9 +1,7 @@
-lastmajorsummary: Rollback to 2016-09-07 04:01:22
-keep-ts: 1473246264
-ts: 1473246264
-summary: Rollback to 2016-09-07 04:01:22
-minor: 0
-host: 193.40.250.230
+ts: 1473246315
+languages: 
+revision: 17
+keep-ts: 1473246315
 text: ==My study plan
 	===2016 fall
 	
@@ -14,7 +12,6 @@ text: ==My study plan
 	|[[ITI8610]] Tarkvara töökindlus | 6 |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
-	|[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö | 2 |
 	|HSK3031 Kehaline kasvatus | 2 |
 	| **Total** | **35** |
 	
@@ -24,7 +21,9 @@ text: ==My study plan
 	
 	
 	
-lastmajor: 16
-revision: 16
-languages: 
+lastmajorsummary: Rollback to 2016-09-07 11:12:55
+summary: Rollback to 2016-09-07 11:12:55
+lastmajor: 17
+minor: 0
 username: AlexDaniel
+host: 193.40.250.230
