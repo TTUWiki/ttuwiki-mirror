@@ -2,14 +2,16 @@ text: #SUBTITLE Küberturbe põhialused ja juhtimine
 	#SUBURL [Course:106451 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajorsummary: Rollback to 2016-09-07 04:01:22
-minor: 
-summary: Rollback to 2016-09-07 04:01:22
-host: 193.40.250.230
-ts: 1473246265
 keep-ts: 1473246265
+flags: 1
 ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 6
-languages: 
+host: 193.40.250.230
 revision: 6
+languages: 
+minor: 
+lastmajor: 6
+username: AlexDaniel
+summary: Rollback to 2016-09-07 04:01:22
+blocks: [Course:106451 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Rollback to 2016-09-07 04:01:22
+ts: 1473246265
