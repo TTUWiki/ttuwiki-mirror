@@ -1,15 +1,17 @@
-revision: 3
+host: 84.52.25.105
 minor: 
-summary: 
-keep-ts: 1473266988
-languages: 
-lastmajorsummary: 
+lastmajor: 3
+ts: 1473266988
+flags: 1
+revision: 3
 text: #SUBTITLE Tarkvara töökindlus
 	#SUBURL [Course:110036 〔Õppeaine ÕIS-is〕]
 	https://courses.cs.ttu.ee/pages/ITI8610
 	https://ained.ttu.ee/course/view.php?id=6
 	
+keep-ts: 1473266988
+blocks: [Course:110036 〔Õppeaine ÕIS-is〕]
+summary: 
+lastmajorsummary: 
+languages: 
 username: 
-lastmajor: 3
-host: 84.52.25.105
-ts: 1473266988
