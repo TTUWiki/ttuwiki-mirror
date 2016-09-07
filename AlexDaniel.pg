@@ -1,7 +1,14 @@
-keep-ts: 1473201559
-ip: 89.235.239.240
+lastmajor: 15
+revision: 17
+username: AlexDaniel
 languages: 
+summary: total EAP count
+host: 82.131.7.144
+ip: 89.235.239.240
+minor: 1
 lastmajorsummary: My study plan
+ts: 1473210082
+keep-ts: 1473210082
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -16,6 +23,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IAY0600]] |Digital Systems Design |
 	| [[IAG0450]] |Analysis of Programming Languages |
 	
+	Total: **30 EAP**
 	
 	== I find these pages interesting:
 	
@@ -24,10 +32,3 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-host: 82.131.7.144
-ts: 1473201559
-username: AlexDaniel
-summary: link to IASM
-minor: 1
-revision: 16
-lastmajor: 15
