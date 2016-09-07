@@ -1,6 +1,11 @@
-minor: 
-keep-ts: 1473201814
 username: Marjana Voronina
+keep-ts: 1473235887
+lastmajorsummary: sadness
+languages: 
+host: 193.40.250.239
+revision: 14
+lastmajor: 14
+ts: 1473235887
 text: ==My study plan
 	===2016 fall
 	
@@ -11,9 +16,8 @@ text: ==My study plan
 	|[[ITI8610]] Tarkvara töökindlus | 6 |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
-	|[[IDX5722]] Tarkvara kvaliteet ja standardid - ainetöö | 2 |
 	|HSK3031 Kehaline kasvatus | 2 |
-	| **Total** | **35** |
+	| **Total** | **33** |
 	
 	
 	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
@@ -21,10 +25,5 @@ text: ==My study plan
 	
 	
 	
-lastmajor: 13
-languages: 
-ts: 1473201814
-revision: 13
-summary: heading
-lastmajorsummary: heading
-host: 82.131.7.144
+minor: 
+summary: sadness
