@@ -1,17 +1,16 @@
-flags: 1
+lastmajorsummary: Rollback to 2016-09-07 10:40:36
+minor: 0
+keep-ts: 1473246320
+host: 193.40.250.230
+summary: Rollback to 2016-09-07 10:40:36
+ts: 1473246320
+revision: 7
 text: #SUBTITLE Rakenduslik andmeside
 	#SUBURL [Course:106438 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-lastmajorsummary: Rollback to 2016-09-07 04:01:22
-summary: Rollback to 2016-09-07 04:01:22
-lastmajor: 6
-languages: 
-blocks: [Course:106438 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1473246264
-revision: 6
-minor: 
-host: 193.40.250.230
+	Materials: Moodle:11235 (password: **10.20.30.40**)
+	
 ip: 89.235.235.166
-keep-ts: 1473246264
+username: AlexDaniel
+lastmajor: 7
+languages: 
