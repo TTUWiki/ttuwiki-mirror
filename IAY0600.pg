@@ -1,16 +1,18 @@
-lastmajor: 5
-keep-ts: 1473246417
-ip: 89.235.235.166
+flags: 1
+revision: 5
+lastmajorsummary: link to course page
 minor: 
+ip: 89.235.235.166
+blocks: [Course:100813 〔Õppeaine ÕIS-is〕]
 host: 193.40.250.230
-summary: link to course page
+ts: 1473246417
+languages: 
 text: #SUBTITLE Digitaalsüsteemide disain
 	#SUBURL [Course:100813 〔Õppeaine ÕIS-is〕]
 	
 	Course page: http://ati.ttu.ee/~alsu/IAY0600.html
 	
-revision: 5
-languages: 
-lastmajorsummary: link to course page
+summary: link to course page
+keep-ts: 1473246417
+lastmajor: 5
 username: AlexDaniel
-ts: 1473246417
