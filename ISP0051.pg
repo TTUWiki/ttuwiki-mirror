@@ -1,16 +1,18 @@
-host: 193.40.250.230
+summary: 
 keep-ts: 1473234036
-ts: 1473234036
+blocks: [Course:106438 〔Õppeaine ÕIS-is〕]
+revision: 5
 minor: 
-lastmajorsummary: 
+lastmajor: 5
 username: AlexDaniel
+host: 193.40.250.230
+flags: 1
+ts: 1473234036
+ip: 89.235.235.166
+languages: 
+lastmajorsummary: 
 text: #SUBTITLE Rakenduslik andmeside
 	#SUBURL [Course:106438 〔Õppeaine ÕIS-is〕]
 	
 	Materials: Moodle:11235 (password: **10.20.30.40**)
 	
-languages: 
-ip: 89.235.235.166
-revision: 5
-summary: 
-lastmajor: 5
