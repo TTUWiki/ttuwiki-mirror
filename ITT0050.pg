@@ -1,10 +1,10 @@
-revision: 7
-summary: Rollback to 2016-09-07 08:47:23
-lastmajorsummary: Rollback to 2016-09-07 08:47:23
-ip: 89.235.235.166
 minor: 0
-languages: 
-username: AlexDaniel
+lastmajorsummary: Rollback to 2016-09-07 08:47:23
+host: 193.40.250.230
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1473246339
+revision: 7
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -16,7 +16,9 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-keep-ts: 1473246339
+languages: 
+username: AlexDaniel
 lastmajor: 7
-host: 193.40.250.230
-ts: 1473246339
+summary: Rollback to 2016-09-07 08:47:23
+keep-ts: 1473246339
+ip: 89.235.235.166
