@@ -1,11 +1,12 @@
-lastmajor: 11
-lastmajorsummary: Это не о Пихо
-keep-ts: 1473204310
-summary: Это не о Пихо
-ts: 1473204310
 minor: 
+summary: Это не о Пихо
+flags: 1
+keep-ts: 1473204310
+revision: 11
 languages: 
-ip: 84.52.43.21
+blocks: [Course:107203 〔Õppeaine ÕIS-is〕]
+ts: 1473204310
+lastmajor: 11
 text: #SUBTITLE Programmeerimise põhikursus
 	#SUBURL [Course:107203 〔Õppeaine ÕIS-is〕]
 	
@@ -36,6 +37,7 @@ text: #SUBTITLE Programmeerimise põhikursus
 	==Экзамен
 	По сути экзамена нет, вместо него нужно сделать проект. Проект нужно будет защитить перед "классом".
 	
-revision: 11
-username: 
+lastmajorsummary: Это не о Пихо
 host: 194.88.143.66
+ip: 84.52.43.21
+username: 
