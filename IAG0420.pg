@@ -1,16 +1,16 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
-blocks: [Course:106451 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-host: 82.131.7.230
-languages: 
+lastmajor: 5
+lastmajorsummary: Link to moodle
 ip: 89.235.235.166
-keep-ts: 1441924446
+languages: 
+host: 193.40.250.230
+summary: Link to moodle
+revision: 5
 text: #SUBTITLE Küberturbe põhialused ja juhtimine
 	#SUBURL [Course:106451 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-flags: 1
+	Moodle:16665 (password: **TUT16**)
+	
+minor: 
+ts: 1473232628
 username: AlexDaniel
-revision: 4
+keep-ts: 1473232628
