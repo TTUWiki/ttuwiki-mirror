@@ -1,18 +1,15 @@
-username: AlexDaniel
-ip: 89.235.235.166
-summary: Link to moodle
-languages: 
-lastmajorsummary: Link to moodle
-keep-ts: 1473232628
-revision: 5
-lastmajor: 5
-minor: 
 text: #SUBTITLE Küberturbe põhialused ja juhtimine
 	#SUBURL [Course:106451 〔Õppeaine ÕIS-is〕]
+	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-	Moodle:16665 (password: **TUT16**)
-	
-blocks: [Course:106451 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajorsummary: Rollback to 2016-09-07 04:01:22
+minor: 
+summary: Rollback to 2016-09-07 04:01:22
 host: 193.40.250.230
-ts: 1473232628
+ts: 1473246265
+keep-ts: 1473246265
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 6
+languages: 
+revision: 6
