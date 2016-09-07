@@ -1,16 +1,22 @@
-flags: 1
-revision: 4
-keep-ts: 1441924447
-minor: 1
+languages: 
 ip: 89.235.235.166
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+lastmajorsummary: http://cs.ioc.ee/RekKursus/
+summary: http://cs.ioc.ee/RekKursus/
+minor: 
+username: Artur Gummel
+ts: 1473227243
+lastmajor: 5
+host: 193.40.250.235
+keep-ts: 1473227243
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-ts: 1441924447
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
+	----
+	
+	http://cs.ioc.ee/RekKursus/
+	
+	-- Artur Gummel 2016-09-07 08:47:23
+	
+	
+revision: 5
