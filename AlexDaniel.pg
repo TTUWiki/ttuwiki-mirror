@@ -1,10 +1,10 @@
+summary: IAG0420 is nonsense. Taking ISP0051 instead.
+keep-ts: 1473246477
+minor: 
+lastmajor: 22
 username: AlexDaniel
-summary: Rollback to 2016-09-07 04:01:22
+languages: 
 ip: 89.235.239.240
-minor: 0
-lastmajorsummary: Rollback to 2016-09-07 04:01:22
-ts: 1473246388
-keep-ts: 1473246388
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -15,7 +15,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IBX0060]] |Robotics |
 	| [[IAF0320]] |Computer Systems Engineering |
 	| [[IAG0010]] |Advanced Course in Programming I |
-	| [[IAG0420]] |Foundations and Management of Cyber Security |
+	| [[ISP0051]] |Applied Data Communication |
 	| [[IAY0600]] |Digital Systems Design |
 	| [[IAG0450]] |Analysis of Programming Languages |
 	
@@ -28,7 +28,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-languages: 
-lastmajor: 21
+revision: 22
+lastmajorsummary: IAG0420 is nonsense. Taking ISP0051 instead.
+ts: 1473246477
 host: 193.40.250.230
-revision: 21
