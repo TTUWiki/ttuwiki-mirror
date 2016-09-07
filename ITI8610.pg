@@ -1,14 +1,15 @@
-username: AlexDaniel
-flags: 1
+revision: 3
+minor: 
+summary: 
+keep-ts: 1473266988
 languages: 
-ts: 1441924447
-minor: 1
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-host: 82.131.7.230
-blocks: [Course:110036 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
 text: #SUBTITLE Tarkvara töökindlus
 	#SUBURL [Course:110036 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
+	https://courses.cs.ttu.ee/pages/ITI8610
+	https://ained.ttu.ee/course/view.php?id=6
 	
+username: 
+lastmajor: 3
+host: 84.52.25.105
+ts: 1473266988
