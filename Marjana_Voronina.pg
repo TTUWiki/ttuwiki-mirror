@@ -1,11 +1,12 @@
-username: Marjana Voronina
-keep-ts: 1473235887
-lastmajorsummary: sadness
 languages: 
-host: 193.40.250.239
-revision: 14
+lastmajorsummary: sadness
+username: Marjana Voronina
 lastmajor: 14
-ts: 1473235887
+keep-ts: 1473235975
+summary: EAP
+minor: 1
+revision: 15
+ts: 1473235975
 text: ==My study plan
 	===2016 fall
 	
@@ -17,7 +18,7 @@ text: ==My study plan
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	|HSK3031 Kehaline kasvatus | 2 |
-	| **Total** | **33** |
+	| **Total** | **35** |
 	
 	
 	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
@@ -25,5 +26,4 @@ text: ==My study plan
 	
 	
 	
-minor: 
-summary: sadness
+host: 193.40.250.239
