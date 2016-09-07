@@ -1,7 +1,9 @@
-ts: 1473246315
-languages: 
-revision: 17
-keep-ts: 1473246315
+lastmajor: 18
+summary: uued jõusaali kasutamise reeglid = shit
+minor: 
+revision: 18
+lastmajorsummary: uued jõusaali kasutamise reeglid = shit
+host: 82.131.7.144
 text: ==My study plan
 	===2016 fall
 	
@@ -12,18 +14,18 @@ text: ==My study plan
 	|[[ITI8610]] Tarkvara töökindlus | 6 |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
-	|HSK3031 Kehaline kasvatus | 2 |
-	| **Total** | **35** |
+	| **Total** | **33** |
 	
+	**Muudatused kehaline kasvatuse õppeaines ehk miks ma otsustasin kehalist kasvatust MITTE deklareerida:**
 	
-	|[[IDX5060]] Mängude ja virtuaalkeskkondade programmeerimine | 6 |
-	|[[IDU0210]] Hajusarhitektuurid | 5 |
+	http://us1.campaign-archive2.com/?u=274b2d487385054d573357e38&id=67c10ea7ea&e=8599cb9dc3
 	
+	"Jõusaalis ja sportmängudes toimuvad uue korralduse kohaselt juhendatud ja juhendamata õppetunnid. Juhendatud õppetunnid tähendavad seda, et tund toimub õppejõu juhendamisel ning kaasa tegemine on kohustuslik.
+	Jõusaali juhendatud õpetunnid algavad soojendusharjutustega ning läbi võetakse ettemääratud harjutuste seeriad, mis toimuvad õppejõu juhendamisel ning kus rõhk on õigel sooritusel."
 	
+	Sorry, aga see on jama! Olen täiesti võimeline ennast ise treenima. Ei tule saali kuni juhendatud õppetunnid on VALIKULISED.
 	
-lastmajorsummary: Rollback to 2016-09-07 11:12:55
-summary: Rollback to 2016-09-07 11:12:55
-lastmajor: 17
-minor: 0
-username: AlexDaniel
-host: 193.40.250.230
+keep-ts: 1473278301
+languages: 
+ts: 1473278301
+username: Marjana Voronina
