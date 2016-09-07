@@ -1,12 +1,8 @@
-ts: 1473172946
-lastmajor: 9
-lastmajorsummary: :)
-summary: :)
-languages: 
-minor: 
 username: Kadi_Laidoja
-revision: 9
-host: 86.110.32.164
+host: 193.40.250.231
+ts: 1473235584
+lastmajor: 10
+summary: 
 text: #Minu õppekava [[IABM02-16]] 
 	
 	===== Esimese semestri ained
@@ -15,7 +11,11 @@ text: #Minu õppekava [[IABM02-16]]
 	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
 	[[TMJ3331]] Ettevõtlus ja äri planeerimine
 	[[IDU1341]] Infosüsteemide ülalhoid
-	[[IDX5721]] Tarkvara kvaliteet ja standardid
+	[[IDX1511]] Tarkvara protsessid ja kvaliteet
 	[[IDN1653]] Värvitud Petri võrgud: mudelid ja valideerimine
 	
-keep-ts: 1473172946
+keep-ts: 1473235584
+lastmajorsummary: 
+languages: 
+revision: 10
+minor: 
