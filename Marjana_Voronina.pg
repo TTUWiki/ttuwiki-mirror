@@ -1,9 +1,10 @@
-lastmajor: 18
-summary: uued jõusaali kasutamise reeglid = shit
-minor: 
-revision: 18
-lastmajorsummary: uued jõusaali kasutamise reeglid = shit
 host: 82.131.7.144
+username: Marjana Voronina
+languages: 
+summary: spring semester
+revision: 19
+minor: 1
+lastmajor: 18
 text: ==My study plan
 	===2016 fall
 	
@@ -25,7 +26,13 @@ text: ==My study plan
 	
 	Sorry, aga see on jama! Olen täiesti võimeline ennast ise treenima. Ei tule saali kuni juhendatud õppetunnid on VALIKULISED.
 	
-keep-ts: 1473278301
-languages: 
-ts: 1473278301
-username: Marjana Voronina
+	
+	===2016 spring
+	
+	|= Course |= EAP | 
+	|[[IDK6100]] Sotsiaalne tarkvara ja võrgukogukonnad | 5 |
+	| **Total** | **5** |
+	
+ts: 1473284648
+lastmajorsummary: uued jõusaali kasutamise reeglid = shit
+keep-ts: 1473284648
