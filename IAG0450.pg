@@ -1,11 +1,8 @@
-host: 193.40.250.230
-minor: 
-ts: 1473426535
-languages: 
-ip: 89.235.235.166
 lastmajorsummary: materials
-username: AlexDaniel
-lastmajor: 5
+flags: 1
+summary: materials
+revision: 5
+blocks: [Course:106436 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Programmeerimiskeelte analüüs
 	#SUBURL [Course:106436 〔Õppeaine ÕIS-is〕]
 	
@@ -13,6 +10,11 @@ text: #SUBTITLE Programmeerimiskeelte analüüs
 	* http://www.tud.ttu.ee/im/Vladimir.Viies/materials/IAG0450_Prog.lang.anal/
 	* http://ati.ttu.ee/wiki/index.php?title=IAG0450_-_Analysis_of_Programming_Languages
 	
+host: 193.40.250.230
+ip: 89.235.235.166
+ts: 1473426535
+username: AlexDaniel
+minor: 
 keep-ts: 1473426535
-revision: 5
-summary: materials
+lastmajor: 5
+languages: 
