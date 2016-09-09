@@ -1,11 +1,9 @@
-languages: 
-revision: 6
-username: Marjana Voronina
 host: 193.40.250.239
+ts: 1473421898
+blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
+flags: 1
 summary: first assignment
-lastmajor: 6
-lastmajorsummary: first assignment
-keep-ts: 1473421898
+revision: 6
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	
@@ -33,5 +31,9 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- Artur Gummel 2016-09-05 14:23:01
 	
 	
+username: Marjana Voronina
+lastmajorsummary: first assignment
+languages: 
 minor: 
-ts: 1473421898
+lastmajor: 6
+keep-ts: 1473421898
