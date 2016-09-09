@@ -1,8 +1,12 @@
-summary: vabavara → vaba tarkvara
-ts: 1473115309
-lastmajor: 61
+lastmajor: 62
+username: Marjana Voronina
+ts: 1473458589
+keep-ts: 1473458589
+summary: IAPB team
+revision: 62
 host: 82.131.7.144
-revision: 61
+languages: 
+lastmajorsummary: IAPB team
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -140,6 +144,7 @@ text: === This wiki / Veebilehest / О сайте:
 	*[new:http://web.zone.ee/aldas/] - mõned failid
 	*[new:http://wiki.maatriks.eu/doku.php]
 	*[new:https://sites.google.com/site/energeetikattumaterjalid/]
+	*[new:https://iapbteam.wordpress.com/]
 	
 	#RUS
 	*[new:http://studiesleak.com]
@@ -157,6 +162,7 @@ text: === This wiki / Veebilehest / О сайте:
 	*[new:http://web.zone.ee/aldas/] - какие-то файлы.
 	*[new:http://wiki.maatriks.eu/doku.php] - чья-то персональная вики.
 	*[new:https://sites.google.com/site/energeetikattumaterjalid/]
+	*[new:https://iapbteam.wordpress.com/]
 	
 	==== Archives / Arhiivid / Архивы:
 	
@@ -234,8 +240,4 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-keep-ts: 1473115309
-lastmajorsummary: vabavara → vaba tarkvara
-languages: 
 minor: 
-username: AlexDaniel
