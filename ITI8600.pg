@@ -1,13 +1,22 @@
-revision: 5
-lastmajor: 5
-username: 
-ts: 1473074604
 languages: 
-keep-ts: 1473074604
-minor: 
+revision: 6
+username: Marjana Voronina
+host: 193.40.250.239
+summary: first assignment
+lastmajor: 6
+lastmajorsummary: first assignment
+keep-ts: 1473421898
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
-	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	==Useful links
+	
+	===First assignment
+	
+	**Framework suggested by Juhan-Peep Ernits**
+	
+	https://github.com/hobson/aima
+	https://github.com/aimacode/aima-python
 	
 	----
 	
@@ -24,8 +33,5 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- Artur Gummel 2016-09-05 14:23:01
 	
 	
-blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: Книга: Russel and Norvig. artificial intelligence: a modern approach 3rd edition 2010 . . .
-summary: Книга: Russel and Norvig. artificial intelligence: a modern approach 3rd edition 2010 . . .
-host: 213.168.4.167
-flags: 1
+minor: 
+ts: 1473421898
