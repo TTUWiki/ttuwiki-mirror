@@ -1,8 +1,5 @@
-ip: 89.235.231.110
-minor: 
-ts: 1473628244
-keep-ts: 1473628244
-revision: 26
+summary: Fix course and kava ÕIS links
+languages: 
 text:  File https://files.ttuwiki.ee/
 	 Fi https://files.ttuwiki.ee/
 	 Timetable http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=161&g=
@@ -11,16 +8,19 @@ text:  File https://files.ttuwiki.ee/
 	 TiK http://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=161&g=
 	
 	 Course http://ois.ttu.ee/portal/page?_pageid=37,674581&_dad=portal&_schema=PORTAL&p_action=view&p_public=1&p_mode=1&p_id=
-	 Kava http://ois.ttu.ee/portal/page?_pageid=35,428589&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=&p_kava_versioon_id=
+	 Kava http://ois.ttu.ee/portal/page?_pageid=37,674560&_dad=portal&_schema=PORTAL&p_action=view&p_fk_str_yksus_id=&p_net=intranet&p_lang=ET&p_rezhiim=0&p_mode=1&p_from=&p_kava_versioon_id=
 	
 	 Employee http://ttu.ee/?op=search_results&id=30052&q=
 	
 	 Moodle https://moodle.hitsa.ee/course/view.php?id=
 	 NewMoodle https://ained.ttu.ee/course/view.php?id=
 	
-lastmajor: 26
-languages: 
-summary: Fix course ÕIS link
+revision: 27
+lastmajor: 27
+lastmajorsummary: Fix course and kava ÕIS links
+ts: 1473628329
+minor: 
 username: AlexDaniel
+ip: 89.235.231.110
 host: 82.131.7.144
-lastmajorsummary: Fix course ÕIS link
+keep-ts: 1473628329
