@@ -1,8 +1,4 @@
-ts: 1473171612
-revision: 58
-languages: 
-keep-ts: 1473171612
-lastmajor: 58
+minor: 
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -20,8 +16,21 @@ text: #Minu Õppekava [[MASM02-09]]
 	
 	
 	
-minor: 
-username: Ain_Laidoja
-summary: 
-host: 86.110.32.164
-lastmajorsummary: 
+	----
+	
+	Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something.
+	
+	That being said, mail.ttu.ee seems to be down, do you have any other email?
+	
+	-- AlexDaniel 2016-09-11 21:20:59
+	
+	
+keep-ts: 1473618059
+host: 82.131.7.144
+summary: Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something. That being said, mail.ttu.ee seems to be . . .
+ts: 1473618059
+languages: 
+lastmajor: 59
+lastmajorsummary: Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something. That being said, mail.ttu.ee seems to be . . .
+username: AlexDaniel
+revision: 59
