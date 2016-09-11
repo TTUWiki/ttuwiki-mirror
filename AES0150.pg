@@ -1,11 +1,6 @@
-ts: 1473577269
 revision: 12
 summary: 
-lastmajorsummary: 
-keep-ts: 1473577269
-ip: 89.235.235.166
-lastmajor: 12
-host: 86.110.32.164
+username: Ain_Laidoja
 text: #SUBTITLE Elektriturg
 	#SUBURL [Course:39529 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +17,13 @@ text: #SUBTITLE Elektriturg
 	#[http://www.open.edu/itunes/ iTunes University]
 	#[http://www.energiatalgud.ee Eneregiatalgud]
 	
+ts: 1473577269
+blocks: [Course:39529 〔Õppeaine ÕIS-is〕]
 languages: 
-username: Ain_Laidoja
+ip: 89.235.235.166
+host: 86.110.32.164
+lastmajorsummary: 
+lastmajor: 12
+keep-ts: 1473577269
 minor: 
+flags: 1
