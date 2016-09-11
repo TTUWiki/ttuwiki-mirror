@@ -1,20 +1,18 @@
-keep-ts: 1473085990
-lastmajor: 11
-username: Ain_Laidoja
-ts: 1473085990
-languages: 
-lastmajorsummary: 
-host: 193.40.250.235
-revision: 11
-blocks: [Course:39529 〔Õppeaine ÕIS-is〕]
+ts: 1473577269
+revision: 12
 summary: 
+lastmajorsummary: 
+keep-ts: 1473577269
 ip: 89.235.235.166
+lastmajor: 12
+host: 86.110.32.164
 text: #SUBTITLE Elektriturg
 	#SUBURL [Course:39529 〔Õppeaine ÕIS-is〕]
 	
 	==Kodutööd
 	
 	#Esimese kodutöö tähtaeg 2016-09-11-18:00
+	#Teise kodutöö tähtaeg 2016-09-26
 	
 	==Kirjandus
 	
@@ -24,5 +22,6 @@ text: #SUBTITLE Elektriturg
 	#[http://www.open.edu/itunes/ iTunes University]
 	#[http://www.energiatalgud.ee Eneregiatalgud]
 	
+languages: 
+username: Ain_Laidoja
 minor: 
-flags: 1
