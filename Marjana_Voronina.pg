@@ -1,6 +1,12 @@
-lastmajor: 18
-host: 82.131.7.144
+lastmajorsummary: 
+summary: 
 languages: 
+ts: 1473666807
+keep-ts: 1473666807
+minor: 
+revision: 21
+host: 193.40.250.232
+username: Marjana Voronina
 text: ==My study plan
 	===2016 fall
 	
@@ -13,26 +19,4 @@ text: ==My study plan
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	| **Total** | **33** |
 	
-	**Muudatused kehaline kasvatuse õppeaines ehk miks ma otsustasin kehalist kasvatust MITTE deklareerida:**
-	
-	http://us1.campaign-archive2.com/?u=274b2d487385054d573357e38&id=67c10ea7ea&e=8599cb9dc3
-	
-	"Jõusaalis ja sportmängudes toimuvad uue korralduse kohaselt juhendatud ja juhendamata õppetunnid. Juhendatud õppetunnid tähendavad seda, et tund toimub õppejõu juhendamisel ning kaasa tegemine on kohustuslik.
-	Jõusaali juhendatud õpetunnid algavad soojendusharjutustega ning läbi võetakse ettemääratud harjutuste seeriad, mis toimuvad õppejõu juhendamisel ning kus rõhk on õigel sooritusel."
-	
-	Sorry, aga see on jama! Olen täiesti võimeline ennast ise treenima. Ei tule saali kuni juhendatud õppetunnid on VALIKULISED.
-	
-	
-	===2017 spring
-	
-	|= Course |= EAP | 
-	|[[IDK6100]] Sotsiaalne tarkvara ja võrgukogukonnad | 5 |
-	| **Total** | **5** |
-	
-ts: 1473289501
-revision: 20
-minor: 1
-lastmajorsummary: uued jõusaali kasutamise reeglid = shit
-username: AlexDaniel
-summary: spring semester
-keep-ts: 1473289501
+lastmajor: 21
