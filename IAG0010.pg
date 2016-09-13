@@ -1,16 +1,18 @@
 minor: 
-revision: 5
 ts: 1473709624
-username: AlexDaniel
-lastmajor: 5
 keep-ts: 1473709624
-lastmajorsummary: link to materials
 summary: link to materials
+username: AlexDaniel
 text: #SUBTITLE Programmeerimise erikursus I
 	#SUBURL [Course:30886 〔Õppeaine ÕIS-is〕]
 	
 	Materials: http://www.tud.ttu.ee/im/Viktor.Leppikson/
 	
 host: 82.131.7.144
-ip: 89.235.235.166
 languages: 
+lastmajorsummary: link to materials
+blocks: [Course:30886 〔Õppeaine ÕIS-is〕]
+lastmajor: 5
+revision: 5
+ip: 89.235.235.166
+flags: 1
