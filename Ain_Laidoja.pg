@@ -1,4 +1,12 @@
 minor: 
+lastmajor: 60
+keep-ts: 1473728839
+username: AlexDaniel
+lastmajorsummary: Comment deleted :)
+summary: Comment deleted :)
+languages: 
+revision: 60
+host: 82.131.7.144
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -15,22 +23,4 @@ text: #Minu Õppekava [[MASM02-09]]
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016.pdf Puidu ja põlevkivi koos-pürolüüs] * [http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016_esitlus.pdf Esitlus] *  [https://goo.gl/photos/uHphhEXNqtDtQKMT6 Fotod]
 	
 	
-	
-	----
-	
-	Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something.
-	
-	That being said, mail.ttu.ee seems to be down, do you have any other email?
-	
-	-- AlexDaniel 2016-09-11 21:20:59
-	
-	
-keep-ts: 1473618059
-host: 82.131.7.144
-summary: Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something. That being said, mail.ttu.ee seems to be . . .
-ts: 1473618059
-languages: 
-lastmajor: 59
-lastmajorsummary: Not sure how often you check your @ttu.ee email, so here is a reminder that I've sent you something. That being said, mail.ttu.ee seems to be . . .
-username: AlexDaniel
-revision: 59
+ts: 1473728839
