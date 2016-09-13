@@ -1,15 +1,8 @@
-summary: Rollback to 2016-09-05 18:04:37
-keep-ts: 1473176880
-host: 82.131.7.144
-lastmajorsummary: Rollback to 2016-09-05 18:04:37
-ts: 1473176880
-minor: 0
-languages: 
-lastmajor: 16
-username: AlexDaniel
-text: == ⚠ Timetables are not up to date.
-	\\
-	\\
+lastmajorsummary: Timetables are now up to date
+summary: Timetables are now up to date
+lastmajor: 17
+minor: 
+text: 
 	#ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
@@ -39,4 +32,9 @@ text: == ⚠ Timetables are not up to date.
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-revision: 16
+languages: 
+keep-ts: 1473765386
+ts: 1473765386
+revision: 17
+host: 193.40.250.236
+username: AlexDaniel
