@@ -1,0 +1,12 @@
+username: AlexDaniel
+minor: 
+summary: Note on how to login
+lastmajor: 1
+revision: 1
+text: Most (if not all) computers actually have GNU/Linux installed.
+	To login you have to use **firstname.lastname@intra.ttu.ee** as your login name. Basically it is your TUD login with **@intra.ttu.ee** appended to it.
+	
+languages: 
+ts: 1473774105
+host: 193.40.250.236
+lastmajorsummary: Note on how to login
