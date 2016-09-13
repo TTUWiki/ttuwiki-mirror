@@ -1,12 +1,16 @@
+lastmajorsummary: Note that you have to reboot
 username: AlexDaniel
-minor: 
-summary: Note on how to login
-lastmajor: 1
-revision: 1
+host: 193.40.250.236
 text: Most (if not all) computers actually have GNU/Linux installed.
+	
+	Microsoft Windows is the default option in the boot loader, so you have to restart the computer and choose another option during boot in order to get into GNU/Linux.
+	
 	To login you have to use **firstname.lastname@intra.ttu.ee** as your login name. Basically it is your TUD login with **@intra.ttu.ee** appended to it.
 	
+minor: 
+summary: Note that you have to reboot
+keep-ts: 1473775942
+lastmajor: 2
 languages: 
-ts: 1473774105
-host: 193.40.250.236
-lastmajorsummary: Note on how to login
+revision: 2
+ts: 1473775942
