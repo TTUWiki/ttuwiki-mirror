@@ -1,12 +1,6 @@
-lastmajor: 62
-username: Marjana Voronina
-ts: 1473458589
-keep-ts: 1473458589
-summary: IAPB team
-revision: 62
-host: 82.131.7.144
-languages: 
-lastmajorsummary: IAPB team
+revision: 63
+summary: Mention [GNU/Linux in Classrooms] page
+lastmajor: 63
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -61,6 +55,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[EAP]] – all about EAP.
 	* [[Free Food]] – sometimes the food is free.
 	* [[Humor]] – funny links and stories.
+	* [[Linux in Classrooms]] – how to use GNU/Linux
 	
 	#EST
 	* [https://mois.ttu.ee/uusois/uus_ois2.mob_leht https://mois.ttu.ee/] – mobiilne versioon. **Väga kiire**
@@ -70,6 +65,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[EAP]] – Natukene infot Euroopa ainepunktidest.
 	* [[Free Food|Tasuta söök]] – kus saab mõnikord tasuta süüa.
 	* [[Humor|Huumor]] – lõbusad lingid ja lood.
+	* [[Linux in Classrooms]] – GNU/Linux kasutamine klassiruumides.
 	 
 	#RUS
 	* [https://mois.ttu.ee/uusois/uus_ois2.mob_leht https://mois.ttu.ee/] – мобильная версия ÕIS-а. **Очень быстро** работает.
@@ -79,6 +75,7 @@ text: === This wiki / Veebilehest / О сайте:
 	* [[EAP]] – немного информации про ЕАП.
 	* [[Free Food|Бесплатная еда]] – как иногда можно подкормиться.
 	* [[Humor|Юмор]] – забавные ссылки и истории.
+	* [[Linux in Classrooms]] – Использование GNU/Linux в классах.
 	
 	=== Professors / Õppejõud / Преподаватели
 	#ENG
@@ -240,4 +237,10 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+keep-ts: 1473775829
+languages: 
 minor: 
+lastmajorsummary: Mention [GNU/Linux in Classrooms] page
+ts: 1473775829
+username: AlexDaniel
+host: 193.40.250.236
