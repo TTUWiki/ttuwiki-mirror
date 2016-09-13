@@ -1,10 +1,9 @@
 languages: 
-revision: 2
-username: Bot
-lastmajor: 2
-minor: 
+lastmajor: 3
+revision: 3
 summary: Automatic Update
-host: 85.253.177.126
+host: 193.40.250.236
+minor: 
 text: [:Timetables (Doctoral studies)]
 	
 	=== Doctoral studies / Doktoriõpe / Докторантура
@@ -15,8 +14,9 @@ text: [:Timetables (Doctoral studies)]
 	#RUS
 	Ссылки на расписания актуальны в течении семестра.
 	#LANG_END
-	##[https://ois.ttu.ee/portal/page?_pageid=35,435155&_dad=portal&_schema=PORTAL&from_menu=1&b=3|Link]##
+	##[https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&from_menu=1&b=3|Link]##
 	
+keep-ts: 1473762068
 lastmajorsummary: Automatic Update
-ts: 1454369719
-keep-ts: 1454369719
+ts: 1473762068
+username: Bot
