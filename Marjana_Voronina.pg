@@ -1,10 +1,4 @@
-lastmajor: 22
-minor: 
 languages: 
-host: 82.131.7.144
-revision: 22
-summary: my team
-lastmajorsummary: my team
 text: ==My study plan
 	===2016 fall
 	
@@ -19,14 +13,23 @@ text: ==My study plan
 	
 	
 	**[[ITI8610]] Tarkvara töökindlus**
+	
+	
 	My DreamTeam:
-	163582
-	163305
-	163303
-	162942
-	162967
+	
+	*163582
+	*163305
+	*163303
+	*162942
+	*162967
 	
 	
-keep-ts: 1473875086
-ts: 1473875086
+keep-ts: 1473875162
+lastmajorsummary: formatting
+revision: 23
+lastmajor: 23
+minor: 
+ts: 1473875162
+host: 82.131.7.144
+summary: formatting
 username: Marjana Voronina
