@@ -1,12 +1,10 @@
-lastmajorsummary: 
-summary: 
-languages: 
-ts: 1473666807
-keep-ts: 1473666807
+lastmajor: 22
 minor: 
-revision: 21
-host: 193.40.250.232
-username: Marjana Voronina
+languages: 
+host: 82.131.7.144
+revision: 22
+summary: my team
+lastmajorsummary: my team
 text: ==My study plan
 	===2016 fall
 	
@@ -19,4 +17,16 @@ text: ==My study plan
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	| **Total** | **33** |
 	
-lastmajor: 21
+	
+	**[[ITI8610]] Tarkvara töökindlus**
+	My DreamTeam:
+	163582
+	163305
+	163303
+	162942
+	162967
+	
+	
+keep-ts: 1473875086
+ts: 1473875086
+username: Marjana Voronina
