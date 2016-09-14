@@ -1,4 +1,4 @@
-languages: 
+host: 82.131.7.144
 text: ==My study plan
 	===2016 fall
 	
@@ -22,14 +22,15 @@ text: ==My study plan
 	*163303
 	*162942
 	*162967
+	*153077
 	
 	
-keep-ts: 1473875162
+languages: 
+ts: 1473875219
 lastmajorsummary: formatting
-revision: 23
-lastmajor: 23
-minor: 
-ts: 1473875162
-host: 82.131.7.144
-summary: formatting
 username: Marjana Voronina
+keep-ts: 1473875219
+summary: 
+lastmajor: 23
+minor: 1
+revision: 24
