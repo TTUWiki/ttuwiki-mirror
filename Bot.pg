@@ -1,6 +1,11 @@
-keep-ts: 1473985372
+blocks: </div></div>
+lastmajor: 2
+summary: English translation
+keep-ts: 1473985387
+revision: 3
 text: #ENG
-	All automatic updates are done under this nickname (e.g. updates to timetable pages). See [[Page Generation]].
+	All automatic updates are done under this nickname (e.g. updates to timetable pages).
+	See [[Page Generation]].
 	
 	#RUS
 	Под этим ником вносятся автоматические изменения (например, обновление расписаний). 
@@ -8,12 +13,8 @@ text: #ENG
 	
 flags: 0
 lastmajorsummary: English translation
-revision: 2
-blocks: </div></div>
-host: 82.131.7.144
-ts: 1473985372
-summary: English translation
-minor: 
-username: AlexDaniel
 languages: 
-lastmajor: 2
+minor: 1
+ts: 1473985387
+username: AlexDaniel
+host: 82.131.7.144
