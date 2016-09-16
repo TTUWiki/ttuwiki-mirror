@@ -1,11 +1,19 @@
-revision: 1
-username: AlexDaniel
-lastmajor: 1
-languages: 
-ts: 1441278813
-text: Под этим ником вносятся автоматические изменения (например, обновление расписаний). 
-	Смотрите информацию про [[Генерация Страниц|генерацию страниц]].
+keep-ts: 1473985372
+text: #ENG
+	All automatic updates are done under this nickname (e.g. updates to timetable pages). See [[Page Generation]].
 	
-host: 193.40.244.196
+	#RUS
+	Под этим ником вносятся автоматические изменения (например, обновление расписаний). 
+	Смотрите информацию про [[Page Generation|генерацию страниц]].
+	
+flags: 0
+lastmajorsummary: English translation
+revision: 2
+blocks: </div></div>
+host: 82.131.7.144
+ts: 1473985372
+summary: English translation
 minor: 
-summary: описание
+username: AlexDaniel
+languages: 
+lastmajor: 2
