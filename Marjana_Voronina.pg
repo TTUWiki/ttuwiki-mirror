@@ -1,4 +1,8 @@
-host: 82.131.7.144
+lastmajor: 25
+minor: 
+keep-ts: 1474024666
+username: Marjana Voronina
+languages: 
 text: ==My study plan
 	===2016 fall
 	
@@ -24,13 +28,13 @@ text: ==My study plan
 	*162967
 	*153077
 	
+	**[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid**
 	
-languages: 
-ts: 1473875219
-lastmajorsummary: formatting
-username: Marjana Voronina
-keep-ts: 1473875219
-summary: 
-lastmajor: 23
-minor: 1
-revision: 24
+	http://www.jaapsch.net/puzzles/tantrix.htm
+	
+	
+lastmajorsummary: tantrix
+revision: 25
+summary: tantrix
+host: 193.40.250.232
+ts: 1474024666
