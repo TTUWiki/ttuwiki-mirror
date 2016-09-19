@@ -1,22 +1,22 @@
-revision: 6
-lastmajor: 6
+username: Bot
+keep-ts: 1474263756
+revision: 7
+summary: Automatic Update
+lastmajorsummary: Automatic Update
 minor: 
 languages: 
 text: [:Timetables (Doctoral studies, images)]
 	
 	=== Doctoral studies / Doktoriõpe / Докторантура
 	#ENG
-	Images were generated: **2016-09-16**
+	Images were generated: **2016-09-19**
 	#EST
-	Viimast korda uuendatud: **2016-09-16**
+	Viimast korda uuendatud: **2016-09-19**
 	#RUS
-	Изображения были сгенерированы: **2016-09-16**
+	Изображения были сгенерированы: **2016-09-19**
 	#LANG_END
-	##[https://files.ttuwiki.org/Doctoral_20160916.png|Image]##
+	##[https://files.ttuwiki.org/Doctoral_20160919.png|Image]##
 	
-summary: Automatic Update
-keep-ts: 1473986341
+ts: 1474263756
 host: 82.131.7.144
-lastmajorsummary: Automatic Update
-username: Bot
-ts: 1473986341
+lastmajor: 7
