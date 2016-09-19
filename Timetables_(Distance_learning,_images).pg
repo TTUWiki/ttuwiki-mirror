@@ -1,33 +1,33 @@
-languages: 
-lastmajor: 6
-keep-ts: 1473986337
-summary: Automatic Update
-ts: 1473986337
+lastmajor: 7
+keep-ts: 1474263752
 minor: 
+ts: 1474263752
+languages: 
+revision: 7
+summary: Automatic Update
 lastmajorsummary: Automatic Update
-revision: 6
-host: 82.131.7.144
+username: Bot
 text: [:Timetables (Distance learning, images)]
 	
 	=== Distance learning / Kaugõpe / Заочное обучение
 	#ENG
-	Images were generated: **2016-09-16**
+	Images were generated: **2016-09-19**
 	#EST
-	Viimast korda uuendatud: **2016-09-16**
+	Viimast korda uuendatud: **2016-09-19**
 	#RUS
-	Изображения были сгенерированы: **2016-09-16**
+	Изображения были сгенерированы: **2016-09-19**
 	
 	==== A-energeetikateaduskond 
-	##[https://files.ttuwiki.org/AAAB10_20160916.png|AAAB10] [https://files.ttuwiki.org/AAAB30_20160916.png|AAAB30] [https://files.ttuwiki.org/AAAB50_20160916.png|AAAB50] [https://files.ttuwiki.org/AAAB70_20160916.png|AAAB70] [https://files.ttuwiki.org/AAVB10_20160916.png|AAVB10] [https://files.ttuwiki.org/AAVB30_20160916.png|AAVB30] [https://files.ttuwiki.org/AAVB50_20160916.png|AAVB50] [https://files.ttuwiki.org/AAVB70_20160916.png|AAVB70]##
+	##[https://files.ttuwiki.org/AAAB10_20160919.png|AAAB10] [https://files.ttuwiki.org/AAAB30_20160919.png|AAAB30] [https://files.ttuwiki.org/AAAB50_20160919.png|AAAB50] [https://files.ttuwiki.org/AAAB70_20160919.png|AAAB70] [https://files.ttuwiki.org/AAVB10_20160919.png|AAVB10] [https://files.ttuwiki.org/AAVB30_20160919.png|AAVB30] [https://files.ttuwiki.org/AAVB50_20160919.png|AAVB50] [https://files.ttuwiki.org/AAVB70_20160919.png|AAVB70]##
 	==== E-ehitusteaduskond 
-	##[https://files.ttuwiki.org/EAEI110_20160916.png|EAEI110] [https://files.ttuwiki.org/EAEI90_20160916.png|EAEI90]##
+	##[https://files.ttuwiki.org/EAEI110_20160919.png|EAEI110] [https://files.ttuwiki.org/EAEI90_20160919.png|EAEI90]##
 	==== H-sotsiaalteaduskond 
-	##[https://files.ttuwiki.org/HAJB10_20160916.png|HAJB10] [https://files.ttuwiki.org/HAJB30_20160916.png|HAJB30] [https://files.ttuwiki.org/HAJM10_20160916.png|HAJM10] [https://files.ttuwiki.org/HAJM30_20160916.png|HAJM30] [https://files.ttuwiki.org/HAKB10_20160916.png|HAKB10] [https://files.ttuwiki.org/HAKB30_20160916.png|HAKB30] [https://files.ttuwiki.org/HAKB50_20160916.png|HAKB50] [https://files.ttuwiki.org/HAPM10_20160916.png|HAPM10] [https://files.ttuwiki.org/HAPM30_20160916.png|HAPM30]##
+	##[https://files.ttuwiki.org/HAJB10_20160919.png|HAJB10] [https://files.ttuwiki.org/HAJB30_20160919.png|HAJB30] [https://files.ttuwiki.org/HAJM10_20160919.png|HAJM10] [https://files.ttuwiki.org/HAJM30_20160919.png|HAJM30] [https://files.ttuwiki.org/HAKB10_20160919.png|HAKB10] [https://files.ttuwiki.org/HAKB30_20160919.png|HAKB30] [https://files.ttuwiki.org/HAKB50_20160919.png|HAKB50] [https://files.ttuwiki.org/HAPM10_20160919.png|HAPM10] [https://files.ttuwiki.org/HAPM30_20160919.png|HAPM30]##
 	==== I-infotehnoloogia teaduskond 
-	##[https://files.ttuwiki.org/IABB70_20160916.png|IABB70] [https://files.ttuwiki.org/IABM10_20160916.png|IABM10] [https://files.ttuwiki.org/IABM30_20160916.png|IABM30] [https://files.ttuwiki.org/IASB70_20160916.png|IASB70]##
+	##[https://files.ttuwiki.org/IABB70_20160919.png|IABB70] [https://files.ttuwiki.org/IABM10_20160919.png|IABM10] [https://files.ttuwiki.org/IABM30_20160919.png|IABM30] [https://files.ttuwiki.org/IASB70_20160919.png|IASB70]##
 	==== M-mehaanikateaduskond 
-	##[https://files.ttuwiki.org/MATM10_20160916.png|MATM10] [https://files.ttuwiki.org/MATM30_20160916.png|MATM30]##
+	##[https://files.ttuwiki.org/MATM10_20160919.png|MATM10] [https://files.ttuwiki.org/MATM30_20160919.png|MATM30]##
 	==== R-TTÜ Virumaa Kolledž 
-	##[https://files.ttuwiki.org/RDBR33_20160916.png|RDBR33] [https://files.ttuwiki.org/RDBR34_20160916.png|RDBR34] [https://files.ttuwiki.org/RDBR73_20160916.png|RDBR73] [https://files.ttuwiki.org/RDDR34_20160916.png|RDDR34] [https://files.ttuwiki.org/RDER13_20160916.png|RDER13] [https://files.ttuwiki.org/RDER14_20160916.png|RDER14] [https://files.ttuwiki.org/RDER33_20160916.png|RDER33] [https://files.ttuwiki.org/RDER34_20160916.png|RDER34] [https://files.ttuwiki.org/RDER53_20160916.png|RDER53] [https://files.ttuwiki.org/RDER94_20160916.png|RDER94] [https://files.ttuwiki.org/RDIR13_20160916.png|RDIR13] [https://files.ttuwiki.org/RDIR14_20160916.png|RDIR14] [https://files.ttuwiki.org/RDIR53_20160916.png|RDIR53] [https://files.ttuwiki.org/RDKR34_20160916.png|RDKR34] [https://files.ttuwiki.org/RDKR74_20160916.png|RDKR74] [https://files.ttuwiki.org/RDPR13_20160916.png|RDPR13] [https://files.ttuwiki.org/RDPR14_20160916.png|RDPR14] [https://files.ttuwiki.org/RDPR53_20160916.png|RDPR53]##
+	##[https://files.ttuwiki.org/RDBR33_20160919.png|RDBR33] [https://files.ttuwiki.org/RDBR34_20160919.png|RDBR34] [https://files.ttuwiki.org/RDBR73_20160919.png|RDBR73] [https://files.ttuwiki.org/RDDR34_20160919.png|RDDR34] [https://files.ttuwiki.org/RDER13_20160919.png|RDER13] [https://files.ttuwiki.org/RDER14_20160919.png|RDER14] [https://files.ttuwiki.org/RDER33_20160919.png|RDER33] [https://files.ttuwiki.org/RDER34_20160919.png|RDER34] [https://files.ttuwiki.org/RDER53_20160919.png|RDER53] [https://files.ttuwiki.org/RDER94_20160919.png|RDER94] [https://files.ttuwiki.org/RDIR13_20160919.png|RDIR13] [https://files.ttuwiki.org/RDIR14_20160919.png|RDIR14] [https://files.ttuwiki.org/RDIR53_20160919.png|RDIR53] [https://files.ttuwiki.org/RDKR34_20160919.png|RDKR34] [https://files.ttuwiki.org/RDKR74_20160919.png|RDKR74] [https://files.ttuwiki.org/RDPR13_20160919.png|RDPR13] [https://files.ttuwiki.org/RDPR14_20160919.png|RDPR14] [https://files.ttuwiki.org/RDPR53_20160919.png|RDPR53]##
 	
-username: Bot
+host: 82.131.7.144
