@@ -1,7 +1,3 @@
-lastmajorsummary: Timetables are now up to date
-summary: Timetables are now up to date
-lastmajor: 17
-minor: 
 text: 
 	#ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
@@ -32,9 +28,15 @@ text:
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-languages: 
-keep-ts: 1473765386
-ts: 1473765386
+lastmajor: 17
+flags: 
 revision: 17
+keep-ts: 1473765386
+lastmajorsummary: Timetables are now up to date
 host: 193.40.250.236
+languages: 
+blocks: 
+summary: Timetables are now up to date
+ts: 1473765386
 username: AlexDaniel
+minor: 

@@ -1,9 +1,10 @@
-revision: 6
-languages: 
-summary: another link
 minor: 
-lastmajorsummary: another link
+ip: 89.235.235.166
+revision: 6
+ts: 1474036589
+flags: 
 lastmajor: 6
+blocks: 
 text: #SUBTITLE Programmeerimiskeelte analüüs
 	#SUBURL [Course:106436 〔Õppeaine ÕIS-is〕]
 	
@@ -12,8 +13,9 @@ text: #SUBTITLE Programmeerimiskeelte analüüs
 	* http://ati.ttu.ee/wiki/index.php?title=IAG0450_-_Analysis_of_Programming_Languages
 	* http://ati.ttu.ee/~lembit/compilers
 	
-username: AlexDaniel
-ip: 89.235.235.166
-host: 193.40.250.237
-ts: 1474036589
 keep-ts: 1474036589
+host: 193.40.250.237
+languages: 
+lastmajorsummary: another link
+summary: another link
+username: AlexDaniel

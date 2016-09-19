@@ -1,6 +1,9 @@
-revision: 63
+username: AlexDaniel
+languages: 
+ts: 1473775829
 summary: Mention [GNU/Linux in Classrooms] page
 lastmajor: 63
+lastmajorsummary: Mention [GNU/Linux in Classrooms] page
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -237,10 +240,9 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+revision: 63
 keep-ts: 1473775829
-languages: 
 minor: 
-lastmajorsummary: Mention [GNU/Linux in Classrooms] page
-ts: 1473775829
-username: AlexDaniel
+blocks: 
+flags: 
 host: 193.40.250.236

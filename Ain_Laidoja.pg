@@ -1,12 +1,4 @@
-minor: 
-lastmajor: 60
-keep-ts: 1473728839
-username: AlexDaniel
-lastmajorsummary: Comment deleted :)
 summary: Comment deleted :)
-languages: 
-revision: 60
-host: 82.131.7.144
 text: #Minu Õppekava [[MASM02-09]] 
 	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
 	
@@ -23,4 +15,14 @@ text: #Minu Õppekava [[MASM02-09]]
 	[http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016.pdf Puidu ja põlevkivi koos-pürolüüs] * [http://www.tud.ttu.ee/web/Ain.Laidoja/puidu_ja_polevkivi_koos-pyrolyys_magistritoo_ain.laidoja_2016_esitlus.pdf Esitlus] *  [https://goo.gl/photos/uHphhEXNqtDtQKMT6 Fotod]
 	
 	
+blocks: 
+host: 82.131.7.144
+lastmajorsummary: Comment deleted :)
+minor: 
+username: AlexDaniel
+revision: 60
+lastmajor: 60
+languages: 
+keep-ts: 1473728839
 ts: 1473728839
+flags: 
