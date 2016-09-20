@@ -1,9 +1,13 @@
+revision: 2
+host: 85.253.108.27
 languages: 
-revision: 1
-username: AlexDaniel
-lastmajor: 1
-host: 82.131.4.24
-text: * https://pass.ttu.ee/
+lastmajor: 2
+minor: 
+ts: 1474386719
+summary: Page refactoring
+text: == Subdomains
+	
+	* https://pass.ttu.ee/
 	* http://sise.ttu.ee/
 	* https://home.ttu.ee/ - Всё, кроме публичной папки (Webikodu). Для доступа к ней используйте sftp.
 	* {{{sftp://sftp.ttu.ee/}}}
@@ -18,23 +22,28 @@ text: * https://pass.ttu.ee/
 	
 	
 	
-	\\\\
-	А также несколько веб-камер:
-	* http://webcam1.ttu.ee - не работает, но домен есть.
-	* http://webcam2.ttu.ee
-	* http://webcam3.ttu.ee - не работает, но домен есть.
-	* http://www.robotiklubi.ee/kaamera
-	* [[http://193.40.245.129 U05-305]] -  следующие ссылки взяты [[http://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ отсюда]] (если просит залогиниться, то логин user, пароль пустой)
-	* [[http://193.40.245.131 U05-115]]
+	== Webcams
+	
+	== Functional
+	If it asks you to login, use login **user** and empty password. Most of these links are taken from [[https://www.ttu.ee/mehaanikateaduskond/mehhatroonikainstituut/tudengile-18/veebikaamerad-instituudis/ here]].
 	* [[http://193.40.245.158 U05-302]]
 	* [[http://193.40.245.180 U05-303]]
 	* [[http://193.40.245.179 U05-304]]
+	* [[http://193.40.245.129 U05-305]]
 	* [[http://193.40.245.143 U05-306]]
-	* [[http://193.40.245.181 U05-307]]
 	* [[http://193.40.245.132 Vb-006]]
+	
+	* http://webcam2.ttu.ee
+	
+	== Not working
+	* http://webcam1.ttu.ee
+	* http://webcam3.ttu.ee
+	* http://www.robotiklubi.ee/kaamera
+	
+	* [[http://193.40.245.131 U05-115]]
+	* [[http://193.40.245.181 U05-307]]
 	* [[http://193.40.245.182 Vb-201]]
 	
-lastmajorsummary: Moved
-ts: 1444779275
-summary: Moved
-minor: 
+username: AlexDaniel
+keep-ts: 1474386719
+lastmajorsummary: Page refactoring
