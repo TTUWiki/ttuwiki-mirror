@@ -1,10 +1,3 @@
-host: 85.253.108.27
-keep-ts: 1474342417
-ts: 1474342417
-lastmajorsummary: link to Source
-summary: link to Source
-username: AlexDaniel
-minor: 
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -87,7 +80,7 @@ text: === This wiki / Veebilehest / О сайте:
 	=== Professors / Õppejõud / Преподаватели
 	#ENG
 	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - contact information, CVs, research papers
-	* [[https://oppejoud.ee/]] - students' opinions
+	* [[https://professors.ee/]] - students' opinions
 	
 	#EST
 	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - kontakt, CV-d, publikatsioonid
@@ -244,6 +237,13 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+lastmajorsummary: https://professors.ee instead of https://oppejoud.ee/ in English translation
 languages: 
-lastmajor: 64
-revision: 64
+lastmajor: 65
+keep-ts: 1474395721
+minor: 
+revision: 65
+username: AlexDaniel
+summary: https://professors.ee instead of https://oppejoud.ee/ in English translation
+host: 85.253.108.27
+ts: 1474395721
