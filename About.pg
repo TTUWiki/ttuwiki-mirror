@@ -1,3 +1,7 @@
+summary: Links to sources are now on a separate page
+flags: 0
+keep-ts: 1474341733
+username: AlexDaniel
 text: #ENG
 	This website was created to save time of the students, because we often waste it for searching for the required information. Same questions were asked every semester, because there was no place where these questions could be recorded and structured.
 	
@@ -7,8 +11,7 @@ text: #ENG
 	
 	There are no ads on this website and there **never will be**. Also, there never will be any other paid services. University is not a place for commercial activities!
 	
-	The source code of this website is published on [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. It is distributed under the same license as [[https://oddmuse.org/ Oddmuse]], which is [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
-	
+	**This wiki is free software: [[Source]]**
 	
 	#RUS
 	Этот сайт был создан для того, чтобы сохранить время студентов, которое мы тратим на поиск информации. Многие вопросы задаются из года в год, так как не существовало места, где эти вопросы бы сохранялись и структурировались.
@@ -19,17 +22,13 @@ text: #ENG
 	
 	На этом сайте нет рекламы и **никогда не будет**. Так же тут не будет какого-либо другого платного функционала. В связанных с университетом делах нет места коммерции!
 	
-	Исходники этого сайта выложены на [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. Распространяются под той же лицензией, что и [[https://oddmuse.org/ Oddmuse]], то есть [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
+	**Ссылки на исходники этой вики на странице [[Source]].**
 	
-username: AlexDaniel
-lastmajorsummary: About this wiki
-minor: 1
-ts: 1445213978
-revision: 2
-languages: 
-lastmajor: 1
-flags: 0
-keep-ts: 1445213978
+lastmajorsummary: Links to sources are now on a separate page
+lastmajor: 3
+minor: 
+ts: 1474341733
+host: 85.253.108.27
+revision: 3
 blocks: </div></div>
-host: 85.253.53.160
-summary: site -> website
+languages: 

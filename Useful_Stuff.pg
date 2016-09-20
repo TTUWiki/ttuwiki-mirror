@@ -1,12 +1,14 @@
+host: 85.253.108.27
+keep-ts: 1474342417
+ts: 1474342417
+lastmajorsummary: link to Source
+summary: link to Source
 username: AlexDaniel
-languages: 
-ts: 1473775829
-summary: Mention [GNU/Linux in Classrooms] page
-lastmajor: 63
-lastmajorsummary: Mention [GNU/Linux in Classrooms] page
+minor: 
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
+	* [[Source]] – source code
 	* [[News]] – what's new on this website
 	* [[Formatting]] – all about wikitext
 	* [[Template]] – simple template for writing course pages
@@ -17,6 +19,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	#EST
 	* [[About|Veebilehest]] – info sellest veebilehest
+	* [[Source|Lähtekood]]
 	* [[News|Uudised]] – veebilehe uudised
 	* [[Formatting|Redigeerimine]] – Selle veebilehe võimalustest
 	* [[Template|Mall]] – Uute lehekülgede loomiseks
@@ -28,6 +31,7 @@ text: === This wiki / Veebilehest / О сайте:
 	 
 	#RUS
 	* [[About|О сайте]] – информация об этом сайте
+	* [[Source|Исходники]] – исходный код этого сайта
 	* [[News|Новости]] – новости сайта
 	* [[Formatting|Редактирование]] – про возможности этого сайта
 	* [[Template|Шаблон]] – для создания новых страниц
@@ -240,9 +244,6 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-revision: 63
-keep-ts: 1473775829
-minor: 
-blocks: 
-flags: 
-host: 193.40.250.236
+languages: 
+lastmajor: 64
+revision: 64

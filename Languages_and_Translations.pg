@@ -1,6 +1,9 @@
-minor: 
-summary: Some information about translations
-host: 85.253.177.126
+username: AlexDaniel
+host: 85.253.108.27
+ts: 1474385567
+languages: 
+revision: 2
+summary: 
 text: This website was started as a Russian wiki, but due to high demand multilingual functionality was added.
 	
 	This raised a couple of problems because it was highly unwanted to introduce extra complexity to the interface.
@@ -89,13 +92,11 @@ text: This website was started as a Russian wiki, but due to high demand multili
 	**These recommendations are for advanced contributors. As a regular user you should not worry about these things.**
 	
 	* If you speak several languages equally then please prefer **English**. Estonian, Russian, and international students have no problems reading English text. For that reason this website defaults to English in various places.
-	* Page names should be in English unless the page content is language-specific. E.g. it is OK to have a page called “Список предметов на русском языке”
+	* Page names should be in English unless the page content is language-specific. For example, it is OK to have a page called “Список предметов на русском языке”
 	* If some section has to be translated but nobody is willing to write a translation then just put a language tag to this section. This will turn on the language buttons and missing translations will be shining red. Perhaps that will give some motivation to other contributors.
 	* You can close some section spontaneously (far before the heading) by using {{{#LANG_END}}} tag. This should not be required most of the time.
 	
-lastmajorsummary: Some information about translations
-ts: 1454911807
-languages: 
+keep-ts: 1474385567
+minor: 1
 lastmajor: 1
-username: AlexDaniel
-revision: 1
+lastmajorsummary: Some information about translations

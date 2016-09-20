@@ -1,12 +1,8 @@
-summary: Automatic Update
-username: Bot
-ts: 1473762063
-flags: 0
-revision: 8
+blocks: 
+keep-ts: 1473762063
 minor: 
-lastmajor: 8
-blocks: </div></div>
 host: 193.40.250.236
+summary: Automatic Update
 text: [:Timetables (Full-time studies)]
 	
 	=== Full-time studies / Statsionaarõpe / Стационарное обучение
@@ -36,6 +32,10 @@ text: [:Timetables (Full-time studies)]
 	==== Y-matemaatika-loodusteaduskond 
 	##[https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46815|YADM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46245|YADM31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46906|YAEB11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46907|YAEB12] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46908|YAEB13] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46355|YAEB31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46356|YAEB32] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46962|YAEM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46963|YAEM12] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46254|YAEM31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46255|YAEM32] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=47359|YAFB11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45694|YAFB31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45685|YAFB51] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=47239|YAFM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=47156|YAGB11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45477|YAGB31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45486|YAGB51] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46494|YAGM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45828|YAGM31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45531|YAMB51] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46998|YASB11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46172|YASB31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45641|YASB51] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=47285|YASM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=45837|YASM31] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=47331|YVEM11] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=1&a=1&q=1&b=1&c=-1&d=-1&e=-1&e_sem=181&g=46037|YVEM31]##
 	
-keep-ts: 1473762063
+flags: 
 languages: 
 lastmajorsummary: Automatic Update
+lastmajor: 8
+ts: 1473762063
+username: Bot
+revision: 8

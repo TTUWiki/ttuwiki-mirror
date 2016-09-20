@@ -1,0 +1,17 @@
+minor: 
+ts: 1474341758
+blocks: </div></div>
+text: #ENG
+	The source code of this website is published on [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. It is distributed under the same license as [[https://oddmuse.org/ Oddmuse]], which is [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
+	
+	#RUS
+	Исходники этого сайта выложены на [[https://github.com/TTUWiki/ttuwiki-website GitHub]]. Распространяются под той же лицензией, что и [[https://oddmuse.org/ Oddmuse]], то есть [[http://www.gnu.org/licenses/quick-guide-gplv3.en.html GPLv3]].
+	
+revision: 1
+lastmajorsummary: Separate page (because every free software project should have a “Source” page)
+host: 85.253.108.27
+flags: 0
+username: AlexDaniel
+summary: Separate page (because every free software project should have a “Source” page)
+lastmajor: 1
+languages: 
