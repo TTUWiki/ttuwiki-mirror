@@ -1,7 +1,4 @@
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
 text: #SUBTITLE Organisatsiooni arendamine ja muutuste juhtimine
 	#SUBURL [Course:101121 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +14,14 @@ text: #SUBTITLE Organisatsiooni arendamine ja muutuste juhtimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:101121 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 username: AlexDaniel
-flags: 1
-minor: 1
-keep-ts: 1441924451
+host: 82.131.7.230
 ts: 1441924451
+revision: 4
+lastmajor: 2
+minor: 1
+blocks: [Course:101121 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451
+flags: 10

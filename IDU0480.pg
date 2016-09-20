@@ -1,32 +1,9 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924447
-flags: 10
-lastmajor: 2
-revision: 4
-languages: 
-host: 82.131.7.230
-blocks: [Course:108617 〔Õppeaine ÕIS-is〕]</div></div>
+summary: Fix placeholder
 minor: 1
-keep-ts: 1441924447
+blocks: [Course:108617 〔Õppeaine ÕIS-is〕]</div></div>
+host: 85.253.108.27
 text: #SUBTITLE Küberturbe põhialused
 	#SUBURL [Course:108617 〔Õppeaine ÕIS-is〕]
-	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
 	
 	#ENG
 	This page is empty, you can help out the next person by filling in what you know.
@@ -39,11 +16,11 @@ text: #SUBTITLE Küberturbe põhialused
 	
 	#LANG_END
 	
-	
-	#LANG_END
-	
-	
-	#LANG_END
-	
-	
+revision: 5
+keep-ts: 1474390144
+flags: 10
+ts: 1474390144
+username: AlexDaniel
 ip: 89.235.235.166
+languages: 
+lastmajor: 2

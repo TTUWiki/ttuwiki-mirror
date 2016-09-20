@@ -1,10 +1,3 @@
-revision: 4
-minor: 1
-languages: 
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-lastmajor: 2
 text: #SUBTITLE Protsessitehnika infosüsteemide arendamisel - projekt
 	#SUBURL [Course:100769 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +13,15 @@ text: #SUBTITLE Protsessitehnika infosüsteemide arendamisel - projekt
 	#LANG_END
 	
 	
-flags: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
+revision: 4
+minor: 1
+lastmajor: 2
+blocks: [Course:100769 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
 keep-ts: 1441924447
-blocks: [Course:100769 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924447

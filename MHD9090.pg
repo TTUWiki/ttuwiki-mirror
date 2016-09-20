@@ -1,10 +1,8 @@
+host: 82.131.7.230
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
-host: 82.131.7.230
-keep-ts: 1441924448
-flags: 1
+minor: 1
+ts: 1441924448
 text: #SUBTITLE Kehade süsteemi dünaamika
 	#SUBURL [Course:100041 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +18,10 @@ text: #SUBTITLE Kehade süsteemi dünaamika
 	#LANG_END
 	
 	
-minor: 1
+revision: 4
+lastmajor: 2
 ip: 89.235.235.166
-ts: 1441924448
-blocks: [Course:100041 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+blocks: [Course:100041 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924448

@@ -1,9 +1,9 @@
-host: 82.131.7.230
-blocks: [Course:27091 〔Õppeaine ÕIS-is〕]
-revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
+revision: 4
+languages: 
+username: AlexDaniel
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Keemiatehnika alused
 	#SUBURL [Course:27091 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +19,9 @@ text: #SUBTITLE Keemiatehnika alused
 	#LANG_END
 	
 	
-username: AlexDaniel
 minor: 1
 ts: 1441924447
-languages: 
 ip: 89.235.235.166
 keep-ts: 1441924447
+blocks: [Course:27091 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
