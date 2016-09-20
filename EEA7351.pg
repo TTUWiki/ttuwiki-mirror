@@ -1,7 +1,18 @@
 username: AlexDaniel
 text: #SUBTITLE Arhitektuuri ja linnaehituse ajalugu 19.saj. teisest poolest tänapäevani
 	#SUBURL [Course:107071 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ts: 1441924445
 blocks: [Course:107071 〔Õppeaine ÕIS-is〕]

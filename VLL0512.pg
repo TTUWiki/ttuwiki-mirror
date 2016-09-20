@@ -5,7 +5,18 @@ languages:
 blocks: [Course:108913 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Merealane inglise keel L I/2
 	#SUBURL [Course:108913 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 revision: 2

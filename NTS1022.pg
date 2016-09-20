@@ -3,7 +3,18 @@ keep-ts: 1441924449
 blocks: [Course:101324 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Materjalide ringlus - projekt
 	#SUBURL [Course:101324 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166

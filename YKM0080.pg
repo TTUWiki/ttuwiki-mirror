@@ -4,7 +4,18 @@ host: 82.131.7.230
 lastmajor: 2
 text: #SUBTITLE Molekulaartootmine
 	#SUBURL [Course:105971 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

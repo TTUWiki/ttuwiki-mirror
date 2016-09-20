@@ -6,7 +6,18 @@ keep-ts: 1441924449
 username: AlexDaniel
 text: #SUBTITLE Väljendusõpetus
 	#SUBURL [Course:100684 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 blocks: [Course:100684 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230

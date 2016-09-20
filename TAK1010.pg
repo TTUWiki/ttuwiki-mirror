@@ -7,7 +7,18 @@ flags: 1
 username: AlexDaniel
 text: #SUBTITLE Strateegiline juhtimisarvestus ja kulujuhtimine
 	#SUBURL [Course:31084 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 lastmajor: 2
 ts: 1441924450

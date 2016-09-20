@@ -9,7 +9,18 @@ languages:
 blocks: [Course:103846 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Energiatõhusus ja selle majanduslik hindamine
 	#SUBURL [Course:103846 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ts: 1441924445
 revision: 4

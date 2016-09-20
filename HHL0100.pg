@@ -5,7 +5,18 @@ summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
 text: #SUBTITLE Riigi- ja haldusõigus
 	#SUBURL [Course:40238 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 blocks: [Course:40238 〔Õppeaine ÕIS-is〕]

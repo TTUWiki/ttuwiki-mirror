@@ -2,7 +2,18 @@ minor: 1
 revision: 4
 text: #SUBTITLE Võõrkeel halduskorralduses
 	#SUBURL [Course:103347 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 languages: 
 blocks: [Course:103347 〔Õppeaine ÕIS-is〕]

@@ -5,7 +5,18 @@ languages:
 revision: 4
 text: #SUBTITLE Rõivaste tootmistehnoloogia ja kvaliteedikontroll
 	#SUBURL [Course:101008 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ip: 89.235.235.166
 minor: 1

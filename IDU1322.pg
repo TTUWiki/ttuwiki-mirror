@@ -10,7 +10,18 @@ blocks: [Course:108463 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 text: #SUBTITLE Ettevõtte äriarhitektuur - projekt
 	#SUBURL [Course:108463 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 languages: 
 host: 82.131.7.230

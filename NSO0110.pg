@@ -9,7 +9,18 @@ languages:
 ts: 1441924448
 text: #SUBTITLE Läänemeri
 	#SUBURL [Course:105441 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 blocks: [Course:105441 〔Õppeaine ÕIS-is〕]
 minor: 1

@@ -3,7 +3,18 @@ minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Arhitektuurne projekt ÜII. Väike ühiskondlik hoone - paviljon
 	#SUBURL [Course:107162 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ts: 1441924445
 blocks: [Course:107162 〔Õppeaine ÕIS-is〕]

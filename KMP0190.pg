@@ -2,7 +2,18 @@ blocks: [Course:100341 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 text: #SUBTITLE Polümeeride füüsika ja mehaanika
 	#SUBURL [Course:100341 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 flags: 1
 languages: 

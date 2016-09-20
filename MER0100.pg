@@ -9,7 +9,18 @@ keep-ts: 1441924448
 ip: 89.235.235.166
 text: #SUBTITLE Arendustöö ja innovatsioon
 	#SUBURL [Course:100695 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 revision: 4

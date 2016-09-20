@@ -5,7 +5,18 @@ blocks: [Course:33397 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
 text: #SUBTITLE Statistika - ainetöö
 	#SUBURL [Course:33397 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 revision: 4
 ts: 1441924444

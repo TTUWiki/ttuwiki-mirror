@@ -4,7 +4,18 @@ username: AlexDaniel
 ts: 1441924452
 text: #SUBTITLE Isiklik ohutus ja ühiskondlik vastutus laevas ("Ellujäämine ekstreemsetes olukordades merel")
 	#SUBURL [Course:109009 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 host: 82.131.7.230
 blocks: [Course:109009 〔Õppeaine ÕIS-is〕]

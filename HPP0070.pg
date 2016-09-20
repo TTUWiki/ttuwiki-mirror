@@ -2,7 +2,18 @@ minor: 1
 flags: 1
 text: #SUBTITLE Kutse-eetika
 	#SUBURL [Course:103122 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 revision: 4
 lastmajor: 2

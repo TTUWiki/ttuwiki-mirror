@@ -6,7 +6,18 @@ host: 82.131.7.230
 revision: 2
 text: #SUBTITLE Geotehnika alused maastikuarhitektidele
 	#SUBURL [Course:109850 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 flags: 1
 languages: 

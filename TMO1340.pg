@@ -10,7 +10,18 @@ blocks: [Course:103407 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Teadmus- ja innovatsiooniprotsesside juhtimine
 	#SUBURL [Course:103407 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 lastmajor: 2

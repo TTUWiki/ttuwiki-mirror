@@ -1,16 +1,27 @@
-host: 82.131.7.230
+ts: 1441924447
+languages: 
 minor: 1
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108369 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Mikrokontrollerite programmeerimine C-keeles
 	#SUBURL [Course:108369 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
 	
-username: AlexDaniel
-flags: 1
-keep-ts: 1441924447
-ip: 89.235.235.166
-languages: 
-ts: 1441924447
-blocks: [Course:108369 〔Õppeaine ÕIS-is〕]
+	#LANG_END
+	
+	
 revision: 4
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+flags: 10
+username: AlexDaniel
+ip: 89.235.235.166

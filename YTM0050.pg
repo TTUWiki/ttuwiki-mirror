@@ -11,6 +11,17 @@ languages:
 blocks: [Course:29769 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Histoloogia ja koetehnoloogia
 	#SUBURL [Course:29769 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 lastmajor: 2

@@ -1,7 +1,18 @@
 ip: 89.235.235.166
 text: #SUBTITLE Tehisintellekti süsteemid internetis, semantiline võrk II
 	#SUBURL [Course:32963 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 flags: 1
 username: AlexDaniel

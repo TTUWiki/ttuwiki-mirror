@@ -6,7 +6,18 @@ ip: 89.235.235.166
 minor: 1
 text: #SUBTITLE Filosoofia ja loogika
 	#SUBURL [Course:108158 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 languages: 
 flags: 1

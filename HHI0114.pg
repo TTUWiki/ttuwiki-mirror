@@ -1,7 +1,18 @@
 languages: 
 text: #SUBTITLE Ettevõtlus ja tehnoloogia juhtimine
 	#SUBURL [Course:108526 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 blocks: [Course:108526 〔Õppeaine ÕIS-is〕]
 flags: 1

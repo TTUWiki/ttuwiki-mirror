@@ -5,7 +5,18 @@ flags: 1
 minor: 1
 text: #SUBTITLE Üldine ja füüsikaline geoloogia
 	#SUBURL [Course:37137 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 blocks: [Course:37137 〔Õppeaine ÕIS-is〕]

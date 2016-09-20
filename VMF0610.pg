@@ -4,7 +4,18 @@ username: AlexDaniel
 minor: 1
 text: #SUBTITLE Kalapüügi bioloogilised alused ja kalapüügitehnoloogia
 	#SUBURL [Course:110181 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ts: 1441924452
 blocks: [Course:110181 〔Õppeaine ÕIS-is〕]

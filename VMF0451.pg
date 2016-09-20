@@ -3,7 +3,18 @@ host: 82.131.7.230
 blocks: [Course:109173 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kalakasvatus ja kalavarude rikastamine I
 	#SUBURL [Course:109173 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 username: AlexDaniel
 revision: 2

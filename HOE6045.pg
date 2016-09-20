@@ -4,7 +4,18 @@ minor: 1
 languages: 
 text: #SUBTITLE Tsiviilõiguse üldosa
 	#SUBURL [Course:108215 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 blocks: [Course:108215 〔Õppeaine ÕIS-is〕]
 lastmajor: 2

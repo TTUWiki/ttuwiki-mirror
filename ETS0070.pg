@@ -4,7 +4,18 @@ revision: 4
 minor: 1
 text: #SUBTITLE Sildade erikursus
 	#SUBURL [Course:38252 〔Õppeaine ÕIS-is〕]
+	
+	#ENG
+	This page is empty, you can help out the next person by filling in what you know.
+	
+	#EST
+	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
+	
+	#LANG_END
+	
 	
 ts: 1441924445
 username: AlexDaniel
