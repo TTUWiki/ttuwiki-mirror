@@ -1,8 +1,10 @@
-lastmajor: 25
-minor: 
-keep-ts: 1474024666
 username: Marjana Voronina
 languages: 
+revision: 26
+summary: my team TMJ3331
+host: 85.253.108.27
+lastmajorsummary: my team TMJ3331
+lastmajor: 26
 text: ==My study plan
 	===2016 fall
 	
@@ -19,7 +21,7 @@ text: ==My study plan
 	**[[ITI8610]] Tarkvara töökindlus**
 	
 	
-	My DreamTeam:
+	My Team:
 	
 	*163582
 	*163305
@@ -28,13 +30,21 @@ text: ==My study plan
 	*162967
 	*153077
 	
+	**[[TMJ3331]] Ettevõtlus ja äri planeerimine**
+	
+	My Team:
+	*163582
+	*163303
+	*162942
+	*162967
+	
+	
+	
 	**[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid**
 	
 	http://www.jaapsch.net/puzzles/tantrix.htm
 	
 	
-lastmajorsummary: tantrix
-revision: 25
-summary: tantrix
-host: 193.40.250.232
-ts: 1474024666
+minor: 
+ts: 1474390101
+keep-ts: 1474390101
