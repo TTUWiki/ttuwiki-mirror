@@ -1,16 +1,10 @@
-summary: IAG0420 is nonsense. Taking ISP0051 instead.
-keep-ts: 1473246477
-minor: 
-lastmajor: 22
-username: AlexDaniel
-languages: 
+ts: 1474411631
 ip: 89.235.239.240
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
 	== My study plan (2016 Autumn)
-	**Subject to change!**
 	
 	| [[IBX0060]] |Robotics |
 	| [[IAF0320]] |Computer Systems Engineering |
@@ -28,7 +22,12 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
-revision: 22
-lastmajorsummary: IAG0420 is nonsense. Taking ISP0051 instead.
-ts: 1473246477
-host: 193.40.250.230
+host: 85.253.108.27
+lastmajorsummary: No longer subject to change. That's what I declared.
+minor: 
+username: AlexDaniel
+lastmajor: 23
+summary: No longer subject to change. That's what I declared.
+revision: 23
+keep-ts: 1474411631
+languages: 
