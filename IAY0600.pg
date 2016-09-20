@@ -1,13 +1,13 @@
-summary: another course link
-username: 
+flags: 1
 ts: 1473837746
-revision: 6
-flags: 0
-ip: 89.235.235.166
+keep-ts: 1473837746
 minor: 
 lastmajor: 6
-blocks: </div></div>
+summary: another course link
 languages: 
+host: 217.71.45.116
+username: 
+ip: 89.235.235.166
 text: #SUBTITLE Digitaalsüsteemide disain
 	#SUBURL [Course:100813 〔Õppeaine ÕIS-is〕]
 	
@@ -15,6 +15,6 @@ text: #SUBTITLE Digitaalsüsteemide disain
 	* http://ati.ttu.ee/~alsu/IAY0600.html
 	* http://ati.ttu.ee/~alsu/IAY0600l.html
 	
-keep-ts: 1473837746
-host: 217.71.45.116
+blocks: [Course:100813 〔Õppeaine ÕIS-is〕]
 lastmajorsummary: another course link
+revision: 6

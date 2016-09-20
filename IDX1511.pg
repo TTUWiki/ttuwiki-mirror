@@ -1,4 +1,14 @@
+username: Marjana Voronina
+ts: 1474268967
+host: 193.40.250.232
 revision: 5
+summary: 
+languages: 
+keep-ts: 1474268967
+minor: 
+flags: 1
+lastmajorsummary: 
+blocks: [Course:110066 〔Õppeaine ÕIS-is〕]
 lastmajor: 5
 text: #SUBTITLE Tarkvara protsessid ja kvaliteet
 	#SUBURL [Course:110066 〔Õppeaine ÕIS-is〕]
@@ -10,11 +20,3 @@ text: #SUBTITLE Tarkvara protsessid ja kvaliteet
 	http://tepandi.ee/tks-loeng.pdf (114 pages)
 	http://tepandi.ee/tks-korraldus.pdf (14 pages)
 	
-host: 193.40.250.232
-ts: 1474268967
-summary: 
-keep-ts: 1474268967
-minor: 
-username: Marjana Voronina
-lastmajorsummary: 
-languages: 
