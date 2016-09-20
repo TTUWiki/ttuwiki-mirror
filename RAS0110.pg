@@ -1,7 +1,13 @@
 ts: 1441924450
-flags: 1
-host: 82.131.7.230
+blocks: [Course:105592 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
 minor: 1
+flags: 10
+lastmajor: 2
+host: 82.131.7.230
+revision: 4
+ip: 89.235.235.166
 languages: 
 text: #SUBTITLE Kütusetööstuse protsesside juhtimine
 	#SUBURL [Course:105592 〔Õppeaine ÕIS-is〕]
@@ -18,10 +24,4 @@ text: #SUBTITLE Kütusetööstuse protsesside juhtimine
 	#LANG_END
 	
 	
-lastmajor: 2
 username: AlexDaniel
-blocks: [Course:105592 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-revision: 4

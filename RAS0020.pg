@@ -1,13 +1,8 @@
-minor: 1
-languages: 
-blocks: [Course:105554 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924450
+lastmajor: 2
+blocks: [Course:105554 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
-keep-ts: 1441924450
+flags: 10
+minor: 1
 text: #SUBTITLE Orgaanilise keemia erikursus
 	#SUBURL [Course:105554 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +18,10 @@ text: #SUBTITLE Orgaanilise keemia erikursus
 	#LANG_END
 	
 	
-lastmajor: 2
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ts: 1441924450
 revision: 4
+ip: 89.235.235.166
+languages: 

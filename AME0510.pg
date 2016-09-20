@@ -1,6 +1,12 @@
-minor: 1
-flags: 1
+host: 82.131.7.230
 ts: 1441924444
+revision: 4
+lastmajor: 2
+minor: 1
+username: AlexDaniel
+languages: 
+ip: 89.235.235.166
+blocks: [Course:103827 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Elektrienergia säästlik kasutamine hoonetes
 	#SUBURL [Course:103827 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Elektrienergia säästlik kasutamine hoonetes
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-lastmajor: 2
-languages: 
-revision: 4
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:103827 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924444
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

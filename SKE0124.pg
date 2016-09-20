@@ -1,8 +1,7 @@
-revision: 2
-username: AlexDaniel
-languages: 
-keep-ts: 1441924450
+blocks: [Course:109386 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924450
+languages: 
+minor: 1
 text: #SUBTITLE Uurimistöö alused
 	#SUBURL [Course:109386 〔Õppeaine ÕIS-is〕]
 	
@@ -18,6 +17,9 @@ text: #SUBTITLE Uurimistöö alused
 	#LANG_END
 	
 	
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 10
+keep-ts: 1441924450
+revision: 2
+host: 82.131.7.230
+username: AlexDaniel

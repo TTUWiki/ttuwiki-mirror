@@ -1,12 +1,5 @@
-flags: 1
-blocks: [Course:36934 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
 revision: 4
-lastmajor: 2
-languages: 
-keep-ts: 1441924450
-ip: 89.235.235.166
-host: 82.131.7.230
-username: AlexDaniel
 text: #SUBTITLE Elektroonika alused - projekt
 	#SUBURL [Course:36934 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Elektroonika alused - projekt
 	#LANG_END
 	
 	
-ts: 1441924450
+keep-ts: 1441924450
+username: AlexDaniel
+blocks: [Course:36934 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+languages: 
+ip: 89.235.235.166
+flags: 10
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

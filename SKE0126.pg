@@ -1,12 +1,3 @@
-ts: 1441924450
-keep-ts: 1441924450
-username: AlexDaniel
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-blocks: [Course:109403 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Teenuste turundus
 	#SUBURL [Course:109403 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +13,13 @@ text: #SUBTITLE Teenuste turundus
 	#LANG_END
 	
 	
-flags: 1
+revision: 2
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+username: AlexDaniel
+keep-ts: 1441924450
+languages: 
+host: 82.131.7.230
+flags: 10
+blocks: [Course:109403 〔Õppeaine ÕIS-is〕]</div></div>

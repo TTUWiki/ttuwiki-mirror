@@ -1,13 +1,3 @@
-revision: 4
-languages: 
-keep-ts: 1441924446
-blocks: [Course:102265 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
-minor: 1
-ip: 89.235.235.166
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Soome õigussüsteem
 	#SUBURL [Course:102265 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +13,15 @@ text: #SUBTITLE Soome õigussüsteem
 	#LANG_END
 	
 	
-username: AlexDaniel
+flags: 10
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102265 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924446
+languages: 
+revision: 4
+keep-ts: 1441924446
+username: AlexDaniel
+minor: 1
+host: 82.131.7.230
+ip: 89.235.235.166

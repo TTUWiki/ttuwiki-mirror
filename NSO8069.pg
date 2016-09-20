@@ -1,6 +1,9 @@
-username: AlexDaniel
-languages: 
-lastmajor: 2
+blocks: [Course:105508 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
+ts: 1441924448
+revision: 4
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kaasaegsed eksperimentaaltööd okeanograafias
 	#SUBURL [Course:105508 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Kaasaegsed eksperimentaaltööd okeanograafias
 	#LANG_END
 	
 	
-ts: 1441924448
-keep-ts: 1441924448
 host: 82.131.7.230
+languages: 
+username: AlexDaniel
+flags: 10
+lastmajor: 2
 minor: 1
-revision: 4
-ip: 89.235.235.166
-blocks: [Course:105508 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1

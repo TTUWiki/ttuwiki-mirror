@@ -1,12 +1,14 @@
-ts: 1441924446
-blocks: [Course:104944 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
 keep-ts: 1441924446
-flags: 1
+flags: 10
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:104944 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924446
+host: 82.131.7.230
+revision: 4
 lastmajor: 2
+ip: 89.235.235.166
 minor: 1
 text: #SUBTITLE Kriisikommunikatsioon
 	#SUBURL [Course:104944 〔Õppeaine ÕIS-is〕]
@@ -23,5 +25,3 @@ text: #SUBTITLE Kriisikommunikatsioon
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4

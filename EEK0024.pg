@@ -1,5 +1,7 @@
-minor: 1
-host: 82.131.7.230
+keep-ts: 1441924445
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Betoonkonstruktsioonid I - projekt
 	#SUBURL [Course:105068 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +17,11 @@ text: #SUBTITLE Betoonkonstruktsioonid I - projekt
 	#LANG_END
 	
 	
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+minor: 1
 revision: 4
+ip: 89.235.235.166
 ts: 1441924445
-blocks: [Course:105068 〔Õppeaine ÕIS-is〕]
-flags: 1
+blocks: [Course:105068 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+username: AlexDaniel
+host: 82.131.7.230

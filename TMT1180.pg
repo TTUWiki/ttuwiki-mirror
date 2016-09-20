@@ -1,4 +1,6 @@
-ts: 1441924451
+ip: 89.235.235.166
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Tööelu kvaliteedi juhtimine
 	#SUBURL [Course:103286 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +16,12 @@ text: #SUBTITLE Tööelu kvaliteedi juhtimine
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+ts: 1441924451
 keep-ts: 1441924451
 languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
 revision: 4
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 username: AlexDaniel
-blocks: [Course:103286 〔Õppeaine ÕIS-is〕]
+blocks: [Course:103286 〔Õppeaine ÕIS-is〕]</div></div>

@@ -1,5 +1,6 @@
-flags: 1
 username: AlexDaniel
+flags: 10
+lastmajor: 2
 text: #SUBTITLE Mikroprotsessortehnika - praktikum
 	#SUBURL [Course:31115 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Mikroprotsessortehnika - praktikum
 	#LANG_END
 	
 	
-keep-ts: 1441924443
-revision: 4
-ts: 1441924443
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:31115 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+keep-ts: 1441924443
 minor: 1
-ip: 89.235.235.166
+blocks: [Course:31115 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
+ip: 89.235.235.166
+ts: 1441924443
 host: 82.131.7.230
+revision: 4

@@ -1,9 +1,9 @@
-host: 82.131.7.230
-blocks: [Course:33567 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-lastmajor: 2
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 4
+ip: 89.235.235.166
+blocks: [Course:33567 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Inglise keel II
 	#SUBURL [Course:33567 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +19,9 @@ text: #SUBTITLE Inglise keel II
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
+host: 82.131.7.230
+lastmajor: 2
+keep-ts: 1441924444
+languages: 
 ts: 1441924444
-revision: 4
 username: AlexDaniel
-ip: 89.235.235.166

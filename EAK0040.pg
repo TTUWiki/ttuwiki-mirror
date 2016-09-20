@@ -1,11 +1,10 @@
 keep-ts: 1441924444
 username: AlexDaniel
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-flags: 1
-blocks: [Course:109969 〔Õppeaine ÕIS-is〕]
+flags: 10
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE Arhitekt, arhitektuur ja eetika
 	#SUBURL [Course:109969 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +20,6 @@ text: #SUBTITLE Arhitekt, arhitektuur ja eetika
 	#LANG_END
 	
 	
-minor: 1
+revision: 2
+blocks: [Course:109969 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924444

@@ -1,14 +1,12 @@
-keep-ts: 1441924444
-username: AlexDaniel
-languages: 
 minor: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-flags: 1
-ts: 1441924444
+username: AlexDaniel
 ip: 89.235.235.166
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924444
+flags: 10
+blocks: [Course:33555 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Inglise ärikeel II
 	#SUBURL [Course:33555 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Inglise ärikeel II
 	#LANG_END
 	
 	
-blocks: [Course:33555 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
+ts: 1441924444

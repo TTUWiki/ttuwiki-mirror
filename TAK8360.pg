@@ -1,12 +1,8 @@
-languages: 
-flags: 1
-keep-ts: 1441924450
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
 revision: 4
-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+lastmajor: 2
+flags: 10
 text: #SUBTITLE Kuluarvestus ja eelarvestamine
 	#SUBURL [Course:100792 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +18,10 @@ text: #SUBTITLE Kuluarvestus ja eelarvestamine
 	#LANG_END
 	
 	
-blocks: [Course:100792 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 username: AlexDaniel
+ts: 1441924450
+keep-ts: 1441924450
+ip: 89.235.235.166
+blocks: [Course:100792 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+host: 82.131.7.230

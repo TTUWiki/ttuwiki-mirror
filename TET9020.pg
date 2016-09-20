@@ -1,4 +1,15 @@
-blocks: [Course:32999 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+revision: 4
+ts: 1441924450
+username: AlexDaniel
+lastmajor: 2
+blocks: [Course:32999 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheline kaubandus ja rahandus
 	#SUBURL [Course:32999 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,3 @@ text: #SUBTITLE Rahvusvaheline kaubandus ja rahandus
 	#LANG_END
 	
 	
-host: 82.131.7.230
-revision: 4
-lastmajor: 2
-ts: 1441924450
-languages: 
-ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924450
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1

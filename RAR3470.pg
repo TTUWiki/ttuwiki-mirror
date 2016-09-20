@@ -1,5 +1,10 @@
 host: 82.131.7.230
-username: AlexDaniel
+flags: 10
+blocks: [Course:34244 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924450
+ip: 89.235.235.166
+revision: 4
+languages: 
 text: #SUBTITLE Tootmistehnika alused
 	#SUBURL [Course:34244 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Tootmistehnika alused
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:34244 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 minor: 1
-revision: 4
-languages: 
-ip: 89.235.235.166
-flags: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-keep-ts: 1441924450
