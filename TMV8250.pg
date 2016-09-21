@@ -1,12 +1,4 @@
-blocks: [Course:33901 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
 host: 82.131.7.230
-keep-ts: 1441924451
-minor: 1
-revision: 4
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
 text: #SUBTITLE Väike- ja keskmise ettevõtluse organiseerimine
 	#SUBURL [Course:33901 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +14,14 @@ text: #SUBTITLE Väike- ja keskmise ettevõtluse organiseerimine
 	#LANG_END
 	
 	
-lastmajor: 2
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924451
+blocks: [Course:33901 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
+ts: 1441924451
+flags: 10

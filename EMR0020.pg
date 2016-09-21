@@ -1,9 +1,11 @@
-host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
-username: AlexDaniel
+languages: 
 lastmajor: 2
+blocks: [Course:31643 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
+flags: 10
 text: #SUBTITLE Dünaamika
 	#SUBURL [Course:31643 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +21,7 @@ text: #SUBTITLE Dünaamika
 	#LANG_END
 	
 	
-revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
 minor: 1
-keep-ts: 1441924445
-flags: 1
-blocks: [Course:31643 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

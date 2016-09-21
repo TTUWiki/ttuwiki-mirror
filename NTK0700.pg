@@ -1,8 +1,15 @@
-lastmajor: 2
-flags: 1
-ip: 89.235.235.166
+languages: 
+ts: 1441924449
 keep-ts: 1441924449
 minor: 1
+blocks: [Course:39179 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+flags: 10
 text: #SUBTITLE Rahvuslik ja rahvusvaheline majandusareng
 	#SUBURL [Course:39179 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +25,3 @@ text: #SUBTITLE Rahvuslik ja rahvusvaheline majandusareng
 	#LANG_END
 	
 	
-blocks: [Course:39179 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-ts: 1441924449
-username: AlexDaniel
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

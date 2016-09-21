@@ -1,9 +1,7 @@
-lastmajor: 2
-username: AlexDaniel
-flags: 1
-host: 82.131.7.230
-revision: 4
-blocks: [Course:31647 〔Õppeaine ÕIS-is〕]
+flags: 10
+ip: 89.235.235.166
+keep-ts: 1441924445
+blocks: [Course:31647 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Pideva keskkonna mehaanika
 	#SUBURL [Course:31647 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +17,11 @@ text: #SUBTITLE Pideva keskkonna mehaanika
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924445
 minor: 1
+host: 82.131.7.230
+revision: 4
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
-ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2

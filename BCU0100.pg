@@ -1,13 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-username: AlexDaniel
-host: 82.131.7.230
 languages: 
-keep-ts: 1441924444
-revision: 4
-flags: 1
-minor: 1
-lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Äriõigus
 	#SUBURL [Course:33393 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +15,13 @@ text: #SUBTITLE Äriõigus
 	#LANG_END
 	
 	
-blocks: [Course:33393 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924444
+lastmajor: 2
+minor: 1
+flags: 10
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:33393 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4

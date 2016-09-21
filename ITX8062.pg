@@ -1,10 +1,13 @@
-flags: 1
-host: 82.131.7.230
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101183 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+revision: 4
 minor: 1
-lastmajor: 2
+languages: 
+ip: 89.235.235.166
+blocks: [Course:101183 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
 text: #SUBTITLE Infosüsteemide massründed ja kaitse
 	#SUBURL [Course:101183 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +24,4 @@ text: #SUBTITLE Infosüsteemide massründed ja kaitse
 	
 	
 username: AlexDaniel
-languages: 
-ts: 1441924447
-ip: 89.235.235.166
-revision: 4
+lastmajor: 2

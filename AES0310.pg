@@ -1,5 +1,9 @@
+keep-ts: 1441924444
 lastmajor: 2
 languages: 
+flags: 10
+blocks: [Course:101722 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 text: #SUBTITLE Infosüsteemid energeetikas
 	#SUBURL [Course:101722 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Infosüsteemid energeetikas
 	
 ip: 89.235.235.166
 revision: 4
-blocks: [Course:101722 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-host: 82.131.7.230
-flags: 1
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 username: AlexDaniel
+ts: 1441924444
+minor: 1

@@ -1,9 +1,12 @@
 host: 82.131.7.230
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-minor: 1
+blocks: [Course:33897 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+minor: 1
+lastmajor: 2
+revision: 4
+username: AlexDaniel
 text: #SUBTITLE Tööstuslik turundus
 	#SUBURL [Course:33897 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +23,5 @@ text: #SUBTITLE Tööstuslik turundus
 	
 	
 keep-ts: 1441924451
-ts: 1441924451
-languages: 
-flags: 1
-blocks: [Course:33897 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+languages: 

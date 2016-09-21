@@ -1,9 +1,10 @@
+languages: 
 lastmajor: 2
-revision: 4
+host: 82.131.7.230
+blocks: [Course:32961 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+ts: 1441924447
 ip: 89.235.235.166
-flags: 1
-username: AlexDaniel
-keep-ts: 1441924447
 text: #SUBTITLE Tehisintellekti süsteemid internetis, semantiline võrk I
 	#SUBURL [Course:32961 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Tehisintellekti süsteemid internetis, semantiline võrk I
 	#LANG_END
 	
 	
-ts: 1441924447
-host: 82.131.7.230
+username: AlexDaniel
+flags: 10
+keep-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:32961 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
+revision: 4

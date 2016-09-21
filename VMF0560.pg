@@ -1,12 +1,6 @@
-ts: 1441924452
-blocks: [Course:110176 〔Õppeaine ÕIS-is〕]
-minor: 1
-host: 82.131.7.230
-flags: 1
-languages: 
-revision: 2
-keep-ts: 1441924452
+blocks: [Course:110176 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
+ts: 1441924452
 text: #SUBTITLE Kalakäitlemise tehnoloogia
 	#SUBURL [Course:110176 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +16,10 @@ text: #SUBTITLE Kalakäitlemise tehnoloogia
 	#LANG_END
 	
 	
+languages: 
+revision: 2
+flags: 10
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+host: 82.131.7.230

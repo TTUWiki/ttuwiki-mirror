@@ -1,14 +1,12 @@
 host: 82.131.7.230
-ts: 1441924448
-languages: 
-ip: 89.235.235.166
-revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100543 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+lastmajor: 2
+revision: 4
 minor: 1
-keep-ts: 1441924448
-flags: 1
+languages: 
+ts: 1441924448
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Eriõppe projekt
 	#SUBURL [Course:100543 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Eriõppe projekt
 	#LANG_END
 	
 	
-lastmajor: 2
+keep-ts: 1441924448
+blocks: [Course:100543 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166

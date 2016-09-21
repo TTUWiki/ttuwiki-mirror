@@ -1,3 +1,7 @@
+host: 82.131.7.230
+keep-ts: 1441924444
+blocks: [Course:37821 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 text: #SUBTITLE Finantsarvestus
 	#SUBURL [Course:37821 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Finantsarvestus
 	#LANG_END
 	
 	
-ts: 1441924444
-ip: 89.235.235.166
 revision: 4
-host: 82.131.7.230
-blocks: [Course:37821 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-lastmajor: 2
-username: AlexDaniel
+ip: 89.235.235.166
 minor: 1
+ts: 1441924444
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
+flags: 10
+username: AlexDaniel

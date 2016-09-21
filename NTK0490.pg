@@ -1,12 +1,11 @@
-blocks: [Course:39107 〔Õppeaine ÕIS-is〕]
-revision: 4
-keep-ts: 1441924449
-ip: 89.235.235.166
+blocks: [Course:39107 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-lastmajor: 2
-flags: 1
-ts: 1441924449
 languages: 
+ts: 1441924449
+flags: 10
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Klimatoloogia
 	#SUBURL [Course:39107 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +21,7 @@ text: #SUBTITLE Klimatoloogia
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 username: AlexDaniel
+host: 82.131.7.230
+lastmajor: 2
+keep-ts: 1441924449

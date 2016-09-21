@@ -1,14 +1,15 @@
+minor: 1
+revision: 4
+keep-ts: 1441924445
+username: AlexDaniel
+languages: 
+ts: 1441924445
+flags: 10
+blocks: [Course:100307 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-ts: 1441924445
 host: 82.131.7.230
-languages: 
-keep-ts: 1441924445
-blocks: [Course:100307 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Fotogramm-meetria
 	#SUBURL [Course:100307 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Fotogramm-meetria
 	#LANG_END
 	
 	
-flags: 1

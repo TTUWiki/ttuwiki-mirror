@@ -1,4 +1,6 @@
-flags: 1
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Keskkonnamõjude hindamine ja keskkonnajuhtimissüsteem
 	#SUBURL [Course:109114 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +16,10 @@ text: #SUBTITLE Keskkonnamõjude hindamine ja keskkonnajuhtimissüsteem
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ts: 1441924452
-keep-ts: 1441924452
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-blocks: [Course:109114 〔Õppeaine ÕIS-is〕]
-minor: 1
 languages: 
+username: AlexDaniel
+keep-ts: 1441924452
+minor: 1
+revision: 2
+blocks: [Course:109114 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10

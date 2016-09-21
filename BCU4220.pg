@@ -1,14 +1,5 @@
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:107100 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924444
+languages: 
 lastmajor: 2
-host: 82.131.7.230
-ts: 1441924444
-minor: 1
 text: #SUBTITLE Tugevusõpetus
 	#SUBURL [Course:107100 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +15,13 @@ text: #SUBTITLE Tugevusõpetus
 	#LANG_END
 	
 	
-languages: 
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924444
+blocks: [Course:107100 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+minor: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 10

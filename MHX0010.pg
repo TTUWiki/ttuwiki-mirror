@@ -1,11 +1,7 @@
-ts: 1441924448
-minor: 1
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+username: AlexDaniel
+keep-ts: 1441924448
 text: #SUBTITLE Konstruktsioonielemendid
 	#SUBURL [Course:31391 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Konstruktsioonielemendid
 	#LANG_END
 	
 	
-username: AlexDaniel
-keep-ts: 1441924448
-host: 82.131.7.230
-blocks: [Course:31391 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 10
+revision: 4
+blocks: [Course:31391 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+minor: 1
+languages: 
+ip: 89.235.235.166

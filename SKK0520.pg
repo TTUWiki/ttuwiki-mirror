@@ -1,14 +1,13 @@
-host: 82.131.7.230
-ip: 89.235.235.166
-ts: 1441924450
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 minor: 1
-revision: 4
-keep-ts: 1441924450
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-blocks: [Course:39521 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924450
+keep-ts: 1441924450
+lastmajor: 2
+languages: 
+flags: 10
 text: #SUBTITLE Kvaliteedi ja tootlikkuse juhtimine
 	#SUBURL [Course:39521 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Kvaliteedi ja tootlikkuse juhtimine
 	#LANG_END
 	
 	
-flags: 1
+blocks: [Course:39521 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

@@ -1,5 +1,6 @@
-lastmajor: 2
-flags: 1
+ip: 89.235.235.166
+keep-ts: 1441924448
+flags: 10
 text: #SUBTITLE Polümeermaterjalide katsetamine
 	#SUBURL [Course:106917 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Polümeermaterjalide katsetamine
 	#LANG_END
 	
 	
-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230
-blocks: [Course:106917 〔Õppeaine ÕIS-is〕]
-revision: 4
+blocks: [Course:106917 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
 username: AlexDaniel
 minor: 1
-keep-ts: 1441924448
+lastmajor: 2
+revision: 4
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448

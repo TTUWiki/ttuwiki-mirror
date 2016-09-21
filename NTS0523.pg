@@ -1,11 +1,10 @@
-flags: 1
-blocks: [Course:101152 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 username: AlexDaniel
-lastmajor: 2
-ts: 1441924449
+blocks: [Course:101152 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924449
+languages: 
 text: #SUBTITLE Metallkonstruktsioonide projekteerimine I
 	#SUBURL [Course:101152 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,8 @@ text: #SUBTITLE Metallkonstruktsioonide projekteerimine I
 	#LANG_END
 	
 	
-revision: 4
-ip: 89.235.235.166
-keep-ts: 1441924449
+minor: 1
+ts: 1441924449
 host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2

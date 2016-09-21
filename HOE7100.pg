@@ -1,15 +1,9 @@
 languages: 
-revision: 4
 lastmajor: 2
 keep-ts: 1441924446
-username: AlexDaniel
-flags: 1
-minor: 1
-blocks: [Course:106154 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106154 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-host: 82.131.7.230
+revision: 4
 text: #SUBTITLE Külalisloengute sari: Õigus ja tehnoloogia praktikas
 	#SUBURL [Course:106154 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +19,9 @@ text: #SUBTITLE Külalisloengute sari: Õigus ja tehnoloogia praktikas
 	#LANG_END
 	
 	
+flags: 10
+minor: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+host: 82.131.7.230

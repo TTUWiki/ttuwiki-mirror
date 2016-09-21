@@ -1,14 +1,6 @@
-flags: 1
-minor: 1
-host: 82.131.7.230
-revision: 4
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924447
 keep-ts: 1441924447
-blocks: [Course:29830 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29830 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Infohankesüsteemid
 	#SUBURL [Course:29830 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Infohankesüsteemid
 	#LANG_END
 	
 	
+ts: 1441924447
+revision: 4
+host: 82.131.7.230
 ip: 89.235.235.166
+lastmajor: 2
+languages: 
+username: AlexDaniel
+flags: 10
+minor: 1

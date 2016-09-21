@@ -1,15 +1,15 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-blocks: [Course:107092 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-flags: 1
-ip: 89.235.235.166
-username: AlexDaniel
-ts: 1441924445
+languages: 
 revision: 4
 host: 82.131.7.230
-languages: 
+blocks: [Course:107092 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+username: AlexDaniel
+keep-ts: 1441924445
+ip: 89.235.235.166
+ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
 text: #SUBTITLE Ehituskonstruktsioonid arhitektidele, metallkonstruktsioonid
 	#SUBURL [Course:107092 〔Õppeaine ÕIS-is〕]
 	

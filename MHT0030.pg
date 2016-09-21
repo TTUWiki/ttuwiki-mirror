@@ -1,9 +1,10 @@
-keep-ts: 1441924448
 lastmajor: 2
-minor: 1
-languages: 
-ts: 1441924448
 revision: 4
+ts: 1441924448
+blocks: [Course:30566 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+flags: 10
+minor: 1
 text: #SUBTITLE Rakendusstatistika
 	#SUBURL [Course:30566 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Rakendusstatistika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:30566 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
+languages: 
+keep-ts: 1441924448
 username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

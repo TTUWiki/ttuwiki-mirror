@@ -1,11 +1,10 @@
-username: AlexDaniel
-ts: 1441924451
-flags: 1
-host: 82.131.7.230
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+flags: 10
+host: 82.131.7.230
+languages: 
 minor: 1
-blocks: [Course:110228 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
 text: #SUBTITLE Töötervishoiu ja tööohutuse juhtimine organisatsioonis
 	#SUBURL [Course:110228 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +20,6 @@ text: #SUBTITLE Töötervishoiu ja tööohutuse juhtimine organisatsioonis
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924451
+revision: 2
+username: AlexDaniel
+blocks: [Course:110228 〔Õppeaine ÕIS-is〕]</div></div>

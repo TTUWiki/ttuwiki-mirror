@@ -1,13 +1,4 @@
-keep-ts: 1441924448
-blocks: [Course:101921 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 minor: 1
-username: AlexDaniel
-revision: 4
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 text: #SUBTITLE Turvalise tarkvaradisaini põhimõtted: projektitöö
 	#SUBURL [Course:101921 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Turvalise tarkvaradisaini põhimõtted: projektitöö
 	#LANG_END
 	
 	
-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+lastmajor: 2
+flags: 10
+username: AlexDaniel
 host: 82.131.7.230
+ts: 1441924448
+keep-ts: 1441924448
+revision: 4
+blocks: [Course:101921 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 

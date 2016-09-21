@@ -1,6 +1,5 @@
-ts: 1441924445
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 username: AlexDaniel
 text: #SUBTITLE Tee-ehituspraktika II
 	#SUBURL [Course:29496 〔Õppeaine ÕIS-is〕]
@@ -17,11 +16,12 @@ text: #SUBTITLE Tee-ehituspraktika II
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
 ip: 89.235.235.166
-keep-ts: 1441924445
-blocks: [Course:29496 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
 revision: 4
+keep-ts: 1441924445
+minor: 1
+lastmajor: 2
+ts: 1441924445
+flags: 10
+blocks: [Course:29496 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

@@ -1,13 +1,11 @@
-revision: 4
-minor: 1
-languages: 
-username: AlexDaniel
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 lastmajor: 2
-blocks: [Course:39969 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
 host: 82.131.7.230
+revision: 4
+blocks: [Course:39969 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 text: #SUBTITLE Äriuuringute ajalugu ja areng
 	#SUBURL [Course:39969 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +21,7 @@ text: #SUBTITLE Äriuuringute ajalugu ja areng
 	#LANG_END
 	
 	
-flags: 1
+ts: 1441924451
+minor: 1
 ip: 89.235.235.166
+username: AlexDaniel

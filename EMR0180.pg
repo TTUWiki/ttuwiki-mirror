@@ -1,6 +1,7 @@
-ip: 89.235.235.166
+languages: 
 ts: 1441924445
-flags: 1
+flags: 10
+blocks: [Course:101322 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Elastsusteooria seminar
 	#SUBURL [Course:101322 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +17,11 @@ text: #SUBTITLE Elastsusteooria seminar
 	#LANG_END
 	
 	
-revision: 4
-username: AlexDaniel
-keep-ts: 1441924445
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-blocks: [Course:101322 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+keep-ts: 1441924445
 minor: 1
-languages: 
-host: 82.131.7.230
+revision: 4
+ip: 89.235.235.166

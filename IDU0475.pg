@@ -1,11 +1,15 @@
+host: 82.131.7.230
+lastmajor: 2
+blocks: [Course:106988 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+revision: 4
+ts: 1441924447
 username: AlexDaniel
 keep-ts: 1441924447
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+flags: 10
 ip: 89.235.235.166
-blocks: [Course:106988 〔Õppeaine ÕIS-is〕]
-revision: 4
+languages: 
 text: #SUBTITLE Turvalisus ja privaatsus võrgupõhises maailmas
 	#SUBURL [Course:106988 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +25,3 @@ text: #SUBTITLE Turvalisus ja privaatsus võrgupõhises maailmas
 	#LANG_END
 	
 	
-host: 82.131.7.230
-languages: 
-ts: 1441924447
-lastmajor: 2

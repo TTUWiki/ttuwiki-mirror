@@ -1,4 +1,10 @@
-keep-ts: 1441924445
+username: AlexDaniel
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:105032 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+revision: 4
 text: #SUBTITLE Ehituskonstruktsioonide projekteerimise üldpõhimõtted
 	#SUBURL [Course:105032 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +20,8 @@ text: #SUBTITLE Ehituskonstruktsioonide projekteerimise üldpõhimõtted
 	#LANG_END
 	
 	
-blocks: [Course:105032 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+host: 82.131.7.230
+ip: 89.235.235.166
 minor: 1
 ts: 1441924445
-languages: 
-ip: 89.235.235.166
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-host: 82.131.7.230
+keep-ts: 1441924445

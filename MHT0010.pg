@@ -1,7 +1,11 @@
 username: AlexDaniel
-flags: 1
-blocks: [Course:41006 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ts: 1441924448
+blocks: [Course:41006 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Metroloogia ja mõõtetehnika
 	#SUBURL [Course:41006 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Metroloogia ja mõõtetehnika
 	#LANG_END
 	
 	
-minor: 1
-host: 82.131.7.230
 languages: 
-revision: 4
-keep-ts: 1441924448
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
+flags: 10
+minor: 1

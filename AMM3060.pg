@@ -1,3 +1,15 @@
+languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+blocks: [Course:26113 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+minor: 1
+flags: 10
+ts: 1441924444
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Elektrimasinad
 	#SUBURL [Course:26113 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Elektrimasinad
 	#LANG_END
 	
 	
-blocks: [Course:26113 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924444
-minor: 1
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924444
-flags: 1
-lastmajor: 2
-languages: 

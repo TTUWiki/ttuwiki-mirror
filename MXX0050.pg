@@ -1,9 +1,4 @@
-username: AlexDaniel
-lastmajor: 2
 ip: 89.235.235.166
-blocks: [Course:100077 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
 text: #SUBTITLE Komposiitmaterjalid
 	#SUBURL [Course:100077 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +14,14 @@ text: #SUBTITLE Komposiitmaterjalid
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-languages: 
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+keep-ts: 1441924448
+blocks: [Course:100077 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+host: 82.131.7.230
+flags: 10
 ts: 1441924448
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

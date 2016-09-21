@@ -1,6 +1,10 @@
+ts: 1441924448
+ip: 89.235.235.166
 minor: 1
 host: 82.131.7.230
-username: AlexDaniel
+lastmajor: 2
+revision: 4
+blocks: [Course:40971 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Sissejuhatus okeanograafiasse ja limnoloogiasse
 	#SUBURL [Course:40971 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Sissejuhatus okeanograafiasse ja limnoloogiasse
 	#LANG_END
 	
 	
-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 10
 keep-ts: 1441924448
-revision: 4
-flags: 1
 languages: 
-ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:40971 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

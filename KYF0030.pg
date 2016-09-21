@@ -1,13 +1,5 @@
-ts: 1441924448
-flags: 1
-revision: 4
-keep-ts: 1441924448
 ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-host: 82.131.7.230
-lastmajor: 2
-blocks: [Course:30784 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 languages: 
 text: #SUBTITLE Füüsikaline keemia - praktikum
@@ -25,3 +17,11 @@ text: #SUBTITLE Füüsikaline keemia - praktikum
 	#LANG_END
 	
 	
+blocks: [Course:30784 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
+host: 82.131.7.230
+minor: 1
+lastmajor: 2
+flags: 10
+revision: 4
+ts: 1441924448

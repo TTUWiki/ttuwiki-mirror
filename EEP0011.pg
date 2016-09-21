@@ -1,10 +1,4 @@
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30392 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924445
-flags: 1
-revision: 4
+flags: 10
 languages: 
 text: #SUBTITLE Puitkonstruktsioonid
 	#SUBURL [Course:30392 〔Õppeaine ÕIS-is〕]
@@ -21,7 +15,13 @@ text: #SUBTITLE Puitkonstruktsioonid
 	#LANG_END
 	
 	
-host: 82.131.7.230
-username: AlexDaniel
+ip: 89.235.235.166
 minor: 1
+revision: 4
+lastmajor: 2
 ts: 1441924445
+keep-ts: 1441924445
+host: 82.131.7.230
+blocks: [Course:30392 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

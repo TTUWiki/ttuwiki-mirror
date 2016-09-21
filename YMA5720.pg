@@ -1,8 +1,6 @@
-flags: 1
-revision: 4
 username: AlexDaniel
-host: 82.131.7.230
-ts: 1441924452
+minor: 1
+blocks: [Course:28145 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Diskreetne matemaatika
 	#SUBURL [Course:28145 〔Õppeaine ÕIS-is〕]
@@ -19,9 +17,11 @@ text: #SUBTITLE Diskreetne matemaatika
 	#LANG_END
 	
 	
-minor: 1
-keep-ts: 1441924452
 ip: 89.235.235.166
-blocks: [Course:28145 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+host: 82.131.7.230
+ts: 1441924452
 lastmajor: 2
 languages: 
+revision: 4
+flags: 10

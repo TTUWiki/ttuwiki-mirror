@@ -1,3 +1,7 @@
+minor: 1
+lastmajor: 2
+flags: 10
+languages: 
 text: #SUBTITLE Riigi- ja haldusõiguse alused
 	#SUBURL [Course:28069 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Riigi- ja haldusõiguse alused
 	#LANG_END
 	
 	
-languages: 
-username: AlexDaniel
-keep-ts: 1441924451
-ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
 revision: 4
-lastmajor: 2
+host: 82.131.7.230
 ts: 1441924451
+keep-ts: 1441924451
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:28069 〔Õppeaine ÕIS-is〕]
+blocks: [Course:28069 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+username: AlexDaniel

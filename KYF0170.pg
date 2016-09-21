@@ -1,7 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1441924448
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Teadustöö ja innovatsioon
 	#SUBURL [Course:101073 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +15,13 @@ text: #SUBTITLE Teadustöö ja innovatsioon
 	#LANG_END
 	
 	
-languages: 
-flags: 1
-ts: 1441924448
-blocks: [Course:101073 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-minor: 1
+ip: 89.235.235.166
+keep-ts: 1441924448
 revision: 4
+blocks: [Course:101073 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+languages: 
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

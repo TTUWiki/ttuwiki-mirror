@@ -1,6 +1,11 @@
+host: 82.131.7.230
+minor: 1
+blocks: [Course:31387 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-ip: 89.235.235.166
-revision: 4
+keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
 text: #SUBTITLE Automatiseerimistehnika
 	#SUBURL [Course:31387 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +21,7 @@ text: #SUBTITLE Automatiseerimistehnika
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:31387 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
+flags: 10
+ip: 89.235.235.166
+revision: 4
 ts: 1441924448
-host: 82.131.7.230
-flags: 1
-minor: 1

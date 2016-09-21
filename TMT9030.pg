@@ -1,3 +1,7 @@
+ts: 1441924451
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Töö- ja keskkonna riskide juhtimine
 	#SUBURL [Course:105154 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Töö- ja keskkonna riskide juhtimine
 	#LANG_END
 	
 	
-username: AlexDaniel
-ip: 89.235.235.166
-blocks: [Course:105154 〔Õppeaine ÕIS-is〕]
-languages: 
+host: 82.131.7.230
+revision: 4
+minor: 1
+blocks: [Course:105154 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924451
 lastmajor: 2
-flags: 1
-revision: 4
-host: 82.131.7.230
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
+languages: 

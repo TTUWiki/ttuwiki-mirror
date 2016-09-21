@@ -1,7 +1,3 @@
-lastmajor: 2
-ts: 1441924449
-revision: 4
-host: 82.131.7.230
 text: #SUBTITLE Haljasalade kujundamine
 	#SUBURL [Course:39023 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +13,15 @@ text: #SUBTITLE Haljasalade kujundamine
 	#LANG_END
 	
 	
-blocks: [Course:39023 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39023 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 ip: 89.235.235.166
+keep-ts: 1441924449
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-keep-ts: 1441924449
+revision: 4
+flags: 10
+host: 82.131.7.230
 username: AlexDaniel
-flags: 1
+ts: 1441924449
