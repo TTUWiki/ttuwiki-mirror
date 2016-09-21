@@ -1,10 +1,13 @@
-minor: 0
-lastmajorsummary: Rollback to 2016-09-07 08:47:23
-host: 193.40.250.230
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1473246339
-revision: 7
+username: Marjana Voronina
+lastmajor: 8
+keep-ts: 1474455967
+ip: 89.235.235.166
+host: 193.40.250.232
+minor: 
+languages: 
+ts: 1474455967
+summary: homework 1
+revision: 8
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -13,6 +16,13 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	#EST
 	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	
+	**Esimene koduülesanne**
+	
+	[[File:ITT0050_HW1.jpg]]
+	
+	
+	[[File:ITT0050_HW1_part2.jpg]]
 	
 	#RUS
 	Эта страница пуста, здесь не хватает твоих полезных советов.
@@ -27,9 +37,4 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-languages: 
-username: AlexDaniel
-lastmajor: 7
-summary: Rollback to 2016-09-07 08:47:23
-keep-ts: 1473246339
-ip: 89.235.235.166
+lastmajorsummary: homework 1
