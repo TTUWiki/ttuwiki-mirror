@@ -1,35 +1,15 @@
-languages: 
-host: 193.40.250.232
-summary: homework 1
-keep-ts: 1474455967
-minor: 
-ts: 1474455967
-lastmajorsummary: homework 1
-revision: 8
-flags: 1
-lastmajor: 8
-ip: 89.235.235.166
-username: Marjana Voronina
+minor: 1
+summary: Remove placeholder
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
 	
 	**Esimene koduülesanne**
 	
-	[[File:ITT0050_HW1.jpg]]
+	* [[File:ITT0050_HW1.jpg]]
+	* [[File:ITT0050_HW1_part2.jpg]]
 	
-	
-	[[File:ITT0050_HW1_part2.jpg]]
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
 	
 	
 	----
@@ -39,4 +19,12 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajorsummary: homework 1
+ts: 1474471350
+keep-ts: 1474471350
+host: 85.253.108.27
+ip: 89.235.235.166
+languages: 
+lastmajor: 8
+revision: 9
