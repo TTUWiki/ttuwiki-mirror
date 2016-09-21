@@ -1,14 +1,3 @@
-languages: 
-flags: 1
-username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:107142 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-host: 82.131.7.230
 text: #SUBTITLE Looduslikud ja antropogeensed vegetatsiooni tüübid
 	#SUBURL [Course:107142 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +13,15 @@ text: #SUBTITLE Looduslikud ja antropogeensed vegetatsiooni tüübid
 	#LANG_END
 	
 	
+languages: 
+ts: 1441924444
 lastmajor: 2
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
+blocks: [Course:107142 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+keep-ts: 1441924444
+ip: 89.235.235.166
+minor: 1

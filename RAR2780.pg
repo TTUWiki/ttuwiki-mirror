@@ -1,11 +1,5 @@
-ts: 1441924450
-ip: 89.235.235.166
+keep-ts: 1441924450
 host: 82.131.7.230
-flags: 1
-lastmajor: 2
-languages: 
-username: AlexDaniel
-blocks: [Course:100586 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Orgaaniline keemia
 	#SUBURL [Course:100586 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +15,13 @@ text: #SUBTITLE Orgaaniline keemia
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-revision: 4
+blocks: [Course:100586 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924450
+username: AlexDaniel
+flags: 10
 minor: 1
+revision: 4
+ip: 89.235.235.166
+lastmajor: 2

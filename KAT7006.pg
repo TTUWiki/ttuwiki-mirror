@@ -1,5 +1,6 @@
-ts: 1441924447
-username: AlexDaniel
+flags: 10
+blocks: [Course:109577 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 text: #SUBTITLE Õpetaja kui uurija
 	#SUBURL [Course:109577 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +16,10 @@ text: #SUBTITLE Õpetaja kui uurija
 	#LANG_END
 	
 	
-host: 82.131.7.230
-minor: 1
 keep-ts: 1441924447
-languages: 
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 2
-blocks: [Course:109577 〔Õppeaine ÕIS-is〕]
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924447
+username: AlexDaniel

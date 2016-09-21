@@ -1,8 +1,13 @@
-flags: 1
-revision: 4
-blocks: [Course:29638 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 minor: 1
+keep-ts: 1441924447
+flags: 10
+revision: 4
+ip: 89.235.235.166
+lastmajor: 2
+host: 82.131.7.230
+ts: 1441924447
 text: #SUBTITLE Tootmisautomaatika
 	#SUBURL [Course:29638 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +23,5 @@ text: #SUBTITLE Tootmisautomaatika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-keep-ts: 1441924447
+blocks: [Course:29638 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-host: 82.131.7.230
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2

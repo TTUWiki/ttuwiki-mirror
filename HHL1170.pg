@@ -1,4 +1,7 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 revision: 4
+lastmajor: 2
 text: #SUBTITLE Riigi rahandus
 	#SUBURL [Course:41558 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +17,11 @@ text: #SUBTITLE Riigi rahandus
 	#LANG_END
 	
 	
-lastmajor: 2
-blocks: [Course:41558 〔Õppeaine ÕIS-is〕]
-languages: 
 keep-ts: 1441924446
+flags: 10
 ip: 89.235.235.166
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-host: 82.131.7.230
 ts: 1441924446
+blocks: [Course:41558 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
+languages: 

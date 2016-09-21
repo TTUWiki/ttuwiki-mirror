@@ -1,7 +1,7 @@
-flags: 1
 host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
+username: AlexDaniel
+ts: 1441924444
+keep-ts: 1441924444
 text: #SUBTITLE Muundustehnika erikursus
 	#SUBURL [Course:33105 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +17,11 @@ text: #SUBTITLE Muundustehnika erikursus
 	#LANG_END
 	
 	
+languages: 
 minor: 1
 revision: 4
-ts: 1441924444
-languages: 
-blocks: [Course:33105 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
+blocks: [Course:33105 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10

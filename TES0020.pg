@@ -1,10 +1,8 @@
 ts: 1441924450
-languages: 
-host: 82.131.7.230
-revision: 4
 lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
+host: 82.131.7.230
+blocks: [Course:30695 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 text: #SUBTITLE Statistika
 	#SUBURL [Course:30695 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +18,10 @@ text: #SUBTITLE Statistika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30695 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-flags: 1
+username: AlexDaniel
 minor: 1
+keep-ts: 1441924450
+flags: 10
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166

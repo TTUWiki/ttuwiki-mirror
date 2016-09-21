@@ -1,10 +1,14 @@
-minor: 1
-username: AlexDaniel
 languages: 
 lastmajor: 2
-revision: 4
+keep-ts: 1441924447
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106995 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
 ts: 1441924447
+revision: 4
+flags: 10
+minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Andmekaevandamine ja võrgustike analüüs
 	#SUBURL [Course:106995 〔Õppeaine ÕIS-is〕]
@@ -21,7 +25,3 @@ text: #SUBTITLE Andmekaevandamine ja võrgustike analüüs
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924447
-blocks: [Course:106995 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,4 @@
-languages: 
-flags: 1
-username: AlexDaniel
 minor: 1
-host: 82.131.7.230
-blocks: [Course:105010 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924446
-revision: 4
-ts: 1441924446
 text: #SUBTITLE Avaliku halduse uurimisseminar
 	#SUBURL [Course:105010 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Avaliku halduse uurimisseminar
 	#LANG_END
 	
 	
+languages: 
+flags: 10
 ip: 89.235.235.166
+blocks: [Course:105010 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924446
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
+revision: 4
+host: 82.131.7.230
+lastmajor: 2

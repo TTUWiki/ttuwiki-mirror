@@ -1,14 +1,6 @@
-ts: 1441924447
-ip: 89.235.235.166
-lastmajor: 2
-minor: 1
-flags: 1
 languages: 
-keep-ts: 1441924447
-revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:26771 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Täppismeetodid otsustuste vastuvõtmisel
 	#SUBURL [Course:26771 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Täppismeetodid otsustuste vastuvõtmisel
 	#LANG_END
 	
 	
+username: AlexDaniel
 host: 82.131.7.230
+revision: 4
+ts: 1441924447
+lastmajor: 2
+blocks: [Course:26771 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924447
+minor: 1
+ip: 89.235.235.166

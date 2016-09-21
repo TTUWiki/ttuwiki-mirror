@@ -1,8 +1,14 @@
-revision: 4
+host: 82.131.7.230
+keep-ts: 1441924450
+ts: 1441924450
+lastmajor: 2
+minor: 1
+blocks: [Course:101207 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-username: AlexDaniel
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101207 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
 text: #SUBTITLE Siseaudit
 	#SUBURL [Course:101207 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Siseaudit
 	#LANG_END
 	
 	
-host: 82.131.7.230
-keep-ts: 1441924450
-ts: 1441924450
 languages: 
-minor: 1
-flags: 1
-lastmajor: 2

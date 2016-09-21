@@ -1,15 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
-username: AlexDaniel
-revision: 4
 minor: 1
 ts: 1441924446
-lastmajor: 2
-keep-ts: 1441924446
-blocks: [Course:34432 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ip: 89.235.235.166
+blocks: [Course:34432 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	#SUBURL [Course:34432 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +17,11 @@ text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	#LANG_END
 	
 	
+keep-ts: 1441924446
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+lastmajor: 2
+flags: 10
+ip: 89.235.235.166

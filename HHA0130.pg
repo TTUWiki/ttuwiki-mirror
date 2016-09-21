@@ -1,14 +1,11 @@
-flags: 1
-revision: 4
-minor: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-ip: 89.235.235.166
-ts: 1441924445
-blocks: [Course:32154 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+keep-ts: 1441924445
+flags: 10
+host: 82.131.7.230
+minor: 1
+revision: 4
+blocks: [Course:32154 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ametniku kutse-eetika
 	#SUBURL [Course:32154 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +21,7 @@ text: #SUBTITLE Ametniku kutse-eetika
 	#LANG_END
 	
 	
-keep-ts: 1441924445
+ip: 89.235.235.166
+username: AlexDaniel
+languages: 
+ts: 1441924445

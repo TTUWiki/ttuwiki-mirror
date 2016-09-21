@@ -1,3 +1,15 @@
+languages: 
+minor: 1
+lastmajor: 2
+username: AlexDaniel
+flags: 10
+ts: 1441924444
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100974 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Organisatsioonikäitumine
 	#SUBURL [Course:100974 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Organisatsioonikäitumine
 	#LANG_END
 	
 	
-blocks: [Course:100974 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
-revision: 4
-languages: 
-keep-ts: 1441924444
-ip: 89.235.235.166
-ts: 1441924444

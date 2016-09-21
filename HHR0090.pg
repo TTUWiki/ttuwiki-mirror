@@ -1,13 +1,14 @@
+keep-ts: 1441924446
+languages: 
+minor: 1
+blocks: [Course:40201 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+ip: 89.235.235.166
 revision: 4
 ts: 1441924446
-flags: 1
-blocks: [Course:40201 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924446
-minor: 1
-ip: 89.235.235.166
 text: #SUBTITLE Nüüdisühiskond
 	#SUBURL [Course:40201 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Nüüdisühiskond
 	
 	
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,13 +1,15 @@
-username: Marjana Voronina
-lastmajor: 8
-keep-ts: 1474455967
-ip: 89.235.235.166
-host: 193.40.250.232
-minor: 
 languages: 
-ts: 1474455967
+host: 193.40.250.232
 summary: homework 1
+keep-ts: 1474455967
+minor: 
+ts: 1474455967
+lastmajorsummary: homework 1
 revision: 8
+flags: 1
+lastmajor: 8
+ip: 89.235.235.166
+username: Marjana Voronina
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -37,4 +39,4 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-lastmajorsummary: homework 1
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
