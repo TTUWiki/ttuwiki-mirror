@@ -1,14 +1,11 @@
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-lastmajor: 2
-minor: 1
+ip: 89.235.235.166
 languages: 
+minor: 1
 host: 82.131.7.230
-ts: 1441924450
-flags: 1
-blocks: [Course:106039 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106039 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Majandusmõte ja -metodoloogia
 	#SUBURL [Course:106039 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +21,7 @@ text: #SUBTITLE Majandusmõte ja -metodoloogia
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+flags: 10
+revision: 4
+lastmajor: 2
+ts: 1441924450

@@ -1,4 +1,15 @@
+host: 82.131.7.230
+lastmajor: 2
+ip: 89.235.235.166
+languages: 
+blocks: [Course:106272 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 10
+minor: 1
 ts: 1441924445
+username: AlexDaniel
 text: #SUBTITLE Liikluskorraldus ja -ohutus ning intelligentsed transpordisüsteemid
 	#SUBURL [Course:106272 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,3 @@ text: #SUBTITLE Liikluskorraldus ja -ohutus ning intelligentsed transpordisüste
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924445
-flags: 1
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
-ip: 89.235.235.166
-blocks: [Course:106272 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1

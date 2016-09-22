@@ -1,7 +1,8 @@
-blocks: [Course:110050 〔Õppeaine ÕIS-is〕]
+languages: 
 revision: 2
-username: AlexDaniel
-flags: 1
+minor: 1
+blocks: [Course:110050 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924447
 text: #SUBTITLE Küberjulgeoleku strateegia ja operatsioonide alused
 	#SUBURL [Course:110050 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +18,8 @@ text: #SUBTITLE Küberjulgeoleku strateegia ja operatsioonide alused
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+username: AlexDaniel
 ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-minor: 1
-keep-ts: 1441924447

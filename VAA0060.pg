@@ -1,8 +1,13 @@
-username: AlexDaniel
 minor: 1
-ts: 1441924452
+flags: 10
 languages: 
+keep-ts: 1441924452
+host: 82.131.7.230
+blocks: [Course:108871 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Rakendusmehaanika
 	#SUBURL [Course:108871 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +23,3 @@ text: #SUBTITLE Rakendusmehaanika
 	#LANG_END
 	
 	
-flags: 1
-revision: 2
-host: 82.131.7.230
-keep-ts: 1441924452
-blocks: [Course:108871 〔Õppeaine ÕIS-is〕]

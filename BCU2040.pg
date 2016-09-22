@@ -1,6 +1,15 @@
-flags: 1
-minor: 1
+revision: 4
+username: AlexDaniel
 languages: 
+blocks: [Course:38483 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ip: 89.235.235.166
+keep-ts: 1441924444
+minor: 1
+lastmajor: 2
+flags: 10
+ts: 1441924444
 text: #SUBTITLE Juhtimiskontroll - ainetöö
 	#SUBURL [Course:38483 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Juhtimiskontroll - ainetöö
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-blocks: [Course:38483 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924444
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1441924444

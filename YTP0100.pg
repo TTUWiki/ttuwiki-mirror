@@ -1,9 +1,10 @@
 ip: 89.235.235.166
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924453
 keep-ts: 1441924453
-blocks: [Course:36300 〔Õppeaine ÕIS-is〕]
-minor: 1
+languages: 
+revision: 4
+host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Ensümoloogia alused
 	#SUBURL [Course:36300 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Ensümoloogia alused
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
-ts: 1441924453
+flags: 10
+blocks: [Course:36300 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-revision: 4
-username: AlexDaniel
+minor: 1

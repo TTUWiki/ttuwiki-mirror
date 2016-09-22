@@ -1,3 +1,8 @@
+host: 82.131.7.230
+ip: 89.235.235.166
+languages: 
+revision: 4
+keep-ts: 1441924450
 text: #SUBTITLE Tööstustehnoloogiad
 	#SUBURL [Course:41375 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +18,10 @@ text: #SUBTITLE Tööstustehnoloogiad
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+flags: 10
 lastmajor: 2
-host: 82.131.7.230
 username: AlexDaniel
+ts: 1441924450
 minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924450
-blocks: [Course:41375 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
-keep-ts: 1441924450
+blocks: [Course:41375 〔Õppeaine ÕIS-is〕]</div></div>

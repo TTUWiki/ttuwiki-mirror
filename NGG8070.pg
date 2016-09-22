@@ -1,3 +1,5 @@
+languages: 
+flags: 10
 text: #SUBTITLE Kvaternaarigeoloogia ja geomorfoloogia
 	#SUBURL [Course:109842 〔Õppeaine ÕIS-is〕]
 	
@@ -13,13 +15,11 @@ text: #SUBTITLE Kvaternaarigeoloogia ja geomorfoloogia
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
-blocks: [Course:109842 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
 revision: 2
 minor: 1
+keep-ts: 1441924448
+blocks: [Course:109842 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924448
-languages: 
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

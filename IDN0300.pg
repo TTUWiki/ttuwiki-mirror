@@ -1,13 +1,10 @@
-keep-ts: 1441924447
+ip: 89.235.235.166
 ts: 1441924447
 username: AlexDaniel
-flags: 1
 languages: 
-blocks: [Course:106261 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 host: 82.131.7.230
+blocks: [Course:106261 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 lastmajor: 2
 text: #SUBTITLE Ettevõtetevaheline infovahetus
 	#SUBURL [Course:106261 〔Õppeaine ÕIS-is〕]
@@ -24,4 +21,7 @@ text: #SUBTITLE Ettevõtetevaheline infovahetus
 	#LANG_END
 	
 	
+revision: 4
 minor: 1
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

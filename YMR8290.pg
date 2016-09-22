@@ -1,12 +1,5 @@
-lastmajor: 2
-minor: 1
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106019 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
-flags: 1
 keep-ts: 1441924453
+blocks: [Course:106019 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Numbriline modelleerimine
 	#SUBURL [Course:106019 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Numbriline modelleerimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-languages: 
 ts: 1441924453
+flags: 10
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
+revision: 4
+lastmajor: 2
+languages: 
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

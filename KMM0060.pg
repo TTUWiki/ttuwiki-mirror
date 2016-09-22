@@ -1,10 +1,4 @@
-host: 82.131.7.230
-ip: 89.235.235.166
-blocks: [Course:32062 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
 text: #SUBTITLE Puittoodete tehnoloogia
 	#SUBURL [Course:32062 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +14,14 @@ text: #SUBTITLE Puittoodete tehnoloogia
 	#LANG_END
 	
 	
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:32062 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
 lastmajor: 2
+flags: 10
 ts: 1441924447
 revision: 4
-username: AlexDaniel
-flags: 1

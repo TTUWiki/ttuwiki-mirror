@@ -1,15 +1,11 @@
+lastmajor: 2
+flags: 10
+revision: 4
 minor: 1
-keep-ts: 1441924447
-ip: 89.235.235.166
+blocks: [Course:106985 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924447
-flags: 1
-blocks: [Course:106985 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-revision: 4
 text: #SUBTITLE Infoühiskonna kontseptsioonid ja põhimõtted
 	#SUBURL [Course:106985 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Infoühiskonna kontseptsioonid ja põhimõtted
 	#LANG_END
 	
 	
+ts: 1441924447
+host: 82.131.7.230
+ip: 89.235.235.166
+keep-ts: 1441924447

@@ -1,4 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106102 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Polümeeride elutsükkel
 	#SUBURL [Course:106102 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +14,14 @@ text: #SUBTITLE Polümeeride elutsükkel
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
-blocks: [Course:106102 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
 username: AlexDaniel
-revision: 4
+languages: 
+flags: 10
 minor: 1
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+keep-ts: 1441924448

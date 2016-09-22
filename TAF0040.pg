@@ -1,9 +1,10 @@
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
 minor: 1
+ip: 89.235.235.166
+languages: 
+revision: 4
+flags: 10
+keep-ts: 1441924450
+lastmajor: 2
 text: #SUBTITLE Maksundus ja riigieelarve
 	#SUBURL [Course:31103 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Maksundus ja riigieelarve
 	#LANG_END
 	
 	
-keep-ts: 1441924450
 ts: 1441924450
-blocks: [Course:31103 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31103 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
 username: AlexDaniel
-flags: 1

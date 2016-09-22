@@ -1,11 +1,7 @@
-minor: 1
-keep-ts: 1441924445
-username: AlexDaniel
-lastmajor: 2
+blocks: [Course:38230 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 revision: 4
-blocks: [Course:38230 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
+lastmajor: 2
 text: #SUBTITLE Sadamate tehnovõrgud ja -seadmed
 	#SUBURL [Course:38230 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Sadamate tehnovõrgud ja -seadmed
 	#LANG_END
 	
 	
-host: 82.131.7.230
+username: AlexDaniel
+flags: 10
 ts: 1441924445
-flags: 1
+keep-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+ip: 89.235.235.166

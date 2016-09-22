@@ -1,13 +1,10 @@
-revision: 4
+ts: 1441924447
+minor: 1
 ip: 89.235.235.166
 keep-ts: 1441924447
-username: AlexDaniel
-blocks: [Course:106951 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
+languages: 
+blocks: [Course:106951 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE E-valitsemisele ülemineku planeerimine ja rakendamine
 	#SUBURL [Course:106951 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE E-valitsemisele ülemineku planeerimine ja rakendamine
 	#LANG_END
 	
 	
-host: 82.131.7.230
 lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+flags: 10

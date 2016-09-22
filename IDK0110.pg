@@ -1,13 +1,13 @@
-revision: 4
-languages: 
-keep-ts: 1441924446
-flags: 1
-ts: 1441924446
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+flags: 10
+ts: 1441924446
+blocks: [Course:100140 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+host: 82.131.7.230
+languages: 
 text: #SUBTITLE Informaatika keemia erialadele
 	#SUBURL [Course:100140 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Informaatika keemia erialadele
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:100140 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
+revision: 4

@@ -1,13 +1,13 @@
-flags: 1
-languages: 
-revision: 4
-ts: 1441924444
 username: AlexDaniel
-host: 82.131.7.230
 ip: 89.235.235.166
-blocks: [Course:107077 〔Õppeaine ÕIS-is〕]
+flags: 10
 keep-ts: 1441924444
+blocks: [Course:107077 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+languages: 
+ts: 1441924444
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Mullateadus
 	#SUBURL [Course:107077 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +24,4 @@ text: #SUBTITLE Mullateadus
 	
 	
 lastmajor: 2
-minor: 1
+host: 82.131.7.230

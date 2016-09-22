@@ -1,6 +1,6 @@
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 host: 82.131.7.230
-blocks: [Course:103266 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Klassiühingud ja EL reeglid
 	#SUBURL [Course:103266 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Klassiühingud ja EL reeglid
 	#LANG_END
 	
 	
-ts: 1441924444
 username: AlexDaniel
-ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924444
+languages: 
+blocks: [Course:103266 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ts: 1441924444
 revision: 4
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+keep-ts: 1441924444
+minor: 1

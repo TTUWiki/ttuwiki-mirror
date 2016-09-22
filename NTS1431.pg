@@ -1,14 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-blocks: [Course:105999 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-minor: 1
-flags: 1
-revision: 4
 lastmajor: 2
+host: 82.131.7.230
+revision: 4
+flags: 10
+blocks: [Course:105999 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 keep-ts: 1441924449
 ip: 89.235.235.166
+ts: 1441924449
 text: #SUBTITLE Disainistuudio I (elamud)
 	#SUBURL [Course:105999 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Disainistuudio I (elamud)
 	#LANG_END
 	
 	
-host: 82.131.7.230
+languages: 
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

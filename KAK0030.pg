@@ -1,12 +1,9 @@
-flags: 1
-keep-ts: 1441924447
-ts: 1441924447
-blocks: [Course:29773 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29773 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+revision: 4
+keep-ts: 1441924447
 text: #SUBTITLE Keemiabilansid
 	#SUBURL [Course:29773 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +19,9 @@ text: #SUBTITLE Keemiabilansid
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
+host: 82.131.7.230
+flags: 10
 minor: 1
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2

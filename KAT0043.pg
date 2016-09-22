@@ -1,3 +1,10 @@
+keep-ts: 1441924447
+lastmajor: 2
+username: AlexDaniel
+flags: 10
+revision: 4
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Reaktsiooniprotsessid - ainetöö
 	#SUBURL [Course:29634 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +20,8 @@ text: #SUBTITLE Reaktsiooniprotsessid - ainetöö
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-languages: 
-flags: 1
-keep-ts: 1441924447
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 host: 82.131.7.230
-blocks: [Course:29634 〔Õppeaine ÕIS-is〕]
 minor: 1
 ts: 1441924447
-lastmajor: 2
+languages: 
+blocks: [Course:29634 〔Õppeaine ÕIS-is〕]</div></div>

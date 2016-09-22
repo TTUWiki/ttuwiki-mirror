@@ -1,6 +1,13 @@
+ip: 89.235.235.166
+blocks: [Course:39230 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+languages: 
+flags: 10
+ts: 1441924449
 minor: 1
-flags: 1
 text: #SUBTITLE Tehniline mehaanika II
 	#SUBURL [Course:39230 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Tehniline mehaanika II
 	
 	
 keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
 username: AlexDaniel
-ts: 1441924449
-blocks: [Course:39230 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166

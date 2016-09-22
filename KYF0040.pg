@@ -1,12 +1,8 @@
-ip: 89.235.235.166
-ts: 1441924448
-blocks: [Course:30786 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924448
-languages: 
-lastmajor: 2
 host: 82.131.7.230
+username: AlexDaniel
+lastmajor: 2
+languages: 
 revision: 4
 text: #SUBTITLE Rakenduselektrokeemia
 	#SUBURL [Course:30786 〔Õppeaine ÕIS-is〕]
@@ -23,5 +19,9 @@ text: #SUBTITLE Rakenduselektrokeemia
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
+ip: 89.235.235.166
+blocks: [Course:30786 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+flags: 10
+minor: 1
+keep-ts: 1441924448

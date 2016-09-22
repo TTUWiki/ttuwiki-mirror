@@ -1,11 +1,3 @@
-keep-ts: 1441924443
-revision: 4
-minor: 1
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924443
 text: #SUBTITLE Elektriajamite üldkursus
 	#SUBURL [Course:31268 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +13,15 @@ text: #SUBTITLE Elektriajamite üldkursus
 	#LANG_END
 	
 	
-blocks: [Course:31268 〔Õppeaine ÕIS-is〕]
 languages: 
+keep-ts: 1441924443
+minor: 1
 host: 82.131.7.230
-flags: 1
+username: AlexDaniel
+ts: 1441924443
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+blocks: [Course:31268 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2

@@ -1,10 +1,5 @@
-keep-ts: 1441924448
-host: 82.131.7.230
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924448
-flags: 1
-blocks: [Course:106935 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes
 	#SUBURL [Course:106935 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +15,13 @@ text: #SUBTITLE CAD/CAM tehnoloogia puidu- ja plastitööstuse ettevõtetes
 	#LANG_END
 	
 	
-minor: 1
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
+blocks: [Course:106935 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
 username: AlexDaniel
+revision: 4
+lastmajor: 2
+minor: 1
+ip: 89.235.235.166

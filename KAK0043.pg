@@ -1,11 +1,11 @@
-minor: 1
-lastmajor: 2
-blocks: [Course:40406 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924447
-flags: 1
-ip: 89.235.235.166
 host: 82.131.7.230
+revision: 4
+flags: 10
+ts: 1441924447
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ip: 89.235.235.166
 text: #SUBTITLE Tööstuslike jäätmete käitlus ja audit II
 	#SUBURL [Course:40406 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +21,7 @@ text: #SUBTITLE Tööstuslike jäätmete käitlus ja audit II
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924447
 languages: 
+blocks: [Course:40406 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+keep-ts: 1441924447

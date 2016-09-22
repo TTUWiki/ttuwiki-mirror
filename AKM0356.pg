@@ -1,7 +1,9 @@
+minor: 1
+blocks: [Course:109812 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 keep-ts: 1441924444
-host: 82.131.7.230
-languages: 
-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Lõhketööd
 	#SUBURL [Course:109812 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +19,7 @@ text: #SUBTITLE Lõhketööd
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
-blocks: [Course:109812 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+languages: 
 revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+host: 82.131.7.230

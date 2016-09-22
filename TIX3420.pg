@@ -1,12 +1,9 @@
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
 keep-ts: 1441924451
-blocks: [Course:101929 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-lastmajor: 2
+blocks: [Course:101929 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924451
 host: 82.131.7.230
-ip: 89.235.235.166
 text: #SUBTITLE Turundusstrateegiad ja juhtimine
 	#SUBURL [Course:101929 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +19,9 @@ text: #SUBTITLE Turundusstrateegiad ja juhtimine
 	#LANG_END
 	
 	
-flags: 1
-languages: 
+revision: 4
 minor: 1
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+flags: 10

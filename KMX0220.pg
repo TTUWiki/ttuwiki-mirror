@@ -1,3 +1,6 @@
+revision: 4
+blocks: [Course:108311 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 text: #SUBTITLE Puidu- ja rõivatööstuse tehnoloogia
 	#SUBURL [Course:108311 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +17,11 @@ text: #SUBTITLE Puidu- ja rõivatööstuse tehnoloogia
 	
 	
 ts: 1441924448
-blocks: [Course:108311 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924448
-flags: 1
-revision: 4
-host: 82.131.7.230
+flags: 10
 ip: 89.235.235.166
-languages: 
 lastmajor: 2
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+minor: 1
+languages: 

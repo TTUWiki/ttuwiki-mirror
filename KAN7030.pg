@@ -1,6 +1,8 @@
+blocks: [Course:109600 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-flags: 1
-host: 82.131.7.230
+languages: 
+ts: 1441924447
+username: AlexDaniel
 text: #SUBTITLE Andragoogika
 	#SUBURL [Course:109600 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +18,8 @@ text: #SUBTITLE Andragoogika
 	#LANG_END
 	
 	
-username: AlexDaniel
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 2
-blocks: [Course:109600 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
 keep-ts: 1441924447
-ts: 1441924447

@@ -1,11 +1,12 @@
-languages: 
-username: AlexDaniel
 host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-keep-ts: 1441924446
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110000 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 2
-blocks: [Course:110000 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+keep-ts: 1441924446
+languages: 
 text: #SUBTITLE Eesti riik ja kohalik omavalitsus
 	#SUBURL [Course:110000 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +22,4 @@ text: #SUBTITLE Eesti riik ja kohalik omavalitsus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
+flags: 10

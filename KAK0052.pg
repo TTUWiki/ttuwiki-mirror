@@ -1,7 +1,12 @@
-ts: 1441924447
 username: AlexDaniel
-ip: 89.235.235.166
 keep-ts: 1441924447
+revision: 4
+flags: 10
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+blocks: [Course:100062 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Keskkonnakeemia - praktikum
 	#SUBURL [Course:100062 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,6 @@ text: #SUBTITLE Keskkonnakeemia - praktikum
 	#LANG_END
 	
 	
-minor: 1
-flags: 1
-revision: 4
-blocks: [Course:100062 〔Õppeaine ÕIS-is〕]
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-host: 82.131.7.230
+ip: 89.235.235.166
+minor: 1

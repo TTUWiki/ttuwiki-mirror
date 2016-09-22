@@ -1,3 +1,5 @@
+flags: 10
+keep-ts: 1441924444
 text: #SUBTITLE Elektrisüsteemi siirdeprotsessid
 	#SUBURL [Course:30288 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +15,13 @@ text: #SUBTITLE Elektrisüsteemi siirdeprotsessid
 	#LANG_END
 	
 	
-keep-ts: 1441924444
+blocks: [Course:30288 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 ts: 1441924444
-username: AlexDaniel
-blocks: [Course:30288 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
-languages: 
 minor: 1
-host: 82.131.7.230
+languages: 
+username: AlexDaniel
 revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2

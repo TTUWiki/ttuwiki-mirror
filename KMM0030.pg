@@ -1,6 +1,12 @@
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
+ts: 1441924447
+revision: 4
+ip: 89.235.235.166
+flags: 10
+host: 82.131.7.230
+minor: 1
+blocks: [Course:32044 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Saetööstuse tehnoloogia
 	#SUBURL [Course:32044 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Saetööstuse tehnoloogia
 	#LANG_END
 	
 	
-minor: 1
-host: 82.131.7.230
-blocks: [Course:32044 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
-languages: 
-ts: 1441924447
 username: AlexDaniel
-flags: 1
+keep-ts: 1441924447
+languages: 

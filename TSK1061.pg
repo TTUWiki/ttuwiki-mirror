@@ -1,7 +1,12 @@
-languages: 
+keep-ts: 1441924451
+lastmajor: 2
+flags: 10
 ts: 1441924451
-revision: 4
+ip: 89.235.235.166
+minor: 1
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Saksa keel VI
 	#SUBURL [Course:102150 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,6 @@ text: #SUBTITLE Saksa keel VI
 	#LANG_END
 	
 	
+revision: 4
+blocks: [Course:102150 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-ip: 89.235.235.166
-minor: 1
-flags: 1
-keep-ts: 1441924451
-blocks: [Course:102150 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2

@@ -1,10 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-minor: 1
 revision: 2
-blocks: [Course:110087 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
 text: #SUBTITLE 2D ja 3D tehnoloogiad rõivatööstuses
 	#SUBURL [Course:110087 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +14,12 @@ text: #SUBTITLE 2D ja 3D tehnoloogiad rõivatööstuses
 	#LANG_END
 	
 	
-flags: 1
-keep-ts: 1441924448
 host: 82.131.7.230
+languages: 
+username: AlexDaniel
+blocks: [Course:110087 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+flags: 10
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448

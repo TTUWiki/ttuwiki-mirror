@@ -1,14 +1,15 @@
-blocks: [Course:31186 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
 keep-ts: 1441924452
+blocks: [Course:31186 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924452
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
+languages: 
 lastmajor: 2
 revision: 4
-languages: 
 text: #SUBTITLE Fermentatsioon ja rakudisain
 	#SUBURL [Course:31186 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Fermentatsioon ja rakudisain
 	#LANG_END
 	
 	
-flags: 1

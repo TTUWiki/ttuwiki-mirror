@@ -1,5 +1,10 @@
+ts: 1441924451
+host: 82.131.7.230
+revision: 2
 minor: 1
+flags: 10
 keep-ts: 1441924451
+blocks: [Course:110194 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Linnaprotsesside analüüs
 	#SUBURL [Course:110194 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +20,6 @@ text: #SUBTITLE Linnaprotsesside analüüs
 	#LANG_END
 	
 	
-revision: 2
-username: AlexDaniel
-flags: 1
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:110194 〔Õppeaine ÕIS-is〕]
 languages: 
-host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

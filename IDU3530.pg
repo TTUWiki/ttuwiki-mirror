@@ -1,5 +1,3 @@
-minor: 1
-blocks: [Course:26911 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	#SUBURL [Course:26911 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +13,15 @@ text: #SUBTITLE Sissejuhatus infosüsteemidesse
 	#LANG_END
 	
 	
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1441924447
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-lastmajor: 2
-languages: 
-ts: 1441924447
+ip: 89.235.235.166
 username: AlexDaniel
+blocks: [Course:26911 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924447
+minor: 1
+lastmajor: 2

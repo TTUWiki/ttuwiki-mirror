@@ -1,8 +1,9 @@
-username: AlexDaniel
 host: 82.131.7.230
-ts: 1441924448
-languages: 
 revision: 4
+lastmajor: 2
+blocks: [Course:101008 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Rõivaste tootmistehnoloogia ja kvaliteedikontroll
 	#SUBURL [Course:101008 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +19,9 @@ text: #SUBTITLE Rõivaste tootmistehnoloogia ja kvaliteedikontroll
 	#LANG_END
 	
 	
+flags: 10
+ts: 1441924448
 ip: 89.235.235.166
 minor: 1
-blocks: [Course:101008 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
+languages: 
 keep-ts: 1441924448

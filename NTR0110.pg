@@ -1,5 +1,7 @@
-minor: 1
+blocks: [Course:106854 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 keep-ts: 1441924449
+ts: 1441924449
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106854 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +17,9 @@ text: #SUBTITLE Mikroprotsessorsüsteemid
 	#LANG_END
 	
 	
-revision: 2
 username: AlexDaniel
-flags: 1
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
+minor: 1
 languages: 
-blocks: [Course:106854 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 2

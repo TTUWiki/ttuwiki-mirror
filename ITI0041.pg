@@ -1,13 +1,3 @@
-ip: 89.235.235.166
-lastmajor: 2
-minor: 1
-flags: 1
-ts: 1441924447
-revision: 4
-keep-ts: 1441924447
-blocks: [Course:37883 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 text: #SUBTITLE Loogika arvutiteaduses
 	#SUBURL [Course:37883 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +13,15 @@ text: #SUBTITLE Loogika arvutiteaduses
 	#LANG_END
 	
 	
+lastmajor: 2
+revision: 4
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+ts: 1441924447
 username: AlexDaniel
+keep-ts: 1441924447
 languages: 
+blocks: [Course:37883 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+minor: 1

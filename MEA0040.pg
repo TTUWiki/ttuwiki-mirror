@@ -1,10 +1,5 @@
-flags: 1
-ts: 1441924448
-revision: 4
-languages: 
-ip: 89.235.235.166
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 text: #SUBTITLE Auto tehnoseisundi juhtimine
 	#SUBURL [Course:32236 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +15,13 @@ text: #SUBTITLE Auto tehnoseisundi juhtimine
 	#LANG_END
 	
 	
-blocks: [Course:32236 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924448
-lastmajor: 2
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 host: 82.131.7.230
+flags: 10
+languages: 
+blocks: [Course:32236 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924448
+username: AlexDaniel

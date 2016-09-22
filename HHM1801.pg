@@ -1,11 +1,10 @@
-flags: 1
-minor: 1
-blocks: [Course:100381 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+ts: 1441924446
+keep-ts: 1441924446
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+lastmajor: 2
 text: #SUBTITLE Rahvusvaheline julgeolek
 	#SUBURL [Course:100381 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,8 @@ text: #SUBTITLE Rahvusvaheline julgeolek
 	#LANG_END
 	
 	
+host: 82.131.7.230
+flags: 10
 ip: 89.235.235.166
-languages: 
-lastmajor: 2
-keep-ts: 1441924446
+blocks: [Course:100381 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

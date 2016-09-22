@@ -1,3 +1,4 @@
+languages: 
 text: #SUBTITLE Eriseminar magistrantidele
 	#SUBURL [Course:32227 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +14,14 @@ text: #SUBTITLE Eriseminar magistrantidele
 	#LANG_END
 	
 	
-host: 82.131.7.230
-languages: 
-blocks: [Course:32227 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
+ip: 89.235.235.166
+username: AlexDaniel
 keep-ts: 1441924447
 minor: 1
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:32227 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924447
+flags: 10
+revision: 4
+host: 82.131.7.230

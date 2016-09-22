@@ -1,9 +1,5 @@
-username: AlexDaniel
+ts: 1441924447
 host: 82.131.7.230
-keep-ts: 1441924447
-ip: 89.235.235.166
-revision: 4
-languages: 
 text: #SUBTITLE Matemaatilised meetodid keemiatehnikas I
 	#SUBURL [Course:27105 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +15,13 @@ text: #SUBTITLE Matemaatilised meetodid keemiatehnikas I
 	#LANG_END
 	
 	
-blocks: [Course:27105 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+revision: 4
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
 minor: 1
-flags: 1
-ts: 1441924447
+blocks: [Course:27105 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+keep-ts: 1441924447
+ip: 89.235.235.166

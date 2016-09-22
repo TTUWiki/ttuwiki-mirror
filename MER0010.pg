@@ -1,10 +1,9 @@
-ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
-keep-ts: 1441924448
-languages: 
-minor: 1
 revision: 4
+ip: 89.235.235.166
+flags: 10
+host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tehnoarendus ja innovatsioon
 	#SUBURL [Course:30513 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +19,9 @@ text: #SUBTITLE Tehnoarendus ja innovatsioon
 	#LANG_END
 	
 	
-blocks: [Course:30513 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30513 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924448
-flags: 1
+username: AlexDaniel
+minor: 1
+keep-ts: 1441924448
+lastmajor: 2

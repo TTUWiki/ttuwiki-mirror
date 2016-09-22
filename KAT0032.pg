@@ -1,8 +1,4 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-keep-ts: 1441924447
-revision: 4
+minor: 1
 text: #SUBTITLE Protsesside bilansid ja projekteerimine II
 	#SUBURL [Course:100066 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +14,14 @@ text: #SUBTITLE Protsesside bilansid ja projekteerimine II
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
+ts: 1441924447
 username: AlexDaniel
-lastmajor: 2
-ip: 89.235.235.166
-blocks: [Course:100066 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
 languages: 
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+blocks: [Course:100066 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4

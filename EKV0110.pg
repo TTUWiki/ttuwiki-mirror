@@ -1,7 +1,3 @@
-lastmajor: 2
-minor: 1
-blocks: [Course:100328 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
 text: #SUBTITLE Veekogude veekvaliteet ja veesääst
 	#SUBURL [Course:100328 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +13,15 @@ text: #SUBTITLE Veekogude veekvaliteet ja veesääst
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 ts: 1441924445
-username: AlexDaniel
 ip: 89.235.235.166
+languages: 
+blocks: [Course:100328 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 host: 82.131.7.230
-flags: 1
+flags: 10
+keep-ts: 1441924445
+revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

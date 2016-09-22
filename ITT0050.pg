@@ -1,5 +1,3 @@
-minor: 1
-summary: Remove placeholder
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -19,12 +17,16 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-username: AlexDaniel
-lastmajorsummary: homework 1
-ts: 1474471350
 keep-ts: 1474471350
-host: 85.253.108.27
 ip: 89.235.235.166
-languages: 
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+host: 85.253.108.27
 lastmajor: 8
+languages: 
+ts: 1474471350
+summary: Remove placeholder
+lastmajorsummary: homework 1
+minor: 1
+username: AlexDaniel
 revision: 9
+flags: 1

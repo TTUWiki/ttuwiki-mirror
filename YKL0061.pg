@@ -1,11 +1,5 @@
-ts: 1441924452
-host: 82.131.7.230
-keep-ts: 1441924452
-flags: 1
+revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-username: AlexDaniel
-blocks: [Course:110094 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Biokeemia I
 	#SUBURL [Course:110094 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +15,11 @@ text: #SUBTITLE Biokeemia I
 	#LANG_END
 	
 	
+blocks: [Course:110094 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 languages: 
-revision: 2
+username: AlexDaniel
+minor: 1
+keep-ts: 1441924452
+ts: 1441924452
+host: 82.131.7.230

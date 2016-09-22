@@ -1,6 +1,5 @@
-minor: 1
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Infohaldus ja digiarhiivindus
 	#SUBURL [Course:106954 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +15,13 @@ text: #SUBTITLE Infohaldus ja digiarhiivindus
 	#LANG_END
 	
 	
-languages: 
-revision: 4
-lastmajor: 2
-ts: 1441924447
-flags: 1
-host: 82.131.7.230
 keep-ts: 1441924447
-blocks: [Course:106954 〔Õppeaine ÕIS-is〕]
+flags: 10
 username: AlexDaniel
+lastmajor: 2
+languages: 
+ts: 1441924447
+blocks: [Course:106954 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
+revision: 4

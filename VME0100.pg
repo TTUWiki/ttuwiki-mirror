@@ -1,7 +1,8 @@
-ts: 1441924452
-revision: 2
 minor: 1
+ts: 1441924452
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109025 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924452
 text: #SUBTITLE Sadamate ekspluatatsioon
 	#SUBURL [Course:109025 〔Õppeaine ÕIS-is〕]
@@ -18,8 +19,7 @@ text: #SUBTITLE Sadamate ekspluatatsioon
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-blocks: [Course:109025 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 2
 username: AlexDaniel
+languages: 

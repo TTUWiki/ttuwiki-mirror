@@ -1,7 +1,9 @@
-username: AlexDaniel
-ts: 1441924448
-lastmajor: 2
 minor: 1
+flags: 10
+revision: 4
+keep-ts: 1441924448
+languages: 
+ip: 89.235.235.166
 text: #SUBTITLE Laeva hüdromehaanika ja sõiduomadused
 	#SUBURL [Course:107141 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +19,9 @@ text: #SUBTITLE Laeva hüdromehaanika ja sõiduomadused
 	#LANG_END
 	
 	
-languages: 
-flags: 1
-keep-ts: 1441924448
-blocks: [Course:107141 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
-ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
+blocks: [Course:107141 〔Õppeaine ÕIS-is〕]</div></div>

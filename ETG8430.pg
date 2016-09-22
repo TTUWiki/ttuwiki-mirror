@@ -1,11 +1,13 @@
-flags: 1
-keep-ts: 1441924445
 lastmajor: 2
-revision: 4
-ip: 89.235.235.166
+keep-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
+flags: 10
 languages: 
+revision: 4
+blocks: [Course:36620 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924445
 text: #SUBTITLE Valguse refraktsioon geodeetilistel mõõtmistel
 	#SUBURL [Course:36620 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +23,5 @@ text: #SUBTITLE Valguse refraktsioon geodeetilistel mõõtmistel
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:36620 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924445
+ip: 89.235.235.166
+host: 82.131.7.230

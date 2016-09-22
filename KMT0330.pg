@@ -1,3 +1,14 @@
+host: 82.131.7.230
+ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:100870 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+lastmajor: 2
+keep-ts: 1441924448
+ts: 1441924448
+username: AlexDaniel
 text: #SUBTITLE Tekstiilikatsetus
 	#SUBURL [Course:100870 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +24,4 @@ text: #SUBTITLE Tekstiilikatsetus
 	#LANG_END
 	
 	
-ts: 1441924448
 revision: 4
-username: AlexDaniel
-keep-ts: 1441924448
-languages: 
-ip: 89.235.235.166
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100870 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-flags: 1

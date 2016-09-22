@@ -1,3 +1,7 @@
+revision: 4
+host: 82.131.7.230
+lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Mikroelektroonika
 	#SUBURL [Course:29938 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Mikroelektroonika
 	#LANG_END
 	
 	
-blocks: [Course:29938 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29938 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
 username: AlexDaniel
 languages: 
-flags: 1
-lastmajor: 2
-host: 82.131.7.230
+flags: 10
 ts: 1441924447
-ip: 89.235.235.166
-revision: 4
+keep-ts: 1441924447
 minor: 1

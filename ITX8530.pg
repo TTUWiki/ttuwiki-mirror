@@ -1,7 +1,10 @@
-flags: 1
-blocks: [Course:110053 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+languages: 
+revision: 2
+minor: 1
+keep-ts: 1441924447
+blocks: [Course:110053 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Tarkvaraarenduse meeskonnaprojekt: tellimus
 	#SUBURL [Course:110053 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +21,5 @@ text: #SUBTITLE Tarkvaraarenduse meeskonnaprojekt: tellimus
 	
 	
 username: AlexDaniel
-minor: 1
-revision: 2
-ts: 1441924447
-keep-ts: 1441924447
-languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
