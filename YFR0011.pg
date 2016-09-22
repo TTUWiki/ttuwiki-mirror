@@ -1,4 +1,11 @@
-revision: 9
+host: 89.235.200.244
+lastmajorsummary: link to YFR0020
+username: Artur Gummel
+keep-ts: 1474554516
+ip: 89.235.235.166
+summary: 
+minor: 1
+revision: 10
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:29486 〔Õppeaine ÕIS-is〕]
 	
@@ -16,6 +23,8 @@ text: #SUBTITLE Füüsika I
 	
 	Необходимо выполнить 6 лабораторных работ. Для особо активных будет только 5.
 	http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/ 
+	Login: tudeng
+	Password: fyss
 	Пароль к pdf материалам: abi
 	
 	==Контрольные работы:
@@ -27,15 +36,6 @@ text: #SUBTITLE Füüsika I
 	На экзамен приходят все. Экзамен устный, три вопроса: 2 по теории и 1 задача. Кто пропустил много занятий, тем будут еще дополнительные вопросы, а кто написал контрольные на сумму от 160 до 200 баллов - будут предложены автоматы. 
 	PS: единицу в любом случае получите.
 	
-keep-ts: 1474535523
-ts: 1474535523
-lastmajorsummary: link to YFR0020
-host: 89.235.200.244
-summary: изменилась ссылка на материалы
 languages: 
-flags: 1
-ip: 89.235.235.166
-username: Artur Gummel
-blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
 lastmajor: 8
-minor: 1
+ts: 1474554516
