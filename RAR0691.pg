@@ -1,13 +1,11 @@
-minor: 1
-username: AlexDaniel
-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-blocks: [Course:37701 〔Õppeaine ÕIS-is〕]
+minor: 1
 host: 82.131.7.230
-lastmajor: 2
 ip: 89.235.235.166
-flags: 1
+keep-ts: 1441924449
+blocks: [Course:37701 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Kütusetööstuse protsessid ja seadmed I
 	#SUBURL [Course:37701 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Kütusetööstuse protsessid ja seadmed I
 	
 	
 revision: 4
-keep-ts: 1441924449
+ts: 1441924449
+lastmajor: 2
+username: AlexDaniel
