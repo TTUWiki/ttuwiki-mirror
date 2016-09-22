@@ -1,7 +1,14 @@
-ip: 89.235.235.166
-flags: 1
+flags: 10
+minor: 1
+blocks: [Course:108213 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924452
 languages: 
-host: 82.131.7.230
+lastmajor: 2
+ts: 1441924452
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
 text: #SUBTITLE Keemia ja materjaliõpetus
 	#SUBURL [Course:108213 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Keemia ja materjaliõpetus
 	#LANG_END
 	
 	
-blocks: [Course:108213 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924452
-lastmajor: 2
-username: AlexDaniel
+host: 82.131.7.230

@@ -1,15 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ts: 1441924451
-languages: 
-username: AlexDaniel
-revision: 4
 lastmajor: 2
-minor: 1
-blocks: [Course:102147 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-ip: 89.235.235.166
-flags: 1
 text: #SUBTITLE Euroopa Liidu integratsiooni ajalugu ja poliitikad
 	#SUBURL [Course:102147 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Euroopa Liidu integratsiooni ajalugu ja poliitikad
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+revision: 4
+languages: 
+minor: 1
+blocks: [Course:102147 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924451
+keep-ts: 1441924451
+username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

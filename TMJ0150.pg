@@ -1,11 +1,7 @@
-username: AlexDaniel
-ip: 89.235.235.166
-keep-ts: 1441924451
-lastmajor: 2
-host: 82.131.7.230
+flags: 10
 ts: 1441924451
-revision: 4
-minor: 1
+lastmajor: 2
+blocks: [Course:37859 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Äri planeerimine
@@ -23,5 +19,9 @@ text: #SUBTITLE Äri planeerimine
 	#LANG_END
 	
 	
-flags: 1
-blocks: [Course:37859 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+keep-ts: 1441924451
+username: AlexDaniel
+host: 82.131.7.230
+revision: 4
+minor: 1

@@ -1,4 +1,3 @@
-username: AlexDaniel
 text: #SUBTITLE Logistika ja transport
 	#SUBURL [Course:33922 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +13,15 @@ text: #SUBTITLE Logistika ja transport
 	#LANG_END
 	
 	
-languages: 
-revision: 4
-host: 82.131.7.230
-keep-ts: 1441924444
-flags: 1
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:33922 〔Õppeaine ÕIS-is〕]
+blocks: [Course:33922 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 lastmajor: 2
+languages: 
+ip: 89.235.235.166
+revision: 4
+minor: 1
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
+ts: 1441924444

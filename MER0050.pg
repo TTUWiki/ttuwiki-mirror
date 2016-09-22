@@ -1,9 +1,13 @@
-flags: 1
-ts: 1441924448
+languages: 
+minor: 1
+blocks: [Course:30515 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-lastmajor: 2
-ip: 89.235.235.166
 revision: 4
+flags: 10
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Raalprojekteerimine
 	#SUBURL [Course:30515 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +23,5 @@ text: #SUBTITLE Raalprojekteerimine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30515 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-languages: 
-host: 82.131.7.230
-minor: 1
+lastmajor: 2
+ip: 89.235.235.166

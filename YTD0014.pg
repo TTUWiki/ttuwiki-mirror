@@ -1,13 +1,9 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 minor: 1
-host: 82.131.7.230
-flags: 1
-languages: 
+username: AlexDaniel
 ip: 89.235.235.166
 ts: 1441924453
-blocks: [Course:100943 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Geenitehnoloogia II
 	#SUBURL [Course:100943 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Geenitehnoloogia II
 	#LANG_END
 	
 	
+flags: 10
+host: 82.131.7.230
 revision: 4
+languages: 
+blocks: [Course:100943 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924453

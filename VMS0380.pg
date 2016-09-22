@@ -1,6 +1,11 @@
-minor: 1
-languages: 
+username: AlexDaniel
+keep-ts: 1441924452
+flags: 10
 ts: 1441924452
+revision: 2
+blocks: [Course:110112 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Transpordi- ja laologistika
 	#SUBURL [Course:110112 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +21,5 @@ text: #SUBTITLE Transpordi- ja laologistika
 	#LANG_END
 	
 	
-keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
-blocks: [Course:110112 〔Õppeaine ÕIS-is〕]
+languages: 
