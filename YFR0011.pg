@@ -1,15 +1,14 @@
-blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
-host: 85.253.177.126
-ts: 1454276711
-summary: link to YFR0020
-keep-ts: 1454276711
-flags: 1
-minor: 
+minor: 1
+lastmajor: 8
+summary: изменилась ссылка на материалы
+keep-ts: 1474535523
+username: Artur Gummel
+ts: 1474535523
+host: 89.235.200.244
+revision: 9
 ip: 89.235.235.166
 languages: 
 lastmajorsummary: link to YFR0020
-lastmajor: 8
-revision: 8
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:29486 〔Õppeaine ÕIS-is〕]
 	
@@ -26,8 +25,8 @@ text: #SUBTITLE Füüsika I
 	==Лабораторные работы:
 	
 	Необходимо выполнить 6 лабораторных работ. Для особо активных будет только 5.
-	http://parsek.yf.ttu.ee/inst/praktikumid 
-	Пароль к материалам: abi
+	http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/ 
+	Пароль к pdf материалам: abi
 	
 	==Контрольные работы:
 	
@@ -38,4 +37,3 @@ text: #SUBTITLE Füüsika I
 	На экзамен приходят все. Экзамен устный, три вопроса: 2 по теории и 1 задача. Кто пропустил много занятий, тем будут еще дополнительные вопросы, а кто написал контрольные на сумму от 160 до 200 баллов - будут предложены автоматы. 
 	PS: единицу в любом случае получите.
 	
-username: AlexDaniel
