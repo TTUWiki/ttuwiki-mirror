@@ -1,5 +1,4 @@
-ts: 1474411631
-ip: 89.235.239.240
+languages: 
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -22,12 +21,16 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	 * [[ISS0010|Süsteemiteooria]] - как делать лабы в [[http://www.scilab.org/ Scilab]], а также немного про [[http://www.sagemath.org/ Sage]] и [[http://sourceforge.net/projects/python-control/ python-control]].
 	 * [[IDK0015|Andmetöötlus]] - практика в [[http://www.libreoffice.org/ LibreOffice]].
 	
+	== My Notes:
+	* https://www.youtube.com/watch?v=yJDv-zdhzMY
+	
+ts: 1474548154
+ip: 89.235.239.240
+keep-ts: 1474548154
+summary: The Mother of All Demos (1968)
+lastmajorsummary: The Mother of All Demos (1968)
 host: 85.253.108.27
-lastmajorsummary: No longer subject to change. That's what I declared.
-minor: 
+revision: 24
+lastmajor: 24
 username: AlexDaniel
-lastmajor: 23
-summary: No longer subject to change. That's what I declared.
-revision: 23
-keep-ts: 1474411631
-languages: 
+minor: 
