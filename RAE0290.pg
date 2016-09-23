@@ -1,7 +1,6 @@
-languages: 
-minor: 1
-username: AlexDaniel
 host: 82.131.7.230
+minor: 1
+ip: 89.235.235.166
 text: #SUBTITLE Metroloogia ja kvaliteet
 	#SUBURL [Course:106119 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +16,12 @@ text: #SUBTITLE Metroloogia ja kvaliteet
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
-ip: 89.235.235.166
-revision: 4
-blocks: [Course:106119 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
+username: AlexDaniel
+lastmajor: 2
+blocks: [Course:106119 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
+flags: 10

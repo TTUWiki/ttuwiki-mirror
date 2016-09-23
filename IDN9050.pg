@@ -1,15 +1,11 @@
-languages: 
-blocks: [Course:101878 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924447
 username: AlexDaniel
-ts: 1441924447
-flags: 1
-lastmajor: 2
-minor: 1
+host: 82.131.7.230
 revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 ip: 89.235.235.166
+flags: 10
+lastmajor: 2
 text: #SUBTITLE Andmekaevandamise eriteemad
 	#SUBURL [Course:101878 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Andmekaevandamise eriteemad
 	#LANG_END
 	
 	
+keep-ts: 1441924447
+minor: 1
+ts: 1441924447
+blocks: [Course:101878 〔Õppeaine ÕIS-is〕]</div></div>

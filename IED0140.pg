@@ -1,6 +1,12 @@
-ip: 89.235.235.166
+host: 82.131.7.230
+ts: 1441924447
+flags: 10
 username: AlexDaniel
+keep-ts: 1441924447
 minor: 1
+blocks: [Course:37216 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Mikrolülituste skeemitehnika
 	#SUBURL [Course:37216 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Mikrolülituste skeemitehnika
 	#LANG_END
 	
 	
-host: 82.131.7.230
 languages: 
-flags: 1
-revision: 4
-ts: 1441924447
-blocks: [Course:37216 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
+revision: 4

@@ -29,12 +29,14 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	
 	
 lastmajorsummary: first assignment
-keep-ts: 1474628828
 minor: 1
 languages: 
-summary: 
 lastmajor: 6
-ts: 1474628828
+flags: 1
+blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
 host: 193.40.250.233
+keep-ts: 1474628828
+summary: 
 username: Artur Gummel
+ts: 1474628828
 revision: 7

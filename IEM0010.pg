@@ -1,12 +1,15 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-host: 82.131.7.230
 ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1441924447
-blocks: [Course:29936 〔Õppeaine ÕIS-is〕]
+flags: 10
 minor: 1
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+blocks: [Course:29936 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+languages: 
+host: 82.131.7.230
+ts: 1441924447
 text: #SUBTITLE Juhtimine ja side elektronsüsteemides
 	#SUBURL [Course:29936 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Juhtimine ja side elektronsüsteemides
 	#LANG_END
 	
 	
-ts: 1441924447
-flags: 1
-lastmajor: 2

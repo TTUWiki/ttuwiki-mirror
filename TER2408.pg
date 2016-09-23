@@ -1,7 +1,14 @@
-ts: 1441924450
-blocks: [Course:106050 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+blocks: [Course:106050 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 ip: 89.235.235.166
+languages: 
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 10
+ts: 1441924450
+keep-ts: 1441924450
+revision: 4
 text: #SUBTITLE Raha, turud ja finantsvahendus
 	#SUBURL [Course:106050 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Raha, turud ja finantsvahendus
 	#LANG_END
 	
 	
-revision: 4
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-keep-ts: 1441924450
-languages: 
-minor: 1

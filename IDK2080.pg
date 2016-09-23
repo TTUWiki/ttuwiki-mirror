@@ -1,14 +1,4 @@
-minor: 1
-blocks: [Course:32320 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
-keep-ts: 1441924447
-host: 82.131.7.230
-revision: 4
 languages: 
-flags: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Infotehnoloogia
 	#SUBURL [Course:32320 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Infotehnoloogia
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ip: 89.235.235.166
+blocks: [Course:32320 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+keep-ts: 1441924447
+host: 82.131.7.230
 ts: 1441924447
+minor: 1
+username: AlexDaniel
+lastmajor: 2

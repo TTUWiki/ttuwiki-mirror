@@ -1,14 +1,6 @@
-revision: 4
-lastmajor: 2
-host: 82.131.7.230
-flags: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-keep-ts: 1441924447
 ts: 1441924447
-minor: 1
+lastmajor: 2
+keep-ts: 1441924447
 text: #SUBTITLE Juhtimise infosüsteemid
 	#SUBURL [Course:31582 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Juhtimise infosüsteemid
 	#LANG_END
 	
 	
-blocks: [Course:31582 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31582 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+flags: 10
+revision: 4
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1

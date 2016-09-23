@@ -1,5 +1,4 @@
-blocks: [Course:100341 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+flags: 10
 text: #SUBTITLE Polümeeride füüsika ja mehaanika
 	#SUBURL [Course:100341 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +14,14 @@ text: #SUBTITLE Polümeeride füüsika ja mehaanika
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-username: AlexDaniel
-host: 82.131.7.230
 ts: 1441924447
-revision: 4
+username: AlexDaniel
+languages: 
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924447
+lastmajor: 2
+blocks: [Course:100341 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4

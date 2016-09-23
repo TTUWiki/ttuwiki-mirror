@@ -1,14 +1,4 @@
 ts: 1441924446
-lastmajor: 2
-flags: 1
-revision: 4
-blocks: [Course:35092 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924446
-host: 82.131.7.230
-minor: 1
-ip: 89.235.235.166
-languages: 
 text: #SUBTITLE Personalipsühholoogia
 	#SUBURL [Course:35092 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Personalipsühholoogia
 	#LANG_END
 	
 	
+username: AlexDaniel
+lastmajor: 2
+flags: 10
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+keep-ts: 1441924446
+host: 82.131.7.230
+minor: 1
+blocks: [Course:35092 〔Õppeaine ÕIS-is〕]</div></div>

@@ -1,8 +1,4 @@
-blocks: [Course:100333 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
+keep-ts: 1441924447
 text: #SUBTITLE Plastide töötlemistehnika
 	#SUBURL [Course:100333 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +14,14 @@ text: #SUBTITLE Plastide töötlemistehnika
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
-minor: 1
-flags: 1
-keep-ts: 1441924447
+ip: 89.235.235.166
+ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+lastmajor: 2
+flags: 10
 languages: 
+username: AlexDaniel
+minor: 1
+blocks: [Course:100333 〔Õppeaine ÕIS-is〕]</div></div>
