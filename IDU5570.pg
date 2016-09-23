@@ -1,5 +1,9 @@
-flags: 1
-username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924447
+blocks: [Course:26791 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+keep-ts: 1441924447
 minor: 1
 text: #SUBTITLE Infosüsteemide arendamise tehnoloogia
 	#SUBURL [Course:26791 〔Õppeaine ÕIS-is〕]
@@ -16,12 +20,8 @@ text: #SUBTITLE Infosüsteemide arendamise tehnoloogia
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-blocks: [Course:26791 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-lastmajor: 2
 languages: 
-host: 82.131.7.230
-keep-ts: 1441924447
+username: AlexDaniel
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
