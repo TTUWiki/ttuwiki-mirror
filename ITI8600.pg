@@ -1,9 +1,3 @@
-host: 193.40.250.239
-ts: 1473421898
-blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: first assignment
-revision: 6
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	
@@ -15,6 +9,9 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	
 	https://github.com/hobson/aima
 	https://github.com/aimacode/aima-python
+	
+	https://uniid@git.ttu.ee/ained/iti8600/hw1"team_name".git
+	
 	
 	----
 	
@@ -31,9 +28,13 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- Artur Gummel 2016-09-05 14:23:01
 	
 	
-username: Marjana Voronina
 lastmajorsummary: first assignment
+keep-ts: 1474628828
+minor: 1
 languages: 
-minor: 
+summary: 
 lastmajor: 6
-keep-ts: 1473421898
+ts: 1474628828
+host: 193.40.250.233
+username: Artur Gummel
+revision: 7
