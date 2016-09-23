@@ -1,7 +1,3 @@
-blocks: [Course:32184 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-keep-ts: 1441924451
 text: #SUBTITLE Ärisuhtlus
 	#SUBURL [Course:32184 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +13,15 @@ text: #SUBTITLE Ärisuhtlus
 	#LANG_END
 	
 	
-revision: 4
-ts: 1441924451
-flags: 1
-host: 82.131.7.230
 ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924451
+revision: 4
 minor: 1
+blocks: [Course:32184 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924451
+username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 10

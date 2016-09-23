@@ -1,6 +1,6 @@
+ts: 1441924449
 revision: 2
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Erialane inglise keel
 	#SUBURL [Course:107317 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +16,10 @@ text: #SUBTITLE Erialane inglise keel
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ts: 1441924449
-username: AlexDaniel
-minor: 1
-blocks: [Course:107317 〔Õppeaine ÕIS-is〕]
+blocks: [Course:107317 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924449
-flags: 1
+host: 82.131.7.230
+flags: 10
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

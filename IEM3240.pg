@@ -1,6 +1,5 @@
-blocks: [Course:104854 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
 revision: 4
+blocks: [Course:104854 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Biomeditsiinielektroonika
 	#SUBURL [Course:104854 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +16,12 @@ text: #SUBTITLE Biomeditsiinielektroonika
 	
 	
 minor: 1
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-ip: 89.235.235.166
+keep-ts: 1441924447
+flags: 10
 host: 82.131.7.230
-username: AlexDaniel
 languages: 
+ip: 89.235.235.166
+ts: 1441924447
+username: AlexDaniel
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

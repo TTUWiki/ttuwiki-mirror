@@ -1,15 +1,7 @@
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-blocks: [Course:33179 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-keep-ts: 1441924453
 minor: 1
-ip: 89.235.235.166
+languages: 
 revision: 4
-ts: 1441924453
+keep-ts: 1441924453
 text: #SUBTITLE Keemia ja geenitehnoloogia valdkonna doktoriseminar
 	#SUBURL [Course:33179 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +17,11 @@ text: #SUBTITLE Keemia ja geenitehnoloogia valdkonna doktoriseminar
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+blocks: [Course:33179 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 10
+username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924453

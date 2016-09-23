@@ -1,6 +1,9 @@
-minor: 1
-blocks: [Course:101281 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
 languages: 
+minor: 1
+ip: 89.235.235.166
+lastmajor: 2
+flags: 10
 text: #SUBTITLE Soojusjõuseadmed
 	#SUBURL [Course:101281 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Soojusjõuseadmed
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-keep-ts: 1441924448
-flags: 1
-ts: 1441924448
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-revision: 4
 username: AlexDaniel
+keep-ts: 1441924448
+blocks: [Course:101281 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4

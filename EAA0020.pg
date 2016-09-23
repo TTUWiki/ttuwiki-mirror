@@ -1,4 +1,5 @@
-flags: 1
+ts: 1441924444
+host: 82.131.7.230
 text: #SUBTITLE Arhitektuurne projekt [Põhja-Euroopa workshop]
 	#SUBURL [Course:109496 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +15,11 @@ text: #SUBTITLE Arhitektuurne projekt [Põhja-Euroopa workshop]
 	#LANG_END
 	
 	
-keep-ts: 1441924444
-ts: 1441924444
-revision: 2
+flags: 10
 languages: 
-blocks: [Course:109496 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109496 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
 minor: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444

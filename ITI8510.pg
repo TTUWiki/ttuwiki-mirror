@@ -1,8 +1,11 @@
+flags: 10
+username: AlexDaniel
 ts: 1441924447
 ip: 89.235.235.166
-revision: 4
 lastmajor: 2
 languages: 
+minor: 1
+revision: 4
 text: #SUBTITLE Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine
 	#SUBURL [Course:101240 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Reaalaja operatsioonisüsteemid ja süsteemprogrammeerimine
 	#LANG_END
 	
 	
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:101240 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-flags: 1
 host: 82.131.7.230
+blocks: [Course:101240 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

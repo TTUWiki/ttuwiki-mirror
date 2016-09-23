@@ -1,14 +1,9 @@
-host: 82.131.7.230
-ts: 1441924444
-minor: 1
-keep-ts: 1441924444
+ip: 89.235.235.166
 languages: 
-revision: 4
-username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101092 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+blocks: [Course:101092 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Makroökonoomika
 	#SUBURL [Course:101092 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +19,9 @@ text: #SUBTITLE Makroökonoomika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+keep-ts: 1441924444
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+lastmajor: 2

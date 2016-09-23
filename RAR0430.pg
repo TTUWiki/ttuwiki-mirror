@@ -1,5 +1,10 @@
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
+minor: 1
 ts: 1441924449
+blocks: [Course:34400 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 username: AlexDaniel
 text: #SUBTITLE Objektorienteeritud modelleerimine
 	#SUBURL [Course:34400 〔Õppeaine ÕIS-is〕]
@@ -16,12 +21,7 @@ text: #SUBTITLE Objektorienteeritud modelleerimine
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-blocks: [Course:34400 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
-minor: 1
+revision: 4
+flags: 10
 host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

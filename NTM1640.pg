@@ -1,11 +1,11 @@
-blocks: [Course:106944 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
-lastmajor: 2
+flags: 10
+blocks: [Course:106944 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924449
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+ip: 89.235.235.166
 ts: 1441924449
+lastmajor: 2
 username: AlexDaniel
 text: #SUBTITLE Nüüdisaegne planeerimine ja jätkusuutlikkus
 	#SUBURL [Course:106944 〔Õppeaine ÕIS-is〕]
@@ -22,6 +22,6 @@ text: #SUBTITLE Nüüdisaegne planeerimine ja jätkusuutlikkus
 	#LANG_END
 	
 	
+minor: 1
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+languages: 

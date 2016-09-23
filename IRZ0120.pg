@@ -1,15 +1,13 @@
-minor: 1
-username: AlexDaniel
-ip: 89.235.235.166
 lastmajor: 2
+blocks: [Course:29884 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 keep-ts: 1441924447
-host: 82.131.7.230
-blocks: [Course:29884 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
 languages: 
+revision: 4
+ts: 1441924447
+username: AlexDaniel
+minor: 1
 text: #SUBTITLE Hajaspekter sides
 	#SUBURL [Course:29884 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +23,5 @@ text: #SUBTITLE Hajaspekter sides
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+host: 82.131.7.230

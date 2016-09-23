@@ -1,8 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+languages: 
 username: AlexDaniel
-blocks: [Course:31886 〔Õppeaine ÕIS-is〕]
-revision: 4
+flags: 10
+minor: 1
+ip: 89.235.235.166
+lastmajor: 2
+host: 82.131.7.230
+ts: 1441924452
+keep-ts: 1441924452
 text: #SUBTITLE Kvaliteedisüsteem laboris ja ettevõttes
 	#SUBURL [Course:31886 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +22,6 @@ text: #SUBTITLE Kvaliteedisüsteem laboris ja ettevõttes
 	#LANG_END
 	
 	
-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-ip: 89.235.235.166
-flags: 1
-lastmajor: 2
-languages: 
+revision: 4
+blocks: [Course:31886 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

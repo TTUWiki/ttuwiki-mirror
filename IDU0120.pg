@@ -1,8 +1,11 @@
 revision: 4
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
+minor: 1
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
 languages: 
+ts: 1441924447
 text: #SUBTITLE Andmebaaside programmeerimine
 	#SUBURL [Course:36225 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Andmebaaside programmeerimine
 	#LANG_END
 	
 	
+host: 82.131.7.230
+blocks: [Course:36225 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924447
-lastmajor: 2
-ip: 89.235.235.166
-blocks: [Course:36225 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-flags: 1
+flags: 10

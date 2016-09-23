@@ -1,13 +1,13 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:109021 〔Õppeaine ÕIS-is〕]
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
-languages: 
 minor: 1
+username: AlexDaniel
+flags: 10
+languages: 
 host: 82.131.7.230
 keep-ts: 1441924452
+blocks: [Course:109021 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Merendusklaster Eestis ja Euroopa riikides
 	#SUBURL [Course:109021 〔Õppeaine ÕIS-is〕]
 	

@@ -1,7 +1,14 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+ts: 1441924448
 lastmajor: 2
+minor: 1
+ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:33658 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+flags: 10
+keep-ts: 1441924448
 text: #SUBTITLE Täiendavad peatükid füüsikalisest keemiast II
 	#SUBURL [Course:33658 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Täiendavad peatükid füüsikalisest keemiast II
 	#LANG_END
 	
 	
-ts: 1441924448
-flags: 1
-ip: 89.235.235.166
-revision: 4
-minor: 1
-host: 82.131.7.230
-keep-ts: 1441924448
-blocks: [Course:33658 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

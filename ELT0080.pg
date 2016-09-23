@@ -1,5 +1,10 @@
+languages: 
+host: 82.131.7.230
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:108412 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+keep-ts: 1441924445
 text: #SUBTITLE Varude juhtimine ja koostöö tarneahelas
 	#SUBURL [Course:108412 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Varude juhtimine ja koostöö tarneahelas
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
-host: 82.131.7.230
-minor: 1
-languages: 
-ip: 89.235.235.166
-keep-ts: 1441924445
-lastmajor: 2
-flags: 1
 ts: 1441924445
+blocks: [Course:108412 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+username: AlexDaniel
+flags: 10

@@ -1,7 +1,7 @@
-keep-ts: 1441924452
-host: 82.131.7.230
-username: AlexDaniel
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110181 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
 text: #SUBTITLE Kalapüügi bioloogilised alused ja kalapüügitehnoloogia
 	#SUBURL [Course:110181 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +17,9 @@ text: #SUBTITLE Kalapüügi bioloogilised alused ja kalapüügitehnoloogia
 	#LANG_END
 	
 	
-ts: 1441924452
-blocks: [Course:110181 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+ts: 1441924452
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924452

@@ -1,11 +1,8 @@
-keep-ts: 1441924447
-flags: 1
-lastmajor: 2
-ts: 1441924447
+username: AlexDaniel
+minor: 1
+blocks: [Course:37873 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
-host: 82.131.7.230
-languages: 
-blocks: [Course:37873 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Süsteemiarhitektuurid
 	#SUBURL [Course:37873 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Süsteemiarhitektuurid
 	#LANG_END
 	
 	
+languages: 
+ts: 1441924447
+lastmajor: 2
+host: 82.131.7.230
+flags: 10
+keep-ts: 1441924447
 ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

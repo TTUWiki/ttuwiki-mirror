@@ -1,14 +1,14 @@
-host: 82.131.7.230
-flags: 1
-blocks: [Course:102175 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
-keep-ts: 1441924451
-ts: 1441924451
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 minor: 1
+username: AlexDaniel
+keep-ts: 1441924451
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+host: 82.131.7.230
+blocks: [Course:102175 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Rahvusvaheline poliitökonoomia
 	#SUBURL [Course:102175 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +24,4 @@ text: #SUBTITLE Rahvusvaheline poliitökonoomia
 	#LANG_END
 	
 	
-username: AlexDaniel
+ts: 1441924451

@@ -1,3 +1,14 @@
+revision: 4
+minor: 1
+ts: 1441924448
+blocks: [Course:108078 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+keep-ts: 1441924448
 text: #SUBTITLE Mobiilirakenduste loomine
 	#SUBURL [Course:108078 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +24,4 @@ text: #SUBTITLE Mobiilirakenduste loomine
 	#LANG_END
 	
 	
-username: AlexDaniel
-languages: 
-minor: 1
-ip: 89.235.235.166
-flags: 1
-ts: 1441924448
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-blocks: [Course:108078 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4

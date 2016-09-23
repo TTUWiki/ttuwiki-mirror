@@ -1,13 +1,14 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+blocks: [Course:105190 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-flags: 1
-keep-ts: 1441924448
-username: AlexDaniel
 host: 82.131.7.230
+lastmajor: 2
+username: AlexDaniel
+revision: 4
+keep-ts: 1441924448
 languages: 
 ts: 1441924448
-blocks: [Course:105190 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Mõõtmised mehhanotehnikas ja mehhatroonikas
 	#SUBURL [Course:105190 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Mõõtmised mehhanotehnikas ja mehhatroonikas
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
+flags: 10

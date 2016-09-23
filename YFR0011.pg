@@ -1,11 +1,4 @@
-host: 89.235.200.244
-lastmajorsummary: link to YFR0020
-username: Artur Gummel
-keep-ts: 1474554516
-ip: 89.235.235.166
-summary: 
-minor: 1
-revision: 10
+ts: 1474554516
 text: #SUBTITLE Füüsika I
 	#SUBURL [Course:29486 〔Õppeaine ÕIS-is〕]
 	
@@ -36,6 +29,15 @@ text: #SUBTITLE Füüsika I
 	На экзамен приходят все. Экзамен устный, три вопроса: 2 по теории и 1 задача. Кто пропустил много занятий, тем будут еще дополнительные вопросы, а кто написал контрольные на сумму от 160 до 200 баллов - будут предложены автоматы. 
 	PS: единицу в любом случае получите.
 	
-languages: 
+host: 89.235.200.244
+minor: 1
+blocks: [Course:29486 〔Õppeaine ÕIS-is〕]
+keep-ts: 1474554516
+revision: 10
 lastmajor: 8
-ts: 1474554516
+flags: 1
+languages: 
+summary: 
+username: Artur Gummel
+ip: 89.235.235.166
+lastmajorsummary: link to YFR0020

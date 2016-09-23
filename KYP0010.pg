@@ -1,11 +1,9 @@
-keep-ts: 1441924448
-username: AlexDaniel
 languages: 
-blocks: [Course:29283 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
 revision: 4
-lastmajor: 2
+ts: 1441924448
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924448
 text: #SUBTITLE Materjali füüsika ja keemia
 	#SUBURL [Course:29283 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +19,9 @@ text: #SUBTITLE Materjali füüsika ja keemia
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ts: 1441924448
-ip: 89.235.235.166
+username: AlexDaniel
+blocks: [Course:29283 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+flags: 10
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

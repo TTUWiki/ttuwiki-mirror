@@ -1,10 +1,14 @@
-ts: 1441924445
-lastmajor: 2
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:31661 〔Õppeaine ÕIS-is〕]
 minor: 1
+revision: 4
+blocks: [Course:31661 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+username: AlexDaniel
+languages: 
 keep-ts: 1441924445
+flags: 10
+lastmajor: 2
+ts: 1441924445
 text: #SUBTITLE Rakendusmehaanika seminar I
 	#SUBURL [Course:31661 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +25,3 @@ text: #SUBTITLE Rakendusmehaanika seminar I
 	
 	
 ip: 89.235.235.166
-revision: 4
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel

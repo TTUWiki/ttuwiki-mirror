@@ -1,6 +1,3 @@
-host: 82.131.7.230
-flags: 1
-blocks: [Course:103673 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Keskkonnasäästlik disain
 	#SUBURL [Course:103673 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +13,15 @@ text: #SUBTITLE Keskkonnasäästlik disain
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ts: 1441924445
-minor: 1
 revision: 4
-keep-ts: 1441924445
+ts: 1441924445
 username: AlexDaniel
+flags: 10
+host: 82.131.7.230
+keep-ts: 1441924445
+minor: 1
+ip: 89.235.235.166
+lastmajor: 2
 languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:103673 〔Õppeaine ÕIS-is〕]</div></div>

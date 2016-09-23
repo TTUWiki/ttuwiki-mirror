@@ -1,11 +1,5 @@
-minor: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 2
 keep-ts: 1441924452
-host: 82.131.7.230
-ts: 1441924452
+languages: 
 text: #SUBTITLE Geodeesia tehnoloogiline praktika
 	#SUBURL [Course:110092 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +15,11 @@ text: #SUBTITLE Geodeesia tehnoloogiline praktika
 	#LANG_END
 	
 	
-blocks: [Course:110092 〔Õppeaine ÕIS-is〕]
-flags: 1
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+username: AlexDaniel
+revision: 2
+blocks: [Course:110092 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ts: 1441924452

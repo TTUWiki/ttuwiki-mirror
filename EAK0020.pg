@@ -1,4 +1,7 @@
-blocks: [Course:109949 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109949 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+ts: 1441924444
 text: #SUBTITLE Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad
 	#SUBURL [Course:109949 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +17,9 @@ text: #SUBTITLE Kaasaegse arhitektuuri- ja linnaplaneerimise teooriad
 	#LANG_END
 	
 	
-revision: 2
 host: 82.131.7.230
-username: AlexDaniel
-minor: 1
-languages: 
 keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-flags: 1
+minor: 1
+username: AlexDaniel
+flags: 10
+languages: 

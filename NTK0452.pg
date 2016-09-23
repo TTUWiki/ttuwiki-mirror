@@ -1,11 +1,10 @@
-blocks: [Course:39139 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
+languages: 
+username: AlexDaniel
+flags: 10
+ts: 1441924449
 minor: 1
-ip: 89.235.235.166
+blocks: [Course:39139 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Projektikorraldus - ainetöö
 	#SUBURL [Course:39139 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,8 @@ text: #SUBTITLE Projektikorraldus - ainetöö
 	#LANG_END
 	
 	
-ts: 1441924449
-languages: 
-username: AlexDaniel
-flags: 1
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
+revision: 4

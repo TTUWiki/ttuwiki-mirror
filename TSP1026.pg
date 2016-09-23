@@ -1,4 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106206 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
 text: #SUBTITLE Hiina välispoliitika 20. ja 21. sajandil
 	#SUBURL [Course:106206 〔Õppeaine ÕIS-is〕]
@@ -15,13 +15,13 @@ text: #SUBTITLE Hiina välispoliitika 20. ja 21. sajandil
 	#LANG_END
 	
 	
-keep-ts: 1441924451
-username: AlexDaniel
-blocks: [Course:106206 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-languages: 
-revision: 4
-host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-flags: 1
 ts: 1441924451
+revision: 4
+keep-ts: 1441924451
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230

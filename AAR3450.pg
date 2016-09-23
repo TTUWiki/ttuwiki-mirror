@@ -1,3 +1,6 @@
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:25771 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Mõõtetehnika alused
 	#SUBURL [Course:25771 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +16,12 @@ text: #SUBTITLE Mõõtetehnika alused
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924443
-flags: 1
 languages: 
-lastmajor: 2
-blocks: [Course:25771 〔Õppeaine ÕIS-is〕]
-minor: 1
-ip: 89.235.235.166
 host: 82.131.7.230
-username: AlexDaniel
-revision: 4
 keep-ts: 1441924443
+revision: 4
+ts: 1441924443
+ip: 89.235.235.166
+flags: 10
+minor: 1
+lastmajor: 2

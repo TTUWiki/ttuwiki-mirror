@@ -1,14 +1,3 @@
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-blocks: [Course:26903 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924447
-username: AlexDaniel
-host: 82.131.7.230
-languages: 
-minor: 1
-lastmajor: 2
 text: #SUBTITLE Andmebaaside projekteerimine
 	#SUBURL [Course:26903 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +13,15 @@ text: #SUBTITLE Andmebaaside projekteerimine
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:26903 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+languages: 
+ip: 89.235.235.166
+flags: 10
+ts: 1441924447
+keep-ts: 1441924447
+username: AlexDaniel
+minor: 1
 revision: 4
+lastmajor: 2

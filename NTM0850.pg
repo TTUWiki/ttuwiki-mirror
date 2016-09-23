@@ -1,13 +1,11 @@
-blocks: [Course:38900 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-lastmajor: 2
 ts: 1441924449
+username: AlexDaniel
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+blocks: [Course:38900 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924449
 minor: 1
-languages: 
-revision: 4
-flags: 1
+flags: 10
 text: #SUBTITLE Maamõõtmine
 	#SUBURL [Course:38900 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Maamõõtmine
 	
 	
 ip: 89.235.235.166
-username: AlexDaniel
+languages: 
+host: 82.131.7.230
+revision: 4

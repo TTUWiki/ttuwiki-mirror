@@ -1,7 +1,13 @@
-host: 82.131.7.230
-lastmajor: 2
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+revision: 4
+minor: 1
+blocks: [Course:32897 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+flags: 10
+keep-ts: 1441924447
+username: AlexDaniel
+lastmajor: 2
 text: #SUBTITLE Tehisintellekti rakendused info- ja teadmussüsteemides
 	#SUBURL [Course:32897 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +23,5 @@ text: #SUBTITLE Tehisintellekti rakendused info- ja teadmussüsteemides
 	#LANG_END
 	
 	
-username: AlexDaniel
-keep-ts: 1441924447
-blocks: [Course:32897 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-revision: 4
-minor: 1
-ip: 89.235.235.166
-flags: 1
+languages: 
+host: 82.131.7.230

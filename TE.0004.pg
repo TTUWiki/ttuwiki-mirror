@@ -1,5 +1,10 @@
-ts: 1441924450
+lastmajor: 2
+languages: 
+keep-ts: 1441924450
+revision: 4
 username: AlexDaniel
+ts: 1441924450
+flags: 10
 text: #SUBTITLE Maamajanduse energeetika
 	#SUBURL [Course:101874 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Maamajanduse energeetika
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-ip: 89.235.235.166
-host: 82.131.7.230
-languages: 
-blocks: [Course:101874 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-flags: 1
 minor: 1
+ip: 89.235.235.166
+blocks: [Course:101874 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,14 +1,15 @@
-minor: 1
-host: 82.131.7.230
-flags: 1
-blocks: [Course:31141 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
 ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 lastmajor: 2
+flags: 10
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
+minor: 1
+languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31141 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451
 text: #SUBTITLE Jõustruktuuride logistika
 	#SUBURL [Course:31141 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Jõustruktuuride logistika
 	#LANG_END
 	
 	
-keep-ts: 1441924451

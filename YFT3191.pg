@@ -1,5 +1,9 @@
 keep-ts: 1441924452
+blocks: [Course:28327 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+lastmajor: 2
 host: 82.131.7.230
+ts: 1441924452
 text: #SUBTITLE Kaasaegne füüsika  I
 	#SUBURL [Course:28327 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +19,9 @@ text: #SUBTITLE Kaasaegne füüsika  I
 	#LANG_END
 	
 	
-flags: 1
-ts: 1441924452
-lastmajor: 2
-ip: 89.235.235.166
-blocks: [Course:28327 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
-languages: 
 minor: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
+username: AlexDaniel

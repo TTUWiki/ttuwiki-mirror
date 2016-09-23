@@ -1,13 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-languages: 
-ip: 89.235.235.166
 minor: 1
+flags: 10
+ip: 89.235.235.166
 revision: 4
-ts: 1441924447
-keep-ts: 1441924447
 lastmajor: 2
+blocks: [Course:29870 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+keep-ts: 1441924447
+ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Sidetehnilised standardid
 	#SUBURL [Course:29870 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Sidetehnilised standardid
 	#LANG_END
 	
 	
-flags: 1
-blocks: [Course:29870 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

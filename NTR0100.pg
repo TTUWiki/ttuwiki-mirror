@@ -1,11 +1,4 @@
-flags: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924449
 keep-ts: 1441924449
-host: 82.131.7.230
-minor: 1
 text: #SUBTITLE Programmeerimine keeles C
 	#SUBURL [Course:106875 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +14,12 @@ text: #SUBTITLE Programmeerimine keeles C
 	#LANG_END
 	
 	
-blocks: [Course:106875 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924449
+revision: 2
+languages: 
 username: AlexDaniel
+minor: 1
+blocks: [Course:106875 〔Õppeaine ÕIS-is〕]</div></div>

@@ -1,8 +1,4 @@
-keep-ts: 1441924449
-ts: 1441924449
-flags: 1
 languages: 
-blocks: [Course:106877 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sissejuhatus reaalaja tarkvaratehnikasse
 	#SUBURL [Course:106877 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +14,12 @@ text: #SUBTITLE Sissejuhatus reaalaja tarkvaratehnikasse
 	#LANG_END
 	
 	
-revision: 2
+ts: 1441924449
+blocks: [Course:106877 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 username: AlexDaniel
+revision: 2
 host: 82.131.7.230
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

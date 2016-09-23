@@ -1,13 +1,9 @@
-flags: 1
-lastmajor: 2
-minor: 1
+blocks: [Course:36936 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+keep-ts: 1441924451
+revision: 4
 ts: 1441924451
 host: 82.131.7.230
-languages: 
-revision: 4
-keep-ts: 1441924451
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Looduskasutuse ja keskkonnakaitse ökonoomika
 	#SUBURL [Course:36936 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +20,8 @@ text: #SUBTITLE Looduskasutuse ja keskkonnakaitse ökonoomika
 	
 	
 username: AlexDaniel
-blocks: [Course:36936 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+lastmajor: 2
+flags: 10
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

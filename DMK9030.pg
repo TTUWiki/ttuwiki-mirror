@@ -1,14 +1,15 @@
-username: AlexDaniel
-flags: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-lastmajor: 2
-host: 82.131.7.230
-revision: 4
-blocks: [Course:105058 〔Õppeaine ÕIS-is〕]
-languages: 
 keep-ts: 1441924444
+languages: 
+username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+flags: 10
+minor: 1
+blocks: [Course:105058 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924444
 text: #SUBTITLE Meditsiiniline kuvamine, andmebaaside teke, kasutamine ja kvaliteet
 	#SUBURL [Course:105058 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Meditsiiniline kuvamine, andmebaaside teke, kasutamine ja kvalit
 	#LANG_END
 	
 	
-minor: 1

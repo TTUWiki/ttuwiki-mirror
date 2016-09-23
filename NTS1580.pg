@@ -1,9 +1,10 @@
-flags: 1
-ts: 1441924449
-languages: 
 host: 82.131.7.230
-minor: 1
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924449
+blocks: [Course:109798 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+keep-ts: 1441924449
 text: #SUBTITLE Ehitusinformatsiooni modelleerimine (BIM)
 	#SUBURL [Course:109798 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +20,6 @@ text: #SUBTITLE Ehitusinformatsiooni modelleerimine (BIM)
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109798 〔Õppeaine ÕIS-is〕]
-revision: 2
-keep-ts: 1441924449
+minor: 1
+username: AlexDaniel
+languages: 

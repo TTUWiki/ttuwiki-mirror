@@ -1,8 +1,14 @@
 keep-ts: 1441924450
-ts: 1441924450
 languages: 
+revision: 4
+minor: 1
+blocks: [Course:30738 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
 ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel
 lastmajor: 2
 text: #SUBTITLE Majandusstatistika
 	#SUBURL [Course:30738 〔Õppeaine ÕIS-is〕]
@@ -19,9 +25,3 @@ text: #SUBTITLE Majandusstatistika
 	#LANG_END
 	
 	
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
-minor: 1
-flags: 1
-blocks: [Course:30738 〔Õppeaine ÕIS-is〕]

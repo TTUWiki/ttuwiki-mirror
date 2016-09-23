@@ -1,10 +1,14 @@
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108349 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
 keep-ts: 1441924444
 lastmajor: 2
-username: AlexDaniel
-blocks: [Course:108349 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+flags: 10
 ts: 1441924444
-languages: 
+minor: 1
 text: #SUBTITLE Biosensoorika
 	#SUBURL [Course:108349 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,4 @@ text: #SUBTITLE Biosensoorika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-flags: 1
-minor: 1
+host: 82.131.7.230

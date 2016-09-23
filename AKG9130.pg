@@ -1,3 +1,4 @@
+host: 82.131.7.230
 text: #SUBTITLE Rakendusgeoloogia individuaalõpe
 	#SUBURL [Course:100532 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +14,14 @@ text: #SUBTITLE Rakendusgeoloogia individuaalõpe
 	#LANG_END
 	
 	
-ts: 1441924444
-blocks: [Course:100532 〔Õppeaine ÕIS-is〕]
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-languages: 
-flags: 1
 minor: 1
-keep-ts: 1441924444
-host: 82.131.7.230
+blocks: [Course:100532 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 username: AlexDaniel
 revision: 4
+keep-ts: 1441924444
 ip: 89.235.235.166
+ts: 1441924444

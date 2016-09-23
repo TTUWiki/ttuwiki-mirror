@@ -1,8 +1,10 @@
-flags: 1
-ts: 1441924449
-keep-ts: 1441924449
-host: 82.131.7.230
 minor: 1
+blocks: [Course:109948 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Kütusetööstuse protsessid ja seadmed - ainetöö
 	#SUBURL [Course:109948 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +20,6 @@ text: #SUBTITLE Kütusetööstuse protsessid ja seadmed - ainetöö
 	#LANG_END
 	
 	
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109948 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924449
+keep-ts: 1441924449

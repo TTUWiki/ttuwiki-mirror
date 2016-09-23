@@ -1,7 +1,10 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29778 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 2
+minor: 1
+ip: 89.235.235.166
+ts: 1441924447
+blocks: [Course:29778 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924447
+revision: 4
 text: #SUBTITLE Kodeerimine ja krüpteerimine
 	#SUBURL [Course:29778 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +20,8 @@ text: #SUBTITLE Kodeerimine ja krüpteerimine
 	#LANG_END
 	
 	
-languages: 
-lastmajor: 2
-ts: 1441924447
+flags: 10
 username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 host: 82.131.7.230

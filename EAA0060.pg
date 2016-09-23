@@ -1,12 +1,10 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924444
 revision: 2
-ts: 1441924444
-flags: 1
-minor: 1
+blocks: [Course:109499 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
+username: AlexDaniel
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Arhitektuuriruumi kujunemine [Workshop Innsbruck]
 	#SUBURL [Course:109499 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +20,6 @@ text: #SUBTITLE Arhitektuuriruumi kujunemine [Workshop Innsbruck]
 	#LANG_END
 	
 	
-blocks: [Course:109499 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+ts: 1441924444

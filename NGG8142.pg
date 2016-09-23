@@ -1,12 +1,9 @@
-revision: 2
-username: AlexDaniel
-blocks: [Course:109841 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
 keep-ts: 1441924448
 languages: 
+blocks: [Course:109841 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+flags: 10
+ts: 1441924448
 text: #SUBTITLE Geokeemia alused
 	#SUBURL [Course:109841 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +19,7 @@ text: #SUBTITLE Geokeemia alused
 	#LANG_END
 	
 	
-ts: 1441924448
+revision: 2
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

@@ -1,8 +1,12 @@
-keep-ts: 1441924451
-ts: 1441924451
-blocks: [Course:109972 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+flags: 10
 revision: 2
+languages: 
+ts: 1441924451
+host: 82.131.7.230
+keep-ts: 1441924451
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE Keskkonna- ja säästva arengu poliitika
 	#SUBURL [Course:109972 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +22,4 @@ text: #SUBTITLE Keskkonna- ja säästva arengu poliitika
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
-host: 82.131.7.230
+blocks: [Course:109972 〔Õppeaine ÕIS-is〕]</div></div>

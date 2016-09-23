@@ -1,14 +1,7 @@
-languages: 
+flags: 10
 host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-keep-ts: 1441924447
-blocks: [Course:106456 〔Õppeaine ÕIS-is〕]
 ts: 1441924447
-minor: 1
 ip: 89.235.235.166
-flags: 1
 text: #SUBTITLE Tehisintellekti põhimõtted
 	#SUBURL [Course:106456 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +18,10 @@ text: #SUBTITLE Tehisintellekti põhimõtted
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+keep-ts: 1441924447
+username: AlexDaniel
+minor: 1
+languages: 
+blocks: [Course:106456 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2

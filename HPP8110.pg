@@ -1,9 +1,8 @@
-flags: 1
-revision: 4
 username: AlexDaniel
-languages: 
+minor: 1
 keep-ts: 1441924446
-host: 82.131.7.230
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Muudatuste juhtimine
 	#SUBURL [Course:102792 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +18,10 @@ text: #SUBTITLE Muudatuste juhtimine
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:102792 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102792 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924446
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
+languages: 

@@ -1,7 +1,11 @@
+languages: 
+keep-ts: 1441924445
+ts: 1441924445
+lastmajor: 2
 revision: 4
 username: AlexDaniel
+ip: 89.235.235.166
 minor: 1
-flags: 1
 text: #SUBTITLE Teenusedisain
 	#SUBURL [Course:107338 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Teenusedisain
 	#LANG_END
 	
 	
-languages: 
-lastmajor: 2
-host: 82.131.7.230
-keep-ts: 1441924445
-blocks: [Course:107338 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-ip: 89.235.235.166
+blocks: [Course:107338 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10

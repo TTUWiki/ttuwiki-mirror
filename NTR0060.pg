@@ -1,8 +1,4 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-languages: 
-flags: 1
+minor: 1
 text: #SUBTITLE Elektroonika
 	#SUBURL [Course:106852 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +15,11 @@ text: #SUBTITLE Elektroonika
 	
 	
 host: 82.131.7.230
+ts: 1441924449
 keep-ts: 1441924449
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:106852 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+username: AlexDaniel
 revision: 2
-blocks: [Course:106852 〔Õppeaine ÕIS-is〕]

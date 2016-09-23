@@ -1,11 +1,4 @@
-ip: 89.235.235.166
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-revision: 4
-blocks: [Course:103299 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Väikelaeva elektrilised süsteemid ja navigatsiooniseadmed
 	#SUBURL [Course:103299 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +14,14 @@ text: #SUBTITLE Väikelaeva elektrilised süsteemid ja navigatsiooniseadmed
 	#LANG_END
 	
 	
+lastmajor: 2
 ts: 1441924448
-username: AlexDaniel
-languages: 
 keep-ts: 1441924448
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+blocks: [Course:103299 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+username: AlexDaniel
+host: 82.131.7.230

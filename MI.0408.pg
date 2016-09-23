@@ -1,3 +1,10 @@
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924448
+host: 82.131.7.230
+revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Biomassi kasutamise ruumiline planeerimine
 	#SUBURL [Course:106058 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +20,8 @@ text: #SUBTITLE Biomassi kasutamise ruumiline planeerimine
 	#LANG_END
 	
 	
-lastmajor: 2
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-host: 82.131.7.230
 ts: 1441924448
-flags: 1
+blocks: [Course:106058 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 minor: 1
-keep-ts: 1441924448
-blocks: [Course:106058 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 

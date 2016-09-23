@@ -1,11 +1,7 @@
-ip: 89.235.235.166
+minor: 1
 revision: 4
-lastmajor: 2
-languages: 
+ip: 89.235.235.166
 keep-ts: 1441924448
-host: 82.131.7.230
-flags: 1
-ts: 1441924448
 text: #SUBTITLE Keevitus ja keeviskonstruktsioonid
 	#SUBURL [Course:100463 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Keevitus ja keeviskonstruktsioonid
 	#LANG_END
 	
 	
-minor: 1
+flags: 10
+lastmajor: 2
+blocks: [Course:100463 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100463 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+languages: 

@@ -1,4 +1,6 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:41140 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Asustuskeskkonna kujunemine
 	#SUBURL [Course:41140 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +16,12 @@ text: #SUBTITLE Asustuskeskkonna kujunemine
 	#LANG_END
 	
 	
-revision: 4
-flags: 1
-blocks: [Course:41140 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
 lastmajor: 2
 ts: 1441924449
-keep-ts: 1441924449
-minor: 1
 host: 82.131.7.230
+languages: 
+username: AlexDaniel
+flags: 10
+minor: 1
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

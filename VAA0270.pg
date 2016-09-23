@@ -1,11 +1,13 @@
-flags: 1
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-keep-ts: 1441924452
 minor: 1
+username: AlexDaniel
+blocks: [Course:108980 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+ts: 1441924452
+revision: 2
+languages: 
+flags: 10
 text: #SUBTITLE Elektrotehnika ja elektroonika
 	#SUBURL [Course:108980 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +23,3 @@ text: #SUBTITLE Elektrotehnika ja elektroonika
 	#LANG_END
 	
 	
-blocks: [Course:108980 〔Õppeaine ÕIS-is〕]
-ts: 1441924452

@@ -1,15 +1,13 @@
-blocks: [Course:101759 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-host: 82.131.7.230
+flags: 10
+languages: 
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
 ip: 89.235.235.166
 minor: 1
-keep-ts: 1441924448
-languages: 
+blocks: [Course:101759 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
-username: AlexDaniel
+keep-ts: 1441924448
+ts: 1441924448
 text: #SUBTITLE Energiamajandus ja plaanimine
 	#SUBURL [Course:101759 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +23,5 @@ text: #SUBTITLE Energiamajandus ja plaanimine
 	#LANG_END
 	
 	
+lastmajor: 2
+host: 82.131.7.230

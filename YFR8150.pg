@@ -1,6 +1,13 @@
-ip: 89.235.235.166
-flags: 1
+blocks: [Course:28239 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924452
 keep-ts: 1441924452
+host: 82.131.7.230
+revision: 4
+languages: 
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 lastmajor: 2
 text: #SUBTITLE Tahke keha füüsika
 	#SUBURL [Course:28239 〔Õppeaine ÕIS-is〕]
@@ -18,10 +25,3 @@ text: #SUBTITLE Tahke keha füüsika
 	
 	
 minor: 1
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-ts: 1441924452
-blocks: [Course:28239 〔Õppeaine ÕIS-is〕]
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

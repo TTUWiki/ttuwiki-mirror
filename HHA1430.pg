@@ -1,4 +1,14 @@
 ip: 89.235.235.166
+languages: 
+lastmajor: 2
+flags: 10
+ts: 1441924445
+keep-ts: 1441924445
+host: 82.131.7.230
+username: AlexDaniel
+minor: 1
+blocks: [Course:39438 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Finantspoliitikad, innovatsioon ja majanduslik areng
 	#SUBURL [Course:39438 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +24,4 @@ text: #SUBTITLE Finantspoliitikad, innovatsioon ja majanduslik areng
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-keep-ts: 1441924445
-flags: 1
-username: AlexDaniel
-minor: 1
-blocks: [Course:39438 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-host: 82.131.7.230
 revision: 4

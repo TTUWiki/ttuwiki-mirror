@@ -1,11 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
 languages: 
-host: 82.131.7.230
-keep-ts: 1441924447
-lastmajor: 2
-minor: 1
 username: AlexDaniel
+ts: 1441924447
+lastmajor: 2
 text: #SUBTITLE Algoritmide ja andmestruktuuride erikursus
 	#SUBURL [Course:101326 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +18,10 @@ text: #SUBTITLE Algoritmide ja andmestruktuuride erikursus
 	
 	
 ip: 89.235.235.166
-blocks: [Course:101326 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1
+blocks: [Course:101326 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+flags: 10
 revision: 4
-flags: 1

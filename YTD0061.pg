@@ -1,11 +1,8 @@
-languages: 
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 keep-ts: 1441924453
-username: AlexDaniel
 revision: 4
-ts: 1441924453
-blocks: [Course:29369 〔Õppeaine ÕIS-is〕]
-minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Viroloogia
 	#SUBURL [Course:29369 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Viroloogia
 	#LANG_END
 	
 	
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
+ts: 1441924453
+languages: 
+blocks: [Course:29369 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+username: AlexDaniel
+minor: 1
+flags: 10

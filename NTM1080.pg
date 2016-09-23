@@ -1,9 +1,14 @@
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924449
 host: 82.131.7.230
-ip: 89.235.235.166
+ts: 1441924449
+username: AlexDaniel
+minor: 1
+lastmajor: 2
+languages: 
+keep-ts: 1441924449
+flags: 10
+blocks: [Course:39045 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 text: #SUBTITLE Uurimistöö metodoloogia
 	#SUBURL [Course:39045 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +24,4 @@ text: #SUBTITLE Uurimistöö metodoloogia
 	#LANG_END
 	
 	
-revision: 4
-ts: 1441924449
-blocks: [Course:39045 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-minor: 1
+ip: 89.235.235.166

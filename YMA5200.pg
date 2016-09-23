@@ -1,12 +1,15 @@
-languages: 
-blocks: [Course:28191 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
 ip: 89.235.235.166
-minor: 1
 username: AlexDaniel
 keep-ts: 1441924452
-lastmajor: 2
-flags: 1
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:28191 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
+minor: 1
+flags: 10
 text: #SUBTITLE Üldalgebra alused
 	#SUBURL [Course:28191 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Üldalgebra alused
 	#LANG_END
 	
 	
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4

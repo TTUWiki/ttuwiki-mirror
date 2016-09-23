@@ -1,6 +1,11 @@
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
 keep-ts: 1441924452
-blocks: [Course:31375 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+lastmajor: 2
+flags: 10
 text: #SUBTITLE Analüütiline keemia - praktikum
 	#SUBURL [Course:31375 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +21,7 @@ text: #SUBTITLE Analüütiline keemia - praktikum
 	#LANG_END
 	
 	
-revision: 4
-languages: 
 minor: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 username: AlexDaniel
-lastmajor: 2
+blocks: [Course:31375 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924452

@@ -1,13 +1,12 @@
+ts: 1441924448
+username: AlexDaniel
 ip: 89.235.235.166
 keep-ts: 1441924448
-languages: 
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30564 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-minor: 1
-flags: 1
-revision: 4
-blocks: [Course:30564 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
 text: #SUBTITLE Kvaliteediohje ja töökindlus
 	#SUBURL [Course:30564 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +22,6 @@ text: #SUBTITLE Kvaliteediohje ja töökindlus
 	#LANG_END
 	
 	
-ts: 1441924448
-username: AlexDaniel
+minor: 1
+revision: 4
+lastmajor: 2

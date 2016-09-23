@@ -1,6 +1,5 @@
+ip: 89.235.235.166
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 text: #SUBTITLE Signaalid ja signaalitöötlus
 	#SUBURL [Course:104939 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +15,13 @@ text: #SUBTITLE Signaalid ja signaalitöötlus
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-flags: 1
-languages: 
-blocks: [Course:104939 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-ip: 89.235.235.166
-username: AlexDaniel
+blocks: [Course:104939 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 ts: 1441924447
+username: AlexDaniel
+languages: 
+lastmajor: 2
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+keep-ts: 1441924447

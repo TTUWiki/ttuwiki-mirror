@@ -1,8 +1,7 @@
-ip: 89.235.235.166
-revision: 4
-blocks: [Course:106209 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:106209 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451
 host: 82.131.7.230
-lastmajor: 2
 text: #SUBTITLE Riski- ja ohutusõpetus logistikas
 	#SUBURL [Course:106209 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +17,11 @@ text: #SUBTITLE Riski- ja ohutusõpetus logistikas
 	#LANG_END
 	
 	
-keep-ts: 1441924451
-ts: 1441924451
-username: AlexDaniel
-flags: 1
-languages: 
 minor: 1
+lastmajor: 2
+ts: 1441924451
+ip: 89.235.235.166
+username: AlexDaniel
+revision: 4
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

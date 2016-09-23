@@ -1,14 +1,11 @@
-keep-ts: 1441924451
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-flags: 1
-lastmajor: 2
-username: AlexDaniel
-minor: 1
-blocks: [Course:101913 〔Õppeaine ÕIS-is〕]
 languages: 
+minor: 1
+keep-ts: 1441924451
+lastmajor: 2
+revision: 4
+username: AlexDaniel
+blocks: [Course:101913 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Rahvusvaheline juhtimine
 	#SUBURL [Course:101913 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +21,7 @@ text: #SUBTITLE Rahvusvaheline juhtimine
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+ip: 89.235.235.166
 host: 82.131.7.230

@@ -1,15 +1,13 @@
-username: AlexDaniel
-flags: 1
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-lastmajor: 2
 languages: 
-host: 82.131.7.230
-ip: 89.235.235.166
-blocks: [Course:27093 〔Õppeaine ÕIS-is〕]
-revision: 4
 ts: 1441924447
+revision: 4
+lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
+host: 82.131.7.230
+keep-ts: 1441924447
 text: #SUBTITLE Keemiatehnika alused - projekt
 	#SUBURL [Course:27093 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +23,5 @@ text: #SUBTITLE Keemiatehnika alused - projekt
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:27093 〔Õppeaine ÕIS-is〕]</div></div>

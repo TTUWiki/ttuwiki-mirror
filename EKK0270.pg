@@ -1,11 +1,4 @@
-username: AlexDaniel
-blocks: [Course:103849 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-ts: 1441924445
-minor: 1
-ip: 89.235.235.166
-revision: 4
-languages: 
+host: 82.131.7.230
 text: #SUBTITLE Hoonete soojusliku käitumise modelleerimine ja analüüs
 	#SUBURL [Course:103849 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +14,14 @@ text: #SUBTITLE Hoonete soojusliku käitumise modelleerimine ja analüüs
 	#LANG_END
 	
 	
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
+languages: 
+flags: 10
+keep-ts: 1441924445
+ts: 1441924445
+username: AlexDaniel
+lastmajor: 2
+blocks: [Course:103849 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4
+minor: 1

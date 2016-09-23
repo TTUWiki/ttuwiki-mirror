@@ -1,9 +1,10 @@
-keep-ts: 1441924451
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102329 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+revision: 4
+keep-ts: 1441924451
 text: #SUBTITLE Filosoofia
 	#SUBURL [Course:102329 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Filosoofia
 	#LANG_END
 	
 	
-username: AlexDaniel
-blocks: [Course:102329 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
+lastmajor: 2
 ts: 1441924451
-languages: 
+ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel

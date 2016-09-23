@@ -1,11 +1,11 @@
-revision: 4
+lastmajor: 2
+languages: 
+ts: 1441924447
 ip: 89.235.235.166
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-languages: 
-blocks: [Course:101838 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:101838 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924447
 text: #SUBTITLE Sideteooria
 	#SUBURL [Course:101838 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +21,7 @@ text: #SUBTITLE Sideteooria
 	#LANG_END
 	
 	
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 minor: 1
-ts: 1441924447
-lastmajor: 2
-keep-ts: 1441924447

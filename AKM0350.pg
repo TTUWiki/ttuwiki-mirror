@@ -1,13 +1,12 @@
-minor: 1
-flags: 1
-keep-ts: 1441924444
-username: AlexDaniel
-blocks: [Course:109824 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
+blocks: [Course:109824 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924444
+languages: 
+minor: 1
+revision: 2
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Geomehaanika ja mäekonstruktsioonid
 	#SUBURL [Course:109824 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +22,4 @@ text: #SUBTITLE Geomehaanika ja mäekonstruktsioonid
 	#LANG_END
 	
 	
+keep-ts: 1441924444

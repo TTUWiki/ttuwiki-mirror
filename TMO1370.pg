@@ -1,5 +1,9 @@
+ts: 1441924451
+blocks: [Course:110008 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 username: AlexDaniel
-blocks: [Course:110008 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 2
 text: #SUBTITLE Kategooria juhtimine
 	#SUBURL [Course:110008 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +19,7 @@ text: #SUBTITLE Kategooria juhtimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 keep-ts: 1441924451
-minor: 1
-flags: 1
-revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-ts: 1441924451

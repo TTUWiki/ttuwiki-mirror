@@ -1,15 +1,5 @@
-minor: 1
-ts: 1441924448
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29287 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 languages: 
-revision: 4
-username: AlexDaniel
-flags: 1
-keep-ts: 1441924448
-lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Tribotehnilised materjalid ja pinded
 	#SUBURL [Course:29287 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Tribotehnilised materjalid ja pinded
 	#LANG_END
 	
 	
+ts: 1441924448
+keep-ts: 1441924448
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29287 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+username: AlexDaniel
+minor: 1
+revision: 4
+host: 82.131.7.230

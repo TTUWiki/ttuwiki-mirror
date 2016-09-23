@@ -1,4 +1,15 @@
-blocks: [Course:107058 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+minor: 1
+keep-ts: 1441924451
+languages: 
+lastmajor: 2
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:107058 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse
 	#SUBURL [Course:107058 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,3 @@ text: #SUBTITLE Sissejuhatus Aasia ja Vaikse Ookeani piirkonna uuringutesse
 	#LANG_END
 	
 	
-keep-ts: 1441924451
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
-lastmajor: 2
-ip: 89.235.235.166
-ts: 1441924451

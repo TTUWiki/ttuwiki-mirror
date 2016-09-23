@@ -1,12 +1,14 @@
 revision: 4
-languages: 
-ts: 1441924450
-minor: 1
-blocks: [Course:31284 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-lastmajor: 2
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 2
+flags: 10
+ts: 1441924450
+languages: 
+username: AlexDaniel
+keep-ts: 1441924450
+blocks: [Course:31284 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 text: #SUBTITLE Juhtimisarvestus
 	#SUBURL [Course:31284 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +24,4 @@ text: #SUBTITLE Juhtimisarvestus
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-host: 82.131.7.230
-ip: 89.235.235.166
+minor: 1

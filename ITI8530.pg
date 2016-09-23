@@ -1,8 +1,5 @@
-blocks: [Course:101243 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-revision: 4
 languages: 
+minor: 1
 text: #SUBTITLE Formaalmeetodid reaalaja sardsüsteemide arenduses
 	#SUBURL [Course:101243 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Formaalmeetodid reaalaja sardsüsteemide arenduses
 	#LANG_END
 	
 	
+flags: 10
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+lastmajor: 2
+revision: 4
+ts: 1441924447
 keep-ts: 1441924447
 host: 82.131.7.230
-minor: 1
-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:101243 〔Õppeaine ÕIS-is〕]</div></div>

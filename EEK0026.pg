@@ -1,15 +1,4 @@
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-minor: 1
-blocks: [Course:107091 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
 keep-ts: 1441924445
-lastmajor: 2
-username: AlexDaniel
-flags: 1
-host: 82.131.7.230
 text: #SUBTITLE Ehituskonstruktsioonid arhitektidele, raudbetoon
 	#SUBURL [Course:107091 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +14,14 @@ text: #SUBTITLE Ehituskonstruktsioonid arhitektidele, raudbetoon
 	#LANG_END
 	
 	
+username: AlexDaniel
+lastmajor: 2
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+ts: 1441924445
+host: 82.131.7.230
+revision: 4
+languages: 
+blocks: [Course:107091 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10

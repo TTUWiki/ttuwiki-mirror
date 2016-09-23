@@ -1,13 +1,8 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-languages: 
-flags: 1
-blocks: [Course:31546 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
+blocks: [Course:31546 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-keep-ts: 1441924447
+host: 82.131.7.230
+lastmajor: 2
+languages: 
 minor: 1
 ts: 1441924447
 text: #SUBTITLE Rakendusliku loogika süvakursus
@@ -25,3 +20,8 @@ text: #SUBTITLE Rakendusliku loogika süvakursus
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+flags: 10
+revision: 4
+username: AlexDaniel

@@ -1,6 +1,3 @@
-revision: 2
-ts: 1441924449
-host: 82.131.7.230
 minor: 1
 text: #SUBTITLE Inimese ja arvuti interaktsioon
 	#SUBURL [Course:109427 〔Õppeaine ÕIS-is〕]
@@ -17,9 +14,12 @@ text: #SUBTITLE Inimese ja arvuti interaktsioon
 	#LANG_END
 	
 	
-blocks: [Course:109427 〔Õppeaine ÕIS-is〕]
+revision: 2
 languages: 
-username: AlexDaniel
+blocks: [Course:109427 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+username: AlexDaniel
+ts: 1441924449
 keep-ts: 1441924449
+host: 82.131.7.230

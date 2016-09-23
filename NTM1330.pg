@@ -1,9 +1,3 @@
-ts: 1441924449
-blocks: [Course:102897 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Muinsuskaitse filosoofia ja ajalugu
 	#SUBURL [Course:102897 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +13,15 @@ text: #SUBTITLE Muinsuskaitse filosoofia ja ajalugu
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
 languages: 
-keep-ts: 1441924449
-minor: 1
+host: 82.131.7.230
 revision: 4
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
+blocks: [Course:102897 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+username: AlexDaniel
+ts: 1441924449
+minor: 1

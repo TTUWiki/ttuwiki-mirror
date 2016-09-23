@@ -1,14 +1,3 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-revision: 4
-blocks: [Course:105248 〔Õppeaine ÕIS-is〕]
-minor: 1
-host: 82.131.7.230
-ts: 1441924448
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
 text: #SUBTITLE Robotsüsteemid ja sensortehnika - projekt
 	#SUBURL [Course:105248 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +13,15 @@ text: #SUBTITLE Robotsüsteemid ja sensortehnika - projekt
 	#LANG_END
 	
 	
-flags: 1
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1
+revision: 4
+username: AlexDaniel
+ts: 1441924448
+keep-ts: 1441924448
+flags: 10
+languages: 
+ip: 89.235.235.166
+blocks: [Course:105248 〔Õppeaine ÕIS-is〕]</div></div>

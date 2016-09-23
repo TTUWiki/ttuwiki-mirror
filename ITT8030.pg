@@ -1,3 +1,11 @@
+ts: 1441924447
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+flags: 10
+username: AlexDaniel
+languages: 
+minor: 1
 text: #SUBTITLE Programmikeelte semantika
 	#SUBURL [Course:106352 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +21,7 @@ text: #SUBTITLE Programmikeelte semantika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-username: AlexDaniel
-revision: 4
-blocks: [Course:106352 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-host: 82.131.7.230
-minor: 1
 ip: 89.235.235.166
+blocks: [Course:106352 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-languages: 
-flags: 1
+revision: 4

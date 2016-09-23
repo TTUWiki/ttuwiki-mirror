@@ -1,11 +1,8 @@
-blocks: [Course:37186 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924448
-host: 82.131.7.230
 languages: 
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+keep-ts: 1441924448
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Okeanograafilise modelleerimise erikursus
 	#SUBURL [Course:37186 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Okeanograafilise modelleerimise erikursus
 	#LANG_END
 	
 	
-lastmajor: 2
-ip: 89.235.235.166
-revision: 4
+blocks: [Course:37186 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924448
+flags: 10
+minor: 1
+lastmajor: 2

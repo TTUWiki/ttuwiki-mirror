@@ -1,9 +1,3 @@
-flags: 1
-ip: 89.235.235.166
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
 text: #SUBTITLE Ostujuhtimise põhikursus
 	#SUBURL [Course:108409 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +13,15 @@ text: #SUBTITLE Ostujuhtimise põhikursus
 	#LANG_END
 	
 	
+ts: 1441924445
 revision: 4
-host: 82.131.7.230
-keep-ts: 1441924445
+ip: 89.235.235.166
 lastmajor: 2
-blocks: [Course:108409 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:108409 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
 username: AlexDaniel

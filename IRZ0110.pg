@@ -1,4 +1,10 @@
-host: 82.131.7.230
+lastmajor: 2
+keep-ts: 1441924447
+languages: 
+ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29878 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 text: #SUBTITLE Statistiline raadiotehnika
 	#SUBURL [Course:29878 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +20,8 @@ text: #SUBTITLE Statistiline raadiotehnika
 	#LANG_END
 	
 	
-blocks: [Course:29878 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-keep-ts: 1441924447
+host: 82.131.7.230
 minor: 1
-lastmajor: 2
-languages: 
+ip: 89.235.235.166
+flags: 10
 username: AlexDaniel
-ts: 1441924447

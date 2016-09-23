@@ -1,7 +1,3 @@
-flags: 1
-revision: 2
-minor: 1
-languages: 
 text: #SUBTITLE Külmatehniliste torusüsteemide montaaž, hooldus, remont
 	#SUBURL [Course:109120 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +13,13 @@ text: #SUBTITLE Külmatehniliste torusüsteemide montaaž, hooldus, remont
 	#LANG_END
 	
 	
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+flags: 10
+ts: 1441924452
+blocks: [Course:109120 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 host: 82.131.7.230
 keep-ts: 1441924452
-ts: 1441924452
-blocks: [Course:109120 〔Õppeaine ÕIS-is〕]
+revision: 2

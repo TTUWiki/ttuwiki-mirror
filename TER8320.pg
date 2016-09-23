@@ -1,11 +1,9 @@
-ip: 89.235.235.166
-blocks: [Course:27655 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-flags: 1
 minor: 1
+revision: 4
+username: AlexDaniel
+languages: 
 keep-ts: 1441924450
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Finantsanalüüs
 	#SUBURL [Course:27655 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +19,9 @@ text: #SUBTITLE Finantsanalüüs
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
-languages: 
 ts: 1441924450
+blocks: [Course:27655 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

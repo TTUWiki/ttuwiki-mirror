@@ -1,9 +1,8 @@
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-minor: 1
+host: 82.131.7.230
+ts: 1441924452
+username: AlexDaniel
 keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Biotehnoloogia  I
 	#SUBURL [Course:34530 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +18,10 @@ text: #SUBTITLE Biotehnoloogia  I
 	#LANG_END
 	
 	
-ts: 1441924452
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
+languages: 
 ip: 89.235.235.166
-blocks: [Course:34530 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 10
+lastmajor: 2
+minor: 1
+blocks: [Course:34530 〔Õppeaine ÕIS-is〕]</div></div>

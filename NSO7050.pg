@@ -1,7 +1,7 @@
-host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+keep-ts: 1441924448
 text: #SUBTITLE Meteoroloogiliste vaatluste meetodid
 	#SUBURL [Course:105368 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +18,10 @@ text: #SUBTITLE Meteoroloogiliste vaatluste meetodid
 	
 	
 languages: 
+blocks: [Course:105368 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-keep-ts: 1441924448
-revision: 4
+lastmajor: 2
 ts: 1441924448
-blocks: [Course:105368 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+flags: 10

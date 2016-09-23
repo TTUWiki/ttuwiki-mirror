@@ -1,4 +1,5 @@
-ts: 1441924447
+revision: 2
+languages: 
 text: #SUBTITLE Õpi- ja käitumisraskustega õpilane ainetunnis
 	#SUBURL [Course:109605 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +15,11 @@ text: #SUBTITLE Õpi- ja käitumisraskustega õpilane ainetunnis
 	#LANG_END
 	
 	
-keep-ts: 1441924447
-minor: 1
-flags: 1
-revision: 2
 username: AlexDaniel
-languages: 
-host: 82.131.7.230
+keep-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109605 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
+ts: 1441924447
+blocks: [Course:109605 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

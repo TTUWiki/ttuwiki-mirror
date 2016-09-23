@@ -1,10 +1,5 @@
-languages: 
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-keep-ts: 1441924452
-blocks: [Course:109097 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+blocks: [Course:109097 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II
 	#SUBURL [Course:109097 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +15,11 @@ text: #SUBTITLE Külmutusautomaatikaseadmed ja automaatjuhtimissüsteemid II
 	#LANG_END
 	
 	
-ts: 1441924452
+languages: 
+username: AlexDaniel
+revision: 2
 minor: 1
+flags: 10
 host: 82.131.7.230
+ts: 1441924452
+keep-ts: 1441924452

@@ -1,11 +1,12 @@
-host: 82.131.7.230
-languages: 
-flags: 1
 revision: 4
 lastmajor: 2
+blocks: [Course:103093 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
-blocks: [Course:103093 〔Õppeaine ÕIS-is〕]
+flags: 10
 ts: 1441924448
+host: 82.131.7.230
 text: #SUBTITLE Keskkonnareostuse vältimine ja reostustõrje
 	#SUBURL [Course:103093 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +23,5 @@ text: #SUBTITLE Keskkonnareostuse vältimine ja reostustõrje
 	
 	
 username: AlexDaniel
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+keep-ts: 1441924448

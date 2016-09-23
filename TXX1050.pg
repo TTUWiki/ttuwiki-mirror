@@ -1,14 +1,8 @@
-ip: 89.235.235.166
 ts: 1441924452
+keep-ts: 1441924452
 minor: 1
 username: AlexDaniel
-flags: 1
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100973 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
 text: #SUBTITLE Rahanduse ja majandusarvestuse alane kommunikatsioon
 	#SUBURL [Course:100973 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +18,10 @@ text: #SUBTITLE Rahanduse ja majandusarvestuse alane kommunikatsioon
 	#LANG_END
 	
 	
-keep-ts: 1441924452
+flags: 10
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100973 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+lastmajor: 2
+revision: 4

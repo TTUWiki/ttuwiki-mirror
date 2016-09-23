@@ -1,8 +1,6 @@
-ip: 89.235.235.166
-blocks: [Course:102327 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924451
+lastmajor: 2
+minor: 1
+languages: 
 text: #SUBTITLE Praktika
 	#SUBURL [Course:102327 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +16,12 @@ text: #SUBTITLE Praktika
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-ts: 1441924451
-host: 82.131.7.230
-minor: 1
+flags: 10
 revision: 4
-lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel
+blocks: [Course:102327 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+ip: 89.235.235.166
+keep-ts: 1441924451

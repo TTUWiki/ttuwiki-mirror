@@ -1,11 +1,9 @@
-username: AlexDaniel
 ts: 1441924451
-blocks: [Course:102174 〔Õppeaine ÕIS-is〕]
-revision: 4
+blocks: [Course:102174 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 keep-ts: 1441924451
-ip: 89.235.235.166
-lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Õiguse alused
 	#SUBURL [Course:102174 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +19,9 @@ text: #SUBTITLE Õiguse alused
 	#LANG_END
 	
 	
-flags: 1
-languages: 
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+flags: 10
+username: AlexDaniel
 minor: 1
-host: 82.131.7.230

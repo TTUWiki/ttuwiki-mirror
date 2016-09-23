@@ -1,8 +1,10 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:36825 〔Õppeaine ÕIS-is〕]
+languages: 
 username: AlexDaniel
-revision: 4
+minor: 1
+blocks: [Course:36825 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 keep-ts: 1441924451
+ip: 89.235.235.166
 text: #SUBTITLE Projektijuhtimine
 	#SUBURL [Course:36825 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +20,8 @@ text: #SUBTITLE Projektijuhtimine
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-flags: 1
-lastmajor: 2
-languages: 
-ts: 1441924451
+flags: 10
 host: 82.131.7.230
-minor: 1
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4

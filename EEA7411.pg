@@ -1,9 +1,15 @@
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924445
-revision: 4
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4
+blocks: [Course:107046 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+flags: 10
+host: 82.131.7.230
 ts: 1441924445
+languages: 
+username: AlexDaniel
+keep-ts: 1441924445
 text: #SUBTITLE Linnaehituse projektide stuudio. Planeerimisprojekt LI. Madaltihe elamukvartal
 	#SUBURL [Course:107046 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Linnaehituse projektide stuudio. Planeerimisprojekt LI. Madaltih
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:107046 〔Õppeaine ÕIS-is〕]
-flags: 1

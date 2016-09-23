@@ -1,10 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106190 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
-keep-ts: 1441924446
-ts: 1441924446
-flags: 1
+lastmajor: 2
 text: #SUBTITLE Küberkaitse ja õigus
 	#SUBURL [Course:106190 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +14,14 @@ text: #SUBTITLE Küberkaitse ja õigus
 	#LANG_END
 	
 	
-username: AlexDaniel
-lastmajor: 2
+keep-ts: 1441924446
+blocks: [Course:106190 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 10
 languages: 
+username: AlexDaniel
+ts: 1441924446
 host: 82.131.7.230

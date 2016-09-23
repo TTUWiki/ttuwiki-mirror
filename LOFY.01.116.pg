@@ -1,6 +1,5 @@
+keep-ts: 1441924448
 host: 82.131.7.230
-flags: 1
-lastmajor: 2
 ip: 89.235.235.166
 text: #SUBTITLE Meditsiinitehnoloogia korraldus
 	#SUBURL [Course:106713 〔Õppeaine ÕIS-is〕]
@@ -17,11 +16,12 @@ text: #SUBTITLE Meditsiinitehnoloogia korraldus
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
-languages: 
-blocks: [Course:106713 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
+blocks: [Course:106713 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+revision: 4
+minor: 1
+languages: 
+lastmajor: 2
+ts: 1441924448
+username: AlexDaniel

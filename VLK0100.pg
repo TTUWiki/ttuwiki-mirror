@@ -1,10 +1,6 @@
-languages: 
 keep-ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 ts: 1441924452
-revision: 2
+flags: 10
 text: #SUBTITLE Küte ja ventilatsioon
 	#SUBURL [Course:108814 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +16,10 @@ text: #SUBTITLE Küte ja ventilatsioon
 	#LANG_END
 	
 	
+host: 82.131.7.230
+revision: 2
+blocks: [Course:108814 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 minor: 1
-blocks: [Course:108814 〔Õppeaine ÕIS-is〕]
-flags: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

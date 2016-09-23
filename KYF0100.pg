@@ -1,8 +1,15 @@
-minor: 1
-blocks: [Course:100825 〔Õppeaine ÕIS-is〕]
-languages: 
+ip: 89.235.235.166
+flags: 10
+host: 82.131.7.230
+ts: 1441924448
 username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+blocks: [Course:100825 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
+minor: 1
+revision: 4
 text: #SUBTITLE Erialainfo otsing keemias ja materjalitehnoloogias
 	#SUBURL [Course:100825 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +25,3 @@ text: #SUBTITLE Erialainfo otsing keemias ja materjalitehnoloogias
 	#LANG_END
 	
 	
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924448
-flags: 1
-ts: 1441924448
-ip: 89.235.235.166

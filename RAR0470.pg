@@ -1,13 +1,9 @@
-revision: 4
-blocks: [Course:37012 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-ts: 1441924449
-lastmajor: 2
-flags: 1
 ip: 89.235.235.166
+minor: 1
+flags: 10
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
+languages: 
 text: #SUBTITLE Side
 	#SUBURL [Course:37012 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +20,8 @@ text: #SUBTITLE Side
 	
 	
 host: 82.131.7.230
+ts: 1441924449
+keep-ts: 1441924449
 username: AlexDaniel
+revision: 4
+blocks: [Course:37012 〔Õppeaine ÕIS-is〕]</div></div>

@@ -1,9 +1,12 @@
-blocks: [Course:108407 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
+ip: 89.235.235.166
+host: 82.131.7.230
 revision: 4
-ts: 1441924444
 username: AlexDaniel
+lastmajor: 2
+keep-ts: 1441924444
+flags: 10
+languages: 
+ts: 1441924444
 text: #SUBTITLE Arhitektuuri ja urbanistika eriõpe I
 	#SUBURL [Course:108407 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +22,6 @@ text: #SUBTITLE Arhitektuuri ja urbanistika eriõpe I
 	#LANG_END
 	
 	
+blocks: [Course:108407 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-languages: 
-lastmajor: 2
-ip: 89.235.235.166
-flags: 1
-host: 82.131.7.230

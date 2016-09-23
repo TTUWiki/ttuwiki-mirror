@@ -1,5 +1,15 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+ts: 1441924447
+blocks: [Course:32806 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+flags: 10
 ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
+languages: 
 text: #SUBTITLE Statistilise raadiotehnika erikursus
 	#SUBURL [Course:32806 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +25,3 @@ text: #SUBTITLE Statistilise raadiotehnika erikursus
 	#LANG_END
 	
 	
-revision: 4
-keep-ts: 1441924447
-username: AlexDaniel
-ts: 1441924447
-flags: 1
-lastmajor: 2
-blocks: [Course:32806 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
-languages: 

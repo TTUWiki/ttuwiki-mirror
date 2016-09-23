@@ -1,11 +1,10 @@
-blocks: [Course:33452 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+ip: 89.235.235.166
 ts: 1441924444
+flags: 10
 minor: 1
+languages: 
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Rahvusvahelised Investeeringud
 	#SUBURL [Course:33452 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,8 @@ text: #SUBTITLE Rahvusvahelised Investeeringud
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 keep-ts: 1441924444
+revision: 4
+blocks: [Course:33452 〔Õppeaine ÕIS-is〕]</div></div>

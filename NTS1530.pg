@@ -1,4 +1,11 @@
 languages: 
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+minor: 1
+blocks: [Course:109743 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924449
 text: #SUBTITLE Taastuvenergiate tehnoloogiad
 	#SUBURL [Course:109743 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +21,5 @@ text: #SUBTITLE Taastuvenergiate tehnoloogiad
 	#LANG_END
 	
 	
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924449
-flags: 1
-blocks: [Course:109743 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-revision: 2
+flags: 10
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

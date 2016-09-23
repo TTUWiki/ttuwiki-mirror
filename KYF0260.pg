@@ -1,9 +1,10 @@
-ts: 1441924448
 revision: 4
-languages: 
+blocks: [Course:107007 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+minor: 1
 host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924448
 text: #SUBTITLE Sissejuhatus päikeseelektri süsteemidesse
 	#SUBURL [Course:107007 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Sissejuhatus päikeseelektri süsteemidesse
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:107007 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+ts: 1441924448
+ip: 89.235.235.166
+languages: 
+keep-ts: 1441924448
+flags: 10

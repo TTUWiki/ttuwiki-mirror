@@ -1,13 +1,13 @@
-keep-ts: 1441924445
 ip: 89.235.235.166
-revision: 4
-host: 82.131.7.230
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:105208 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 minor: 1
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+flags: 10
+blocks: [Course:105208 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
+lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Sademevee äravoolu korraldus
 	#SUBURL [Course:105208 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Sademevee äravoolu korraldus
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
+revision: 4
+keep-ts: 1441924445

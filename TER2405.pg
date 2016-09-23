@@ -1,8 +1,10 @@
-username: AlexDaniel
-lastmajor: 2
-ip: 89.235.235.166
 languages: 
-revision: 4
+flags: 10
+ip: 89.235.235.166
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ts: 1441924450
 text: #SUBTITLE Tuletisväärtpaberid
 	#SUBURL [Course:106008 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +20,8 @@ text: #SUBTITLE Tuletisväärtpaberid
 	#LANG_END
 	
 	
-minor: 1
-flags: 1
-blocks: [Course:106008 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 host: 82.131.7.230
-keep-ts: 1441924450
+minor: 1
+blocks: [Course:106008 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

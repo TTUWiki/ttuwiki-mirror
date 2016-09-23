@@ -1,5 +1,4 @@
 username: AlexDaniel
-host: 82.131.7.230
 text: #SUBTITLE Elektronkaardi kasutamine
 	#SUBURL [Course:108763 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +14,12 @@ text: #SUBTITLE Elektronkaardi kasutamine
 	#LANG_END
 	
 	
-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-blocks: [Course:108763 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
 keep-ts: 1441924452
+flags: 10
+ts: 1441924452
 minor: 1
+languages: 
+host: 82.131.7.230
+revision: 2
+blocks: [Course:108763 〔Õppeaine ÕIS-is〕]</div></div>

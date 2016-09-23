@@ -1,15 +1,12 @@
-ts: 1441924451
-languages: 
-minor: 1
-flags: 1
-lastmajor: 2
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 username: AlexDaniel
-blocks: [Course:102208 〔Õppeaine ÕIS-is〕]
-revision: 4
+ts: 1441924451
+blocks: [Course:102208 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
 keep-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Balti riigid rahvusvaheliste suhete süsteemis
 	#SUBURL [Course:102208 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Balti riigid rahvusvaheliste suhete süsteemis
 	#LANG_END
 	
 	
+minor: 1
+languages: 
+revision: 4

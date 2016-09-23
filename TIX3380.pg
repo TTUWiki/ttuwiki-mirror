@@ -1,15 +1,13 @@
-username: AlexDaniel
-flags: 1
-ts: 1441924451
-languages: 
-keep-ts: 1441924451
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
-blocks: [Course:101912 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+ts: 1441924451
+ip: 89.235.235.166
+lastmajor: 2
+keep-ts: 1441924451
+minor: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:101912 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Ärialane suhtlemine
 	#SUBURL [Course:101912 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +23,5 @@ text: #SUBTITLE Ärialane suhtlemine
 	#LANG_END
 	
 	
+username: AlexDaniel
+flags: 10
