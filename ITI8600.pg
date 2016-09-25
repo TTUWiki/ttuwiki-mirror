@@ -1,9 +1,13 @@
+username: Marjana Voronina
+host: 85.253.108.27
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	
 	==Useful links
 	
 	===First assignment
+	
+	[[File:it8600-2016-hw1.pdf| Download]]
 	
 	**Framework suggested by Juhan-Peep Ernits**
 	
@@ -28,15 +32,12 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	-- Artur Gummel 2016-09-05 14:23:01
 	
 	
-lastmajorsummary: first assignment
-minor: 1
+	
+summary: First Homework
+lastmajor: 8
+keep-ts: 1474762264
+minor: 
+lastmajorsummary: First Homework
+ts: 1474762264
+revision: 8
 languages: 
-lastmajor: 6
-flags: 1
-blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
-host: 193.40.250.233
-keep-ts: 1474628828
-summary: 
-username: Artur Gummel
-ts: 1474628828
-revision: 7
