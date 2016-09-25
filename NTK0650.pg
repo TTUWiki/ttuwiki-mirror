@@ -1,15 +1,10 @@
-keep-ts: 1441924449
-ts: 1441924449
-languages: 
-username: AlexDaniel
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:39143 〔Õppeaine ÕIS-is〕]
+languages: 
 lastmajor: 2
-host: 82.131.7.230
-flags: 1
-minor: 1
+flags: 10
 ip: 89.235.235.166
+host: 82.131.7.230
+blocks: [Course:39143 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Säästev transport ja selle korraldamine
 	#SUBURL [Course:39143 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +20,8 @@ text: #SUBTITLE Säästev transport ja selle korraldamine
 	#LANG_END
 	
 	
+keep-ts: 1441924449
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+minor: 1

@@ -1,11 +1,7 @@
-minor: 1
-host: 82.131.7.230
-ts: 1441924445
-lastmajor: 2
-blocks: [Course:107181 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
+languages: 
+minor: 1
+flags: 10
 text: #SUBTITLE Esteetika
 	#SUBURL [Course:107181 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Esteetika
 	#LANG_END
 	
 	
-revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
-flags: 1
-languages: 
+keep-ts: 1441924445
+lastmajor: 2
+host: 82.131.7.230
+ts: 1441924445
+blocks: [Course:107181 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4

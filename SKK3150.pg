@@ -1,5 +1,5 @@
-username: AlexDaniel
-blocks: [Course:33855 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Euroopa Liidu institutsioonid
 	#SUBURL [Course:33855 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +15,13 @@ text: #SUBTITLE Euroopa Liidu institutsioonid
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-keep-ts: 1441924450
-host: 82.131.7.230
-flags: 1
-languages: 
-revision: 4
-ts: 1441924450
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+username: AlexDaniel
+blocks: [Course:33855 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+lastmajor: 2
 minor: 1
+ip: 89.235.235.166
+revision: 4
+flags: 10

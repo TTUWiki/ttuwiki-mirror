@@ -1,5 +1,8 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-keep-ts: 1441924445
+flags: 10
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Insenerieetika
 	#SUBURL [Course:26371 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Insenerieetika
 	
 	
 host: 82.131.7.230
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-flags: 1
-minor: 1
-blocks: [Course:26371 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
+username: AlexDaniel
+revision: 4
+keep-ts: 1441924445
 languages: 
+blocks: [Course:26371 〔Õppeaine ÕIS-is〕]</div></div>

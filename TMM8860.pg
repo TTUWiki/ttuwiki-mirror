@@ -1,6 +1,7 @@
-minor: 1
-flags: 1
+revision: 4
 keep-ts: 1441924451
+lastmajor: 2
+languages: 
 text: #SUBTITLE Turunduskommunikatsioon  II
 	#SUBURL [Course:27817 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +17,11 @@ text: #SUBTITLE Turunduskommunikatsioon  II
 	#LANG_END
 	
 	
-blocks: [Course:27817 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 host: 82.131.7.230
-revision: 4
+minor: 1
 ts: 1441924451
-ip: 89.235.235.166
-languages: 
+flags: 10
+blocks: [Course:27817 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+ip: 89.235.235.166

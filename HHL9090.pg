@@ -1,15 +1,5 @@
-flags: 1
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-revision: 4
-minor: 1
-lastmajor: 2
-host: 82.131.7.230
-keep-ts: 1441924446
-blocks: [Course:40254 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:40254 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Sotsiaalteaduste meetodid
 	#SUBURL [Course:40254 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Sotsiaalteaduste meetodid
 	#LANG_END
 	
 	
+host: 82.131.7.230
+revision: 4
+languages: 
+ts: 1441924446
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ip: 89.235.235.166
+keep-ts: 1441924446

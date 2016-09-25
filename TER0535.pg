@@ -1,3 +1,13 @@
+lastmajor: 2
+ts: 1441924450
+languages: 
+minor: 1
+keep-ts: 1441924450
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102201 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Investeeringute alused
 	#SUBURL [Course:102201 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +23,5 @@ text: #SUBTITLE Investeeringute alused
 	#LANG_END
 	
 	
-languages: 
-minor: 1
-lastmajor: 2
-ts: 1441924450
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:102201 〔Õppeaine ÕIS-is〕]
-flags: 1
+flags: 10
 host: 82.131.7.230
-keep-ts: 1441924450
-revision: 4

@@ -1,12 +1,10 @@
-blocks: [Course:101876 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
 keep-ts: 1441924447
-lastmajor: 2
-minor: 1
-host: 82.131.7.230
-flags: 1
-revision: 4
 ts: 1441924447
+languages: 
+blocks: [Course:101876 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Menetluspraktika
 	#SUBURL [Course:101876 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +20,8 @@ text: #SUBTITLE Menetluspraktika
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+flags: 10
 username: AlexDaniel
+host: 82.131.7.230
+revision: 4

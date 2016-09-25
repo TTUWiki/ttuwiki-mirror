@@ -1,13 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924447
-blocks: [Course:108380 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
 text: #SUBTITLE Elektronsüsteemid - kompleksprojekt
 	#SUBURL [Course:108380 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Elektronsüsteemid - kompleksprojekt
 	#LANG_END
 	
 	
-flags: 1
+flags: 10
+blocks: [Course:108380 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+host: 82.131.7.230
+ts: 1441924447
+ip: 89.235.235.166
+keep-ts: 1441924447
+revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

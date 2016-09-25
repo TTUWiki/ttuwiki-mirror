@@ -1,13 +1,5 @@
-lastmajor: 2
-languages: 
+flags: 10
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924453
-ip: 89.235.235.166
-host: 82.131.7.230
-minor: 1
-keep-ts: 1441924453
-blocks: [Course:31321 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Bakterigeneetika
 	#SUBURL [Course:31321 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +15,13 @@ text: #SUBTITLE Bakterigeneetika
 	#LANG_END
 	
 	
-flags: 1
+ts: 1441924453
+languages: 
+minor: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31321 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
+keep-ts: 1441924453
+lastmajor: 2
+host: 82.131.7.230

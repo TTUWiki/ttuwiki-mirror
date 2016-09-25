@@ -1,7 +1,5 @@
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
-ts: 1441924448
+flags: 10
+minor: 1
 languages: 
 text: #SUBTITLE Geoloogia õppepraktika II
 	#SUBURL [Course:105435 〔Õppeaine ÕIS-is〕]
@@ -18,10 +16,12 @@ text: #SUBTITLE Geoloogia õppepraktika II
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+blocks: [Course:105435 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+ip: 89.235.235.166
 lastmajor: 2
-blocks: [Course:105435 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448

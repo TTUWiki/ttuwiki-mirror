@@ -1,8 +1,8 @@
-host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
 minor: 1
-keep-ts: 1441924448
-username: AlexDaniel
-flags: 1
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Tootmise optimaalne planeerimine
 	#SUBURL [Course:100597 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +18,10 @@ text: #SUBTITLE Tootmise optimaalne planeerimine
 	#LANG_END
 	
 	
-blocks: [Course:100597 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-languages: 
 ts: 1441924448
+languages: 
+username: AlexDaniel
+blocks: [Course:100597 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166

@@ -1,5 +1,8 @@
-revision: 4
+flags: 10
 minor: 1
+revision: 4
+ts: 1441924449
+lastmajor: 2
 text: #SUBTITLE Ökoloogia
 	#SUBURL [Course:38614 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +18,10 @@ text: #SUBTITLE Ökoloogia
 	#LANG_END
 	
 	
-keep-ts: 1441924449
-flags: 1
-lastmajor: 2
+languages: 
 username: AlexDaniel
 host: 82.131.7.230
-blocks: [Course:38614 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38614 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924449
 ip: 89.235.235.166
-languages: 
-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

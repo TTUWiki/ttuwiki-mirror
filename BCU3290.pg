@@ -1,13 +1,13 @@
-username: AlexDaniel
 ip: 89.235.235.166
-blocks: [Course:100962 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
 languages: 
-ts: 1441924444
-flags: 1
+blocks: [Course:100962 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+ts: 1441924444
+keep-ts: 1441924444
+host: 82.131.7.230
 text: #SUBTITLE Teenuste turundus ja kliendi kogemus
 	#SUBURL [Course:100962 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Teenuste turundus ja kliendi kogemus
 	#LANG_END
 	
 	
-host: 82.131.7.230
-keep-ts: 1441924444
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

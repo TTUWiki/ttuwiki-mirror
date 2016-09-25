@@ -1,7 +1,9 @@
+ts: 1441924444
+keep-ts: 1441924444
+flags: 10
 ip: 89.235.235.166
 languages: 
-username: AlexDaniel
-keep-ts: 1441924444
+lastmajor: 2
 text: #SUBTITLE Elektroenergeetika teadusseminar I
 	#SUBURL [Course:33061 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +20,8 @@ text: #SUBTITLE Elektroenergeetika teadusseminar I
 	
 	
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:33061 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-flags: 1
+username: AlexDaniel
 revision: 4
+blocks: [Course:33061 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

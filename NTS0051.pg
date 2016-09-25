@@ -1,10 +1,10 @@
-minor: 1
-keep-ts: 1441924449
-ip: 89.235.235.166
-flags: 1
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
+revision: 4
+keep-ts: 1441924449
 username: AlexDaniel
-ts: 1441924449
 text: #SUBTITLE Jäätmekäitlus I
 	#SUBURL [Course:38679 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +20,8 @@ text: #SUBTITLE Jäätmekäitlus I
 	#LANG_END
 	
 	
-revision: 4
-lastmajor: 2
+minor: 1
 languages: 
-host: 82.131.7.230
-blocks: [Course:38679 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+blocks: [Course:38679 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166

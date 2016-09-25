@@ -1,14 +1,3 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-keep-ts: 1441924446
-username: AlexDaniel
-flags: 1
-ts: 1441924446
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:101745 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 text: #SUBTITLE Võlaõiguse eriosa
 	#SUBURL [Course:101745 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +14,14 @@ text: #SUBTITLE Võlaõiguse eriosa
 	
 	
 languages: 
+ts: 1441924446
+ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924446
+minor: 1
+username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+blocks: [Course:101745 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10

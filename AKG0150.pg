@@ -1,5 +1,3 @@
-ts: 1441924444
-revision: 4
 text: #SUBTITLE Keskkonnageoloogia
 	#SUBURL [Course:30196 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +13,15 @@ text: #SUBTITLE Keskkonnageoloogia
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-blocks: [Course:30196 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
-flags: 1
-minor: 1
+flags: 10
+revision: 4
 ip: 89.235.235.166
+minor: 1
+username: AlexDaniel
+blocks: [Course:30196 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
+ts: 1441924444
+keep-ts: 1441924444
 host: 82.131.7.230
+languages: 

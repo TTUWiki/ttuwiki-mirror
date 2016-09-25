@@ -1,9 +1,4 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 minor: 1
-revision: 2
-blocks: [Course:110346 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
 text: #SUBTITLE Sissejuhatus majandusfüüsikasse
 	#SUBURL [Course:110346 〔Õppeaine ÕIS-is〕]
@@ -20,6 +15,11 @@ text: #SUBTITLE Sissejuhatus majandusfüüsikasse
 	#LANG_END
 	
 	
+flags: 10
+revision: 2
 username: AlexDaniel
-languages: 
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
+blocks: [Course:110346 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 

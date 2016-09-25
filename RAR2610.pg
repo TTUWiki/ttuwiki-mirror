@@ -1,13 +1,14 @@
-flags: 1
-lastmajor: 2
-languages: 
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-blocks: [Course:40539 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
 minor: 1
+revision: 4
+ts: 1441924450
+flags: 10
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:40539 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+host: 82.131.7.230
+languages: 
 text: #SUBTITLE Materjalitehnika
 	#SUBURL [Course:40539 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Materjalitehnika
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-ts: 1441924450
+ip: 89.235.235.166

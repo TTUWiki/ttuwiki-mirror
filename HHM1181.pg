@@ -1,10 +1,6 @@
 username: AlexDaniel
-revision: 4
-lastmajor: 2
-host: 82.131.7.230
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:105019 〔Õppeaine ÕIS-is〕]
+blocks: [Course:105019 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 text: #SUBTITLE Haldusjuhtimise seminar
 	#SUBURL [Course:105019 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +16,12 @@ text: #SUBTITLE Haldusjuhtimise seminar
 	#LANG_END
 	
 	
+keep-ts: 1441924446
+host: 82.131.7.230
+flags: 10
+ip: 89.235.235.166
 ts: 1441924446
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-minor: 1
+revision: 4
 languages: 
+lastmajor: 2

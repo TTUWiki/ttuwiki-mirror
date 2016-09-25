@@ -1,11 +1,12 @@
-ts: 1441924443
-languages: 
-keep-ts: 1441924443
-revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
-flags: 1
-minor: 1
+keep-ts: 1441924443
+host: 82.131.7.230
+languages: 
+flags: 10
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924443
 text: #SUBTITLE Tootmise automatiseerimine
 	#SUBURL [Course:31232 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +22,6 @@ text: #SUBTITLE Tootmise automatiseerimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:31232 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31232 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+minor: 1

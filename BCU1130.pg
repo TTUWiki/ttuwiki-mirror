@@ -1,14 +1,5 @@
-blocks: [Course:34083 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
-minor: 1
 username: AlexDaniel
-keep-ts: 1441924444
-ts: 1441924444
-host: 82.131.7.230
 lastmajor: 2
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitusinvesteeringute plaanimine
 	#SUBURL [Course:34083 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +15,13 @@ text: #SUBTITLE Ehitusinvesteeringute plaanimine
 	#LANG_END
 	
 	
+blocks: [Course:34083 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
+ts: 1441924444
+minor: 1
+revision: 4
+keep-ts: 1441924444
 languages: 

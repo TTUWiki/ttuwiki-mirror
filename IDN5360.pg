@@ -1,6 +1,10 @@
+flags: 10
+host: 82.131.7.230
 ip: 89.235.235.166
+keep-ts: 1441924447
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 2
 text: #SUBTITLE Äriteabe haldamine ja visuaalne analüütika
 	#SUBURL [Course:106303 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Äriteabe haldamine ja visuaalne analüütika
 	#LANG_END
 	
 	
-ts: 1441924447
-minor: 1
-blocks: [Course:106303 〔Õppeaine ÕIS-is〕]
-languages: 
+blocks: [Course:106303 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924447
+languages: 
 revision: 4
-lastmajor: 2
+ts: 1441924447

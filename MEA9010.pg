@@ -1,6 +1,8 @@
+ts: 1441924448
+revision: 4
 minor: 1
 languages: 
-lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Sõidukite dünaamika
 	#SUBURL [Course:32756 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +18,10 @@ text: #SUBTITLE Sõidukite dünaamika
 	#LANG_END
 	
 	
-flags: 1
-blocks: [Course:32756 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924448
-ip: 89.235.235.166
 keep-ts: 1441924448
-host: 82.131.7.230
-revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
+lastmajor: 2
+blocks: [Course:32756 〔Õppeaine ÕIS-is〕]</div></div>

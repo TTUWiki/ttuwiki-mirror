@@ -1,14 +1,8 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-blocks: [Course:102182 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-flags: 1
-username: AlexDaniel
 languages: 
-host: 82.131.7.230
-ts: 1441924450
 minor: 1
+host: 82.131.7.230
+flags: 10
 text: #SUBTITLE Makroökonoomika
 	#SUBURL [Course:102182 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +18,10 @@ text: #SUBTITLE Makroökonoomika
 	#LANG_END
 	
 	
+ts: 1441924450
+username: AlexDaniel
+blocks: [Course:102182 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+lastmajor: 2
+revision: 4
 keep-ts: 1441924450

@@ -1,5 +1,8 @@
-host: 82.131.7.230
-flags: 1
+keep-ts: 1441924444
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+flags: 10
 text: #SUBTITLE Kliendi lojaalsuse kujundamine
 	#SUBURL [Course:37939 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Kliendi lojaalsuse kujundamine
 	
 	
 revision: 4
-lastmajor: 2
-minor: 1
-languages: 
-ts: 1441924444
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:37939 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ip: 89.235.235.166
+ts: 1441924444
+lastmajor: 2
+blocks: [Course:37939 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+host: 82.131.7.230

@@ -1,7 +1,6 @@
-blocks: [Course:100704 〔Õppeaine ÕIS-is〕]
-minor: 1
-lastmajor: 2
-ts: 1441924451
+blocks: [Course:100704 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Linnateooriad
 	#SUBURL [Course:100704 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +16,12 @@ text: #SUBTITLE Linnateooriad
 	#LANG_END
 	
 	
-flags: 1
-revision: 4
-languages: 
-host: 82.131.7.230
 keep-ts: 1441924451
+minor: 1
+revision: 4
+lastmajor: 2
+ts: 1441924451
+flags: 10
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 username: AlexDaniel

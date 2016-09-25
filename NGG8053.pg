@@ -1,5 +1,7 @@
-revision: 2
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+ts: 1441924448
+blocks: [Course:109838 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Geoloogia ametipraktika
 	#SUBURL [Course:109838 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +17,9 @@ text: #SUBTITLE Geoloogia ametipraktika
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-host: 82.131.7.230
-flags: 1
-ts: 1441924448
-blocks: [Course:109838 〔Õppeaine ÕIS-is〕]
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+flags: 10
+minor: 1
+languages: 
+revision: 2
+host: 82.131.7.230

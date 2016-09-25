@@ -1,8 +1,5 @@
-blocks: [Course:31252 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-lastmajor: 2
-keep-ts: 1441924447
-username: AlexDaniel
+minor: 1
+languages: 
 ip: 89.235.235.166
 text: #SUBTITLE Reaalajasüsteemid - projekt
 	#SUBURL [Course:31252 〔Õppeaine ÕIS-is〕]
@@ -19,9 +16,12 @@ text: #SUBTITLE Reaalajasüsteemid - projekt
 	#LANG_END
 	
 	
+username: AlexDaniel
+keep-ts: 1441924447
 revision: 4
-flags: 1
+lastmajor: 2
 host: 82.131.7.230
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-languages: 
+blocks: [Course:31252 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924447

@@ -1,7 +1,8 @@
+blocks: [Course:100768 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 keep-ts: 1441924444
-flags: 1
-revision: 4
-username: AlexDaniel
+ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Geostatistika
 	#SUBURL [Course:100768 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +18,10 @@ text: #SUBTITLE Geostatistika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-languages: 
-lastmajor: 2
+revision: 4
 minor: 1
-ts: 1441924444
+username: AlexDaniel
+lastmajor: 2
 host: 82.131.7.230
-blocks: [Course:100768 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+languages: 

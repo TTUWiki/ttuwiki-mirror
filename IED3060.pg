@@ -1,3 +1,6 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+blocks: [Course:104928 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Tahkiselektroonika
 	#SUBURL [Course:104928 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +16,12 @@ text: #SUBTITLE Tahkiselektroonika
 	#LANG_END
 	
 	
-flags: 1
+ts: 1441924447
+minor: 1
 ip: 89.235.235.166
 lastmajor: 2
-blocks: [Course:104928 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924447
+flags: 10
 languages: 
-minor: 1
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 username: AlexDaniel
-revision: 4
+keep-ts: 1441924447

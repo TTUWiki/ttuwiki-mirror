@@ -1,5 +1,14 @@
-blocks: [Course:33284 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924447
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+keep-ts: 1441924447
+languages: 
+blocks: [Course:33284 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
+ip: 89.235.235.166
 text: #SUBTITLE Separatsiooniprotsesside printsiibid ja tehnoloogia
 	#SUBURL [Course:33284 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +24,4 @@ text: #SUBTITLE Separatsiooniprotsesside printsiibid ja tehnoloogia
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924447
-host: 82.131.7.230
-lastmajor: 2
-ts: 1441924447
-revision: 4
-ip: 89.235.235.166
 minor: 1
-flags: 1

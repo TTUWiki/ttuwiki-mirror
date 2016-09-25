@@ -1,6 +1,13 @@
-ts: 1441924451
+blocks: [Course:101831 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 minor: 1
-blocks: [Course:101831 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2
+ts: 1441924451
+ip: 89.235.235.166
+flags: 10
+languages: 
 text: #SUBTITLE Inglise keel III
 	#SUBURL [Course:101831 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +23,5 @@ text: #SUBTITLE Inglise keel III
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-flags: 1
 keep-ts: 1441924451
-username: AlexDaniel
-languages: 
+revision: 4

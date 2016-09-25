@@ -1,4 +1,9 @@
-keep-ts: 1441924447
+ip: 89.235.235.166
+minor: 1
+lastmajor: 2
+blocks: [Course:108371 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924447
+revision: 4
 text: #SUBTITLE Tarkade asjade võrgud
 	#SUBURL [Course:108371 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +19,9 @@ text: #SUBTITLE Tarkade asjade võrgud
 	#LANG_END
 	
 	
-minor: 1
-ts: 1441924447
+flags: 10
 host: 82.131.7.230
-flags: 1
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:108371 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-lastmajor: 2
+keep-ts: 1441924447

@@ -1,14 +1,10 @@
+username: AlexDaniel
+ts: 1441924445
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30722 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-flags: 1
+flags: 10
 revision: 4
 host: 82.131.7.230
-minor: 1
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
 text: #SUBTITLE Keskkonnapoliitika ja -juhtimissüsteemid - ainetöö
 	#SUBURL [Course:30722 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +20,8 @@ text: #SUBTITLE Keskkonnapoliitika ja -juhtimissüsteemid - ainetöö
 	#LANG_END
 	
 	
-ts: 1441924445
+keep-ts: 1441924445
+ip: 89.235.235.166
+blocks: [Course:30722 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+minor: 1

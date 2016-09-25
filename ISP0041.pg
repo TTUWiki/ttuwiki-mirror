@@ -1,12 +1,13 @@
-flags: 1
-ts: 1441924447
-minor: 1
 host: 82.131.7.230
-blocks: [Course:40831 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
-languages: 
+ts: 1441924447
 revision: 4
+languages: 
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:40831 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+minor: 1
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:40831 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +23,5 @@ text: #SUBTITLE Arvutivõrgud
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 lastmajor: 2

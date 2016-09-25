@@ -1,6 +1,14 @@
+languages: 
+lastmajor: 2
 revision: 4
+keep-ts: 1441924448
+host: 82.131.7.230
+ts: 1441924448
+ip: 89.235.235.166
 username: AlexDaniel
-minor: 1
+blocks: [Course:28537 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Sõidukite liikumisteooria
 	#SUBURL [Course:28537 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +24,4 @@ text: #SUBTITLE Sõidukite liikumisteooria
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:28537 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-languages: 
-ts: 1441924448
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1441924448
+minor: 1

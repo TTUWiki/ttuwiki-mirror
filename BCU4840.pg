@@ -1,13 +1,6 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 keep-ts: 1441924444
-host: 82.131.7.230
-ts: 1441924444
-minor: 1
-blocks: [Course:109617 〔Õppeaine ÕIS-is〕]
 revision: 2
-languages: 
-username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Isiksusepsühholoogia
 	#SUBURL [Course:109617 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +16,10 @@ text: #SUBTITLE Isiksusepsühholoogia
 	#LANG_END
 	
 	
+blocks: [Course:109617 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+flags: 10

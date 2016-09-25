@@ -1,11 +1,6 @@
-ts: 1441924448
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-flags: 1
-minor: 1
 host: 82.131.7.230
-keep-ts: 1441924448
+languages: 
+username: AlexDaniel
 text: #SUBTITLE Tehnomaterjalid
 	#SUBURL [Course:29310 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +16,12 @@ text: #SUBTITLE Tehnomaterjalid
 	#LANG_END
 	
 	
+keep-ts: 1441924448
+ts: 1441924448
+lastmajor: 2
+blocks: [Course:29310 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 revision: 4
-languages: 
-blocks: [Course:29310 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

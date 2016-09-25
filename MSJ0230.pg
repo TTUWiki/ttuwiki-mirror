@@ -1,4 +1,12 @@
+username: AlexDaniel
 languages: 
+blocks: [Course:105078 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+minor: 1
+flags: 10
 ts: 1441924448
 text: #SUBTITLE Rakendusenergeetika
 	#SUBURL [Course:105078 〔Õppeaine ÕIS-is〕]
@@ -16,12 +24,4 @@ text: #SUBTITLE Rakendusenergeetika
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924448
-minor: 1
-revision: 4
 host: 82.131.7.230
-lastmajor: 2
-flags: 1
-blocks: [Course:105078 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166

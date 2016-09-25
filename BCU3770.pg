@@ -1,13 +1,9 @@
-ip: 89.235.235.166
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-lastmajor: 2
-ts: 1441924444
-minor: 1
 languages: 
-revision: 4
+ip: 89.235.235.166
+blocks: [Course:101707 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924444
-flags: 1
 text: #SUBTITLE Majandusarvestuse erialapraktika
 	#SUBURL [Course:101707 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Majandusarvestuse erialapraktika
 	#LANG_END
 	
 	
-blocks: [Course:101707 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+minor: 1
+flags: 10
+lastmajor: 2
+ts: 1441924444

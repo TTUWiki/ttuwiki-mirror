@@ -1,8 +1,6 @@
-host: 82.131.7.230
-ts: 1441924444
 lastmajor: 2
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:26107 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 text: #SUBTITLE Elektrotehnika I
 	#SUBURL [Course:26107 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +16,12 @@ text: #SUBTITLE Elektrotehnika I
 	#LANG_END
 	
 	
-revision: 4
-flags: 1
-languages: 
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
-blocks: [Course:26107 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924444
+host: 82.131.7.230
+languages: 
+flags: 10
+keep-ts: 1441924444
 username: AlexDaniel

@@ -1,5 +1,13 @@
-ip: 89.235.235.166
+lastmajor: 2
+languages: 
+revision: 4
+host: 82.131.7.230
 keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+blocks: [Course:100632 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+flags: 10
 text: #SUBTITLE Maavarade ja keskkonna geoloogia
 	#SUBURL [Course:100632 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +23,5 @@ text: #SUBTITLE Maavarade ja keskkonna geoloogia
 	#LANG_END
 	
 	
-flags: 1
-lastmajor: 2
-minor: 1
-host: 82.131.7.230
+ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:100632 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

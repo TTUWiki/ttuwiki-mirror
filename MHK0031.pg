@@ -1,14 +1,7 @@
-username: AlexDaniel
-ts: 1441924448
-minor: 1
-ip: 89.235.235.166
-revision: 4
-flags: 1
-languages: 
 keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:105189 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+flags: 10
+blocks: [Course:105189 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 text: #SUBTITLE Mehhatroonikasüsteemid
 	#SUBURL [Course:105189 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +17,11 @@ text: #SUBTITLE Mehhatroonikasüsteemid
 	#LANG_END
 	
 	
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4
+minor: 1
+username: AlexDaniel
+ts: 1441924448
 lastmajor: 2

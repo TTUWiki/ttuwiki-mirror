@@ -1,13 +1,9 @@
-host: 82.131.7.230
-ts: 1441924445
-flags: 1
 revision: 4
-ip: 89.235.235.166
-lastmajor: 2
+flags: 10
 keep-ts: 1441924445
-minor: 1
-username: AlexDaniel
-blocks: [Course:25067 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Ehitiste renoveerimine
 	#SUBURL [Course:25067 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Ehitiste renoveerimine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
 languages: 
+ts: 1441924445
+blocks: [Course:25067 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

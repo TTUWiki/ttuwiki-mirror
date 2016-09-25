@@ -1,10 +1,14 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
-username: AlexDaniel
-minor: 1
-revision: 4
+host: 82.131.7.230
 lastmajor: 2
-flags: 1
+flags: 10
+ip: 89.235.235.166
+languages: 
+revision: 4
+minor: 1
+username: AlexDaniel
+keep-ts: 1441924446
+blocks: [Course:101643 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Võrdlev konstitutsiooniõigus
 	#SUBURL [Course:101643 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,4 @@ text: #SUBTITLE Võrdlev konstitutsiooniõigus
 	#LANG_END
 	
 	
-languages: 
-ip: 89.235.235.166
-keep-ts: 1441924446
-blocks: [Course:101643 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924446

@@ -1,8 +1,14 @@
-languages: 
-ts: 1441924447
+minor: 1
+keep-ts: 1441924447
+lastmajor: 2
+blocks: [Course:101205 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-blocks: [Course:101205 〔Õppeaine ÕIS-is〕]
+flags: 10
+ip: 89.235.235.166
+username: AlexDaniel
+languages: 
+ts: 1441924447
 text: #SUBTITLE Küberjulgeoleku õiguslikud alused
 	#SUBURL [Course:101205 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Küberjulgeoleku õiguslikud alused
 	#LANG_END
 	
 	
-minor: 1
-ip: 89.235.235.166
-keep-ts: 1441924447
-lastmajor: 2
-flags: 1
 host: 82.131.7.230
-username: AlexDaniel

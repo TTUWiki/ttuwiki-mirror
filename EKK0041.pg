@@ -1,13 +1,3 @@
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
-flags: 1
-keep-ts: 1441924445
-ts: 1441924445
-username: AlexDaniel
-blocks: [Course:30665 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Õhu konditsioneerimine
 	#SUBURL [Course:30665 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Õhu konditsioneerimine
 	
 	
 minor: 1
+languages: 
+lastmajor: 2
+blocks: [Course:30665 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
+username: AlexDaniel
 ip: 89.235.235.166
+host: 82.131.7.230
+ts: 1441924445
+revision: 4
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

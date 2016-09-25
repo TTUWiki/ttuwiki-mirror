@@ -1,8 +1,9 @@
-revision: 4
-keep-ts: 1441924451
-languages: 
-lastmajor: 2
 host: 82.131.7.230
+minor: 1
+ts: 1441924451
+lastmajor: 2
+blocks: [Course:36327 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451
 text: #SUBTITLE Strateegiline juhtimine
 	#SUBURL [Course:36327 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +19,9 @@ text: #SUBTITLE Strateegiline juhtimine
 	#LANG_END
 	
 	
-minor: 1
+revision: 4
+flags: 10
 username: AlexDaniel
-ts: 1441924451
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:36327 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

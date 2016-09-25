@@ -1,14 +1,13 @@
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-revision: 4
-blocks: [Course:108373 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
-username: AlexDaniel
 minor: 1
-ip: 89.235.235.166
+ts: 1441924447
+keep-ts: 1441924447
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 10
+username: AlexDaniel
+revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Võrgutehnoloogiad
 	#SUBURL [Course:108373 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Võrgutehnoloogiad
 	#LANG_END
 	
 	
-ts: 1441924447
+ip: 89.235.235.166
+blocks: [Course:108373 〔Õppeaine ÕIS-is〕]</div></div>

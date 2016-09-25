@@ -1,8 +1,13 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+ts: 1441924447
+minor: 1
+flags: 10
+blocks: [Course:109598 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-flags: 1
 languages: 
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Õpetaja koolis ja ühiskonnas
 	#SUBURL [Course:109598 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +23,3 @@ text: #SUBTITLE Õpetaja koolis ja ühiskonnas
 	#LANG_END
 	
 	
-keep-ts: 1441924447
-blocks: [Course:109598 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-minor: 1
-username: AlexDaniel

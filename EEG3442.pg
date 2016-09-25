@@ -1,11 +1,11 @@
-flags: 1
-revision: 4
 minor: 1
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 languages: 
-blocks: [Course:25057 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+blocks: [Course:25057 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Vundamendid - projekt
 	#SUBURL [Course:25057 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +21,7 @@ text: #SUBTITLE Vundamendid - projekt
 	#LANG_END
 	
 	
-keep-ts: 1441924445
-ip: 89.235.235.166
-host: 82.131.7.230
+flags: 10
+ts: 1441924445
 lastmajor: 2
+host: 82.131.7.230

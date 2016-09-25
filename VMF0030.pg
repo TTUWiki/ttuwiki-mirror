@@ -1,9 +1,10 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-host: 82.131.7.230
 keep-ts: 1441924452
-blocks: [Course:108850 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+languages: 
+minor: 1
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 text: #SUBTITLE Erialane kulinaaria - praktikum
 	#SUBURL [Course:108850 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +20,6 @@ text: #SUBTITLE Erialane kulinaaria - praktikum
 	#LANG_END
 	
 	
-ts: 1441924452
-revision: 2
-languages: 
-flags: 1
+host: 82.131.7.230
+blocks: [Course:108850 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

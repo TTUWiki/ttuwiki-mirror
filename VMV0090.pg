@@ -1,4 +1,13 @@
+flags: 10
+blocks: [Course:108954 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+revision: 2
+languages: 
+host: 82.131.7.230
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+ts: 1441924452
 text: #SUBTITLE Hüdrograafiline mõõdistamine
 	#SUBURL [Course:108954 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +23,3 @@ text: #SUBTITLE Hüdrograafiline mõõdistamine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:108954 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-ts: 1441924452
-minor: 1
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452

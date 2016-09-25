@@ -1,12 +1,6 @@
-username: AlexDaniel
-blocks: [Course:26347 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-host: 82.131.7.230
+blocks: [Course:26347 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-minor: 1
-languages: 
-revision: 4
+flags: 10
 text: #SUBTITLE Personalitöö juhtimine
 	#SUBURL [Course:26347 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +16,12 @@ text: #SUBTITLE Personalitöö juhtimine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924445
+minor: 1
+languages: 
 keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+host: 82.131.7.230
+revision: 4

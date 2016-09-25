@@ -1,6 +1,10 @@
-lastmajor: 2
+flags: 10
+keep-ts: 1441924448
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1
+languages: 
+host: 82.131.7.230
 text: #SUBTITLE Tootmispraktika
 	#SUBURL [Course:36294 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Tootmispraktika
 	#LANG_END
 	
 	
-keep-ts: 1441924448
+lastmajor: 2
 revision: 4
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-languages: 
 ts: 1441924448
-blocks: [Course:36294 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ip: 89.235.235.166
+blocks: [Course:36294 〔Õppeaine ÕIS-is〕]</div></div>

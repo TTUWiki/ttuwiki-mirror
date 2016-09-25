@@ -1,7 +1,14 @@
 ip: 89.235.235.166
 minor: 1
-blocks: [Course:25305 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+languages: 
+flags: 10
+keep-ts: 1441924445
+revision: 4
+ts: 1441924445
+blocks: [Course:25305 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+lastmajor: 2
 text: #SUBTITLE Muda- ja prügikäitluse teooria ning seadmed
 	#SUBURL [Course:25305 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Muda- ja prügikäitluse teooria ning seadmed
 	#LANG_END
 	
 	
-languages: 
-lastmajor: 2
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924445
-revision: 4
-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

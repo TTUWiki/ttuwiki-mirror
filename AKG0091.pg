@@ -1,7 +1,15 @@
-blocks: [Course:30137 〔Õppeaine ÕIS-is〕]
-languages: 
+flags: 10
 host: 82.131.7.230
+lastmajor: 2
+revision: 4
 ip: 89.235.235.166
+minor: 1
+ts: 1441924444
+blocks: [Course:30137 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hüdrogeoloogia
 	#SUBURL [Course:30137 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +25,3 @@ text: #SUBTITLE Hüdrogeoloogia
 	#LANG_END
 	
 	
-minor: 1
-username: AlexDaniel
-keep-ts: 1441924444
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924444
-revision: 4

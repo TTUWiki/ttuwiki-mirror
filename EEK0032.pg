@@ -1,3 +1,15 @@
+lastmajor: 2
+blocks: [Course:100505 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924445
+flags: 10
+languages: 
+ip: 89.235.235.166
+keep-ts: 1441924445
+revision: 4
 text: #SUBTITLE Metallkonstruktsioonid II
 	#SUBURL [Course:100505 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Metallkonstruktsioonid II
 	#LANG_END
 	
 	
-revision: 4
-keep-ts: 1441924445
-flags: 1
-blocks: [Course:100505 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-ip: 89.235.235.166
-minor: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-lastmajor: 2

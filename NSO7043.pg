@@ -1,7 +1,3 @@
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:40491 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 text: #SUBTITLE Fütometeoroloogia
 	#SUBURL [Course:40491 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +13,15 @@ text: #SUBTITLE Fütometeoroloogia
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 host: 82.131.7.230
-languages: 
-flags: 1
+flags: 10
 ip: 89.235.235.166
-minor: 1
+revision: 4
 ts: 1441924448
+blocks: [Course:40491 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+minor: 1
+keep-ts: 1441924448

@@ -1,3 +1,14 @@
+blocks: [Course:106152 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924449
+host: 82.131.7.230
+revision: 4
+flags: 10
+minor: 1
+lastmajor: 2
+keep-ts: 1441924449
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Arvutivõrkude projekteerimine I
 	#SUBURL [Course:106152 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +24,4 @@ text: #SUBTITLE Arvutivõrkude projekteerimine I
 	#LANG_END
 	
 	
-ts: 1441924449
-blocks: [Course:106152 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-keep-ts: 1441924449
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
-languages: 
-host: 82.131.7.230
 ip: 89.235.235.166

@@ -1,8 +1,4 @@
 languages: 
-keep-ts: 1441924446
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Personalijuhtimine avalikus sektoris
 	#SUBURL [Course:100462 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +14,14 @@ text: #SUBTITLE Personalijuhtimine avalikus sektoris
 	#LANG_END
 	
 	
-flags: 1
+ts: 1441924446
+host: 82.131.7.230
+keep-ts: 1441924446
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
 revision: 4
-host: 82.131.7.230
+blocks: [Course:100462 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-blocks: [Course:100462 〔Õppeaine ÕIS-is〕]
-ts: 1441924446
+flags: 10
+minor: 1

@@ -1,5 +1,13 @@
-ts: 1441924444
+minor: 1
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924444
+keep-ts: 1441924444
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Arvutigraafika II
 	#SUBURL [Course:34109 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +23,5 @@ text: #SUBTITLE Arvutigraafika II
 	#LANG_END
 	
 	
-flags: 1
-host: 82.131.7.230
-ip: 89.235.235.166
+blocks: [Course:34109 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-username: AlexDaniel
-keep-ts: 1441924444
-blocks: [Course:34109 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-minor: 1
-revision: 4

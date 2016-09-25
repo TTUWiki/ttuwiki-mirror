@@ -1,7 +1,13 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 host: 82.131.7.230
-username: AlexDaniel
-minor: 1
+blocks: [Course:34195 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924449
+minor: 1
+revision: 4
 ts: 1441924449
 text: #SUBTITLE Suuline eneseväljendus
 	#SUBURL [Course:34195 〔Õppeaine ÕIS-is〕]
@@ -18,10 +24,4 @@ text: #SUBTITLE Suuline eneseväljendus
 	#LANG_END
 	
 	
-flags: 1
-revision: 4
-keep-ts: 1441924449
-blocks: [Course:34195 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 

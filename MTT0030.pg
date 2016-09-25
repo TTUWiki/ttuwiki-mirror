@@ -1,10 +1,6 @@
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
+ts: 1441924448
+keep-ts: 1441924448
 lastmajor: 2
-revision: 4
-blocks: [Course:30015 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Maht- ja lehtvormimine
 	#SUBURL [Course:30015 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +16,12 @@ text: #SUBTITLE Maht- ja lehtvormimine
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924448
-username: AlexDaniel
-ts: 1441924448
+blocks: [Course:30015 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4
 minor: 1
+username: AlexDaniel
+languages: 
+flags: 10

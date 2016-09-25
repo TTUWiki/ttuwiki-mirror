@@ -1,7 +1,9 @@
+flags: 10
+minor: 1
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel
 lastmajor: 2
-blocks: [Course:106978 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 text: #SUBTITLE E-valitsuse õiguslikud aspektid
 	#SUBURL [Course:106978 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +19,9 @@ text: #SUBTITLE E-valitsuse õiguslikud aspektid
 	#LANG_END
 	
 	
-minor: 1
-revision: 4
-ip: 89.235.235.166
-languages: 
 keep-ts: 1441924446
-username: AlexDaniel
+languages: 
+blocks: [Course:106978 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924446
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

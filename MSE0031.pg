@@ -1,5 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+flags: 10
+ip: 89.235.235.166
 text: #SUBTITLE Infotehnoloogia soojustehnikas
 	#SUBURL [Course:39730 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +17,11 @@ text: #SUBTITLE Infotehnoloogia soojustehnikas
 	
 username: AlexDaniel
 host: 82.131.7.230
-keep-ts: 1441924448
 ts: 1441924448
 languages: 
-ip: 89.235.235.166
 lastmajor: 2
-blocks: [Course:39730 〔Õppeaine ÕIS-is〕]
-flags: 1
+revision: 4
+blocks: [Course:39730 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

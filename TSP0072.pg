@@ -1,13 +1,8 @@
-revision: 2
-username: AlexDaniel
-languages: 
 minor: 1
-ts: 1441924451
-blocks: [Course:110016 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 keep-ts: 1441924451
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110016 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 text: #SUBTITLE Rahvusvahelised suhted kaasajal
 	#SUBURL [Course:110016 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +18,8 @@ text: #SUBTITLE Rahvusvahelised suhted kaasajal
 	#LANG_END
 	
 	
+host: 82.131.7.230
+ts: 1441924451
+flags: 10
+languages: 
+revision: 2

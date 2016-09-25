@@ -1,7 +1,12 @@
-minor: 1
 revision: 2
-languages: 
+flags: 10
+minor: 1
+keep-ts: 1441924452
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+languages: 
+blocks: [Course:108771 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Külmutusseadmed II
 	#SUBURL [Course:108771 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +22,4 @@ text: #SUBTITLE Külmutusseadmed II
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ts: 1441924452
 username: AlexDaniel
-blocks: [Course:108771 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-flags: 1

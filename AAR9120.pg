@@ -1,12 +1,3 @@
-revision: 4
-minor: 1
-host: 82.131.7.230
-lastmajor: 2
-flags: 1
-languages: 
-username: AlexDaniel
-keep-ts: 1441924443
-blocks: [Course:101984 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tööstusautomaatika teadusseminar
 	#SUBURL [Course:101984 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +13,15 @@ text: #SUBTITLE Tööstusautomaatika teadusseminar
 	#LANG_END
 	
 	
+minor: 1
+username: AlexDaniel
+keep-ts: 1441924443
+revision: 4
+flags: 10
 ts: 1441924443
+blocks: [Course:101984 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+host: 82.131.7.230
 ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

@@ -1,9 +1,4 @@
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924446
-username: AlexDaniel
-host: 82.131.7.230
 text: #SUBTITLE Digikirjaoskus II
 	#SUBURL [Course:110062 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +14,12 @@ text: #SUBTITLE Digikirjaoskus II
 	#LANG_END
 	
 	
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110062 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924446
-flags: 1
-blocks: [Course:110062 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
 revision: 2
+keep-ts: 1441924446
+minor: 1

@@ -1,3 +1,15 @@
+ip: 89.235.235.166
+languages: 
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1
+ts: 1441924447
+username: AlexDaniel
+keep-ts: 1441924447
+flags: 10
+blocks: [Course:101362 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Polümeermaterjalide füüsikalised ja mehaanilised omadused ning katsetamine
 	#SUBURL [Course:101362 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Polümeermaterjalide füüsikalised ja mehaanilised omadused nin
 	#LANG_END
 	
 	
-username: AlexDaniel
-host: 82.131.7.230
-revision: 4
-flags: 1
-minor: 1
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101362 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-ts: 1441924447
-lastmajor: 2

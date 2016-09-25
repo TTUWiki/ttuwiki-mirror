@@ -1,9 +1,9 @@
+ip: 89.235.235.166
+blocks: [Course:39077 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924449
-blocks: [Course:39077 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
+minor: 1
 revision: 4
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
 text: #SUBTITLE Keskkonnamajanduse alused
 	#SUBURL [Course:39077 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +19,9 @@ text: #SUBTITLE Keskkonnamajanduse alused
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+host: 82.131.7.230
+flags: 10
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-minor: 1
 username: AlexDaniel
+lastmajor: 2

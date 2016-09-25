@@ -1,12 +1,3 @@
-ip: 89.235.235.166
-flags: 1
-host: 82.131.7.230
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-blocks: [Course:33646 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-languages: 
 text: #SUBTITLE Arvestuse alused - ainetöö
 	#SUBURL [Course:33646 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +13,15 @@ text: #SUBTITLE Arvestuse alused - ainetöö
 	#LANG_END
 	
 	
-minor: 1
+blocks: [Course:33646 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 lastmajor: 2
+flags: 10
+minor: 1
+languages: 
+host: 82.131.7.230
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
 username: AlexDaniel
+ip: 89.235.235.166

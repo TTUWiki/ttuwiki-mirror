@@ -1,11 +1,8 @@
-revision: 2
-ts: 1441924444
+keep-ts: 1441924444
 languages: 
-blocks: [Course:109376 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109376 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
 host: 82.131.7.230
-keep-ts: 1441924444
-minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sotsiaalpsühholoogia
 	#SUBURL [Course:109376 〔Õppeaine ÕIS-is〕]
@@ -22,4 +19,7 @@ text: #SUBTITLE Sotsiaalpsühholoogia
 	#LANG_END
 	
 	
-flags: 1
+minor: 1
+flags: 10
+ts: 1441924444
+revision: 2

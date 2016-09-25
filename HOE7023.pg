@@ -1,11 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:109947 〔Õppeaine ÕIS-is〕]
 revision: 2
-host: 82.131.7.230
-ts: 1441924446
-username: AlexDaniel
-languages: 
-keep-ts: 1441924446
 text: #SUBTITLE Digitaalsed tõendid
 	#SUBURL [Course:109947 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +14,12 @@ text: #SUBTITLE Digitaalsed tõendid
 	#LANG_END
 	
 	
+ts: 1441924446
+keep-ts: 1441924446
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
-flags: 1
+flags: 10
+username: AlexDaniel
+host: 82.131.7.230
+blocks: [Course:109947 〔Õppeaine ÕIS-is〕]</div></div>

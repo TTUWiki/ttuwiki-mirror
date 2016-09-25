@@ -1,9 +1,12 @@
-username: AlexDaniel
-flags: 1
-minor: 1
+host: 82.131.7.230
 revision: 2
+username: AlexDaniel
+minor: 1
+blocks: [Course:109012 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+ts: 1441924452
 text: #SUBTITLE Laeva elektriseadmete ekspluatatsioon ja hooldus
 	#SUBURL [Course:109012 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +22,4 @@ text: #SUBTITLE Laeva elektriseadmete ekspluatatsioon ja hooldus
 	#LANG_END
 	
 	
-blocks: [Course:109012 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
 keep-ts: 1441924452
-host: 82.131.7.230

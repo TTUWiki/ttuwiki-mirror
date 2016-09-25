@@ -1,6 +1,10 @@
-flags: 1
-blocks: [Course:34115 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+lastmajor: 2
+blocks: [Course:34115 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+flags: 10
+keep-ts: 1441924444
 text: #SUBTITLE Arhitektuur
 	#SUBURL [Course:34115 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Arhitektuur
 	#LANG_END
 	
 	
-languages: 
-revision: 4
 username: AlexDaniel
-lastmajor: 2
-keep-ts: 1441924444
-ts: 1441924444
-minor: 1
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+minor: 1
+languages: 

@@ -1,13 +1,15 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29669 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924444
-lastmajor: 2
-ts: 1441924444
-revision: 4
-username: AlexDaniel
+minor: 1
 languages: 
+username: AlexDaniel
+blocks: [Course:29669 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+keep-ts: 1441924444
+flags: 10
+ip: 89.235.235.166
+ts: 1441924444
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Elektrimõõtmised
 	#SUBURL [Course:29669 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +25,3 @@ text: #SUBTITLE Elektrimõõtmised
 	#LANG_END
 	
 	
-flags: 1
-minor: 1

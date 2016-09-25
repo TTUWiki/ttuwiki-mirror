@@ -1,13 +1,14 @@
-blocks: [Course:30927 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-host: 82.131.7.230
-revision: 4
-flags: 1
-minor: 1
 keep-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30927 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+username: AlexDaniel
+ts: 1441924446
 lastmajor: 2
+host: 82.131.7.230
+ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
 text: #SUBTITLE Arvutitehnika - projekt
 	#SUBURL [Course:30927 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Arvutitehnika - projekt
 	#LANG_END
 	
 	
-languages: 
-ts: 1441924446
+revision: 4

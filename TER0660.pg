@@ -1,11 +1,7 @@
-username: AlexDaniel
-languages: 
-blocks: [Course:102170 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
 ts: 1441924450
-keep-ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Rahvusvaheline finantsjuhtimine
 	#SUBURL [Course:102170 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Rahvusvaheline finantsjuhtimine
 	#LANG_END
 	
 	
-flags: 1
 revision: 4
-minor: 1
+languages: 
+blocks: [Course:102170 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
+keep-ts: 1441924450
+username: AlexDaniel
+host: 82.131.7.230
+flags: 10

@@ -1,15 +1,12 @@
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-flags: 1
-languages: 
-minor: 1
-ts: 1441924447
-revision: 4
 ip: 89.235.235.166
-blocks: [Course:101486 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 lastmajor: 2
+minor: 1
+languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+username: AlexDaniel
 text: #SUBTITLE Doktoriseminar I
 	#SUBURL [Course:101486 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Doktoriseminar I
 	#LANG_END
 	
 	
+keep-ts: 1441924447
+revision: 4
+blocks: [Course:101486 〔Õppeaine ÕIS-is〕]</div></div>

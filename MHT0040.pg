@@ -1,9 +1,9 @@
-keep-ts: 1441924448
-blocks: [Course:30568 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-username: AlexDaniel
 host: 82.131.7.230
+minor: 1
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+lastmajor: 2
 text: #SUBTITLE Kvaliteedijuhtimine
 	#SUBURL [Course:30568 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +20,8 @@ text: #SUBTITLE Kvaliteedijuhtimine
 	
 	
 ip: 89.235.235.166
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-flags: 1
-lastmajor: 2
+keep-ts: 1441924448
+ts: 1441924448
+username: AlexDaniel
+blocks: [Course:30568 〔Õppeaine ÕIS-is〕]</div></div>

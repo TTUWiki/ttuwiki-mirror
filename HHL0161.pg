@@ -1,9 +1,11 @@
-blocks: [Course:110024 〔Õppeaine ÕIS-is〕]
-minor: 1
+ts: 1441924446
+blocks: [Course:110024 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 revision: 2
+flags: 10
+keep-ts: 1441924446
 text: #SUBTITLE Poliitikate kujundamine
 	#SUBURL [Course:110024 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +22,4 @@ text: #SUBTITLE Poliitikate kujundamine
 	
 	
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-ts: 1441924446
+minor: 1

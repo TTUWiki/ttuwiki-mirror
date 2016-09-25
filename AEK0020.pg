@@ -1,12 +1,13 @@
-ts: 1441924444
+flags: 10
 username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:30268 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+blocks: [Course:30268 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924444
+host: 82.131.7.230
+languages: 
+revision: 4
 lastmajor: 2
+minor: 1
 text: #SUBTITLE Kõrgepingeseadmed
 	#SUBURL [Course:30268 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +23,5 @@ text: #SUBTITLE Kõrgepingeseadmed
 	#LANG_END
 	
 	
-host: 82.131.7.230
-languages: 
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444

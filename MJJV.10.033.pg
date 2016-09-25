@@ -1,8 +1,12 @@
-blocks: [Course:105228 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-keep-ts: 1441924448
+revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2
+minor: 1
+ts: 1441924448
 languages: 
-flags: 1
+blocks: [Course:105228 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Kahjukindlustus
 	#SUBURL [Course:105228 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +23,5 @@ text: #SUBTITLE Kahjukindlustus
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
-ts: 1441924448
-minor: 1
-revision: 4
+keep-ts: 1441924448
+flags: 10

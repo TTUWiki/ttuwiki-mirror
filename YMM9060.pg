@@ -1,7 +1,11 @@
-host: 82.131.7.230
 ts: 1441924452
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
+lastmajor: 2
 minor: 1
+flags: 10
+revision: 4
 text: #SUBTITLE Matemaatika doktorantidele I
 	#SUBURL [Course:32221 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Matemaatika doktorantidele I
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
 languages: 
 ip: 89.235.235.166
-flags: 1
-blocks: [Course:32221 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
+blocks: [Course:32221 〔Õppeaine ÕIS-is〕]</div></div>

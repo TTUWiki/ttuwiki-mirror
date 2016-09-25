@@ -1,13 +1,4 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
 ts: 1441924446
-flags: 1
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:32678 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-minor: 1
 text: #SUBTITLE Võõrkeel halduskorralduses I
 	#SUBURL [Course:32678 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Võõrkeel halduskorralduses I
 	#LANG_END
 	
 	
-host: 82.131.7.230
+revision: 4
+blocks: [Course:32678 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+minor: 1
 languages: 
+ip: 89.235.235.166
+lastmajor: 2
+keep-ts: 1441924446
+username: AlexDaniel
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

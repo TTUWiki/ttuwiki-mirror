@@ -1,3 +1,13 @@
+blocks: [Course:102880 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+host: 82.131.7.230
+languages: 
+minor: 1
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
+keep-ts: 1441924449
+revision: 4
 text: #SUBTITLE Arhitektuuri teooria
 	#SUBURL [Course:102880 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +23,5 @@ text: #SUBTITLE Arhitektuuri teooria
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-ts: 1441924449
-flags: 1
-username: AlexDaniel
-keep-ts: 1441924449
-blocks: [Course:102880 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-minor: 1
-ip: 89.235.235.166
+ts: 1441924449

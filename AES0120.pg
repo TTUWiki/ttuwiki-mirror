@@ -1,12 +1,9 @@
-flags: 1
-lastmajor: 2
-revision: 4
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
 host: 82.131.7.230
+revision: 4
+blocks: [Course:30385 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 minor: 1
-blocks: [Course:30385 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 text: #SUBTITLE Elektrivõrgud - projekt
 	#SUBURL [Course:30385 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +19,9 @@ text: #SUBTITLE Elektrivõrgud - projekt
 	#LANG_END
 	
 	
-ts: 1441924444
-ip: 89.235.235.166
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
 languages: 
+ip: 89.235.235.166
+username: AlexDaniel

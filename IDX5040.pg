@@ -1,14 +1,15 @@
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+flags: 10
+blocks: [Course:26817 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+keep-ts: 1441924447
 lastmajor: 2
-blocks: [Course:26817 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
 revision: 4
 username: AlexDaniel
-keep-ts: 1441924447
-flags: 1
-host: 82.131.7.230
-ts: 1441924447
 text: #SUBTITLE Multimeedia
 	#SUBURL [Course:26817 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Multimeedia
 	#LANG_END
 	
 	
-minor: 1

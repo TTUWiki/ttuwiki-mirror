@@ -1,12 +1,14 @@
-revision: 4
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-blocks: [Course:102010 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924448
+blocks: [Course:102010 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 minor: 1
+languages: 
+flags: 10
 username: AlexDaniel
+revision: 4
+ts: 1441924448
+lastmajor: 2
 text: #SUBTITLE Okeanograafia-meteoroloogia praktika
 	#SUBURL [Course:102010 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +24,4 @@ text: #SUBTITLE Okeanograafia-meteoroloogia praktika
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924448
-lastmajor: 2
+ip: 89.235.235.166

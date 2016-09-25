@@ -1,11 +1,11 @@
 keep-ts: 1441924444
+blocks: [Course:34119 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924444
+ip: 89.235.235.166
 host: 82.131.7.230
 minor: 1
-ts: 1441924444
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
 text: #SUBTITLE Arvutigraafika I
 	#SUBURL [Course:34119 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +21,7 @@ text: #SUBTITLE Arvutigraafika I
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-blocks: [Course:34119 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
+flags: 10
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

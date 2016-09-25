@@ -1,3 +1,4 @@
+lastmajor: 2
 text: #SUBTITLE Ettevõtluse eriseminar
 	#SUBURL [Course:100631 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +14,14 @@ text: #SUBTITLE Ettevõtluse eriseminar
 	#LANG_END
 	
 	
-lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
-blocks: [Course:100631 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924451
-revision: 4
 username: AlexDaniel
+ip: 89.235.235.166
+languages: 
+flags: 10
+keep-ts: 1441924451
+blocks: [Course:100631 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ts: 1441924451
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4

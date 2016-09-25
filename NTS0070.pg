@@ -1,8 +1,11 @@
-ip: 89.235.235.166
-languages: 
-minor: 1
-flags: 1
 host: 82.131.7.230
+ip: 89.235.235.166
+ts: 1441924449
+lastmajor: 2
+minor: 1
+username: AlexDaniel
+revision: 4
+languages: 
 text: #SUBTITLE Riski- ja ohutusõpetus
 	#SUBURL [Course:38536 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Riski- ja ohutusõpetus
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 4
 keep-ts: 1441924449
+blocks: [Course:38536 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-blocks: [Course:38536 〔Õppeaine ÕIS-is〕]
-lastmajor: 2

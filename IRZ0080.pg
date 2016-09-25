@@ -1,12 +1,15 @@
-host: 82.131.7.230
-lastmajor: 2
-flags: 1
-revision: 4
 keep-ts: 1441924447
+host: 82.131.7.230
+blocks: [Course:29848 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
+revision: 4
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
 minor: 1
+ts: 1441924447
 text: #SUBTITLE Funktsionaalsed signaaliprotsessorid
 	#SUBURL [Course:29848 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Funktsionaalsed signaaliprotsessorid
 	#LANG_END
 	
 	
-username: AlexDaniel
-ip: 89.235.235.166
-blocks: [Course:29848 〔Õppeaine ÕIS-is〕]

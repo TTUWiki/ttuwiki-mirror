@@ -1,7 +1,9 @@
+keep-ts: 1441924445
+ip: 89.235.235.166
 revision: 4
-host: 82.131.7.230
-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
 text: #SUBTITLE Sadamate planeerimine
 	#SUBURL [Course:106391 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +19,9 @@ text: #SUBTITLE Sadamate planeerimine
 	#LANG_END
 	
 	
-flags: 1
+minor: 1
+flags: 10
+blocks: [Course:106391 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
 username: AlexDaniel
-minor: 1
-languages: 
-blocks: [Course:106391 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924445
+ts: 1441924445

@@ -1,11 +1,12 @@
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:33158 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
+blocks: [Course:33158 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924447
 lastmajor: 2
 revision: 4
-ip: 89.235.235.166
-flags: 1
+languages: 
+host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Sidude ja süsteemide teooria
 	#SUBURL [Course:33158 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +23,5 @@ text: #SUBTITLE Sidude ja süsteemide teooria
 	
 	
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
-ts: 1441924447
-username: AlexDaniel

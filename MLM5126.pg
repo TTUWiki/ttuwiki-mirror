@@ -1,8 +1,14 @@
-keep-ts: 1441924448
-revision: 4
+ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:103294 〔Õppeaine ÕIS-is〕]
+blocks: [Course:103294 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 host: 82.131.7.230
+revision: 4
+keep-ts: 1441924448
+ts: 1441924448
+lastmajor: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sisepõlemismootorite ja käitursüsteemide valik ning monteerimine
 	#SUBURL [Course:103294 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Sisepõlemismootorite ja käitursüsteemide valik ning monteerim
 	#LANG_END
 	
 	
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
-ts: 1441924448
-ip: 89.235.235.166
-languages: 
+flags: 10

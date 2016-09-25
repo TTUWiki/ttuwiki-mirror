@@ -1,3 +1,11 @@
+blocks: [Course:106238 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+username: AlexDaniel
+flags: 10
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
 host: 82.131.7.230
 text: #SUBTITLE Bakalaureuseseminar
 	#SUBURL [Course:106238 〔Õppeaine ÕIS-is〕]
@@ -14,14 +22,6 @@ text: #SUBTITLE Bakalaureuseseminar
 	#LANG_END
 	
 	
-languages: 
-ip: 89.235.235.166
-blocks: [Course:106238 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-ts: 1441924445
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 keep-ts: 1441924445
-revision: 4
-username: AlexDaniel

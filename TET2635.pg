@@ -1,3 +1,9 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+languages: 
+flags: 10
+keep-ts: 1441924450
 text: #SUBTITLE Baltimere maade ja Venemaa majandus
 	#SUBURL [Course:104967 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +19,9 @@ text: #SUBTITLE Baltimere maade ja Venemaa majandus
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:104967 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
-host: 82.131.7.230
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ip: 89.235.235.166
 ts: 1441924450
-languages: 
+minor: 1
+ip: 89.235.235.166
+blocks: [Course:104967 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+revision: 4

@@ -1,7 +1,6 @@
 host: 82.131.7.230
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-blocks: [Course:39127 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Veereostus ja -kaitse
 	#SUBURL [Course:39127 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +16,12 @@ text: #SUBTITLE Veereostus ja -kaitse
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
-lastmajor: 2
-languages: 
-keep-ts: 1441924449
 ts: 1441924449
+lastmajor: 2
 ip: 89.235.235.166
+languages: 
+flags: 10
+blocks: [Course:39127 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+keep-ts: 1441924449
+minor: 1

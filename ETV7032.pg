@@ -1,10 +1,11 @@
-blocks: [Course:106258 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
 username: AlexDaniel
+host: 82.131.7.230
 ip: 89.235.235.166
-ts: 1441924445
+revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
+languages: 
 text: #SUBTITLE Protsesside analüüs tarneahelas - ainetöö
 	#SUBURL [Course:106258 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +21,7 @@ text: #SUBTITLE Protsesside analüüs tarneahelas - ainetöö
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924445
-revision: 4
+ts: 1441924445
+flags: 10
+blocks: [Course:106258 〔Õppeaine ÕIS-is〕]</div></div>

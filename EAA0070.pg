@@ -1,5 +1,10 @@
+ts: 1441924444
+languages: 
+minor: 1
+blocks: [Course:109500 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Linnaruumi kujunemine
 	#SUBURL [Course:109500 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +21,5 @@ text: #SUBTITLE Linnaruumi kujunemine
 	
 	
 keep-ts: 1441924444
-username: AlexDaniel
-ts: 1441924444
+flags: 10
 revision: 2
-minor: 1
-flags: 1
-blocks: [Course:109500 〔Õppeaine ÕIS-is〕]
-languages: 

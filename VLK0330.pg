@@ -1,11 +1,8 @@
-ts: 1441924452
 username: AlexDaniel
-languages: 
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 revision: 2
-blocks: [Course:110106 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+languages: 
 text: #SUBTITLE Külmutusseadmete montaaži ja remondi praktika
 	#SUBURL [Course:110106 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +18,8 @@ text: #SUBTITLE Külmutusseadmete montaaži ja remondi praktika
 	#LANG_END
 	
 	
-host: 82.131.7.230
+ts: 1441924452
+blocks: [Course:110106 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+keep-ts: 1441924452
+host: 82.131.7.230

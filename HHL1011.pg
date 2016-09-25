@@ -1,8 +1,7 @@
+blocks: [Course:105011 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-ip: 89.235.235.166
-revision: 4
-ts: 1441924446
-lastmajor: 2
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Halduspoliitika valikkursus
 	#SUBURL [Course:105011 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +17,11 @@ text: #SUBTITLE Halduspoliitika valikkursus
 	#LANG_END
 	
 	
-keep-ts: 1441924446
-host: 82.131.7.230
-flags: 1
-blocks: [Course:105011 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+host: 82.131.7.230
+keep-ts: 1441924446
+lastmajor: 2
+ip: 89.235.235.166
+ts: 1441924446
+revision: 4

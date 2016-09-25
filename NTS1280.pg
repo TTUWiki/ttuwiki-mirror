@@ -1,9 +1,6 @@
-ts: 1441924449
-keep-ts: 1441924449
-host: 82.131.7.230
+lastmajor: 2
+flags: 10
 username: AlexDaniel
-flags: 1
-minor: 1
 text: #SUBTITLE Ehituse maksumuse hindamine
 	#SUBURL [Course:103005 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +16,12 @@ text: #SUBTITLE Ehituse maksumuse hindamine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+blocks: [Course:103005 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 revision: 4
-blocks: [Course:103005 〔Õppeaine ÕIS-is〕]
-languages: 
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+host: 82.131.7.230
 ip: 89.235.235.166
+languages: 

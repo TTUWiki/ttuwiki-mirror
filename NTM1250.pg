@@ -1,14 +1,15 @@
-blocks: [Course:101384 〔Õppeaine ÕIS-is〕]
-flags: 1
+revision: 4
+blocks: [Course:101384 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 lastmajor: 2
+languages: 
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+flags: 10
+username: AlexDaniel
 keep-ts: 1441924449
-minor: 1
-revision: 4
-languages: 
 text: #SUBTITLE Pilditöötlus
 	#SUBURL [Course:101384 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Pilditöötlus
 	#LANG_END
 	
 	
-username: AlexDaniel

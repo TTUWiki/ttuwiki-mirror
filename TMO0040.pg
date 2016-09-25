@@ -1,11 +1,11 @@
-languages: 
-flags: 1
-minor: 1
-ts: 1441924451
-keep-ts: 1441924451
-ip: 89.235.235.166
-username: AlexDaniel
 revision: 4
+username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ip: 89.235.235.166
+languages: 
+keep-ts: 1441924451
 text: #SUBTITLE Organisatsioonikäitumine
 	#SUBURL [Course:38519 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +21,7 @@ text: #SUBTITLE Organisatsioonikäitumine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+blocks: [Course:38519 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-blocks: [Course:38519 〔Õppeaine ÕIS-is〕]
+minor: 1

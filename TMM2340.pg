@@ -1,7 +1,12 @@
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 ts: 1441924451
+keep-ts: 1441924451
+minor: 1
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
+username: AlexDaniel
 text: #SUBTITLE Turu-uuring ja turu planeerimine
 	#SUBURL [Course:104961 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,6 @@ text: #SUBTITLE Turu-uuring ja turu planeerimine
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+flags: 10
 host: 82.131.7.230
-keep-ts: 1441924451
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-languages: 
-blocks: [Course:104961 〔Õppeaine ÕIS-is〕]
+blocks: [Course:104961 〔Õppeaine ÕIS-is〕]</div></div>

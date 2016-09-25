@@ -1,3 +1,10 @@
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166
+lastmajor: 2
 text: #SUBTITLE Töögruppide dünaamika ja protsessid
 	#SUBURL [Course:106923 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +20,8 @@ text: #SUBTITLE Töögruppide dünaamika ja protsessid
 	#LANG_END
 	
 	
+flags: 10
 minor: 1
+blocks: [Course:106923 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924446
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
 ts: 1441924446
-host: 82.131.7.230
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
-blocks: [Course:106923 〔Õppeaine ÕIS-is〕]

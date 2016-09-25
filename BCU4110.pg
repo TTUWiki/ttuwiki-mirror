@@ -1,5 +1,8 @@
-blocks: [Course:107052 〔Õppeaine ÕIS-is〕]
-languages: 
+lastmajor: 2
+ts: 1441924444
+keep-ts: 1441924444
+username: AlexDaniel
+blocks: [Course:107052 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Loodusgeograafia
 	#SUBURL [Course:107052 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +18,10 @@ text: #SUBTITLE Loodusgeograafia
 	#LANG_END
 	
 	
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-revision: 4
-minor: 1
+languages: 
 host: 82.131.7.230
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
+revision: 4
 ip: 89.235.235.166

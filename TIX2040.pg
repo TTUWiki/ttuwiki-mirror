@@ -1,5 +1,5 @@
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 text: #SUBTITLE Rahvusvaheline inimressursi juhtimine
 	#SUBURL [Course:40781 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +15,13 @@ text: #SUBTITLE Rahvusvaheline inimressursi juhtimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-keep-ts: 1441924451
-lastmajor: 2
-revision: 4
-blocks: [Course:40781 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-ip: 89.235.235.166
-username: AlexDaniel
 ts: 1441924451
+host: 82.131.7.230
+blocks: [Course:40781 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
+flags: 10
+revision: 4
+username: AlexDaniel
+keep-ts: 1441924451

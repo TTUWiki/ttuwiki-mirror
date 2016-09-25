@@ -1,13 +1,7 @@
-revision: 4
-ts: 1441924444
 username: AlexDaniel
-ip: 89.235.235.166
-lastmajor: 2
-keep-ts: 1441924444
-flags: 1
-minor: 1
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+languages: 
 text: #SUBTITLE Elektrivõrkude projekteerimine
 	#SUBURL [Course:100112 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +17,11 @@ text: #SUBTITLE Elektrivõrkude projekteerimine
 	#LANG_END
 	
 	
-blocks: [Course:100112 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100112 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
+flags: 10
+minor: 1
+revision: 4
+lastmajor: 2
 host: 82.131.7.230
+ip: 89.235.235.166

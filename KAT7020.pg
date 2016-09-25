@@ -1,3 +1,7 @@
+keep-ts: 1441924447
+blocks: [Course:109599 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ts: 1441924447
 host: 82.131.7.230
 text: #SUBTITLE Erivajadustega õppija
 	#SUBURL [Course:109599 〔Õppeaine ÕIS-is〕]
@@ -14,12 +18,8 @@ text: #SUBTITLE Erivajadustega õppija
 	#LANG_END
 	
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
-blocks: [Course:109599 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-flags: 1
-languages: 
 revision: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 minor: 1

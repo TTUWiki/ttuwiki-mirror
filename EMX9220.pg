@@ -1,14 +1,4 @@
-languages: 
-minor: 1
 username: AlexDaniel
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-flags: 1
-keep-ts: 1441924445
-lastmajor: 2
-blocks: [Course:39939 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
 text: #SUBTITLE Hüdro- ja aeromehaanika seminar
 	#SUBURL [Course:39939 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Hüdro- ja aeromehaanika seminar
 	#LANG_END
 	
 	
+ts: 1441924445
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39939 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+languages: 
+keep-ts: 1441924445
+revision: 4
+ip: 89.235.235.166
+flags: 10
+lastmajor: 2

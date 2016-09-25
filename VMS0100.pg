@@ -1,9 +1,13 @@
-keep-ts: 1441924452
-host: 82.131.7.230
+username: AlexDaniel
+minor: 1
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
+host: 82.131.7.230
+blocks: [Course:109063 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+keep-ts: 1441924452
+ts: 1441924452
+flags: 10
 text: #SUBTITLE Vahendusfirmapraktika
 	#SUBURL [Course:109063 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +23,3 @@ text: #SUBTITLE Vahendusfirmapraktika
 	#LANG_END
 	
 	
-blocks: [Course:109063 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924452
-username: AlexDaniel

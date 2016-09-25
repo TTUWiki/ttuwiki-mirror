@@ -1,8 +1,11 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
+flags: 10
+ts: 1441924451
+blocks: [Course:100708 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924451
-blocks: [Course:100708 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 revision: 4
-languages: 
 text: #SUBTITLE Operatsioonijuhtimine
 	#SUBURL [Course:100708 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Operatsioonijuhtimine
 	#LANG_END
 	
 	
-flags: 1
-ts: 1441924451
+languages: 
 minor: 1
-host: 82.131.7.230
-username: AlexDaniel
+lastmajor: 2
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

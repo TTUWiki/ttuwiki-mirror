@@ -1,9 +1,15 @@
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-minor: 1
-lastmajor: 2
+flags: 10
+username: AlexDaniel
+blocks: [Course:40495 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
+ts: 1441924448
+ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924448
+minor: 1
 text: #SUBTITLE Okeanograafia-hüdrograafia aparatuur ja andmetöötlus
 	#SUBURL [Course:40495 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Okeanograafia-hüdrograafia aparatuur ja andmetöötlus
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
-languages: 
-blocks: [Course:40495 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924448

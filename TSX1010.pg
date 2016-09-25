@@ -1,3 +1,6 @@
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Erialane võõrkeel II
 	#SUBURL [Course:102981 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +16,12 @@ text: #SUBTITLE Erialane võõrkeel II
 	#LANG_END
 	
 	
-revision: 4
+ts: 1441924451
+languages: 
 host: 82.131.7.230
+revision: 4
+blocks: [Course:102981 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 keep-ts: 1441924451
 ip: 89.235.235.166
-ts: 1441924451
-flags: 1
-minor: 1
-blocks: [Course:102981 〔Õppeaine ÕIS-is〕]
-languages: 
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel

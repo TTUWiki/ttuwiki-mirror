@@ -1,13 +1,10 @@
+revision: 4
 lastmajor: 2
-ip: 89.235.235.166
 minor: 1
-host: 82.131.7.230
-ts: 1441924446
+flags: 10
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-blocks: [Course:102789 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
+blocks: [Course:102789 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Multikultuurse töökeskkonna juhtimine
 	#SUBURL [Course:102789 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE Multikultuurse töökeskkonna juhtimine
 	#LANG_END
 	
 	
-flags: 1
+keep-ts: 1441924446
 username: AlexDaniel
+ts: 1441924446
+host: 82.131.7.230
+ip: 89.235.235.166

@@ -1,11 +1,3 @@
-keep-ts: 1441924445
-flags: 1
-languages: 
-lastmajor: 2
-minor: 1
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 4
 text: #SUBTITLE Kuluarvestus logistikas
 	#SUBURL [Course:106236 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +13,15 @@ text: #SUBTITLE Kuluarvestus logistikas
 	#LANG_END
 	
 	
-ts: 1441924445
-blocks: [Course:106236 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+lastmajor: 2
+minor: 1
+username: AlexDaniel
+flags: 10
+blocks: [Course:106236 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ts: 1441924445
+keep-ts: 1441924445
+ip: 89.235.235.166
+host: 82.131.7.230

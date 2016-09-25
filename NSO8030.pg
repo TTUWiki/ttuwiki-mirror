@@ -1,3 +1,12 @@
+languages: 
+host: 82.131.7.230
+revision: 4
+lastmajor: 2
+minor: 1
+blocks: [Course:105153 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924448
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Teadustöö metoodika
 	#SUBURL [Course:105153 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +22,6 @@ text: #SUBTITLE Teadustöö metoodika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:105153 〔Õppeaine ÕIS-is〕]
+flags: 10
 ts: 1441924448
-lastmajor: 2
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924448
-flags: 1
+ip: 89.235.235.166

@@ -1,6 +1,3 @@
-blocks: [Course:104999 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
 text: #SUBTITLE Äritegevuse õiguslik keskkond
 	#SUBURL [Course:104999 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +13,15 @@ text: #SUBTITLE Äritegevuse õiguslik keskkond
 	#LANG_END
 	
 	
-flags: 1
-ts: 1441924451
+username: AlexDaniel
 keep-ts: 1441924451
-revision: 4
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ip: 89.235.235.166
 minor: 1
+blocks: [Course:104999 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+lastmajor: 2
+flags: 10
+languages: 
+host: 82.131.7.230
+ts: 1441924451

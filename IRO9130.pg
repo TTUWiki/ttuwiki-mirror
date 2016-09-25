@@ -1,9 +1,13 @@
-keep-ts: 1441924447
-flags: 1
 ts: 1441924447
+revision: 4
+blocks: [Course:32810 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 minor: 1
+keep-ts: 1441924447
+flags: 10
 text: #SUBTITLE Kujundi digitaaltöötluse algoritmid
 	#SUBURL [Course:32810 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +23,5 @@ text: #SUBTITLE Kujundi digitaaltöötluse algoritmid
 	#LANG_END
 	
 	
-blocks: [Course:32810 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
-username: AlexDaniel
-lastmajor: 2
 ip: 89.235.235.166
+lastmajor: 2

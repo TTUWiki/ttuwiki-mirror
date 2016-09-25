@@ -1,8 +1,12 @@
-ts: 1441924452
-blocks: [Course:109030 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+blocks: [Course:109030 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 revision: 2
+keep-ts: 1441924452
+minor: 1
+ts: 1441924452
 host: 82.131.7.230
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Automaatreguleerimise alused, automaatjuhtimissüsteemide elemendid. Kontrollmõõteriistad
 	#SUBURL [Course:109030 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +22,4 @@ text: #SUBTITLE Automaatreguleerimise alused, automaatjuhtimissüsteemide elemen
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1

@@ -1,10 +1,8 @@
-ts: 1441924450
-ip: 89.235.235.166
+flags: 10
 username: AlexDaniel
-lastmajor: 2
-flags: 1
-minor: 1
-blocks: [Course:31315 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ts: 1441924450
+host: 82.131.7.230
 text: #SUBTITLE Ettevõtte väärtuse hindamine
 	#SUBURL [Course:31315 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +18,10 @@ text: #SUBTITLE Ettevõtte väärtuse hindamine
 	#LANG_END
 	
 	
-revision: 4
-keep-ts: 1441924450
-languages: 
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+lastmajor: 2
+blocks: [Course:31315 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ip: 89.235.235.166
+revision: 4

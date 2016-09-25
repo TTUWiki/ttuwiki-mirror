@@ -1,5 +1,7 @@
 keep-ts: 1441924452
-minor: 1
+languages: 
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Meresõidu astronoomia I
 	#SUBURL [Course:109260 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +17,9 @@ text: #SUBTITLE Meresõidu astronoomia I
 	#LANG_END
 	
 	
-languages: 
-flags: 1
+minor: 1
 ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+blocks: [Course:109260 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 2
 username: AlexDaniel
-blocks: [Course:109260 〔Õppeaine ÕIS-is〕]
+flags: 10

@@ -1,8 +1,6 @@
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-minor: 1
+revision: 4
+blocks: [Course:108529 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Küberkaitse erikursus
 	#SUBURL [Course:108529 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +16,12 @@ text: #SUBTITLE Küberkaitse erikursus
 	#LANG_END
 	
 	
-revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-ts: 1441924447
 keep-ts: 1441924447
-flags: 1
+minor: 1
+host: 82.131.7.230
 languages: 
-blocks: [Course:108529 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924447
+flags: 10

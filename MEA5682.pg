@@ -1,8 +1,5 @@
-blocks: [Course:28545 〔Õppeaine ÕIS-is〕]
-flags: 1
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
+blocks: [Course:28545 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Autod II
 	#SUBURL [Course:28545 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Autod II
 	#LANG_END
 	
 	
-minor: 1
 host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
 ts: 1441924448
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 lastmajor: 2
+ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924448

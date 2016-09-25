@@ -1,3 +1,6 @@
+lastmajor: 2
+minor: 1
+revision: 4
 text: #SUBTITLE Põhiõppe uurimistöö
 	#SUBURL [Course:31603 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +17,11 @@ text: #SUBTITLE Põhiõppe uurimistöö
 	
 	
 ts: 1441924452
-minor: 1
-flags: 1
+blocks: [Course:31603 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-blocks: [Course:31603 〔Õppeaine ÕIS-is〕]
+flags: 10
 ip: 89.235.235.166
+username: AlexDaniel
+host: 82.131.7.230

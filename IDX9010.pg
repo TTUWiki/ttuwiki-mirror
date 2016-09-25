@@ -1,7 +1,5 @@
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Tarkvara kvaliteedijuhtimise ja standardite eriteemad
 	#SUBURL [Course:32899 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +15,13 @@ text: #SUBTITLE Tarkvara kvaliteedijuhtimise ja standardite eriteemad
 	#LANG_END
 	
 	
-keep-ts: 1441924447
-username: AlexDaniel
-blocks: [Course:32899 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+minor: 1
 host: 82.131.7.230
 ts: 1441924447
-revision: 4
+flags: 10
 languages: 
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+blocks: [Course:32899 〔Õppeaine ÕIS-is〕]</div></div>

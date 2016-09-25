@@ -1,8 +1,9 @@
-keep-ts: 1441924446
-minor: 1
-ts: 1441924446
 languages: 
+flags: 10
+username: AlexDaniel
 revision: 2
+keep-ts: 1441924446
+blocks: [Course:110155 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Rahvusvaheline personalijuhtimine
 	#SUBURL [Course:110155 〔Õppeaine ÕIS-is〕]
@@ -19,7 +20,6 @@ text: #SUBTITLE Rahvusvaheline personalijuhtimine
 	#LANG_END
 	
 	
-flags: 1
-blocks: [Course:110155 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 host: 82.131.7.230
+minor: 1
+ts: 1441924446

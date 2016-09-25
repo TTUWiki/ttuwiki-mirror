@@ -1,4 +1,10 @@
-blocks: [Course:108528 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
+languages: 
+ts: 1441924447
+keep-ts: 1441924447
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Digitaalse ekspertiisi erikursus I
 	#SUBURL [Course:108528 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +21,7 @@ text: #SUBTITLE Digitaalse ekspertiisi erikursus I
 	
 	
 ip: 89.235.235.166
-keep-ts: 1441924447
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-ts: 1441924447
-host: 82.131.7.230
+blocks: [Course:108528 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
-lastmajor: 2
-languages: 
-flags: 1
+username: AlexDaniel
