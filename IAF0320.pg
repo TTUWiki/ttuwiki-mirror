@@ -1,23 +1,24 @@
-host: 193.40.250.230
-ts: 1473161063
-ip: 89.235.235.166
-languages: 
-lastmajor: 6
-summary: formatting
-flags: 1
-lastmajorsummary: Deadlines
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+revision: 11
+minor: 
 username: AlexDaniel
-keep-ts: 1473161063
-minor: 1
+host: 85.253.108.27
+lastmajorsummary: Link to the actual course page
+summary: Link to the actual course page
+ip: 89.235.235.166
+keep-ts: 1474917244
+languages: 
+lastmajor: 11
+ts: 1474917244
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
+	Course page is on https://edu.pld.ttu.ee/index.php. Note that your browser will complain about the certificate. According to the professor you can accept it (/oops, server configuration issue/).
 	
 	Course materials: http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/
+	
+	Actual 
 	
 	== Deadlines
 	
 	* **2016-09-12** – [[http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/IAF0320_Lecture1_F2016_vdist.pdf Lecture 1]], page 13
 	
-revision: 10
