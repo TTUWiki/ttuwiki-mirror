@@ -1,5 +1,13 @@
+ip: 89.235.235.166
+revision: 4
 ts: 1441924444
-blocks: [Course:100480 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+minor: 1
+username: AlexDaniel
+keep-ts: 1441924444
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Elektrotehnika teadusseminar I
 	#SUBURL [Course:100480 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +23,5 @@ text: #SUBTITLE Elektrotehnika teadusseminar I
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-revision: 4
+blocks: [Course:100480 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924444
-lastmajor: 2
-minor: 1

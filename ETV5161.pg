@@ -1,6 +1,9 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+languages: 
+flags: 10
 minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Logistika strateegiline juhtimine
 	#SUBURL [Course:106244 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Logistika strateegiline juhtimine
 	#LANG_END
 	
 	
-keep-ts: 1441924445
-ip: 89.235.235.166
-languages: 
-blocks: [Course:106244 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924445
-lastmajor: 2
 revision: 4
-flags: 1
+keep-ts: 1441924445
+ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+blocks: [Course:106244 〔Õppeaine ÕIS-is〕]</div></div>

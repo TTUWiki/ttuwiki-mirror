@@ -1,10 +1,7 @@
-lastmajor: 2
-ip: 89.235.235.166
+blocks: [Course:31309 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924448
-revision: 4
-host: 82.131.7.230
-blocks: [Course:31309 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924448
 text: #SUBTITLE Tootmise modelleerimine ja simulatsioon
 	#SUBURL [Course:31309 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +17,11 @@ text: #SUBTITLE Tootmise modelleerimine ja simulatsioon
 	#LANG_END
 	
 	
-minor: 1
-flags: 1
-languages: 
-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+flags: 10
+minor: 1
+revision: 4
+host: 82.131.7.230
+lastmajor: 2

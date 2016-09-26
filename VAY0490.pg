@@ -1,9 +1,9 @@
-blocks: [Course:109092 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-revision: 2
-username: AlexDaniel
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 2
+flags: 10
+username: AlexDaniel
+blocks: [Course:109092 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Kehaline kasvatus II
 	#SUBURL [Course:109092 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +19,7 @@ text: #SUBTITLE Kehaline kasvatus II
 	#LANG_END
 	
 	
-flags: 1
 ts: 1441924452
 minor: 1
-languages: 
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

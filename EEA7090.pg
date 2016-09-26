@@ -1,6 +1,3 @@
-host: 82.131.7.230
-ip: 89.235.235.166
-revision: 4
 text: #SUBTITLE Linnaruumi dimensioonid
 	#SUBURL [Course:106304 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +13,15 @@ text: #SUBTITLE Linnaruumi dimensioonid
 	#LANG_END
 	
 	
-languages: 
-minor: 1
-lastmajor: 2
-ts: 1441924445
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
 keep-ts: 1441924445
-flags: 1
-blocks: [Course:106304 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106304 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+revision: 4
+ip: 89.235.235.166
+host: 82.131.7.230
+languages: 
+flags: 10

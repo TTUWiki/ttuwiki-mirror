@@ -1,15 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
-minor: 1
-blocks: [Course:101220 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924449
-lastmajor: 2
+blocks: [Course:101220 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924449
-flags: 1
-revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Restaureerimise ettevalmistustööd
 	#SUBURL [Course:101220 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +17,11 @@ text: #SUBTITLE Restaureerimise ettevalmistustööd
 	#LANG_END
 	
 	
+revision: 4
+flags: 10
+host: 82.131.7.230
+minor: 1
+keep-ts: 1441924449
+languages: 
+username: AlexDaniel
+ip: 89.235.235.166

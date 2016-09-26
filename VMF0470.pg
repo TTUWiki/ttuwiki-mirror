@@ -1,11 +1,8 @@
-ts: 1441924452
-minor: 1
-revision: 2
-host: 82.131.7.230
-flags: 1
+blocks: [Course:109152 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Kalasadamate ekspluatatsioon
 	#SUBURL [Course:109152 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +18,8 @@ text: #SUBTITLE Kalasadamate ekspluatatsioon
 	#LANG_END
 	
 	
+username: AlexDaniel
+flags: 10
 keep-ts: 1441924452
-blocks: [Course:109152 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+revision: 2

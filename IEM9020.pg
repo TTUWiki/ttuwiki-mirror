@@ -1,6 +1,4 @@
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 text: #SUBTITLE Voolutoime-elektroonika ja signaalitöötlus
 	#SUBURL [Course:33468 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +14,14 @@ text: #SUBTITLE Voolutoime-elektroonika ja signaalitöötlus
 	#LANG_END
 	
 	
-revision: 4
-minor: 1
-host: 82.131.7.230
-lastmajor: 2
-username: AlexDaniel
-languages: 
 keep-ts: 1441924447
-blocks: [Course:33468 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 ts: 1441924447
+host: 82.131.7.230
+flags: 10
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+blocks: [Course:33468 〔Õppeaine ÕIS-is〕]</div></div>

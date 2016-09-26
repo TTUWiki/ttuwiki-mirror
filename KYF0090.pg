@@ -1,8 +1,7 @@
-host: 82.131.7.230
+flags: 10
 ip: 89.235.235.166
-flags: 1
-revision: 4
 username: AlexDaniel
+languages: 
 text: #SUBTITLE Materjalide korrosioon
 	#SUBURL [Course:40157 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +17,11 @@ text: #SUBTITLE Materjalide korrosioon
 	#LANG_END
 	
 	
-ts: 1441924448
-languages: 
-minor: 1
-lastmajor: 2
 keep-ts: 1441924448
-blocks: [Course:40157 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ts: 1441924448
+blocks: [Course:40157 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+minor: 1
+revision: 4

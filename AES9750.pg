@@ -1,7 +1,13 @@
-ts: 1441924444
-languages: 
 lastmajor: 2
 ip: 89.235.235.166
+ts: 1441924444
+languages: 
+minor: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+blocks: [Course:33069 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Energiasüsteemi optimeerimise erikursus
 	#SUBURL [Course:33069 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Energiasüsteemi optimeerimise erikursus
 	
 	
 host: 82.131.7.230
-revision: 4
-minor: 1
 username: AlexDaniel
-blocks: [Course:33069 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

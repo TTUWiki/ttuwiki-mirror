@@ -1,6 +1,5 @@
-lastmajor: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
+host: 82.131.7.230
 text: #SUBTITLE Tsiviilkohtumenetlus
 	#SUBURL [Course:101755 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +16,12 @@ text: #SUBTITLE Tsiviilkohtumenetlus
 	
 	
 ip: 89.235.235.166
-keep-ts: 1441924446
-ts: 1441924446
-languages: 
-flags: 1
-minor: 1
-host: 82.131.7.230
 revision: 4
-blocks: [Course:101755 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+ts: 1441924446
+blocks: [Course:101755 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+languages: 
+minor: 1

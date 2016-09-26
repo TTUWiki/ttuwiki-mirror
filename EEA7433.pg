@@ -1,3 +1,5 @@
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Arhitektuurne mudelprojekteerimine (BIM) III
 	#SUBURL [Course:107136 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +15,13 @@ text: #SUBTITLE Arhitektuurne mudelprojekteerimine (BIM) III
 	#LANG_END
 	
 	
-blocks: [Course:107136 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+ts: 1441924445
 lastmajor: 2
-host: 82.131.7.230
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 languages: 
+host: 82.131.7.230
+revision: 4
+blocks: [Course:107136 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 minor: 1
 username: AlexDaniel
-flags: 1
-ts: 1441924445

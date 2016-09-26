@@ -1,8 +1,13 @@
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924449
+flags: 10
+ip: 89.235.235.166
+minor: 1
 languages: 
+host: 82.131.7.230
+blocks: [Course:39007 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924449
+revision: 4
+lastmajor: 2
 text: #SUBTITLE Maastikukujundus
 	#SUBURL [Course:39007 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +23,5 @@ text: #SUBTITLE Maastikukujundus
 	#LANG_END
 	
 	
-minor: 1
-lastmajor: 2
-host: 82.131.7.230
-ts: 1441924449
-blocks: [Course:39007 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,13 +1,4 @@
-lastmajor: 2
-ts: 1441924451
-flags: 1
-minor: 1
-keep-ts: 1441924451
 host: 82.131.7.230
-revision: 4
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Inimressursi juhtimine
 	#SUBURL [Course:37898 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Inimressursi juhtimine
 	#LANG_END
 	
 	
+username: AlexDaniel
+blocks: [Course:37898 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+lastmajor: 2
+flags: 10
+minor: 1
+ts: 1441924451
+keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-blocks: [Course:37898 〔Õppeaine ÕIS-is〕]
+languages: 

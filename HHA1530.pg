@@ -1,14 +1,12 @@
-host: 82.131.7.230
-revision: 4
-keep-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-flags: 1
-blocks: [Course:39458 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-ip: 89.235.235.166
 minor: 1
+blocks: [Course:39458 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
 username: AlexDaniel
+revision: 4
+ts: 1441924445
+flags: 10
 lastmajor: 2
 text: #SUBTITLE Arengupoliitikad ja üleilmastumine
 	#SUBURL [Course:39458 〔Õppeaine ÕIS-is〕]
@@ -25,3 +23,5 @@ text: #SUBTITLE Arengupoliitikad ja üleilmastumine
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+host: 82.131.7.230

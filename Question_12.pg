@@ -1,9 +1,4 @@
-host: 85.253.224.176
 languages: 
-username: AlexDaniel
-revision: 1
-minor: 1
-ts: 1469508473
 blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
 	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
 	
@@ -28,4 +23,9 @@ text: Am I the only one who finds it weird? :)
 	
 	
 summary: Moved
+host: 85.253.224.176
+username: AlexDaniel
+revision: 1
+minor: 1
+ts: 1469508473
 flags: 0101

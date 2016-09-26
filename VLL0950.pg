@@ -1,7 +1,13 @@
-blocks: [Course:110078 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-revision: 2
+username: AlexDaniel
+languages: 
+host: 82.131.7.230
 ts: 1441924452
+flags: 10
+blocks: [Course:110078 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+minor: 1
+keep-ts: 1441924452
 text: #SUBTITLE Simulaatortreening
 	#SUBURL [Course:110078 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +23,3 @@ text: #SUBTITLE Simulaatortreening
 	#LANG_END
 	
 	
-username: AlexDaniel
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
-languages: 

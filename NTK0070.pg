@@ -1,11 +1,12 @@
-blocks: [Course:38779 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38779 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 ip: 89.235.235.166
-revision: 4
-lastmajor: 2
-flags: 1
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 minor: 1
-host: 82.131.7.230
+ts: 1441924449
+lastmajor: 2
 languages: 
 text: #SUBTITLE Keskkonnameetmete ökonoomika
 	#SUBURL [Course:38779 〔Õppeaine ÕIS-is〕]
@@ -22,6 +23,5 @@ text: #SUBTITLE Keskkonnameetmete ökonoomika
 	#LANG_END
 	
 	
-ts: 1441924449
-keep-ts: 1441924449
-username: AlexDaniel
+revision: 4
+host: 82.131.7.230

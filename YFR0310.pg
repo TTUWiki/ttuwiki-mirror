@@ -13,15 +13,15 @@ text: #SUBTITLE Füüsikaliste protsesside modelleerimine
 	#LANG_END
 	
 	
-username: AlexDaniel
-keep-ts: 1441924452
-languages: 
-revision: 4
-ip: 89.235.235.166
-ts: 1441924452
-flags: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-blocks: [Course:32575 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+ip: 89.235.235.166
+languages: 
+lastmajor: 2
+ts: 1441924452
+host: 82.131.7.230
+flags: 10
+revision: 4
+username: AlexDaniel
+blocks: [Course:32575 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

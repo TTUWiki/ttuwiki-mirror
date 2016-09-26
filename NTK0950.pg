@@ -1,5 +1,6 @@
-blocks: [Course:39173 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
+lastmajor: 2
+ts: 1441924449
 text: #SUBTITLE Eesti maastikud
 	#SUBURL [Course:39173 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Eesti maastikud
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-flags: 1
 languages: 
-username: AlexDaniel
-keep-ts: 1441924449
 host: 82.131.7.230
+ip: 89.235.235.166
+blocks: [Course:39173 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 4
+keep-ts: 1441924449

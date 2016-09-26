@@ -1,10 +1,14 @@
-languages: 
-username: AlexDaniel
 lastmajor: 2
-blocks: [Course:39133 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+keep-ts: 1441924449
 ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39133 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+flags: 10
+minor: 1
+languages: 
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Bioloogiline mitmekesisus
 	#SUBURL [Course:39133 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,4 @@ text: #SUBTITLE Bioloogiline mitmekesisus
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-keep-ts: 1441924449
-revision: 4
-flags: 1
-host: 82.131.7.230
+username: AlexDaniel

@@ -1,10 +1,6 @@
 ts: 1441924451
-username: AlexDaniel
-languages: 
-blocks: [Course:102117 〔Õppeaine ÕIS-is〕]
+flags: 10
 host: 82.131.7.230
-revision: 4
-lastmajor: 2
 text: #SUBTITLE USA sise- ja välispoliitika
 	#SUBURL [Course:102117 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +16,12 @@ text: #SUBTITLE USA sise- ja välispoliitika
 	#LANG_END
 	
 	
+blocks: [Course:102117 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924451
-ip: 89.235.235.166
+revision: 4
+lastmajor: 2
+languages: 
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 minor: 1
+ip: 89.235.235.166

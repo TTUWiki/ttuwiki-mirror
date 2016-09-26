@@ -1,7 +1,7 @@
-ts: 1441924444
+languages: 
+blocks: [Course:109822 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Allmaakaevandamine ja projekt
 	#SUBURL [Course:109822 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +17,9 @@ text: #SUBTITLE Allmaakaevandamine ja projekt
 	#LANG_END
 	
 	
-minor: 1
 keep-ts: 1441924444
-revision: 2
-flags: 1
-blocks: [Course:109822 〔Õppeaine ÕIS-is〕]
-languages: 
+minor: 1
+username: AlexDaniel
+ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

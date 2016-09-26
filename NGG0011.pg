@@ -1,11 +1,5 @@
 ts: 1441924448
-host: 82.131.7.230
-languages: 
-blocks: [Course:109835 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-revision: 2
-flags: 1
+blocks: [Course:109835 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Üldgeoloogia ja Eesti geoloogia põhijooned
 	#SUBURL [Course:109835 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +15,11 @@ text: #SUBTITLE Üldgeoloogia ja Eesti geoloogia põhijooned
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+languages: 
+minor: 1
+flags: 10
+host: 82.131.7.230
+revision: 2
 keep-ts: 1441924448

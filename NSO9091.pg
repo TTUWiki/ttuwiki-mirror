@@ -1,10 +1,14 @@
-host: 82.131.7.230
-username: AlexDaniel
-lastmajor: 2
-blocks: [Course:102315 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:102315 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+ts: 1441924449
+username: AlexDaniel
+host: 82.131.7.230
+ip: 89.235.235.166
+keep-ts: 1441924449
+lastmajor: 2
 text: #SUBTITLE Eriseminar okeanograafias ja meteoroloogias
 	#SUBURL [Course:102315 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,4 @@ text: #SUBTITLE Eriseminar okeanograafias ja meteoroloogias
 	#LANG_END
 	
 	
-keep-ts: 1441924449
 revision: 4
-ts: 1441924449
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

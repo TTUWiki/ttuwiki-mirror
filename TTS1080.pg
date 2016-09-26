@@ -1,10 +1,8 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:102815 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ip: 89.235.235.166
 keep-ts: 1441924451
-minor: 1
-languages: 
 ts: 1441924451
-revision: 4
+minor: 1
 text: #SUBTITLE Tööturuprotsessid ja -poliitika
 	#SUBURL [Course:102815 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +18,10 @@ text: #SUBTITLE Tööturuprotsessid ja -poliitika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
 lastmajor: 2
+host: 82.131.7.230
+revision: 4
+blocks: [Course:102815 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

@@ -1,3 +1,7 @@
+languages: 
+revision: 4
+keep-ts: 1441924448
+blocks: [Course:40424 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Mineraloogia ja petroloogia alused
 	#SUBURL [Course:40424 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Mineraloogia ja petroloogia alused
 	#LANG_END
 	
 	
+minor: 1
+ip: 89.235.235.166
+flags: 10
+host: 82.131.7.230
 lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230
-minor: 1
-languages: 
 ts: 1441924448
-flags: 1
 username: AlexDaniel
-keep-ts: 1441924448
-blocks: [Course:40424 〔Õppeaine ÕIS-is〕]
-revision: 4

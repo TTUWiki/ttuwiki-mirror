@@ -1,7 +1,10 @@
-blocks: [Course:109604 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924449
+revision: 2
+host: 82.131.7.230
 username: AlexDaniel
+keep-ts: 1441924449
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Pedagoogiline psühholoogia
 	#SUBURL [Course:109604 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +20,6 @@ text: #SUBTITLE Pedagoogiline psühholoogia
 	#LANG_END
 	
 	
-host: 82.131.7.230
 minor: 1
-flags: 1
-revision: 2
-ts: 1441924449
-keep-ts: 1441924449
+blocks: [Course:109604 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

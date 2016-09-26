@@ -1,14 +1,12 @@
-ip: 89.235.235.166
-keep-ts: 1441924445
-host: 82.131.7.230
-ts: 1441924445
-languages: 
-minor: 1
-flags: 1
-revision: 4
 lastmajor: 2
-username: AlexDaniel
+revision: 4
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+username: AlexDaniel
+languages: 
+host: 82.131.7.230
+flags: 10
 text: #SUBTITLE Vertikaalplaneerimine
 	#SUBURL [Course:106324 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Vertikaalplaneerimine
 	#LANG_END
 	
 	
-blocks: [Course:106324 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
+blocks: [Course:106324 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166

@@ -1,3 +1,10 @@
+lastmajor: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+username: AlexDaniel
+flags: 10
+blocks: [Course:105448 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Eesti geoloogia põhijooned
 	#SUBURL [Course:105448 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +20,8 @@ text: #SUBTITLE Eesti geoloogia põhijooned
 	#LANG_END
 	
 	
-minor: 1
-flags: 1
-ip: 89.235.235.166
-blocks: [Course:105448 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924448
 host: 82.131.7.230
+ip: 89.235.235.166
+minor: 1
+keep-ts: 1441924448
 revision: 4
-lastmajor: 2

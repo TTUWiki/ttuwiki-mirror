@@ -1,8 +1,10 @@
-languages: 
-minor: 1
+flags: 10
+ip: 89.235.235.166
+ts: 1441924448
 revision: 4
-blocks: [Course:40978 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
 text: #SUBTITLE Okeanograafia ja limnoloogia
 	#SUBURL [Course:40978 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +20,8 @@ text: #SUBTITLE Okeanograafia ja limnoloogia
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
+blocks: [Course:40978 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 keep-ts: 1441924448
-ip: 89.235.235.166
 username: AlexDaniel
-ts: 1441924448
+lastmajor: 2

@@ -1,11 +1,7 @@
 keep-ts: 1441924452
-ts: 1441924452
-blocks: [Course:110002 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+languages: 
+ts: 1441924452
 text: #SUBTITLE Füüsikaliste protsesside modelleerimine
 	#SUBURL [Course:110002 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +17,9 @@ text: #SUBTITLE Füüsikaliste protsesside modelleerimine
 	#LANG_END
 	
 	
+blocks: [Course:110002 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+minor: 1
 host: 82.131.7.230
-flags: 1
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

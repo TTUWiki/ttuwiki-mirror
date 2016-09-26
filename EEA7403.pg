@@ -1,3 +1,15 @@
+minor: 1
+languages: 
+lastmajor: 2
+revision: 4
+blocks: [Course:107087 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924445
+ip: 89.235.235.166
+keep-ts: 1441924445
+host: 82.131.7.230
 text: #SUBTITLE Arhitektuurne projekt EIII. Korterelamu
 	#SUBURL [Course:107087 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Arhitektuurne projekt EIII. Korterelamu
 	#LANG_END
 	
 	
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-languages: 
-username: AlexDaniel
-ts: 1441924445
-minor: 1
-ip: 89.235.235.166
-host: 82.131.7.230
-blocks: [Course:107087 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1

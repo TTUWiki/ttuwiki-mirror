@@ -1,13 +1,14 @@
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-ts: 1441924448
-flags: 1
-lastmajor: 2
+blocks: [Course:30081 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
 host: 82.131.7.230
-keep-ts: 1441924448
-blocks: [Course:30081 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ip: 89.235.235.166
+flags: 10
+ts: 1441924448
+username: AlexDaniel
+languages: 
 text: #SUBTITLE Mikrobioloogia
 	#SUBURL [Course:30081 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Mikrobioloogia
 	#LANG_END
 	
 	
-languages: 
-minor: 1
+keep-ts: 1441924448

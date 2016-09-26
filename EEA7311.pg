@@ -1,5 +1,14 @@
 minor: 1
+host: 82.131.7.230
+lastmajor: 2
+username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+blocks: [Course:107129 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924445
+keep-ts: 1441924445
+revision: 4
 text: #SUBTITLE Kompositsioon I
 	#SUBURL [Course:107129 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Kompositsioon I
 	
 	
 ip: 89.235.235.166
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924445
-revision: 4
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-flags: 1
-blocks: [Course:107129 〔Õppeaine ÕIS-is〕]

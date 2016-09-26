@@ -1,14 +1,14 @@
-host: 82.131.7.230
-lastmajor: 2
-languages: 
-flags: 1
-keep-ts: 1441924448
-ip: 89.235.235.166
-minor: 1
-revision: 4
-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+blocks: [Course:101589 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924448
+ip: 89.235.235.166
+revision: 4
+languages: 
+host: 82.131.7.230
+keep-ts: 1441924448
+flags: 10
 text: #SUBTITLE Ettevõttesüsteemide integreerimine
 	#SUBURL [Course:101589 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +24,4 @@ text: #SUBTITLE Ettevõttesüsteemide integreerimine
 	#LANG_END
 	
 	
-blocks: [Course:101589 〔Õppeaine ÕIS-is〕]
+minor: 1

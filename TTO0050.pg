@@ -1,11 +1,8 @@
 keep-ts: 1441924451
-username: AlexDaniel
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:37633 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 host: 82.131.7.230
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitusõigus
 	#SUBURL [Course:37633 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Ehitusõigus
 	#LANG_END
 	
 	
+flags: 10
 revision: 4
-languages: 
+ip: 89.235.235.166
+username: AlexDaniel
+blocks: [Course:37633 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-ts: 1441924451
+languages: 

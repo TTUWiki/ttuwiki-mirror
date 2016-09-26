@@ -1,10 +1,7 @@
-ts: 1441924444
-flags: 1
-username: AlexDaniel
-minor: 1
+revision: 4
 languages: 
-host: 82.131.7.230
-blocks: [Course:101956 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ts: 1441924444
 text: #SUBTITLE Elektroenergeetika teadusseminar II
 	#SUBURL [Course:101956 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +17,11 @@ text: #SUBTITLE Elektroenergeetika teadusseminar II
 	#LANG_END
 	
 	
+minor: 1
+flags: 10
 ip: 89.235.235.166
-revision: 4
+username: AlexDaniel
+host: 82.131.7.230
 keep-ts: 1441924444
+blocks: [Course:101956 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2

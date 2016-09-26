@@ -1,5 +1,6 @@
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+flags: 10
 text: #SUBTITLE Laeva geomeetria
 	#SUBURL [Course:108927 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +16,10 @@ text: #SUBTITLE Laeva geomeetria
 	#LANG_END
 	
 	
-revision: 2
-username: AlexDaniel
-flags: 1
 languages: 
-ts: 1441924452
 keep-ts: 1441924452
+username: AlexDaniel
 minor: 1
-blocks: [Course:108927 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108927 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
+host: 82.131.7.230

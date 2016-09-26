@@ -1,8 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924447
-revision: 4
 username: AlexDaniel
+keep-ts: 1441924447
+lastmajor: 2
+languages: 
 text: #SUBTITLE SPICE simulatsioonid
 	#SUBURL [Course:104927 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +17,11 @@ text: #SUBTITLE SPICE simulatsioonid
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 ts: 1441924447
+revision: 4
+ip: 89.235.235.166
+blocks: [Course:104927 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
 host: 82.131.7.230
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:104927 〔Õppeaine ÕIS-is〕]
-languages: 

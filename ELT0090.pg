@@ -1,8 +1,5 @@
+blocks: [Course:108436 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-flags: 1
-revision: 4
-host: 82.131.7.230
 text: #SUBTITLE Tarneahela strateegia
 	#SUBURL [Course:108436 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Tarneahela strateegia
 	#LANG_END
 	
 	
-languages: 
 minor: 1
+languages: 
 lastmajor: 2
+flags: 10
+revision: 4
+host: 82.131.7.230
 ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:108436 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
 ts: 1441924445

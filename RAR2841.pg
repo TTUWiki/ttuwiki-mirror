@@ -1,4 +1,7 @@
-keep-ts: 1441924450
+ts: 1441924450
+flags: 10
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Erialapraktika I
 	#SUBURL [Course:100847 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +17,11 @@ text: #SUBTITLE Erialapraktika I
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ts: 1441924450
-username: AlexDaniel
 languages: 
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 minor: 1
-blocks: [Course:100847 〔Õppeaine ÕIS-is〕]
+revision: 4
 ip: 89.235.235.166
-flags: 1
+blocks: [Course:100847 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+keep-ts: 1441924450
+lastmajor: 2

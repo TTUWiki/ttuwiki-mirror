@@ -1,13 +1,6 @@
-username: AlexDaniel
-flags: 1
+blocks: [Course:29565 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-minor: 1
-lastmajor: 2
-blocks: [Course:29565 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924445
-keep-ts: 1441924445
-languages: 
+username: AlexDaniel
 revision: 4
 text: #SUBTITLE Mõõtmisvigade teooria
 	#SUBURL [Course:29565 〔Õppeaine ÕIS-is〕]
@@ -24,4 +17,11 @@ text: #SUBTITLE Mõõtmisvigade teooria
 	#LANG_END
 	
 	
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+keep-ts: 1441924445
+lastmajor: 2
+minor: 1
+flags: 10
+languages: 

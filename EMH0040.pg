@@ -1,8 +1,4 @@
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-lastmajor: 2
-blocks: [Course:30506 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Pumbad ja ventilaatorid
 	#SUBURL [Course:30506 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +14,14 @@ text: #SUBTITLE Pumbad ja ventilaatorid
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-revision: 4
+username: AlexDaniel
+blocks: [Course:30506 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2
 ts: 1441924445
+flags: 10
+keep-ts: 1441924445

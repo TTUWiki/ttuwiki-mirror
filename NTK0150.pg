@@ -1,6 +1,9 @@
-lastmajor: 2
-flags: 1
+blocks: [Course:38636 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
+lastmajor: 2
 text: #SUBTITLE Tarbimine ja tarbijakäitumine
 	#SUBURL [Course:38636 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +19,9 @@ text: #SUBTITLE Tarbimine ja tarbijakäitumine
 	#LANG_END
 	
 	
-ts: 1441924449
-languages: 
-minor: 1
-keep-ts: 1441924449
 username: AlexDaniel
 revision: 4
+flags: 10
 ip: 89.235.235.166
-blocks: [Course:38636 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+minor: 1
+keep-ts: 1441924449

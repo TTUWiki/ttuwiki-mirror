@@ -1,8 +1,8 @@
-flags: 1
-keep-ts: 1441924451
+lastmajor: 2
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+blocks: [Course:101821 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+ts: 1441924451
 revision: 4
 text: #SUBTITLE Europaniseerumine ja globaliseerumine
 	#SUBURL [Course:101821 〔Õppeaine ÕIS-is〕]
@@ -19,9 +19,9 @@ text: #SUBTITLE Europaniseerumine ja globaliseerumine
 	#LANG_END
 	
 	
-username: AlexDaniel
-minor: 1
-blocks: [Course:101821 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-lastmajor: 2
 languages: 
+keep-ts: 1441924451
+ip: 89.235.235.166
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

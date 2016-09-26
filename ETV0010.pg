@@ -1,15 +1,13 @@
 languages: 
-blocks: [Course:29606 〔Õppeaine ÕIS-is〕]
-flags: 1
 keep-ts: 1441924445
+flags: 10
+minor: 1
+blocks: [Course:29606 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-host: 82.131.7.230
 ip: 89.235.235.166
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 ts: 1441924445
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Transpordivõrk ja logistika alused
 	#SUBURL [Course:29606 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +23,5 @@ text: #SUBTITLE Transpordivõrk ja logistika alused
 	#LANG_END
 	
 	
+host: 82.131.7.230
+revision: 4

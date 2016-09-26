@@ -1,12 +1,13 @@
-keep-ts: 1441924452
-minor: 1
-host: 82.131.7.230
-username: AlexDaniel
-blocks: [Course:110080 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924452
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+host: 82.131.7.230
+blocks: [Course:110080 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+minor: 1
+ts: 1441924452
+username: AlexDaniel
+languages: 
+flags: 10
 text: #SUBTITLE Kartograafia tehnoloogiline praktika
 	#SUBURL [Course:110080 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +23,3 @@ text: #SUBTITLE Kartograafia tehnoloogiline praktika
 	#LANG_END
 	
 	
-languages: 

@@ -1,5 +1,9 @@
+ts: 1441924445
+host: 82.131.7.230
+minor: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-blocks: [Course:35066 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ühistegevuse üldkursus
 	#SUBURL [Course:35066 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +19,9 @@ text: #SUBTITLE Ühistegevuse üldkursus
 	#LANG_END
 	
 	
-minor: 1
-ip: 89.235.235.166
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+blocks: [Course:35066 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-ts: 1441924445
+flags: 10
 keep-ts: 1441924445
+ip: 89.235.235.166
 username: AlexDaniel
-host: 82.131.7.230

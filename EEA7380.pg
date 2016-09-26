@@ -1,4 +1,13 @@
 languages: 
+ip: 89.235.235.166
+lastmajor: 2
+host: 82.131.7.230
+keep-ts: 1441924445
+blocks: [Course:107081 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924445
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Kultuuriajalugu
 	#SUBURL [Course:107081 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +23,5 @@ text: #SUBTITLE Kultuuriajalugu
 	#LANG_END
 	
 	
-host: 82.131.7.230
-minor: 1
-keep-ts: 1441924445
-blocks: [Course:107081 〔Õppeaine ÕIS-is〕]
-revision: 4
 username: AlexDaniel
-ts: 1441924445
-ip: 89.235.235.166
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+flags: 10

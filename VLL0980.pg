@@ -1,9 +1,4 @@
-languages: 
-minor: 1
 keep-ts: 1441924452
-revision: 2
-blocks: [Course:110185 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Madruseõpe
 	#SUBURL [Course:110185 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +14,12 @@ text: #SUBTITLE Madruseõpe
 	#LANG_END
 	
 	
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+revision: 2
+username: AlexDaniel
+languages: 
 host: 82.131.7.230
+minor: 1
+flags: 10
+blocks: [Course:110185 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452

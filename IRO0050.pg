@@ -1,12 +1,6 @@
-keep-ts: 1441924447
-blocks: [Course:29840 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-minor: 1
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+blocks: [Course:29840 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 text: #SUBTITLE Infoedastusseadmed
 	#SUBURL [Course:29840 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +16,12 @@ text: #SUBTITLE Infoedastusseadmed
 	#LANG_END
 	
 	
+keep-ts: 1441924447
+lastmajor: 2
+minor: 1
 host: 82.131.7.230
+revision: 4
 ts: 1441924447
-languages: 
+username: AlexDaniel
+flags: 10
+ip: 89.235.235.166

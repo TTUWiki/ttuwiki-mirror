@@ -1,6 +1,7 @@
-minor: 1
-languages: 
+username: AlexDaniel
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108938 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Merealane inglise keel L IV
 	#SUBURL [Course:108938 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +17,9 @@ text: #SUBTITLE Merealane inglise keel L IV
 	#LANG_END
 	
 	
+languages: 
+minor: 1
 host: 82.131.7.230
-ts: 1441924452
-blocks: [Course:108938 〔Õppeaine ÕIS-is〕]
-flags: 1
 keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ts: 1441924452
+flags: 10

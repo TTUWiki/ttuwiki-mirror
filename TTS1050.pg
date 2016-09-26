@@ -1,8 +1,11 @@
-flags: 1
-minor: 1
 lastmajor: 2
-revision: 4
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:41190 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
+revision: 4
+keep-ts: 1441924451
 text: #SUBTITLE Urbanistika
 	#SUBURL [Course:41190 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Urbanistika
 	#LANG_END
 	
 	
-keep-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 ip: 89.235.235.166
-blocks: [Course:41190 〔Õppeaine ÕIS-is〕]
 ts: 1441924451
+flags: 10
 username: AlexDaniel

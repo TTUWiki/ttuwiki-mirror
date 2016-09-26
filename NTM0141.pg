@@ -1,13 +1,14 @@
 minor: 1
-revision: 4
-keep-ts: 1441924449
-ts: 1441924449
-flags: 1
-lastmajor: 2
-blocks: [Course:38719 〔Õppeaine ÕIS-is〕]
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+keep-ts: 1441924449
+revision: 4
+languages: 
+flags: 10
+host: 82.131.7.230
+lastmajor: 2
 username: AlexDaniel
+blocks: [Course:38719 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Kunstiõpetus
 	#SUBURL [Course:38719 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Kunstiõpetus
 	#LANG_END
 	
 	
-host: 82.131.7.230
 ip: 89.235.235.166

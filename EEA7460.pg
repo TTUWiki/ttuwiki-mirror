@@ -1,14 +1,15 @@
-ip: 89.235.235.166
-flags: 1
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
+revision: 4
+languages: 
 lastmajor: 2
 ts: 1441924445
+keep-ts: 1441924445
+username: AlexDaniel
+blocks: [Course:107137 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+flags: 10
+minor: 1
 host: 82.131.7.230
-languages: 
-blocks: [Course:107137 〔Õppeaine ÕIS-is〕]
-revision: 4
 text: #SUBTITLE Vaatluspraktika
 	#SUBURL [Course:107137 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Vaatluspraktika
 	#LANG_END
 	
 	
-minor: 1

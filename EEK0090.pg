@@ -1,12 +1,9 @@
 languages: 
-username: AlexDaniel
-revision: 4
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106354 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 lastmajor: 2
+minor: 1
 ip: 89.235.235.166
+flags: 10
+username: AlexDaniel
 text: #SUBTITLE Hoonete konstruktsioonid arhitektidele
 	#SUBURL [Course:106354 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE Hoonete konstruktsioonid arhitektidele
 	
 	
 ts: 1441924445
-flags: 1
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106354 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924445
+host: 82.131.7.230
+revision: 4

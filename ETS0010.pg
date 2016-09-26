@@ -1,15 +1,8 @@
-revision: 4
 lastmajor: 2
-ts: 1441924445
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:38220 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-flags: 1
-host: 82.131.7.230
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+revision: 4
+minor: 1
+flags: 10
 text: #SUBTITLE Sillad
 	#SUBURL [Course:38220 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +18,10 @@ text: #SUBTITLE Sillad
 	#LANG_END
 	
 	
+blocks: [Course:38220 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+keep-ts: 1441924445
+ip: 89.235.235.166
+host: 82.131.7.230
+ts: 1441924445
+languages: 

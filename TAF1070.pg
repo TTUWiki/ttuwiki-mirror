@@ -1,13 +1,12 @@
-minor: 1
-lastmajor: 2
-blocks: [Course:37967 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-ts: 1441924450
-ip: 89.235.235.166
-languages: 
+minor: 1
 username: AlexDaniel
+keep-ts: 1441924450
+flags: 10
+blocks: [Course:37967 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ip: 89.235.235.166
+ts: 1441924450
 text: #SUBTITLE Majandusarvestuse teooria
 	#SUBURL [Course:37967 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +22,6 @@ text: #SUBTITLE Majandusarvestuse teooria
 	#LANG_END
 	
 	
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924450

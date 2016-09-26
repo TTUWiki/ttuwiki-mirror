@@ -1,5 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924444
 text: #SUBTITLE Riski- ja ohutusõpetus
 	#SUBURL [Course:101009 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +17,11 @@ text: #SUBTITLE Riski- ja ohutusõpetus
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924444
-ts: 1441924444
-ip: 89.235.235.166
-host: 82.131.7.230
 minor: 1
+flags: 10
 username: AlexDaniel
-revision: 4
-flags: 1
-blocks: [Course:101009 〔Õppeaine ÕIS-is〕]
+blocks: [Course:101009 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+languages: 
+lastmajor: 2

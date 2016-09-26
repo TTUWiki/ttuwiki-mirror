@@ -1,9 +1,5 @@
-username: AlexDaniel
-revision: 4
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924448
-minor: 1
+lastmajor: 2
 text: #SUBTITLE Dünaamiline okeanograafia
 	#SUBURL [Course:40974 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +15,13 @@ text: #SUBTITLE Dünaamiline okeanograafia
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
-lastmajor: 2
-ts: 1441924448
+minor: 1
+flags: 10
 ip: 89.235.235.166
-blocks: [Course:40974 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+host: 82.131.7.230
+ts: 1441924448
+username: AlexDaniel
+blocks: [Course:40974 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 

@@ -1,12 +1,15 @@
+flags: 10
 lastmajor: 2
-languages: 
-username: AlexDaniel
 revision: 4
-blocks: [Course:29592 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-minor: 1
-flags: 1
 host: 82.131.7.230
+blocks: [Course:29592 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+keep-ts: 1441924445
+ts: 1441924445
 text: #SUBTITLE Teekonstruktsioonid - projekt
 	#SUBURL [Course:29592 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Teekonstruktsioonid - projekt
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

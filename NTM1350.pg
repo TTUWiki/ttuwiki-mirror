@@ -1,9 +1,13 @@
-username: AlexDaniel
-lastmajor: 2
-flags: 1
 ip: 89.235.235.166
+revision: 4
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924449
+blocks: [Course:102878 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-blocks: [Course:102878 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+lastmajor: 2
 ts: 1441924449
 text: #SUBTITLE Dendropatoloogia ja dendroloogiline inventeerimine
 	#SUBURL [Course:102878 〔Õppeaine ÕIS-is〕]
@@ -21,7 +25,3 @@ text: #SUBTITLE Dendropatoloogia ja dendroloogiline inventeerimine
 	
 	
 host: 82.131.7.230
-keep-ts: 1441924449
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1

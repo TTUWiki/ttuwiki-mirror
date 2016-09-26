@@ -1,15 +1,7 @@
 host: 82.131.7.230
-keep-ts: 1441924451
-ts: 1441924451
-flags: 1
-minor: 1
-languages: 
-revision: 4
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106792 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924451
 text: #SUBTITLE Teadusartiklite kirjutamine inglise keeles
 	#SUBURL [Course:106792 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +17,11 @@ text: #SUBTITLE Teadusartiklite kirjutamine inglise keeles
 	#LANG_END
 	
 	
+blocks: [Course:106792 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+revision: 4
+keep-ts: 1441924451
+username: AlexDaniel
+lastmajor: 2
+ip: 89.235.235.166
+flags: 10

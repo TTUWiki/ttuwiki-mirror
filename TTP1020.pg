@@ -1,9 +1,14 @@
-keep-ts: 1441924451
-ip: 89.235.235.166
 minor: 1
+blocks: [Course:29906 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 username: AlexDaniel
-blocks: [Course:29906 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924451
+flags: 10
+host: 82.131.7.230
+revision: 4
+languages: 
 text: #SUBTITLE Eesti majandus
 	#SUBURL [Course:29906 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +24,4 @@ text: #SUBTITLE Eesti majandus
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
-flags: 1
-revision: 4
+ip: 89.235.235.166

@@ -1,4 +1,5 @@
-flags: 1
+keep-ts: 1441924448
+flags: 10
 text: #SUBTITLE Okeanograafia erikursus
 	#SUBURL [Course:40995 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +15,13 @@ text: #SUBTITLE Okeanograafia erikursus
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-host: 82.131.7.230
-revision: 4
 ts: 1441924448
-lastmajor: 2
 username: AlexDaniel
-languages: 
-ip: 89.235.235.166
 minor: 1
+ip: 89.235.235.166
+lastmajor: 2
+host: 82.131.7.230
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:40995 〔Õppeaine ÕIS-is〕]
+revision: 4
+blocks: [Course:40995 〔Õppeaine ÕIS-is〕]</div></div>

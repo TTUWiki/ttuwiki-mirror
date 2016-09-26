@@ -1,11 +1,13 @@
-ip: 89.235.235.166
-lastmajor: 2
-revision: 4
 ts: 1441924450
+revision: 4
+minor: 1
+flags: 10
+username: AlexDaniel
+ip: 89.235.235.166
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
+lastmajor: 2
+languages: 
 text: #SUBTITLE Kõrgepingeseadmed
 	#SUBURL [Course:39372 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +23,5 @@ text: #SUBTITLE Kõrgepingeseadmed
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:39372 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39372 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924450
-languages: 

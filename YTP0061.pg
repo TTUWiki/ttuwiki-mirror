@@ -1,15 +1,3 @@
-flags: 1
-blocks: [Course:40787 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1441924453
-languages: 
-ts: 1441924453
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-minor: 1
-lastmajor: 2
 text: #SUBTITLE Valkude keemia ja struktuur
 	#SUBURL [Course:40787 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +13,15 @@ text: #SUBTITLE Valkude keemia ja struktuur
 	#LANG_END
 	
 	
+languages: 
+ts: 1441924453
+minor: 1
+keep-ts: 1441924453
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 10
+lastmajor: 2
+blocks: [Course:40787 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ip: 89.235.235.166

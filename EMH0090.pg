@@ -1,4 +1,11 @@
-flags: 1
+ts: 1441924445
+keep-ts: 1441924445
+revision: 4
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Rannikuprotsessid
 	#SUBURL [Course:38125 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +21,7 @@ text: #SUBTITLE Rannikuprotsessid
 	#LANG_END
 	
 	
-ts: 1441924445
-revision: 4
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:38125 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
 languages: 
-minor: 1
-ip: 89.235.235.166
+blocks: [Course:38125 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+flags: 10

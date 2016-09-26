@@ -1,5 +1,13 @@
 username: AlexDaniel
+languages: 
 ip: 89.235.235.166
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+host: 82.131.7.230
+blocks: [Course:102034 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924451
+lastmajor: 2
 text: #SUBTITLE Euroopa majanduslik integratsioon
 	#SUBURL [Course:102034 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +23,5 @@ text: #SUBTITLE Euroopa majanduslik integratsioon
 	#LANG_END
 	
 	
-lastmajor: 2
-flags: 1
-minor: 1
-languages: 
-blocks: [Course:102034 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924451
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924451
+flags: 10

@@ -1,13 +1,4 @@
-keep-ts: 1441924451
-languages: 
-ts: 1441924451
-lastmajor: 2
 ip: 89.235.235.166
-minor: 1
-revision: 4
-blocks: [Course:102127 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Poliitiline kommunikatsioon ja tehnoloogia
 	#SUBURL [Course:102127 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Poliitiline kommunikatsioon ja tehnoloogia
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+keep-ts: 1441924451
+blocks: [Course:102127 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+revision: 4
+host: 82.131.7.230
+lastmajor: 2
 username: AlexDaniel
-flags: 1
+minor: 1
+flags: 10

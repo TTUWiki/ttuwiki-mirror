@@ -1,12 +1,5 @@
-blocks: [Course:102980 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-languages: 
-minor: 1
-flags: 1
 keep-ts: 1441924451
-username: AlexDaniel
-ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Rahvusvahelised konfliktid
 	#SUBURL [Course:102980 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Rahvusvahelised konfliktid
 	#LANG_END
 	
 	
-host: 82.131.7.230
 lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:102980 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 ts: 1441924451
+host: 82.131.7.230

@@ -1,9 +1,15 @@
-ip: 89.235.235.166
-username: AlexDaniel
+host: 82.131.7.230
+keep-ts: 1441924450
+blocks: [Course:100872 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+languages: 
+flags: 10
 ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 minor: 1
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Magistriseminar (ärirahandus)
 	#SUBURL [Course:100872 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Magistriseminar (ärirahandus)
 	#LANG_END
 	
 	
-flags: 1
-keep-ts: 1441924450
-blocks: [Course:100872 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
-languages: 

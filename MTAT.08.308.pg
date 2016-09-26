@@ -1,4 +1,6 @@
-host: 82.131.7.230
+flags: 10
+revision: 2
+minor: 1
 text: #SUBTITLE Ontoloogiate arendus
 	#SUBURL [Course:110059 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +16,10 @@ text: #SUBTITLE Ontoloogiate arendus
 	#LANG_END
 	
 	
+host: 82.131.7.230
 keep-ts: 1441924448
-ts: 1441924448
-revision: 2
-flags: 1
-blocks: [Course:110059 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+blocks: [Course:110059 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
+ts: 1441924448
+username: AlexDaniel
 languages: 

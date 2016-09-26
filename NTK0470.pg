@@ -1,11 +1,9 @@
-keep-ts: 1441924449
 host: 82.131.7.230
-minor: 1
+flags: 10
 username: AlexDaniel
+keep-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-revision: 4
-blocks: [Course:39105 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Saastumise ennetamine
 	#SUBURL [Course:39105 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +19,9 @@ text: #SUBTITLE Saastumise ennetamine
 	#LANG_END
 	
 	
-ts: 1441924449
-ip: 89.235.235.166
 lastmajor: 2
-flags: 1
+ts: 1441924449
+minor: 1
+revision: 4
+blocks: [Course:39105 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166

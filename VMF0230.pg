@@ -1,6 +1,5 @@
-blocks: [Course:109112 〔Õppeaine ÕIS-is〕]
-revision: 2
-flags: 1
+blocks: [Course:109112 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 text: #SUBTITLE Kalapüüniste projekteerimine
 	#SUBURL [Course:109112 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +16,10 @@ text: #SUBTITLE Kalapüüniste projekteerimine
 	
 	
 minor: 1
-keep-ts: 1441924452
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 ts: 1441924452
+keep-ts: 1441924452
+flags: 10
+host: 82.131.7.230
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

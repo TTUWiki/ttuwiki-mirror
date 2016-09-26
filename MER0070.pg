@@ -1,7 +1,14 @@
-revision: 4
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+minor: 1
+ts: 1441924448
 ip: 89.235.235.166
-blocks: [Course:31194 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+revision: 4
+blocks: [Course:31194 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Toodete ja protsesside modelleerimine
 	#SUBURL [Course:31194 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Toodete ja protsesside modelleerimine
 	#LANG_END
 	
 	
-lastmajor: 2
-flags: 1
-ts: 1441924448
-minor: 1
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
+flags: 10

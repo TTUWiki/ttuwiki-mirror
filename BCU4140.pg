@@ -1,5 +1,14 @@
 languages: 
-keep-ts: 1441924444
+blocks: [Course:107083 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
+revision: 4
+ts: 1441924444
+minor: 1
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ip: 89.235.235.166
 text: #SUBTITLE Eesti maastike kultuurigeograafiline käsitlus
 	#SUBURL [Course:107083 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +24,4 @@ text: #SUBTITLE Eesti maastike kultuurigeograafiline käsitlus
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-minor: 1
-blocks: [Course:107083 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444

@@ -1,6 +1,10 @@
-languages: 
+minor: 1
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 ts: 1441924452
-lastmajor: 2
+flags: 10
+username: AlexDaniel
 text: #SUBTITLE Orgaaniline süntees - ainetöö
 	#SUBURL [Course:34538 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Orgaaniline süntees - ainetöö
 	#LANG_END
 	
 	
-keep-ts: 1441924452
-ip: 89.235.235.166
-flags: 1
+blocks: [Course:34538 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-revision: 4
-minor: 1
-blocks: [Course:34538 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+lastmajor: 2
+languages: 
+keep-ts: 1441924452

@@ -1,8 +1,12 @@
-ip: 89.235.235.166
-revision: 4
+blocks: [Course:106100 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+revision: 4
+username: AlexDaniel
+host: 82.131.7.230
+ip: 89.235.235.166
+flags: 10
+languages: 
 ts: 1441924446
-flags: 1
 text: #SUBTITLE Kosmoseõigus ja kommunikatsioon
 	#SUBURL [Course:106100 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +23,5 @@ text: #SUBTITLE Kosmoseõigus ja kommunikatsioon
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106100 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-keep-ts: 1441924446
 minor: 1
-languages: 
+keep-ts: 1441924446

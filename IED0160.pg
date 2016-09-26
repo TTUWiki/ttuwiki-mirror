@@ -13,15 +13,15 @@ text: #SUBTITLE Elektroonika
 	#LANG_END
 	
 	
-host: 82.131.7.230
-keep-ts: 1441924447
 ts: 1441924447
-minor: 1
-blocks: [Course:37212 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 username: AlexDaniel
-flags: 1
+keep-ts: 1441924447
+blocks: [Course:37212 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+languages: 
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
+ip: 89.235.235.166
+revision: 4

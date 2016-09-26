@@ -1,8 +1,5 @@
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
 keep-ts: 1441924449
-ts: 1441924449
+ip: 89.235.235.166
 text: #SUBTITLE Matemaatiline analüüs I
 	#SUBURL [Course:38558 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Matemaatiline analüüs I
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:38558 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
 languages: 
-lastmajor: 2
+ts: 1441924449
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38558 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+flags: 10
+revision: 4
+host: 82.131.7.230

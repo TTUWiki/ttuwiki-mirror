@@ -1,7 +1,12 @@
+minor: 1
 host: 82.131.7.230
+ts: 1441924452
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 87
 keep-ts: 1441924452
-flags: 1
 username: AlexDaniel
+languages: 
 text: #SUBTITLE Visuaalne kommunikatsioon I
 	#SUBURL [Course:30241 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,6 @@ text: #SUBTITLE Visuaalne kommunikatsioon I
 	#LANG_END
 	
 	
-revision: 87
-languages: 
-minor: 1
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
 lastmajor: 86
-blocks: [Course:30241 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:30241 〔Õppeaine ÕIS-is〕]</div></div>

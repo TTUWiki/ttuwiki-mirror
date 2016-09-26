@@ -1,6 +1,6 @@
-flags: 1
-revision: 4
-username: AlexDaniel
+languages: 
+minor: 1
+keep-ts: 1441924448
 text: #SUBTITLE Geoloogilised protsessid ja füüsikalis-keemilised meetodid geoloogias
 	#SUBURL [Course:40993 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Geoloogilised protsessid ja füüsikalis-keemilised meetodid geo
 	#LANG_END
 	
 	
-minor: 1
-lastmajor: 2
-keep-ts: 1441924448
-ts: 1441924448
+blocks: [Course:40993 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+flags: 10
+username: AlexDaniel
 ip: 89.235.235.166
-languages: 
-blocks: [Course:40993 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
+ts: 1441924448

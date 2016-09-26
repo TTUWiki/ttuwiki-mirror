@@ -1,4 +1,3 @@
-host: 82.131.7.230
 text: #SUBTITLE Maksusüsteem
 	#SUBURL [Course:109716 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +13,13 @@ text: #SUBTITLE Maksusüsteem
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 2
-minor: 1
-blocks: [Course:109716 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 ts: 1441924444
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+username: AlexDaniel
+minor: 1
+languages: 
+blocks: [Course:109716 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
+host: 82.131.7.230

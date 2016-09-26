@@ -1,11 +1,3 @@
-username: AlexDaniel
-revision: 4
-ts: 1441924445
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-minor: 1
 text: #SUBTITLE Tehnovõrkude renoveerimine
 	#SUBURL [Course:30675 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +13,15 @@ text: #SUBTITLE Tehnovõrkude renoveerimine
 	#LANG_END
 	
 	
-blocks: [Course:30675 〔Õppeaine ÕIS-is〕]
-flags: 1
+ts: 1441924445
+blocks: [Course:30675 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+languages: 
+username: AlexDaniel
+host: 82.131.7.230
+minor: 1
 keep-ts: 1441924445
+revision: 4
+lastmajor: 2

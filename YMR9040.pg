@@ -1,11 +1,13 @@
-ip: 89.235.235.166
-ts: 1441924453
-flags: 1
-minor: 1
+host: 82.131.7.230
+revision: 4
 lastmajor: 2
-keep-ts: 1441924453
+blocks: [Course:107212 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 languages: 
+ts: 1441924453
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924453
 text: #SUBTITLE Inseneristatistika
 	#SUBURL [Course:107212 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +23,5 @@ text: #SUBTITLE Inseneristatistika
 	#LANG_END
 	
 	
-blocks: [Course:107212 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
+ip: 89.235.235.166
+flags: 10

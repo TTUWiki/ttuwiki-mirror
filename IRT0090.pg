@@ -1,11 +1,10 @@
-minor: 1
-ip: 89.235.235.166
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
 keep-ts: 1441924447
+ts: 1441924447
+lastmajor: 2
+minor: 1
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Helitehnika ja akustika
 	#SUBURL [Course:29868 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,8 @@ text: #SUBTITLE Helitehnika ja akustika
 	#LANG_END
 	
 	
-flags: 1
-username: AlexDaniel
-ts: 1441924447
-blocks: [Course:29868 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:29868 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4
+languages: 

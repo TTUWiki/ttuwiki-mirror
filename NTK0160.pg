@@ -1,9 +1,11 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38622 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924449
-ip: 89.235.235.166
-revision: 4
+host: 82.131.7.230
 ts: 1441924449
-languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Keskkonnajuhtimine
 	#SUBURL [Course:38622 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +21,7 @@ text: #SUBTITLE Keskkonnajuhtimine
 	#LANG_END
 	
 	
-blocks: [Course:38622 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 minor: 1
-flags: 1
-host: 82.131.7.230
+revision: 4
 lastmajor: 2
+languages: 

@@ -1,14 +1,3 @@
-host: 82.131.7.230
-revision: 4
-languages: 
-minor: 1
-flags: 1
-blocks: [Course:40917 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-keep-ts: 1441924444
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Haiguseõpetus ja arstiabi
 	#SUBURL [Course:40917 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +13,15 @@ text: #SUBTITLE Haiguseõpetus ja arstiabi
 	#LANG_END
 	
 	
+keep-ts: 1441924444
+ts: 1441924444
+languages: 
+blocks: [Course:40917 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+host: 82.131.7.230
+minor: 1
+flags: 10
+username: AlexDaniel
 lastmajor: 2
+ip: 89.235.235.166

@@ -1,6 +1,13 @@
+keep-ts: 1441924448
+lastmajor: 2
 username: AlexDaniel
-ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:40497 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
+ts: 1441924448
+revision: 4
 text: #SUBTITLE Hüdrograafia ja veeteed
 	#SUBURL [Course:40497 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +23,5 @@ text: #SUBTITLE Hüdrograafia ja veeteed
 	#LANG_END
 	
 	
-flags: 1
 languages: 
-minor: 1
-host: 82.131.7.230
-blocks: [Course:40497 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
 ip: 89.235.235.166
-lastmajor: 2
-revision: 4
