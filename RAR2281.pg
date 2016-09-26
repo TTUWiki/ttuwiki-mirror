@@ -1,11 +1,5 @@
-keep-ts: 1441924450
 host: 82.131.7.230
-username: AlexDaniel
-ip: 89.235.235.166
-minor: 1
-languages: 
-revision: 4
-lastmajor: 2
+keep-ts: 1441924450
 text: #SUBTITLE Geodeesia õppepraktika
 	#SUBURL [Course:39318 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +15,13 @@ text: #SUBTITLE Geodeesia õppepraktika
 	#LANG_END
 	
 	
-flags: 1
+lastmajor: 2
+revision: 4
 ts: 1441924450
+blocks: [Course:39318 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:39318 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
+minor: 1

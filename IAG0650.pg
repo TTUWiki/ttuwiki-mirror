@@ -1,13 +1,13 @@
-keep-ts: 1441924446
+flags: 10
 host: 82.131.7.230
-ts: 1441924446
 languages: 
-minor: 1
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
 lastmajor: 2
-blocks: [Course:106993 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
+ip: 89.235.235.166
+minor: 1
+blocks: [Course:106993 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 text: #SUBTITLE Riikliku andmevahetuskihi projekteerimine ja arendamine
 	#SUBURL [Course:106993 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Riikliku andmevahetuskihi projekteerimine ja arendamine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924446

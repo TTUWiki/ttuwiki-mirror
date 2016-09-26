@@ -1,6 +1,11 @@
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+languages: 
 keep-ts: 1441924451
+blocks: [Course:100672 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-host: 82.131.7.230
+revision: 4
 text: #SUBTITLE Kinnisvara ökonoomika
 	#SUBURL [Course:100672 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,6 @@ text: #SUBTITLE Kinnisvara ökonoomika
 	
 	
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-languages: 
+flags: 10
 ts: 1441924451
-blocks: [Course:100672 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-lastmajor: 2
-flags: 1
+host: 82.131.7.230

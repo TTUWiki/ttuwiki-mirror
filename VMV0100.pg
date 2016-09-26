@@ -1,8 +1,6 @@
-host: 82.131.7.230
 keep-ts: 1441924452
-minor: 1
-flags: 1
-languages: 
+flags: 10
+blocks: [Course:108983 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Hüdromehaanika
 	#SUBURL [Course:108983 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +16,10 @@ text: #SUBTITLE Hüdromehaanika
 	#LANG_END
 	
 	
-blocks: [Course:108983 〔Õppeaine ÕIS-is〕]
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
+minor: 1
 username: AlexDaniel
+host: 82.131.7.230
+revision: 2
 ts: 1441924452
