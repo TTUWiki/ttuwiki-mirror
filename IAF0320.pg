@@ -1,14 +1,12 @@
-revision: 11
-minor: 
-username: AlexDaniel
-host: 85.253.108.27
+ip: 89.235.235.166
+lastmajor: 11
 lastmajorsummary: Link to the actual course page
 summary: Link to the actual course page
-ip: 89.235.235.166
-keep-ts: 1474917244
+minor: 
+revision: 11
 languages: 
-lastmajor: 11
-ts: 1474917244
+host: 85.253.108.27
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -22,3 +20,7 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	* **2016-09-12** – [[http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/IAF0320_Lecture1_F2016_vdist.pdf Lecture 1]], page 13
 	
+username: AlexDaniel
+flags: 1
+keep-ts: 1474917244
+ts: 1474917244
