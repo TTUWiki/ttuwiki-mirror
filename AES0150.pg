@@ -1,5 +1,6 @@
-revision: 12
-summary: 
+host: 86.110.32.164
+ts: 1475225908
+lastmajorsummary: 
 username: Ain_Laidoja
 text: #SUBTITLE Elektriturg
 	#SUBURL [Course:39529 〔Õppeaine ÕIS-is〕]
@@ -8,6 +9,8 @@ text: #SUBTITLE Elektriturg
 	
 	#Esimese kodutöö tähtaeg 2016-09-11-18:00
 	#Teise kodutöö tähtaeg 2016-09-26
+	#Hinnaennustus I   tähtaeg 2016-10-01 19:00
+	#Koduülessane 2 tähtaeg 2016-10-02 15:00  (Milline on hea elektrihind?)
 	
 	==Kirjandus
 	
@@ -17,13 +20,10 @@ text: #SUBTITLE Elektriturg
 	#[http://www.open.edu/itunes/ iTunes University]
 	#[http://www.energiatalgud.ee Eneregiatalgud]
 	
-ts: 1473577269
-blocks: [Course:39529 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
-host: 86.110.32.164
-lastmajorsummary: 
-lastmajor: 12
-keep-ts: 1473577269
+lastmajor: 13
+summary: 
 minor: 
-flags: 1
+ip: 89.235.235.166
+languages: 
+revision: 13
+keep-ts: 1475225908
