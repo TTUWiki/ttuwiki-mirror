@@ -1,6 +1,5 @@
-username: AlexDaniel
-revision: 4
-host: 82.131.7.230
+minor: 1
+languages: 
 text: #SUBTITLE Tootmiskorraldus
 	#SUBURL [Course:33551 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +15,13 @@ text: #SUBTITLE Tootmiskorraldus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:33551 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ts: 1441924444
-ip: 89.235.235.166
-flags: 1
-languages: 
+host: 82.131.7.230
 lastmajor: 2
-minor: 1
+flags: 10
+blocks: [Course:33551 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+keep-ts: 1441924444
+username: AlexDaniel
+revision: 4
+ip: 89.235.235.166

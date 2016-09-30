@@ -1,7 +1,8 @@
-revision: 4
-languages: 
-ts: 1441924446
+ip: 89.235.235.166
+lastmajor: 2
 username: AlexDaniel
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Masinprojekteerimise alused
 	#SUBURL [Course:30910 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +18,10 @@ text: #SUBTITLE Masinprojekteerimise alused
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
-lastmajor: 2
-flags: 1
-keep-ts: 1441924446
-minor: 1
-blocks: [Course:30910 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30910 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+revision: 4
+keep-ts: 1441924446

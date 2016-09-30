@@ -1,7 +1,8 @@
-host: 82.131.7.230
-keep-ts: 1441924443
-blocks: [Course:100935 〔Õppeaine ÕIS-is〕]
-minor: 1
+ip: 89.235.235.166
+languages: 
+revision: 4
+blocks: [Course:100935 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Inseneritöö alused
 	#SUBURL [Course:100935 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +18,10 @@ text: #SUBTITLE Inseneritöö alused
 	#LANG_END
 	
 	
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
+keep-ts: 1441924443
 ts: 1441924443
-languages: 
+flags: 10
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel

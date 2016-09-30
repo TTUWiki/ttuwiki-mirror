@@ -1,7 +1,13 @@
+ts: 1441924452
+revision: 2
+blocks: [Course:108943 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924452
+flags: 10
+host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-blocks: [Course:108943 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Keevitustehnoloogia ja keeviskonstruktsioonid
 	#SUBURL [Course:108943 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +23,3 @@ text: #SUBTITLE Keevitustehnoloogia ja keeviskonstruktsioonid
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-revision: 2
-ts: 1441924452
-host: 82.131.7.230
-username: AlexDaniel

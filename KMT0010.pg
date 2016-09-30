@@ -1,12 +1,3 @@
-minor: 1
-lastmajor: 2
-languages: 
-ip: 89.235.235.166
-host: 82.131.7.230
-username: AlexDaniel
-keep-ts: 1441924448
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tekstiili- ja rõivamaterjalid
 	#SUBURL [Course:32090 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +13,15 @@ text: #SUBTITLE Tekstiili- ja rõivamaterjalid
 	#LANG_END
 	
 	
-blocks: [Course:32090 〔Õppeaine ÕIS-is〕]
+revision: 4
 ts: 1441924448
-flags: 1
+lastmajor: 2
+flags: 10
+keep-ts: 1441924448
+languages: 
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+host: 82.131.7.230
+blocks: [Course:32090 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

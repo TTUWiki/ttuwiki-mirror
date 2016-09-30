@@ -1,6 +1,9 @@
-host: 82.131.7.230
-flags: 1
-languages: 
+minor: 1
+revision: 2
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109803 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 text: #SUBTITLE GIS Maa-teadustes: ArcGIS
 	#SUBURL [Course:109803 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +19,7 @@ text: #SUBTITLE GIS Maa-teadustes: ArcGIS
 	#LANG_END
 	
 	
-blocks: [Course:109803 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+host: 82.131.7.230
+languages: 
 keep-ts: 1441924448
-minor: 1
 ts: 1441924448
-revision: 2

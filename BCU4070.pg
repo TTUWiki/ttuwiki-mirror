@@ -1,6 +1,12 @@
+blocks: [Course:107080 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 revision: 4
-languages: 
-flags: 1
+minor: 1
+host: 82.131.7.230
+ts: 1441924444
+lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Arhitektuuri ja linnaplaneeringu ajalugu
 	#SUBURL [Course:107080 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Arhitektuuri ja linnaplaneeringu ajalugu
 	#LANG_END
 	
 	
-lastmajor: 2
-username: AlexDaniel
 keep-ts: 1441924444
-blocks: [Course:107080 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10

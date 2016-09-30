@@ -1,8 +1,6 @@
-revision: 4
+flags: 10
+username: AlexDaniel
 languages: 
-ts: 1441924451
-ip: 89.235.235.166
-blocks: [Course:102128 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Venemaa ja SRÜ riigid
 	#SUBURL [Course:102128 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +16,12 @@ text: #SUBTITLE Venemaa ja SRÜ riigid
 	#LANG_END
 	
 	
-username: AlexDaniel
-lastmajor: 2
-flags: 1
-minor: 1
+blocks: [Course:102128 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+revision: 4
 keep-ts: 1441924451
+ts: 1441924451
+lastmajor: 2
+host: 82.131.7.230
+ip: 89.235.235.166
+minor: 1

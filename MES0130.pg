@@ -1,13 +1,14 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-languages: 
-host: 82.131.7.230
 keep-ts: 1441924448
-minor: 1
-ts: 1441924448
 ip: 89.235.235.166
+ts: 1441924448
+flags: 10
 revision: 4
+blocks: [Course:100470 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+languages: 
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tooteprojekt
 	#SUBURL [Course:100470 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Tooteprojekt
 	#LANG_END
 	
 	
-blocks: [Course:100470 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1

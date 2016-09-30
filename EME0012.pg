@@ -1,13 +1,5 @@
-keep-ts: 1441924445
-revision: 4
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:29414 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-lastmajor: 2
-minor: 1
-ts: 1441924445
-blocks: [Course:29414 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Ehitusmehaanika II
 	#SUBURL [Course:29414 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +15,13 @@ text: #SUBTITLE Ehitusmehaanika II
 	#LANG_END
 	
 	
-flags: 1
+flags: 10
+lastmajor: 2
+ts: 1441924445
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+revision: 4
+keep-ts: 1441924445
+username: AlexDaniel
+ip: 89.235.235.166

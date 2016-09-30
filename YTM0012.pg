@@ -1,5 +1,7 @@
+revision: 4
+blocks: [Course:29709 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 text: #SUBTITLE Molekulaar- ja rakubioloogia - praktikum
 	#SUBURL [Course:29709 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +17,11 @@ text: #SUBTITLE Molekulaar- ja rakubioloogia - praktikum
 	#LANG_END
 	
 	
-revision: 4
-username: AlexDaniel
-blocks: [Course:29709 〔Õppeaine ÕIS-is〕]
+minor: 1
 ts: 1441924453
-ip: 89.235.235.166
-lastmajor: 2
 keep-ts: 1441924453
-flags: 1
-host: 82.131.7.230
+username: AlexDaniel
+flags: 10
 languages: 
+host: 82.131.7.230
+lastmajor: 2

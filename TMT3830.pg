@@ -1,12 +1,5 @@
-username: AlexDaniel
-keep-ts: 1441924451
-lastmajor: 2
-blocks: [Course:28021 〔Õppeaine ÕIS-is〕]
 languages: 
-minor: 1
-host: 82.131.7.230
-flags: 1
-ip: 89.235.235.166
+flags: 10
 text: #SUBTITLE Riski- ja ohutusõpetus
 	#SUBURL [Course:28021 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Riski- ja ohutusõpetus
 	#LANG_END
 	
 	
-ts: 1441924451
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+username: AlexDaniel
+keep-ts: 1441924451
+blocks: [Course:28021 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+lastmajor: 2
+ip: 89.235.235.166

@@ -1,15 +1,15 @@
+languages: 
+flags: 10
+revision: 4
+username: AlexDaniel
+blocks: [Course:30844 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 minor: 1
 lastmajor: 2
-languages: 
-blocks: [Course:30844 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-revision: 4
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924448
-flags: 1
-host: 82.131.7.230
+keep-ts: 1441924448
 text: #SUBTITLE Termodünaamika - praktikum
 	#SUBURL [Course:30844 〔Õppeaine ÕIS-is〕]
 	

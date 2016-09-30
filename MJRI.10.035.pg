@@ -1,15 +1,6 @@
-keep-ts: 1441924448
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-blocks: [Course:105230 〔Õppeaine ÕIS-is〕]
-flags: 1
 username: AlexDaniel
-minor: 1
+blocks: [Course:105230 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-languages: 
-ts: 1441924448
-lastmajor: 2
 text: #SUBTITLE Majanduskeskkond
 	#SUBURL [Course:105230 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +16,12 @@ text: #SUBTITLE Majanduskeskkond
 	#LANG_END
 	
 	
+ts: 1441924448
+flags: 10
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+ip: 89.235.235.166
+minor: 1
+lastmajor: 2
+revision: 4

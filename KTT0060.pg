@@ -1,8 +1,5 @@
-blocks: [Course:30300 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924448
-minor: 1
 languages: 
+flags: 10
 text: #SUBTITLE Toidutehnoloogia - ainetöö
 	#SUBURL [Course:30300 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +17,11 @@ text: #SUBTITLE Toidutehnoloogia - ainetöö
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-username: AlexDaniel
-host: 82.131.7.230
-ip: 89.235.235.166
-ts: 1441924448
 lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+blocks: [Course:30300 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+keep-ts: 1441924448
+host: 82.131.7.230
+ts: 1441924448

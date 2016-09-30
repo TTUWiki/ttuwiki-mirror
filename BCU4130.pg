@@ -1,5 +1,9 @@
-blocks: [Course:107082 〔Õppeaine ÕIS-is〕]
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+flags: 10
+ts: 1441924444
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Maastikuprojekt I
 	#SUBURL [Course:107082 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +19,9 @@ text: #SUBTITLE Maastikuprojekt I
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
-ts: 1441924444
-host: 82.131.7.230
-revision: 4
-username: AlexDaniel
 keep-ts: 1441924444
+lastmajor: 2
+ip: 89.235.235.166
+blocks: [Course:107082 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+languages: 

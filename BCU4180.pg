@@ -1,4 +1,5 @@
-keep-ts: 1441924444
+ts: 1441924444
+languages: 
 text: #SUBTITLE Linnasotsioloogia
 	#SUBURL [Course:107096 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +15,13 @@ text: #SUBTITLE Linnasotsioloogia
 	#LANG_END
 	
 	
-lastmajor: 2
-username: AlexDaniel
-minor: 1
-host: 82.131.7.230
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:107096 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-languages: 
-flags: 1
-ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2
+host: 82.131.7.230
+keep-ts: 1441924444
+minor: 1
+blocks: [Course:107096 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
+ip: 89.235.235.166

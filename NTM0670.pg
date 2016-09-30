@@ -1,9 +1,15 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ip: 89.235.235.166
 languages: 
-flags: 1
-blocks: [Course:38948 〔Õppeaine ÕIS-is〕]
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924449
+host: 82.131.7.230
+ts: 1441924449
+lastmajor: 2
+minor: 1
+ip: 89.235.235.166
+blocks: [Course:38948 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 text: #SUBTITLE Hüdraulika ja vesiehitised
 	#SUBURL [Course:38948 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Hüdraulika ja vesiehitised
 	#LANG_END
 	
 	
-keep-ts: 1441924449
-ts: 1441924449
-lastmajor: 2
-host: 82.131.7.230
-username: AlexDaniel
-minor: 1

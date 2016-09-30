@@ -1,8 +1,14 @@
-keep-ts: 1441924448
-blocks: [Course:103682 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 minor: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 ip: 89.235.235.166
+ts: 1441924448
+flags: 10
+blocks: [Course:103682 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+username: AlexDaniel
+lastmajor: 2
 text: #SUBTITLE Ettevõtlusprojekt B
 	#SUBURL [Course:103682 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Ettevõtlusprojekt B
 	#LANG_END
 	
 	
-flags: 1
 revision: 4
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ts: 1441924448

@@ -1,8 +1,13 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+lastmajor: 2
+host: 82.131.7.230
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+blocks: [Course:105231 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 keep-ts: 1441924448
 minor: 1
-ip: 89.235.235.166
 text: #SUBTITLE Sissejuhatus interneti-psühholoogiasse
 	#SUBURL [Course:105231 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +23,5 @@ text: #SUBTITLE Sissejuhatus interneti-psühholoogiasse
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
+ip: 89.235.235.166
 username: AlexDaniel
-lastmajor: 2
-blocks: [Course:105231 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924448

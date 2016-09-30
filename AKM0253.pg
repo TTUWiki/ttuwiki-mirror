@@ -1,8 +1,7 @@
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:100481 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
+revision: 4
+ts: 1441924444
 text: #SUBTITLE Mäenduslik modelleerimine
 	#SUBURL [Course:100481 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +17,11 @@ text: #SUBTITLE Mäenduslik modelleerimine
 	#LANG_END
 	
 	
-ts: 1441924444
-revision: 4
-flags: 1
-lastmajor: 2
-languages: 
+blocks: [Course:100481 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 keep-ts: 1441924444
+minor: 1
+ip: 89.235.235.166
+host: 82.131.7.230

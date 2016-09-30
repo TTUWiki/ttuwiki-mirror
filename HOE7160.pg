@@ -1,11 +1,7 @@
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
 keep-ts: 1441924446
-blocks: [Course:106162 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106162 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Intellektuaalne omand ja konkurentsiõigus
 	#SUBURL [Course:106162 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Intellektuaalne omand ja konkurentsiõigus
 	
 minor: 1
 revision: 4
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 host: 82.131.7.230
+ts: 1441924446
+ip: 89.235.235.166
+lastmajor: 2

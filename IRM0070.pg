@@ -1,9 +1,15 @@
-keep-ts: 1441924447
-ts: 1441924447
+blocks: [Course:29854 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 revision: 4
-blocks: [Course:29854 〔Õppeaine ÕIS-is〕]
-flags: 1
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924447
+host: 82.131.7.230
+languages: 
+flags: 10
+ts: 1441924447
+username: AlexDaniel
+lastmajor: 2
 text: #SUBTITLE Sideseadmete disain
 	#SUBURL [Course:29854 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Sideseadmete disain
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel

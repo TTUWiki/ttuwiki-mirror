@@ -1,14 +1,9 @@
-blocks: [Course:101145 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-username: AlexDaniel
-revision: 4
-host: 82.131.7.230
 ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+blocks: [Course:101145 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-flags: 1
-ip: 89.235.235.166
+host: 82.131.7.230
+flags: 10
+lastmajor: 2
 text: #SUBTITLE Rakenduslik krüptograafia
 	#SUBURL [Course:101145 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +19,9 @@ text: #SUBTITLE Rakenduslik krüptograafia
 	#LANG_END
 	
 	
-lastmajor: 2
+languages: 
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+keep-ts: 1441924448

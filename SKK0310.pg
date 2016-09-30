@@ -1,4 +1,15 @@
+host: 82.131.7.230
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+flags: 10
+minor: 1
 keep-ts: 1441924450
+languages: 
+blocks: [Course:32276 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Ettevõtlus
 	#SUBURL [Course:32276 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,3 @@ text: #SUBTITLE Ettevõtlus
 	#LANG_END
 	
 	
-minor: 1
-host: 82.131.7.230
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-languages: 
-flags: 1
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:32276 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166

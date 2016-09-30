@@ -1,6 +1,10 @@
+languages: 
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 host: 82.131.7.230
-blocks: [Course:109173 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109173 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Kalakasvatus ja kalavarude rikastamine I
 	#SUBURL [Course:109173 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +20,6 @@ text: #SUBTITLE Kalakasvatus ja kalavarude rikastamine I
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 2
-minor: 1
-flags: 1
-keep-ts: 1441924452
-languages: 
 ts: 1441924452
+revision: 2
+username: AlexDaniel

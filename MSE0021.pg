@@ -1,14 +1,9 @@
-minor: 1
-ts: 1441924448
-host: 82.131.7.230
-username: AlexDaniel
+blocks: [Course:30534 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-keep-ts: 1441924448
 ip: 89.235.235.166
+ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-blocks: [Course:30534 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
 text: #SUBTITLE Katlatehnika
 	#SUBURL [Course:30534 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +19,9 @@ text: #SUBTITLE Katlatehnika
 	#LANG_END
 	
 	
+flags: 10
+username: AlexDaniel
+minor: 1
+languages: 
+keep-ts: 1441924448
 revision: 4

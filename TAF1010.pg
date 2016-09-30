@@ -1,5 +1,6 @@
-lastmajor: 2
-revision: 4
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Finantsaruandlus ja -analüüs
 	#SUBURL [Course:38004 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Finantsaruandlus ja -analüüs
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-blocks: [Course:38004 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
 keep-ts: 1441924450
 minor: 1
+ip: 89.235.235.166
+revision: 4
 host: 82.131.7.230
-flags: 1
+flags: 10
+blocks: [Course:38004 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2

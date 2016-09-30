@@ -1,12 +1,12 @@
 minor: 1
-ts: 1441924448
-username: AlexDaniel
-blocks: [Course:109804 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
-revision: 2
+languages: 
+flags: 10
+blocks: [Course:109804 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+host: 82.131.7.230
 keep-ts: 1441924448
+username: AlexDaniel
 text: #SUBTITLE GIS meetodid geoloogias
 	#SUBURL [Course:109804 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +22,4 @@ text: #SUBTITLE GIS meetodid geoloogias
 	#LANG_END
 	
 	
-languages: 
+revision: 2

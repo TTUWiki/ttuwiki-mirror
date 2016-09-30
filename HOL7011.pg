@@ -1,13 +1,3 @@
-blocks: [Course:102249 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924446
-revision: 4
-ip: 89.235.235.166
-minor: 1
-username: AlexDaniel
-lastmajor: 2
 text: #SUBTITLE EL ja võrdlev maksuõigus
 	#SUBURL [Course:102249 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +13,15 @@ text: #SUBTITLE EL ja võrdlev maksuõigus
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+flags: 10
+revision: 4
 host: 82.131.7.230
-flags: 1
+blocks: [Course:102249 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+minor: 1
+keep-ts: 1441924446
+languages: 
+username: AlexDaniel

@@ -1,10 +1,13 @@
-languages: 
-minor: 1
 ts: 1441924448
+blocks: [Course:32411 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 lastmajor: 2
-flags: 1
-blocks: [Course:32411 〔Õppeaine ÕIS-is〕]
+revision: 4
+host: 82.131.7.230
+flags: 10
+languages: 
 keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Tootmistehnika
 	#SUBURL [Course:32411 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +23,5 @@ text: #SUBTITLE Tootmistehnika
 	#LANG_END
 	
 	
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+minor: 1
 ip: 89.235.235.166
-host: 82.131.7.230

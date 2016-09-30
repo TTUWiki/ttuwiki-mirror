@@ -1,13 +1,9 @@
-flags: 1
+flags: 10
 revision: 4
-lastmajor: 2
-languages: 
-blocks: [Course:31420 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
 host: 82.131.7.230
+ip: 89.235.235.166
+ts: 1441924448
+username: AlexDaniel
 text: #SUBTITLE Tootmiskeskne projekteerimine
 	#SUBURL [Course:31420 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Tootmiskeskne projekteerimine
 	#LANG_END
 	
 	
-username: AlexDaniel
-ts: 1441924448
+languages: 
+blocks: [Course:31420 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+keep-ts: 1441924448
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

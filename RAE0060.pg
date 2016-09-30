@@ -1,15 +1,11 @@
-host: 82.131.7.230
-keep-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-minor: 1
 revision: 4
 languages: 
-flags: 1
-blocks: [Course:105310 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ts: 1441924449
+blocks: [Course:105310 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
+lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Ehituspraktika II
 	#SUBURL [Course:105310 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Ehituspraktika II
 	#LANG_END
 	
 	
+minor: 1
+flags: 10
+ts: 1441924449
+keep-ts: 1441924449

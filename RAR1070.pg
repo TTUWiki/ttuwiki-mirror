@@ -1,5 +1,6 @@
-host: 82.131.7.230
-ts: 1441924449
+username: AlexDaniel
+blocks: [Course:38276 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 text: #SUBTITLE Riistvarapõhine programmeerimine
 	#SUBURL [Course:38276 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Riistvarapõhine programmeerimine
 	#LANG_END
 	
 	
-revision: 4
-lastmajor: 2
-flags: 1
-username: AlexDaniel
-minor: 1
-languages: 
-blocks: [Course:38276 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+languages: 
 keep-ts: 1441924449
-ip: 89.235.235.166
+lastmajor: 2
+minor: 1
+ts: 1441924449
+revision: 4
+host: 82.131.7.230

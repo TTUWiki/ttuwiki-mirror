@@ -1,11 +1,12 @@
-ip: 89.235.235.166
+keep-ts: 1441924449
 minor: 1
 ts: 1441924449
-revision: 4
-flags: 1
-keep-ts: 1441924449
+languages: 
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38962 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Eriotstarbeliste alade kujundamine
 	#SUBURL [Course:38962 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +22,6 @@ text: #SUBTITLE Eriotstarbeliste alade kujundamine
 	#LANG_END
 	
 	
+flags: 10
 host: 82.131.7.230
-blocks: [Course:38962 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
+revision: 4

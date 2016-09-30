@@ -1,12 +1,11 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101861 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
 revision: 4
-ts: 1441924444
-flags: 1
-host: 82.131.7.230
+flags: 10
 keep-ts: 1441924444
+ip: 89.235.235.166
+minor: 1
+ts: 1441924444
+lastmajor: 2
 text: #SUBTITLE Kvaliteet radioloogias
 	#SUBURL [Course:101861 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +21,7 @@ text: #SUBTITLE Kvaliteet radioloogias
 	#LANG_END
 	
 	
-minor: 1
+host: 82.131.7.230
+blocks: [Course:101861 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-ip: 89.235.235.166
+languages: 

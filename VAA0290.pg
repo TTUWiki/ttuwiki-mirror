@@ -1,4 +1,8 @@
-minor: 1
+username: AlexDaniel
+flags: 10
+blocks: [Course:109016 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924452
+revision: 2
 text: #SUBTITLE Elektroonika
 	#SUBURL [Course:109016 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +18,8 @@ text: #SUBTITLE Elektroonika
 	#LANG_END
 	
 	
-blocks: [Course:109016 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-username: AlexDaniel
-flags: 1
-languages: 
-revision: 2
 ts: 1441924452
+host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

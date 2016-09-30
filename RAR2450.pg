@@ -1,11 +1,13 @@
-minor: 1
-revision: 4
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ip: 89.235.235.166
+blocks: [Course:39368 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924450
 lastmajor: 2
-flags: 1
+ts: 1441924450
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
+username: AlexDaniel
 text: #SUBTITLE Soojusmajandus
 	#SUBURL [Course:39368 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +23,5 @@ text: #SUBTITLE Soojusmajandus
 	#LANG_END
 	
 	
-ts: 1441924450
-ip: 89.235.235.166
-blocks: [Course:39368 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
+languages: 
+flags: 10

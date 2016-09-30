@@ -1,15 +1,8 @@
-keep-ts: 1441924445
-host: 82.131.7.230
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
 ts: 1441924445
-minor: 1
-flags: 1
-languages: 
+blocks: [Course:26259 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 lastmajor: 2
-blocks: [Course:26259 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924445
 text: #SUBTITLE Keskkonnakorraldus
 	#SUBURL [Course:26259 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +18,10 @@ text: #SUBTITLE Keskkonnakorraldus
 	#LANG_END
 	
 	
+minor: 1
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 4
+ip: 89.235.235.166

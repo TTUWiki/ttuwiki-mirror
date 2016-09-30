@@ -1,13 +1,7 @@
-ip: 89.235.235.166
-minor: 1
 lastmajor: 2
-flags: 1
-blocks: [Course:108289 〔Õppeaine ÕIS-is〕]
-revision: 4
+blocks: [Course:108289 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-languages: 
-username: AlexDaniel
+revision: 4
 text: #SUBTITLE Sissejuhatus erialasse
 	#SUBURL [Course:108289 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +17,11 @@ text: #SUBTITLE Sissejuhatus erialasse
 	#LANG_END
 	
 	
-host: 82.131.7.230
 keep-ts: 1441924450
+minor: 1
+ip: 89.235.235.166
+username: AlexDaniel
+host: 82.131.7.230
+languages: 
+flags: 10
+ts: 1441924450

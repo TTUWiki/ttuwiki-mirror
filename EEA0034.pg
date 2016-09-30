@@ -1,11 +1,4 @@
-flags: 1
-ts: 1441924445
-blocks: [Course:109963 〔Õppeaine ÕIS-is〕]
 languages: 
-keep-ts: 1441924445
-revision: 2
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Niiskuskahjustuste vältimine ehituses
 	#SUBURL [Course:109963 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +15,11 @@ text: #SUBTITLE Niiskuskahjustuste vältimine ehituses
 	
 	
 minor: 1
+blocks: [Course:109963 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924445
+username: AlexDaniel
+flags: 10
 host: 82.131.7.230
+revision: 2
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

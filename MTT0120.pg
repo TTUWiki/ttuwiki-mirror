@@ -1,4 +1,5 @@
-blocks: [Course:104859 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
 text: #SUBTITLE Valutehnoloogia
 	#SUBURL [Course:104859 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +15,13 @@ text: #SUBTITLE Valutehnoloogia
 	#LANG_END
 	
 	
-ts: 1441924448
-host: 82.131.7.230
-languages: 
-revision: 4
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 keep-ts: 1441924448
-lastmajor: 2
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924448
 ip: 89.235.235.166
+languages: 
 minor: 1
+blocks: [Course:104859 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

@@ -1,14 +1,13 @@
-revision: 4
-ts: 1441924452
-blocks: [Course:100858 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
-flags: 1
 minor: 1
-keep-ts: 1441924452
+blocks: [Course:100858 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
+revision: 4
+ip: 89.235.235.166
 host: 82.131.7.230
+flags: 10
+lastmajor: 2
 username: AlexDaniel
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Pooljuhtide füüsika
 	#SUBURL [Course:100858 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Pooljuhtide füüsika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+languages: 

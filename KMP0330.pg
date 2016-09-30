@@ -1,6 +1,3 @@
-blocks: [Course:106914 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
 text: #SUBTITLE Polümeermaterjalid: saamine ja omadused
 	#SUBURL [Course:106914 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +13,15 @@ text: #SUBTITLE Polümeermaterjalid: saamine ja omadused
 	#LANG_END
 	
 	
-ts: 1441924448
-keep-ts: 1441924448
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 revision: 4
 lastmajor: 2
-flags: 1
+ts: 1441924448
+keep-ts: 1441924448
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+languages: 
+flags: 10
+blocks: [Course:106914 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

@@ -1,14 +1,13 @@
-revision: 4
-blocks: [Course:34356 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
 minor: 1
+flags: 10
+keep-ts: 1441924449
+lastmajor: 2
+blocks: [Course:34356 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
 languages: 
-ip: 89.235.235.166
-keep-ts: 1441924449
 host: 82.131.7.230
+ip: 89.235.235.166
 text: #SUBTITLE Operatsioonisüsteemid
 	#SUBURL [Course:34356 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Operatsioonisüsteemid
 	#LANG_END
 	
 	
-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4

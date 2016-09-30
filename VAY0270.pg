@@ -1,9 +1,5 @@
-minor: 1
-flags: 1
-ts: 1441924452
 revision: 2
-host: 82.131.7.230
-languages: 
+blocks: [Course:108855 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Majandusarvestuse alused
 	#SUBURL [Course:108855 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +16,10 @@ text: #SUBTITLE Majandusarvestuse alused
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-blocks: [Course:108855 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
+flags: 10
 username: AlexDaniel
+keep-ts: 1441924452
+minor: 1
+ts: 1441924452

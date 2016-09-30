@@ -1,9 +1,10 @@
-languages: 
-blocks: [Course:36988 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
+ts: 1441924452
+minor: 1
 host: 82.131.7.230
-revision: 4
+blocks: [Course:36988 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+languages: 
+username: AlexDaniel
 text: #SUBTITLE Molekulaartootmine - eriseminar
 	#SUBURL [Course:36988 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Molekulaartootmine - eriseminar
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-ts: 1441924452
-minor: 1
+revision: 4
 keep-ts: 1441924452
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166

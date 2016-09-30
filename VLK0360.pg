@@ -1,12 +1,8 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924452
+flags: 10
 revision: 2
-blocks: [Course:110191 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-languages: 
+host: 82.131.7.230
 username: AlexDaniel
+keep-ts: 1441924452
 text: #SUBTITLE Lõpueksam: Külmutusseadmete remont ja montaaž
 	#SUBURL [Course:110191 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +18,8 @@ text: #SUBTITLE Lõpueksam: Külmutusseadmete remont ja montaaž
 	#LANG_END
 	
 	
-host: 82.131.7.230
+minor: 1
+blocks: [Course:110191 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

@@ -1,13 +1,6 @@
-blocks: [Course:29087 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-minor: 1
-ts: 1441924450
-lastmajor: 2
-revision: 4
 keep-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Vene keel võõrkeelena
 	#SUBURL [Course:29087 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +16,12 @@ text: #SUBTITLE Vene keel võõrkeelena
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
+blocks: [Course:29087 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+minor: 1
+flags: 10
+revision: 4
+host: 82.131.7.230
+lastmajor: 2

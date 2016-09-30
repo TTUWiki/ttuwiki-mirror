@@ -1,4 +1,13 @@
+flags: 10
+minor: 1
+ip: 89.235.235.166
+keep-ts: 1441924448
+languages: 
 revision: 4
+host: 82.131.7.230
+ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31444 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Tootmisseadmete projekteerimine
 	#SUBURL [Course:31444 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +23,5 @@ text: #SUBTITLE Tootmisseadmete projekteerimine
 	#LANG_END
 	
 	
-blocks: [Course:31444 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-minor: 1
 username: AlexDaniel
 lastmajor: 2
-ts: 1441924448
-languages: 
-flags: 1

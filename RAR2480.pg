@@ -1,15 +1,11 @@
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
-ip: 89.235.235.166
 lastmajor: 2
-blocks: [Course:39384 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 keep-ts: 1441924450
-revision: 4
+flags: 10
 languages: 
-ts: 1441924450
+ip: 89.235.235.166
+minor: 1
+blocks: [Course:39384 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Soojustehnilised mõõtmised ja automaatika
 	#SUBURL [Course:39384 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Soojustehnilised mõõtmised ja automaatika
 	#LANG_END
 	
 	
+ts: 1441924450
+username: AlexDaniel
+host: 82.131.7.230
+revision: 4

@@ -1,6 +1,12 @@
-languages: 
+flags: 10
+ip: 89.235.235.166
+lastmajor: 2
 revision: 4
-keep-ts: 1441924445
+ts: 1441924445
+minor: 1
+languages: 
+host: 82.131.7.230
+blocks: [Course:105471 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Üldine kunstiajalugu
 	#SUBURL [Course:105471 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Üldine kunstiajalugu
 	#LANG_END
 	
 	
-blocks: [Course:105471 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-host: 82.131.7.230
-ip: 89.235.235.166
-ts: 1441924445
-minor: 1
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

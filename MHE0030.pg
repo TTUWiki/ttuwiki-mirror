@@ -1,10 +1,15 @@
-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:107016 〔Õppeaine ÕIS-is〕]
-minor: 1
+keep-ts: 1441924448
+ip: 89.235.235.166
 revision: 4
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+ts: 1441924448
+flags: 10
+host: 82.131.7.230
 languages: 
-flags: 1
+blocks: [Course:107016 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Sõidukite mehhatroonika
 	#SUBURL [Course:107016 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +25,3 @@ text: #SUBTITLE Sõidukite mehhatroonika
 	#LANG_END
 	
 	
-lastmajor: 2
-username: AlexDaniel
-host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924448

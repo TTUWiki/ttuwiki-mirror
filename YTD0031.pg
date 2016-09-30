@@ -1,13 +1,14 @@
 username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+host: 82.131.7.230
 keep-ts: 1441924453
 revision: 4
-minor: 1
 lastmajor: 2
-blocks: [Course:29715 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924453
 text: #SUBTITLE Immunoloogia I
 	#SUBURL [Course:29715 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +24,4 @@ text: #SUBTITLE Immunoloogia I
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-ts: 1441924453
+blocks: [Course:29715 〔Õppeaine ÕIS-is〕]</div></div>

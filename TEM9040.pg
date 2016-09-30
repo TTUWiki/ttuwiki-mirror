@@ -1,4 +1,10 @@
 keep-ts: 1441924450
+flags: 10
+ip: 89.235.235.166
+revision: 4
+minor: 1
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Matemaatilise planeerimise nüüdismeetodid
 	#SUBURL [Course:33194 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +20,8 @@ text: #SUBTITLE Matemaatilise planeerimise nüüdismeetodid
 	#LANG_END
 	
 	
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:33194 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:33194 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-lastmajor: 2
 languages: 
-revision: 4
+username: AlexDaniel

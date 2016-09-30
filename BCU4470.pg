@@ -1,11 +1,5 @@
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924444
-lastmajor: 2
 text: #SUBTITLE Maastikuprojekt III
 	#SUBURL [Course:107169 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +15,13 @@ text: #SUBTITLE Maastikuprojekt III
 	#LANG_END
 	
 	
+ts: 1441924444
+revision: 4
+blocks: [Course:107169 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 keep-ts: 1441924444
+ip: 89.235.235.166
 host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-blocks: [Course:107169 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

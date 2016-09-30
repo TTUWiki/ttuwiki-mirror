@@ -1,12 +1,12 @@
-host: 82.131.7.230
-revision: 4
-flags: 1
-languages: 
-ip: 89.235.235.166
+ts: 1441924451
 minor: 1
-blocks: [Course:102252 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102252 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-keep-ts: 1441924451
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Sotsioloogia
 	#SUBURL [Course:102252 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +22,6 @@ text: #SUBTITLE Sotsioloogia
 	#LANG_END
 	
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924451

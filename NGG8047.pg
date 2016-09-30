@@ -1,15 +1,10 @@
-keep-ts: 1441924448
-blocks: [Course:40514 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924448
-flags: 1
-host: 82.131.7.230
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ip: 89.235.235.166
 languages: 
+ip: 89.235.235.166
 minor: 1
+flags: 10
+blocks: [Course:40514 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Stratigraafia erikursus
 	#SUBURL [Course:40514 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +20,8 @@ text: #SUBTITLE Stratigraafia erikursus
 	#LANG_END
 	
 	
+ts: 1441924448
+revision: 4
+keep-ts: 1441924448
+host: 82.131.7.230
+lastmajor: 2

@@ -1,15 +1,12 @@
 revision: 4
-ts: 1441924450
-keep-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-flags: 1
 host: 82.131.7.230
+username: AlexDaniel
 lastmajor: 2
 ip: 89.235.235.166
-blocks: [Course:36938 〔Õppeaine ÕIS-is〕]
-languages: 
+blocks: [Course:36938 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+ts: 1441924450
 text: #SUBTITLE Eesti - turismi sihtkoht
 	#SUBURL [Course:36938 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Eesti - turismi sihtkoht
 	#LANG_END
 	
 	
+languages: 
+flags: 10
+keep-ts: 1441924450

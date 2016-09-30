@@ -1,7 +1,14 @@
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
+blocks: [Course:105060 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
 keep-ts: 1441924444
+host: 82.131.7.230
+languages: 
+revision: 4
+flags: 10
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+lastmajor: 2
 text: #SUBTITLE Tervishoiukorraldus ja -poliitika
 	#SUBURL [Course:105060 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Tervishoiukorraldus ja -poliitika
 	#LANG_END
 	
 	
-username: AlexDaniel
-ts: 1441924444
-languages: 
 minor: 1
-lastmajor: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:105060 〔Õppeaine ÕIS-is〕]

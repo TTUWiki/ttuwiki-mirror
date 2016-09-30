@@ -1,12 +1,5 @@
-lastmajor: 2
-languages: 
-revision: 4
-username: AlexDaniel
-keep-ts: 1441924451
-host: 82.131.7.230
-flags: 1
-ts: 1441924451
-ip: 89.235.235.166
+blocks: [Course:30047 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 text: #SUBTITLE Arenguökonoomika
 	#SUBURL [Course:30047 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Arenguökonoomika
 	#LANG_END
 	
 	
-blocks: [Course:30047 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 10
+ts: 1441924451
+host: 82.131.7.230
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
+username: AlexDaniel
+keep-ts: 1441924451
+languages: 

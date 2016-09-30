@@ -1,10 +1,7 @@
-flags: 1
-ts: 1441924451
-revision: 4
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
 username: AlexDaniel
 ip: 89.235.235.166
-blocks: [Course:102349 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kirjalik eneseväljendus I
 	#SUBURL [Course:102349 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +17,11 @@ text: #SUBTITLE Kirjalik eneseväljendus I
 	#LANG_END
 	
 	
-minor: 1
-languages: 
+revision: 4
+blocks: [Course:102349 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
+ts: 1441924451
+flags: 10
+host: 82.131.7.230
+languages: 
+minor: 1

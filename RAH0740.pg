@@ -1,9 +1,5 @@
-ip: 89.235.235.166
-ts: 1441924449
+languages: 
 minor: 1
-revision: 4
-keep-ts: 1441924449
-username: AlexDaniel
 text: #SUBTITLE Väljendusõpetus
 	#SUBURL [Course:100684 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +15,13 @@ text: #SUBTITLE Väljendusõpetus
 	#LANG_END
 	
 	
-blocks: [Course:100684 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+blocks: [Course:100684 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
 lastmajor: 2
-flags: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ip: 89.235.235.166
+keep-ts: 1441924449
+flags: 10

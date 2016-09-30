@@ -1,14 +1,4 @@
-keep-ts: 1441924453
-languages: 
-username: AlexDaniel
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-blocks: [Course:29744 〔Õppeaine ÕIS-is〕]
-flags: 1
 ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
 text: #SUBTITLE Neurobioloogia II
 	#SUBURL [Course:29744 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +14,14 @@ text: #SUBTITLE Neurobioloogia II
 	#LANG_END
 	
 	
+keep-ts: 1441924453
+languages: 
+blocks: [Course:29744 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 ts: 1441924453
+revision: 4
+minor: 1
+username: AlexDaniel
+flags: 10
+host: 82.131.7.230

@@ -1,8 +1,14 @@
-username: Bot
-summary: Automatic Update
-lastmajorsummary: Automatic Update
+revision: 8
+keep-ts: 1473762067
+blocks: 
+flags: 
 host: 193.40.250.236
+summary: Automatic Update
+username: Bot
+lastmajor: 8
 languages: 
+minor: 
+lastmajorsummary: Automatic Update
 text: [:Timetables (Distance learning)]
 	
 	=== Distance learning / Kaugõpe / Заочное обучение
@@ -26,10 +32,4 @@ text: [:Timetables (Distance learning)]
 	==== R-TTÜ Virumaa Kolledž 
 	##[https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48116|RDBR33] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47769|RDBR34] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47779|RDBR73] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47851|RDDR34] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48055|RDER13] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48056|RDER14] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47872|RDER33] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47871|RDER34] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47873|RDER53] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47861|RDER94] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48044|RDIR13] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48045|RDIR14] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47905|RDIR53] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47935|RDKR34] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47800|RDKR74] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48094|RDPR13] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=48140|RDPR14] [https://ois.ttu.ee/portal/page?_pageid=37,675060&_dad=portal&_schema=PORTAL&k=&i=2&a=1&q=1&b=2&c=-1&d=-1&e=-1&e_sem=181&g=47831|RDPR53]##
 	
-keep-ts: 1473762067
-lastmajor: 8
-blocks: </div></div>
-flags: 0
 ts: 1473762067
-revision: 8
-minor: 

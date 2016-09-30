@@ -1,7 +1,7 @@
-languages: 
-keep-ts: 1441924449
-revision: 4
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39238 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+host: 82.131.7.230
 text: #SUBTITLE Ehitusgraafika II
 	#SUBURL [Course:39238 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +17,11 @@ text: #SUBTITLE Ehitusgraafika II
 	#LANG_END
 	
 	
+revision: 4
 ip: 89.235.235.166
-ts: 1441924449
-host: 82.131.7.230
-blocks: [Course:39238 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
+username: AlexDaniel
+ts: 1441924449
+languages: 
+flags: 10

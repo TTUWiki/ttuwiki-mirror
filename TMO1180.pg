@@ -1,9 +1,3 @@
-keep-ts: 1441924451
-ts: 1441924451
-host: 82.131.7.230
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Organisatsiooni strateegiline diagnostika ja kujundamine
 	#SUBURL [Course:100793 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +13,15 @@ text: #SUBTITLE Organisatsiooni strateegiline diagnostika ja kujundamine
 	#LANG_END
 	
 	
-languages: 
-blocks: [Course:100793 〔Õppeaine ÕIS-is〕]
-revision: 4
-minor: 1
-flags: 1
 ip: 89.235.235.166
+keep-ts: 1441924451
+username: AlexDaniel
+flags: 10
+ts: 1441924451
+host: 82.131.7.230
+minor: 1
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100793 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+languages: 

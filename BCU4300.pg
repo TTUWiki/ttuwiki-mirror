@@ -1,12 +1,5 @@
-minor: 1
-revision: 4
-host: 82.131.7.230
-keep-ts: 1441924444
-ip: 89.235.235.166
-flags: 1
-username: AlexDaniel
-ts: 1441924444
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Looduskaitse
 	#SUBURL [Course:107118 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +15,13 @@ text: #SUBTITLE Looduskaitse
 	#LANG_END
 	
 	
-lastmajor: 2
+flags: 10
+blocks: [Course:107118 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-blocks: [Course:107118 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+ts: 1441924444
+keep-ts: 1441924444
+ip: 89.235.235.166
+minor: 1
+lastmajor: 2

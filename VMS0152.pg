@@ -1,6 +1,8 @@
+revision: 2
 ts: 1441924452
-blocks: [Course:109084 〔Õppeaine ÕIS-is〕]
-flags: 1
+keep-ts: 1441924452
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Mereõigus II
 	#SUBURL [Course:109084 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +18,8 @@ text: #SUBTITLE Mereõigus II
 	#LANG_END
 	
 	
-revision: 2
-username: AlexDaniel
-keep-ts: 1441924452
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+blocks: [Course:109084 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 minor: 1
+flags: 10

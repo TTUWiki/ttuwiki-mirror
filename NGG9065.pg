@@ -1,8 +1,12 @@
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+blocks: [Course:39402 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+ip: 89.235.235.166
+username: AlexDaniel
 lastmajor: 2
-ts: 1441924448
-minor: 1
+languages: 
+flags: 10
 text: #SUBTITLE Füüsikalise geoloogia erikursus
 	#SUBURL [Course:39402 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +22,6 @@ text: #SUBTITLE Füüsikalise geoloogia erikursus
 	#LANG_END
 	
 	
+ts: 1441924448
+minor: 1
 keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:39402 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-languages: 
-username: AlexDaniel

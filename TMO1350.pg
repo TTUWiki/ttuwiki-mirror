@@ -1,9 +1,15 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-username: AlexDaniel
 ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924451
+keep-ts: 1441924451
+blocks: [Course:103408 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+minor: 1
+flags: 10
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Rahvusvaheline personalijuhtimine
 	#SUBURL [Course:103408 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Rahvusvaheline personalijuhtimine
 	#LANG_END
 	
 	
-keep-ts: 1441924451
-ts: 1441924451
-blocks: [Course:103408 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-host: 82.131.7.230

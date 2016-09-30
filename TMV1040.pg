@@ -1,7 +1,9 @@
-ts: 1441924451
-blocks: [Course:38008 〔Õppeaine ÕIS-is〕]
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924451
+revision: 4
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Ettevõtluse eriseminar
 	#SUBURL [Course:38008 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +19,9 @@ text: #SUBTITLE Ettevõtluse eriseminar
 	#LANG_END
 	
 	
-lastmajor: 2
-host: 82.131.7.230
-ip: 89.235.235.166
-languages: 
-minor: 1
-revision: 4
-flags: 1
 username: AlexDaniel
+ts: 1441924451
+flags: 10
+blocks: [Course:38008 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+host: 82.131.7.230

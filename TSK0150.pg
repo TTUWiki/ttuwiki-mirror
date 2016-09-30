@@ -1,11 +1,8 @@
-host: 82.131.7.230
+ts: 1441924451
+revision: 4
 keep-ts: 1441924451
 minor: 1
-blocks: [Course:102148 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-revision: 4
-languages: 
+ip: 89.235.235.166
 text: #SUBTITLE Eesti ajalugu
 	#SUBURL [Course:102148 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Eesti ajalugu
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
 lastmajor: 2
-ip: 89.235.235.166
-ts: 1441924451
+username: AlexDaniel
+blocks: [Course:102148 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

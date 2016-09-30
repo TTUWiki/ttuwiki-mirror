@@ -1,6 +1,13 @@
 username: AlexDaniel
+languages: 
+ts: 1441924445
+host: 82.131.7.230
+lastmajor: 2
+flags: 10
+revision: 4
 ip: 89.235.235.166
-minor: 1
+keep-ts: 1441924445
+blocks: [Course:101460 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Lõplike elementide meetod
 	#SUBURL [Course:101460 〔Õppeaine ÕIS-is〕]
@@ -17,11 +24,4 @@ text: #SUBTITLE Lõplike elementide meetod
 	#LANG_END
 	
 	
-lastmajor: 2
-keep-ts: 1441924445
-flags: 1
-blocks: [Course:101460 〔Õppeaine ÕIS-is〕]
-revision: 4
-host: 82.131.7.230
-ts: 1441924445
-languages: 
+minor: 1

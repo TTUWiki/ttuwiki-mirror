@@ -1,7 +1,9 @@
-languages: 
 keep-ts: 1441924452
-flags: 1
+flags: 10
+blocks: [Course:110120 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
 username: AlexDaniel
+revision: 2
 text: #SUBTITLE Terminali planeerimine ja simulatsioon
 	#SUBURL [Course:110120 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +19,7 @@ text: #SUBTITLE Terminali planeerimine ja simulatsioon
 	#LANG_END
 	
 	
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:110120 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ts: 1441924452
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1

@@ -1,7 +1,8 @@
-languages: 
+keep-ts: 1441924451
+ip: 89.235.235.166
 ts: 1441924451
-revision: 4
-lastmajor: 2
+languages: 
+blocks: [Course:27825 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Organisatsiooni ja juhtimise teooriad
 	#SUBURL [Course:27825 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +18,10 @@ text: #SUBTITLE Organisatsiooni ja juhtimise teooriad
 	#LANG_END
 	
 	
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1441924451
-blocks: [Course:27825 〔Õppeaine ÕIS-is〕]
+revision: 4
+lastmajor: 2
+flags: 10
+minor: 1
 host: 82.131.7.230
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1

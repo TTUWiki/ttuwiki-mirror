@@ -1,9 +1,9 @@
-minor: 1
-ip: 89.235.235.166
+blocks: [Course:32789 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+keep-ts: 1441924448
 languages: 
+revision: 4
+ip: 89.235.235.166
 text: #SUBTITLE Kõrgsuutlikud konstruktsioonikomponendid
 	#SUBURL [Course:32789 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +19,9 @@ text: #SUBTITLE Kõrgsuutlikud konstruktsioonikomponendid
 	#LANG_END
 	
 	
-host: 82.131.7.230
+flags: 10
+minor: 1
 lastmajor: 2
-blocks: [Course:32789 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-flags: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel

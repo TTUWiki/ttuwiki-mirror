@@ -1,9 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109850 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924445
-blocks: [Course:109850 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 revision: 2
+ts: 1441924445
+minor: 1
+flags: 10
 text: #SUBTITLE Geotehnika alused maastikuarhitektidele
 	#SUBURL [Course:109850 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +22,4 @@ text: #SUBTITLE Geotehnika alused maastikuarhitektidele
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-minor: 1
-ts: 1441924445
+username: AlexDaniel

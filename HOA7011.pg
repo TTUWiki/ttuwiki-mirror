@@ -1,5 +1,4 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 languages: 
 text: #SUBTITLE Teoreetiline ja rakenduskriminoloogia
 	#SUBURL [Course:102244 〔Õppeaine ÕIS-is〕]
@@ -16,12 +15,13 @@ text: #SUBTITLE Teoreetiline ja rakenduskriminoloogia
 	#LANG_END
 	
 	
-keep-ts: 1441924446
-ip: 89.235.235.166
-flags: 1
-revision: 4
-lastmajor: 2
-username: AlexDaniel
-ts: 1441924446
 minor: 1
-blocks: [Course:102244 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102244 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ts: 1441924446
+revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924446
+lastmajor: 2

@@ -1,15 +1,11 @@
-minor: 1
-languages: 
-ts: 1441924446
-flags: 1
-host: 82.131.7.230
-username: AlexDaniel
-keep-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+minor: 1
 lastmajor: 2
-revision: 4
-blocks: [Course:40278 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
 text: #SUBTITLE Euroopa Liidu liikmed ja kultuurid
 	#SUBURL [Course:40278 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Euroopa Liidu liikmed ja kultuurid
 	#LANG_END
 	
 	
+revision: 4
+keep-ts: 1441924446
+username: AlexDaniel
+blocks: [Course:40278 〔Õppeaine ÕIS-is〕]</div></div>

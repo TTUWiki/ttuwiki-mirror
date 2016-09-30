@@ -1,4 +1,3 @@
-flags: 1
 text: #SUBTITLE Rakendusgeoloogia teadusseminar I
 	#SUBURL [Course:100594 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +13,15 @@ text: #SUBTITLE Rakendusgeoloogia teadusseminar I
 	#LANG_END
 	
 	
-lastmajor: 2
-blocks: [Course:100594 〔Õppeaine ÕIS-is〕]
+flags: 10
 languages: 
+username: AlexDaniel
+blocks: [Course:100594 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+lastmajor: 2
+keep-ts: 1441924444
+host: 82.131.7.230
 ts: 1441924444
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 minor: 1
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
 revision: 4

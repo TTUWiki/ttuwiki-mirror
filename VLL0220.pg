@@ -1,3 +1,6 @@
+ts: 1441924452
+keep-ts: 1441924452
+revision: 2
 text: #SUBTITLE Laevade ehitus
 	#SUBURL [Course:108895 〔Õppeaine ÕIS-is〕]
 	
@@ -13,13 +16,10 @@ text: #SUBTITLE Laevade ehitus
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:108895 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-flags: 1
-keep-ts: 1441924452
+flags: 10
 languages: 
 username: AlexDaniel
 host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
+minor: 1
+blocks: [Course:108895 〔Õppeaine ÕIS-is〕]</div></div>

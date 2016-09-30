@@ -1,10 +1,6 @@
-languages: 
-ts: 1441924447
-keep-ts: 1441924447
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
+keep-ts: 1441924447
+revision: 2
 text: #SUBTITLE Mentorlus kutsekoolis
 	#SUBURL [Course:109620 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +16,10 @@ text: #SUBTITLE Mentorlus kutsekoolis
 	#LANG_END
 	
 	
+ts: 1441924447
 username: AlexDaniel
-revision: 2
-blocks: [Course:109620 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109620 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+minor: 1
+host: 82.131.7.230
+flags: 10

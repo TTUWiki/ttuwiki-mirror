@@ -1,6 +1,10 @@
-languages: 
-minor: 1
-keep-ts: 1441924448
+username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924448
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
 text: #SUBTITLE Insenerimehaanika erikursus
 	#SUBURL [Course:30950 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Insenerimehaanika erikursus
 	#LANG_END
 	
 	
-blocks: [Course:30950 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-ts: 1441924448
-host: 82.131.7.230
-ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+minor: 1
+keep-ts: 1441924448
+blocks: [Course:30950 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+languages: 

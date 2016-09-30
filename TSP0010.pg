@@ -1,15 +1,11 @@
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:102096 〔Õppeaine ÕIS-is〕]
-revision: 4
-minor: 1
-username: AlexDaniel
 host: 82.131.7.230
-languages: 
 keep-ts: 1441924451
-ts: 1441924451
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+revision: 4
+ip: 89.235.235.166
+minor: 1
+flags: 10
+languages: 
 text: #SUBTITLE Poliitiline filosoofia
 	#SUBURL [Course:102096 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Poliitiline filosoofia
 	#LANG_END
 	
 	
+blocks: [Course:102096 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924451
+username: AlexDaniel

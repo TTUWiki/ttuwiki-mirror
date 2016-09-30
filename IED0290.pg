@@ -1,5 +1,6 @@
+revision: 4
 lastmajor: 2
-ts: 1441924447
+minor: 1
 text: #SUBTITLE Sensoorika
 	#SUBURL [Course:107186 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +16,12 @@ text: #SUBTITLE Sensoorika
 	#LANG_END
 	
 	
-blocks: [Course:107186 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
-revision: 4
-languages: 
-username: AlexDaniel
-minor: 1
-ip: 89.235.235.166
+flags: 10
 host: 82.131.7.230
-flags: 1
+blocks: [Course:107186 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924447
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 

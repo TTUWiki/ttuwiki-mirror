@@ -1,7 +1,13 @@
-ip: 89.235.235.166
+ts: 1441924450
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
 revision: 4
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924450
 username: AlexDaniel
+blocks: [Course:102164 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Majandusmatemaatika II
 	#SUBURL [Course:102164 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +23,5 @@ text: #SUBTITLE Majandusmatemaatika II
 	#LANG_END
 	
 	
-blocks: [Course:102164 〔Õppeaine ÕIS-is〕]
-flags: 1
 languages: 
-keep-ts: 1441924450
 minor: 1
-lastmajor: 2
-host: 82.131.7.230
-ts: 1441924450

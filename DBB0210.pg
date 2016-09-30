@@ -1,14 +1,8 @@
-minor: 1
-blocks: [Course:101697 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924444
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-host: 82.131.7.230
+flags: 10
 ts: 1441924444
 languages: 
+revision: 4
+keep-ts: 1441924444
 text: #SUBTITLE Füsioloogiline regulatsioon ja adaptatsioon
 	#SUBURL [Course:101697 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +18,10 @@ text: #SUBTITLE Füsioloogiline regulatsioon ja adaptatsioon
 	#LANG_END
 	
 	
-flags: 1
+username: AlexDaniel
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1
+ip: 89.235.235.166
+blocks: [Course:101697 〔Õppeaine ÕIS-is〕]</div></div>

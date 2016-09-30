@@ -1,11 +1,3 @@
-host: 82.131.7.230
-blocks: [Course:41410 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-revision: 4
-languages: 
-lastmajor: 2
-minor: 1
 text: #SUBTITLE Arvutigraafika algkursus
 	#SUBURL [Course:41410 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +13,15 @@ text: #SUBTITLE Arvutigraafika algkursus
 	#LANG_END
 	
 	
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+lastmajor: 2
+blocks: [Course:41410 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+ip: 89.235.235.166
+languages: 
+flags: 10
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
 username: AlexDaniel
+revision: 4

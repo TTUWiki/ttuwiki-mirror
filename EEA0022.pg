@@ -1,3 +1,6 @@
+revision: 6
+keep-ts: 1441924444
+flags: 10
 text: #SUBTITLE Planeerimine ja teed
 	#SUBURL [Course:100366 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +16,12 @@ text: #SUBTITLE Planeerimine ja teed
 	#LANG_END
 	
 	
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-lastmajor: 5
-languages: 
 minor: 1
 host: 82.131.7.230
-blocks: [Course:100366 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 6
 ip: 89.235.235.166
+blocks: [Course:100366 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+lastmajor: 5
+languages: 
 ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,12 +1,13 @@
-keep-ts: 1441924452
-username: AlexDaniel
-ts: 1441924452
-host: 82.131.7.230
-minor: 1
-flags: 1
 ip: 89.235.235.166
-revision: 4
+ts: 1441924452
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 lastmajor: 2
+revision: 4
+blocks: [Course:36984 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+flags: 10
 text: #SUBTITLE Molekulaartootmine
 	#SUBURL [Course:36984 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +23,5 @@ text: #SUBTITLE Molekulaartootmine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 languages: 
-blocks: [Course:36984 〔Õppeaine ÕIS-is〕]

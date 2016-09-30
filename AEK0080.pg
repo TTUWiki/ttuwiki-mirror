@@ -1,12 +1,15 @@
-minor: 1
-blocks: [Course:100719 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-languages: 
-lastmajor: 2
-revision: 4
 host: 82.131.7.230
+revision: 4
+flags: 10
+keep-ts: 1441924444
 ts: 1441924444
-flags: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100719 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ip: 89.235.235.166
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Alajaamad - projekt
 	#SUBURL [Course:100719 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Alajaamad - projekt
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924444

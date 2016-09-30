@@ -1,3 +1,9 @@
+minor: 1
+lastmajor: 2
+username: AlexDaniel
+keep-ts: 1441924451
+ts: 1441924451
+revision: 4
 text: #SUBTITLE Uurimisteemakeskne individuaalõpe
 	#SUBURL [Course:103072 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +19,9 @@ text: #SUBTITLE Uurimisteemakeskne individuaalõpe
 	#LANG_END
 	
 	
-blocks: [Course:103072 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924451
-revision: 4
-minor: 1
-keep-ts: 1441924451
-flags: 1
+blocks: [Course:103072 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-host: 82.131.7.230
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
+languages: 
+host: 82.131.7.230

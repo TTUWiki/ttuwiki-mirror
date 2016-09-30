@@ -1,9 +1,3 @@
-host: 82.131.7.230
-flags: 1
-ip: 89.235.235.166
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 text: #SUBTITLE Maailma religioonide võrdlev analüüs
 	#SUBURL [Course:106126 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +13,15 @@ text: #SUBTITLE Maailma religioonide võrdlev analüüs
 	#LANG_END
 	
 	
-lastmajor: 2
-languages: 
 minor: 1
-blocks: [Course:106126 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ip: 89.235.235.166
 keep-ts: 1441924451
+flags: 10
+host: 82.131.7.230
+blocks: [Course:106126 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 ts: 1441924451

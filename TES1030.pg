@@ -1,12 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924450
+blocks: [Course:100643 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-ip: 89.235.235.166
-blocks: [Course:100643 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
 username: AlexDaniel
+keep-ts: 1441924450
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Mitmemõõtmeline statistiline analüüs
 	#SUBURL [Course:100643 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +22,6 @@ text: #SUBTITLE Mitmemõõtmeline statistiline analüüs
 	#LANG_END
 	
 	
+ip: 89.235.235.166
 revision: 4
-flags: 1
 lastmajor: 2

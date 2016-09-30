@@ -1,4 +1,8 @@
-lastmajorsummary: homework deadline
+host: 85.253.108.27
+languages: 
+summary: homework deadline
+revision: 12
+ip: 89.235.235.166
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -13,13 +17,11 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	* **2016-09-12** – [[http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/IAF0320_Lecture1_F2016_vdist.pdf Lecture 1]], page 13
 	* **2016-09-26** – Homework 1
 	
-languages: 
-ip: 89.235.235.166
-revision: 12
-host: 85.253.108.27
-lastmajor: 12
-summary: homework deadline
-minor: 
-username: AlexDaniel
-ts: 1474917277
 keep-ts: 1474917277
+lastmajorsummary: homework deadline
+flags: 1
+lastmajor: 12
+minor: 
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+ts: 1474917277
+username: AlexDaniel

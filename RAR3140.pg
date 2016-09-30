@@ -1,9 +1,10 @@
-languages: 
-flags: 1
-ts: 1441924450
-minor: 1
+revision: 4
+keep-ts: 1441924450
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+blocks: [Course:34216 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 text: #SUBTITLE Insenerigraafika
 	#SUBURL [Course:34216 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Insenerigraafika
 	#LANG_END
 	
 	
-host: 82.131.7.230
 ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:34216 〔Õppeaine ÕIS-is〕]
-revision: 4
-keep-ts: 1441924450
+flags: 10
+host: 82.131.7.230
+languages: 
+ts: 1441924450

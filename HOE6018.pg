@@ -1,10 +1,5 @@
-blocks: [Course:101651 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+minor: 1
 lastmajor: 2
-ts: 1441924446
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 host: 82.131.7.230
 text: #SUBTITLE Pankrotiõigus
 	#SUBURL [Course:101651 〔Õppeaine ÕIS-is〕]
@@ -21,7 +16,12 @@ text: #SUBTITLE Pankrotiõigus
 	#LANG_END
 	
 	
-keep-ts: 1441924446
+ts: 1441924446
+blocks: [Course:101651 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 revision: 4
-minor: 1
+keep-ts: 1441924446
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 username: AlexDaniel

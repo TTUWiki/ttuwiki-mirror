@@ -1,3 +1,5 @@
+keep-ts: 1441924448
+revision: 4
 text: #SUBTITLE Toiduohutus
 	#SUBURL [Course:100326 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +15,13 @@ text: #SUBTITLE Toiduohutus
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-lastmajor: 2
-ts: 1441924448
-username: AlexDaniel
-host: 82.131.7.230
-minor: 1
 ip: 89.235.235.166
-flags: 1
-revision: 4
-languages: 
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100326 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+flags: 10
+minor: 1
+username: AlexDaniel
+languages: 
+ts: 1441924448
+blocks: [Course:100326 〔Õppeaine ÕIS-is〕]</div></div>

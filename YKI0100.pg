@@ -1,12 +1,3 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-flags: 1
-host: 82.131.7.230
-ts: 1441924452
-revision: 4
-languages: 
 text: #SUBTITLE Elementide keemia
 	#SUBURL [Course:31996 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Elementide keemia
 	
 	
 lastmajor: 2
-blocks: [Course:31996 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924452
+revision: 4
 keep-ts: 1441924452
+blocks: [Course:31996 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+flags: 10
+languages: 
+host: 82.131.7.230

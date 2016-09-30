@@ -1,12 +1,4 @@
-blocks: [Course:101021 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924444
-lastmajor: 2
-minor: 1
 host: 82.131.7.230
-revision: 4
-languages: 
-keep-ts: 1441924444
 text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#SUBURL [Course:101021 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +14,14 @@ text: #SUBTITLE Keskkonnakaitse ja säästev areng
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+blocks: [Course:101021 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+lastmajor: 2
+ip: 89.235.235.166
+ts: 1441924444
+flags: 10
+minor: 1
+revision: 4

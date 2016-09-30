@@ -1,6 +1,12 @@
+host: 82.131.7.230
+ip: 89.235.235.166
 keep-ts: 1441924446
+blocks: [Course:101969 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 minor: 1
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924446
 text: #SUBTITLE Eraõiguse eriseminar
 	#SUBURL [Course:101969 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Eraõiguse eriseminar
 	#LANG_END
 	
 	
-ts: 1441924446
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-blocks: [Course:101969 〔Õppeaine ÕIS-is〕]
-flags: 1
+flags: 10
+lastmajor: 2

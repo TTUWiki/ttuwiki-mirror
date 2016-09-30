@@ -1,14 +1,13 @@
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-keep-ts: 1441924444
 minor: 1
-blocks: [Course:107093 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+languages: 
+lastmajor: 2
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Keskkonnaesteetika
 	#SUBURL [Course:107093 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Keskkonnaesteetika
 	#LANG_END
 	
 	
-flags: 1
+ts: 1441924444
+blocks: [Course:107093 〔Õppeaine ÕIS-is〕]</div></div>

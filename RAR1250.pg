@@ -1,14 +1,15 @@
-revision: 4
-keep-ts: 1441924449
-username: AlexDaniel
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-flags: 1
-host: 82.131.7.230
+username: AlexDaniel
 ip: 89.235.235.166
-minor: 1
 languages: 
+blocks: [Course:38129 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+host: 82.131.7.230
+flags: 10
+revision: 4
+ts: 1441924449
+minor: 1
+keep-ts: 1441924449
 text: #SUBTITLE Elektriajamid
 	#SUBURL [Course:38129 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Elektriajamid
 	#LANG_END
 	
 	
-blocks: [Course:38129 〔Õppeaine ÕIS-is〕]

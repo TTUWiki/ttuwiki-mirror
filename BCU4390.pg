@@ -1,7 +1,10 @@
-languages: 
+flags: 10
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924444
+blocks: [Course:107113 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+ip: 89.235.235.166
 text: #SUBTITLE Maastikuhooldus ja pargimajandus
 	#SUBURL [Course:107113 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +20,8 @@ text: #SUBTITLE Maastikuhooldus ja pargimajandus
 	#LANG_END
 	
 	
-revision: 4
-host: 82.131.7.230
 ts: 1441924444
-flags: 1
-keep-ts: 1441924444
-blocks: [Course:107113 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4

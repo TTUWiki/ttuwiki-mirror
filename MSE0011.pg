@@ -1,7 +1,4 @@
-keep-ts: 1441924448
-blocks: [Course:30532 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-minor: 1
+ts: 1441924448
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kütused ja põlemisteooria
 	#SUBURL [Course:30532 〔Õppeaine ÕIS-is〕]
@@ -18,10 +15,13 @@ text: #SUBTITLE Kütused ja põlemisteooria
 	#LANG_END
 	
 	
+blocks: [Course:30532 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-lastmajor: 2
-flags: 1
-ip: 89.235.235.166
-ts: 1441924448
-languages: 
 revision: 4
+keep-ts: 1441924448
+minor: 1
+ip: 89.235.235.166
+lastmajor: 2
+flags: 10
+languages: 
+host: 82.131.7.230

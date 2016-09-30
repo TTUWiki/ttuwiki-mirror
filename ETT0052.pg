@@ -1,13 +1,10 @@
-ip: 89.235.235.166
-host: 82.131.7.230
 languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ip: 89.235.235.166
 keep-ts: 1441924445
-blocks: [Course:29517 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
+host: 82.131.7.230
+blocks: [Course:29517 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ts: 1441924445
 text: #SUBTITLE Tee korrashoid II
 	#SUBURL [Course:29517 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE Tee korrashoid II
 	#LANG_END
 	
 	
+username: AlexDaniel
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-ts: 1441924445
+minor: 1

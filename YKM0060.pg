@@ -1,6 +1,7 @@
-ip: 89.235.235.166
 revision: 4
-lastmajor: 2
+username: AlexDaniel
+host: 82.131.7.230
+languages: 
 text: #SUBTITLE Füüsikaline orgaaniline keemia
 	#SUBURL [Course:100413 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +17,11 @@ text: #SUBTITLE Füüsikaline orgaaniline keemia
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-host: 82.131.7.230
+ip: 89.235.235.166
 minor: 1
-blocks: [Course:100413 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+blocks: [Course:100413 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924452
 keep-ts: 1441924452
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
