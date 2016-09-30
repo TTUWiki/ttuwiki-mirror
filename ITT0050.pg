@@ -1,3 +1,12 @@
+lastmajor: 10
+host: 84.52.50.9
+lastmajorsummary: Teine koduülesanne ITT0050
+minor: 
+languages: 
+username: Artur Gummel
+keep-ts: 1475228187
+ip: 89.235.235.166
+revision: 10
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -8,6 +17,9 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	* [[File:ITT0050_HW1.jpg]]
 	* [[File:ITT0050_HW1_part2.jpg]]
 	
+	**Teine koduülesanne**
+	
+	*[[File:20160930_112124.jpg]]
 	
 	
 	----
@@ -17,16 +29,5 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-keep-ts: 1474471350
-ip: 89.235.235.166
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
-host: 85.253.108.27
-lastmajor: 8
-languages: 
-ts: 1474471350
-summary: Remove placeholder
-lastmajorsummary: homework 1
-minor: 1
-username: AlexDaniel
-revision: 9
-flags: 1
+ts: 1475228187
+summary: Teine koduülesanne ITT0050
