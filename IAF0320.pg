@@ -1,13 +1,7 @@
-username: AlexDaniel
-keep-ts: 1475363430
-ip: 89.235.235.166
-ts: 1475363430
-revision: 13
-lastmajor: 13
-host: 85.253.108.27
+flags: 1
 lastmajorsummary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
-minor: 
 summary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
+minor: 
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -17,4 +11,12 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	Actual 
 	
+ts: 1475363430
+username: AlexDaniel
 languages: 
+keep-ts: 1475363430
+revision: 13
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+lastmajor: 13
+host: 85.253.108.27
+ip: 89.235.235.166
