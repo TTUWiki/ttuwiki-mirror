@@ -1,10 +1,13 @@
-ts: 1441924448
-flags: 1
 languages: 
+username: AlexDaniel
+ts: 1441924448
+flags: 10
+keep-ts: 1441924448
 ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:106069 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+revision: 4
 text: #SUBTITLE Erirõivaste projekteerimine
 	#SUBURL [Course:106069 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +23,5 @@ text: #SUBTITLE Erirõivaste projekteerimine
 	#LANG_END
 	
 	
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
+blocks: [Course:106069 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1

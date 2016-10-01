@@ -1,6 +1,12 @@
+revision: 2
+host: 82.131.7.230
+flags: 10
 languages: 
+minor: 1
+keep-ts: 1441924452
+blocks: [Course:109066 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Meresadamate ehitus
 	#SUBURL [Course:109066 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +22,4 @@ text: #SUBTITLE Meresadamate ehitus
 	#LANG_END
 	
 	
-blocks: [Course:109066 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-host: 82.131.7.230
-username: AlexDaniel
-minor: 1
-flags: 1
-revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

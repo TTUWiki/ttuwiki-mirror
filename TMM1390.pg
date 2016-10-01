@@ -1,13 +1,11 @@
-username: AlexDaniel
-ts: 1441924451
-languages: 
-flags: 1
-ip: 89.235.235.166
-keep-ts: 1441924451
-revision: 4
-minor: 1
-host: 82.131.7.230
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:36265 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+keep-ts: 1441924451
+username: AlexDaniel
+revision: 4
+languages: 
 text: #SUBTITLE Suhtlustreening
 	#SUBURL [Course:36265 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +21,7 @@ text: #SUBTITLE Suhtlustreening
 	#LANG_END
 	
 	
-blocks: [Course:36265 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
+ip: 89.235.235.166
+ts: 1441924451

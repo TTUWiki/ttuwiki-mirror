@@ -1,6 +1,15 @@
+revision: 4
+languages: 
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+blocks: [Course:105309 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 keep-ts: 1441924449
+username: AlexDaniel
+ts: 1441924449
+host: 82.131.7.230
 minor: 1
-flags: 1
 text: #SUBTITLE Elektripaigaldised
 	#SUBURL [Course:105309 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Elektripaigaldised
 	#LANG_END
 	
 	
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924449
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:105309 〔Õppeaine ÕIS-is〕]
-revision: 4

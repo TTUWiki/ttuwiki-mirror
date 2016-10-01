@@ -1,9 +1,5 @@
-keep-ts: 1441924452
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-languages: 
-minor: 1
+ts: 1441924452
 text: #SUBTITLE Kalakäitlemise ja kvaliteedikontrolli praktika
 	#SUBURL [Course:110187 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +15,11 @@ text: #SUBTITLE Kalakäitlemise ja kvaliteedikontrolli praktika
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:110187 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:110187 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924452
 revision: 2
+host: 82.131.7.230
+minor: 1

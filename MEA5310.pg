@@ -1,4 +1,9 @@
-blocks: [Course:28525 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+revision: 4
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
+ts: 1441924448
 text: #SUBTITLE Automootorid
 	#SUBURL [Course:28525 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +19,9 @@ text: #SUBTITLE Automootorid
 	#LANG_END
 	
 	
-lastmajor: 2
-flags: 1
-keep-ts: 1441924448
-revision: 4
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 minor: 1
-ts: 1441924448
-host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2
+languages: 
+blocks: [Course:28525 〔Õppeaine ÕIS-is〕]</div></div>

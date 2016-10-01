@@ -1,5 +1,10 @@
-blocks: [Course:102031 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
 ip: 89.235.235.166
+keep-ts: 1441924451
+blocks: [Course:102031 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Tarbijakäitumine
 	#SUBURL [Course:102031 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Tarbijakäitumine
 	#LANG_END
 	
 	
-lastmajor: 2
-ts: 1441924451
-username: AlexDaniel
-revision: 4
-host: 82.131.7.230
 minor: 1
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924451
+host: 82.131.7.230
+revision: 4
+ts: 1441924451
+flags: 10

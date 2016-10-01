@@ -1,9 +1,11 @@
-blocks: [Course:109896 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924449
-keep-ts: 1441924449
-flags: 1
+revision: 2
 minor: 1
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924449
+flags: 10
+languages: 
+keep-ts: 1441924449
 text: #SUBTITLE Massileviprotsessid
 	#SUBURL [Course:109896 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +22,4 @@ text: #SUBTITLE Massileviprotsessid
 	
 	
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-username: AlexDaniel
-revision: 2
+blocks: [Course:109896 〔Õppeaine ÕIS-is〕]</div></div>

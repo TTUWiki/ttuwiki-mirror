@@ -1,10 +1,9 @@
 languages: 
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:39282 〔Õppeaine ÕIS-is〕]
-minor: 1
 lastmajor: 2
+ip: 89.235.235.166
 revision: 4
+keep-ts: 1441924450
+username: AlexDaniel
 host: 82.131.7.230
 text: #SUBTITLE Kivikonstruktsioonid
 	#SUBURL [Course:39282 〔Õppeaine ÕIS-is〕]
@@ -21,7 +20,8 @@ text: #SUBTITLE Kivikonstruktsioonid
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-ts: 1441924450
-username: AlexDaniel
+flags: 10
+blocks: [Course:39282 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+minor: 1

@@ -1,13 +1,13 @@
-host: 82.131.7.230
-username: AlexDaniel
-lastmajor: 2
 revision: 4
 minor: 1
-keep-ts: 1441924444
-flags: 1
-ip: 89.235.235.166
-ts: 1441924444
 languages: 
+keep-ts: 1441924444
+flags: 10
+blocks: [Course:33586 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ts: 1441924444
 text: #SUBTITLE Äritegevuse alused - ainetöö
 	#SUBURL [Course:33586 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Äritegevuse alused - ainetöö
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:33586 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel

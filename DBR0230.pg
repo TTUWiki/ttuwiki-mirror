@@ -1,3 +1,7 @@
+keep-ts: 1441924444
+blocks: [Course:101858 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Kiirguse bioloogiline mõju
 	#SUBURL [Course:101858 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +17,11 @@ text: #SUBTITLE Kiirguse bioloogiline mõju
 	#LANG_END
 	
 	
-flags: 1
-languages: 
-ts: 1441924444
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-revision: 4
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
-blocks: [Course:101858 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+minor: 1
+languages: 
+revision: 4
+ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

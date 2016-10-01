@@ -1,12 +1,11 @@
-host: 82.131.7.230
-flags: 1
-keep-ts: 1441924452
-languages: 
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
-ts: 1441924452
 revision: 2
+flags: 10
+languages: 
+blocks: [Course:109147 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924452
+username: AlexDaniel
+ts: 1441924452
 text: #SUBTITLE Vene keel I (võõrkeelena)
 	#SUBURL [Course:109147 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +21,5 @@ text: #SUBTITLE Vene keel I (võõrkeelena)
 	#LANG_END
 	
 	
-blocks: [Course:109147 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+minor: 1

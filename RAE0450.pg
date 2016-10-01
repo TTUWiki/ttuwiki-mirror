@@ -1,6 +1,12 @@
-keep-ts: 1441924449
-languages: 
 minor: 1
+revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+languages: 
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924449
+blocks: [Course:109738 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Mäetööd ja -masinad
 	#SUBURL [Course:109738 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +22,4 @@ text: #SUBTITLE Mäetööd ja -masinad
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-blocks: [Course:109738 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-host: 82.131.7.230
-flags: 1
-username: AlexDaniel
+flags: 10

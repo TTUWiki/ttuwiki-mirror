@@ -1,4 +1,15 @@
+host: 82.131.7.230
+revision: 4
+languages: 
+ip: 89.235.235.166
+lastmajor: 2
+ts: 1441924451
+blocks: [Course:28033 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924451
+flags: 10
+minor: 1
 text: #SUBTITLE Teenindusökonoomika
 	#SUBURL [Course:28033 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +25,3 @@ text: #SUBTITLE Teenindusökonoomika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-revision: 4
-flags: 1
-host: 82.131.7.230
-languages: 
-blocks: [Course:28033 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-ts: 1441924451
-minor: 1
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

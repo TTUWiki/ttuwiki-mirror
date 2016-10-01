@@ -1,6 +1,6 @@
-keep-ts: 1441924450
-username: AlexDaniel
 ip: 89.235.235.166
+username: AlexDaniel
+keep-ts: 1441924450
 text: #SUBTITLE Personalijuhtimine
 	#SUBURL [Course:34144 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Personalijuhtimine
 	#LANG_END
 	
 	
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-host: 82.131.7.230
-lastmajor: 2
-ts: 1441924450
-revision: 4
-blocks: [Course:34144 〔Õppeaine ÕIS-is〕]
-flags: 1
 minor: 1
+revision: 4
+lastmajor: 2
+blocks: [Course:34144 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924450
+flags: 10

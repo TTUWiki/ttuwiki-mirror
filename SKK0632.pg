@@ -1,13 +1,9 @@
-lastmajor: 2
-blocks: [Course:34160 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
 revision: 4
-languages: 
-minor: 1
-keep-ts: 1441924450
+username: AlexDaniel
+lastmajor: 2
+blocks: [Course:34160 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ts: 1441924450
 text: #SUBTITLE Toiduvalmistamise tehnoloogia II - ainetöö
 	#SUBURL [Course:34160 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +19,9 @@ text: #SUBTITLE Toiduvalmistamise tehnoloogia II - ainetöö
 	#LANG_END
 	
 	
-flags: 1
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+ip: 89.235.235.166
+languages: 
+flags: 10
+minor: 1

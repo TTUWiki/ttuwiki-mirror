@@ -1,5 +1,12 @@
 minor: 1
-ts: 1441924444
+host: 82.131.7.230
+ip: 89.235.235.166
+keep-ts: 1441924444
+languages: 
+flags: 10
+blocks: [Course:101894 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Teadusartiklite koostamine
 	#SUBURL [Course:101894 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +22,6 @@ text: #SUBTITLE Teadusartiklite koostamine
 	#LANG_END
 	
 	
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-blocks: [Course:101894 〔Õppeaine ÕIS-is〕]
 revision: 4
-lastmajor: 2
-host: 82.131.7.230
-languages: 
-keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444

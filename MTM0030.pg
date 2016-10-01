@@ -1,10 +1,10 @@
-blocks: [Course:29308 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-revision: 4
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924448
 lastmajor: 2
-flags: 1
+ip: 89.235.235.166
+languages: 
+blocks: [Course:29308 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Materjali ja valmistustehnoloogia valik
 	#SUBURL [Course:29308 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +20,8 @@ text: #SUBTITLE Materjali ja valmistustehnoloogia valik
 	#LANG_END
 	
 	
-minor: 1
+revision: 4
 host: 82.131.7.230
+username: AlexDaniel
+flags: 10
 ts: 1441924448
-keep-ts: 1441924448
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,4 +1,10 @@
+minor: 1
+host: 82.131.7.230
+flags: 10
+lastmajor: 2
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
 text: #SUBTITLE Joonistamine IV
 	#SUBURL [Course:107112 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +20,8 @@ text: #SUBTITLE Joonistamine IV
 	#LANG_END
 	
 	
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:107112 〔Õppeaine ÕIS-is〕]
 languages: 
 keep-ts: 1441924445
-host: 82.131.7.230
+blocks: [Course:107112 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-ts: 1441924445
-lastmajor: 2
-flags: 1
-minor: 1
+revision: 4

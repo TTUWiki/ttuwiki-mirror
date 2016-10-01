@@ -1,3 +1,15 @@
+minor: 1
+ip: 89.235.235.166
+revision: 4
+host: 82.131.7.230
+flags: 10
+keep-ts: 1441924449
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+blocks: [Course:37669 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924449
 text: #SUBTITLE Anorgaaniline keemia - praktikum
 	#SUBURL [Course:37669 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Anorgaaniline keemia - praktikum
 	#LANG_END
 	
 	
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-ip: 89.235.235.166
-blocks: [Course:37669 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-username: AlexDaniel
-minor: 1
-host: 82.131.7.230
-languages: 
-flags: 1
-revision: 4

@@ -1,15 +1,12 @@
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:29318 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-keep-ts: 1441924452
-minor: 1
-languages: 
-flags: 1
-host: 82.131.7.230
 revision: 4
+blocks: [Course:29318 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+flags: 10
+host: 82.131.7.230
+keep-ts: 1441924452
+languages: 
+lastmajor: 2
+ts: 1441924452
 text: #SUBTITLE Matemaatikapaketid
 	#SUBURL [Course:29318 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Matemaatikapaketid
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,12 +1,6 @@
-flags: 1
+blocks: [Course:108852 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-blocks: [Course:108852 〔Õppeaine ÕIS-is〕]
-revision: 2
-host: 82.131.7.230
-ts: 1441924452
-languages: 
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 text: #SUBTITLE Juhtimispsühholoogia
 	#SUBURL [Course:108852 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +16,10 @@ text: #SUBTITLE Juhtimispsühholoogia
 	#LANG_END
 	
 	
-keep-ts: 1441924452
+ts: 1441924452
+host: 82.131.7.230
+flags: 10
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2

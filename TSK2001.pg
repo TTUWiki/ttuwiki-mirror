@@ -1,6 +1,8 @@
-minor: 1
-keep-ts: 1441924451
+host: 82.131.7.230
 ts: 1441924451
+keep-ts: 1441924451
+username: AlexDaniel
+lastmajor: 2
 text: #SUBTITLE Kultuuridevaheline suhtlemine
 	#SUBURL [Course:104985 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +18,10 @@ text: #SUBTITLE Kultuuridevaheline suhtlemine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:104985 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
 ip: 89.235.235.166
+minor: 1
+revision: 4
+blocks: [Course:104985 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+languages: 

@@ -1,14 +1,10 @@
-ip: 89.235.235.166
-minor: 1
-revision: 4
-flags: 1
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-lastmajor: 2
-blocks: [Course:39234 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Kujutav geomeetria
 	#SUBURL [Course:39234 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +20,8 @@ text: #SUBTITLE Kujutav geomeetria
 	#LANG_END
 	
 	
+blocks: [Course:39234 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+lastmajor: 2
 ts: 1441924449
+languages: 

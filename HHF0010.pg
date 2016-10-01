@@ -1,15 +1,8 @@
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-keep-ts: 1441924445
-languages: 
-ts: 1441924445
-flags: 1
-blocks: [Course:31785 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31785 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
-minor: 1
-host: 82.131.7.230
-lastmajor: 2
+languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Filosoofia põhiprobleemid
 	#SUBURL [Course:31785 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +18,10 @@ text: #SUBTITLE Filosoofia põhiprobleemid
 	#LANG_END
 	
 	
+host: 82.131.7.230
+minor: 1
+revision: 4
+lastmajor: 2
+ts: 1441924445
+keep-ts: 1441924445
+ip: 89.235.235.166

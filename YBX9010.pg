@@ -1,12 +1,4 @@
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
 ip: 89.235.235.166
-username: AlexDaniel
-blocks: [Course:32951 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
 text: #SUBTITLE Biomeditsiinitehnoloogia doktoriseminar
 	#SUBURL [Course:32951 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +14,14 @@ text: #SUBTITLE Biomeditsiinitehnoloogia doktoriseminar
 	#LANG_END
 	
 	
-ts: 1441924452
-flags: 1
 minor: 1
+username: AlexDaniel
+ts: 1441924452
+keep-ts: 1441924452
+host: 82.131.7.230
+revision: 4
+blocks: [Course:32951 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 

@@ -1,9 +1,12 @@
-blocks: [Course:109502 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924444
+revision: 2
+blocks: [Course:109502 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924444
+languages: 
 minor: 1
+flags: 10
+ts: 1441924444
 text: #SUBTITLE Arhitektuuri ja linnaehitusteooriate peegeldused 2
 	#SUBURL [Course:109502 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +22,4 @@ text: #SUBTITLE Arhitektuuri ja linnaehitusteooriate peegeldused 2
 	#LANG_END
 	
 	
-flags: 1
-revision: 2
-ts: 1441924444
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

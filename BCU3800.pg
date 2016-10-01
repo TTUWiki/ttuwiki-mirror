@@ -1,6 +1,15 @@
-host: 82.131.7.230
-blocks: [Course:101711 〔Õppeaine ÕIS-is〕]
+blocks: [Course:101711 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+lastmajor: 2
+minor: 1
+ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924444
+keep-ts: 1441924444
+flags: 10
+revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Äriõiguse erialapraktika
 	#SUBURL [Course:101711 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Äriõiguse erialapraktika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-minor: 1
-revision: 4
-keep-ts: 1441924444

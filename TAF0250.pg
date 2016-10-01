@@ -1,3 +1,10 @@
+revision: 4
+minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+blocks: [Course:102313 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Maksundus
 	#SUBURL [Course:102313 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +20,8 @@ text: #SUBTITLE Maksundus
 	#LANG_END
 	
 	
-blocks: [Course:102313 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924450
-username: AlexDaniel
-ip: 89.235.235.166
 ts: 1441924450
-revision: 4
-minor: 1
-flags: 1
+keep-ts: 1441924450
+languages: 
+lastmajor: 2
+username: AlexDaniel

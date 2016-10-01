@@ -1,11 +1,3 @@
-lastmajor: 2
-ip: 89.235.235.166
-languages: 
-revision: 4
-minor: 1
-ts: 1441924452
-username: AlexDaniel
-flags: 1
 keep-ts: 1441924452
 text: #SUBTITLE Bakalaureusetöö seminar
 	#SUBURL [Course:102179 〔Õppeaine ÕIS-is〕]
@@ -22,6 +14,14 @@ text: #SUBTITLE Bakalaureusetöö seminar
 	#LANG_END
 	
 	
+lastmajor: 2
+ip: 89.235.235.166
 host: 82.131.7.230
+flags: 10
+minor: 1
+username: AlexDaniel
+ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:102179 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102179 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+languages: 

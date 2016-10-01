@@ -1,14 +1,13 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924445
-languages: 
-blocks: [Course:37867 〔Õppeaine ÕIS-is〕]
-revision: 4
-lastmajor: 2
+blocks: [Course:37867 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
+username: AlexDaniel
 minor: 1
-flags: 1
-ip: 89.235.235.166
+keep-ts: 1441924445
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 
+lastmajor: 2
+ts: 1441924445
 text: #SUBTITLE Geotehnika alused
 	#SUBURL [Course:37867 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Geotehnika alused
 	#LANG_END
 	
 	
-keep-ts: 1441924445
+ip: 89.235.235.166
+flags: 10

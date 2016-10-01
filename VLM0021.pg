@@ -1,4 +1,8 @@
-revision: 2
+flags: 10
+minor: 1
+host: 82.131.7.230
+languages: 
+blocks: [Course:108836 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Inglise keel M I/1
 	#SUBURL [Course:108836 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +18,8 @@ text: #SUBTITLE Inglise keel M I/1
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
-languages: 
-blocks: [Course:108836 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
-host: 82.131.7.230
+revision: 2
+username: AlexDaniel

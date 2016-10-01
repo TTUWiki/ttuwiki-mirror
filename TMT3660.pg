@@ -1,14 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+flags: 10
 minor: 1
-blocks: [Course:39618 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-keep-ts: 1441924451
-username: AlexDaniel
 languages: 
-lastmajor: 2
-ip: 89.235.235.166
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Riski- ja ohutusõpetus materjalide töötlemisel
 	#SUBURL [Course:39618 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +17,11 @@ text: #SUBTITLE Riski- ja ohutusõpetus materjalide töötlemisel
 	#LANG_END
 	
 	
-flags: 1
+lastmajor: 2
+host: 82.131.7.230
+ts: 1441924451
+blocks: [Course:39618 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451
+ip: 89.235.235.166
+revision: 4
+username: AlexDaniel

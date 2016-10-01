@@ -13,15 +13,15 @@ text: #SUBTITLE Orgaaniline keemia - praktikum
 	#LANG_END
 	
 	
-minor: 1
-ts: 1441924449
+username: AlexDaniel
 ip: 89.235.235.166
 lastmajor: 2
+minor: 1
+keep-ts: 1441924449
+ts: 1441924449
+blocks: [Course:37673 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
+host: 82.131.7.230
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-flags: 1
-blocks: [Course:37673 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
+flags: 10

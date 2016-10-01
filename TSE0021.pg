@@ -1,15 +1,14 @@
-flags: 1
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924451
-keep-ts: 1441924451
+flags: 10
+languages: 
 lastmajor: 2
-blocks: [Course:102224 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 ip: 89.235.235.166
+keep-ts: 1441924451
+blocks: [Course:102224 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
 minor: 1
-revision: 4
-languages: 
 text: #SUBTITLE Euroopa Liidu poliitikad
 	#SUBURL [Course:102224 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +24,4 @@ text: #SUBTITLE Euroopa Liidu poliitikad
 	#LANG_END
 	
 	
+ts: 1441924451

@@ -1,9 +1,12 @@
-ip: 89.235.235.166
-blocks: [Course:39305 〔Õppeaine ÕIS-is〕]
-languages: 
+username: AlexDaniel
 host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924450
+languages: 
+lastmajor: 2
+blocks: [Course:39305 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924450
 text: #SUBTITLE Vundamendid - projekt
 	#SUBURL [Course:39305 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +22,6 @@ text: #SUBTITLE Vundamendid - projekt
 	#LANG_END
 	
 	
-ts: 1441924450
-username: AlexDaniel
-flags: 1
-lastmajor: 2
-revision: 4
-keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1

@@ -1,3 +1,5 @@
+host: 82.131.7.230
+lastmajor: 2
 text: #SUBTITLE Inseneripraktika II
 	#SUBURL [Course:39324 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +15,13 @@ text: #SUBTITLE Inseneripraktika II
 	#LANG_END
 	
 	
-flags: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+minor: 1
+flags: 10
+revision: 4
+username: AlexDaniel
+ip: 89.235.235.166
 keep-ts: 1441924450
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-revision: 4
-ts: 1441924450
-blocks: [Course:39324 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-ip: 89.235.235.166
+blocks: [Course:39324 〔Õppeaine ÕIS-is〕]</div></div>

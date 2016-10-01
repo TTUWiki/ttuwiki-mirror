@@ -1,15 +1,8 @@
-flags: 1
-ip: 89.235.235.166
-blocks: [Course:37392 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-keep-ts: 1441924451
-languages: 
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 username: AlexDaniel
-host: 82.131.7.230
 revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924451
+host: 82.131.7.230
 text: #SUBTITLE Turunduse eriseminar
 	#SUBURL [Course:37392 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +18,10 @@ text: #SUBTITLE Turunduse eriseminar
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+lastmajor: 2
+languages: 
+blocks: [Course:37392 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924451
+minor: 1

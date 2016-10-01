@@ -1,4 +1,10 @@
-username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39917 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924452
+minor: 1
+ts: 1441924452
+revision: 4
 text: #SUBTITLE Moodsad eksperimenditehnikad tahke keha füüsikas
 	#SUBURL [Course:39917 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +20,8 @@ text: #SUBTITLE Moodsad eksperimenditehnikad tahke keha füüsikas
 	#LANG_END
 	
 	
-revision: 4
-lastmajor: 2
-keep-ts: 1441924452
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:39917 〔Õppeaine ÕIS-is〕]
-flags: 1
 languages: 
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 2

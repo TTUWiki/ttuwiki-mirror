@@ -1,8 +1,3 @@
-lastmajor: 2
-keep-ts: 1441924450
-minor: 1
-languages: 
-blocks: [Course:39264 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ehitusmasinad
 	#SUBURL [Course:39264 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +13,15 @@ text: #SUBTITLE Ehitusmasinad
 	#LANG_END
 	
 	
-revision: 4
-flags: 1
-username: AlexDaniel
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
+revision: 4
+keep-ts: 1441924450
+flags: 10
+minor: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:39264 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924450
+lastmajor: 2
+languages: 

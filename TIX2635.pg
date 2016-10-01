@@ -1,11 +1,8 @@
-flags: 1
-lastmajor: 2
-minor: 1
+flags: 10
+keep-ts: 1441924451
+revision: 4
 host: 82.131.7.230
-languages: 
 ip: 89.235.235.166
-ts: 1441924451
-blocks: [Course:100429 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Baltimere maade ja Venemaa majandus
 	#SUBURL [Course:100429 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Baltimere maade ja Venemaa majandus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-revision: 4
+minor: 1
+ts: 1441924451
 username: AlexDaniel
+blocks: [Course:100429 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,13 +1,4 @@
-keep-ts: 1441924445
-languages: 
-ts: 1441924445
-ip: 89.235.235.166
-minor: 1
-flags: 1
-blocks: [Course:106225 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 82.131.7.230
-revision: 4
+lastmajor: 2
 text: #SUBTITLE Lennutransport
 	#SUBURL [Course:106225 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Lennutransport
 	#LANG_END
 	
 	
+flags: 10
+ts: 1441924445
+blocks: [Course:106225 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+username: AlexDaniel
+keep-ts: 1441924445
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+host: 82.131.7.230
+minor: 1
+languages: 
+ip: 89.235.235.166

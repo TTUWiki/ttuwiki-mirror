@@ -1,8 +1,8 @@
-host: 82.131.7.230
-minor: 1
-keep-ts: 1441924450
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-revision: 4
+ip: 89.235.235.166
+ts: 1441924450
 text: #SUBTITLE Insenerigeodeesia
 	#SUBURL [Course:39258 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +18,10 @@ text: #SUBTITLE Insenerigeodeesia
 	#LANG_END
 	
 	
+flags: 10
+blocks: [Course:39258 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:39258 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-username: AlexDaniel
+revision: 4
+minor: 1
+host: 82.131.7.230
+keep-ts: 1441924450

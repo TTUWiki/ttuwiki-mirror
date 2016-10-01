@@ -1,8 +1,8 @@
-ip: 89.235.235.166
-blocks: [Course:39212 〔Õppeaine ÕIS-is〕]
-languages: 
 username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+host: 82.131.7.230
+keep-ts: 1441924449
 text: #SUBTITLE Üldplaneeringu koostamine
 	#SUBURL [Course:39212 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +18,10 @@ text: #SUBTITLE Üldplaneeringu koostamine
 	#LANG_END
 	
 	
-keep-ts: 1441924449
-flags: 1
-lastmajor: 2
+flags: 10
+blocks: [Course:39212 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+languages: 
 ts: 1441924449
 revision: 4
-host: 82.131.7.230
+ip: 89.235.235.166

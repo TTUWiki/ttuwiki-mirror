@@ -1,11 +1,15 @@
-minor: 1
-flags: 1
 languages: 
-lastmajor: 5
-ip: 89.235.235.166
-username: AlexDaniel
-revision: 6
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
+blocks: [Course:39266 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 keep-ts: 1441924450
+lastmajor: 5
+username: AlexDaniel
+ip: 89.235.235.166
+ts: 1441924450
+revision: 6
 text: #SUBTITLE Ehitusplatsi korraldus - projekt
 	#SUBURL [Course:39266 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +25,3 @@ text: #SUBTITLE Ehitusplatsi korraldus - projekt
 	#LANG_END
 	
 	
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:39266 〔Õppeaine ÕIS-is〕]

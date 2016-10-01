@@ -1,9 +1,15 @@
-host: 82.131.7.230
-minor: 1
-blocks: [Course:100356 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924445
+languages: 
+blocks: [Course:100356 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
+keep-ts: 1441924445
+ip: 89.235.235.166
+minor: 1
+host: 82.131.7.230
+lastmajor: 2
+flags: 10
+ts: 1441924445
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Projekteerimispraktika
 	#SUBURL [Course:100356 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +25,3 @@ text: #SUBTITLE Projekteerimispraktika
 	#LANG_END
 	
 	
-keep-ts: 1441924445
-username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 

@@ -1,13 +1,15 @@
+ip: 89.235.235.166
+keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
 minor: 1
-ts: 1441924448
-keep-ts: 1441924448
-revision: 4
-languages: 
 host: 82.131.7.230
+flags: 10
+ts: 1441924448
+revision: 4
 lastmajor: 2
-flags: 1
-blocks: [Course:30194 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:30194 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Toiduvalmistamise tehnoloogia - praktikum
 	#SUBURL [Course:30194 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +25,3 @@ text: #SUBTITLE Toiduvalmistamise tehnoloogia - praktikum
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166

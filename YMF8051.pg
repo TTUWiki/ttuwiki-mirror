@@ -1,11 +1,8 @@
-host: 82.131.7.230
-keep-ts: 1441924452
-revision: 4
-minor: 1
-blocks: [Course:106021 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924452
 lastmajor: 2
+minor: 1
+blocks: [Course:106021 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Matemaatika eriseminar I
 	#SUBURL [Course:106021 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE Matemaatika eriseminar I
 	
 username: AlexDaniel
 languages: 
-flags: 1
-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+keep-ts: 1441924452
+ip: 89.235.235.166
+host: 82.131.7.230

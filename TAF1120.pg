@@ -1,13 +1,11 @@
-revision: 4
-minor: 1
-host: 82.131.7.230
+username: AlexDaniel
+keep-ts: 1441924450
+lastmajor: 2
 ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+flags: 10
 languages: 
-lastmajor: 2
 ts: 1441924450
-blocks: [Course:101190 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Kontserniarvestus
 	#SUBURL [Course:101190 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +21,7 @@ text: #SUBTITLE Kontserniarvestus
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-username: AlexDaniel
+blocks: [Course:101190 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+host: 82.131.7.230
+revision: 4

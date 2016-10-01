@@ -1,5 +1,13 @@
-flags: 1
+blocks: [Course:106876 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 host: 82.131.7.230
+flags: 10
+revision: 2
+ts: 1441924449
+keep-ts: 1441924449
+minor: 1
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#SUBURL [Course:106876 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +23,3 @@ text: #SUBTITLE Algoritmid ja andmestruktuurid
 	#LANG_END
 	
 	
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:106876 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924449
-ts: 1441924449
-revision: 2
-username: AlexDaniel
