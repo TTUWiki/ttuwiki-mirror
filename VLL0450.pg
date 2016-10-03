@@ -1,12 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-host: 82.131.7.230
-flags: 1
-blocks: [Course:108933 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-ts: 1441924452
-username: AlexDaniel
 minor: 1
+keep-ts: 1441924452
+host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Meresõidupraktika I
 	#SUBURL [Course:108933 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +17,9 @@ text: #SUBTITLE Meresõidupraktika I
 	#LANG_END
 	
 	
+flags: 10
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+revision: 2
+blocks: [Course:108933 〔Õppeaine ÕIS-is〕]</div></div>

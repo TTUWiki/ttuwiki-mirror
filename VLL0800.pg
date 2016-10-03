@@ -1,8 +1,5 @@
-revision: 2
-flags: 1
-blocks: [Course:109186 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924452
+ts: 1441924452
+flags: 10
 text: #SUBTITLE Laeva juhtimine
 	#SUBURL [Course:109186 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +15,11 @@ text: #SUBTITLE Laeva juhtimine
 	#LANG_END
 	
 	
-username: AlexDaniel
 host: 82.131.7.230
-ts: 1441924452
-minor: 1
+blocks: [Course:109186 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924452
+username: AlexDaniel
+minor: 1
+revision: 2
