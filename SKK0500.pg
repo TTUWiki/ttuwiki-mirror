@@ -1,4 +1,13 @@
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:34154 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+lastmajor: 2
+minor: 1
+ip: 89.235.235.166
+revision: 4
+ts: 1441924450
+flags: 10
 text: #SUBTITLE Hotellinduse alused
 	#SUBURL [Course:34154 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +23,5 @@ text: #SUBTITLE Hotellinduse alused
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-minor: 1
-keep-ts: 1441924450
-lastmajor: 2
-revision: 4
-ts: 1441924450
-blocks: [Course:34154 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 languages: 
-flags: 1
+keep-ts: 1441924450

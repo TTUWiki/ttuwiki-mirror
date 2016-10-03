@@ -1,13 +1,11 @@
-languages: 
 host: 82.131.7.230
-blocks: [Course:109138 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924452
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
-revision: 2
+ts: 1441924452
 minor: 1
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:109138 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Külmutustehnoloogia
 	#SUBURL [Course:109138 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +21,5 @@ text: #SUBTITLE Külmutustehnoloogia
 	#LANG_END
 	
 	
+flags: 10
+revision: 2

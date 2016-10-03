@@ -1,14 +1,6 @@
-lastmajor: 2
-flags: 1
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ip: 89.235.235.166
-keep-ts: 1441924452
-languages: 
-revision: 4
-blocks: [Course:32565 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+blocks: [Course:32565 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Füüsikaline optika
 	#SUBURL [Course:32565 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Füüsikaline optika
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ip: 89.235.235.166
+languages: 
 minor: 1
+keep-ts: 1441924452
+username: AlexDaniel
+ts: 1441924452
+revision: 4

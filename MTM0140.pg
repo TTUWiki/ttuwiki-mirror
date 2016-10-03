@@ -1,12 +1,4 @@
-languages: 
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924448
-revision: 4
-minor: 1
-blocks: [Course:103691 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Materjaliõpetus
 	#SUBURL [Course:103691 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +14,14 @@ text: #SUBTITLE Materjaliõpetus
 	#LANG_END
 	
 	
+username: AlexDaniel
 keep-ts: 1441924448
-flags: 1
+flags: 10
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+languages: 
 ip: 89.235.235.166
+blocks: [Course:103691 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924448
+lastmajor: 2

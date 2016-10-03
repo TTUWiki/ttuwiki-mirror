@@ -1,13 +1,6 @@
-blocks: [Course:38048 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-flags: 1
-keep-ts: 1441924445
-revision: 4
-ip: 89.235.235.166
 minor: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
+flags: 10
 text: #SUBTITLE Rahvusvaheline kriisireguleerimine
 	#SUBURL [Course:38048 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +16,12 @@ text: #SUBTITLE Rahvusvaheline kriisireguleerimine
 	#LANG_END
 	
 	
+ts: 1441924445
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:38048 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+host: 82.131.7.230
+ip: 89.235.235.166
 languages: 
+keep-ts: 1441924445

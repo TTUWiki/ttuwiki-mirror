@@ -1,9 +1,12 @@
-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-username: AlexDaniel
+keep-ts: 1441924452
+blocks: [Course:108849 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 revision: 2
-blocks: [Course:108849 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+flags: 10
+username: AlexDaniel
+languages: 
 text: #SUBTITLE Eetika ja etikett
 	#SUBURL [Course:108849 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +22,4 @@ text: #SUBTITLE Eetika ja etikett
 	#LANG_END
 	
 	
-flags: 1
-keep-ts: 1441924452
 minor: 1
-host: 82.131.7.230

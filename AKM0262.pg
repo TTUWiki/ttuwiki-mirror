@@ -1,10 +1,10 @@
+username: AlexDaniel
 lastmajor: 2
-flags: 1
+keep-ts: 1441924444
+flags: 10
 revision: 4
-minor: 1
-blocks: [Course:100642 〔Õppeaine ÕIS-is〕]
-languages: 
-ip: 89.235.235.166
+host: 82.131.7.230
+ts: 1441924444
 text: #SUBTITLE Geotehnoloogia õppepraktika
 	#SUBURL [Course:100642 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +20,8 @@ text: #SUBTITLE Geotehnoloogia õppepraktika
 	#LANG_END
 	
 	
-ts: 1441924444
+ip: 89.235.235.166
+minor: 1
+blocks: [Course:100642 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-host: 82.131.7.230
-username: AlexDaniel

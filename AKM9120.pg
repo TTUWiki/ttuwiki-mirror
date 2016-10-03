@@ -1,8 +1,6 @@
-flags: 1
-minor: 1
-username: AlexDaniel
-host: 82.131.7.230
+ip: 89.235.235.166
 lastmajor: 2
+revision: 4
 text: #SUBTITLE Eriseminar
 	#SUBURL [Course:32796 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +16,12 @@ text: #SUBTITLE Eriseminar
 	#LANG_END
 	
 	
-ts: 1441924444
 languages: 
-revision: 4
-blocks: [Course:32796 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+minor: 1
+username: AlexDaniel
 keep-ts: 1441924444
+flags: 10
+host: 82.131.7.230
+blocks: [Course:32796 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166

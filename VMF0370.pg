@@ -1,5 +1,7 @@
-keep-ts: 1441924452
-blocks: [Course:109134 〔Õppeaine ÕIS-is〕]
+revision: 2
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 text: #SUBTITLE Tehnoloogiline praktika kalakäitlemise ettevõttes
 	#SUBURL [Course:109134 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +17,9 @@ text: #SUBTITLE Tehnoloogiline praktika kalakäitlemise ettevõttes
 	#LANG_END
 	
 	
-revision: 2
-languages: 
-flags: 1
-ts: 1441924452
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109134 〔Õppeaine ÕIS-is〕]</div></div>
 username: AlexDaniel
 minor: 1
+keep-ts: 1441924452
+host: 82.131.7.230
+ts: 1441924452

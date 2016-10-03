@@ -1,9 +1,9 @@
-languages: 
-flags: 1
-revision: 2
-host: 82.131.7.230
-minor: 1
 ts: 1441924452
+keep-ts: 1441924452
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+minor: 1
 text: #SUBTITLE Infotehnoloogia meretranspordil
 	#SUBURL [Course:109316 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +19,7 @@ text: #SUBTITLE Infotehnoloogia meretranspordil
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-blocks: [Course:109316 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
 username: AlexDaniel
+blocks: [Course:109316 〔Õppeaine ÕIS-is〕]</div></div>

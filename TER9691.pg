@@ -1,3 +1,14 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
+lastmajor: 2
+revision: 4
+username: AlexDaniel
+keep-ts: 1441924450
+languages: 
+ip: 89.235.235.166
+ts: 1441924450
+blocks: [Course:103127 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Rahvusvaheline rahandus
 	#SUBURL [Course:103127 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +24,4 @@ text: #SUBTITLE Rahvusvaheline rahandus
 	#LANG_END
 	
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 4
-ip: 89.235.235.166
-host: 82.131.7.230
-flags: 1
-ts: 1441924450
-minor: 1
-lastmajor: 2
-blocks: [Course:103127 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924450
+flags: 10

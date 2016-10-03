@@ -1,13 +1,13 @@
+ts: 1441924445
 username: AlexDaniel
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
 host: 82.131.7.230
-flags: 1
-languages: 
+revision: 4
+keep-ts: 1441924445
 minor: 1
 ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:108419 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Transpordi planeerimise eripeatükid
 	#SUBURL [Course:108419 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Transpordi planeerimise eripeatükid
 	#LANG_END
 	
 	
-revision: 4
-ts: 1441924445
+blocks: [Course:108419 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

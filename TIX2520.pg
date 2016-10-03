@@ -1,5 +1,7 @@
-languages: 
-keep-ts: 1441924451
+minor: 1
+host: 82.131.7.230
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Matemaatika
 	#SUBURL [Course:40691 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +17,11 @@ text: #SUBTITLE Matemaatika
 	#LANG_END
 	
 	
-revision: 4
+blocks: [Course:40691 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-blocks: [Course:40691 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-username: AlexDaniel
-host: 82.131.7.230
-minor: 1
+keep-ts: 1441924451
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+revision: 4
+username: AlexDaniel
+languages: 
+flags: 10

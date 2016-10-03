@@ -1,8 +1,6 @@
+flags: 10
 username: AlexDaniel
-ts: 1441924448
 minor: 1
-host: 82.131.7.230
-languages: 
 text: #SUBTITLE Geoloogilised protsessid maakoores
 	#SUBURL [Course:109831 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +16,10 @@ text: #SUBTITLE Geoloogilised protsessid maakoores
 	#LANG_END
 	
 	
-blocks: [Course:109831 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109831 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 keep-ts: 1441924448
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+revision: 2

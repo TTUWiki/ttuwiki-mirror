@@ -1,10 +1,3 @@
-revision: 4
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-blocks: [Course:106317 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
 text: #SUBTITLE Tootmis- ja teeninduskorraldus
 	#SUBURL [Course:106317 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +13,15 @@ text: #SUBTITLE Tootmis- ja teeninduskorraldus
 	#LANG_END
 	
 	
-username: AlexDaniel
 ip: 89.235.235.166
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924451
+languages: 
 host: 82.131.7.230
+minor: 1
+revision: 4
+blocks: [Course:106317 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924451
+flags: 10
+lastmajor: 2

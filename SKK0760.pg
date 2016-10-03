@@ -1,15 +1,11 @@
-revision: 4
-keep-ts: 1441924450
-ts: 1441924450
-flags: 1
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ip: 89.235.235.166
+flags: 10
 minor: 1
-blocks: [Course:36812 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 lastmajor: 2
+ts: 1441924450
+keep-ts: 1441924450
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Turismisihtkoha arendamine ja turundus
 	#SUBURL [Course:36812 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Turismisihtkoha arendamine ja turundus
 	#LANG_END
 	
 	
+host: 82.131.7.230
+languages: 
+ip: 89.235.235.166
+blocks: [Course:36812 〔Õppeaine ÕIS-is〕]</div></div>

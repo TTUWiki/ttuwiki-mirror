@@ -1,11 +1,6 @@
-languages: 
-revision: 2
-flags: 1
-keep-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+flags: 10
 ts: 1441924449
-host: 82.131.7.230
 text: #SUBTITLE Põlevkivi keemia ja tehnoloogia - praktikum
 	#SUBURL [Course:109900 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +16,10 @@ text: #SUBTITLE Põlevkivi keemia ja tehnoloogia - praktikum
 	#LANG_END
 	
 	
-blocks: [Course:109900 〔Õppeaine ÕIS-is〕]
+languages: 
 minor: 1
+keep-ts: 1441924449
+host: 82.131.7.230
+username: AlexDaniel
+revision: 2
+blocks: [Course:109900 〔Õppeaine ÕIS-is〕]</div></div>

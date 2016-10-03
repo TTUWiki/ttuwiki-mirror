@@ -1,11 +1,12 @@
-blocks: [Course:37635 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 minor: 1
-keep-ts: 1441924445
-languages: 
-flags: 1
-lastmajor: 2
 revision: 4
+languages: 
+username: AlexDaniel
+keep-ts: 1441924445
+ts: 1441924445
+blocks: [Course:37635 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ip: 89.235.235.166
 text: #SUBTITLE Poliitikate analüüs
 	#SUBURL [Course:37635 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +22,6 @@ text: #SUBTITLE Poliitikate analüüs
 	#LANG_END
 	
 	
+lastmajor: 2
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-username: AlexDaniel
-ip: 89.235.235.166

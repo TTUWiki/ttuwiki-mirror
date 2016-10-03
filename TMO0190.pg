@@ -1,10 +1,11 @@
+minor: 1
+username: AlexDaniel
+flags: 10
+blocks: [Course:102071 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 4
-languages: 
-blocks: [Course:102071 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 1
 ip: 89.235.235.166
-host: 82.131.7.230
+keep-ts: 1441924451
+languages: 
 text: #SUBTITLE Juhtimise alused
 	#SUBURL [Course:102071 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +21,7 @@ text: #SUBTITLE Juhtimise alused
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
-keep-ts: 1441924451
+lastmajor: 2
+host: 82.131.7.230
 ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

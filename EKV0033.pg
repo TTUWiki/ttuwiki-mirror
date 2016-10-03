@@ -1,10 +1,4 @@
-keep-ts: 1441924445
-languages: 
-flags: 1
 ts: 1441924445
-username: AlexDaniel
-revision: 4
-blocks: [Course:30774 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Hoone veevärk ja kanalisatsioon II
 	#SUBURL [Course:30774 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +14,14 @@ text: #SUBTITLE Hoone veevärk ja kanalisatsioon II
 	#LANG_END
 	
 	
-host: 82.131.7.230
-ip: 89.235.235.166
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+flags: 10
+keep-ts: 1441924445
+blocks: [Course:30774 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

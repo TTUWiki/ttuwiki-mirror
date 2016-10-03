@@ -1,6 +1,6 @@
-username: AlexDaniel
-ts: 1441924447
-keep-ts: 1441924447
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+host: 82.131.7.230
 text: #SUBTITLE Keemiatehnoloogia - praktikum
 	#SUBURL [Course:108159 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Keemiatehnoloogia - praktikum
 	#LANG_END
 	
 	
-minor: 1
-blocks: [Course:108159 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
+blocks: [Course:108159 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
 revision: 4
-ip: 89.235.235.166
+username: AlexDaniel
+keep-ts: 1441924447
+flags: 10
+ts: 1441924447

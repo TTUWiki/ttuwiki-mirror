@@ -1,3 +1,10 @@
+username: AlexDaniel
+ip: 89.235.235.166
+host: 82.131.7.230
+languages: 
+lastmajor: 2
+blocks: [Course:102190 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924450
 text: #SUBTITLE Finantskontroll ja audiitorlus
 	#SUBURL [Course:102190 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +21,7 @@ text: #SUBTITLE Finantskontroll ja audiitorlus
 	
 	
 keep-ts: 1441924450
-languages: 
-lastmajor: 2
-username: AlexDaniel
-blocks: [Course:102190 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
 minor: 1
-host: 82.131.7.230
-ts: 1441924450
-ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 4

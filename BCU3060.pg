@@ -1,14 +1,6 @@
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-minor: 1
-host: 82.131.7.230
-blocks: [Course:100616 〔Õppeaine ÕIS-is〕]
-revision: 4
-username: AlexDaniel
-lastmajor: 2
 ts: 1441924444
+lastmajor: 2
+languages: 
 text: #SUBTITLE Rahvusvaheline kaubandusõigus
 	#SUBURL [Course:100616 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Rahvusvaheline kaubandusõigus
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 1
+ip: 89.235.235.166
+blocks: [Course:100616 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924444
+host: 82.131.7.230
+revision: 4
+flags: 10

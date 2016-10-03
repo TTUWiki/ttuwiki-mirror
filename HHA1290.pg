@@ -1,6 +1,15 @@
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+languages: 
+minor: 1
+blocks: [Course:38054 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ts: 1441924445
+keep-ts: 1441924445
+flags: 10
+host: 82.131.7.230
 text: #SUBTITLE Tehiskeskkonna riskid
 	#SUBURL [Course:38054 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Tehiskeskkonna riskid
 	#LANG_END
 	
 	
-host: 82.131.7.230
-languages: 
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-ip: 89.235.235.166
-blocks: [Course:38054 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-ts: 1441924445

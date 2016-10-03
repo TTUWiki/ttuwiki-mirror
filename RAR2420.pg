@@ -1,6 +1,12 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ts: 1441924450
+keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+blocks: [Course:39360 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+username: AlexDaniel
+revision: 4
+minor: 1
 text: #SUBTITLE Tehnoloogia ja ajamid
 	#SUBURL [Course:39360 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Tehnoloogia ja ajamid
 	#LANG_END
 	
 	
-revision: 4
-flags: 1
-keep-ts: 1441924450
-languages: 
-username: AlexDaniel
 lastmajor: 2
-ip: 89.235.235.166
-minor: 1
-blocks: [Course:39360 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+languages: 

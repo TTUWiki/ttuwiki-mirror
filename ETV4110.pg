@@ -1,12 +1,3 @@
-revision: 4
-username: AlexDaniel
-lastmajor: 2
-languages: 
-flags: 1
-minor: 1
-ts: 1441924445
-blocks: [Course:106221 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 text: #SUBTITLE Väliskaubandus logistikas
 	#SUBURL [Course:106221 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +13,15 @@ text: #SUBTITLE Väliskaubandus logistikas
 	#LANG_END
 	
 	
-host: 82.131.7.230
 keep-ts: 1441924445
+flags: 10
+revision: 4
+ts: 1441924445
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+blocks: [Course:106221 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+languages: 

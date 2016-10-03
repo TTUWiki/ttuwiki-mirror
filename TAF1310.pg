@@ -1,15 +1,4 @@
-lastmajor: 2
-username: AlexDaniel
-minor: 1
 ts: 1441924450
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:107014 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
-ip: 89.235.235.166
-keep-ts: 1441924450
 text: #SUBTITLE Raamatupidaja ja audiitori kutse-eetika
 	#SUBURL [Course:107014 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +14,14 @@ text: #SUBTITLE Raamatupidaja ja audiitori kutse-eetika
 	#LANG_END
 	
 	
+blocks: [Course:107014 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924450
+host: 82.131.7.230
+revision: 4
+languages: 
+username: AlexDaniel
+ip: 89.235.235.166
+flags: 10
+lastmajor: 2
+minor: 1

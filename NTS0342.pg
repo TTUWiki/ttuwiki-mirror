@@ -1,15 +1,12 @@
-languages: 
-ip: 89.235.235.166
-keep-ts: 1441924449
-minor: 1
-flags: 1
-blocks: [Course:38604 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 lastmajor: 2
-username: AlexDaniel
 ts: 1441924449
+blocks: [Course:38604 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 host: 82.131.7.230
+flags: 10
+revision: 4
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Arvutigraafika II
 	#SUBURL [Course:38604 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Arvutigraafika II
 	#LANG_END
 	
 	
+keep-ts: 1441924449
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

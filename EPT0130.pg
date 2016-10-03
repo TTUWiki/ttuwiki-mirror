@@ -1,15 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924445
-blocks: [Course:100315 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-keep-ts: 1441924445
-ip: 89.235.235.166
-minor: 1
-flags: 1
 languages: 
-revision: 4
+lastmajor: 2
 text: #SUBTITLE Töökeskkonna praktika
 	#SUBURL [Course:100315 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Töökeskkonna praktika
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
+flags: 10
+blocks: [Course:100315 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+ip: 89.235.235.166
+ts: 1441924445
+keep-ts: 1441924445
+minor: 1

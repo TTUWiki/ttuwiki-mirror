@@ -1,6 +1,10 @@
-username: AlexDaniel
 languages: 
+blocks: [Course:109049 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924452
 text: #SUBTITLE Elektrimontaaži õppepraktika I
 	#SUBURL [Course:109049 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +20,6 @@ text: #SUBTITLE Elektrimontaaži õppepraktika I
 	#LANG_END
 	
 	
-revision: 2
-flags: 1
-blocks: [Course:109049 〔Õppeaine ÕIS-is〕]
+flags: 10
 minor: 1
 keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452

@@ -1,7 +1,11 @@
-username: AlexDaniel
-blocks: [Course:31922 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924445
+lastmajor: 2
+minor: 1
+keep-ts: 1441924445
+languages: 
+revision: 4
 text: #SUBTITLE Kulturoloogia
 	#SUBURL [Course:31922 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Kulturoloogia
 	#LANG_END
 	
 	
-flags: 1
-keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-languages: 
-ts: 1441924445
-lastmajor: 2
-minor: 1
+flags: 10
+username: AlexDaniel
+blocks: [Course:31922 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166

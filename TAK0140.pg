@@ -1,5 +1,8 @@
+blocks: [Course:102091 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 lastmajor: 2
 host: 82.131.7.230
+keep-ts: 1441924450
 text: #SUBTITLE Kulude arvestus
 	#SUBURL [Course:102091 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +18,10 @@ text: #SUBTITLE Kulude arvestus
 	#LANG_END
 	
 	
-keep-ts: 1441924450
-ts: 1441924450
-revision: 4
 username: AlexDaniel
-blocks: [Course:102091 〔Õppeaine ÕIS-is〕]
-flags: 1
-ip: 89.235.235.166
-languages: 
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+ts: 1441924450
 minor: 1
+revision: 4

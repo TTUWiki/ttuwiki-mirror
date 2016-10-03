@@ -1,11 +1,7 @@
-minor: 1
 ts: 1441924450
-languages: 
-blocks: [Course:37081 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-revision: 4
+flags: 10
+languages: 
 text: #SUBTITLE Rahanduse alused
 	#SUBURL [Course:37081 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +17,11 @@ text: #SUBTITLE Rahanduse alused
 	#LANG_END
 	
 	
-ip: 89.235.235.166
+minor: 1
 host: 82.131.7.230
-flags: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924450
+blocks: [Course:37081 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+revision: 4

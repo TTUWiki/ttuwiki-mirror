@@ -1,6 +1,7 @@
-blocks: [Course:101018 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
+languages: 
+keep-ts: 1441924451
+ts: 1441924451
+ip: 89.235.235.166
 text: #SUBTITLE Tootmise varustamise juhtimine
 	#SUBURL [Course:101018 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +17,11 @@ text: #SUBTITLE Tootmise varustamise juhtimine
 	#LANG_END
 	
 	
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+username: AlexDaniel
+blocks: [Course:101018 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-keep-ts: 1441924451
-ip: 89.235.235.166
-languages: 
-ts: 1441924451
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+revision: 4
 lastmajor: 2

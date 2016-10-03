@@ -1,7 +1,11 @@
-host: 82.131.7.230
+blocks: [Course:40777 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
+username: AlexDaniel
+host: 82.131.7.230
+ts: 1441924451
+lastmajor: 2
 revision: 4
-keep-ts: 1441924451
+flags: 10
 text: #SUBTITLE Äriturundus
 	#SUBURL [Course:40777 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +21,7 @@ text: #SUBTITLE Äriturundus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924451
-flags: 1
-minor: 1
-blocks: [Course:40777 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-lastmajor: 2
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+keep-ts: 1441924451

@@ -1,13 +1,13 @@
-username: AlexDaniel
-lastmajor: 2
-host: 82.131.7.230
-flags: 1
 minor: 1
-ts: 1441924450
 languages: 
-keep-ts: 1441924450
+flags: 10
+ts: 1441924450
+blocks: [Course:104947 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+host: 82.131.7.230
+username: AlexDaniel
 text: #SUBTITLE Rahvusvaheline maksundus
 	#SUBURL [Course:104947 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +23,5 @@ text: #SUBTITLE Rahvusvaheline maksundus
 	#LANG_END
 	
 	
-blocks: [Course:104947 〔Õppeaine ÕIS-is〕]
-revision: 4
+ip: 89.235.235.166
+keep-ts: 1441924450

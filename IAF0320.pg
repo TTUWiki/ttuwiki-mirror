@@ -1,11 +1,14 @@
-languages: 
-ip: 89.235.235.166
-keep-ts: 1475363493
-revision: 14
-username: AlexDaniel
-host: 85.253.108.27
-summary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
 ts: 1475363493
+revision: 14
+lastmajor: 13
+minor: 1
+username: AlexDaniel
+lastmajorsummary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
+flags: 1
+summary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
+host: 85.253.108.27
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -13,6 +16,5 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	Course materials: http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/
 	
-minor: 1
-lastmajor: 13
-lastmajorsummary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
+languages: 
+keep-ts: 1475363493

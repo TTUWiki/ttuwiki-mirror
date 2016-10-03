@@ -1,14 +1,8 @@
-minor: 1
-languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
 keep-ts: 1441924445
-host: 82.131.7.230
-flags: 1
-blocks: [Course:30946 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
+revision: 4
+minor: 1
+flags: 10
+lastmajor: 2
 text: #SUBTITLE Kanalisatsioonivõrk ja pumplad
 	#SUBURL [Course:30946 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +18,10 @@ text: #SUBTITLE Kanalisatsioonivõrk ja pumplad
 	#LANG_END
 	
 	
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
+ts: 1441924445
+blocks: [Course:30946 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

@@ -1,3 +1,8 @@
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+username: AlexDaniel
+ip: 89.235.235.166
+flags: 10
 text: #SUBTITLE Laboratoorne eripraktika II
 	#SUBURL [Course:36381 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +18,10 @@ text: #SUBTITLE Laboratoorne eripraktika II
 	#LANG_END
 	
 	
-username: AlexDaniel
-host: 82.131.7.230
-ts: 1441924452
-blocks: [Course:36381 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 revision: 4
+blocks: [Course:36381 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+ts: 1441924452
 languages: 
-lastmajor: 2
-flags: 1

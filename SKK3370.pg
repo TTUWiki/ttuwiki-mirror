@@ -1,7 +1,9 @@
 keep-ts: 1441924450
+revision: 4
+username: AlexDaniel
 ip: 89.235.235.166
-languages: 
-flags: 1
+host: 82.131.7.230
+flags: 10
 text: #SUBTITLE Praktiline toiduvalmistamine
 	#SUBURL [Course:29147 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +19,9 @@ text: #SUBTITLE Praktiline toiduvalmistamine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-minor: 1
 lastmajor: 2
-blocks: [Course:29147 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:29147 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924450
-revision: 4

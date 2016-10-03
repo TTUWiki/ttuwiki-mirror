@@ -1,7 +1,13 @@
-blocks: [Course:37745 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-ip: 89.235.235.166
 minor: 1
+flags: 10
+revision: 4
+keep-ts: 1441924444
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+ts: 1441924444
+ip: 89.235.235.166
+blocks: [Course:37745 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Õiguse entsüklopeedia
 	#SUBURL [Course:37745 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +23,5 @@ text: #SUBTITLE Õiguse entsüklopeedia
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-revision: 4
-ts: 1441924444
-languages: 
-lastmajor: 2
 host: 82.131.7.230
-flags: 1

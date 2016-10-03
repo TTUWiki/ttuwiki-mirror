@@ -1,14 +1,8 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-languages: 
-keep-ts: 1441924447
+blocks: [Course:29815 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-host: 82.131.7.230
-ts: 1441924447
-lastmajor: 2
-flags: 1
-blocks: [Course:29815 〔Õppeaine ÕIS-is〕]
-minor: 1
+flags: 10
+username: AlexDaniel
 text: #SUBTITLE Keemiatehnika II
 	#SUBURL [Course:29815 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +18,10 @@ text: #SUBTITLE Keemiatehnika II
 	#LANG_END
 	
 	
-username: AlexDaniel
+minor: 1
+ts: 1441924447
+keep-ts: 1441924447
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2

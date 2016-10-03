@@ -1,7 +1,10 @@
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-ts: 1441924444
+blocks: [Course:37937 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+languages: 
+flags: 10
+keep-ts: 1441924444
+host: 82.131.7.230
 text: #SUBTITLE Väärtusahela juhtimine
 	#SUBURL [Course:37937 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +20,8 @@ text: #SUBTITLE Väärtusahela juhtimine
 	#LANG_END
 	
 	
-keep-ts: 1441924444
-revision: 4
-flags: 1
+ip: 89.235.235.166
 minor: 1
-languages: 
-lastmajor: 2
-blocks: [Course:37937 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4

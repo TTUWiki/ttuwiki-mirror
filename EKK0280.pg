@@ -1,11 +1,8 @@
-keep-ts: 1441924445
-flags: 1
-ts: 1441924445
-languages: 
-lastmajor: 2
+host: 82.131.7.230
 ip: 89.235.235.166
-revision: 4
-minor: 1
+flags: 10
+ts: 1441924445
+lastmajor: 2
 text: #SUBTITLE Ventilatsioon
 	#SUBURL [Course:103848 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,10 @@ text: #SUBTITLE Ventilatsioon
 	#LANG_END
 	
 	
+minor: 1
+keep-ts: 1441924445
+revision: 4
 username: AlexDaniel
-blocks: [Course:103848 〔Õppeaine ÕIS-is〕]
+blocks: [Course:103848 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+languages: 

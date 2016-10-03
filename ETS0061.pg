@@ -1,12 +1,14 @@
-languages: 
 minor: 1
-blocks: [Course:38242 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924445
-lastmajor: 2
+blocks: [Course:38242 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
+host: 82.131.7.230
+revision: 4
+username: AlexDaniel
+lastmajor: 2
+languages: 
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
+ts: 1441924445
 text: #SUBTITLE Sillasambad - projekt
 	#SUBURL [Course:38242 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +24,4 @@ text: #SUBTITLE Sillasambad - projekt
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
-host: 82.131.7.230
+keep-ts: 1441924445

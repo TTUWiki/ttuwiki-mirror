@@ -1,15 +1,12 @@
-username: AlexDaniel
-revision: 4
-lastmajor: 2
-blocks: [Course:26375 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924445
-languages: 
-flags: 1
 host: 82.131.7.230
-keep-ts: 1441924445
+ts: 1441924445
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+revision: 4
+flags: 10
+keep-ts: 1441924445
 text: #SUBTITLE Sissejuhatus teadusfilosoofiasse
 	#SUBURL [Course:26375 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Sissejuhatus teadusfilosoofiasse
 	#LANG_END
 	
 	
+blocks: [Course:26375 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ip: 89.235.235.166
