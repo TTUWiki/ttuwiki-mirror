@@ -1,13 +1,15 @@
-ip: 89.235.235.166
-languages: 
-username: AlexDaniel
-ts: 1441924450
-keep-ts: 1441924450
-flags: 1
-minor: 1
 host: 82.131.7.230
-lastmajor: 2
+blocks: [Course:37396 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924450
+languages: 
+keep-ts: 1441924450
+ip: 89.235.235.166
+lastmajor: 2
+username: AlexDaniel
+revision: 4
+minor: 1
 text: #SUBTITLE Majandusarvestuse eriseminar
 	#SUBURL [Course:37396 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +25,3 @@ text: #SUBTITLE Majandusarvestuse eriseminar
 	#LANG_END
 	
 	
-revision: 4
-blocks: [Course:37396 〔Õppeaine ÕIS-is〕]

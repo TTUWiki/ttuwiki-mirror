@@ -1,5 +1,9 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
 keep-ts: 1441924452
+minor: 1
+blocks: [Course:109136 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Tootearendus
 	#SUBURL [Course:109136 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +19,7 @@ text: #SUBTITLE Tootearendus
 	#LANG_END
 	
 	
-blocks: [Course:109136 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-languages: 
+flags: 10
 revision: 2
 ts: 1441924452
-host: 82.131.7.230
-minor: 1
+languages: 

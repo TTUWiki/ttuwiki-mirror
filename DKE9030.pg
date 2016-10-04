@@ -1,11 +1,3 @@
-host: 82.131.7.230
-revision: 2
-username: AlexDaniel
-flags: 1
-blocks: [Course:109869 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-languages: 
 minor: 1
 text: #SUBTITLE Kliinilised ravimiuuringud ja kliiniline keemia
 	#SUBURL [Course:109869 〔Õppeaine ÕIS-is〕]
@@ -22,4 +14,12 @@ text: #SUBTITLE Kliinilised ravimiuuringud ja kliiniline keemia
 	#LANG_END
 	
 	
+revision: 2
+host: 82.131.7.230
+flags: 10
+username: AlexDaniel
+blocks: [Course:109869 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444

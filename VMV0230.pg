@@ -1,7 +1,5 @@
 languages: 
-flags: 1
-ts: 1441924452
-keep-ts: 1441924452
+username: AlexDaniel
 text: #SUBTITLE Rannikumere keskkonnakaitse
 	#SUBURL [Course:108990 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +15,11 @@ text: #SUBTITLE Rannikumere keskkonnakaitse
 	#LANG_END
 	
 	
-host: 82.131.7.230
-revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+host: 82.131.7.230
+keep-ts: 1441924452
+revision: 2
+blocks: [Course:108990 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-username: AlexDaniel
-blocks: [Course:108990 〔Õppeaine ÕIS-is〕]
+flags: 10

@@ -1,5 +1,13 @@
+keep-ts: 1441924450
+revision: 4
 minor: 1
+flags: 10
 ts: 1441924450
+host: 82.131.7.230
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 2
+blocks: [Course:40571 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Automaatikasüsteemide projekteerimine
 	#SUBURL [Course:40571 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +23,5 @@ text: #SUBTITLE Automaatikasüsteemide projekteerimine
 	#LANG_END
 	
 	
-revision: 4
-host: 82.131.7.230
 languages: 
-blocks: [Course:40571 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924450
-ip: 89.235.235.166
-lastmajor: 2
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

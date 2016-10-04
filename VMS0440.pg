@@ -1,4 +1,8 @@
+flags: 10
+host: 82.131.7.230
 revision: 2
+minor: 1
+ts: 1441924452
 keep-ts: 1441924452
 text: #SUBTITLE Tollindus
 	#SUBURL [Course:110118 〔Õppeaine ÕIS-is〕]
@@ -16,10 +20,6 @@ text: #SUBTITLE Tollindus
 	
 	
 username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
+blocks: [Course:110118 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-blocks: [Course:110118 〔Õppeaine ÕIS-is〕]
-minor: 1
-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

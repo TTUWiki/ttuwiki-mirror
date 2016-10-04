@@ -1,4 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:39584 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Eesti - turismi sihtkoht
 	#SUBURL [Course:39584 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +15,13 @@ text: #SUBTITLE Eesti - turismi sihtkoht
 	#LANG_END
 	
 	
-flags: 1
-blocks: [Course:39584 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-ts: 1441924450
+ip: 89.235.235.166
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 languages: 
 username: AlexDaniel
-ip: 89.235.235.166
-host: 82.131.7.230
-keep-ts: 1441924450
+ts: 1441924450
+revision: 4
 minor: 1
+keep-ts: 1441924450
