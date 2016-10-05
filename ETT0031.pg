@@ -1,8 +1,5 @@
-lastmajor: 2
-ip: 89.235.235.166
-keep-ts: 1441924445
-flags: 1
-minor: 1
+flags: 10
+revision: 4
 text: #SUBTITLE Tee-ehituse ökonoomika - ainetöö
 	#SUBURL [Course:39628 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Tee-ehituse ökonoomika - ainetöö
 	#LANG_END
 	
 	
+lastmajor: 2
 ts: 1441924445
-host: 82.131.7.230
-languages: 
-blocks: [Course:39628 〔Õppeaine ÕIS-is〕]
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+keep-ts: 1441924445
+languages: 
 username: AlexDaniel
+host: 82.131.7.230
+ip: 89.235.235.166
+blocks: [Course:39628 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1

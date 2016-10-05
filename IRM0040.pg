@@ -1,3 +1,11 @@
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel
+blocks: [Course:29782 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924447
+host: 82.131.7.230
+ts: 1441924447
 languages: 
 text: #SUBTITLE Raadioseadmete disain
 	#SUBURL [Course:29782 〔Õppeaine ÕIS-is〕]
@@ -14,14 +22,6 @@ text: #SUBTITLE Raadioseadmete disain
 	#LANG_END
 	
 	
-host: 82.131.7.230
-lastmajor: 2
-blocks: [Course:29782 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
+flags: 10
 ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-flags: 1
-revision: 4
-username: AlexDaniel
-minor: 1
+lastmajor: 2

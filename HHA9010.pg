@@ -1,12 +1,9 @@
-languages: 
-keep-ts: 1441924445
 ip: 89.235.235.166
-ts: 1441924445
+blocks: [Course:36855 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:36855 〔Õppeaine ÕIS-is〕]
-revision: 4
 username: AlexDaniel
+ts: 1441924445
 text: #SUBTITLE Haldusjuhtimise ajalugu ja teooria
 	#SUBURL [Course:36855 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +19,9 @@ text: #SUBTITLE Haldusjuhtimise ajalugu ja teooria
 	#LANG_END
 	
 	
+languages: 
+flags: 10
 host: 82.131.7.230
-lastmajor: 2
+revision: 4
+keep-ts: 1441924445
 minor: 1

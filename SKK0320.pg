@@ -1,15 +1,5 @@
 keep-ts: 1441924450
 revision: 4
-minor: 1
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-username: AlexDaniel
-languages: 
-blocks: [Course:32291 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
 text: #SUBTITLE Logistika
 	#SUBURL [Course:32291 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Logistika
 	#LANG_END
 	
 	
+username: AlexDaniel
+blocks: [Course:32291 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924450
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 10
+lastmajor: 2
+ip: 89.235.235.166
+host: 82.131.7.230

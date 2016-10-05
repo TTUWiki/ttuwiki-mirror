@@ -1,14 +1,11 @@
-keep-ts: 1441924448
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108457 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-flags: 1
-blocks: [Course:108457 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-revision: 4
 ip: 89.235.235.166
-lastmajor: 2
+ts: 1441924448
 languages: 
+username: AlexDaniel
+minor: 1
+keep-ts: 1441924448
 text: #SUBTITLE Loov meeskonnatöö
 	#SUBURL [Course:108457 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +21,7 @@ text: #SUBTITLE Loov meeskonnatöö
 	#LANG_END
 	
 	
-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+lastmajor: 2
+flags: 10

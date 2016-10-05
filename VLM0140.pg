@@ -1,8 +1,3 @@
-flags: 1
-blocks: [Course:108974 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-username: AlexDaniel
-revision: 2
 text: #SUBTITLE Laevaremondi õppepraktika&nbsp;&nbsp;
 	#SUBURL [Course:108974 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +13,13 @@ text: #SUBTITLE Laevaremondi õppepraktika&nbsp;&nbsp;
 	#LANG_END
 	
 	
+flags: 10
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108974 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+username: AlexDaniel
 languages: 
 minor: 1
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452

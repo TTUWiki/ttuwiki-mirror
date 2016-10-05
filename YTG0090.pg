@@ -1,13 +1,11 @@
-minor: 1
-flags: 1
+flags: 10
+blocks: [Course:30988 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-keep-ts: 1441924453
-blocks: [Course:30988 〔Õppeaine ÕIS-is〕]
 ts: 1441924453
+lastmajor: 2
 ip: 89.235.235.166
+minor: 1
+keep-ts: 1441924453
 text: #SUBTITLE Seente molekulaarbioloogia
 	#SUBURL [Course:30988 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Seente molekulaarbioloogia
 	
 	
 host: 82.131.7.230
-lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+username: AlexDaniel

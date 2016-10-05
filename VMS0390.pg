@@ -1,6 +1,7 @@
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+ts: 1441924452
+keep-ts: 1441924452
+flags: 10
 text: #SUBTITLE Meresadamate ehitus
 	#SUBURL [Course:110113 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +17,9 @@ text: #SUBTITLE Meresadamate ehitus
 	#LANG_END
 	
 	
-ts: 1441924452
-blocks: [Course:110113 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110113 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 2
-flags: 1
-keep-ts: 1441924452
-languages: 
 host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

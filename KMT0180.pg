@@ -1,8 +1,12 @@
-blocks: [Course:36250 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+flags: 10
 minor: 1
-keep-ts: 1441924448
+revision: 4
+languages: 
 ts: 1441924448
+ip: 89.235.235.166
+blocks: [Course:36250 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 text: #SUBTITLE Tekstiilikeemia
 	#SUBURL [Course:36250 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +22,6 @@ text: #SUBTITLE Tekstiilikeemia
 	#LANG_END
 	
 	
+keep-ts: 1441924448
 host: 82.131.7.230
-username: AlexDaniel
-flags: 1
-revision: 4
-languages: 
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2

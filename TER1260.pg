@@ -1,5 +1,7 @@
-revision: 4
-keep-ts: 1441924450
+flags: 10
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924450
 text: #SUBTITLE Finantsjuhtimine avalikus halduses
 	#SUBURL [Course:36316 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +18,10 @@ text: #SUBTITLE Finantsjuhtimine avalikus halduses
 	
 	
 ip: 89.235.235.166
-username: AlexDaniel
-languages: 
 minor: 1
-flags: 1
-host: 82.131.7.230
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-blocks: [Course:36316 〔Õppeaine ÕIS-is〕]
+blocks: [Course:36316 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+revision: 4
+keep-ts: 1441924450

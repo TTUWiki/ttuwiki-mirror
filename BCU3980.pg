@@ -1,9 +1,6 @@
-languages: 
 minor: 1
-host: 82.131.7.230
-ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-revision: 4
 text: #SUBTITLE Notari ja täitemenetluse õigus
 	#SUBURL [Course:106030 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +16,12 @@ text: #SUBTITLE Notari ja täitemenetluse õigus
 	#LANG_END
 	
 	
-keep-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-blocks: [Course:106030 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+blocks: [Course:106030 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
 ts: 1441924444
+revision: 4
+flags: 10
+keep-ts: 1441924444
+host: 82.131.7.230
+username: AlexDaniel
+ip: 89.235.235.166

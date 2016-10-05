@@ -1,8 +1,9 @@
-blocks: [Course:27441 〔Õppeaine ÕIS-is〕]
+revision: 4
 lastmajor: 2
-username: AlexDaniel
-languages: 
-ts: 1441924448
+host: 82.131.7.230
+keep-ts: 1441924448
+minor: 1
+blocks: [Course:27441 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Toiduainekeemia
 	#SUBURL [Course:27441 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +19,9 @@ text: #SUBTITLE Toiduainekeemia
 	#LANG_END
 	
 	
+username: AlexDaniel
+ts: 1441924448
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
-host: 82.131.7.230
+flags: 10
 ip: 89.235.235.166
-revision: 4
-keep-ts: 1441924448
