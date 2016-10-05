@@ -1,12 +1,15 @@
-lastmajor: 2
-username: AlexDaniel
-keep-ts: 1441924448
-flags: 1
+ip: 89.235.235.166
 host: 82.131.7.230
-languages: 
-blocks: [Course:100629 〔Õppeaine ÕIS-is〕]
-minor: 1
+revision: 4
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+username: AlexDaniel
+ts: 1441924448
+blocks: [Course:100629 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924448
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Toiduanalüüsi alused
 	#SUBURL [Course:100629 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +25,3 @@ text: #SUBTITLE Toiduanalüüsi alused
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-revision: 4
-ts: 1441924448

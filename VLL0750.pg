@@ -1,11 +1,5 @@
-ts: 1441924452
-minor: 1
-languages: 
-username: AlexDaniel
+blocks: [Course:109059 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924452
 text: #SUBTITLE Veeteede navigatsiooniseadmed II
 	#SUBURL [Course:109059 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +15,11 @@ text: #SUBTITLE Veeteede navigatsiooniseadmed II
 	#LANG_END
 	
 	
-blocks: [Course:109059 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+flags: 10
+ts: 1441924452
+minor: 1
+keep-ts: 1441924452
 revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
