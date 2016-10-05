@@ -1,6 +1,12 @@
-lastmajorsummary: https://en.wikipedia.org/wiki/Chomsky_normal_form
-ts: 1475647388
 minor: 
+ip: 89.235.235.166
+flags: 1
+summary: https://en.wikipedia.org/wiki/Chomsky_normal_form
+lastmajorsummary: https://en.wikipedia.org/wiki/Chomsky_normal_form
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+username: Marjana Voronina
+ts: 1475647388
+host: 193.40.250.239
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -30,11 +36,7 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
 	
-languages: 
-revision: 11
 lastmajor: 11
-host: 193.40.250.239
+revision: 11
 keep-ts: 1475647388
-username: Marjana Voronina
-summary: https://en.wikipedia.org/wiki/Chomsky_normal_form
-ip: 89.235.235.166
+languages: 
