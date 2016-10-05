@@ -1,12 +1,6 @@
-lastmajorsummary: Teine koduülesanne ITT0050
-flags: 1
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: https://en.wikipedia.org/wiki/Chomsky_normal_form
+ts: 1475647388
 minor: 
-lastmajor: 10
-revision: 10
-languages: 
-ip: 89.235.235.166
-username: Artur Gummel
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -29,7 +23,18 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Artur Gummel 2016-09-07 08:47:23
 	
 	
-summary: Teine koduülesanne ITT0050
-host: 84.52.50.9
-keep-ts: 1475228187
-ts: 1475228187
+	----
+	
+	https://en.wikipedia.org/wiki/Chomsky_normal_form
+	
+	-- Marjana Voronina 2016-10-05 09:03:08
+	
+	
+languages: 
+revision: 11
+lastmajor: 11
+host: 193.40.250.239
+keep-ts: 1475647388
+username: Marjana Voronina
+summary: https://en.wikipedia.org/wiki/Chomsky_normal_form
+ip: 89.235.235.166
