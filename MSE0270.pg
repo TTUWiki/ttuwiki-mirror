@@ -1,10 +1,11 @@
-username: AlexDaniel
-lastmajor: 2
-flags: 10
+keep-ts: 1475652009
+ip: 89.235.235.166
+host: 86.110.32.164
+username: Ain_Laidoja
+minor: 
+lastmajor: 5
+summary: 
 languages: 
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-minor: 1
 text: #SUBTITLE Biomassi termokeemiline muundamine
 	#SUBURL [Course:105995 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +21,9 @@ text: #SUBTITLE Biomassi termokeemiline muundamine
 	#LANG_END
 	
 	
-blocks: [Course:105995 〔Õppeaine ÕIS-is〕]</div></div>
-keep-ts: 1441924448
-ip: 89.235.235.166
-ts: 1441924448
-host: 82.131.7.230
+	[http://staff.ttu.ee/~akonist/sti/MSJE0270.html Õppematerjal]
+	
+	
+lastmajorsummary: 
+revision: 5
+ts: 1475652009
