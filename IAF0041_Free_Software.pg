@@ -1,9 +1,4 @@
-minor: 1
-lastmajor: 1
-host: 85.253.108.27
-revision: 4
-languages: 
-ts: 1475529938
+keep-ts: 1475631696
 text: На этой странице подробно расписано как пройти **[[IAF0041]]** используя только свободное программное обеспечение.
 	
 	Самой удобной связкой скорее всего будет [[http://www.geda-project.org/ gschem + icarus + gtkwave]].
@@ -26,6 +21,11 @@ text: На этой странице подробно расписано как 
 	Есть и [[http://www.delorie.com/pcb/geda-windows/ порт для windows]], но он неадекватно устарел, можете даже им не заморачиваться.
 	
 	Проекты развиваются достаточно быстро, поэтому советую использовать последние версии.
+	
+	
+	On most systems, {{{verilog}}} symbol library **is not enabled by default**. That's because of conflicts with {{{vhdl}}} library, meaning that you cannot have both enabled at the same time.
+	
+	You have to edit {{{/usr/share/gEDA/gafrc.d/geda-clib.scm}}} and uncomment {{{"verilog"}}}.
 	
 	== Схема
 	В схеме для входов используйте IPAD, а для выходов OPAD. Сеть каждого IPAD и OPAD должна быть названа - кликаете на соединение, edit, добавляете netname.
@@ -120,7 +120,12 @@ text: На этой странице подробно расписано как 
 	
 	* http://www.easy-asic.de/downloads/HOWTO_hierarchical_designs.pdf
 	
+minor: 
+lastmajorsummary: You have to enable verilog library
+languages: 
+host: 85.253.108.27
+ts: 1475631696
+summary: You have to enable verilog library
 username: AlexDaniel
-lastmajorsummary: Moved from IAF0041
-summary: 
-keep-ts: 1475529938
+revision: 5
+lastmajor: 5
