@@ -1,12 +1,6 @@
-minor: 1
-revision: 2
-keep-ts: 1441924444
-ts: 1441924444
-blocks: [Course:109497 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-flags: 1
-host: 82.131.7.230
+languages: 
+blocks: [Course:109497 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Linnaehituslikud muudatused [Workshop Ljubljana]
 	#SUBURL [Course:109497 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +16,10 @@ text: #SUBTITLE Linnaehituslikud muudatused [Workshop Ljubljana]
 	#LANG_END
 	
 	
-languages: 
+host: 82.131.7.230
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444
+minor: 1
+keep-ts: 1441924444
+flags: 10

@@ -1,4 +1,3 @@
-lastmajor: 2
 text: #SUBTITLE Sõidukite ja mehhanismide dünaamika
 	#SUBURL [Course:100360 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +13,15 @@ text: #SUBTITLE Sõidukite ja mehhanismide dünaamika
 	#LANG_END
 	
 	
-blocks: [Course:100360 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-ip: 89.235.235.166
-host: 82.131.7.230
-languages: 
-username: AlexDaniel
 revision: 4
-keep-ts: 1441924448
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924448
+lastmajor: 2
+username: AlexDaniel
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100360 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+keep-ts: 1441924448
+host: 82.131.7.230
+flags: 10
+languages: 

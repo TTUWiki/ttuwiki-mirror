@@ -1,6 +1,6 @@
-languages: 
 host: 82.131.7.230
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Raalintegreeritud tootmissüsteemid
 	#SUBURL [Course:31377 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Raalintegreeritud tootmissüsteemid
 	#LANG_END
 	
 	
-ts: 1441924448
 ip: 89.235.235.166
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-revision: 4
-blocks: [Course:31377 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
 minor: 1
+flags: 10
+keep-ts: 1441924448
+ts: 1441924448
+languages: 
+blocks: [Course:31377 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+lastmajor: 2

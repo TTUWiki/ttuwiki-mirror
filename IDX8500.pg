@@ -1,13 +1,12 @@
-flags: 1
-username: AlexDaniel
 minor: 1
+keep-ts: 1441924447
+flags: 10
+blocks: [Course:101936 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+revision: 4
 ts: 1441924447
 host: 82.131.7.230
-lastmajor: 2
-blocks: [Course:101936 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-languages: 
-revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Õpetamispraktika
 	#SUBURL [Course:101936 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +22,6 @@ text: #SUBTITLE Õpetamispraktika
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924447
+ip: 89.235.235.166
+languages: 
+username: AlexDaniel

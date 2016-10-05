@@ -1,9 +1,10 @@
-blocks: [Course:38867 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-username: AlexDaniel
+languages: 
 minor: 1
-flags: 1
 lastmajor: 2
+ts: 1441924448
+host: 82.131.7.230
+username: AlexDaniel
+revision: 4
 text: #SUBTITLE Kütuste keemia ja tehnoloogia
 	#SUBURL [Course:38867 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Kütuste keemia ja tehnoloogia
 	#LANG_END
 	
 	
-languages: 
-ip: 89.235.235.166
-revision: 4
-host: 82.131.7.230
+flags: 10
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
+ip: 89.235.235.166
+keep-ts: 1441924448
+blocks: [Course:38867 〔Õppeaine ÕIS-is〕]</div></div>

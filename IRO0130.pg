@@ -1,11 +1,14 @@
-username: AlexDaniel
+ts: 1441924447
+blocks: [Course:29852 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
 revision: 4
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
+ip: 89.235.235.166
+username: AlexDaniel
 minor: 1
 lastmajor: 2
-blocks: [Course:29852 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Sidesüsteemide ärimudelid
 	#SUBURL [Course:29852 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +24,4 @@ text: #SUBTITLE Sidesüsteemide ärimudelid
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
-flags: 1
+flags: 10

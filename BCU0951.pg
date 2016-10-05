@@ -1,14 +1,13 @@
 revision: 4
-minor: 1
-lastmajor: 2
-blocks: [Course:34099 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-ip: 89.235.235.166
-keep-ts: 1441924444
 username: AlexDaniel
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ip: 89.235.235.166
+minor: 1
+ts: 1441924444
 host: 82.131.7.230
+lastmajor: 2
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Informaatika I
 	#SUBURL [Course:34099 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +23,5 @@ text: #SUBTITLE Informaatika I
 	#LANG_END
 	
 	
-languages: 
+keep-ts: 1441924444
+blocks: [Course:34099 〔Õppeaine ÕIS-is〕]</div></div>

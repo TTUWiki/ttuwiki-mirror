@@ -1,8 +1,11 @@
-host: 82.131.7.230
 languages: 
-minor: 1
 ip: 89.235.235.166
+ts: 1441924444
+flags: 10
+username: AlexDaniel
+blocks: [Course:32785 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
+revision: 4
 text: #SUBTITLE Ametipraktika
 	#SUBURL [Course:32785 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +21,7 @@ text: #SUBTITLE Ametipraktika
 	#LANG_END
 	
 	
-ts: 1441924444
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:32785 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924444
-flags: 1
-revision: 4
-username: AlexDaniel
+minor: 1

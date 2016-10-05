@@ -1,8 +1,15 @@
-languages: 
+lastmajor: 2
 username: AlexDaniel
-host: 82.131.7.230
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 4
-flags: 1
+ts: 1441924443
+blocks: [Course:30995 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ip: 89.235.235.166
+minor: 1
+keep-ts: 1441924443
+host: 82.131.7.230
 text: #SUBTITLE Elektriajamite mikroprotsessorjuhtimine
 	#SUBURL [Course:30995 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +25,3 @@ text: #SUBTITLE Elektriajamite mikroprotsessorjuhtimine
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-blocks: [Course:30995 〔Õppeaine ÕIS-is〕]
-ts: 1441924443
-ip: 89.235.235.166
-keep-ts: 1441924443
-minor: 1

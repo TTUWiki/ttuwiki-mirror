@@ -1,9 +1,10 @@
-languages: 
+username: AlexDaniel
+flags: 10
+blocks: [Course:108975 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
 keep-ts: 1441924452
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
+languages: 
 text: #SUBTITLE Lukksepa- ja lõiketöötlemise õppepraktika I
 	#SUBURL [Course:108975 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +20,6 @@ text: #SUBTITLE Lukksepa- ja lõiketöötlemise õppepraktika I
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:108975 〔Õppeaine ÕIS-is〕]
-revision: 2
 minor: 1
+revision: 2
+host: 82.131.7.230

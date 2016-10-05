@@ -1,3 +1,11 @@
+blocks: [Course:108867 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+languages: 
+flags: 10
+minor: 1
+host: 82.131.7.230
 keep-ts: 1441924452
 text: #SUBTITLE Tehniline joonestamine
 	#SUBURL [Course:108867 〔Õppeaine ÕIS-is〕]
@@ -14,12 +22,4 @@ text: #SUBTITLE Tehniline joonestamine
 	#LANG_END
 	
 	
-flags: 1
 ts: 1441924452
-minor: 1
-username: AlexDaniel
-revision: 2
-host: 82.131.7.230
-blocks: [Course:108867 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 

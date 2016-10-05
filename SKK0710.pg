@@ -1,6 +1,5 @@
-ts: 1441924450
-languages: 
-blocks: [Course:34142 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Maailma ja Eesti turismigeograafia
 	#SUBURL [Course:34142 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +15,13 @@ text: #SUBTITLE Maailma ja Eesti turismigeograafia
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-keep-ts: 1441924450
-username: AlexDaniel
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 host: 82.131.7.230
+ts: 1441924450
+lastmajor: 2
+blocks: [Course:34142 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 minor: 1
+keep-ts: 1441924450
+languages: 
+revision: 4
+flags: 10

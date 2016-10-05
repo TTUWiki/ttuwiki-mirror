@@ -1,12 +1,4 @@
-ts: 1441924452
-languages: 
-keep-ts: 1441924452
 host: 82.131.7.230
-username: AlexDaniel
-flags: 1
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Navigatsiooni praktika L I
 	#SUBURL [Course:109258 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +14,12 @@ text: #SUBTITLE Navigatsiooni praktika L I
 	#LANG_END
 	
 	
-blocks: [Course:109258 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109258 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+keep-ts: 1441924452
+ts: 1441924452
+languages: 
+revision: 2

@@ -1,12 +1,3 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1441924451
-username: AlexDaniel
-minor: 1
-host: 82.131.7.230
-lastmajor: 2
-languages: 
-ip: 89.235.235.166
 text: #SUBTITLE Venemaa majandus
 	#SUBURL [Course:37156 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +13,15 @@ text: #SUBTITLE Venemaa majandus
 	#LANG_END
 	
 	
-keep-ts: 1441924451
+flags: 10
+ip: 89.235.235.166
+blocks: [Course:37156 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+lastmajor: 2
+minor: 1
 revision: 4
-blocks: [Course:37156 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924451
+languages: 

@@ -1,6 +1,8 @@
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
+flags: 10
+username: AlexDaniel
+keep-ts: 1441924451
+blocks: [Course:101989 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 text: #SUBTITLE Julgeoleku teooriad
 	#SUBURL [Course:101989 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +18,10 @@ text: #SUBTITLE Julgeoleku teooriad
 	#LANG_END
 	
 	
-blocks: [Course:101989 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
-languages: 
-username: AlexDaniel
-lastmajor: 2
-minor: 1
-host: 82.131.7.230
-ts: 1441924451
 ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+host: 82.131.7.230
+lastmajor: 2
+revision: 4
+ts: 1441924451

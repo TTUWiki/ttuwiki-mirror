@@ -1,14 +1,15 @@
-lastmajor: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-flags: 1
-keep-ts: 1441924444
-revision: 4
-username: AlexDaniel
 languages: 
-blocks: [Course:40915 〔Õppeaine ÕIS-is〕]
+revision: 4
+host: 82.131.7.230
+keep-ts: 1441924444
 ts: 1441924444
+minor: 1
+lastmajor: 2
+flags: 10
+username: AlexDaniel
+blocks: [Course:40915 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 text: #SUBTITLE Epidemioloogia
 	#SUBURL [Course:40915 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Epidemioloogia
 	#LANG_END
 	
 	
-ip: 89.235.235.166

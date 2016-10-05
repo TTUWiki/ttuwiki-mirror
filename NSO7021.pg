@@ -1,7 +1,8 @@
-flags: 1
-username: AlexDaniel
-host: 82.131.7.230
+flags: 10
+languages: 
+ip: 89.235.235.166
 lastmajor: 2
+username: AlexDaniel
 text: #SUBTITLE Üldine meteoroloogia
 	#SUBURL [Course:105457 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +18,10 @@ text: #SUBTITLE Üldine meteoroloogia
 	#LANG_END
 	
 	
+host: 82.131.7.230
+blocks: [Course:105457 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-revision: 4
-blocks: [Course:105457 〔Õppeaine ÕIS-is〕]
 ts: 1441924448
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 keep-ts: 1441924448
