@@ -1,31 +1,18 @@
-lastmajorsummary: 
-keep-ts: 1475652009
-host: 86.110.32.164
-blocks: [Course:105995 〔Õppeaine ÕIS-is〕]
-revision: 5
-minor: 
-ip: 89.235.235.166
-lastmajor: 5
-flags: 1
+host: 85.253.108.27
+ts: 1475706721
 languages: 
-ts: 1475652009
-username: Ain_Laidoja
-summary: 
+revision: 6
+username: AlexDaniel
+keep-ts: 1475706721
+minor: 1
 text: #SUBTITLE Biomassi termokeemiline muundamine
 	#SUBURL [Course:105995 〔Õppeaine ÕIS-is〕]
-	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
 	
 	
 	[http://staff.ttu.ee/~akonist/sti/MSJE0270.html Õppematerjal]
 	
 	
+ip: 89.235.235.166
+summary: remove placeholder
+lastmajorsummary: 
+lastmajor: 5
