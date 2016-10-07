@@ -1,3 +1,9 @@
+minor: 
+summary: free books with TUT uniID
+keep-ts: 1475868600
+lastmajor: 66
+revision: 66
+host: 89.235.199.54
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -92,6 +98,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	=== Science / Teadus / Наука
 	* https://sci-hub.ac/ ([[http://sci-hub.bz/ .bz]], [[http://sci-hub.cc/ .cc]]) – public access to tens of millions of research papers. Backstory [[http://www.sciencealert.com/this-woman-has-illegally-uploaded-millions-of-journal-articles-in-an-attempt-to-open-up-science here]].
+	* http://tuee.eblib.com/ need to login with TUT uniID to start reading books (not all books are available)
 	
 	=== Scholarships / Õppetoetused / Стипендии
 	#ENG
@@ -237,13 +244,7 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-lastmajorsummary: https://professors.ee instead of https://oppejoud.ee/ in English translation
+lastmajorsummary: free books with TUT uniID
 languages: 
-lastmajor: 65
-keep-ts: 1474395721
-minor: 
-revision: 65
-username: AlexDaniel
-summary: https://professors.ee instead of https://oppejoud.ee/ in English translation
-host: 85.253.108.27
-ts: 1474395721
+ts: 1475868600
+username: Artur Gummel
