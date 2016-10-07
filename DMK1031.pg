@@ -1,6 +1,6 @@
+minor: 1
+languages: 
 ip: 89.235.235.166
-flags: 1
-revision: 4
 text: #SUBTITLE Andmete kodeerimine meditsiinis
 	#SUBURL [Course:108344 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Andmete kodeerimine meditsiinis
 	#LANG_END
 	
 	
-host: 82.131.7.230
-lastmajor: 2
 username: AlexDaniel
-blocks: [Course:108344 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924444
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
 keep-ts: 1441924444
-minor: 1
+lastmajor: 2
+revision: 4
+blocks: [Course:108344 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924444

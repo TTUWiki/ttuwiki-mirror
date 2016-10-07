@@ -1,10 +1,3 @@
-keep-ts: 1441924452
-username: AlexDaniel
-flags: 1
-languages: 
-host: 82.131.7.230
-revision: 2
-minor: 1
 text: #SUBTITLE Soojus- ja külmatehnika
 	#SUBURL [Course:109196 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +13,13 @@ text: #SUBTITLE Soojus- ja külmatehnika
 	#LANG_END
 	
 	
-blocks: [Course:109196 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+revision: 2
 ts: 1441924452
+blocks: [Course:109196 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
+flags: 10
+host: 82.131.7.230

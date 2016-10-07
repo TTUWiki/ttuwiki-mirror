@@ -1,8 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-blocks: [Course:109205 〔Õppeaine ÕIS-is〕]
-languages: 
-revision: 2
+blocks: [Course:109205 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
 host: 82.131.7.230
 text: #SUBTITLE Meresõiduohutus
 	#SUBURL [Course:109205 〔Õppeaine ÕIS-is〕]
@@ -19,7 +16,10 @@ text: #SUBTITLE Meresõiduohutus
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
-minor: 1
 keep-ts: 1441924452
+languages: 
+revision: 2
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ts: 1441924452

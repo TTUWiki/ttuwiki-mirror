@@ -1,10 +1,3 @@
-ts: 1441924444
-keep-ts: 1441924444
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-revision: 4
 text: #SUBTITLE Mäenduslik keskkonnakaitse
 	#SUBURL [Course:30490 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +13,15 @@ text: #SUBTITLE Mäenduslik keskkonnakaitse
 	#LANG_END
 	
 	
+host: 82.131.7.230
+ts: 1441924444
 username: AlexDaniel
-ip: 89.235.235.166
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30490 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-blocks: [Course:30490 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924444
+minor: 1
+revision: 4
+ip: 89.235.235.166
+flags: 10

@@ -1,9 +1,10 @@
+languages: 
 username: AlexDaniel
-keep-ts: 1441924449
+blocks: [Course:106155 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924449
 revision: 4
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
+flags: 10
+ip: 89.235.235.166
 text: #SUBTITLE Juhtmeta võrgud
 	#SUBURL [Course:106155 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Juhtmeta võrgud
 	#LANG_END
 	
 	
-blocks: [Course:106155 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 minor: 1
-languages: 
-ts: 1441924449
-ip: 89.235.235.166
+keep-ts: 1441924449

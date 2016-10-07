@@ -1,4 +1,9 @@
-flags: 1
+keep-ts: 1441924452
+username: AlexDaniel
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
 text: #SUBTITLE Ihtüopatoloogia ja veeorganismide toksikoloogia
 	#SUBURL [Course:108853 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +20,6 @@ text: #SUBTITLE Ihtüopatoloogia ja veeorganismide toksikoloogia
 	
 	
 revision: 2
-host: 82.131.7.230
-username: AlexDaniel
-minor: 1
 languages: 
-keep-ts: 1441924452
-blocks: [Course:108853 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
+blocks: [Course:108853 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

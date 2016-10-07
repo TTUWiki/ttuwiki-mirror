@@ -1,11 +1,4 @@
 host: 82.131.7.230
-blocks: [Course:109606 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 1
-revision: 2
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924447
 text: #SUBTITLE Kutsepedagoogika
 	#SUBURL [Course:109606 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +14,12 @@ text: #SUBTITLE Kutsepedagoogika
 	#LANG_END
 	
 	
-languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924447
+username: AlexDaniel
+languages: 
+minor: 1
+blocks: [Course:109606 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924447
+revision: 2

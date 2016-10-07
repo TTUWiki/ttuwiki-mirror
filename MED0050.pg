@@ -1,3 +1,15 @@
+ts: 1441924448
+revision: 4
+ip: 89.235.235.166
+host: 82.131.7.230
+keep-ts: 1441924448
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+minor: 1
+languages: 
+username: AlexDaniel
+flags: 10
+lastmajor: 2
+blocks: [Course:108458 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Brändidisain
 	#SUBURL [Course:108458 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +25,3 @@ text: #SUBTITLE Brändidisain
 	#LANG_END
 	
 	
-languages: 
-username: AlexDaniel
-lastmajor: 2
-ts: 1441924448
-flags: 1
-revision: 4
-blocks: [Course:108458 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924448
-minor: 1
-host: 82.131.7.230

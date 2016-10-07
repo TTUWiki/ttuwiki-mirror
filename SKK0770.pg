@@ -1,5 +1,5 @@
-keep-ts: 1441924450
-languages: 
+revision: 4
+lastmajor: 2
 text: #SUBTITLE Turismitoote arendus
 	#SUBURL [Course:100958 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +15,13 @@ text: #SUBTITLE Turismitoote arendus
 	#LANG_END
 	
 	
-lastmajor: 2
-username: AlexDaniel
-host: 82.131.7.230
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
 ts: 1441924450
-blocks: [Course:100958 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1
+blocks: [Course:100958 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1441924450
+host: 82.131.7.230

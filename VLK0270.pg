@@ -1,3 +1,4 @@
+minor: 1
 text: #SUBTITLE Külmutusprotsessi teooria
 	#SUBURL [Course:110100 〔Õppeaine ÕIS-is〕]
 	
@@ -13,13 +14,12 @@ text: #SUBTITLE Külmutusprotsessi teooria
 	#LANG_END
 	
 	
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
 host: 82.131.7.230
-ts: 1441924452
-keep-ts: 1441924452
-minor: 1
-username: AlexDaniel
 revision: 2
-blocks: [Course:110100 〔Õppeaine ÕIS-is〕]
+blocks: [Course:110100 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+username: AlexDaniel
+ts: 1441924452
+languages: 
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

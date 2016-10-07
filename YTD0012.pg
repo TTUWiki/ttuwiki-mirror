@@ -1,4 +1,9 @@
+keep-ts: 1441924453
+ip: 89.235.235.166
+revision: 4
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
 text: #SUBTITLE Kliinilis-laboratoorsed meetodid
 	#SUBURL [Course:30459 〔Õppeaine ÕIS-is〕]
 	
@@ -14,14 +19,9 @@ text: #SUBTITLE Kliinilis-laboratoorsed meetodid
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-languages: 
 username: AlexDaniel
-keep-ts: 1441924453
-revision: 4
-ts: 1441924453
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-blocks: [Course:30459 〔Õppeaine ÕIS-is〕]
+blocks: [Course:30459 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 lastmajor: 2
-flags: 1
+host: 82.131.7.230
+ts: 1441924453

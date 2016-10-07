@@ -1,14 +1,12 @@
-blocks: [Course:103065 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajor: 2
-ts: 1441924451
-host: 82.131.7.230
+flags: 10
 keep-ts: 1441924451
+languages: 
+revision: 4
+host: 82.131.7.230
+lastmajor: 2
 minor: 1
-ip: 89.235.235.166
-flags: 1
+blocks: [Course:103065 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Kultuuridevahelise kommunikatsiooni psühholoogia
 	#SUBURL [Course:103065 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +22,6 @@ text: #SUBTITLE Kultuuridevahelise kommunikatsiooni psühholoogia
 	#LANG_END
 	
 	
-revision: 4
+ip: 89.235.235.166
+ts: 1441924451
+username: AlexDaniel

@@ -1,11 +1,13 @@
-revision: 2
 username: AlexDaniel
-ts: 1441924452
 keep-ts: 1441924452
-minor: 1
+revision: 2
+blocks: [Course:108925 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 languages: 
-flags: 1
+host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Sillatöö organiseerimine ja juhtimine
 	#SUBURL [Course:108925 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +23,3 @@ text: #SUBTITLE Sillatöö organiseerimine ja juhtimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:108925 〔Õppeaine ÕIS-is〕]

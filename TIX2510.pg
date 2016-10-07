@@ -1,6 +1,6 @@
-blocks: [Course:40689 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-minor: 1
+keep-ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Teadustöö meetodid
 	#SUBURL [Course:40689 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +16,12 @@ text: #SUBTITLE Teadustöö meetodid
 	#LANG_END
 	
 	
-revision: 4
-flags: 1
+ip: 89.235.235.166
+blocks: [Course:40689 〔Õppeaine ÕIS-is〕]</div></div>
 languages: 
-keep-ts: 1441924451
-ts: 1441924451
 host: 82.131.7.230
-lastmajor: 2
+ts: 1441924451
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+lastmajor: 2
+minor: 1

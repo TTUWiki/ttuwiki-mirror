@@ -1,9 +1,6 @@
-flags: 1
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:38234 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924453
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Geneetika
 	#SUBURL [Course:38234 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +16,12 @@ text: #SUBTITLE Geneetika
 	#LANG_END
 	
 	
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-minor: 1
+revision: 4
 host: 82.131.7.230
+blocks: [Course:38234 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+lastmajor: 2
+ts: 1441924453
 keep-ts: 1441924453
-ip: 89.235.235.166

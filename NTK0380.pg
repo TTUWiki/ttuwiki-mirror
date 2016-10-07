@@ -14,14 +14,14 @@ text: #SUBTITLE Keskkonnafüüsika alused
 	#LANG_END
 	
 	
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 4
 host: 82.131.7.230
-blocks: [Course:38946 〔Õppeaine ÕIS-is〕]
-flags: 1
 minor: 1
-languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:38946 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+revision: 4
+username: AlexDaniel
 ts: 1441924449
+ip: 89.235.235.166
+flags: 10

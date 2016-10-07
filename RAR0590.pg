@@ -1,5 +1,4 @@
-flags: 1
-host: 82.131.7.230
+ts: 1441924449
 text: #SUBTITLE Masinatehnika
 	#SUBURL [Course:37679 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +14,14 @@ text: #SUBTITLE Masinatehnika
 	#LANG_END
 	
 	
+host: 82.131.7.230
 minor: 1
-ip: 89.235.235.166
-languages: 
-blocks: [Course:37679 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-lastmajor: 2
-ts: 1441924449
 revision: 4
+blocks: [Course:37679 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+keep-ts: 1441924449
+languages: 
+flags: 10
 username: AlexDaniel
+lastmajor: 2

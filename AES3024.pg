@@ -1,9 +1,13 @@
-ip: 89.235.235.166
-host: 82.131.7.230
-ts: 1441924444
-flags: 1
 lastmajor: 2
+keep-ts: 1441924444
 username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 1
+host: 82.131.7.230
+flags: 10
+ts: 1441924444
+languages: 
 text: #SUBTITLE Energiasüsteemid
 	#SUBURL [Course:25885 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +24,4 @@ text: #SUBTITLE Energiasüsteemid
 	
 	
 revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:25885 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1441924444
-minor: 1
+blocks: [Course:25885 〔Õppeaine ÕIS-is〕]</div></div>

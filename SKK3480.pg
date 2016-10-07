@@ -1,8 +1,5 @@
-lastmajor: 2
+ip: 89.235.235.166
 ts: 1441924450
-username: AlexDaniel
-flags: 1
-languages: 
 keep-ts: 1441924450
 revision: 4
 text: #SUBTITLE Turundus toitlustuses ja majutuses
@@ -20,8 +17,11 @@ text: #SUBTITLE Turundus toitlustuses ja majutuses
 	#LANG_END
 	
 	
-host: 82.131.7.230
+languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 minor: 1
-ip: 89.235.235.166
-blocks: [Course:29169 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+flags: 10
+blocks: [Course:29169 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

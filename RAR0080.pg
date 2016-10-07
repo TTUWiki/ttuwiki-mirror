@@ -1,14 +1,7 @@
-lastmajor: 2
-ip: 89.235.235.166
-flags: 1
-languages: 
-revision: 4
-host: 82.131.7.230
-minor: 1
 username: AlexDaniel
-blocks: [Course:34236 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+ip: 89.235.235.166
 text: #SUBTITLE Tootearendus ja probleemilahendus
 	#SUBURL [Course:34236 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +17,11 @@ text: #SUBTITLE Tootearendus ja probleemilahendus
 	#LANG_END
 	
 	
+minor: 1
+ts: 1441924449
+host: 82.131.7.230
+lastmajor: 2
+languages: 
+blocks: [Course:34236 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 keep-ts: 1441924449

@@ -1,10 +1,12 @@
-revision: 4
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-username: AlexDaniel
 keep-ts: 1441924449
+revision: 4
+ts: 1441924449
+ip: 89.235.235.166
+username: AlexDaniel
+blocks: [Course:38685 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+minor: 1
+lastmajor: 2
 text: #SUBTITLE Korrosioonitõrje
 	#SUBURL [Course:38685 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +22,6 @@ text: #SUBTITLE Korrosioonitõrje
 	#LANG_END
 	
 	
-ts: 1441924449
-ip: 89.235.235.166
-blocks: [Course:38685 〔Õppeaine ÕIS-is〕]
-flags: 1
-minor: 1
+host: 82.131.7.230
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

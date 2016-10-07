@@ -1,6 +1,13 @@
-keep-ts: 1441924452
+revision: 4
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924452
+languages: 
+minor: 1
+flags: 10
+ip: 89.235.235.166
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:101034 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
 text: #SUBTITLE Keemiliste reaktsioonide mehhanismid
 	#SUBURL [Course:101034 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +23,5 @@ text: #SUBTITLE Keemiliste reaktsioonide mehhanismid
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
-lastmajor: 2
-ts: 1441924452
-username: AlexDaniel
-flags: 1
-languages: 
-minor: 1
-revision: 4
+keep-ts: 1441924452
+blocks: [Course:101034 〔Õppeaine ÕIS-is〕]</div></div>

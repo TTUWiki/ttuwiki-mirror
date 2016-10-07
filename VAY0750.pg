@@ -1,6 +1,7 @@
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 revision: 2
-username: AlexDaniel
+keep-ts: 1441924452
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:110077 〔Õppeaine ÕIS-is〕]
 	
@@ -16,8 +17,9 @@ text: #SUBTITLE Füüsika
 	#LANG_END
 	
 	
-host: 82.131.7.230
+languages: 
+blocks: [Course:110077 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+flags: 10
 ts: 1441924452
-keep-ts: 1441924452
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

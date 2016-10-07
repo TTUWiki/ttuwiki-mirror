@@ -1,8 +1,12 @@
-keep-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-blocks: [Course:109637 〔Õppeaine ÕIS-is〕]
 languages: 
+minor: 1
+host: 82.131.7.230
+flags: 10
+keep-ts: 1441924447
+username: AlexDaniel
+blocks: [Course:109637 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 text: #SUBTITLE Meetodid täiskasvanute koolituses
 	#SUBURL [Course:109637 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +22,4 @@ text: #SUBTITLE Meetodid täiskasvanute koolituses
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 1
-revision: 2
-minor: 1
 ts: 1441924447

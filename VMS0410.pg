@@ -1,8 +1,11 @@
-flags: 1
+languages: 
 revision: 2
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
 username: AlexDaniel
 ts: 1441924452
-languages: 
 text: #SUBTITLE Sadamate juhtimine ja toimimine
 	#SUBURL [Course:110115 〔Õppeaine ÕIS-is〕]
 	
@@ -18,8 +21,5 @@ text: #SUBTITLE Sadamate juhtimine ja toimimine
 	#LANG_END
 	
 	
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+blocks: [Course:110115 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-blocks: [Course:110115 〔Õppeaine ÕIS-is〕]

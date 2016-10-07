@@ -1,4 +1,6 @@
-revision: 2
+blocks: [Course:109879 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+host: 82.131.7.230
 text: #SUBTITLE Eraisiku rahandus ja investeeringud
 	#SUBURL [Course:109879 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +16,10 @@ text: #SUBTITLE Eraisiku rahandus ja investeeringud
 	#LANG_END
 	
 	
-username: AlexDaniel
-ts: 1441924450
 keep-ts: 1441924450
-blocks: [Course:109879 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 2
+username: AlexDaniel
 minor: 1
-flags: 1
+ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

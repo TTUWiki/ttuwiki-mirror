@@ -1,10 +1,3 @@
-host: 85.253.108.27
-ts: 1475706721
-languages: 
-revision: 6
-username: AlexDaniel
-keep-ts: 1475706721
-minor: 1
 text: #SUBTITLE Biomassi termokeemiline muundamine
 	#SUBURL [Course:105995 〔Õppeaine ÕIS-is〕]
 	
@@ -12,7 +5,16 @@ text: #SUBTITLE Biomassi termokeemiline muundamine
 	[http://staff.ttu.ee/~akonist/sti/MSJE0270.html Õppematerjal]
 	
 	
+languages: 
+revision: 6
+lastmajorsummary: 
+ts: 1475706721
+lastmajor: 5
 ip: 89.235.235.166
 summary: remove placeholder
-lastmajorsummary: 
-lastmajor: 5
+flags: 1
+minor: 1
+host: 85.253.108.27
+username: AlexDaniel
+blocks: [Course:105995 〔Õppeaine ÕIS-is〕]
+keep-ts: 1475706721
