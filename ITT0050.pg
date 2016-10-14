@@ -1,12 +1,11 @@
-minor: 
+ts: 1476437807
+summary: Kolmas koduülesanne
+revision: 12
+languages: 
 ip: 89.235.235.166
-flags: 1
-summary: https://en.wikipedia.org/wiki/Chomsky_normal_form
-lastmajorsummary: https://en.wikipedia.org/wiki/Chomsky_normal_form
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
-username: Marjana Voronina
-ts: 1475647388
-host: 193.40.250.239
+username: Artur Gummel
+keep-ts: 1476437807
+host: 89.235.192.121
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +20,14 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	*[[File:20160930_112124.jpg]]
 	
+	**Kolmas koduülesanne**
 	
+	* [[File:ITT0050_HW3.jpg]]
+	
+	**Kolmas Harjutustund**
+	*[[File:ITT0050_Harjutus3_1.jpg]]
+	*[[File:ITT0050_Harjutus3_2.jpg]]
+	*[[File:ITT0050_Harjutus3_3.jpg]]
 	----
 	
 	http://cs.ioc.ee/RekKursus/
@@ -36,7 +42,6 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
 	
-lastmajor: 11
-revision: 11
-keep-ts: 1475647388
-languages: 
+lastmajorsummary: Kolmas koduülesanne
+minor: 
+lastmajor: 12
