@@ -1,6 +1,10 @@
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+ts: 1441924450
+minor: 1
+blocks: [Course:29111 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-lastmajor: 2
 text: #SUBTITLE Toiduvalmistamise alused
 	#SUBURL [Course:29111 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,8 @@ text: #SUBTITLE Toiduvalmistamise alused
 	#LANG_END
 	
 	
-minor: 1
-languages: 
+lastmajor: 2
 host: 82.131.7.230
-flags: 1
-revision: 4
+flags: 10
 keep-ts: 1441924450
-blocks: [Course:29111 〔Õppeaine ÕIS-is〕]
-ts: 1441924450
-username: AlexDaniel
+languages: 

@@ -1,5 +1,10 @@
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
+minor: 1
+ts: 1441924451
+flags: 10
+username: AlexDaniel
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Eesti keel II
 	#SUBURL [Course:102152 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Eesti keel II
 	#LANG_END
 	
 	
-username: AlexDaniel
-languages: 
-flags: 1
-minor: 1
-blocks: [Course:102152 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924451
-revision: 4
-ts: 1441924451
+host: 82.131.7.230
 lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:102152 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924451

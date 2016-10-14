@@ -1,7 +1,8 @@
-blocks: [Course:108826 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ts: 1441924452
+blocks: [Course:108826 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+minor: 1
+languages: 
+keep-ts: 1441924452
 text: #SUBTITLE Meresõidu ajalugu ja traditsioonid
 	#SUBURL [Course:108826 〔Õppeaine ÕIS-is〕]
 	
@@ -17,9 +18,8 @@ text: #SUBTITLE Meresõidu ajalugu ja traditsioonid
 	#LANG_END
 	
 	
-username: AlexDaniel
-flags: 1
-minor: 1
-languages: 
-keep-ts: 1441924452
 revision: 2
+host: 82.131.7.230
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452

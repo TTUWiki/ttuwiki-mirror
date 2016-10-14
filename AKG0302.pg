@@ -1,3 +1,5 @@
+minor: 1
+flags: 10
 text: #SUBTITLE Geoloogilised uuringumeetodid
 	#SUBURL [Course:109814 〔Õppeaine ÕIS-is〕]
 	
@@ -13,13 +15,11 @@ text: #SUBTITLE Geoloogilised uuringumeetodid
 	#LANG_END
 	
 	
-blocks: [Course:109814 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-languages: 
 revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
 username: AlexDaniel
-flags: 1
-minor: 1
+ts: 1441924444
+blocks: [Course:109814 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
+languages: 
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

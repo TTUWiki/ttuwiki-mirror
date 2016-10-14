@@ -1,11 +1,13 @@
-ip: 89.235.235.166
+flags: 10
 minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 2
+blocks: [Course:30651 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+ip: 89.235.235.166
 revision: 4
 keep-ts: 1441924445
-flags: 1
-lastmajor: 2
-ts: 1441924445
-username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Ventilatsioon - projekt
 	#SUBURL [Course:30651 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +23,5 @@ text: #SUBTITLE Ventilatsioon - projekt
 	#LANG_END
 	
 	
-host: 82.131.7.230
-blocks: [Course:30651 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
+ts: 1441924445
+username: AlexDaniel

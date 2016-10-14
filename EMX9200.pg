@@ -1,15 +1,11 @@
-revision: 4
-languages: 
-minor: 1
-host: 82.131.7.230
 username: AlexDaniel
+blocks: [Course:39913 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1
+languages: 
+revision: 4
 ts: 1441924445
-blocks: [Course:39913 〔Õppeaine ÕIS-is〕]
-flags: 1
-ip: 89.235.235.166
-lastmajor: 2
+flags: 10
 keep-ts: 1441924445
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Mehaanika erikursus doktorantidele
 	#SUBURL [Course:39913 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +21,7 @@ text: #SUBTITLE Mehaanika erikursus doktorantidele
 	#LANG_END
 	
 	
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+lastmajor: 2

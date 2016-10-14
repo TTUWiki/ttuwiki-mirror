@@ -1,5 +1,10 @@
+host: 82.131.7.230
+flags: 10
+keep-ts: 1441924452
 ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+blocks: [Course:108989 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Rannikumere hüdrodünaamika
 	#SUBURL [Course:108989 〔Õppeaine ÕIS-is〕]
 	
@@ -15,11 +20,6 @@ text: #SUBTITLE Rannikumere hüdrodünaamika
 	#LANG_END
 	
 	
-host: 82.131.7.230
 minor: 1
 revision: 2
-flags: 1
-blocks: [Course:108989 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-languages: 
 username: AlexDaniel

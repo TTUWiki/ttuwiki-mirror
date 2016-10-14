@@ -1,6 +1,5 @@
-keep-ts: 1441924453
-blocks: [Course:35897 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
 text: #SUBTITLE Variatsioonmeetodid
 	#SUBURL [Course:35897 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +15,13 @@ text: #SUBTITLE Variatsioonmeetodid
 	#LANG_END
 	
 	
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
 minor: 1
-languages: 
-flags: 1
-host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:35897 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924453
 ts: 1441924453
+host: 82.131.7.230
 revision: 4
+languages: 
+ip: 89.235.235.166
+lastmajor: 2

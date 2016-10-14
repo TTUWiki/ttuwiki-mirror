@@ -1,11 +1,5 @@
-languages: 
 minor: 1
-ts: 1441924449
-username: AlexDaniel
-host: 82.131.7.230
 revision: 2
-blocks: [Course:110020 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924449
 text: #SUBTITLE Mäemajandus
 	#SUBURL [Course:110020 〔Õppeaine ÕIS-is〕]
@@ -22,4 +16,10 @@ text: #SUBTITLE Mäemajandus
 	#LANG_END
 	
 	
-flags: 1
+host: 82.131.7.230
+flags: 10
+ts: 1441924449
+blocks: [Course:110020 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

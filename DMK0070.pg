@@ -1,5 +1,8 @@
-ts: 1441924444
-ip: 89.235.235.166
+keep-ts: 1441924444
+revision: 4
+lastmajor: 2
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Molekulaarmeditsiin
 	#SUBURL [Course:40913 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +18,10 @@ text: #SUBTITLE Molekulaarmeditsiin
 	#LANG_END
 	
 	
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
+ip: 89.235.235.166
+blocks: [Course:40913 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+languages: 
 username: AlexDaniel
 minor: 1
-blocks: [Course:40913 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-languages: 
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

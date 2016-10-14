@@ -1,10 +1,7 @@
-minor: 1
-flags: 1
-lastmajor: 2
-host: 82.131.7.230
+keep-ts: 1441924453
 languages: 
-username: AlexDaniel
-ip: 89.235.235.166
+blocks: [Course:33185 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 revision: 4
 text: #SUBTITLE Erialased ettekanded
 	#SUBURL [Course:33185 〔Õppeaine ÕIS-is〕]
@@ -21,7 +18,10 @@ text: #SUBTITLE Erialased ettekanded
 	#LANG_END
 	
 	
-blocks: [Course:33185 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 ts: 1441924453
-keep-ts: 1441924453
+flags: 10
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230

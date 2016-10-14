@@ -1,13 +1,10 @@
-flags: 1
-username: AlexDaniel
-keep-ts: 1441924452
-minor: 1
-revision: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+languages: 
+keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
-blocks: [Course:109100 〔Õppeaine ÕIS-is〕]
+flags: 10
+minor: 1
 text: #SUBTITLE Külmutusseadmete simulaatoripraktika I
 	#SUBURL [Course:109100 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +20,6 @@ text: #SUBTITLE Külmutusseadmete simulaatoripraktika I
 	#LANG_END
 	
 	
+revision: 2
+blocks: [Course:109100 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel

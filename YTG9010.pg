@@ -1,7 +1,14 @@
-flags: 1
+ts: 1441924453
+languages: 
+username: AlexDaniel
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 revision: 4
 lastmajor: 2
-minor: 1
+flags: 10
+host: 82.131.7.230
+blocks: [Course:33181 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Molekulaarne rakubioloogia
 	#SUBURL [Course:33181 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +24,4 @@ text: #SUBTITLE Molekulaarne rakubioloogia
 	#LANG_END
 	
 	
-ts: 1441924453
-host: 82.131.7.230
-ip: 89.235.235.166
-blocks: [Course:33181 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
 keep-ts: 1441924453
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 

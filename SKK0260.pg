@@ -1,10 +1,12 @@
-flags: 1
 keep-ts: 1441924450
-username: AlexDaniel
-ip: 89.235.235.166
-ts: 1441924450
-revision: 4
+languages: 
+minor: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924450
+lastmajor: 2
+host: 82.131.7.230
+blocks: [Course:32293 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
 text: #SUBTITLE Sotsiaalpsühholoogia
 	#SUBURL [Course:32293 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +22,6 @@ text: #SUBTITLE Sotsiaalpsühholoogia
 	#LANG_END
 	
 	
-minor: 1
-host: 82.131.7.230
-languages: 
-blocks: [Course:32293 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+flags: 10
+ip: 89.235.235.166
+username: AlexDaniel

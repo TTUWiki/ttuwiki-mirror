@@ -1,11 +1,5 @@
-flags: 1
-host: 82.131.7.230
-minor: 1
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 2
-blocks: [Course:108978 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
+minor: 1
 languages: 
 text: #SUBTITLE Motoristipraktika
 	#SUBURL [Course:108978 〔Õppeaine ÕIS-is〕]
@@ -22,4 +16,10 @@ text: #SUBTITLE Motoristipraktika
 	#LANG_END
 	
 	
+keep-ts: 1441924452
 username: AlexDaniel
+ts: 1441924452
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108978 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230

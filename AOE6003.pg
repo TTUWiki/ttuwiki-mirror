@@ -1,7 +1,13 @@
-host: 82.131.7.230
-lastmajor: 2
-flags: 1
+ip: 89.235.235.166
+flags: 10
+username: AlexDaniel
+minor: 1
+blocks: [Course:103087 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ts: 1441924444
+revision: 4
 text: #SUBTITLE Merendusklaster Eestis ja Euroopa riikides
 	#SUBURL [Course:103087 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +23,5 @@ text: #SUBTITLE Merendusklaster Eestis ja Euroopa riikides
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924444
-username: AlexDaniel
-blocks: [Course:103087 〔Õppeaine ÕIS-is〕]
-revision: 4
 languages: 
-minor: 1
+lastmajor: 2

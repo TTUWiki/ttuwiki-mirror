@@ -1,4 +1,8 @@
 host: 82.131.7.230
+minor: 1
+revision: 2
+username: AlexDaniel
+keep-ts: 1441924449
 text: #SUBTITLE Kaevandamiskeskkond ja -ohutus
 	#SUBURL [Course:109736 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +18,8 @@ text: #SUBTITLE Kaevandamiskeskkond ja -ohutus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-username: AlexDaniel
-flags: 1
-keep-ts: 1441924449
-blocks: [Course:109736 〔Õppeaine ÕIS-is〕]
 ts: 1441924449
+blocks: [Course:109736 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 languages: 
-minor: 1

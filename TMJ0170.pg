@@ -1,7 +1,5 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924451
+languages: 
 ts: 1441924451
-minor: 1
 text: #SUBTITLE Varude juhtimine
 	#SUBURL [Course:106266 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +15,13 @@ text: #SUBTITLE Varude juhtimine
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-lastmajor: 2
 host: 82.131.7.230
-revision: 4
-flags: 1
+flags: 10
+ip: 89.235.235.166
 username: AlexDaniel
-blocks: [Course:106266 〔Õppeaine ÕIS-is〕]
-languages: 
+keep-ts: 1441924451
+revision: 4
+lastmajor: 2
+minor: 1
+blocks: [Course:106266 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

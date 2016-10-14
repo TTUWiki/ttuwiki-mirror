@@ -1,14 +1,9 @@
-flags: 1
-username: AlexDaniel
-minor: 1
-revision: 4
-ts: 1441924450
-blocks: [Course:36833 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-lastmajor: 2
+blocks: [Course:36833 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+keep-ts: 1441924450
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheline majandus
 	#SUBURL [Course:36833 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +19,9 @@ text: #SUBTITLE Rahvusvaheline majandus
 	#LANG_END
 	
 	
-keep-ts: 1441924450
+flags: 10
+lastmajor: 2
+revision: 4
+ts: 1441924450
+username: AlexDaniel
+minor: 1

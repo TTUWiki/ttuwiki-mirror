@@ -1,9 +1,12 @@
-flags: 1
+flags: 10
 username: AlexDaniel
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 revision: 2
 ts: 1441924449
+blocks: [Course:109870 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+host: 82.131.7.230
 text: #SUBTITLE Füüsikaline keemia I
 	#SUBURL [Course:109870 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +22,4 @@ text: #SUBTITLE Füüsikaline keemia I
 	#LANG_END
 	
 	
-keep-ts: 1441924449
-host: 82.131.7.230
-languages: 
-blocks: [Course:109870 〔Õppeaine ÕIS-is〕]
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,6 +1,15 @@
+keep-ts: 1441924448
 languages: 
 minor: 1
-blocks: [Course:101041 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+username: AlexDaniel
+ts: 1441924448
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:101041 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+lastmajor: 2
+revision: 4
 text: #SUBTITLE Varud ja ladustamine
 	#SUBURL [Course:101041 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Varud ja ladustamine
 	#LANG_END
 	
 	
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924448
-host: 82.131.7.230
-keep-ts: 1441924448
-flags: 1
-lastmajor: 2
-username: AlexDaniel
-ip: 89.235.235.166

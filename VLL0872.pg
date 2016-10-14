@@ -1,10 +1,12 @@
 host: 82.131.7.230
-keep-ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
+flags: 10
+minor: 1
 languages: 
 username: AlexDaniel
-revision: 2
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+blocks: [Course:109263 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Meresõiduohutus II
 	#SUBURL [Course:109263 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +22,4 @@ text: #SUBTITLE Meresõiduohutus II
 	#LANG_END
 	
 	
-blocks: [Course:109263 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-minor: 1
+keep-ts: 1441924452

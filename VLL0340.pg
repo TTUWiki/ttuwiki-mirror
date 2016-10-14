@@ -1,11 +1,9 @@
-revision: 2
-host: 82.131.7.230
-minor: 1
-blocks: [Course:108923 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924452
 username: AlexDaniel
-flags: 1
+languages: 
+host: 82.131.7.230
+revision: 2
+ts: 1441924452
 text: #SUBTITLE Lasti käsitlus I
 	#SUBURL [Course:108923 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +19,7 @@ text: #SUBTITLE Lasti käsitlus I
 	#LANG_END
 	
 	
-keep-ts: 1441924452
-languages: 
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108923 〔Õppeaine ÕIS-is〕]</div></div>
+minor: 1

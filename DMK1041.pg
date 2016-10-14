@@ -1,15 +1,12 @@
-lastmajor: 2
-flags: 1
-host: 82.131.7.230
-blocks: [Course:108357 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1441924444
 username: AlexDaniel
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:108357 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924444
-languages: 
+ip: 89.235.235.166
+host: 82.131.7.230
+flags: 10
+lastmajor: 2
 revision: 4
+minor: 1
 text: #SUBTITLE Meditsiinis kasutatavad signaalid
 	#SUBURL [Course:108357 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Meditsiinis kasutatavad signaalid
 	#LANG_END
 	
 	
+keep-ts: 1441924444
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

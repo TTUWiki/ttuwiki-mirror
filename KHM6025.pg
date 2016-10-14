@@ -1,12 +1,10 @@
-blocks: [Course:103116 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
-ip: 89.235.235.166
-ts: 1441924447
 keep-ts: 1441924447
+ts: 1441924447
+lastmajor: 2
+ip: 89.235.235.166
+username: AlexDaniel
+minor: 1
+languages: 
 text: #SUBTITLE Meremeteoroloogia
 	#SUBURL [Course:103116 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +20,8 @@ text: #SUBTITLE Meremeteoroloogia
 	#LANG_END
 	
 	
-username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+host: 82.131.7.230
 revision: 4
-minor: 1
+blocks: [Course:103116 〔Õppeaine ÕIS-is〕]</div></div>

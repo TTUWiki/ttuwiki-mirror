@@ -1,9 +1,12 @@
-ip: 89.235.235.166
-ts: 1441924444
-languages: 
+lastmajor: 2
+blocks: [Course:40878 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924444
 username: AlexDaniel
-minor: 1
-flags: 1
+languages: 
+ts: 1441924444
+host: 82.131.7.230
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Onkobioloogia
 	#SUBURL [Course:40878 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +22,6 @@ text: #SUBTITLE Onkobioloogia
 	#LANG_END
 	
 	
-keep-ts: 1441924444
-revision: 4
-host: 82.131.7.230
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:40878 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+minor: 1
+flags: 10

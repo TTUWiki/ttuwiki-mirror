@@ -1,9 +1,9 @@
-blocks: [Course:107130 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924445
-username: AlexDaniel
-minor: 1
+ip: 89.235.235.166
+lastmajor: 2
 ts: 1441924445
-languages: 
+keep-ts: 1441924445
+minor: 1
+revision: 4
 text: #SUBTITLE Kompositsioon II
 	#SUBURL [Course:107130 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +19,9 @@ text: #SUBTITLE Kompositsioon II
 	#LANG_END
 	
 	
-lastmajor: 2
-flags: 1
-revision: 4
-host: 82.131.7.230
-ip: 89.235.235.166
+blocks: [Course:107130 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+languages: 
+username: AlexDaniel
+flags: 10

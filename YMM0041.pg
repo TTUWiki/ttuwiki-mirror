@@ -1,11 +1,3 @@
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230
-revision: 4
-lastmajor: 2
-blocks: [Course:101068 〔Õppeaine ÕIS-is〕]
-flags: 1
 text: #SUBTITLE Funktsionaalanalüüsi elemendid
 	#SUBURL [Course:101068 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +13,15 @@ text: #SUBTITLE Funktsionaalanalüüsi elemendid
 	#LANG_END
 	
 	
+host: 82.131.7.230
 username: AlexDaniel
-keep-ts: 1441924452
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+revision: 4
+ip: 89.235.235.166
 ts: 1441924452
+languages: 
+blocks: [Course:101068 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
+minor: 1
+keep-ts: 1441924452

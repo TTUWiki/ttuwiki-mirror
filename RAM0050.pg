@@ -1,6 +1,15 @@
-keep-ts: 1441924449
+lastmajor: 2
+ip: 89.235.235.166
+languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:106219 〔Õppeaine ÕIS-is〕]</div></div>
 ts: 1441924449
-flags: 1
+keep-ts: 1441924449
+username: AlexDaniel
+host: 82.131.7.230
+minor: 1
+revision: 4
+flags: 10
 text: #SUBTITLE Tõenäosusteooria
 	#SUBURL [Course:106219 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +25,3 @@ text: #SUBTITLE Tõenäosusteooria
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-blocks: [Course:106219 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
-host: 82.131.7.230
-languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel

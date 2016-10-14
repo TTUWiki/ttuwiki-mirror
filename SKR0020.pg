@@ -1,14 +1,6 @@
-ip: 89.235.235.166
-host: 82.131.7.230
-languages: 
-minor: 1
 ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1441924450
-blocks: [Course:108324 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
+username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Programmeerimise alused
 	#SUBURL [Course:108324 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +16,12 @@ text: #SUBTITLE Programmeerimise alused
 	#LANG_END
 	
 	
-username: AlexDaniel
+blocks: [Course:108324 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924450
+revision: 4
+languages: 
+lastmajor: 2
+minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166

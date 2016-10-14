@@ -1,6 +1,7 @@
-flags: 1
-minor: 1
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 ts: 1441924452
+blocks: [Course:109079 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 keep-ts: 1441924452
 text: #SUBTITLE Meremajanduse alused
 	#SUBURL [Course:109079 〔Õppeaine ÕIS-is〕]
@@ -17,9 +18,8 @@ text: #SUBTITLE Meremajanduse alused
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 2
 languages: 
+minor: 1
+revision: 2
 host: 82.131.7.230
-blocks: [Course:109079 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel

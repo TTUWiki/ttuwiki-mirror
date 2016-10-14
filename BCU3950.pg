@@ -1,15 +1,12 @@
-minor: 1
-host: 82.131.7.230
-ts: 1441924444
-blocks: [Course:106029 〔Õppeaine ÕIS-is〕]
-flags: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-revision: 4
-ip: 89.235.235.166
-keep-ts: 1441924444
+ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
+minor: 1
 lastmajor: 2
+blocks: [Course:106029 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ip: 89.235.235.166
 text: #SUBTITLE Panganduse ja finantsturgude õigus
 	#SUBURL [Course:106029 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +22,6 @@ text: #SUBTITLE Panganduse ja finantsturgude õigus
 	#LANG_END
 	
 	
+keep-ts: 1441924444
+flags: 10
+revision: 4

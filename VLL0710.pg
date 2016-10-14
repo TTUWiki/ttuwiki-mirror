@@ -1,11 +1,12 @@
-keep-ts: 1441924452
-flags: 1
-host: 82.131.7.230
+flags: 10
 ts: 1441924452
+languages: 
+keep-ts: 1441924452
 username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109018 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Simulaatortreening
 	#SUBURL [Course:109018 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +22,4 @@ text: #SUBTITLE Simulaatortreening
 	#LANG_END
 	
 	
-languages: 
-blocks: [Course:109018 〔Õppeaine ÕIS-is〕]
+revision: 2

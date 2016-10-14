@@ -1,10 +1,5 @@
-blocks: [Course:108966 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924452
-languages: 
 minor: 1
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
+languages: 
 text: #SUBTITLE Metallide tehnoloogia, materjalid II
 	#SUBURL [Course:108966 〔Õppeaine ÕIS-is〕]
 	
@@ -20,6 +15,11 @@ text: #SUBTITLE Metallide tehnoloogia, materjalid II
 	#LANG_END
 	
 	
+blocks: [Course:108966 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
 username: AlexDaniel
+ts: 1441924452
+keep-ts: 1441924452
+flags: 10
 revision: 2
-flags: 1

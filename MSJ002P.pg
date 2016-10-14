@@ -1,13 +1,10 @@
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-flags: 1
-blocks: [Course:31748 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 2
-revision: 4
-minor: 1
+blocks: [Course:31748 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
+ip: 89.235.235.166
+lastmajor: 2
+keep-ts: 1441924448
+flags: 10
 text: #SUBTITLE Praktika
 	#SUBURL [Course:31748 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +20,8 @@ text: #SUBTITLE Praktika
 	#LANG_END
 	
 	
+username: AlexDaniel
+languages: 
 ts: 1441924448
-keep-ts: 1441924448
+revision: 4
+minor: 1

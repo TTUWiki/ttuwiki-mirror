@@ -1,11 +1,3 @@
-flags: 1
-revision: 2
-keep-ts: 1441924452
-blocks: [Course:109088 〔Õppeaine ÕIS-is〕]
-languages: 
-ts: 1441924452
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Sadamate ohutus ja turvalisus
 	#SUBURL [Course:109088 〔Õppeaine ÕIS-is〕]
 	
@@ -22,4 +14,12 @@ text: #SUBTITLE Sadamate ohutus ja turvalisus
 	
 	
 minor: 1
+blocks: [Course:109088 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+keep-ts: 1441924452
+username: AlexDaniel
+ts: 1441924452
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 host: 82.131.7.230
+languages: 

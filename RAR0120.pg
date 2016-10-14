@@ -1,10 +1,15 @@
-minor: 1
+flags: 10
+ts: 1441924449
+username: AlexDaniel
+keep-ts: 1441924449
+ip: 89.235.235.166
+lastmajor: 2
 languages: 
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924449
-blocks: [Course:34250 〔Õppeaine ÕIS-is〕]
-ts: 1441924449
-lastmajor: 2
+minor: 1
+blocks: [Course:34250 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Turundus
 	#SUBURL [Course:34250 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +25,3 @@ text: #SUBTITLE Turundus
 	#LANG_END
 	
 	
-flags: 1
-host: 82.131.7.230
-ip: 89.235.235.166
-revision: 4
-username: AlexDaniel

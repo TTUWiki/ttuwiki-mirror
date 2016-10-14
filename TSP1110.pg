@@ -1,15 +1,5 @@
-keep-ts: 1441924451
-ip: 89.235.235.166
-host: 82.131.7.230
-minor: 1
-lastmajor: 2
 ts: 1441924451
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:102144 〔Õppeaine ÕIS-is〕]
-revision: 4
-flags: 1
-username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Rahvusvaheliste konfliktide reguleerimine
 	#SUBURL [Course:102144 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +15,13 @@ text: #SUBTITLE Rahvusvaheliste konfliktide reguleerimine
 	#LANG_END
 	
 	
+lastmajor: 2
+ip: 89.235.235.166
+blocks: [Course:102144 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+revision: 4
+minor: 1
+keep-ts: 1441924451
+languages: 
+flags: 10

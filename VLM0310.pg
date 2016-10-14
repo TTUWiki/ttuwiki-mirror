@@ -1,12 +1,12 @@
-flags: 1
+flags: 10
 languages: 
-revision: 2
-ts: 1441924452
-minor: 1
-blocks: [Course:109165 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:109165 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924452
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+revision: 2
+minor: 1
 username: AlexDaniel
 text: #SUBTITLE Lõpueksam: Laevaremondi tehnoloogia
 	#SUBURL [Course:109165 〔Õppeaine ÕIS-is〕]

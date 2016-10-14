@@ -1,10 +1,5 @@
-diff-major: 
-username: 
-ip: 89.235.239.240
-blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
+ts: 1402681668
+flags: 
 text: На сайте значительные изменения!
 	
 	* Доработан дизайн, теперь страницы должны гораздо лучше отображаться на широких мониторах.
@@ -18,12 +13,17 @@ text: На сайте значительные изменения!
 	
 	-- AlexDaniel 2014-03-18 02:49:59
 	
-revision: 2
-host: 89-235-239-240.saturn.infonet.ee
-flags: 01
-minor: 1
-summary: 
 lastmajor: 1
 keep-ts: 1402681668
-ts: 1402681668
+username: 
 languages: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
+host: 89-235-239-240.saturn.infonet.ee
+blocks: 
+revision: 2
+ip: 89.235.239.240
+minor: 1
+diff-major: 
+summary: 

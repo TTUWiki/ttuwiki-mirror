@@ -1,14 +1,15 @@
-flags: 1
+ip: 89.235.235.166
 username: AlexDaniel
 languages: 
+blocks: [Course:101441 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924451
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
 keep-ts: 1441924451
 lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-ts: 1441924451
-blocks: [Course:101441 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
 minor: 1
+revision: 4
+host: 82.131.7.230
 text: #SUBTITLE Teaduskirjandus ja -kommunikatsioon
 	#SUBURL [Course:101441 〔Õppeaine ÕIS-is〕]
 	
@@ -24,4 +25,3 @@ text: #SUBTITLE Teaduskirjandus ja -kommunikatsioon
 	#LANG_END
 	
 	
-host: 82.131.7.230

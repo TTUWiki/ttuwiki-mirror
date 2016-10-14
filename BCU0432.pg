@@ -1,8 +1,14 @@
+revision: 4
+flags: 10
+ts: 1441924444
+username: AlexDaniel
+ip: 89.235.235.166
 keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:33397 〔Õppeaine ÕIS-is〕]</div></div>
 lastmajor: 2
-flags: 1
-blocks: [Course:33397 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
+minor: 1
 text: #SUBTITLE Statistika - ainetöö
 	#SUBURL [Course:33397 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +24,4 @@ text: #SUBTITLE Statistika - ainetöö
 	#LANG_END
 	
 	
-revision: 4
-ts: 1441924444
-ip: 89.235.235.166
-username: AlexDaniel
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 

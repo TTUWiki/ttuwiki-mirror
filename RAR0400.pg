@@ -1,10 +1,13 @@
+revision: 4
+minor: 1
+host: 82.131.7.230
 ts: 1441924449
+blocks: [Course:34392 〔Õppeaine ÕIS-is〕]</div></div>
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 languages: 
-username: AlexDaniel
-flags: 1
 lastmajor: 2
-blocks: [Course:34392 〔Õppeaine ÕIS-is〕]
+flags: 10
+keep-ts: 1441924449
 text: #SUBTITLE Kompilaatorid
 	#SUBURL [Course:34392 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +23,5 @@ text: #SUBTITLE Kompilaatorid
 	#LANG_END
 	
 	
-revision: 4
-host: 82.131.7.230
-keep-ts: 1441924449
 ip: 89.235.235.166
-minor: 1
+username: AlexDaniel

@@ -1,13 +1,4 @@
-blocks: [Course:102047 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-keep-ts: 1441924451
-host: 82.131.7.230
 username: AlexDaniel
-minor: 1
-revision: 4
-languages: 
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Euroopa integratsioon
 	#SUBURL [Course:102047 〔Õppeaine ÕIS-is〕]
 	
@@ -23,5 +14,14 @@ text: #SUBTITLE Euroopa integratsioon
 	#LANG_END
 	
 	
-flags: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 ts: 1441924451
+lastmajor: 2
+keep-ts: 1441924451
+ip: 89.235.235.166
+minor: 1
+languages: 
+blocks: [Course:102047 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10

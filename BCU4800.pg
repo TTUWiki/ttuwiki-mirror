@@ -1,13 +1,12 @@
-languages: 
-host: 82.131.7.230
-keep-ts: 1441924444
 minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+keep-ts: 1441924444
 revision: 2
+flags: 10
 ts: 1441924444
-blocks: [Course:109410 〔Õppeaine ÕIS-is〕]
-flags: 1
+host: 82.131.7.230
+username: AlexDaniel
+languages: 
+blocks: [Course:109410 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Teenuste loomine (disain) ja juhtimine
 	#SUBURL [Course:109410 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +22,4 @@ text: #SUBTITLE Teenuste loomine (disain) ja juhtimine
 	#LANG_END
 	
 	
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

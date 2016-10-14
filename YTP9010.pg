@@ -1,8 +1,5 @@
-revision: 4
-keep-ts: 1441924453
 host: 82.131.7.230
-lastmajor: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 4
 text: #SUBTITLE Molekulaargeneetika erikursus
 	#SUBURL [Course:33190 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +15,13 @@ text: #SUBTITLE Molekulaargeneetika erikursus
 	#LANG_END
 	
 	
+blocks: [Course:33190 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1441924453
+minor: 1
+lastmajor: 2
+flags: 10
+ts: 1441924453
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 username: AlexDaniel
 languages: 
-minor: 1
-ts: 1441924453
-flags: 1
-blocks: [Course:33190 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166

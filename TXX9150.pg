@@ -1,10 +1,9 @@
-revision: 4
-minor: 1
-ts: 1441924452
-blocks: [Course:37353 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
 keep-ts: 1441924452
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+minor: 1
+ip: 89.235.235.166
+revision: 4
 text: #SUBTITLE Uurimis- ja õpetamispraktika
 	#SUBURL [Course:37353 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +19,9 @@ text: #SUBTITLE Uurimis- ja õpetamispraktika
 	#LANG_END
 	
 	
+blocks: [Course:37353 〔Õppeaine ÕIS-is〕]</div></div>
 host: 82.131.7.230
 lastmajor: 2
-ip: 89.235.235.166
-username: AlexDaniel
 languages: 
+ts: 1441924452
+flags: 10

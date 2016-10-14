@@ -1,13 +1,7 @@
-blocks: [Course:108999 〔Õppeaine ÕIS-is〕]
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 2
-keep-ts: 1441924452
-username: AlexDaniel
-languages: 
-flags: 1
-minor: 1
 host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10
+keep-ts: 1441924452
 text: #SUBTITLE Merefüüsika
 	#SUBURL [Course:108999 〔Õppeaine ÕIS-is〕]
 	
@@ -23,3 +17,9 @@ text: #SUBTITLE Merefüüsika
 	#LANG_END
 	
 	
+blocks: [Course:108999 〔Õppeaine ÕIS-is〕]</div></div>
+username: AlexDaniel
+ts: 1441924452
+languages: 
+minor: 1
+revision: 2

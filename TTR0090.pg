@@ -1,3 +1,9 @@
+languages: 
+ip: 89.235.235.166
+username: AlexDaniel
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:100661 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Sissejuhatus linnaökonoomikasse
 	#SUBURL [Course:100661 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +19,9 @@ text: #SUBTITLE Sissejuhatus linnaökonoomikasse
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
-blocks: [Course:100661 〔Õppeaine ÕIS-is〕]
 host: 82.131.7.230
-keep-ts: 1441924451
-revision: 4
-username: AlexDaniel
-ip: 89.235.235.166
-ts: 1441924451
-flags: 1
 lastmajor: 2
+revision: 4
+minor: 1
+keep-ts: 1441924451
+ts: 1441924451

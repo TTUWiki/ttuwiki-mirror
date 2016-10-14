@@ -1,9 +1,10 @@
-minor: 1
-languages: 
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924452
-ts: 1441924452
+username: AlexDaniel
+revision: 2
+flags: 10
 host: 82.131.7.230
-flags: 1
+blocks: [Course:110091 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Kõrgem geodeesia - ainetöö
 	#SUBURL [Course:110091 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +20,6 @@ text: #SUBTITLE Kõrgem geodeesia - ainetöö
 	#LANG_END
 	
 	
-username: AlexDaniel
-revision: 2
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:110091 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+minor: 1
+languages: 

@@ -1,4 +1,9 @@
+minor: 1
+blocks: [Course:37703 〔Õppeaine ÕIS-is〕]</div></div>
+host: 82.131.7.230
+ts: 1441924449
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924449
 text: #SUBTITLE Kütusetööstuse protsessid ja seadmed II
 	#SUBURL [Course:37703 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +20,8 @@ text: #SUBTITLE Kütusetööstuse protsessid ja seadmed II
 	
 	
 lastmajor: 2
-username: AlexDaniel
-languages: 
-ts: 1441924449
 revision: 4
-keep-ts: 1441924449
+flags: 10
+username: AlexDaniel
 ip: 89.235.235.166
-blocks: [Course:37703 〔Õppeaine ÕIS-is〕]
-minor: 1
-flags: 1
-host: 82.131.7.230
+languages: 
