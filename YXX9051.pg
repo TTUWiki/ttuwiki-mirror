@@ -1,3 +1,5 @@
+ts: 1441924453
+username: AlexDaniel
 text: #SUBTITLE Erialase õpetamise metoodika
 	#SUBURL [Course:101123 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +15,13 @@ text: #SUBTITLE Erialase õpetamise metoodika
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-flags: 1
 languages: 
+blocks: [Course:101123 〔Õppeaine ÕIS-is〕]</div></div>
 keep-ts: 1441924453
-revision: 4
-lastmajor: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924453
-host: 82.131.7.230
+ip: 89.235.235.166
 minor: 1
-blocks: [Course:101123 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
+revision: 4
+flags: 10
+host: 82.131.7.230
+lastmajor: 2

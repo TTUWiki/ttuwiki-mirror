@@ -1,11 +1,4 @@
-languages: 
-ts: 1441924452
-minor: 1
-keep-ts: 1441924452
-revision: 2
-username: AlexDaniel
-host: 82.131.7.230
-flags: 1
+blocks: [Course:108916 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Tuleohutus
 	#SUBURL [Course:108916 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +14,12 @@ text: #SUBTITLE Tuleohutus
 	#LANG_END
 	
 	
-blocks: [Course:108916 〔Õppeaine ÕIS-is〕]
+flags: 10
+username: AlexDaniel
+revision: 2
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+ts: 1441924452
+keep-ts: 1441924452
+minor: 1
+languages: 

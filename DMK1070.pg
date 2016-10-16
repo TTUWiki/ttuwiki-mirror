@@ -1,5 +1,5 @@
-ip: 89.235.235.166
-ts: 1441924444
+languages: 
+blocks: [Course:101820 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Inimese õpetus
 	#SUBURL [Course:101820 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +15,13 @@ text: #SUBTITLE Inimese õpetus
 	#LANG_END
 	
 	
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+ts: 1441924444
+ip: 89.235.235.166
 minor: 1
 revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 keep-ts: 1441924444
-blocks: [Course:101820 〔Õppeaine ÕIS-is〕]
+flags: 10
 host: 82.131.7.230
-username: AlexDaniel
 lastmajor: 2
-languages: 
+username: AlexDaniel

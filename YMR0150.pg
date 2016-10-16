@@ -1,14 +1,8 @@
-keep-ts: 1441924453
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-blocks: [Course:32613 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-ts: 1441924453
-host: 82.131.7.230
-lastmajor: 2
+blocks: [Course:32613 〔Õppeaine ÕIS-is〕]</div></div>
 minor: 1
-languages: 
-flags: 1
+keep-ts: 1441924453
+username: AlexDaniel
+host: 82.131.7.230
 text: #SUBTITLE Mittelineaarsed diferentsiaalvõrrandid
 	#SUBURL [Course:32613 〔Õppeaine ÕIS-is〕]
 	
@@ -25,3 +19,9 @@ text: #SUBTITLE Mittelineaarsed diferentsiaalvõrrandid
 	
 	
 ip: 89.235.235.166
+lastmajor: 2
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1441924453
+flags: 10

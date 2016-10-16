@@ -1,5 +1,11 @@
-minor: 1
+host: 82.131.7.230
 username: AlexDaniel
+languages: 
+minor: 1
+keep-ts: 1441924450
+ts: 1441924450
+blocks: [Course:37100 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajor: 2
 text: #SUBTITLE Finantsarvestuse alused
 	#SUBURL [Course:37100 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +21,7 @@ text: #SUBTITLE Finantsarvestuse alused
 	#LANG_END
 	
 	
-languages: 
-keep-ts: 1441924450
-ip: 89.235.235.166
-blocks: [Course:37100 〔Õppeaine ÕIS-is〕]
-flags: 1
-lastmajor: 2
-ts: 1441924450
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-host: 82.131.7.230
 revision: 4
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+flags: 10

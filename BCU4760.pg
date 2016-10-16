@@ -1,6 +1,11 @@
-keep-ts: 1441924444
-blocks: [Course:109407 〔Õppeaine ÕIS-is〕]
+revision: 2
+host: 82.131.7.230
 minor: 1
+keep-ts: 1441924444
+blocks: [Course:109407 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924444
+flags: 10
+languages: 
 text: #SUBTITLE Juhtimissituatsioonide analüüs
 	#SUBURL [Course:109407 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +21,5 @@ text: #SUBTITLE Juhtimissituatsioonide analüüs
 	#LANG_END
 	
 	
-ts: 1441924444
-revision: 2
-host: 82.131.7.230
-languages: 
 username: AlexDaniel
-flags: 1
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

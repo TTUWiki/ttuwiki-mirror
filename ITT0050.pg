@@ -1,10 +1,13 @@
-ts: 1476437807
-summary: Kolmas koduülesanne
-revision: 12
-languages: 
+lastmajor: 12
 ip: 89.235.235.166
-username: Artur Gummel
+languages: 
+flags: 1
+summary: Kolmas koduülesanne
 keep-ts: 1476437807
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Kolmas koduülesanne
+revision: 12
+minor: 
 host: 89.235.192.121
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
@@ -42,6 +45,5 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
 	
-lastmajorsummary: Kolmas koduülesanne
-minor: 
-lastmajor: 12
+ts: 1476437807
+username: Artur Gummel

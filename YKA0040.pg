@@ -1,9 +1,11 @@
-languages: 
-username: AlexDaniel
-host: 82.131.7.230
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
+ts: 1441924452
+keep-ts: 1441924452
 lastmajor: 2
+flags: 10
+minor: 1
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+blocks: [Course:31884 〔Õppeaine ÕIS-is〕]</div></div>
 text: #SUBTITLE Lahutusmeetodid keemias
 	#SUBURL [Course:31884 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +21,7 @@ text: #SUBTITLE Lahutusmeetodid keemias
 	#LANG_END
 	
 	
-ts: 1441924452
+username: AlexDaniel
+host: 82.131.7.230
+languages: 
 revision: 4
-keep-ts: 1441924452
-ip: 89.235.235.166
-blocks: [Course:31884 〔Õppeaine ÕIS-is〕]
-minor: 1
