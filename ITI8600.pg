@@ -1,11 +1,13 @@
-ts: 1476607654
-keep-ts: 1476607654
 lastmajor: 8
+lastmajorsummary: First Homework
+host: 89.235.192.121
+username: Artur Gummel
+flags: 1
+languages: 
+blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
 minor: 1
 revision: 9
 summary: 
-host: 89.235.192.121
-lastmajorsummary: First Homework
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	
@@ -39,5 +41,5 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	
 	
 	
-username: Artur Gummel
-languages: 
+keep-ts: 1476607654
+ts: 1476607654
