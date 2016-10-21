@@ -1,5 +1,14 @@
 ip: 89.235.235.166
+username: AlexDaniel
 summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924446
+minor: 1
+languages: 
+revision: 4
+keep-ts: 1441924446
+host: 82.131.7.230
+blocks: [Course:104861 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 text: #SUBTITLE Poliitika analüüs ja hindamine
 	#SUBURL [Course:104861 〔Õppeaine ÕIS-is〕]
 	
@@ -15,13 +24,4 @@ text: #SUBTITLE Poliitika analüüs ja hindamine
 	#LANG_END
 	
 	
-username: AlexDaniel
-blocks: [Course:104861 〔Õppeaine ÕIS-is〕]
-languages: 
-host: 82.131.7.230
-revision: 4
-minor: 1
-flags: 1
-keep-ts: 1441924446
 lastmajor: 2
-ts: 1441924446

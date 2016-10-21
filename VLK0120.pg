@@ -1,6 +1,13 @@
-username: AlexDaniel
-host: 82.131.7.230
 keep-ts: 1441924452
+flags: 10
+blocks: [Course:109095 〔Õppeaine ÕIS-is〕]</div></div>
+ts: 1441924452
+languages: 
+username: AlexDaniel
+minor: 1
+host: 82.131.7.230
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+revision: 2
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:109095 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +23,3 @@ text: #SUBTITLE Soojuspumbad
 	#LANG_END
 	
 	
-minor: 1
-flags: 1
-blocks: [Course:109095 〔Õppeaine ÕIS-is〕]
-revision: 2
-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 

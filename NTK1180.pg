@@ -1,6 +1,12 @@
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 revision: 2
-ts: 1441924449
+blocks: [Course:109742 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+host: 82.131.7.230
 languages: 
+ts: 1441924449
+minor: 1
 text: #SUBTITLE Üliõpilastööde koostamise põhimõtted
 	#SUBURL [Course:109742 〔Õppeaine ÕIS-is〕]
 	
@@ -16,10 +22,4 @@ text: #SUBTITLE Üliõpilastööde koostamise põhimõtted
 	#LANG_END
 	
 	
-host: 82.131.7.230
-minor: 1
-flags: 1
 keep-ts: 1441924449
-username: AlexDaniel
-blocks: [Course:109742 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

@@ -1,3 +1,14 @@
+revision: 4
+lastmajor: 2
+ts: 1441924453
+host: 82.131.7.230
+ip: 89.235.235.166
+username: AlexDaniel
+blocks: [Course:29730 〔Õppeaine ÕIS-is〕]</div></div>
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+keep-ts: 1441924453
+languages: 
+flags: 10
 text: #SUBTITLE Molekulaarne evolutsioon
 	#SUBURL [Course:29730 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +24,4 @@ text: #SUBTITLE Molekulaarne evolutsioon
 	#LANG_END
 	
 	
-revision: 4
-host: 82.131.7.230
-ip: 89.235.235.166
 minor: 1
-blocks: [Course:29730 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-languages: 
-keep-ts: 1441924453
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ts: 1441924453
-flags: 1

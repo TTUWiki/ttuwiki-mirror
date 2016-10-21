@@ -1,5 +1,11 @@
-lastmajorsummary: Искусственный интеллект: современный подход. 2 издание http://www.aiportal.ru/downloads/books/ai-modern-approach-2-edition-by-rassel-norvig.html
+username: Artur Gummel
+flags: 1
+ts: 1476608247
+keep-ts: 1476608247
+summary: Искусственный интеллект: современный подход. 2 издание http://www.aiportal.ru/downloads/books/ai-modern-approach-2-edition-by-rassel-norvig.html
 minor: 
+lastmajor: 10
+blocks: [Course:110035 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	#SUBURL [Course:110035 〔Õppeaine ÕIS-is〕]
 	
@@ -42,10 +48,6 @@ text: #SUBTITLE Teadmispõhise tarkvaraarenduse meetodid
 	
 	
 revision: 10
-keep-ts: 1476608247
-lastmajor: 10
-username: Artur Gummel
-ts: 1476608247
-summary: Искусственный интеллект: современный подход. 2 издание http://www.aiportal.ru/downloads/books/ai-modern-approach-2-edition-by-rassel-norvig.html
-languages: 
+lastmajorsummary: Искусственный интеллект: современный подход. 2 издание http://www.aiportal.ru/downloads/books/ai-modern-approach-2-edition-by-rassel-norvig.html
 host: 89.235.192.121
+languages: 

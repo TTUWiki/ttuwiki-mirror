@@ -1,9 +1,10 @@
-blocks: [Course:33207 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 lastmajor: 2
-ip: 89.235.235.166
-languages: 
+keep-ts: 1441924453
+minor: 1
+blocks: [Course:33207 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+ts: 1441924453
+username: AlexDaniel
 text: #SUBTITLE Biofüüsika ja -keemia erikursus
 	#SUBURL [Course:33207 〔Õppeaine ÕIS-is〕]
 	
@@ -19,9 +20,8 @@ text: #SUBTITLE Biofüüsika ja -keemia erikursus
 	#LANG_END
 	
 	
-flags: 1
-minor: 1
-host: 82.131.7.230
+languages: 
 revision: 4
-keep-ts: 1441924453
-ts: 1441924453
+host: 82.131.7.230
+ip: 89.235.235.166
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]

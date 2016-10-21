@@ -1,6 +1,12 @@
 keep-ts: 1441924452
-username: AlexDaniel
+revision: 4
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 82.131.7.230
+blocks: [Course:39867 〔Õppeaine ÕIS-is〕]</div></div>
+languages: 
+lastmajor: 2
 minor: 1
+ip: 89.235.235.166
 text: #SUBTITLE Pooljuhtide spektroskoopia eriseminar
 	#SUBURL [Course:39867 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +22,6 @@ text: #SUBTITLE Pooljuhtide spektroskoopia eriseminar
 	#LANG_END
 	
 	
-revision: 4
-lastmajor: 2
-ip: 89.235.235.166
 ts: 1441924452
-blocks: [Course:39867 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-host: 82.131.7.230
-languages: 
+username: AlexDaniel
+flags: 10

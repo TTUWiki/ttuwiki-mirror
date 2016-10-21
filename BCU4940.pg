@@ -1,9 +1,4 @@
-revision: 2
-flags: 1
-username: AlexDaniel
 languages: 
-blocks: [Course:109748 〔Õppeaine ÕIS-is〕]
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Maastikuprojekt V: Erialased piirid
 	#SUBURL [Course:109748 〔Õppeaine ÕIS-is〕]
 	
@@ -19,7 +14,12 @@ text: #SUBTITLE Maastikuprojekt V: Erialased piirid
 	#LANG_END
 	
 	
+revision: 2
 ts: 1441924444
-host: 82.131.7.230
 minor: 1
+blocks: [Course:109748 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
 keep-ts: 1441924444
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+host: 82.131.7.230

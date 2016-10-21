@@ -1,6 +1,4 @@
-keep-ts: 1441924452
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+host: 82.131.7.230
 text: #SUBTITLE Teoreetiline ja arvutuskeemia
 	#SUBURL [Course:31950 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +14,14 @@ text: #SUBTITLE Teoreetiline ja arvutuskeemia
 	#LANG_END
 	
 	
-username: AlexDaniel
-ts: 1441924452
 revision: 4
-host: 82.131.7.230
-lastmajor: 2
 languages: 
-flags: 1
+keep-ts: 1441924452
+flags: 10
+ip: 89.235.235.166
 minor: 1
-blocks: [Course:31950 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+lastmajor: 2
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1441924452
+blocks: [Course:31950 〔Õppeaine ÕIS-is〕]</div></div>
