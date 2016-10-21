@@ -1,10 +1,5 @@
-username: Marjana Voronina
-languages: 
-revision: 26
-summary: my team TMJ3331
-host: 85.253.108.27
-lastmajorsummary: my team TMJ3331
-lastmajor: 26
+username: Artur Gummel
+minor: 1
 text: ==My study plan
 	===2016 fall
 	
@@ -26,7 +21,6 @@ text: ==My study plan
 	*163582
 	*163305
 	*163303
-	*162942
 	*162967
 	*153077
 	
@@ -35,7 +29,6 @@ text: ==My study plan
 	My Team:
 	*163582
 	*163303
-	*162942
 	*162967
 	
 	
@@ -45,6 +38,11 @@ text: ==My study plan
 	http://www.jaapsch.net/puzzles/tantrix.htm
 	
 	
-minor: 
-ts: 1474390101
-keep-ts: 1474390101
+lastmajor: 26
+ts: 1477049549
+host: 193.40.250.230
+lastmajorsummary: my team TMJ3331
+summary: -1
+revision: 27
+keep-ts: 1477049549
+languages: 
