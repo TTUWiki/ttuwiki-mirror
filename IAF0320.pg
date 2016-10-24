@@ -1,12 +1,4 @@
-host: 82.131.51.188
-languages: 
-lastmajorsummary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
-ip: 89.235.235.166
-ts: 1477338355
-username: AlexDaniel
 keep-ts: 1477338355
-minor: 
-revision: 15
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -21,5 +13,15 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 22:45:55
 	
 	
-summary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
+minor: 
+host: 82.131.51.188
+ts: 1477338355
+ip: 89.235.235.166
 lastmajor: 15
+revision: 15
+languages: 
+username: AlexDaniel
+lastmajorsummary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
+flags: 1
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+summary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
