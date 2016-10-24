@@ -1,6 +1,13 @@
+minor: 
+host: 82.131.51.188
+keep-ts: 1477334736
+summary: Link to Checklist for Professors
+lastmajorsummary: Link to Checklist for Professors
+lastmajor: 68
+revision: 68
 username: AlexDaniel
 languages: 
-summary: 
+ts: 1477334736
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -48,6 +55,9 @@ text: === This wiki / Veebilehest / О сайте:
 	#RUS
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
+	
+	=== For professors
+	* [[Checklist for Professors]] – use this checklist to improve your lectures
 	
 	=== University / Ülikool / Университет:
 	#ENG
@@ -241,10 +251,3 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-keep-ts: 1477334546
-lastmajor: 66
-revision: 67
-minor: 1
-ts: 1477334546
-lastmajorsummary: free books with TUT uniID
-host: 82.131.51.188
