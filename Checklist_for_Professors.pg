@@ -1,7 +1,13 @@
+summary: Some initial ideas for starting this page
 lastmajorsummary: Some initial ideas for starting this page
-username: AlexDaniel
+revision: 2
+host: 82.131.51.188
+keep-ts: 1477336178
+minor: 1
+languages: 
 lastmajor: 1
-ts: 1477334509
+username: AlexDaniel
+ts: 1477336178
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -19,6 +25,7 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You are always ready to accept feedback regarding the course arrangement, whether it is positive or not.
 	* You know the language you speak during the lesson reasonably well. If not, you try to cut down your speaking.
 	* You respect the language choice of a student. That is, if a student initiates the conversation in English, then you use English as well. When you initiate a conversation yourself, you use the official language of the course (the one listed in ÕIS).
+	* You provide an example of the exam and tests.
 	
 	== Checklist for courses related to software development
 	* You post code examples as text files, not as **.pdf**.
@@ -27,8 +34,3 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
-summary: Some initial ideas for starting this page
-minor: 
-revision: 1
-host: 82.131.51.188
-languages: 
