@@ -1,9 +1,6 @@
-minor: 
-summary: free books with TUT uniID
-keep-ts: 1475868600
-lastmajor: 66
-revision: 66
-host: 89.235.199.54
+username: AlexDaniel
+languages: 
+summary: 
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -86,7 +83,7 @@ text: === This wiki / Veebilehest / О сайте:
 	=== Professors / Õppejõud / Преподаватели
 	#ENG
 	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - contact information, CVs, research papers
-	* [[https://professors.ee/]] - students' opinions
+	* [[https://professors.ee/]] - student opinions
 	
 	#EST
 	* [[https://www.etis.ee/Portal/Institutions/Display/4f907bd8-9919-4906-989b-d913b93837f8?tabId=tab_Persons https://etis.ee]] - kontakt, CV-d, publikatsioonid
@@ -244,7 +241,10 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
+keep-ts: 1477334546
+lastmajor: 66
+revision: 67
+minor: 1
+ts: 1477334546
 lastmajorsummary: free books with TUT uniID
-languages: 
-ts: 1475868600
-username: Artur Gummel
+host: 82.131.51.188
