@@ -1,0 +1,34 @@
+lastmajorsummary: Some initial ideas for starting this page
+username: AlexDaniel
+lastmajor: 1
+ts: 1477334509
+text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
+	
+	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
+	
+	== General checklist
+	* You use spell checker whenever you write any text. Your browser, word processor, text editor have spell checker enabled by default and set to a proper language.
+	* Your slides and other materials are available online.
+	* Slides for the today's lesson are available online during the lecture (meaning that students can open the slides on their own computers).
+	* Your slides are available in **.pdf** format.
+	* You log into your computer before the lecture starts.
+	* You have a backup plan for every lesson in case you cannot login or use your computer.
+	* You tell students what is going to happen on the next lecture/practice/lab beforehand (especially if it is something non-typical, like a lesson devoted solely to student questions).
+	* All information regarding course arrangement (upcoming tests, canceled lectures, etc.) is available online. This means that students who were absent should not rely on other students to pass this information.
+	* You teach because the information you share is very valuable. If it is not, then you try to compensate with extra information, or at least you do not nitpick.
+	* You are always ready to accept feedback regarding the course arrangement, whether it is positive or not.
+	* You know the language you speak during the lesson reasonably well. If not, you try to cut down your speaking.
+	* You respect the language choice of a student. That is, if a student initiates the conversation in English, then you use English as well. When you initiate a conversation yourself, you use the official language of the course (the one listed in ÕIS).
+	
+	== Checklist for courses related to software development
+	* You post code examples as text files, not as **.pdf**.
+	* You use autoformatter, code linter and other tools devoted to improve your code (visually and functionally). For example, if your course includes Python you use **pep8**.
+	* If you cannot type or edit code faster than an average person, your lessons do not include live coding. Instead, you prepare your code examples beforehand and guide students through them during the lesson.
+	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, one of the popular GNU/Linux distros, MacOS).
+	* If your exam or tests include coding, you do not require students to write code on paper.
+	
+summary: Some initial ideas for starting this page
+minor: 
+revision: 1
+host: 82.131.51.188
+languages: 
