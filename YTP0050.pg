@@ -1,3 +1,12 @@
+username: AlexDaniel
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+languages: 
+lastmajor: 2
+blocks: [Course:29928 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 4
+flags: 10
+ts: 1441924453
 text: #SUBTITLE Nukleiinhapete keemia
 	#SUBURL [Course:29928 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +22,6 @@ text: #SUBTITLE Nukleiinhapete keemia
 	#LANG_END
 	
 	
-ip: 89.235.235.166
-host: 82.131.7.230
-username: AlexDaniel
-revision: 4
-ts: 1441924453
-minor: 1
-flags: 1
 keep-ts: 1441924453
-blocks: [Course:29928 〔Õppeaine ÕIS-is〕]
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+host: 82.131.7.230
+minor: 1
