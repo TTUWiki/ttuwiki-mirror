@@ -1,4 +1,5 @@
-keep-ts: 1477338355
+ip: 89.235.235.166
+languages: 
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -13,15 +14,20 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 22:45:55
 	
 	
+	----
+	
+	Another funny thing: [[https://files.progarm.org/2016-10-24-225950_912x533_scrot.png
+	 delay measured in dollars]]
+	
+	-- AlexDaniel 2016-10-24 23:03:19
+	
+	
+ts: 1477339399
+lastmajor: 16
+revision: 16
+keep-ts: 1477339399
+summary: Another funny thing: [delay measured in dollars]
+lastmajorsummary: Another funny thing: [delay measured in dollars]
+username: AlexDaniel
 minor: 
 host: 82.131.51.188
-ts: 1477338355
-ip: 89.235.235.166
-lastmajor: 15
-revision: 15
-languages: 
-username: AlexDaniel
-lastmajorsummary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
-flags: 1
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-summary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
