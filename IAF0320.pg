@@ -1,14 +1,12 @@
-ts: 1475363493
-revision: 14
-lastmajor: 13
-minor: 1
-username: AlexDaniel
-lastmajorsummary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
-flags: 1
-summary: I am not updating these deadlines in time, just follow official materials. Basically you have to do something every week.
-host: 85.253.108.27
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+host: 82.131.51.188
+languages: 
+lastmajorsummary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
 ip: 89.235.235.166
+ts: 1477338355
+username: AlexDaniel
+keep-ts: 1477338355
+minor: 
+revision: 15
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -16,5 +14,12 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	Course materials: http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/
 	
-languages: 
-keep-ts: 1475363493
+	----
+	
+	Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable graphs]]. Takes a few moments to figure out what is on X axis :)
+	
+	-- AlexDaniel 2016-10-24 22:45:55
+	
+	
+summary: Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable . . .
+lastmajor: 15
