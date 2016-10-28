@@ -1,14 +1,11 @@
-lastmajor: 12
 ip: 89.235.235.166
 languages: 
-flags: 1
-summary: Kolmas koduülesanne
-keep-ts: 1476437807
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: Kolmas koduülesanne
-revision: 12
+ts: 1477645462
+keep-ts: 1477645462
+revision: 13
 minor: 
-host: 89.235.192.121
+host: 84.52.25.86
+summary: neljas harjutustund + koduülesanne
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -28,9 +25,19 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	* [[File:ITT0050_HW3.jpg]]
 	
 	**Kolmas Harjutustund**
+	
 	*[[File:ITT0050_Harjutus3_1.jpg]]
 	*[[File:ITT0050_Harjutus3_2.jpg]]
 	*[[File:ITT0050_Harjutus3_3.jpg]]
+	
+	**Neljas Harjutustund**
+	
+	[[File:ITT0050_Harjutus4_1.jpg]]
+	[[File:ITT0050_Harjutus4_2.jpg]]
+	
+	**Neljas koduülesanne**
+	
+	[[File:ITT0050_HW4.jpg]]
 	----
 	
 	http://cs.ioc.ee/RekKursus/
@@ -45,5 +52,9 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
 	
-ts: 1476437807
+	
+	
+	
+lastmajor: 13
+lastmajorsummary: neljas harjutustund + koduülesanne
 username: Artur Gummel
