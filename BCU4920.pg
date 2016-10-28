@@ -1,4 +1,12 @@
 ts: 1441924444
+languages: 
+keep-ts: 1441924444
+blocks: [Course:109747 〔Õppeaine ÕIS-is〕]</div></div>
+revision: 2
+minor: 1
+host: 82.131.7.230
+flags: 10
+summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Praktika: projekteerimine
 	#SUBURL [Course:109747 〔Õppeaine ÕIS-is〕]
 	
@@ -14,12 +22,4 @@ text: #SUBTITLE Praktika: projekteerimine
 	#LANG_END
 	
 	
-revision: 2
-languages: 
-host: 82.131.7.230
-flags: 1
 username: AlexDaniel
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924444
-blocks: [Course:109747 〔Õppeaine ÕIS-is〕]
-minor: 1

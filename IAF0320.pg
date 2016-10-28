@@ -1,5 +1,14 @@
-ip: 89.235.235.166
+lastmajorsummary: Another funny thing: [delay measured in dollars]
+summary: Another funny thing: [delay measured in dollars]
+ts: 1477339399
+revision: 16
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+host: 82.131.51.188
 languages: 
+username: AlexDaniel
+lastmajor: 16
+minor: 
+keep-ts: 1477339399
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -22,12 +31,5 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-ts: 1477339399
-lastmajor: 16
-revision: 16
-keep-ts: 1477339399
-summary: Another funny thing: [delay measured in dollars]
-lastmajorsummary: Another funny thing: [delay measured in dollars]
-username: AlexDaniel
-minor: 
-host: 82.131.51.188
+flags: 1
+ip: 89.235.235.166
