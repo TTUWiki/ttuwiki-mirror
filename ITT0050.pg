@@ -1,11 +1,16 @@
-ip: 89.235.235.166
-languages: 
-ts: 1477645462
-keep-ts: 1477645462
-revision: 13
-minor: 
-host: 84.52.25.86
 summary: neljas harjutustund + koduülesanne
+username: Artur Gummel
+ts: 1477645462
+ip: 89.235.235.166
+flags: 1
+revision: 13
+lastmajor: 13
+keep-ts: 1477645462
+minor: 
+languages: 
+lastmajorsummary: neljas harjutustund + koduülesanne
+host: 84.52.25.86
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -55,6 +60,3 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	
 	
-lastmajor: 13
-lastmajorsummary: neljas harjutustund + koduülesanne
-username: Artur Gummel
