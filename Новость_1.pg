@@ -1,8 +1,10 @@
-revision: 2
-keep-ts: 1402681668
-lastmajor: 1
-host: 89-235-239-240.saturn.infonet.ee
 diff-major: 
+languages: 
+host: 89-235-239-240.saturn.infonet.ee
+ts: 1402681668
+summary: 
+blocks: &lt;Journal 10 "^Новость_\d+"&gt;
+ip: 89.235.239.240
 text: На сайте значительные изменения!
 	
 	* Доработан дизайн, теперь страницы должны гораздо лучше отображаться на широких мониторах.
@@ -16,14 +18,12 @@ text: На сайте значительные изменения!
 	
 	-- AlexDaniel 2014-03-18 02:49:59
 	
-flags: 
-ip: 89.235.239.240
-blocks: 
-ts: 1402681668
+lastmajor: 1
 username: 
-minor: 1
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
-languages: 
-summary: 
+keep-ts: 1402681668
+minor: 1
+flags: 01
+revision: 2
