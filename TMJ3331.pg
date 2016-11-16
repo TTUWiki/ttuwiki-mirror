@@ -1,4 +1,6 @@
-username: Marjana Voronina
+ip: 89.235.235.166
+summary: http://natuljaa.blogspot.com.ee/2012/01/naided.html
+host: 193.40.250.235
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	
@@ -26,15 +28,18 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- j 2016-02-02 10:55:41
 	
 	
-summary: moodle, esimene ülesanne
-revision: 10
-lastmajorsummary: moodle, esimene ülesanne
-lastmajor: 10
-keep-ts: 1473116859
-blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+	----
+	
+	http://natuljaa.blogspot.com.ee/2012/01/naided.html
+	
+	-- Artur Gummel 2016-11-16 12:53:29
+	
+	
+keep-ts: 1479293610
+lastmajorsummary: http://natuljaa.blogspot.com.ee/2012/01/naided.html
+revision: 11
 minor: 
-ip: 89.235.235.166
-host: 82.131.7.144
-ts: 1473116859
 languages: 
-flags: 1
+ts: 1479293610
+username: Artur Gummel
+lastmajor: 11
