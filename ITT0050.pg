@@ -1,10 +1,9 @@
-revision: 14
-username: Artur Gummel
-lastmajor: 14
-minor: 
+lastmajorsummary: viies harjutustund + koduülesanne
+flags: 1
+languages: 
+host: 84.52.50.40
 keep-ts: 1478900704
-ip: 89.235.235.166
-ts: 1478900704
+lastmajor: 14
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -59,7 +58,10 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
-lastmajorsummary: viies harjutustund + koduülesanne
-languages: 
-host: 84.52.50.40
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+ts: 1478900704
 summary: viies harjutustund + koduülesanne
+username: Artur Gummel
+revision: 14
+minor: 
