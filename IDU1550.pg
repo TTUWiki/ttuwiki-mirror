@@ -1,17 +1,23 @@
-revision: 3
-lastmajorsummary: 
 text: #SUBTITLE Tarkvara arhitektuur ja disain
 	#SUBURL [Course:110068 〔Õppeaine ÕIS-is〕]
 	https://moodle.hitsa.ee/course/view.php?id=14074
 	password: tarkvara
 	
-keep-ts: 1473074678
-blocks: [Course:110068 〔Õppeaine ÕIS-is〕]
-ts: 1473074678
-minor: 
-summary: 
-username: 
-host: 213.168.4.167
+	----
+	
+	https://habrahabr.ru/post/92570/
+	https://habrahabr.ru/post/210288/
+	
+	-- Artur Gummel 2016-11-21 16:04:01
+	
+	
+revision: 4
 languages: 
-flags: 1
-lastmajor: 3
+lastmajorsummary: https://habrahabr.ru/post/92570/ https://habrahabr.ru/post/210288/
+minor: 
+ts: 1479737042
+summary: https://habrahabr.ru/post/92570/ https://habrahabr.ru/post/210288/
+host: 193.40.250.235
+username: Artur Gummel
+keep-ts: 1479737042
+lastmajor: 4
