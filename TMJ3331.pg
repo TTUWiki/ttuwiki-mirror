@@ -1,6 +1,6 @@
+minor: 
+keep-ts: 1479293610
 ip: 89.235.235.166
-summary: http://natuljaa.blogspot.com.ee/2012/01/naided.html
-host: 193.40.250.235
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:107067 〔Õppeaine ÕIS-is〕]
 	
@@ -35,11 +35,13 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- Artur Gummel 2016-11-16 12:53:29
 	
 	
-keep-ts: 1479293610
+username: Artur Gummel
 lastmajorsummary: http://natuljaa.blogspot.com.ee/2012/01/naided.html
-revision: 11
-minor: 
+lastmajor: 11
 languages: 
 ts: 1479293610
-username: Artur Gummel
-lastmajor: 11
+blocks: [Course:107067 〔Õppeaine ÕIS-is〕]
+flags: 1
+summary: http://natuljaa.blogspot.com.ee/2012/01/naided.html
+revision: 11
+host: 193.40.250.235
