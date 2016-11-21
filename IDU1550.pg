@@ -1,3 +1,11 @@
+username: Artur Gummel
+minor: 
+flags: 1
+summary: https://habrahabr.ru/post/92570/ https://habrahabr.ru/post/210288/
+ts: 1479737042
+languages: 
+lastmajor: 4
+host: 193.40.250.235
 text: #SUBTITLE Tarkvara arhitektuur ja disain
 	#SUBURL [Course:110068 〔Õppeaine ÕIS-is〕]
 	https://moodle.hitsa.ee/course/view.php?id=14074
@@ -11,13 +19,7 @@ text: #SUBTITLE Tarkvara arhitektuur ja disain
 	-- Artur Gummel 2016-11-21 16:04:01
 	
 	
-revision: 4
-languages: 
 lastmajorsummary: https://habrahabr.ru/post/92570/ https://habrahabr.ru/post/210288/
-minor: 
-ts: 1479737042
-summary: https://habrahabr.ru/post/92570/ https://habrahabr.ru/post/210288/
-host: 193.40.250.235
-username: Artur Gummel
 keep-ts: 1479737042
-lastmajor: 4
+blocks: [Course:110068 〔Õppeaine ÕIS-is〕]
+revision: 4
