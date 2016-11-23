@@ -1,23 +1,22 @@
-ip: 89.235.235.166
-keep-ts: 1445266137
-lastmajor: 14
-ts: 1445266137
-flags: 1
-summary: Uploaded file corrected.
-blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
-host: 85.253.53.160
-lastmajorsummary: Uploaded file corrected.
-revision: 14
-languages: 
-minor: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
 	[[image/right:File:soojuspumpt.jpeg|Soojuspump Soojustehnika Instituudis]]
 	
 	Õppematerjalid:
-	* [http://staff.ttu.ee/~dedov/Soojuspumbad Õppeaine koduleht]
+	* [http://www.tud.ttu.ee/im/Andrei.Dedov/Soojuspumbad Õppeaine uus koduleht]
+	* [http://staff.ttu.ee/~dedov/Soojuspumbad Vana koduleht]
 	
 	
 	
-username: AlexDaniel
+username: Enar
+languages: 
+summary: 
+lastmajor: 15
+revision: 15
+keep-ts: 1479896348
+ts: 1479896348
+ip: 89.235.235.166
+lastmajorsummary: 
+minor: 
+host: 193.40.250.230
