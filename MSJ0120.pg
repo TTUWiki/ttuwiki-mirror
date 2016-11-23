@@ -1,3 +1,11 @@
+flags: 1
+keep-ts: 1479896348
+revision: 15
+languages: 
+host: 193.40.250.230
+blocks: [Course:30511 〔Õppeaine ÕIS-is〕]
+lastmajor: 15
+summary: 
 text: #SUBTITLE Soojuspumbad
 	#SUBURL [Course:30511 〔Õppeaine ÕIS-is〕]
 	
@@ -9,14 +17,8 @@ text: #SUBTITLE Soojuspumbad
 	
 	
 	
-username: Enar
-languages: 
-summary: 
-lastmajor: 15
-revision: 15
-keep-ts: 1479896348
-ts: 1479896348
-ip: 89.235.235.166
 lastmajorsummary: 
 minor: 
-host: 193.40.250.230
+username: Enar
+ts: 1479896348
+ip: 89.235.235.166
