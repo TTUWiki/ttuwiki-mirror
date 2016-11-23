@@ -1,21 +1,18 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-flags: 1
-username: AlexDaniel
-ts: 1441924448
-lastmajorsummary: 
-revision: 6
-blocks: [Course:100963 〔Õppeaine ÕIS-is〕]
-keep-ts: 1441924448
-languages: 
-minor: 1
-host: 82.131.7.230
-lastmajor: 5
+revision: 7
 ip: 89.235.235.166
+minor: 
+username: Enar
+keep-ts: 1479896962
+ts: 1479896962
+lastmajor: 7
 text: #SUBTITLE Soojusautomaatika
 	#SUBURL [Course:100963 〔Õppeaine ÕIS-is〕]
-	[[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html Õppematerjal]]
+	Allan Vrageri õppematerjal
+	* [http://staff.ttu.ee/~avrager/SA/ Loengu slaidid]
 	
-	[[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html  Automaatjuhtimise alused]]
+	Sarnase õppeaine materjal
+	* [[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html Õppematerjal]]
+	* [[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html  Automaatjuhtimise alused]]
 	
 	== Kirjandus:
 	 
@@ -27,3 +24,7 @@ text: #SUBTITLE Soojusautomaatika
 	teooria”)
 	*http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html
 	
+lastmajorsummary: 
+host: 193.40.250.230
+languages: 
+summary: 
