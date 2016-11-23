@@ -1,23 +1,19 @@
+ip: 89.235.235.166
+revision: 6
+lastmajor: 6
 lastmajorsummary: 
-summary: 
-username: 
-lastmajor: 5
-flags: 1
-revision: 5
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">Эта страница пуста, здесь не хватает твоих полезных советов</strong>.</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; <strong class="changes"> <br />&gt; Õppematerjalid:<br />&gt; * [http://staff</strong>.<strong class="changes">ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Õppeaine koduleht]</strong></p></div>
-keep-ts: 1442558939
-minor: 
-ts: 1442558939
-diff-major: 1
-blocks: [Course:101264 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.230
 text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	#SUBURL [Course:101264 〔Õppeaine ÕIS-is〕]
 	 
 	Õppematerjalid:
-	* [http://staff.ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Õppeaine koduleht]
+	* [http://www.tud.ttu.ee/im/Andrei.Dedov/Kuivatid/ Õppeaine uus koduleht]
+	* [http://staff.ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Vana koduleht]
 	
-host: 86.110.37.246
-ip: 89.235.235.166
+	
+username: Enar
+ts: 1479896672
+minor: 
 languages: 
+summary: 
+keep-ts: 1479896672
