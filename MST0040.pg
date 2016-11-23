@@ -1,6 +1,12 @@
 lastmajor: 6
+ts: 1479896563
+summary: 
+host: 193.40.250.230
+languages: 
+blocks: [Course:30530 〔Õppeaine ÕIS-is〕]
 revision: 6
 ip: 89.235.235.166
+username: Enar
 text: #SUBTITLE Kompressormasinad
 	#SUBURL [Course:30530 〔Õppeaine ÕIS-is〕]
 	 
@@ -9,11 +15,7 @@ text: #SUBTITLE Kompressormasinad
 	* [http://www.tud.ttu.ee/im/Andrei.Dedov/Kompressormasinad Õppeaine uus koduleht]
 	* [http://staff.ttu.ee/~dedov/Kompressormasinad Vana koduleht]
 	
-ts: 1479896563
-minor: 
-languages: 
-keep-ts: 1479896563
+flags: 1
 lastmajorsummary: 
-host: 193.40.250.230
-summary: 
-username: Enar
+keep-ts: 1479896563
+minor: 
