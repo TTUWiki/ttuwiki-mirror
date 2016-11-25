@@ -1,12 +1,11 @@
-revision: 8
-lastmajorsummary: 
-keep-ts: 1479897219
-minor: 
-lastmajor: 8
-username: Enar
-ts: 1479897219
+blocks: [Course:105995 〔Õppeaine ÕIS-is〕]
 host: 193.40.250.230
+lastmajorsummary: 
+languages: 
+lastmajor: 8
 summary: 
+username: Enar
+revision: 8
 text: #SUBTITLE Biomassi termokeemiline muundamine
 	#SUBURL [Course:105995 〔Õppeaine ÕIS-is〕]
 	
@@ -15,4 +14,7 @@ text: #SUBTITLE Biomassi termokeemiline muundamine
 	
 	
 ip: 89.235.235.166
-languages: 
+flags: 1
+ts: 1479897219
+minor: 
+keep-ts: 1479897219
