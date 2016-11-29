@@ -1,10 +1,16 @@
-summary: 
-minor: 
-keep-ts: 1480073801
 ip: 89.235.235.166
-languages: 
-host: 89.235.248.56
+minor: 
+summary: 
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+flags: 1
+ts: 1480073801
 username: Artur Gummel
+revision: 15
+lastmajor: 15
+languages: 
+lastmajorsummary: 
+keep-ts: 1480073801
+host: 89.235.248.56
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -62,7 +68,3 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
-ts: 1480073801
-lastmajorsummary: 
-lastmajor: 15
-revision: 15
