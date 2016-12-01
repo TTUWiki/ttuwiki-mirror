@@ -1,6 +1,6 @@
-minor: 1
-languages: 
-summary: Moved
+flags: 
+ts: 1469508473
+blocks: 
 host: 85.253.224.176
 username: AlexDaniel
 text: Am I the only one who finds it weird? :)
@@ -23,9 +23,7 @@ text: Am I the only one who finds it weird? :)
 	-- AlexDaniel 2016-07-26 07:38:21
 	
 	
-ts: 1469508473
-flags: 0101
+minor: 1
+languages: 
+summary: Moved
 revision: 1
-blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
-	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
-	
