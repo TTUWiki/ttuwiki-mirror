@@ -1,15 +1,13 @@
-lastmajor: 15
-revision: 15
-flags: 1
-summary: 
-blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
-ts: 1451930301
-keep-ts: 1451930301
-lastmajorsummary: 
-ip: 89.235.235.166
+host: 86.110.32.164
+ts: 1480573874
 minor: 
-username: Ain_Laidoja
-host: 86.110.37.246
+lastmajor: 16
+keep-ts: 1480573874
+languages: 
+summary: 
+revision: 16
+ip: 89.235.235.166
+lastmajorsummary: 
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -18,6 +16,8 @@ text: #SUBTITLE Energiasalvestid
 	
 	
 	[http://www.ene.ttu.ee/elektriajamid/oppeinfo/?ainekood=AAV0180&materjalid=1440 Õppematerjalid]
+	
+	[http://www.ttu.ee/public/e/energeetikateaduskond/Instituudid/elektrotehnika_instituut/smartgrid/Salvestid_loeng.pdf Loengumaterjal]
 	==Kirjandus
 	*[http://www.ester.ee/record=b4484414*est Energiasalvestid ja -salvestustehnoloogiad]
 	*[https://dspace.emu.ee/handle/10492/2122 Soojussalvesti energiabilanss]
@@ -26,4 +26,4 @@ text: #SUBTITLE Energiasalvestid
 	====Upcoming events
 	 
 	
-languages: 
+username: Ain_Laidoja
