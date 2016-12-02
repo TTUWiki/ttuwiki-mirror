@@ -1,13 +1,11 @@
-host: 86.110.32.164
-ts: 1480573874
-minor: 
-lastmajor: 16
 keep-ts: 1480573874
-languages: 
-summary: 
-revision: 16
+flags: 1
 ip: 89.235.235.166
+username: Ain_Laidoja
 lastmajorsummary: 
+minor: 
+summary: 
+lastmajor: 16
 text: #SUBTITLE Energiasalvestid
 	#SUBURL [Course:105998 〔Õppeaine ÕIS-is〕]
 	
@@ -26,4 +24,8 @@ text: #SUBTITLE Energiasalvestid
 	====Upcoming events
 	 
 	
-username: Ain_Laidoja
+languages: 
+host: 86.110.32.164
+ts: 1480573874
+revision: 16
+blocks: [Course:105998 〔Õppeaine ÕIS-is〕]
