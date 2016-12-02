@@ -1,5 +1,13 @@
-username: Artur Gummel
-minor: 1
+minor: 
+revision: 28
+username: Marjana Voronina
+lastmajor: 28
+languages: 
+host: 193.40.250.233
+summary: 
+keep-ts: 1480689426
+lastmajorsummary: 
+ts: 1480689426
 text: ==My study plan
 	===2016 fall
 	
@@ -37,12 +45,12 @@ text: ==My study plan
 	
 	http://www.jaapsch.net/puzzles/tantrix.htm
 	
+	**[[IDU1550]] Tarkvara arhitektuur ja disain **
 	
-lastmajor: 26
-ts: 1477049549
-host: 193.40.250.230
-lastmajorsummary: my team TMJ3331
-summary: -1
-revision: 27
-keep-ts: 1477049549
-languages: 
+	http://www.uml-diagrams.org/library-domain-uml-class-diagram-example.html
+	http://www.programsformca.com/2012/03/uml-diagrams-library-mgmt-system.html
+	https://asadsiddiqi.wordpress.com/2008/02/21/object-oriented-design-a-class-diagram-walkthrough/
+	https://www.lucidchart.com/pages/class-diagram-for-library-management-system-UML
+	http://www.aplusplus.net/bookonl/node158.html
+	http://www.indiastudychannel.com/resources/150271-UML-Diagrams-case-studies-Library.aspx
+	
