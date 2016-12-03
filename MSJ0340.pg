@@ -1,7 +1,5 @@
-host: 86.110.37.246
-lastmajor: 14
-blocks: [Course:110018 〔Õppeaine ÕIS-is〕]
-flags: 1
+username: Ain_Laidoja
+languages: 
 text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#SUBURL [Course:110018 〔Õppeaine ÕIS-is〕]
 	
@@ -9,7 +7,9 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	[[image/icon:File:vkg_reaktor.png|Põlevkiviõli pürolüüsi reaktor Viru Keemia Grupis]]
 	
 	==Õppematerjal
-	...
+	
+	[[http://www.staff.ttu.ee/~asiirde/MSJ0340%20polevkivi.htm Loengumaterjal]]
+	
 	==Кirjandus
 	
 	# [[http://www.ester.ee/record=b2657215*est Oil Shale – Petroleum Alternative]]. Editors in chief Jialin Qian, Liang Yin. China Petrochemical Press. 2010,
@@ -23,14 +23,16 @@ text: #SUBTITLE Põlevkivi termilise töötlemise tehnoloogiad
 	#[http://www.energiatalgud.ee/img_auth.php/a/ae/Keskkonnainvesteeringute_Keskus._Eesti_P%C3%B5levkivi%C3%B5li_tootmise_parim_v%C3%B5imalik_tehnika._2013.pdf Eesti Põlevkiviõli tootmise parim võimalik tehnika] Estivo, 2013
 	#[http://staff.ttu.ee/~akonist/sti/FTP_files/Uttegaasi_kasutusv6imalused_140110_fin.pdf Põlevkiviõli tootmisel tekkiva uttegaasi kasutusvõimaluste uuring] Alar Konist, 2014
 	#[http://digi.lib.ttu.ee/i/?1918 Eesti põlevkivi töötlemine] Mäeinseneride õppematerjal 2015
+	#[[http://www.postimees.ee/3873407/suur-uelevaade-kuidas-kaeib-elektritootmine-eesti-energia-uutes-hiigelinvesteeringu-saanud-jaamades Kuidas käib elektritootmine Eesti Energia uutes hiigelinvesteeringu saanud jaamades]] Postimees 2016-10-16
+	
 	
 	==Upcoming events
 	
-lastmajorsummary: 
+lastmajor: 15
 summary: 
-keep-ts: 1456645834
-ts: 1456645834
 minor: 
-revision: 14
-username: Ain_Laidoja
-languages: 
+lastmajorsummary: 
+keep-ts: 1480759806
+ts: 1480759806
+revision: 15
+host: 86.110.32.164
