@@ -1,25 +1,19 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1481012536
+lastmajor: 3
+minor: 
+languages: 
+lastmajorsummary: 
+summary: 
+keep-ts: 1481012536
 text: #SUBTITLE Ressursikasutuse ökonoomika
 	#SUBURL [Course:110014 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
 	
 	
-keep-ts: 1441924451
-revision: 2
-flags: 10
-host: 82.131.7.230
-blocks: [Course:110014 〔Õppeaine ÕIS-is〕]</div></div>
-languages: 
-username: AlexDaniel
-minor: 1
-ts: 1441924451
+	[https://moodle.hitsa.ee/course/view.php?id=17808 Loengumaterjal]
+	
+	
+	
+username: Ain_Laidoja
+host: 86.110.32.164
+revision: 3
