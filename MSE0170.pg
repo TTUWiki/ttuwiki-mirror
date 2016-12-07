@@ -1,10 +1,16 @@
-lastmajorsummary: 
-languages: 
-summary: 
-host: 83.191.179.141
+revision: 5
+flags: 1
 username: Enar
-ip: 89.235.235.166
+blocks: [Course:100994 〔Õppeaine ÕIS-is〕]
+summary: 
 keep-ts: 1481094580
+lastmajorsummary: 
+ts: 1481094580
+languages: 
+ip: 89.235.235.166
+host: 83.191.179.141
+lastmajor: 5
+minor: 
 text: #SUBTITLE Soojusvarustussüsteemid
 	#SUBURL [Course:100994 〔Õppeaine ÕIS-is〕]
 	
@@ -12,7 +18,3 @@ text: #SUBTITLE Soojusvarustussüsteemid
 	
 	
 	
-lastmajor: 5
-minor: 
-ts: 1481094580
-revision: 5
