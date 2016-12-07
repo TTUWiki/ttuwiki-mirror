@@ -1,27 +1,18 @@
+lastmajorsummary: 
 languages: 
-lastmajor: 2
-keep-ts: 1441924448
+summary: 
+host: 83.191.179.141
+username: Enar
+ip: 89.235.235.166
+keep-ts: 1481094580
 text: #SUBTITLE Soojusvarustussüsteemid
 	#SUBURL [Course:100994 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
+	[http://velar.ee/mse0170-soojusvarustussusteemid/ Loengu materjal]
 	
 	
-host: 82.131.7.230
-minor: 1
-username: AlexDaniel
-ts: 1441924448
-flags: 10
-ip: 89.235.235.166
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-blocks: [Course:100994 〔Õppeaine ÕIS-is〕]</div></div>
-revision: 4
+	
+lastmajor: 5
+minor: 
+ts: 1481094580
+revision: 5
