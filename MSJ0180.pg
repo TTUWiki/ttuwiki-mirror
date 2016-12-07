@@ -1,10 +1,17 @@
+revision: 8
+minor: 1
+username: Enar
 summary: 
+languages: 
+host: 83.191.179.141
+lastmajorsummary: 
+lastmajor: 7
 text: #SUBTITLE Soojusautomaatika
 	#SUBURL [Course:100963 〔Õppeaine ÕIS-is〕]
-	Allan Vrageri õppematerjal
+	==Allan Vrageri õppematerjal
 	* [http://staff.ttu.ee/~avrager/SA/ Loengu slaidid]
 	
-	Sarnase õppeaine materjal
+	==Sarnase õppeaine materjal
 	* [[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html Õppematerjal]]
 	* [[http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html  Automaatjuhtimise alused]]
 	
@@ -18,15 +25,6 @@ text: #SUBTITLE Soojusautomaatika
 	teooria”)
 	*http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html
 	
-lastmajorsummary: 
+ts: 1481094746
+keep-ts: 1481094746
 ip: 89.235.235.166
-revision: 7
-username: Enar
-ts: 1479896962
-blocks: [Course:100963 〔Õppeaine ÕIS-is〕]
-languages: 
-keep-ts: 1479896962
-host: 193.40.250.230
-lastmajor: 7
-minor: 
-flags: 1
