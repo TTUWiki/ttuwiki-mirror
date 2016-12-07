@@ -1,20 +1,19 @@
-revision: 5
-flags: 1
-username: Enar
-blocks: [Course:100994 〔Õppeaine ÕIS-is〕]
-summary: 
-keep-ts: 1481094580
-lastmajorsummary: 
-ts: 1481094580
-languages: 
-ip: 89.235.235.166
-host: 83.191.179.141
+keep-ts: 1481094686
 lastmajor: 5
-minor: 
+username: Enar
+minor: 1
+host: 83.191.179.141
+summary: 
 text: #SUBTITLE Soojusvarustussüsteemid
 	#SUBURL [Course:100994 〔Õppeaine ÕIS-is〕]
 	
+	==Loengud
 	[http://velar.ee/mse0170-soojusvarustussusteemid/ Loengu materjal]
 	
 	
 	
+languages: 
+revision: 6
+ts: 1481094686
+ip: 89.235.235.166
+lastmajorsummary: 
