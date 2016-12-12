@@ -1,11 +1,10 @@
-revision: 8
-minor: 1
-username: Enar
-summary: 
-languages: 
-host: 83.191.179.141
 lastmajorsummary: 
+languages: 
 lastmajor: 7
+username: Enar
+keep-ts: 1481094746
+summary: 
+revision: 8
 text: #SUBTITLE Soojusautomaatika
 	#SUBURL [Course:100963 〔Õppeaine ÕIS-is〕]
 	==Allan Vrageri õppematerjal
@@ -25,6 +24,9 @@ text: #SUBTITLE Soojusautomaatika
 	teooria”)
 	*http://www.ene.ttu.ee/elektriajamid/oppeinfo/AAR3330/index.html
 	
-ts: 1481094746
-keep-ts: 1481094746
 ip: 89.235.235.166
+blocks: [Course:100963 〔Õppeaine ÕIS-is〕]
+flags: 1
+host: 83.191.179.141
+minor: 1
+ts: 1481094746
