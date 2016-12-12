@@ -1,13 +1,6 @@
-summary: Some initial ideas for starting this page
-lastmajorsummary: Some initial ideas for starting this page
-revision: 2
-host: 82.131.51.188
-keep-ts: 1477336178
-minor: 1
-languages: 
-lastmajor: 1
-username: AlexDaniel
-ts: 1477336178
+lastmajorsummary: mention adblock
+minor: 
+lastmajor: 3
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -26,6 +19,7 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You know the language you speak during the lesson reasonably well. If not, you try to cut down your speaking.
 	* You respect the language choice of a student. That is, if a student initiates the conversation in English, then you use English as well. When you initiate a conversation yourself, you use the official language of the course (the one listed in ÕIS).
 	* You provide an example of the exam and tests.
+	* If you show something from your laptop, make sure you have an **[[https://github.com/gorhill/uBlock/#installation ad blocker installed]]**. Students do not want to watch youtube preroll ads when you have to show a video. They are also not interested in enlarging their penises (especially if they don't have one).
 	
 	== Checklist for courses related to software development
 	* You post code examples as text files, not as **.pdf**.
@@ -34,3 +28,10 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
+summary: mention adblock
+keep-ts: 1481573519
+username: AlexDaniel
+host: 85.253.178.107
+languages: 
+revision: 3
+ts: 1481573519
