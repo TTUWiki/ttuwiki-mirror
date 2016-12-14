@@ -1,4 +1,13 @@
-keep-ts: 1481709395
+keep-ts: 1481709477
+languages: 
+username: AlexDaniel
+summary: Slides for the whole semester
+revision: 5
+ts: 1481709477
+minor: 1
+host: 85.253.178.107
+lastmajor: 4
+lastmajorsummary: Slides for the whole semester
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -24,15 +33,6 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You post code examples as text files, not as **.pdf**.
 	* You use autoformatter, code linter and other tools devoted to improve your code (visually and functionally). For example, if your course includes Python you use **pep8**.
 	* If you cannot type or edit code faster than an average person, your lessons do not include live coding. Instead, you prepare your code examples beforehand and guide students through them during the lesson.
-	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, one of the popular GNU/Linux distros, MacOS).
+	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, at least one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
-lastmajor: 4
-revision: 4
-ts: 1481709395
-username: AlexDaniel
-languages: 
-lastmajorsummary: Slides for the whole semester
-host: 85.253.178.107
-minor: 
-summary: Slides for the whole semester
