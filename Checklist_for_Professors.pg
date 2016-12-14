@@ -1,6 +1,4 @@
-lastmajorsummary: mention adblock
-minor: 
-lastmajor: 3
+keep-ts: 1481709395
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -9,6 +7,7 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You use spell checker whenever you write any text. Your browser, word processor, text editor have spell checker enabled by default and set to a proper language.
 	* Your slides and other materials are available online.
 	* Slides for the today's lesson are available online during the lecture (meaning that students can open the slides on their own computers).
+	* Slides for the whole semester are available starting from the first week (you either prepared them beforehand or you made available slides from the previous year). It does not mean that you are not doing any corrections, this is simply to let students know more about your course before they decide to take it.
 	* Your slides are available in **.pdf** format.
 	* You log into your computer before the lecture starts.
 	* You have a backup plan for every lesson in case you cannot login or use your computer.
@@ -28,10 +27,12 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
-summary: mention adblock
-keep-ts: 1481573519
+lastmajor: 4
+revision: 4
+ts: 1481709395
 username: AlexDaniel
-host: 85.253.178.107
 languages: 
-revision: 3
-ts: 1481573519
+lastmajorsummary: Slides for the whole semester
+host: 85.253.178.107
+minor: 
+summary: Slides for the whole semester
