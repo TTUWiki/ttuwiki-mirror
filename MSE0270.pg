@@ -1,11 +1,3 @@
-blocks: [Course:105995 〔Õppeaine ÕIS-is〕]
-host: 193.40.250.230
-lastmajorsummary: 
-languages: 
-lastmajor: 8
-summary: 
-username: Enar
-revision: 8
 text: #SUBTITLE Biomassi termokeemiline muundamine
 	#SUBURL [Course:105995 〔Õppeaine ÕIS-is〕]
 	
@@ -13,8 +5,16 @@ text: #SUBTITLE Biomassi termokeemiline muundamine
 	[http://staff.ttu.ee/~akonist/sti/MSJE0270.html Õppematerjal]
 	
 	
-ip: 89.235.235.166
-flags: 1
-ts: 1479897219
-minor: 
 keep-ts: 1479897219
+ip: 89.235.235.166
+lastmajorsummary: 
+ts: 1479897219
+revision: 8
+languages: 
+summary: 
+minor: 
+host: 193.40.250.230
+lastmajor: 8
+username: Enar
+blocks: [Course:105995 〔Õppeaine ÕIS-is〕]
+flags: 1

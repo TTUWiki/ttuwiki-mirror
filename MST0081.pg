@@ -1,13 +1,9 @@
 lastmajorsummary: 
-revision: 6
-flags: 1
-keep-ts: 1479896672
 ip: 89.235.235.166
-minor: 
-blocks: [Course:101264 〔Õppeaine ÕIS-is〕]
-host: 193.40.250.230
 languages: 
-lastmajor: 6
+revision: 6
+username: Enar
+ts: 1479896672
 text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	#SUBURL [Course:101264 〔Õppeaine ÕIS-is〕]
 	 
@@ -16,6 +12,10 @@ text: #SUBTITLE Tööstusahjud ja kuivatustehnoloogia
 	* [http://staff.ttu.ee/~dedov/Kuivatid%20ja%20Ahjud/ Vana koduleht]
 	
 	
-username: Enar
+lastmajor: 6
+minor: 
+flags: 1
+host: 193.40.250.230
+blocks: [Course:101264 〔Õppeaine ÕIS-is〕]
+keep-ts: 1479896672
 summary: 
-ts: 1479896672

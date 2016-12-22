@@ -1,3 +1,10 @@
+ip: 89.235.235.166
+minor: 
+lastmajor: 5
+username: Ain_Laidoja
+blocks: [Course:28325 〔Õppeaine ÕIS-is〕]
+ts: 1480422187
+revision: 5
 text: #SUBTITLE Pooljuhtide füüsika
 	#SUBURL [Course:28325 〔Õppeaine ÕIS-is〕]
 	
@@ -7,16 +14,9 @@ text: #SUBTITLE Pooljuhtide füüsika
 	* [http://staff.ttu.ee/~krustok/teaching.html Õppeaine koduleht]
 	
 	
-summary: 
-ts: 1480422187
-flags: 1
-blocks: [Course:28325 〔Õppeaine ÕIS-is〕]
-username: Ain_Laidoja
-ip: 89.235.235.166
-revision: 5
-minor: 
-lastmajor: 5
 keep-ts: 1480422187
+flags: 1
+summary: 
 languages: 
-lastmajorsummary: 
 host: 86.110.32.164
+lastmajorsummary: 

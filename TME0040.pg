@@ -1,9 +1,15 @@
-host: 86.110.32.164
 minor: 
-flags: 1
+keep-ts: 1481012536
+summary: 
 username: Ain_Laidoja
-ts: 1481012536
+languages: 
 lastmajorsummary: 
+lastmajor: 3
+flags: 1
+host: 86.110.32.164
+revision: 3
+ts: 1481012536
+blocks: [Course:110014 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Ressursikasutuse ökonoomika
 	#SUBURL [Course:110014 〔Õppeaine ÕIS-is〕]
 	
@@ -13,9 +19,3 @@ text: #SUBTITLE Ressursikasutuse ökonoomika
 	
 	
 	
-revision: 3
-summary: 
-blocks: [Course:110014 〔Õppeaine ÕIS-is〕]
-lastmajor: 3
-languages: 
-keep-ts: 1481012536

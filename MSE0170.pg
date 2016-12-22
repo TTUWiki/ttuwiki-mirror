@@ -6,16 +6,16 @@ text: #SUBTITLE Soojusvarustussüsteemid
 	
 	
 	
-ip: 89.235.235.166
-flags: 1
-languages: 
-ts: 1481094686
-keep-ts: 1481094686
-summary: 
-lastmajor: 5
-username: Enar
-revision: 6
-blocks: [Course:100994 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-minor: 1
 host: 83.191.179.141
+ts: 1481094686
+flags: 1
+keep-ts: 1481094686
+ip: 89.235.235.166
+username: Enar
+minor: 1
+lastmajorsummary: 
+summary: 
+languages: 
+lastmajor: 5
+blocks: [Course:100994 〔Õppeaine ÕIS-is〕]
+revision: 6
