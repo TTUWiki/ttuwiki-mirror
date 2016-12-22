@@ -1,15 +1,13 @@
-summary: 
-username: Artur Gummel
-ip: 89.235.235.166
-host: 89.235.248.56
-blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+lastmajor: 15
+revision: 16
+summary: Kuues Harjutustund
+host: 89.235.251.83
 lastmajorsummary: 
-revision: 15
-keep-ts: 1480073801
-flags: 1
-minor: 
-ts: 1480073801
+ip: 89.235.235.166
+ts: 1482397010
 languages: 
+minor: 1
+username: Artur Gummel
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -51,6 +49,12 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	*[[File:ITT0050_HW5.jpg]]
 	
+	**Kuues Harjutustund**
+	
+	*[[File:ITT0050_Harjutus6_1.jpg]]
+	*[[File:ITT0050_Harjutus6_2.jpg]]
+	*[[File:ITT0050_Harjutus6_3.jpg]]
+	
 	**Kontrolltöö näidis**
 	
 	*[[File:ITT0050_kontrolltoo_naidis.JPG]]
@@ -67,4 +71,6 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	-- Marjana Voronina 2016-10-05 09:03:08
 	
-lastmajor: 15
+	
+	
+keep-ts: 1482397010
