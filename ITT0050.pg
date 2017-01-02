@@ -1,13 +1,10 @@
-lastmajor: 15
-revision: 16
-summary: Kuues Harjutustund
-host: 89.235.251.83
-lastmajorsummary: 
+languages: 
+flags: 1
 ip: 89.235.235.166
 ts: 1482397010
-languages: 
 minor: 1
-username: Artur Gummel
+summary: Kuues Harjutustund
+host: 89.235.251.83
 text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	#SUBURL [Course:101795 〔Õppeaine ÕIS-is〕]
 	
@@ -73,4 +70,9 @@ text: #SUBTITLE Rekursiooni- ja keerukusteooria
 	
 	
 	
+blocks: [Course:101795 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
+username: Artur Gummel
+lastmajor: 15
+revision: 16
 keep-ts: 1482397010
