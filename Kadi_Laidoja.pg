@@ -1,21 +1,12 @@
-revision: 12
-lastmajor: 12
-summary: Rollback to 2016-09-07 11:06:24
-keep-ts: 1473246299
-text: #Minu õppekava [[IABM02-16]] 
+minor: 
+lastmajor: 13
+summary: 
+keep-ts: 1483520053
+ts: 1483520053
+lastmajorsummary: 
+username: 
+revision: 13
+text: 
 	
-	===== Esimese semestri ained
-	[[HHF0023]] Kaasaegne teaduslik mõtlemine ja filosoofilised meetodid
-	[[IDK1651]] Ärikriitiliste infosüsteemide arendus Progress vahenditega
-	[[TMM1770]] Ärisuhtlus ja äriläbirääkimised
-	[[TMJ3331]] Ettevõtlus ja äri planeerimine
-	[[IDU1341]] Infosüsteemide ülalhoid
-	[[IDX1511]] Tarkvara protsessid ja kvaliteet
-	[[IDN1653]] Värvitud Petri võrgud: mudelid ja valideerimine
-	
-username: AlexDaniel
-host: 193.40.250.230
-lastmajorsummary: Rollback to 2016-09-07 11:06:24
-minor: 0
-ts: 1473246299
 languages: 
+host: 89.235.217.36
