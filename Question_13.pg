@@ -1,10 +1,13 @@
-languages: 
-username: AlexDaniel
 host: 85.253.224.176
-blocks: 
-minor: 1
-flags: 
+username: AlexDaniel
+blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
+	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
+	
 revision: 1
+languages: 
+flags: 0101
+minor: 1
+summary: Moved
 text: Same thing here :(
 	
 	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
@@ -24,4 +27,3 @@ text: Same thing here :(
 	
 	
 ts: 1469508413
-summary: Moved
