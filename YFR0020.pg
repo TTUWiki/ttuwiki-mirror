@@ -1,18 +1,9 @@
-host: 84.52.32.112
-flags: 1
-lastmajor: 16
-revision: 16
-ip: 89.235.235.166
-minor: 
-keep-ts: 1454148759
 languages: 
-username: Artur Gummel
-summary: 
-ts: 1454148759
 text: #SUBTITLE Füüsika
 	#SUBURL [Course:31192 〔Õppeaine ÕIS-is〕]
 	
 	== Materials/Materjalid/Материалы
+	* http://www.ttu.ee/persoon/marek-vilipuu/oppematejalid/fuusika-i-ja-ii-praktikumidega-seotud-oppematerjalid/fuusika-praktikumi-i-toode-juhendid-2/
 	* http://parsek.yf.ttu.ee/inst/materjalid/Arvo%20Mere/Loengud%20YFR0020/
 	* http://www.ttu.ee/matemaatika-loodusteaduskond/fuusikainstituut/fi-tudengile/fi-oppematerjalid/
 	Login: tudeng
@@ -87,5 +78,13 @@ text: #SUBTITLE Füüsika
 	
 	
 	
-blocks: [Course:31192 〔Õppeaine ÕIS-is〕]
+ts: 1483638409
+host: 213.35.235.232
+keep-ts: 1483638409
+username: Artur Gummel
+revision: 17
+minor: 1
+summary: 
+ip: 89.235.235.166
 lastmajorsummary: 
+lastmajor: 16
