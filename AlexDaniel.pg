@@ -1,10 +1,4 @@
-username: AlexDaniel
-lastmajorsummary: The Mother of All Demos (1968)
-languages: 
 minor: 1
-revision: 28
-keep-ts: 1483639859
-ip: 89.235.239.240
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -15,7 +9,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IAF0320]] |Computer Systems Engineering |
 	| [[IAG0010]] |Advanced Course in Programming I |
 	| [[ISP0051]] |Applied Data Communication (**done**) |
-	| [[IAY0600]] |Digital Systems Design |
+	| [[IAY0600]] |Digital Systems Design (**done**) |
 	| [[IAG0450]] |Analysis of Programming Languages (**done**) |
 	
 	Total: **30 EAP**
@@ -30,7 +24,13 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-ts: 1483639859
+languages: 
+revision: 29
+keep-ts: 1483981880
+ts: 1483981880
+lastmajorsummary: The Mother of All Demos (1968)
 summary: 
-lastmajor: 24
+ip: 89.235.239.240
 host: 85.253.178.107
+username: AlexDaniel
+lastmajor: 24
