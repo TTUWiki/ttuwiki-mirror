@@ -1,4 +1,11 @@
-keep-ts: 1484905878
+blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
+revision: 17
+host: 89.235.192.24
+lastmajor: 15
+ip: 89.235.235.166
+ts: 1484905878
+flags: 1
+summary: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -44,13 +51,8 @@ text: #SUBTITLE Lineaaralgebra
 	
 	-- Artur Gummel 2016-01-30 16:17:39
 	
+minor: 1
 username: 
 languages: 
-host: 89.235.192.24
-ip: 89.235.235.166
-minor: 1
-revision: 17
-summary: 
-lastmajor: 15
+keep-ts: 1484905878
 lastmajorsummary: 
-ts: 1484905878
