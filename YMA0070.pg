@@ -1,7 +1,12 @@
-minor: 1
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
+ip: 89.235.235.166
+minor: 
+host: 193.40.246.204
+username: %USERNAME%
+lastmajorsummary:  [[File:16107321_965910780207236_4190656954800418201_o.jpg]] 
+ts: 1484909220
+languages: 
+lastmajor: 5
+summary:  [[File:16107321_965910780207236_4190656954800418201_o.jpg]] 
 text: #SUBTITLE Lineaaralgebra rakendusmeetodid
 	#SUBURL [Course:29325 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +22,13 @@ text: #SUBTITLE Lineaaralgebra rakendusmeetodid
 	#LANG_END
 	
 	
-host: 82.131.7.230
-flags: 10
-username: AlexDaniel
-keep-ts: 1441924452
-languages: 
-ip: 89.235.235.166
-ts: 1441924452
-blocks: [Course:29325 〔Õppeaine ÕIS-is〕]</div></div>
+	----
+	
+	
+	[[File:16107321_965910780207236_4190656954800418201_o.jpg]]
+	
+	-- %USERNAME% 2017-01-20 12:47:00
+	
+	
+revision: 5
+keep-ts: 1484909220
