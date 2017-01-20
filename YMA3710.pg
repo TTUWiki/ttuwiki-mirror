@@ -1,11 +1,8 @@
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
-revision: 17
-host: 89.235.192.24
-lastmajor: 15
-ip: 89.235.235.166
-ts: 1484905878
-flags: 1
+lastmajorsummary: 
+username: 
 summary: 
+languages: 
+host: 89.235.192.24
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -38,7 +35,7 @@ text: #SUBTITLE Lineaaralgebra
 	
 	Оценка по этому предмету практически ни о чем не говорит, потому что люди поголовно списывают. Варианты на переписках особо не меняются (по крайней мере довольно быстро начинают повторяться), поэтому не сдать этот предмет довольно сложно.
 	
-	Экзамен 2017 года [[File:exam_2017_YMA3710.jpg]]
+	[https://files.ttuwiki.org/exam_2017_YMA3710.jpg Экзамен 2017 года]
 	----
 	
 	Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и отпустит через 25 минут.
@@ -51,8 +48,9 @@ text: #SUBTITLE Lineaaralgebra
 	
 	-- Artur Gummel 2016-01-30 16:17:39
 	
+keep-ts: 1484905925
 minor: 1
-username: 
-languages: 
-keep-ts: 1484905878
-lastmajorsummary: 
+lastmajor: 15
+ip: 89.235.235.166
+revision: 18
+ts: 1484905925
