@@ -1,9 +1,5 @@
-languages: 
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
-keep-ts: 1454269077
-lastmajor: 15
-username: Artur Gummel
-ts: 1454269077
+username: 
+keep-ts: 1484905848
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
@@ -36,6 +32,7 @@ text: #SUBTITLE Lineaaralgebra
 	
 	Оценка по этому предмету практически ни о чем не говорит, потому что люди поголовно списывают. Варианты на переписках особо не меняются (по крайней мере довольно быстро начинают повторяться), поэтому не сдать этот предмет довольно сложно.
 	
+	Пример 2017 года [[File:exam_2017_YMA3710.jpg]]
 	----
 	
 	Если по расписанию получается так, что самая первая практика до лекций, то можно на эту практику не ехать. Она просто расскажет вам правила игры и отпустит через 25 минут.
@@ -48,11 +45,12 @@ text: #SUBTITLE Lineaaralgebra
 	
 	-- Artur Gummel 2016-01-30 16:17:39
 	
-	
-ip: 89.235.235.166
-flags: 1
-minor: 
-host: 84.52.32.112
-revision: 15
+revision: 16
+languages: 
+minor: 1
+lastmajor: 15
+ts: 1484905848
 summary: 
+ip: 89.235.235.166
 lastmajorsummary: 
+host: 89.235.192.24
