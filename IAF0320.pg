@@ -1,12 +1,7 @@
-minor: 1
-summary: Course outline and interesting papers
-lastmajor: 17
-username: AlexDaniel
 revision: 20
-host: 82.131.51.218
+username: AlexDaniel
+flags: 1
 keep-ts: 1485253202
-lastmajorsummary: Course outline and interesting papers
-ip: 89.235.235.166
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -55,4 +50,11 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	
 ts: 1485253202
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Course outline and interesting papers
+lastmajor: 17
+ip: 89.235.235.166
+summary: Course outline and interesting papers
 languages: 
+minor: 1
+host: 82.131.51.218
