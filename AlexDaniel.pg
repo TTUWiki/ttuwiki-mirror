@@ -1,22 +1,16 @@
-ts: 1484676997
-ip: 89.235.239.240
-lastmajorsummary: The Mother of All Demos (1968)
-summary: 
-username: AlexDaniel
-host: 85.253.178.107
-languages: 
+lastmajor: 31
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
 	== My study plan (2016 Autumn)
 	
-	| [[IBX0060]] |Robotics (**done**) |
-	| [[IAF0320]] |Computer Systems Engineering |
-	| [[IAG0010]] |Advanced Course in Programming I (**done**) |
-	| [[ISP0051]] |Applied Data Communication (**done**) |
-	| [[IAY0600]] |Digital Systems Design (**done**) |
-	| [[IAG0450]] |Analysis of Programming Languages (**done**) |
+	| [[IBX0060]] |Robotics (**done, 5**) |
+	| [[IAF0320]] |Computer Systems Engineering 💩 |
+	| [[IAG0010]] |Advanced Course in Programming I (**done, 5**) |
+	| [[ISP0051]] |Applied Data Communication (**done, 5 **) |
+	| [[IAY0600]] |Digital Systems Design (**done, 5 **) |
+	| [[IAG0450]] |Analysis of Programming Languages (**done, 5**) |
 	
 	Total: **30 EAP**
 	
@@ -30,7 +24,13 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-revision: 30
-lastmajor: 24
-keep-ts: 1484676997
-minor: 1
+ip: 89.235.239.240
+revision: 31
+keep-ts: 1485251509
+languages: 
+ts: 1485251509
+host: 82.131.51.218
+minor: 
+lastmajorsummary: 💩
+username: AlexDaniel
+summary: 💩
