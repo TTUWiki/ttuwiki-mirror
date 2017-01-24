@@ -1,4 +1,11 @@
+languages: 
 lastmajor: 31
+ts: 1485253655
+username: AlexDaniel
+lastmajorsummary: 💩
+host: 82.131.51.218
+ip: 89.235.239.240
+minor: 1
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -8,8 +15,8 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IBX0060]] |Robotics (**done, 5**) |
 	| [[IAF0320]] |Computer Systems Engineering 💩 |
 	| [[IAG0010]] |Advanced Course in Programming I (**done, 5**) |
-	| [[ISP0051]] |Applied Data Communication (**done, 5 **) |
-	| [[IAY0600]] |Digital Systems Design (**done, 5 **) |
+	| [[ISP0051]] |Applied Data Communication (**done, 5**) |
+	| [[IAY0600]] |Digital Systems Design (**done, 5**) |
 	| [[IAG0450]] |Analysis of Programming Languages (**done, 5**) |
 	
 	Total: **30 EAP**
@@ -24,13 +31,6 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-ip: 89.235.239.240
-revision: 31
-keep-ts: 1485251509
-languages: 
-ts: 1485251509
-host: 82.131.51.218
-minor: 
-lastmajorsummary: 💩
-username: AlexDaniel
+revision: 32
+keep-ts: 1485253655
 summary: 💩
