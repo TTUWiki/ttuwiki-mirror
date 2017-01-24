@@ -1,4 +1,3 @@
-ts: 1485253108
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -44,13 +43,16 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-revision: 19
-lastmajor: 17
 lastmajorsummary: Course outline and interesting papers
-summary: Course outline and interesting papers
-host: 82.131.51.218
 languages: 
+host: 82.131.51.218
 ip: 89.235.235.166
 username: AlexDaniel
+flags: 1
+lastmajor: 17
+revision: 19
 minor: 1
+summary: Course outline and interesting papers
 keep-ts: 1485253108
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+ts: 1485253108
