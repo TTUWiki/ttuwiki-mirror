@@ -1,12 +1,15 @@
-ip: 89.235.235.166
-minor: 
 host: 193.40.246.204
-username: %USERNAME%
+revision: 5
+summary:  [[File:16107321_965910780207236_4190656954800418201_o.jpg]] 
 lastmajorsummary:  [[File:16107321_965910780207236_4190656954800418201_o.jpg]] 
+keep-ts: 1484909220
+lastmajor: 5
+ip: 89.235.235.166
+blocks: [Course:29325 〔Õppeaine ÕIS-is〕]
 ts: 1484909220
 languages: 
-lastmajor: 5
-summary:  [[File:16107321_965910780207236_4190656954800418201_o.jpg]] 
+flags: 1
+minor: 
 text: #SUBTITLE Lineaaralgebra rakendusmeetodid
 	#SUBURL [Course:29325 〔Õppeaine ÕIS-is〕]
 	
@@ -30,5 +33,4 @@ text: #SUBTITLE Lineaaralgebra rakendusmeetodid
 	-- %USERNAME% 2017-01-20 12:47:00
 	
 	
-revision: 5
-keep-ts: 1484909220
+username: %USERNAME%
