@@ -1,7 +1,11 @@
-revision: 20
+lastmajorsummary: Course outline and interesting papers
+summary: Use shortcut
+lastmajor: 17
+minor: 1
+keep-ts: 1485321086
+ip: 89.235.235.166
+revision: 21
 username: AlexDaniel
-flags: 1
-keep-ts: 1485253202
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -28,11 +32,11 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	* Lecture #16: The Final Meeting  (20.12.16)
 	
 	Related papers:
-	* [[https://sci-hub.ac/10.1109/EWME.2014.6877421 SysML in systems engineering course (2014)]]
+	* [[Paper:10.1109/EWME.2014.6877421 SysML in systems engineering course (2014)]]
 	
-	* [[https://sci-hub.ac/10.1109/EAEEIE.2014.6879380  Teaching modeling in SysML/UML and problems encountered (2014)]]
+	* [[Paper:10.1109/EAEEIE.2014.6879380 Teaching modeling in SysML/UML and problems encountered (2014)]]
 	
-	* [[https://sci-hub.ac/10.1109/EAEEIE.2013.6576521 Systems engineering course as a backbone of the computer engineering curricula (2013)]]
+	* [[Paper:10.1109/EAEEIE.2013.6576521 Systems engineering course as a backbone of the computer engineering curricula (2013)]]
 	
 	----
 	
@@ -49,12 +53,6 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-ts: 1485253202
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: Course outline and interesting papers
-lastmajor: 17
-ip: 89.235.235.166
-summary: Course outline and interesting papers
-languages: 
-minor: 1
 host: 82.131.51.218
+ts: 1485321086
+languages: 
