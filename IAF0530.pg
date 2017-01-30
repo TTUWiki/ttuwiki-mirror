@@ -1,9 +1,15 @@
-lastmajorsummary: Materials, link to IAF0320, warning
-summary: Materials, link to IAF0320, warning
-ip: 89.235.235.166
-minor: 
+languages: 
 revision: 5
+summary: Materials, link to IAF0320, warning
+lastmajorsummary: Materials, link to IAF0320, warning
+blocks: [Course:100400 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+username: AlexDaniel
+ts: 1485763984
 lastmajor: 5
+keep-ts: 1485763984
+minor: 
+host: 193.40.250.235
 text: #SUBTITLE Süsteemide usaldusväärsus ja veakindlus
 	#SUBURL [Course:100400 〔Õppeaine ÕIS-is〕]
 	
@@ -15,8 +21,4 @@ text: #SUBTITLE Süsteemide usaldusväärsus ja veakindlus
 	
 	In some sense, the course is similar to [[IAF0320]] (also designed by Gert Jervan). In other words, avoid if possible.
 	
-languages: 
-host: 193.40.250.235
-ts: 1485763984
-keep-ts: 1485763984
-username: AlexDaniel
+flags: 1
