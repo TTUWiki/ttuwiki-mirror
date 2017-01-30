@@ -1,14 +1,8 @@
-minor: 
 host: 193.40.250.235
-summary: 
-lastmajor: 5
-username: AlexDaniel
-keep-ts: 1485786041
-ts: 1485786041
-languages: 
-lastmajorsummary: 
 ip: 89.235.235.166
-revision: 5
+lastmajor: 5
+languages: 
+ts: 1485786041
 text: #SUBTITLE Üliõpilasfirma praktikum
 	#SUBURL [Course:106268 〔Õppeaine ÕIS-is〕]
 	
@@ -17,3 +11,11 @@ text: #SUBTITLE Üliõpilasfirma praktikum
 	
 	[[image/right:File:TMJ1240x.svg]]
 	
+minor: 
+blocks: [Course:106268 〔Õppeaine ÕIS-is〕]
+summary: 
+flags: 1
+lastmajorsummary: 
+keep-ts: 1485786041
+revision: 5
+username: AlexDaniel
