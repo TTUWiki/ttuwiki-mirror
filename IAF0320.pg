@@ -1,5 +1,8 @@
-lastmajorsummary: Course outline and interesting papers
-revision: 22
+summary: Exam description, link to IAF0530
+ts: 1485765639
+revision: 23
+minor: 
+username: AlexDaniel
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -7,7 +10,7 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	Everything else is in https://edu.pld.ttu.ee/. Note that your browser will complain about the certificate. According to the professor you can accept it (/oops, server configuration issue/).
 	
-	Course outline in 2016:
+	== Course outline in 2016
 	* Lecture #1: Introduction  (30.08.16)
 	* Lecture #2: Course policies. Systems Engineering  (13.09.16)
 	* Lecture #3: Systems Engineering Viewpoints. Stucture of Complex Systems. SoS.  (20.09.16)
@@ -25,13 +28,27 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	* Lecture #15: [Presentations]
 	* Lecture #16: The Final Meeting  (20.12.16)
 	
-	Related papers:
+	== Related papers
+	
 	* [[Paper:10.1109/EWME.2014.6877421|SysML in systems engineering course (2014)]]
 	
 	* [[Paper:10.1109/EAEEIE.2014.6879380|Teaching modeling in SysML/UML and problems encountered (2014)]]
 	
 	* [[Paper:10.1109/EAEEIE.2013.6576521|Systems engineering course as a backbone of the computer engineering curricula (2013)]]
 	
+	== Exam
+	
+	In 2016, exam consisted of three parts:
+	
+	# **A, 20 points** – Test, 20 statements, mark as True or False. Some questions can be argued both ways (e.g. “SysML is basically the same as UML”). Ask for clarifications of every statement that is ambiguous (half of them are), it won't help much but who knows…
+	# **B, 40 points (≈6 questions)** – Theoretical questions (e.g. what is systems engineering), at least one question about SysML notation (e.g. the meaning of different arrows).
+	# **C, 40 points (≈6 questions)** – Practical task. You're given a system, draw required diagrams (context, use case, …), write functional/non-functional requirements, etc. Basically, anything that was in your course project. This part is mostly unambiguous, you'll be told exactly what to do and in what amount.
+	
+	Be prepared that 2 hours is not enough to finish all of the tasks properly. It is much easier to do the exam the second time (you will know the format of the exam and you'll understand the grading system), so if you're taking the exam consider going to retake also (you'll be given a different variant, but that's OK. Hint-hint, they are not /completely/ different). Also, ask to take a look at your first exam after it is graded, it will help you understand what he expects to see in the answers (e.g. there are questions like “Vee model, write everything you know”).
+	
+	== See also
+	
+	* [[IAF0530]] – another course designed by Gert Jervan.
 	----
 	
 	Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable graphs]]. Takes a few moments to figure out what is on X axis :)
@@ -47,14 +64,9 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-host: 82.131.51.218
-ip: 89.235.235.166
-flags: 1
-minor: 1
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-lastmajor: 17
-username: AlexDaniel
 languages: 
-summary: Use shortcut
-keep-ts: 1485321111
-ts: 1485321111
+keep-ts: 1485765639
+lastmajor: 23
+ip: 89.235.235.166
+lastmajorsummary: Exam description, link to IAF0530
+host: 193.40.250.235
