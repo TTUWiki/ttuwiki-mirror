@@ -1,13 +1,9 @@
-ip: 89.235.235.166
 keep-ts: 1485765969
-host: 193.40.250.235
+ip: 89.235.235.166
 lastmajorsummary: Exam description, link to IAF0530
-summary: Exam description, link to IAF0530
-languages: 
 minor: 1
-revision: 24
-lastmajor: 23
-ts: 1485765969
+host: 193.40.250.235
+flags: 1
 username: AlexDaniel
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
@@ -70,3 +66,9 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
+revision: 24
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+ts: 1485765969
+lastmajor: 23
+languages: 
+summary: Exam description, link to IAF0530
