@@ -1,11 +1,14 @@
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-summary: Exam description, link to IAF0530
-ts: 1485765639
-languages: 
 ip: 89.235.235.166
+keep-ts: 1485765969
+host: 193.40.250.235
+lastmajorsummary: Exam description, link to IAF0530
+summary: Exam description, link to IAF0530
+languages: 
+minor: 1
+revision: 24
 lastmajor: 23
-revision: 23
+ts: 1485765969
+username: AlexDaniel
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -54,7 +57,7 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	* [[IAF0530]] – another course designed by Gert Jervan.
 	----
 	
-	Funny thing: INCOSE are unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable graphs]]. Takes a few moments to figure out what is on X axis :)
+	Funny thing: INCOSE is unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable graphs]]. Takes a few moments to figure out what is on X axis :)
 	
 	-- AlexDaniel 2016-10-24 22:45:55
 	
@@ -67,8 +70,3 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-minor: 
-keep-ts: 1485765639
-lastmajorsummary: Exam description, link to IAF0530
-host: 193.40.250.235
-flags: 1
