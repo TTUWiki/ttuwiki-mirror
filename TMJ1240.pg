@@ -1,27 +1,19 @@
-ts: 1441924451
+minor: 
+host: 193.40.250.235
+summary: 
+lastmajor: 5
+username: AlexDaniel
+keep-ts: 1485786041
+ts: 1485786041
+languages: 
+lastmajorsummary: 
 ip: 89.235.235.166
-revision: 4
-host: 82.131.7.230
+revision: 5
 text: #SUBTITLE Üliõpilasfirma praktikum
 	#SUBURL [Course:106268 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
-	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
+	Course page and materials: Moodle:15649 (password: **BUS**).
 	
 	
-keep-ts: 1441924451
-blocks: [Course:106268 〔Õppeaine ÕIS-is〕]</div></div>
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-flags: 10
-minor: 1
-lastmajor: 2
+	[[image/right:File:TMJ1240x.svg]]
+	
