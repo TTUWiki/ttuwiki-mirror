@@ -1,7 +1,11 @@
-lastmajor: 6
-revision: 6
-host: 193.40.250.235
+blocks: [Course:106268 〔Õppeaine ÕIS-is〕]
+minor: 
 lastmajorsummary: Better icon
+summary: Better icon
+username: AlexDaniel
+lastmajor: 6
+ts: 1485786133
+flags: 1
 ip: 89.235.235.166
 text: #SUBTITLE Üliõpilasfirma praktikum
 	#SUBURL [Course:106268 〔Õppeaine ÕIS-is〕]
@@ -11,9 +15,7 @@ text: #SUBTITLE Üliõpilasfirma praktikum
 	
 	[[image/right:File:TMJ1240R.svg]]
 	
-summary: Better icon
-ts: 1485786133
-minor: 
-username: AlexDaniel
 keep-ts: 1485786133
+revision: 6
 languages: 
+host: 193.40.250.235
