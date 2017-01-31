@@ -1,5 +1,8 @@
-flags: 1
-revision: 8
+keep-ts: 1485852865
+minor: 1
+summary: Icon
+lastmajor: 7
+ts: 1485852865
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
@@ -10,6 +13,7 @@ text: #SUBTITLE Kiipsüsteemide disain
 	* http://ati.ttu.ee/socdesign/
 	* http://ati.ttu.ee/index.php?page=4110&aine=IAY0550
 	
+	\\
 	
 	Send your info to kalle.tammemae@ttu.ee during the first week:
 	{{{
@@ -21,14 +25,9 @@ text: #SUBTITLE Kiipsüsteemide disain
 	}}}
 	
 	
-minor: 1
-blocks: [Course:100826 〔Õppeaine ÕIS-is〕]
+revision: 9
 languages: 
-ts: 1485852853
 lastmajorsummary: Icon
-lastmajor: 7
-summary: Icon
+username: AlexDaniel
 ip: 89.235.235.166
 host: 193.40.250.235
-username: AlexDaniel
-keep-ts: 1485852853
