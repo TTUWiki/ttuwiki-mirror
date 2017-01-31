@@ -1,18 +1,16 @@
-keep-ts: 1473775942
-summary: Note that you have to reboot
-revision: 2
-ts: 1473775942
-username: AlexDaniel
-languages: 
-host: 193.40.250.236
-minor: 
+ts: 1485857069
 text: Most (if not all) computers actually have GNU/Linux installed.
 	
 	Microsoft Windows is the default option in the boot loader, so you have to restart the computer and choose another option during boot in order to get into GNU/Linux.
 	
-	To login you have to use **firstname.lastname@intra.ttu.ee** as your login name. Basically it is your TUD login with **@intra.ttu.ee** appended to it.
+	To login you have to use **firstname.lastname@intra.ttu.ee** (or just **firstname.lastname@intra**) as your login name. Basically it is your TUD login with **@intra.ttu.ee** appended to it.
 	
-flags: 
-blocks: 
-lastmajor: 2
-lastmajorsummary: Note that you have to reboot
+lastmajorsummary: just @intra is ok
+username: AlexDaniel
+minor: 
+host: 193.40.250.235
+languages: 
+summary: just @intra is ok
+lastmajor: 3
+keep-ts: 1485857069
+revision: 3
