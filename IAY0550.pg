@@ -1,4 +1,9 @@
-lastmajor: 7
+ts: 1485854709
+revision: 10
+languages: 
+summary: note about wiki account
+minor: 
+ip: 89.235.235.166
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
@@ -6,7 +11,7 @@ text: #SUBTITLE Kiipsüsteemide disain
 	
 	== Materials
 	* Moodle:4233 (password: **systemonchip17**)
-	* http://ati.ttu.ee/socdesign/
+	* http://ati.ttu.ee/socdesign/ (you have to create an account yourself)
 	* http://ati.ttu.ee/index.php?page=4110&aine=IAY0550
 	
 	\\
@@ -21,15 +26,8 @@ text: #SUBTITLE Kiipsüsteemide disain
 	}}}
 	
 	
-flags: 1
-lastmajorsummary: Icon
-ip: 89.235.235.166
-username: AlexDaniel
-keep-ts: 1485852865
-summary: Icon
-blocks: [Course:100826 〔Õppeaine ÕIS-is〕]
+keep-ts: 1485854709
+lastmajorsummary: note about wiki account
 host: 193.40.250.235
-ts: 1485852865
-languages: 
-revision: 9
-minor: 1
+username: AlexDaniel
+lastmajor: 10
