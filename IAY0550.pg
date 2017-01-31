@@ -1,10 +1,14 @@
-lastmajorsummary: Links
-username: AlexDaniel
-host: 193.40.250.235
-blocks: [Course:100826 〔Õppeaine ÕIS-is〕]
+ts: 1485852842
+summary: Icon
+lastmajorsummary: Icon
+languages: 
 minor: 
+host: 193.40.250.235
+username: AlexDaniel
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
+	
+	[[image/icon:File:socdesignicon.png]]
 	
 	Materials:
 	* Moodle:4233 (password: **systemonchip17**)
@@ -21,11 +25,8 @@ text: #SUBTITLE Kiipsüsteemide disain
 	Email: …
 	}}}
 	
+	
+revision: 7
+keep-ts: 1485852842
+lastmajor: 7
 ip: 89.235.235.166
-ts: 1485850605
-flags: 1
-summary: Links
-languages: 
-lastmajor: 6
-revision: 6
-keep-ts: 1485850605
