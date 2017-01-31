@@ -1,27 +1,19 @@
-minor: 1
-lastmajor: 2
-languages: 
-revision: 4
-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+lastmajor: 5
 username: AlexDaniel
-blocks: [Course:100826 〔Õppeaine ÕIS-is〕]</div></div>
-flags: 10
-keep-ts: 1441924446
-host: 82.131.7.230
+ts: 1485850348
+revision: 5
+ip: 89.235.235.166
+languages: 
+lastmajorsummary: Links
+minor: 
+host: 193.40.250.235
+keep-ts: 1485850348
+summary: Links
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	Materials:
+	* Moodle:4233 (password: **systemonchip17**)
+	* http://ati.ttu.ee/socdesign/
+	* http://ati.ttu.ee/index.php?page=4110&aine=IAY0550
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-ip: 89.235.235.166
