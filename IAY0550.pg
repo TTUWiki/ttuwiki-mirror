@@ -1,11 +1,5 @@
-ip: 89.235.235.166
-lastmajorsummary: Icon
-ts: 1485852853
-summary: Icon
-host: 193.40.250.235
-languages: 
-minor: 1
-username: AlexDaniel
+flags: 1
+revision: 8
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
@@ -27,6 +21,14 @@ text: #SUBTITLE Kiipsüsteemide disain
 	}}}
 	
 	
-revision: 8
+minor: 1
+blocks: [Course:100826 〔Õppeaine ÕIS-is〕]
+languages: 
+ts: 1485852853
+lastmajorsummary: Icon
 lastmajor: 7
+summary: Icon
+ip: 89.235.235.166
+host: 193.40.250.235
+username: AlexDaniel
 keep-ts: 1485852853
