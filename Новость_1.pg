@@ -1,5 +1,12 @@
-revision: 2
 diff-major: 
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
+revision: 2
+lastmajor: 1
+blocks: &lt;Journal 10 "^Новость_\d+"&gt;
+username: 
+minor: 1
 ts: 1402681668
 text: На сайте значительные изменения!
 	
@@ -14,16 +21,9 @@ text: На сайте значительные изменения!
 	
 	-- AlexDaniel 2014-03-18 02:49:59
 	
-keep-ts: 1402681668
-lastmajor: 1
 languages: 
-minor: 1
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
-summary: 
-blocks: &lt;Journal 10 "^Новость_\d+"&gt;
-username: 
-host: 89-235-239-240.saturn.infonet.ee
 ip: 89.235.239.240
+summary: 
+host: 89-235-239-240.saturn.infonet.ee
+keep-ts: 1402681668
 flags: 01
