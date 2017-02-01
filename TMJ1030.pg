@@ -1,27 +1,17 @@
-ts: 1441924451
-blocks: [Course:105008 〔Õppeaine ÕIS-is〕]</div></div>
+ip: 89.235.235.166
+revision: 5
+keep-ts: 1485947753
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:105008 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	Materials:
+	* Moodle:9237 (password: **TMJ1030**)
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-flags: 10
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-revision: 4
 languages: 
-ip: 89.235.235.166
-minor: 1
-host: 82.131.7.230
+host: 193.40.250.235
+summary: 
+ts: 1485947753
+lastmajorsummary: 
+minor: 
 username: AlexDaniel
-keep-ts: 1441924451
+lastmajor: 5
