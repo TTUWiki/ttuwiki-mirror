@@ -1,29 +1,36 @@
-lastmajor: 38
-minor: 
 username: AlexDaniel
-lastmajorsummary: Maybe more
-ts: 1485958330
-languages: 
+lastmajor: 39
+keep-ts: 1485959158
 host: 193.40.250.235
-ip: 89.235.239.240
-keep-ts: 1485958330
-summary: Maybe more
+lastmajorsummary: The plan
+ts: 1485959158
+revision: 39
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
 	
-	== My study plan (2017 Spring)
+	== Study plan
+	
+	== 2017 Autumn (planned)
+	| [[TMJ1230]] |Technology Enterprise Creation and Financing |
+	| [[IEM3040]] |Data Acquisition Means and Methods |
+	| [[IAF0610]] |Design for Test |
+	| [[IAF0620]] |Verification of Digital Systems |
+	| ??? [[IAG0410]] |Basics of Computer Aided-Design |
+	
+	== 2017 Spring (**current**)
 	| [[TMJ1030]] |Entrepreneurship and Business Planning |
 	| [[IBX0030]] |Innovation and Creative Problem Solving |
 	| [[IAY0550]] |Systems-on-Chip Design |
 	| [[ISC0010]] |Microprocessor Systems  |
 	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties |
 	| [[IAY0340]] |Digital Systems Modeling and Synthesis |
-	| … | … |
+	| ??? [[IAG0060]] |Software Project Management |
+	| ??? [[TMJ1240]] |Student's Enterprise Practice |
 	
 	Total: **30 EAP**
 	
-	== My study plan (2016 Autumn)
+	== 2016 Autumn (previous)
 	
 	| [[IBX0060]] |Robotics (**done, 5**) |
 	| [[IAF0320]] |Computer Systems Engineering (**done, unknown yet 💩**) |
@@ -44,4 +51,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-revision: 38
+languages: 
+ip: 89.235.239.240
+summary: The plan
+minor: 
