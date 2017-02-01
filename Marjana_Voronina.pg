@@ -1,3 +1,12 @@
+revision: 30
+keep-ts: 1485988553
+minor: 
+ts: 1485988553
+languages: 
+summary: new study plan
+lastmajor: 30
+username: Marjana Voronina
+lastmajorsummary: new study plan
 text: ==My study plan
 	
 	===2017 spring
@@ -9,6 +18,7 @@ text: ==My study plan
 	|[[HLI2040]] Inglise keel | 3 |
 	|[[IDX5711]] Intelligentsed süsteemid | 5 |
 	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 |
+	| **Total** | **30** |
 	
 	
 	===2016 fall
@@ -56,13 +66,4 @@ text: ==My study plan
 	http://www.aplusplus.net/bookonl/node158.html
 	http://www.indiastudychannel.com/resources/150271-UML-Diagrams-case-studies-Library.aspx
 	
-ts: 1485988481
-revision: 29
-username: Marjana Voronina
-languages: 
-summary: new study plan
 host: 85.253.230.146
-lastmajorsummary: new study plan
-lastmajor: 29
-keep-ts: 1485988481
-minor: 
