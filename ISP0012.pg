@@ -1,27 +1,16 @@
-keep-ts: 1441924447
-languages: 
-lastmajor: 2
-minor: 1
-ts: 1441924447
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
+summary: No link yet :(
+ts: 1485963200
+keep-ts: 1485963200
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	Materials: No link yet. Promised in a few weeks.
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-ip: 89.235.235.166
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajorsummary: No link yet :(
+revision: 5
+minor: 
+lastmajor: 5
 username: AlexDaniel
-revision: 4
-host: 82.131.7.230
-flags: 10
+languages: 
+ip: 89.235.235.166
