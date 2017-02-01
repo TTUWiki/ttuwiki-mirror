@@ -1,14 +1,13 @@
-keep-ts: 1485851387
-lastmajorsummary: Current semester
-languages: 
-minor: 1
-ts: 1485851387
-summary: Current semester
-lastmajor: 36
+lastmajor: 38
+minor: 
 username: AlexDaniel
-ip: 89.235.239.240
-revision: 37
+lastmajorsummary: Maybe more
+ts: 1485958330
+languages: 
 host: 193.40.250.235
+ip: 89.235.239.240
+keep-ts: 1485958330
+summary: Maybe more
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -20,7 +19,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[ISC0010]] |Microprocessor Systems  |
 	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties |
 	| [[IAY0340]] |Digital Systems Modeling and Synthesis |
-	
+	| … | … |
 	
 	Total: **30 EAP**
 	
@@ -45,3 +44,4 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
+revision: 38
