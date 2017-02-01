@@ -1,6 +1,13 @@
-ip: 89.235.235.166
+flags: 1
 revision: 5
+ip: 89.235.235.166
+summary: 
+lastmajor: 5
 keep-ts: 1485947753
+host: 193.40.250.235
+minor: 
+lastmajorsummary: 
+ts: 1485947753
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:105008 〔Õppeaine ÕIS-is〕]
 	
@@ -8,10 +15,5 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	* Moodle:9237 (password: **TMJ1030**)
 	
 languages: 
-host: 193.40.250.235
-summary: 
-ts: 1485947753
-lastmajorsummary: 
-minor: 
+blocks: [Course:105008 〔Õppeaine ÕIS-is〕]
 username: AlexDaniel
-lastmajor: 5
