@@ -1,14 +1,16 @@
-minor: 
-revision: 28
-username: Marjana Voronina
-lastmajor: 28
-languages: 
-host: 193.40.250.233
-summary: 
-keep-ts: 1480689426
-lastmajorsummary: 
-ts: 1480689426
 text: ==My study plan
+	
+	===2017 spring
+	
+	|= Course |= EAP |
+	|[[ITX8530]] Tarkvaraarenduse meeskonnaprojekt: tellimus | 10 |
+	|[[IDK1332]] Kasutajamugavus ja kasutajakogemus | 5 |
+	|[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur | 5 |
+	|[[HLI2040]] Inglise keel | 3 |
+	|[[IDX5711]] Intelligentsed süsteemid | 5 |
+	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 |
+	
+	
 	===2016 fall
 	
 	|= Course |= EAP | 
@@ -54,3 +56,13 @@ text: ==My study plan
 	http://www.aplusplus.net/bookonl/node158.html
 	http://www.indiastudychannel.com/resources/150271-UML-Diagrams-case-studies-Library.aspx
 	
+ts: 1485988481
+revision: 29
+username: Marjana Voronina
+languages: 
+summary: new study plan
+host: 85.253.230.146
+lastmajorsummary: new study plan
+lastmajor: 29
+keep-ts: 1485988481
+minor: 
