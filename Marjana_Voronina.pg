@@ -1,12 +1,6 @@
-revision: 30
-keep-ts: 1485988553
-minor: 
-ts: 1485988553
-languages: 
-summary: new study plan
-lastmajor: 30
-username: Marjana Voronina
-lastmajorsummary: new study plan
+ts: 1485988762
+revision: 31
+summary: coursemates
 text: ==My study plan
 	
 	===2017 spring
@@ -32,38 +26,16 @@ text: ==My study plan
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
 	| **Total** | **33** |
 	
+	===Coursemates
 	
-	**[[ITI8610]] Tarkvara töökindlus**
+	*163582 – me
+	*163303 – Artur
+	*162967 – Olesja
 	
-	
-	My Team:
-	
-	*163582
-	*163305
-	*163303
-	*162967
-	*153077
-	
-	**[[TMJ3331]] Ettevõtlus ja äri planeerimine**
-	
-	My Team:
-	*163582
-	*163303
-	*162967
-	
-	
-	
-	**[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid**
-	
-	http://www.jaapsch.net/puzzles/tantrix.htm
-	
-	**[[IDU1550]] Tarkvara arhitektuur ja disain **
-	
-	http://www.uml-diagrams.org/library-domain-uml-class-diagram-example.html
-	http://www.programsformca.com/2012/03/uml-diagrams-library-mgmt-system.html
-	https://asadsiddiqi.wordpress.com/2008/02/21/object-oriented-design-a-class-diagram-walkthrough/
-	https://www.lucidchart.com/pages/class-diagram-for-library-management-system-UML
-	http://www.aplusplus.net/bookonl/node158.html
-	http://www.indiastudychannel.com/resources/150271-UML-Diagrams-case-studies-Library.aspx
-	
+username: Marjana Voronina
+minor: 1
+lastmajor: 30
+keep-ts: 1485988762
 host: 85.253.230.146
+languages: 
+lastmajorsummary: new study plan
