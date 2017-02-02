@@ -1,18 +1,17 @@
 minor: 
-flags: 1
-host: 84.52.32.112
+ip: 193.40.244.196
 languages: 
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
-lastmajor: 16
-username: Artur Gummel
-ts: 1454354505
-lastmajorsummary: 
+keep-ts: 1486034608
+username: 
+lastmajor: 17
+ts: 1486034608
+revision: 17
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
 	== Materials:
 	* [[http://reinpx.wix.com/rp3#!__arvutivorgud Õppejõu koduleht]]
-	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.15.83** in 2015)
+	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.17.83** in 2017)
 	* [http://files.ttuwiki.org/Computer_Networking_second_edition_rus.pdf Джеймс Ф. Куроуз, Кит В. Росс Компьютерные сети 2-е издание]
 	* [[File:Arvutivorgud.all.pdf]] (rus)
 	
@@ -33,6 +32,5 @@ text: #SUBTITLE Arvutivõrgud
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
 summary: 
-revision: 16
-keep-ts: 1454354505
-ip: 193.40.244.196
+host: 193.40.244.197
+lastmajorsummary: 
