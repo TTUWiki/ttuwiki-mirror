@@ -1,20 +1,18 @@
+revision: 8
+languages: 
+username: AlexDaniel
+ts: 1486039780
+minor: 
+keep-ts: 1486039780
+ip: 89.235.235.166
 summary: 
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
-	
-	Materials: http://isc.ttu.ee/ and http://martinjott.ee/ttu/
-	Labs in U02-302
+	* Slides and materials: http://martinjott.ee/ttu/
+	* Studying system: http://isc.ttu.ee/
+	* Labs in U02-302
 	
 lastmajorsummary: 
-languages: 
-revision: 7
-ts: 1486039532
-keep-ts: 1486039532
-lastmajor: 7
-ip: 89.235.235.166
-minor: 
-username: AlexDaniel
-blocks: [Course:106459 〔Õppeaine ÕIS-is〕]
-flags: 1
+lastmajor: 8
 host: 193.40.250.235
