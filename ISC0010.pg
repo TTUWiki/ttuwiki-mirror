@@ -1,17 +1,19 @@
+ts: 1486039023
+languages: 
+blocks: [Course:106459 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
+lastmajor: 6
+flags: 1
+summary: 
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
 	Materials: http://isc.ttu.ee/
 	Labs in U02-302
 	
-revision: 6
-ts: 1486039023
-lastmajor: 6
-minor: 
-keep-ts: 1486039023
-lastmajorsummary: 
-summary: 
-languages: 
-host: 193.40.250.235
 username: AlexDaniel
+minor: 
+lastmajorsummary: 
+keep-ts: 1486039023
+revision: 6
 ip: 89.235.235.166
