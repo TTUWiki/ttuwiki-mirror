@@ -1,14 +1,9 @@
-revision: 18
-minor: 
-summary: include 2015 also so that people see the pattern
-lastmajorsummary: include 2015 also so that people see the pattern
-username: AlexDaniel
-ip: 193.40.244.196
-host: 193.40.250.235
-ts: 1486037246
-keep-ts: 1486037246
-lastmajor: 18
 languages: 
+keep-ts: 1486037246
+ip: 193.40.244.196
+username: AlexDaniel
+summary: include 2015 also so that people see the pattern
+lastmajor: 18
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -34,3 +29,10 @@ text: #SUBTITLE Arvutivõrgud
 	
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
+host: 193.40.250.235
+flags: 1
+blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: include 2015 also so that people see the pattern
+ts: 1486037246
+revision: 18
+minor: 
