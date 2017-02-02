@@ -1,20 +1,18 @@
 lastmajorsummary: 
-lastmajor: 8
+minor: 
+host: 193.40.250.235
+username: AlexDaniel
+revision: 9
+summary: 
+keep-ts: 1486039905
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
-	* Slides and materials: http://martinjott.ee/ttu/
+	* Slides and materials: http://martinjott.ee/ttu/ and http://martinjott.ee/ttu/avr
 	* Studying system: http://isc.ttu.ee/
 	* Labs in U02-302
 	
 languages: 
-summary: 
-keep-ts: 1486039780
-username: AlexDaniel
-blocks: [Course:106459 〔Õppeaine ÕIS-is〕]
-revision: 8
-flags: 1
-ts: 1486039780
-host: 193.40.250.235
-minor: 
+lastmajor: 9
+ts: 1486039905
 ip: 89.235.235.166
