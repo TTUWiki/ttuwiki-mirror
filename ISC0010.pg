@@ -1,16 +1,18 @@
-minor: 
-host: 193.40.250.235
+flags: 1
+keep-ts: 1486038584
 ts: 1486038584
-username: AlexDaniel
-ip: 89.235.235.166
-lastmajorsummary: 
-lastmajor: 5
-revision: 5
 languages: 
-summary: 
+revision: 5
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
 	Materials: http://isc.ttu.ee/
 	
-keep-ts: 1486038584
+username: AlexDaniel
+summary: 
+lastmajorsummary: 
+blocks: [Course:106459 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
+minor: 
+host: 193.40.250.235
+lastmajor: 5
