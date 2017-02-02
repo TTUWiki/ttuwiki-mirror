@@ -1,11 +1,12 @@
+flags: 1
+revision: 17
+blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: 
+summary: 
 minor: 
-ip: 193.40.244.196
-languages: 
-keep-ts: 1486034608
 username: 
 lastmajor: 17
-ts: 1486034608
-revision: 17
+host: 193.40.244.197
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
@@ -31,6 +32,7 @@ text: #SUBTITLE Arvutivõrgud
 	
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
-summary: 
-host: 193.40.244.197
-lastmajorsummary: 
+keep-ts: 1486034608
+languages: 
+ts: 1486034608
+ip: 193.40.244.196
