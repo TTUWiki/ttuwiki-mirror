@@ -1,18 +1,20 @@
-flags: 1
-revision: 17
-blocks: [Course:31236 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: 
-summary: 
+revision: 18
 minor: 
-username: 
-lastmajor: 17
-host: 193.40.244.197
+summary: include 2015 also so that people see the pattern
+lastmajorsummary: include 2015 also so that people see the pattern
+username: AlexDaniel
+ip: 193.40.244.196
+host: 193.40.250.235
+ts: 1486037246
+keep-ts: 1486037246
+lastmajor: 18
+languages: 
 text: #SUBTITLE Arvutivõrgud
 	#SUBURL [Course:31236 〔Õppeaine ÕIS-is〕]
 	
 	== Materials:
 	* [[http://reinpx.wix.com/rp3#!__arvutivorgud Õppejõu koduleht]]
-	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.17.83** in 2017)
+	* [Moodle:9723 Moodle] – requires a password 😥 (was **192.168.17.83** in 2017 and **192.168.15.83** in 2015)
 	* [http://files.ttuwiki.org/Computer_Networking_second_edition_rus.pdf Джеймс Ф. Куроуз, Кит В. Росс Компьютерные сети 2-е издание]
 	* [[File:Arvutivorgud.all.pdf]] (rus)
 	
@@ -32,7 +34,3 @@ text: #SUBTITLE Arvutivõrgud
 	
 	[[File:ISP0041_lab2_WLAN_RU_v2.pdf]]
 	
-keep-ts: 1486034608
-languages: 
-ts: 1486034608
-ip: 193.40.244.196
