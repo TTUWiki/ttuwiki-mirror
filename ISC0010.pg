@@ -1,27 +1,16 @@
-host: 82.131.7.230
-flags: 10
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-revision: 4
-keep-ts: 1441924447
-languages: 
+minor: 
+host: 193.40.250.235
+ts: 1486038584
 username: AlexDaniel
-blocks: [Course:106459 〔Õppeaine ÕIS-is〕]</div></div>
 ip: 89.235.235.166
-lastmajor: 2
-ts: 1441924447
+lastmajorsummary: 
+lastmajor: 5
+revision: 5
+languages: 
+summary: 
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	Materials: http://isc.ttu.ee/
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-minor: 1
+keep-ts: 1486038584
