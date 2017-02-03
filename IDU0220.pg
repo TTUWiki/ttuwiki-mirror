@@ -1,8 +1,12 @@
-lastmajor: 20
-languages: 
-host: 89.235.198.110
+ts: 1486097811
+lastmajor: 21
+minor: 
+ip: 89.235.235.166
+username: AlexDaniel
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
+	
+	Example project (or why you shouldn't take this course): http://maurus.ttu.ee/ained/IDU0220_2016/doc/16/Naidisprojekt_IDU0220_vastuvotuajad_ver4_7.pdf
 	
 	== Информация
 	Видеолекции по предмету:
@@ -55,13 +59,9 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-flags: 1
-lastmajorsummary: 
-username: Artur Gummel
-revision: 20
-minor: 
-ts: 1461859444
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-summary: 
-ip: 89.235.235.166
-keep-ts: 1461859444
+languages: 
+host: 85.253.230.146
+revision: 21
+summary: Link to example projec
+lastmajorsummary: Link to example projec
+keep-ts: 1486097811
