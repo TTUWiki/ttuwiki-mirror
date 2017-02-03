@@ -1,16 +1,18 @@
-minor: 
-username: AlexDaniel
-host: 85.253.230.146
+lastmajorsummary: no link
 ip: 89.235.235.166
 languages: 
+host: 85.253.230.146
+revision: 5
+flags: 1
 summary: no link
-lastmajor: 5
-lastmajorsummary: no link
-ts: 1486054778
+blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+minor: 
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
 	Materials: no link yet. The professor says that required materials will be given during the lectures/practices.
 	
+lastmajor: 5
 keep-ts: 1486054778
-revision: 5
+ts: 1486054778
