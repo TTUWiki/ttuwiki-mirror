@@ -1,18 +1,18 @@
-lastmajorsummary: no link
-ip: 89.235.235.166
-languages: 
-host: 85.253.230.146
-revision: 5
-flags: 1
-summary: no link
-blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
+summary: Link!
 username: AlexDaniel
-minor: 
+ts: 1486352464
+keep-ts: 1486352464
+ip: 89.235.235.166
+revision: 6
+lastmajorsummary: Link!
+languages: 
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
 	Materials: no link yet. The professor says that required materials will be given during the lectures/practices.
 	
-lastmajor: 5
-keep-ts: 1486054778
-ts: 1486054778
+	Previous year: http://www.tud.ttu.ee/im/Ahto.Kalja/SoftPM16/
+	
+host: 85.253.230.146
+minor: 
+lastmajor: 6
