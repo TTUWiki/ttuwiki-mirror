@@ -1,10 +1,11 @@
-keep-ts: 1485765969
-ip: 89.235.235.166
-lastmajorsummary: Exam description, link to IAF0530
-minor: 1
-host: 193.40.250.235
-flags: 1
+lastmajorsummary: 
+host: 85.253.230.146
+keep-ts: 1486354241
+revision: 25
 username: AlexDaniel
+ip: 89.235.235.166
+minor: 
+languages: 
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -48,6 +49,12 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	
 	Be prepared that 2 hours is not enough to finish all of the tasks properly. It is much easier to do the exam the second time (you will know the format of the exam and you'll understand the grading system), so if you're taking the exam consider going to retake also (you'll be given a different variant, but that's OK. Hint-hint, they are not /completely/ different). Also, ask to take a look at your first exam after it is graded, it will help you understand what he expects to see in the answers (e.g. there are questions like “Vee model, write everything you know”).
 	
+	If you want to get a good grade for the exam, you want to focus on **part B**. No matter what you write there, you will not get maximum points for any of the questions. “OK you wrote all this but I expected to see this sentence somewhere”, “here I expected to have this bit clarified a bit more” and so on. In the end, you will of course agree that your answers could've been more detailed, but the fact is that this is probably the biggest exam you are going to write in your life, there is simply not enough time to write more stuff.
+	
+	As of February 2016, the record for the exam is 75 points. The thing is, most people are smart enough not to go to the exam (but how do they know that the whole thing is such a nonsense?).
+	
+	So if you are thinking about improving your grade from 4 or even 3… better don't. In theory it is possible to get “4” for the exam, but you'll have to try really hard. As for 5… well, good luck. Probably not going to happen unless the exam itself is changed.
+	
 	== See also
 	
 	* [[IAF0530]] – another course designed by Gert Jervan.
@@ -66,9 +73,6 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-revision: 24
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-ts: 1485765969
-lastmajor: 23
-languages: 
-summary: Exam description, link to IAF0530
+lastmajor: 25
+summary: 
+ts: 1486354241
