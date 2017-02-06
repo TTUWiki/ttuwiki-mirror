@@ -1,10 +1,14 @@
-summary: Link!
-username: AlexDaniel
 ts: 1486352464
 keep-ts: 1486352464
 ip: 89.235.235.166
+lastmajor: 6
 revision: 6
-lastmajorsummary: Link!
+minor: 
+flags: 1
+host: 85.253.230.146
+summary: Link!
+username: AlexDaniel
+blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
 languages: 
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
@@ -13,6 +17,4 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	
 	Previous year: http://www.tud.ttu.ee/im/Ahto.Kalja/SoftPM16/
 	
-host: 85.253.230.146
-minor: 
-lastmajor: 6
+lastmajorsummary: Link!
