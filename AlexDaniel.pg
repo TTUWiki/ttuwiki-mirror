@@ -1,6 +1,3 @@
-keep-ts: 1485987481
-ip: 89.235.239.240
-summary: 
 host: 85.253.230.146
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
@@ -13,7 +10,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IEM3040]] |Data Acquisition Means and Methods |
 	| [[IAF0610]] |Design for Test |
 	| [[IAF0620]] |Verification of Digital Systems |
-	| ??? [[IAG0410]] |Basics of Computer Aided-Design |
+	| [[HOE7250]] |International Intellectual Property Law |
 	
 	== 2017 Spring (**current**)
 	| [[TMJ1030]] |Entrepreneurship and Business Planning |
@@ -22,10 +19,9 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[ISC0010]] |Microprocessor Systems  |
 	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties |
 	| [[IAY0340]] |Digital Systems Modeling and Synthesis |
-	| ??? [[IAG0060]] |Software Project Management |
-	| ??? [[TMJ1240]] |Student's Enterprise Practice |
+	| [[IAG0060]] |Software Project Management |
 	
-	Total: **? EAP**
+	Total: **32 EAP**
 	
 	== 2016 Autumn (previous)
 	
@@ -48,10 +44,13 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-lastmajor: 39
-lastmajorsummary: The plan
+keep-ts: 1486352851
 languages: 
-revision: 40
-ts: 1485987481
+ts: 1486352851
+lastmajor: 41
+revision: 41
+minor: 
 username: AlexDaniel
-minor: 1
+lastmajorsummary: Plan finished
+summary: Plan finished
+ip: 89.235.239.240
