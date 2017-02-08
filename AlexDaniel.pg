@@ -1,10 +1,13 @@
-minor: 1
-keep-ts: 1486353114
-lastmajorsummary: Plan finished
-lastmajor: 41
-revision: 42
-languages: 
 username: AlexDaniel
+revision: 43
+ip: 89.235.239.240
+minor: 1
+lastmajorsummary: Plan finished
+ts: 1486593506
+host: 85.253.230.146
+summary: 
+languages: 
+lastmajor: 41
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -17,6 +20,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IAF0610]] |Design for Test |
 	| [[IAF0620]] |Verification of Digital Systems |
 	| [[HOE7250]] |International Intellectual Property Law |
+	| …? | …? |
 	
 	== 2017 Spring (**current**)
 	| [[TMJ1030]] |Entrepreneurship and Business Planning |
@@ -27,7 +31,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IAY0340]] |Digital Systems Modeling and Synthesis |
 	| [[IAG0060]] |Software Project Management |
 	
-	Total: **32 EAP**
+	Total: **34 EAP**
 	
 	== 2016 Autumn (previous)
 	
@@ -50,7 +54,4 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-host: 85.253.230.146
-summary: Plan finished
-ts: 1486353114
-ip: 89.235.239.240
+keep-ts: 1486593506
