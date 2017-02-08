@@ -1,3 +1,16 @@
+summary: Link to example projec
+ts: 1486097811
+revision: 21
+lastmajor: 21
+flags: 1
+minor: 
+host: 85.253.230.146
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajorsummary: Link to example projec
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+languages: 
+keep-ts: 1486097811
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -54,16 +67,3 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-lastmajorsummary: Link to example projec
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-summary: Link to example projec
-username: AlexDaniel
-host: 85.253.230.146
-keep-ts: 1486097811
-ip: 89.235.235.166
-revision: 21
-lastmajor: 21
-languages: 
-flags: 1
-ts: 1486097811
-minor: 

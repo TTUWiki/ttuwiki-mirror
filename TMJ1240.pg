@@ -1,3 +1,15 @@
+username: AlexDaniel
+lastmajorsummary: Better icon
+lastmajor: 6
+keep-ts: 1485786209
+flags: 1
+languages: 
+summary: Better icon
+ts: 1485786209
+blocks: [Course:106268 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
+ip: 89.235.235.166
+minor: 1
 text: #SUBTITLE Üliõpilasfirma praktikum
 	#SUBURL [Course:106268 〔Õppeaine ÕIS-is〕]
 	
@@ -6,16 +18,4 @@ text: #SUBTITLE Üliõpilasfirma praktikum
 	Course page and materials: Moodle:15649 (password: **BUS**).
 	
 	
-languages: 
-summary: Better icon
-ts: 1485786209
-blocks: [Course:106268 〔Õppeaine ÕIS-is〕]
-minor: 1
-keep-ts: 1485786209
-lastmajor: 6
-host: 193.40.250.235
-flags: 1
-username: AlexDaniel
 revision: 8
-ip: 89.235.235.166
-lastmajorsummary: Better icon

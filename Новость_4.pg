@@ -1,16 +1,14 @@
+revision: 2
+host: 84.52.55.133
+keep-ts: 1410475920
+languages: 
+minor: 
+ts: 1410475920
+diff-major: 1
 diff-minor: <p><strong>Added:</strong></p>
 	<div class="new"><p>&gt; * Название предмета теперь есть в title. Вписывая название предмета в адресную строку браузера можно быстро найти ссылку на страницу, которую вы читали ранее.</p></div>
-lastmajor: 2
-username: AlexDaniel
-keep-ts: 1410475920
-flags: 01
-minor: 
-languages: 
-ts: 1410475920
-revision: 2
-summary: 
-blocks: &lt;Journal 10 "^Новость_\d+"&gt;
-host: 84.52.55.133
+blocks: 
+flags: 
 text: Потихоньку наступает новый учебный год, а тем временем на сайте некоторые улучшения!
 	* Возможность сравнивать учебные программы.
 	* Загрузка расписания была автоматизирована, теперь расписания в картинках будут всегда актуальны.
@@ -23,4 +21,6 @@ text: Потихоньку наступает новый учебный год, 
 	-- AlexDaniel 2014-08-26 01:35:22
 	
 	
-diff-major: 1
+lastmajor: 2
+username: AlexDaniel
+summary: 
