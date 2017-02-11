@@ -1,15 +1,21 @@
-lastmajorsummary: 
-summary: 
 ip: 89.235.235.166
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-flags: 1
+languages: 
+revision: 26
+minor: 
 host: 85.253.230.146
+summary: Link to older materials
+keep-ts: 1486826174
+lastmajor: 26
+lastmajorsummary: Link to older materials
+username: AlexDaniel
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
 	Initial course materials: http://www.tud.ttu.ee/web/Tarmo.Robal/IAF0320/
 	
 	Everything else is in https://edu.pld.ttu.ee/. Note that your browser will complain about the certificate. According to the professor you can accept it (/oops, server configuration issue/).
+	
+	Old materials (**≤2014**): http://pld.ttu.ee/IAF0320/ (as of 2016, the course hasn't changed much).
 	
 	== Course outline in 2016
 	* Lecture #1: Introduction  (30.08.16)
@@ -71,10 +77,4 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-username: AlexDaniel
-lastmajor: 25
-languages: 
-revision: 25
-ts: 1486354241
-minor: 
-keep-ts: 1486354241
+ts: 1486826174
