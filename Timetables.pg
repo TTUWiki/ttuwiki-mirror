@@ -1,7 +1,7 @@
-revision: 18
-summary: notice saying that links are currently outdated
 username: AlexDaniel
-text: **⚠ Links are currently outdated**
+languages: 
+keep-ts: 1487005648
+text: == **⚠ Links are currently outdated**
 	
 	
 	#ENG
@@ -33,10 +33,10 @@ text: **⚠ Links are currently outdated**
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
+revision: 19
+minor: 1
+summary: notice saying that links are currently outdated
 lastmajor: 18
-languages: 
+ts: 1487005648
 lastmajorsummary: notice saying that links are currently outdated
-minor: 
 host: 85.253.230.146
-ts: 1487005637
-keep-ts: 1487005637
