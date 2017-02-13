@@ -54,16 +54,16 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-minor: 
+lastmajorsummary: Link to example projec
+lastmajor: 21
 ip: 89.235.235.166
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
 ts: 1486097811
+host: 85.253.230.146
 username: AlexDaniel
 summary: Link to example projec
-blocks: 
-languages: 
-lastmajorsummary: Link to example projec
+flags: 1
+minor: 
 revision: 21
+languages: 
 keep-ts: 1486097811
-lastmajor: 21
-host: 85.253.230.146
-flags: 

@@ -1,14 +1,8 @@
-flags: 
-host: 193.40.250.235
-keep-ts: 1485864787
-lastmajor: 5
-revision: 5
-username: AlexDaniel
-ip: 89.235.235.166
-ts: 1485864787
-lastmajorsummary: Link to materials
-blocks: 
 languages: 
+keep-ts: 1485864787
+blocks: 
+ts: 1485864787
+username: AlexDaniel
 summary: Link to materials
 minor: 
 text: #SUBTITLE Digitaalsüsteemide modelleerimine ja süntees
@@ -16,3 +10,9 @@ text: #SUBTITLE Digitaalsüsteemide modelleerimine ja süntees
 	
 	Materials: http://ati.ttu.ee/IAY0340/
 	
+ip: 89.235.235.166
+revision: 5
+host: 193.40.250.235
+lastmajorsummary: Link to materials
+flags: 
+lastmajor: 5

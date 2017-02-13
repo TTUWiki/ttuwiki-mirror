@@ -1,4 +1,4 @@
-languages: 
+minor: 
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
@@ -22,14 +22,14 @@ text: #SUBTITLE Kiipsüsteemide disain
 	
 	
 ip: 89.235.235.166
-blocks: 
 lastmajorsummary: note about wiki account
-ts: 1485854709
-minor: 
-summary: note about wiki account
 revision: 10
-keep-ts: 1485854709
+host: 193.40.250.235
 flags: 
 lastmajor: 10
-host: 193.40.250.235
+languages: 
+blocks: 
+keep-ts: 1485854709
+ts: 1485854709
 username: AlexDaniel
+summary: note about wiki account
