@@ -1,4 +1,9 @@
-text: 
+revision: 18
+summary: notice saying that links are currently outdated
+username: AlexDaniel
+text: **⚠ Links are currently outdated**
+	
+	
 	#ENG
 	* [[#Timetables_(Full-time_studies)|Full-time studies]] ([[#Timetables_(Full-time studies,_images)|PNG]])
 	* [[#Timetables_(Distance learning)|Distance learning]] ([[#Timetables_(Distance learning,_images)|PNG]])
@@ -28,15 +33,10 @@ text:
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-lastmajor: 17
-flags: 
-revision: 17
-keep-ts: 1473765386
-lastmajorsummary: Timetables are now up to date
-host: 193.40.250.236
+lastmajor: 18
 languages: 
-blocks: 
-summary: Timetables are now up to date
-ts: 1473765386
-username: AlexDaniel
+lastmajorsummary: notice saying that links are currently outdated
 minor: 
+host: 85.253.230.146
+ts: 1487005637
+keep-ts: 1487005637
