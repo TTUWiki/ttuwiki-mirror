@@ -1,9 +1,4 @@
-ts: 1487547004
-revision: 8
-summary: More
-languages: 
-lastmajorsummary: More
-minor: 
+revision: 9
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -41,7 +36,19 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, at least one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
+	----
+	
+	Perhaps this page shouldn't attempt to explain and justify (or should do it separately).
+	
+	-- AlexDaniel 2017-02-20 01:46:46
+	
+	
+keep-ts: 1487548007
+languages: 
 host: 85.253.176.185
-lastmajor: 8
+lastmajor: 9
+ts: 1487548007
 username: AlexDaniel
-keep-ts: 1487547004
+summary: Perhaps this page shouldn't attempt to explain and justify (or should do it separately).
+minor: 
+lastmajorsummary: Perhaps this page shouldn't attempt to explain and justify (or should do it separately).
