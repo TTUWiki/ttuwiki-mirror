@@ -1,3 +1,7 @@
+lastmajor: 5
+flags: 1
+minor: 1
+languages: 
 text: #SUBTITLE Innovaatika ja loov probleemilahendus
 	#SUBURL [Course:100677 〔Õppeaine ÕIS-is〕]
 	
@@ -7,16 +11,12 @@ text: #SUBTITLE Innovaatika ja loov probleemilahendus
 	# go to http://biorobotics.ttu.ee/
 	# then Study → Courses →Innovation and Creative Problem Solving
 	
-minor: 1
-lastmajor: 5
-flags: 
-host: 193.40.250.235
-lastmajorsummary: Link to materials
 revision: 6
-ip: 89.235.235.166
-keep-ts: 1486469831
-blocks: 
-languages: 
-summary: Link to materials
 username: AlexDaniel
 ts: 1486469831
+keep-ts: 1486469831
+lastmajorsummary: Link to materials
+ip: 89.235.235.166
+host: 193.40.250.235
+blocks: [Course:100677 〔Õppeaine ÕIS-is〕]
+summary: Link to materials

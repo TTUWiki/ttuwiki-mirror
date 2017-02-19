@@ -1,18 +1,18 @@
-languages: 
-keep-ts: 1485864787
-blocks: 
-ts: 1485864787
 username: AlexDaniel
-summary: Link to materials
-minor: 
+host: 193.40.250.235
 text: #SUBTITLE Digitaalsüsteemide modelleerimine ja süntees
 	#SUBURL [Course:106234 〔Õppeaine ÕIS-is〕]
 	
 	Materials: http://ati.ttu.ee/IAY0340/
 	
-ip: 89.235.235.166
-revision: 5
-host: 193.40.250.235
+keep-ts: 1485864787
 lastmajorsummary: Link to materials
-flags: 
+ip: 89.235.235.166
+blocks: [Course:106234 〔Õppeaine ÕIS-is〕]
+flags: 1
+minor: 
+languages: 
+ts: 1485864787
+summary: Link to materials
+revision: 5
 lastmajor: 5

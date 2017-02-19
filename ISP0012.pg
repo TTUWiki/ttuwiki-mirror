@@ -1,18 +1,18 @@
+lastmajor: 5
 lastmajorsummary: No link yet :(
+flags: 1
+blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
 host: 193.40.250.235
 revision: 5
-ip: 89.235.235.166
-lastmajor: 5
-flags: 
+languages: 
+ts: 1485963200
+username: AlexDaniel
+summary: No link yet :(
+keep-ts: 1485963200
 minor: 
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
 	Materials: No link yet. Promised in a few weeks.
 	
-ts: 1485963200
-username: AlexDaniel
-summary: No link yet :(
-languages: 
-keep-ts: 1485963200
-blocks: 
+ip: 89.235.235.166
