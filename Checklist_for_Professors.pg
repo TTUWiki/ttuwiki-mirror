@@ -1,8 +1,9 @@
+ts: 1487547004
+revision: 8
+summary: More
+languages: 
+lastmajorsummary: More
 minor: 
-summary: Remove important remark :)
-lastmajor: 7
-username: AlexDaniel
-lastmajorsummary: Remove important remark :)
 text: Students face mistakes in the teaching process all the time, but most of them are easily avoidable.
 	
 	Here is a checklist that will help you improve the quality of your materials and your teaching skills generally.
@@ -21,8 +22,17 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You are always ready to accept feedback regarding the course arrangement, whether it is positive or not.
 	* You know the language you speak during the lesson reasonably well. If not, you try to cut down your speaking.
 	* You respect the language choice of a student. That is, if a student initiates the conversation in English, then you use English as well. When you initiate a conversation yourself, you use the official language of the course (the one listed in ÕIS).
-	* You provide an example of the exam and tests.
+	* You provide an example of the exam and tests or, at least, you show a detailed structure.
 	* If you show something from your laptop, make sure you have an **[[https://github.com/gorhill/uBlock/#installation ad blocker installed]]**. Students do not want to watch youtube preroll ads when you have to show a video.
+	* If students have to do some work on a computer, you make sure that they can do it on their own. For example, a student will find it difficult to use the provided computer if he/she:
+	## Does not use Microsoft Windows
+	## Does not use Estonian or English QWERTY keyboard layouts
+	## Does not use Estonian or English user interface language
+	## Is used to having his mouse configured for left-handed use
+	## Does not use IBM-style keyboard
+	## Has some kind of accessibility issue (e.g. is blind[https://www.youtube.com/watch?v=G1r55efei5c][https://www.youtube.com/watch?v=0EQOZRIA-nA])
+	## Is using other methods for input (e.g. foot switches)
+	* If your lectures are not changing from one year to another, you found a way to record them and provide these videos along with other materials.
 	
 	== Checklist for courses related to software development
 	* You post code examples as text files, not as **.pdf**.
@@ -31,8 +41,7 @@ text: Students face mistakes in the teaching process all the time, but most of t
 	* You make sure that the code you write runs on all major platforms (e.g. Microsoft Windows, at least one of the popular GNU/Linux distros, MacOS).
 	* If your exam or tests include coding, you do not require students to write code on paper.
 	
-revision: 7
-keep-ts: 1487515596
-ts: 1487515596
 host: 85.253.176.185
-languages: 
+lastmajor: 8
+username: AlexDaniel
+keep-ts: 1487547004
