@@ -1,4 +1,5 @@
-ip: 89.235.235.166
+ts: 1487758750
+flags: 1
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:105008 〔Õppeaine ÕIS-is〕]
 	
@@ -8,13 +9,14 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	== See also
 	* [[TMJ0110]]
 	
+ip: 89.235.235.166
 languages: 
-revision: 6
-host: 193.40.250.235
-ts: 1487758750
 summary: 
 lastmajorsummary: 
-keep-ts: 1487758750
-lastmajor: 6
-minor: 
+revision: 6
+blocks: [Course:105008 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
 username: AlexDaniel
+minor: 
+lastmajor: 6
+keep-ts: 1487758750
