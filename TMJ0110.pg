@@ -1,13 +1,13 @@
-languages: 
-username: 
-lastmajor: 4
-blocks: [Course:100478 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1466093102
-summary: 
+revision: 7
+ts: 1487758964
 ip: 89.235.235.166
+lastmajor: 7
+lastmajorsummary: Notice about outdated information
+host: 193.40.250.235
 text: #SUBTITLE Ettevõtluse alused
 	#SUBURL [Course:100478 〔Õppeaine ÕIS-is〕]
+	
+	**⚠ This page was written when the course was given by * Teder. It seems that they no longer give this course. If this is true, feel free to wipe this page and start over.**
 	
 	Полезность предмета сомнительна, большую часть времени г-жа Тедер будет высказывать своё лично мнение по поводу разных вопросов. 
 	
@@ -25,7 +25,8 @@ text: #SUBTITLE Ettevõtluse alused
 	==Экзамен
 	Тест из 20 вопросов. Вопросы по большей части очевидные, можно серьезно не готовиться, но при этом написать на 100% все-таки сложно. На итоговую оценку больше всего влияют работы в течение семестра.
 	
-minor: 1
-ts: 1466093102
-revision: 6
-host: 85.253.179.150
+username: AlexDaniel
+minor: 
+languages: 
+summary: Notice about outdated information
+keep-ts: 1487758964
