@@ -1,8 +1,7 @@
-host: 85.253.230.146
-ip: 89.235.235.166
-lastmajor: 21
+languages: 
+keep-ts: 1486097811
 revision: 21
-flags: 1
+lastmajor: 21
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -59,11 +58,12 @@ text: #SUBTITLE Andmebaasid I
 	-- Artur Gummel 2016-02-14 11:45:30
 	
 	
-minor: 
-ts: 1486097811
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+ip: 89.235.235.166
 summary: Link to example projec
-languages: 
+minor: 
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
+host: 85.253.230.146
 lastmajorsummary: Link to example projec
+ts: 1486097811
+flags: 1
 username: AlexDaniel
-keep-ts: 1486097811

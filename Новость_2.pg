@@ -1,5 +1,17 @@
+username: AlexDaniel
+flags: 01
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
+minor: 1
 lastmajor: 5
-blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
+ip: 66.249.93.234
+host: 89.235.245.14
+diff-minor: 
+revision: 6
+languages: 
+keep-ts: 1407693325
+blocks: &lt;Journal 10 "^Новость_\d+"&gt;
+summary: Touch
 text: Произошла небольшая катастрофа, поэтому в некоторых местах сайт может выглядеть как после взрыва.
 	Все последние данные сохранены, просто их восстановление займет некоторое время.
 	
@@ -19,16 +31,4 @@ text: Произошла небольшая катастрофа, поэтому
 	
 	-- AlexDaniel 2014-08-10 20:27:41
 	
-summary: Touch
-keep-ts: 1407693325
-username: AlexDaniel
-revision: 6
-languages: 
-ip: 66.249.93.234
-host: 89.235.245.14
-flags: 01
-minor: 1
-diff-minor: 
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
 ts: 1407693325
