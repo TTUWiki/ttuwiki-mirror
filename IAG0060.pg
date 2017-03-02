@@ -1,11 +1,10 @@
-minor: 
-blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
-summary: Link!
-revision: 6
-ts: 1486352464
-lastmajor: 6
-flags: 1
-lastmajorsummary: Link!
+ts: 1488470067
+ip: 89.235.235.166
+revision: 7
+username: AlexDaniel
+summary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
+lastmajorsummary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
+lastmajor: 7
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -13,8 +12,16 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	
 	Previous year: http://www.tud.ttu.ee/im/Ahto.Kalja/SoftPM16/
 	
+	----
+	
+	Books:
+	* Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick
+	* Managing Software Maniacs – Ken Whitaker
+	
+	-- AlexDaniel 2017-03-02 17:54:27
+	
+	
 languages: 
-keep-ts: 1486352464
-host: 85.253.230.146
-ip: 89.235.235.166
-username: AlexDaniel
+host: 193.40.251.10
+minor: 
+keep-ts: 1488470067
