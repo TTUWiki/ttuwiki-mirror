@@ -1,4 +1,10 @@
-lastmajorsummary: One done :)
+username: AlexDaniel
+summary: 
+host: 82.131.5.49
+revision: 45
+lastmajor: 44
+minor: 1
+ts: 1489455225
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -13,7 +19,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[HOE7250]] |International Intellectual Property Law |
 	| …? | …? |
 	
-	== 2017 Spring (**current**)
+	== 2017 Spring (//current//)
 	| [[TMJ1030]] |Entrepreneurship and Business Planning |
 	| [[IBX0030]] |Innovation and Creative Problem Solving |
 	| [[IAY0550]] |Systems-on-Chip Design |
@@ -45,13 +51,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-host: 85.253.176.185
-summary: One done :)
-keep-ts: 1487556424
-lastmajor: 44
-username: AlexDaniel
-ts: 1487556424
-minor: 
-ip: 89.235.239.240
+lastmajorsummary: One done :)
 languages: 
-revision: 44
+keep-ts: 1489455225
+ip: 89.235.239.240
