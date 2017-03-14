@@ -1,10 +1,7 @@
+minor: 
 ts: 1488470067
-ip: 89.235.235.166
-revision: 7
-username: AlexDaniel
-summary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
+host: 193.40.251.10
 lastmajorsummary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
-lastmajor: 7
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -21,7 +18,12 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	-- AlexDaniel 2017-03-02 17:54:27
 	
 	
-languages: 
-host: 193.40.251.10
-minor: 
+username: AlexDaniel
+blocks: 
 keep-ts: 1488470067
+summary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
+ip: 89.235.235.166
+flags: 
+languages: 
+lastmajor: 7
+revision: 7

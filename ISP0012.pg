@@ -1,18 +1,18 @@
-languages: 
-keep-ts: 1487532545
-username: AlexDaniel
-host: 85.253.176.185
-ts: 1487532545
-minor: 
-summary: Link to materials
-lastmajor: 6
-ip: 89.235.235.166
-flags: 1
-lastmajorsummary: Link to materials
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
-revision: 6
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
 	Materials: https://ttu.ee/institutes/proactivity-lab/education-4/prolab-courses/isp0012-materials/
 	
+host: 85.253.176.185
+ts: 1487532545
+languages: 
+keep-ts: 1487532545
+username: AlexDaniel
+ip: 89.235.235.166
+revision: 6
+summary: Link to materials
+lastmajorsummary: Link to materials
+minor: 
+lastmajor: 6
+blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
+flags: 1

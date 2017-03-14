@@ -1,13 +1,10 @@
-flags: 
+minor: 
 lastmajorsummary: 
 keep-ts: 1486039905
-revision: 9
+languages: 
 summary: 
-username: AlexDaniel
-ts: 1486039905
 ip: 89.235.235.166
-host: 193.40.250.235
-lastmajor: 9
+blocks: [Course:106459 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Mikroprotsessorsüsteemid
 	#SUBURL [Course:106459 〔Õppeaine ÕIS-is〕]
 	
@@ -15,6 +12,9 @@ text: #SUBTITLE Mikroprotsessorsüsteemid
 	* Studying system: http://isc.ttu.ee/
 	* Labs in U02-302
 	
-blocks: 
-minor: 
-languages: 
+username: AlexDaniel
+lastmajor: 9
+flags: 1
+ts: 1486039905
+revision: 9
+host: 193.40.250.235
