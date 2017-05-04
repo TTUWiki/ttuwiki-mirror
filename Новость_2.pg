@@ -1,8 +1,12 @@
-host: 89.235.245.14
-username: AlexDaniel
+summary: Touch
 lastmajor: 5
-flags: 01
+host: 89.235.245.14
+ip: 66.249.93.234
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
+username: AlexDaniel
 revision: 6
+ts: 1407693325
 text: Произошла небольшая катастрофа, поэтому в некоторых местах сайт может выглядеть как после взрыва.
 	Все последние данные сохранены, просто их восстановление займет некоторое время.
 	
@@ -22,13 +26,9 @@ text: Произошла небольшая катастрофа, поэтому
 	
 	-- AlexDaniel 2014-08-10 20:27:41
 	
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
-languages: 
-keep-ts: 1407693325
-blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
-ts: 1407693325
-minor: 1
-ip: 66.249.93.234
+blocks: 
 diff-minor: 
-summary: Touch
+languages: 
+minor: 1
+keep-ts: 1407693325
+flags: 
