@@ -1,9 +1,5 @@
-lastmajorsummary: 
-username: AlexDaniel
-keep-ts: 1487758750
-host: 193.40.250.235
-revision: 6
-blocks: [Course:105008 〔Õppeaine ÕIS-is〕]
+summary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
+revision: 7
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:105008 〔Õppeaine ÕIS-is〕]
 	
@@ -13,10 +9,21 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	== See also
 	* [[TMJ0110]]
 	
-summary: 
-ip: 89.235.235.166
-languages: 
-lastmajor: 6
-flags: 1
+	----
+	
+	Hints for the business plan:
+	* In chapters 1-3, you should study competitors and not defend your own idea
+	* When you define your goals, they should be specific (not “get some market share” but “1000 customers every month” or something like this
+	
+	-- AlexDaniel 2017-05-04 12:25:41
+	
+	
+keep-ts: 1493889941
+host: 193.40.250.235
 minor: 
-ts: 1487758750
+username: AlexDaniel
+languages: 
+lastmajor: 7
+lastmajorsummary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
+ip: 89.235.235.166
+ts: 1493889941
