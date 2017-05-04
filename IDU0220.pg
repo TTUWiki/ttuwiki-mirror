@@ -1,12 +1,3 @@
-minor: 
-ip: 89.235.235.166
-host: 85.253.230.146
-languages: 
-ts: 1486097811
-lastmajor: 21
-keep-ts: 1486097811
-blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
-summary: Link to example projec
 text: #SUBTITLE Andmebaasid I
 	#SUBURL [Course:100733 〔Õppeaine ÕIS-is〕]
 	
@@ -64,6 +55,15 @@ text: #SUBTITLE Andmebaasid I
 	
 	
 revision: 21
-flags: 1
+ts: 1486097811
 lastmajorsummary: Link to example projec
+keep-ts: 1486097811
+flags: 1
+minor: 
+host: 85.253.230.146
+languages: 
+ip: 89.235.235.166
+summary: Link to example projec
+lastmajor: 21
 username: AlexDaniel
+blocks: [Course:100733 〔Õppeaine ÕIS-is〕]
