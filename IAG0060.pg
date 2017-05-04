@@ -1,6 +1,3 @@
-minor: 
-languages: 
-flags: 1
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -17,13 +14,22 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	-- AlexDaniel 2017-03-02 17:54:27
 	
 	
+	----
+	
+	Company visit:
+	* Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
+	
+	-- AlexDaniel 2017-05-04 17:00:00
+	
+	
+lastmajor: 8
+languages: 
+keep-ts: 1493906400
 username: AlexDaniel
-lastmajorsummary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
-revision: 7
-ts: 1488470067
-lastmajor: 7
+ts: 1493906400
+revision: 8
+lastmajorsummary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
 ip: 89.235.235.166
-blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
+minor: 
 host: 193.40.251.10
-summary: Books: * Software project dynamics (an integrated approach) – Tarek Abdel-Hamid/Stuart E.Madnick * Managing Software Maniacs – Ken Whitaker
-keep-ts: 1488470067
+summary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
