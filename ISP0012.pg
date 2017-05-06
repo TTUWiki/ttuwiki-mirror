@@ -1,18 +1,27 @@
-ts: 1487532545
-host: 85.253.176.185
-lastmajor: 6
-ip: 89.235.235.166
-keep-ts: 1487532545
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajorsummary: Link to materials
-minor: 
-revision: 6
-flags: 1
-username: AlexDaniel
+summary: How to get the book: * Go [here] (course materials) * . . .
+revision: 7
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
 	Materials: https://ttu.ee/institutes/proactivity-lab/education-4/prolab-courses/isp0012-materials/
 	
-summary: Link to materials
+	----
+	
+	How to get the book:
+	* Go [[https://ttu.ee/institutes/proactivity-lab/education-4/prolab-courses/isp0012-materials/ here]] (course materials)
+	* You'll find [[https://ttu.ee/public/p/proaktiivtehnoloogiate_teaduslaboratoorium/oppeained/Motus_Rodd__e-book.docx this file]]
+	* It will say to use [[http://tuee.eblib.com/patron/FullRecord.aspx?p=3008773 this link]]
+	* Click “read online”. You will need your university login and password to read it.
+	
+	-- AlexDaniel 2017-05-06 15:57:18
+	
+	
+lastmajor: 7
+keep-ts: 1494075438
+lastmajorsummary: How to get the book: * Go [here] (course materials) * . . .
+languages: 
+ip: 89.235.235.166
+minor: 
+ts: 1494075438
+host: 193.40.250.235
+username: AlexDaniel
