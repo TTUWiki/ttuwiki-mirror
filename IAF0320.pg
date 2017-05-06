@@ -1,6 +1,7 @@
-flags: 
-host: 85.253.230.146
-username: AlexDaniel
+keep-ts: 1486826174
+lastmajorsummary: Link to older materials
+ts: 1486826174
+minor: 
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -70,13 +71,12 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-ip: 89.235.235.166
-blocks: 
-revision: 26
-minor: 
-ts: 1486826174
-lastmajorsummary: Link to older materials
-keep-ts: 1486826174
-lastmajor: 26
-summary: Link to older materials
 languages: 
+host: 85.253.230.146
+username: AlexDaniel
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
+lastmajor: 26
+flags: 1
+revision: 26
+ip: 89.235.235.166
+summary: Link to older materials

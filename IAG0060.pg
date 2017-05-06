@@ -1,3 +1,10 @@
+ts: 1493906400
+minor: 
+languages: 
+keep-ts: 1493906400
+lastmajorsummary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
+blocks: 
+revision: 8
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -22,14 +29,9 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	-- AlexDaniel 2017-05-04 17:00:00
 	
 	
-lastmajor: 8
-languages: 
-keep-ts: 1493906400
-username: AlexDaniel
-ts: 1493906400
-revision: 8
-lastmajorsummary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
 ip: 89.235.235.166
-minor: 
-host: 193.40.251.10
 summary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
+lastmajor: 8
+flags: 
+username: AlexDaniel
+host: 193.40.251.10
