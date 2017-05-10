@@ -1,5 +1,9 @@
-summary: How to get the book: * Go [here] (course materials) * . . .
+flags: 1
 revision: 7
+ts: 1494075438
+languages: 
+summary: How to get the book: * Go [here] (course materials) * . . .
+username: AlexDaniel
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
@@ -16,12 +20,10 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-06 15:57:18
 	
 	
-lastmajor: 7
-keep-ts: 1494075438
-lastmajorsummary: How to get the book: * Go [here] (course materials) * . . .
-languages: 
-ip: 89.235.235.166
-minor: 
-ts: 1494075438
 host: 193.40.250.235
-username: AlexDaniel
+blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
+minor: 
+lastmajor: 7
+ip: 89.235.235.166
+lastmajorsummary: How to get the book: * Go [here] (course materials) * . . .
+keep-ts: 1494075438

@@ -1,5 +1,3 @@
-languages: 
-lastmajor: 5
 text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	#SUBURL [Course:34432 〔Õppeaine ÕIS-is〕]
 	
@@ -22,14 +20,16 @@ text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	-- AlexDaniel 2017-02-22 12:25:34
 	
 	
-lastmajorsummary: Organization is similar to HLI0020.
-revision: 5
 minor: 
-keep-ts: 1487759134
+languages: 
 host: 193.40.250.235
-flags: 1
-ts: 1487759134
-blocks: [Course:34432 〔Õppeaine ÕIS-is〕]
+lastmajor: 5
+flags: 
+lastmajorsummary: Organization is similar to HLI0020.
 username: AlexDaniel
+keep-ts: 1487759134
 summary: Organization is similar to HLI0020.
+ts: 1487759134
+revision: 5
+blocks: 
 ip: 89.235.235.166

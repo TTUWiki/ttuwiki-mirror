@@ -1,5 +1,13 @@
-host: 193.40.250.235
-languages: 
+keep-ts: 1487758964
+summary: Notice about outdated information
+ts: 1487758964
+ip: 89.235.235.166
+revision: 7
+blocks: 
+username: AlexDaniel
+flags: 
+lastmajor: 7
+lastmajorsummary: Notice about outdated information
 text: #SUBTITLE Ettevõtluse alused
 	#SUBURL [Course:100478 〔Õppeaine ÕIS-is〕]
 	
@@ -21,14 +29,6 @@ text: #SUBTITLE Ettevõtluse alused
 	==Экзамен
 	Тест из 20 вопросов. Вопросы по большей части очевидные, можно серьезно не готовиться, но при этом написать на 100% все-таки сложно. На итоговую оценку больше всего влияют работы в течение семестра.
 	
-flags: 1
-summary: Notice about outdated information
-ip: 89.235.235.166
-lastmajor: 7
-blocks: [Course:100478 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: Notice about outdated information
-username: AlexDaniel
 minor: 
-revision: 7
-ts: 1487758964
-keep-ts: 1487758964
+languages: 
+host: 193.40.250.235

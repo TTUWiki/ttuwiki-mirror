@@ -1,3 +1,14 @@
+ip: 89.235.235.166
+revision: 8
+blocks: 
+keep-ts: 1493889962
+summary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
+ts: 1493889962
+username: AlexDaniel
+lastmajorsummary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
+lastmajor: 7
+flags: 
+minor: 1
 text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	#SUBURL [Course:105008 〔Õppeaine ÕIS-is〕]
 	
@@ -16,16 +27,5 @@ text: #SUBTITLE Ettevõtlus ja äri planeerimine
 	-- AlexDaniel 2017-05-04 12:25:41
 	
 	
-blocks: [Course:105008 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-flags: 1
-ts: 1493889962
-host: 193.40.250.235
-minor: 1
-lastmajor: 7
-username: AlexDaniel
-summary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
-lastmajorsummary: Hints for the business plan: * In chapters 1-3, you should study competitors and not defend your own idea * When you define your goals, they should . . .
-keep-ts: 1493889962
 languages: 
-revision: 8
+host: 193.40.250.235
