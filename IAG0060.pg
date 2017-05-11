@@ -1,5 +1,12 @@
-lastmajorsummary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
-revision: 8
+host: 82.131.6.202
+languages: 
+username: AlexDaniel
+lastmajorsummary: silly mistake
+minor: 
+ts: 1494503302
+revision: 9
+lastmajor: 9
+keep-ts: 1494503302
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -19,19 +26,10 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	----
 	
 	Company visit:
-	* Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
+	* Tammsaare tee 118D, 3rd floor (May 11th, 17:00)
 	
 	-- AlexDaniel 2017-05-04 17:00:00
 	
 	
-username: AlexDaniel
-minor: 
-ts: 1493906400
-languages: 
-summary: Company visit: * Taamsaare tee 118D, 3rd floor (May 11th, 17:00)
-blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
-flags: 1
 ip: 89.235.235.166
-host: 193.40.251.10
-keep-ts: 1493906400
-lastmajor: 8
+summary: silly mistake
