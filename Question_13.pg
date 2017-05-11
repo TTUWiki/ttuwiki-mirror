@@ -1,9 +1,8 @@
-flags: 
+blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
+	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
+	
 username: AlexDaniel
 revision: 1
-blocks: 
-minor: 1
-summary: Moved
 languages: 
 ts: 1469508413
 host: 85.253.224.176
@@ -25,3 +24,6 @@ text: Same thing here :(
 	-- AlexDaniel 2016-07-26 07:44:44
 	
 	
+summary: Moved
+flags: 0101
+minor: 1

@@ -1,3 +1,9 @@
+host: 193.40.250.235
+keep-ts: 1494428786
+summary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
+minor: 
+flags: 1
+revision: 8
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
@@ -25,14 +31,10 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
-lastmajorsummary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
-keep-ts: 1494428786
-languages: 
-revision: 8
-minor: 
-host: 193.40.250.235
-summary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
 lastmajor: 8
+languages: 
+blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
 ts: 1494428786
 username: AlexDaniel
+lastmajorsummary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
 ip: 89.235.235.166
