@@ -1,29 +1,36 @@
-ts: 1485988762
-revision: 31
-summary: coursemates
+revision: 32
+keep-ts: 1494923947
+languages: 
+host: 82.131.6.202
+username: Marjana Voronina
+lastmajorsummary: progress
+minor: 
+lastmajor: 32
+ts: 1494923947
+summary: progress
 text: ==My study plan
 	
 	===2017 spring
 	
 	|= Course |= EAP |
-	|[[ITX8530]] Tarkvaraarenduse meeskonnaprojekt: tellimus | 10 |
-	|[[IDK1332]] Kasutajamugavus ja kasutajakogemus | 5 |
-	|[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur | 5 |
-	|[[HLI2040]] Inglise keel | 3 |
-	|[[IDX5711]] Intelligentsed süsteemid | 5 |
-	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 |
-	| **Total** | **30** |
+	|[[ITX8530]] Tarkvaraarenduse meeskonnaprojekt: tellimus | 10 | ✓ |
+	|[[IDK1332]] Kasutajamugavus ja kasutajakogemus | 5 | ✓ |
+	|[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur | 5 | ✓ |
+	|[[HLI2040]] Inglise keel | 3 | ✓ |
+	|[[IDX5711]] Intelligentsed süsteemid | 5 |  |
+	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 |  |
+	| **Total** | **30** | |
 	
 	
 	===2016 fall
 	
 	|= Course |= EAP | 
-	|[[IDU1550]] Tarkvara arhitektuur ja disain | 6 |
-	|[[IDX1511]] Tarkvara protsessid ja kvaliteet | 6 |
-	|[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid | 6 |
-	|[[ITI8610]] Tarkvara töökindlus | 6 |
-	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 |
-	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 |
+	|[[IDU1550]] Tarkvara arhitektuur ja disain | 6 | ✓ |
+	|[[IDX1511]] Tarkvara protsessid ja kvaliteet | 6 | ✓ |
+	|[[ITI8600]] Teadmispõhise tarkvaraarenduse meetodid | 6 | ✓ |
+	|[[ITI8610]] Tarkvara töökindlus | 6 | ✓ |
+	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 | ✓ |
+	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 | ✓ |
 	| **Total** | **33** |
 	
 	===Coursemates
@@ -31,11 +38,5 @@ text: ==My study plan
 	*163582 – me
 	*163303 – Artur
 	*162967 – Olesja
+	*163596 – Stanislav
 	
-username: Marjana Voronina
-minor: 1
-lastmajor: 30
-keep-ts: 1485988762
-host: 85.253.230.146
-languages: 
-lastmajorsummary: new study plan
