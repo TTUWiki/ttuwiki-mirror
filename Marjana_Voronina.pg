@@ -1,13 +1,10 @@
-revision: 32
-keep-ts: 1494923947
-languages: 
-host: 82.131.6.202
-username: Marjana Voronina
-lastmajorsummary: progress
-minor: 
+minor: 1
 lastmajor: 32
-ts: 1494923947
-summary: progress
+host: 82.131.6.202
+summary: total
+ts: 1494923966
+keep-ts: 1494923966
+lastmajorsummary: progress
 text: ==My study plan
 	
 	===2017 spring
@@ -31,7 +28,7 @@ text: ==My study plan
 	|[[ITI8610]] Tarkvara töökindlus | 6 | ✓ |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 | ✓ |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 | ✓ |
-	| **Total** | **33** |
+	| **Total** | **33** | |
 	
 	===Coursemates
 	
@@ -40,3 +37,6 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
+languages: 
+revision: 33
+username: Marjana Voronina
