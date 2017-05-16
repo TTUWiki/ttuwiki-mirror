@@ -1,4 +1,9 @@
-lastmajorsummary: Notice about outdated information
+ts: 1487758964
+host: 193.40.250.235
+languages: 
+minor: 
+summary: Notice about outdated information
+revision: 7
 text: #SUBTITLE Ettevõtluse alused
 	#SUBURL [Course:100478 〔Õppeaine ÕIS-is〕]
 	
@@ -20,15 +25,10 @@ text: #SUBTITLE Ettevõtluse alused
 	==Экзамен
 	Тест из 20 вопросов. Вопросы по большей части очевидные, можно серьезно не готовиться, но при этом написать на 100% все-таки сложно. На итоговую оценку больше всего влияют работы в течение семестра.
 	
-revision: 7
-minor: 
+keep-ts: 1487758964
+lastmajor: 7
 blocks: 
-summary: Notice about outdated information
+lastmajorsummary: Notice about outdated information
+ip: 89.235.235.166
 flags: 
 username: AlexDaniel
-lastmajor: 7
-host: 193.40.250.235
-ip: 89.235.235.166
-keep-ts: 1487758964
-languages: 
-ts: 1487758964

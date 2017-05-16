@@ -1,11 +1,16 @@
-keep-ts: 1487759134
-lastmajorsummary: Organization is similar to HLI0020.
-blocks: [Course:34432 〔Õppeaine ÕIS-is〕]
 ip: 89.235.235.166
-summary: Organization is similar to HLI0020.
-revision: 5
 languages: 
-flags: 1
+flags: 
+minor: 
+username: AlexDaniel
+revision: 5
+summary: Organization is similar to HLI0020.
+lastmajorsummary: Organization is similar to HLI0020.
+host: 193.40.250.235
+blocks: 
+keep-ts: 1487759134
+lastmajor: 5
+ts: 1487759134
 text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	#SUBURL [Course:34432 〔Õppeaine ÕIS-is〕]
 	
@@ -28,8 +33,3 @@ text: #SUBTITLE Ettekannete ja sõnavõttude koostamine ja pidamine
 	-- AlexDaniel 2017-02-22 12:25:34
 	
 	
-minor: 
-lastmajor: 5
-ts: 1487759134
-username: AlexDaniel
-host: 193.40.250.235
