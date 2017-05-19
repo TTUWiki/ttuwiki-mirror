@@ -1,9 +1,11 @@
-lastmajorsummary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
 blocks: 
-host: 193.40.250.235
+revision: 8
+ip: 89.235.235.166
 keep-ts: 1494428786
-lastmajor: 8
+host: 193.40.250.235
+minor: 
 ts: 1494428786
+username: AlexDaniel
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
@@ -31,10 +33,8 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
-ip: 89.235.235.166
 flags: 
 languages: 
-username: AlexDaniel
-revision: 8
-minor: 
+lastmajor: 8
 summary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
+lastmajorsummary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
