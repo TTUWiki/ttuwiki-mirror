@@ -1,8 +1,10 @@
+host: 85.253.109.200
+keep-ts: 1495222058
+lastmajorsummary: who cares about my grades
+languages: 
 username: AlexDaniel
-ts: 1494600358
-keep-ts: 1494600358
-revision: 46
-ip: 89.235.239.240
+lastmajor: 46
+minor: 1
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -19,7 +21,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	== 2017 Spring (//current//)
 	| [[TMJ1030]] |Entrepreneurship and Business Planning (**✓**) |
-	| [[IBX0030]] |Innovation and Creative Problem Solving |
+	| [[IBX0030]] |Innovation and Creative Problem Solving (**✓**) |
 	| [[IAY0550]] |Systems-on-Chip Design |
 	| [[ISC0010]] |Microprocessor Systems (**✓**) |
 	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties |
@@ -49,9 +51,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-lastmajor: 46
-languages: 
-minor: 
-host: 82.131.6.202
-lastmajorsummary: who cares about my grades
-summary: who cares about my grades
+revision: 47
+summary: 
+ip: 89.235.239.240
+ts: 1495222058
