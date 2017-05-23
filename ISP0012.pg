@@ -1,14 +1,12 @@
-username: AlexDaniel
-keep-ts: 1494428786
-ip: 89.235.235.166
-minor: 
-summary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
-lastmajorsummary: During the presentations he said something like this: “That's the time you can be innovative and come up with something new and interesting” . . .
-ts: 1494428786
+ts: 1495573802
+lastmajor: 9
+host: 85.253.229.39
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
 	Materials: https://ttu.ee/institutes/proactivity-lab/education-4/prolab-courses/isp0012-materials/
+	
+	Exam questions (which is actually a homework) are published along with other course materials.
 	
 	----
 	
@@ -32,9 +30,11 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
-host: 193.40.250.235
-lastmajor: 8
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Mention exam
+minor: 
+keep-ts: 1495573802
 languages: 
-revision: 8
-flags: 1
+ip: 89.235.235.166
+revision: 9
+summary: Mention exam
+username: AlexDaniel
