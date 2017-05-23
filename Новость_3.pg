@@ -1,17 +1,3 @@
-diff-major: 1
-keep-ts: 1408508834
-flags: 
-revision: 4
-minor: 
-blocks: 
-summary: Дата
-host: 89.235.223.25
-ts: 1408508834
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; -</strong><br />&lt; -- AlexDaniel 2014-08-20 <strong class="changes">07</strong>:26:<strong class="changes">44</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; -- AlexDaniel 2014-08-<strong class="changes">10</strong> 20:26:<strong class="changes">05</strong></p></div>
-lastmajor: 4
-languages: 
 text: Как и обещал, исходники:
 	https://github.com/TTUWiki/ttuwiki-website
 	
@@ -21,4 +7,18 @@ text: Как и обещал, исходники:
 	-- AlexDaniel 2014-08-10 20:26:05
 	
 	
+lastmajor: 4
+languages: 
+host: 89.235.223.25
+blocks: 
+summary: Дата
 username: AlexDaniel
+keep-ts: 1408508834
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; -</strong><br />&lt; -- AlexDaniel 2014-08-20 <strong class="changes">07</strong>:26:<strong class="changes">44</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; -- AlexDaniel 2014-08-<strong class="changes">10</strong> 20:26:<strong class="changes">05</strong></p></div>
+minor: 
+revision: 4
+diff-major: 1
+flags: 
+ts: 1408508834
