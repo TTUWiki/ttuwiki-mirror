@@ -1,12 +1,8 @@
-minor: 1
-host: 82.131.51.207
 keep-ts: 1496102758
-username: AlexDaniel
-lastmajorsummary: note about wiki account
-lastmajor: 10
-ts: 1496102758
 ip: 89.235.235.166
-summary: maybe not
+minor: 1
+lastmajor: 10
+revision: 11
 text: #SUBTITLE Kiipsüsteemide disain
 	#SUBURL [Course:100826 〔Õppeaine ÕIS-is〕]
 	
@@ -17,5 +13,11 @@ text: #SUBTITLE Kiipsüsteemide disain
 	* http://ati.ttu.ee/socdesign/ (you have to create an account yourself)
 	* http://ati.ttu.ee/index.php?page=4110&aine=IAY0550
 	
-revision: 11
+blocks: [Course:100826 〔Õppeaine ÕIS-is〕]
+username: AlexDaniel
+ts: 1496102758
+flags: 1
+host: 82.131.51.207
+summary: maybe not
+lastmajorsummary: note about wiki account
 languages: 

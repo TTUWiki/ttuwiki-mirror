@@ -1,6 +1,10 @@
-ts: 1469508413
-languages: 
+minor: 1
+summary: Moved
 host: 85.253.224.176
+flags: 
+languages: 
+ts: 1469508413
+blocks: 
 revision: 1
 text: Same thing here :(
 	
@@ -20,10 +24,4 @@ text: Same thing here :(
 	-- AlexDaniel 2016-07-26 07:44:44
 	
 	
-flags: 0101
-blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
-	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
-	
-summary: Moved
 username: AlexDaniel
-minor: 1
