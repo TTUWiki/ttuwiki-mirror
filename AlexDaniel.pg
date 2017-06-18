@@ -1,9 +1,5 @@
-summary: 
-host: 37.157.107.65
-lastmajor: 46
-ts: 1497462432
-keep-ts: 1497462432
-languages: 
+username: AlexDaniel
+ip: 89.235.239.240
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -23,7 +19,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	| [[IBX0030]] |Innovation and Creative Problem Solving (**✓**) |
 	| [[IAY0550]] |Systems-on-Chip Design (**✓**) |
 	| [[ISC0010]] |Microprocessor Systems (**✓**) |
-	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties |
+	| [[ISP0012]] |Timing Analysis of Software Dynamic Properties (**✓**) |
 	| [[IAY0340]] |Digital Systems Modeling and Synthesis (**✓**) |
 	| [[IAG0060]] |Software Project Management (**✓**) |
 	
@@ -50,8 +46,12 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-username: AlexDaniel
-lastmajorsummary: who cares about my grades
 minor: 1
-ip: 89.235.239.240
-revision: 49
+revision: 50
+host: 37.157.97.242
+summary: 
+ts: 1497818556
+lastmajor: 46
+lastmajorsummary: who cares about my grades
+keep-ts: 1497818556
+languages: 
