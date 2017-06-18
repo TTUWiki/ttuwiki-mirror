@@ -1,13 +1,13 @@
+ts: 1495573802
+languages: 
+lastmajorsummary: Mention exam
+flags: 1
 blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
-minor: 
 lastmajor: 9
-summary: Mention exam
+keep-ts: 1495573802
 host: 85.253.229.39
 username: AlexDaniel
 revision: 9
-flags: 1
-languages: 
-lastmajorsummary: Mention exam
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
@@ -37,6 +37,6 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
+minor: 
+summary: Mention exam
 ip: 89.235.235.166
-keep-ts: 1495573802
-ts: 1495573802
