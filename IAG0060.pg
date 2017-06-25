@@ -1,9 +1,9 @@
-keep-ts: 1494503302
-username: AlexDaniel
-revision: 9
-summary: silly mistake
-minor: 
+ip: 89.235.235.166
 ts: 1494503302
+keep-ts: 1494503302
+revision: 9
+minor: 
+languages: 
 text: #SUBTITLE Tarkvara projektijuhtimine
 	#SUBURL [Course:30923 〔Õppeaine ÕIS-is〕]
 	
@@ -28,10 +28,10 @@ text: #SUBTITLE Tarkvara projektijuhtimine
 	-- AlexDaniel 2017-05-04 17:00:00
 	
 	
-languages: 
+flags: 1
+summary: silly mistake
 lastmajorsummary: silly mistake
 host: 82.131.6.202
-flags: 1
-lastmajor: 9
 blocks: [Course:30923 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 9
