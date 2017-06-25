@@ -1,10 +1,7 @@
-minor: 1
-lastmajor: 32
-host: 82.131.6.202
-summary: total
-ts: 1494923966
-keep-ts: 1494923966
-lastmajorsummary: progress
+languages: 
+summary: done
+ts: 1498388534
+revision: 34
 text: ==My study plan
 	
 	===2017 spring
@@ -14,8 +11,8 @@ text: ==My study plan
 	|[[IDK1332]] Kasutajamugavus ja kasutajakogemus | 5 | ✓ |
 	|[[IDU0080]] Veebiteenused ja Interneti-lahenduste arhitektuur | 5 | ✓ |
 	|[[HLI2040]] Inglise keel | 3 | ✓ |
-	|[[IDX5711]] Intelligentsed süsteemid | 5 |  |
-	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 |  |
+	|[[IDX5711]] Intelligentsed süsteemid | 5 |  ✓ |
+	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 | ✓ |
 	| **Total** | **30** | |
 	
 	
@@ -37,6 +34,9 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-languages: 
-revision: 33
+lastmajorsummary: done
+lastmajor: 34
+minor: 
+keep-ts: 1498388534
+host: 37.157.102.7
 username: Marjana Voronina
