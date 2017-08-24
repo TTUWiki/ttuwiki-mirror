@@ -1,5 +1,18 @@
+host: 37.157.107.173
+username: AlexDaniel
+keep-ts: 1503571699
+summary: 
+ip: 89.235.235.166
+ts: 1503571699
+minor: 1
+lastmajorsummary: Mention exam
+revision: 10
+languages: 
+lastmajor: 9
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
+	
+	(with Leo Mõtus)
 	
 	Materials: https://ttu.ee/institutes/proactivity-lab/education-4/prolab-courses/isp0012-materials/
 	
@@ -27,16 +40,3 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
-ip: 89.235.235.166
-lastmajor: 9
-languages: 
-username: AlexDaniel
-host: 85.253.229.39
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
-summary: Mention exam
-lastmajorsummary: Mention exam
-flags: 1
-minor: 
-revision: 9
-ts: 1495573802
-keep-ts: 1495573802
