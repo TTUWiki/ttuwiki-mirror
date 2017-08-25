@@ -1,8 +1,18 @@
-languages: 
-summary: done
-ts: 1498388534
-revision: 34
+revision: 35
+ts: 1503696374
+lastmajorsummary: new term
+keep-ts: 1503696374
+summary: new term
+username: Marjana Voronina
+minor: 
+host: 89.235.221.63
 text: ==My study plan
+	
+	===2017 fall
+	|= Course |= EAP |
+	|[[ITX8540]] Tarkvaraarenduse meeskonnaprojekt: startup | 10 | ✗ |
+	|[[ITX8301]]  Magistriseminar I | 3 | ✗ |
+	| **Total** | **13** | ☹ |
 	
 	===2017 spring
 	
@@ -13,7 +23,7 @@ text: ==My study plan
 	|[[HLI2040]] Inglise keel | 3 | ✓ |
 	|[[IDX5711]] Intelligentsed süsteemid | 5 |  ✓ |
 	|[[IDX5712]] Intelligentsed süsteemid - projekt | 2 | ✓ |
-	| **Total** | **30** | |
+	| **Total** | **30** | ☺ |
 	
 	
 	===2016 fall
@@ -25,7 +35,7 @@ text: ==My study plan
 	|[[ITI8610]] Tarkvara töökindlus | 6 | ✓ |
 	|[[TMJ3331]] Ettevõtlus ja äri planeerimine | 4 | ✓ |
 	|[[ITT0050]] Rekursiooni- ja keerukusteooria  | 5 | ✓ |
-	| **Total** | **33** | |
+	| **Total** | **33** | ☺ |
 	
 	===Coursemates
 	
@@ -34,9 +44,5 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-lastmajorsummary: done
-lastmajor: 34
-minor: 
-keep-ts: 1498388534
-host: 37.157.102.7
-username: Marjana Voronina
+lastmajor: 35
+languages: 
