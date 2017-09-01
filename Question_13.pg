@@ -1,6 +1,7 @@
-revision: 1
-minor: 1
 host: 85.253.224.176
+languages: 
+flags: 
+username: AlexDaniel
 text: Same thing here :(
 	
 	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
@@ -19,9 +20,8 @@ text: Same thing here :(
 	-- AlexDaniel 2016-07-26 07:44:44
 	
 	
-languages: 
-flags: 
-ts: 1469508413
+minor: 1
 summary: Moved
-username: AlexDaniel
+revision: 1
+ts: 1469508413
 blocks: 
