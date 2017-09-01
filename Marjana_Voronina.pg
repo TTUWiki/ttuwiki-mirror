@@ -1,18 +1,14 @@
-lastmajorsummary: Protsessitehnika
-minor: 
-keep-ts: 1504106125
-lastmajor: 36
-languages: 
-ts: 1504106125
-host: 89.235.220.138
+summary: study plan updated
+ts: 1504306776
 text: ==My study plan
 	
 	===2017 fall
 	|= Course |= EAP |
 	|[[ITX8540]] Tarkvaraarenduse meeskonnaprojekt: startup | 10 | ✗ |
 	|[[ITX8301]]  Magistriseminar I | 3 | ✗ |
-	|[[IDU0191]]  Protsessitehnika infosüsteemide arendamisel | 5 | ✗ |
-	| **Total** | **18** | ☹ |
+	|[[IAY0361]]  Automaattestimine ??? | 4 | ✗ |
+	|[[I901]]  Veebirakenduste turvalisus ??? | 6 | ✗ |
+	| **Total** | **???** | ??? |
 	
 	===2017 spring
 	
@@ -44,6 +40,11 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
+revision: 37
+host: 89.235.220.138
+minor: 
 username: Marjana Voronina
-summary: Protsessitehnika
-revision: 36
+keep-ts: 1504306776
+languages: 
+lastmajorsummary: study plan updated
+lastmajor: 37
