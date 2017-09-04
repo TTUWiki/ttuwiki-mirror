@@ -1,27 +1,17 @@
-keep-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-blocks: [Course:100904 〔Õppeaine ÕIS-is〕]</div></div>
-minor: 1
-languages: 
-lastmajor: 2
-host: 82.131.7.230
-flags: 10
-revision: 4
-username: AlexDaniel
+host: 193.40.250.235
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
+	Course slides and materials: http://ati.ttu.ee/index.php?page=4110&aine=IAF0610
 	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-ts: 1441924446
+minor: 
+languages: 
+keep-ts: 1504516245
+ip: 89.235.235.166
+ts: 1504516245
+summary: 
+lastmajor: 5
+username: AlexDaniel
+lastmajorsummary: 
+revision: 5
