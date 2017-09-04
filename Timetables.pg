@@ -1,7 +1,5 @@
-username: AlexDaniel
-languages: 
-keep-ts: 1487005648
-text: == **⚠ Links are currently outdated**
+summary: more prevalent notice 
+text: == **⚠⚠⚠ Links are currently outdated ⚠⚠⚠**
 	
 	
 	#ENG
@@ -33,10 +31,12 @@ text: == **⚠ Links are currently outdated**
 	
 	-- Аноним 2014-02-03 15:38 UTC
 	
-revision: 19
-minor: 1
-summary: notice saying that links are currently outdated
-lastmajor: 18
-ts: 1487005648
-lastmajorsummary: notice saying that links are currently outdated
-host: 85.253.230.146
+username: AlexDaniel
+host: 193.40.250.235
+ts: 1504515347
+lastmajorsummary: more prevalent notice 
+keep-ts: 1504515347
+minor: 
+revision: 20
+lastmajor: 20
+languages: 
