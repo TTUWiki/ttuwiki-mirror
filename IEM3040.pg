@@ -1,27 +1,16 @@
+languages: 
+lastmajor: 5
+minor: 
+host: 193.40.250.235
+revision: 5
+lastmajorsummary: 
+keep-ts: 1504703001
+username: AlexDaniel
+ip: 89.235.235.166
+ts: 1504703001
+summary: 
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	No link to slides 💩
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-ip: 89.235.235.166
-ts: 1441924447
-languages: 
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 10
-blocks: [Course:105001 〔Õppeaine ÕIS-is〕]</div></div>
-minor: 1
-username: AlexDaniel
-keep-ts: 1441924447
-revision: 4
-host: 82.131.7.230
