@@ -1,27 +1,16 @@
-flags: 10
-keep-ts: 1441924446
-revision: 4
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-ip: 89.235.235.166
-host: 82.131.7.230
-blocks: [Course:108397 〔Õppeaine ÕIS-is〕]</div></div>
+lastmajorsummary: Link materials
+host: 193.40.250.235
+summary: Link materials
+keep-ts: 1504689932
 text: #SUBTITLE Rahvusvaheline intellektuaalse omandi õigus
 	#SUBURL [Course:108397 〔Õppeaine ÕIS-is〕]
 	
-	#ENG
-	This page is empty, you can help out the next person by filling in what you know.
+	Materials: Moodle:4863 (no password 😊)
 	
-	#EST
-	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
-	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-lastmajor: 2
+minor: 
+ip: 89.235.235.166
+ts: 1504689932
+revision: 5
+lastmajor: 5
 username: AlexDaniel
 languages: 
-minor: 1
-ts: 1441924446
