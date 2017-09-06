@@ -1,16 +1,18 @@
-languages: 
-lastmajor: 5
-minor: 
-host: 193.40.250.235
-revision: 5
-lastmajorsummary: 
-keep-ts: 1504703001
+flags: 1
 username: AlexDaniel
+minor: 
+keep-ts: 1504703001
 ip: 89.235.235.166
-ts: 1504703001
-summary: 
+lastmajor: 5
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
 	No link to slides 💩
 	
+revision: 5
+summary: 
+languages: 
+ts: 1504703001
+blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
+lastmajorsummary: 
