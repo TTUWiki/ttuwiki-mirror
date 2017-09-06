@@ -1,17 +1,19 @@
-ip: 89.235.235.166
-host: 37.157.108.10
-lastmajorsummary: 
-ts: 1504530462
-revision: 6
+languages: 
 minor: 
+flags: 1
+host: 37.157.108.10
+username: AlexDaniel
+ip: 89.235.235.166
+lastmajor: 6
 keep-ts: 1504530462
+lastmajorsummary: 
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
 	
 	Course slides and materials: https://www.ttu.ee/institutes/department-of-computer-systems/study-11/courses-22/index.php?id=154956&course=IAF0610
 	
+blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
 summary: 
-languages: 
-lastmajor: 6
-username: AlexDaniel
+revision: 6
+ts: 1504530462
