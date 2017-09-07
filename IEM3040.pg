@@ -1,16 +1,18 @@
+username: AlexDaniel
+ts: 1504703015
+blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
+host: 193.40.250.235
+summary: 
+revision: 6
+languages: 
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
 	No link to slides 💩 (just because…)
 	
-summary: 
-lastmajor: 5
-languages: 
-username: AlexDaniel
-lastmajorsummary: 
-host: 193.40.250.235
-keep-ts: 1504703015
-ts: 1504703015
-revision: 6
-ip: 89.235.235.166
 minor: 1
+flags: 1
+ip: 89.235.235.166
+lastmajorsummary: 
+keep-ts: 1504703015
+lastmajor: 5
