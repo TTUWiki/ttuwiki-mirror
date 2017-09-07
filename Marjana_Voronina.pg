@@ -1,13 +1,18 @@
-summary: study plan updated
-ts: 1504306776
+revision: 38
+lastmajorsummary: study plan update
+lastmajor: 38
+minor: 
+host: 84.52.55.84
+ts: 1504765367
+summary: study plan update
 text: ==My study plan
 	
 	===2017 fall
 	|= Course |= EAP |
 	|[[ITX8540]] Tarkvaraarenduse meeskonnaprojekt: startup | 10 | ✗ |
 	|[[ITX8301]]  Magistriseminar I | 3 | ✗ |
-	|[[IAY0361]]  Automaattestimine ??? | 4 | ✗ |
-	|[[I901]]  Veebirakenduste turvalisus ??? | 6 | ✗ |
+	|[[IDN0100]]  Andmekaevandamine | 5 | ✗ |
+	|[[ITI1001]] Tarkvara testimine | 3 | ✗ |
 	| **Total** | **???** | ??? |
 	
 	===2017 spring
@@ -40,11 +45,6 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-revision: 37
-host: 89.235.220.138
-minor: 
-username: Marjana Voronina
-keep-ts: 1504306776
 languages: 
-lastmajorsummary: study plan updated
-lastmajor: 37
+username: Marjana Voronina
+keep-ts: 1504765367
