@@ -1,10 +1,6 @@
-revision: 38
-lastmajorsummary: study plan update
-lastmajor: 38
-minor: 
-host: 84.52.55.84
-ts: 1504765367
 summary: study plan update
+keep-ts: 1504765669
+host: 84.52.55.84
 text: ==My study plan
 	
 	===2017 fall
@@ -13,6 +9,7 @@ text: ==My study plan
 	|[[ITX8301]]  Magistriseminar I | 3 | ✗ |
 	|[[IDN0100]]  Andmekaevandamine | 5 | ✗ |
 	|[[ITI1001]] Tarkvara testimine | 3 | ✗ |
+	|Free choise studies| 6 | ✗ |
 	| **Total** | **???** | ??? |
 	
 	===2017 spring
@@ -45,6 +42,10 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
+revision: 39
+lastmajorsummary: study plan update
 languages: 
+lastmajor: 38
 username: Marjana Voronina
-keep-ts: 1504765367
+minor: 1
+ts: 1504765669
