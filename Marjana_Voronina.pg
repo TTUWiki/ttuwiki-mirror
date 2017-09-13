@@ -1,7 +1,4 @@
-revision: 40
-host: 84.52.37.19
-languages: 
-lastmajor: 40
+minor: 1
 text: ==My study plan
 	
 	===2017 fall
@@ -12,7 +9,7 @@ text: ==My study plan
 	|[[ITI1001]] Tarkvara testimine | 3 | ✗ |
 	|Free choise studies| 6 | ✗ |
 	|Internship| 5 | ✗ |
-	| **Total** | **???** | 32 |
+	| **Total** | **32** | ✗ |
 	
 	===2017 spring
 	
@@ -44,9 +41,12 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-minor: 
-lastmajorsummary: study plan update
-keep-ts: 1505344813
-username: Marjana Voronina
-ts: 1505344813
+keep-ts: 1505344927
+languages: 
+host: 84.52.37.19
 summary: study plan update
+ts: 1505344927
+revision: 41
+lastmajor: 40
+lastmajorsummary: study plan update
+username: Marjana Voronina
