@@ -1,16 +1,18 @@
-languages: 
-minor: 
 text: #SUBTITLE Uute tehnoloogiaettevõtete loomine ja rahastamine
 	#SUBURL [Course:106267 〔Õppeaine ÕIS-is〕]
 	
 	No slides yet ☹
 	
-username: AlexDaniel
-revision: 5
-lastmajorsummary: 
-ts: 1504905934
-lastmajor: 5
-summary: 
+blocks: 
 host: 84.52.42.52
-keep-ts: 1504905934
+username: AlexDaniel
+flags: 
+lastmajorsummary: 
+summary: 
+ts: 1504905934
+minor: 
+languages: 
+revision: 5
 ip: 89.235.235.166
+keep-ts: 1504905934
+lastmajor: 5
