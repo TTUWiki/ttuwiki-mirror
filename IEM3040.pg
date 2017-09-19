@@ -1,10 +1,4 @@
-ip: 89.235.235.166
-username: AlexDaniel
-ts: 1505313804
-lastmajorsummary: Possible exam questions: * Ideal vs real opamp
-keep-ts: 1505313804
-summary: Possible exam questions: * Ideal vs real opamp
-lastmajor: 7
+revision: 7
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -18,9 +12,15 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- AlexDaniel 2017-09-13 17:43:24
 	
 	
-revision: 7
-flags: 1
-blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
-minor: 
-host: 193.40.250.231
+ip: 89.235.235.166
+username: AlexDaniel
+lastmajor: 7
+keep-ts: 1505313804
+ts: 1505313804
+lastmajorsummary: Possible exam questions: * Ideal vs real opamp
 languages: 
+minor: 
+blocks: 
+summary: Possible exam questions: * Ideal vs real opamp
+flags: 
+host: 193.40.250.231
