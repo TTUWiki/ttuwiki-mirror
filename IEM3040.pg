@@ -1,4 +1,12 @@
+languages: 
+flags: 
+lastmajor: 7
+summary: Possible exam questions: * Ideal vs real opamp
+lastmajorsummary: Possible exam questions: * Ideal vs real opamp
+ts: 1505313804
+username: AlexDaniel
 revision: 7
+blocks: 
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -12,15 +20,7 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- AlexDaniel 2017-09-13 17:43:24
 	
 	
-ip: 89.235.235.166
-username: AlexDaniel
-lastmajor: 7
 keep-ts: 1505313804
-ts: 1505313804
-lastmajorsummary: Possible exam questions: * Ideal vs real opamp
-languages: 
 minor: 
-blocks: 
-summary: Possible exam questions: * Ideal vs real opamp
-flags: 
 host: 193.40.250.231
+ip: 89.235.235.166

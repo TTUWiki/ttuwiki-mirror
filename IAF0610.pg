@@ -1,15 +1,15 @@
-flags: 
-host: 37.157.108.10
-lastmajorsummary: 
-summary: 
-blocks: 
-languages: 
-minor: 
-username: AlexDaniel
-ip: 89.235.235.166
 lastmajor: 6
-keep-ts: 1504530462
+summary: 
 ts: 1504530462
+lastmajorsummary: 
+languages: 
+flags: 
+minor: 
+ip: 89.235.235.166
+host: 37.157.108.10
+keep-ts: 1504530462
+blocks: 
+username: AlexDaniel
 revision: 6
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
