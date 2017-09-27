@@ -1,18 +1,18 @@
-lastmajorsummary: Link materials
-minor: 
+languages: 
+blocks: [Course:108397 〔Õppeaine ÕIS-is〕]
+flags: 1
 summary: Link materials
 lastmajor: 5
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 5
-languages: 
 text: #SUBTITLE Rahvusvaheline intellektuaalse omandi õigus
 	#SUBURL [Course:108397 〔Õppeaine ÕIS-is〕]
 	
 	Materials: Moodle:4863 (no password 😊)
 	
-ts: 1504689932
-flags: 
-blocks: 
 keep-ts: 1504689932
+ip: 89.235.235.166
+ts: 1504689932
+minor: 
+lastmajorsummary: Link materials
+username: AlexDaniel
+revision: 5
 host: 193.40.250.235

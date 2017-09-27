@@ -1,12 +1,9 @@
-lastmajor: 8
-host: 37.157.100.138
-revision: 8
-lastmajorsummary: 
-summary: 
-keep-ts: 1506491490
-languages: 
-ts: 1506491490
 minor: 
+blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
+languages: 
+flags: 1
+host: 37.157.100.138
+lastmajorsummary: 
 ip: 89.235.235.166
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
@@ -23,4 +20,9 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- AlexDaniel 2017-09-13 17:43:24
 	
 	
+keep-ts: 1506491490
+ts: 1506491490
 username: 
+lastmajor: 8
+summary: 
+revision: 8
