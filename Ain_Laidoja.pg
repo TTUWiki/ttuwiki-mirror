@@ -1,15 +1,14 @@
-revision: 61
-host: 86.110.32.164
-keep-ts: 1477915398
-ts: 1477915398
+revision: 62
 summary: 
-username: Ain_Laidoja
-minor: 
 lastmajorsummary: 
-lastmajor: 61
-languages: 
+minor: 
+ts: 1506574157
+lastmajor: 62
+keep-ts: 1506574157
+username: 
+host: 185.158.178.230
 text: #Minu Õppekava [[MASM02-09]] 
-	#[http://www.ttu.ee/soojus Soojustehnika Instituudi kodulehekülg]
+	
 	
 	[[image/right:File:fisher_assay.png|Fisher assay or sometimes called Fisher retort]]
 	
@@ -28,3 +27,4 @@ text: #Minu Õppekava [[MASM02-09]]
 	[[https://ttuwiki.ee/AES0150 Elektriturg]]
 	
 	
+languages: 
