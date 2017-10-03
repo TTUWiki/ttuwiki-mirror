@@ -1,19 +1,18 @@
-username: AlexDaniel
-keep-ts: 1504530462
-flags: 1
-minor: 
-revision: 6
-ip: 89.235.235.166
+lastmajor: 7
+username: 
+revision: 7
+summary: 
+ts: 1507041656
+languages: 
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
 	
 	Course slides and materials: https://www.ttu.ee/institutes/department-of-computer-systems/study-11/courses-22/index.php?id=154956&course=IAF0610
+	Labs: http://www.pld.ttu.ee/home/skostin/Testimise%20Projekteerimine'S11/
 	
-lastmajor: 6
-host: 37.157.108.10
-languages: 
-ts: 1504530462
-blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
-summary: 
+minor: 
+host: 193.40.250.238
 lastmajorsummary: 
+ip: 89.235.235.166
+keep-ts: 1507041656
