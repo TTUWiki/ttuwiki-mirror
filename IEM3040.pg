@@ -1,4 +1,12 @@
-host: 193.40.250.235
+lastmajor: 10
+ts: 1507122802
+minor: 
+keep-ts: 1507122802
+lastmajorsummary: Exam: * Labs should be ok * Any materials but not help from peers * 2 theoretical questions * 8 excercises * + short questions
+username: 
+summary: Exam: * Labs should be ok * Any materials but not help from peers * 2 theoretical questions * 8 excercises * + short questions
+ip: 89.235.235.166
+host: 193.40.250.238
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -15,15 +23,17 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- AlexDaniel 2017-09-13 17:43:24
 	
 	
-ts: 1506519862
-ip: 89.235.235.166
-summary: 
+	----
+	
+	Exam:
+	* Labs should be ok
+	* Any materials but not help from peers
+	* 2 theoretical questions
+	* 8 excercises
+	* + short questions
+	
+	-- Anonymous 2017-10-04 16:13:22
+	
+	
+revision: 10
 languages: 
-username: 
-minor: 
-revision: 9
-lastmajorsummary: 
-lastmajor: 9
-blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
-flags: 1
-keep-ts: 1506519862
