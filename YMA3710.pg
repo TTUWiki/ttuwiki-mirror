@@ -1,11 +1,8 @@
-username: 
-revision: 18
-keep-ts: 1484905925
-lastmajorsummary: 
+languages: 
 text: #SUBTITLE Lineaaralgebra
 	#SUBURL [Course:28187 〔Õppeaine ÕIS-is〕]
 	
-	Вся информация на этой странице относится к Svetlana Babitšenko. Есть вероятность, что г-жа Бабиченко преподавать больше не будет, **поэтому информация на этой странице может быть неактуальна.**
+	Вся информация на этой странице относится к Svetlana Babitšenko.
 	
 	== Информация
 	http://web.zone.ee/sb/
@@ -47,12 +44,13 @@ text: #SUBTITLE Lineaaralgebra
 	
 	-- Artur Gummel 2016-01-30 16:17:39
 	
-lastmajor: 15
-summary: 
-blocks: [Course:28187 〔Õppeaine ÕIS-is〕]
-flags: 1
-ts: 1484905925
-languages: 
+host: 84.52.43.140
+ts: 1507168492
 ip: 89.235.235.166
-minor: 1
-host: 89.235.192.24
+keep-ts: 1507168492
+username: 
+lastmajor: 19
+revision: 19
+lastmajorsummary: Всё еще преподает
+summary: Всё еще преподает
+minor: 
