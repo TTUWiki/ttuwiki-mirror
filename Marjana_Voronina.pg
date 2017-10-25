@@ -1,11 +1,5 @@
-host: 84.52.5.28
-ts: 1508111705
-summary: Data Mining - done ✓
-username: Marjana Voronina
-revision: 42
-keep-ts: 1508111705
-lastmajor: 42
-lastmajorsummary: Data Mining - done ✓
+lastmajor: 43
+minor: 
 text: ==My study plan
 	
 	===2017 fall
@@ -14,7 +8,7 @@ text: ==My study plan
 	|[[ITX8301]]  Magistriseminar I | 3 | ✗ |
 	|[[IDN0100]]  Andmekaevandamine | 5 | ✓ |
 	|[[ITI1001]] Tarkvara testimine | 3 | ✗ |
-	|Free choise studies| 6 | ✗ |
+	|Free choise studies| 6 | ✓ |
 	|Internship| 5 | ✗ |
 	| **Total** | **32** | ✗ |
 	
@@ -48,5 +42,11 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-minor: 
+username: Marjana Voronina
+revision: 43
+keep-ts: 1508918396
+ts: 1508918396
+lastmajorsummary: update
+host: 89.235.226.66
+summary: update
 languages: 
