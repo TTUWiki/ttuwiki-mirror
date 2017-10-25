@@ -1,5 +1,6 @@
+ip: 89.235.239.240
+flags: 01
 keep-ts: 1402681668
-ts: 1402681668
 text: На сайте значительные изменения!
 	
 	* Доработан дизайн, теперь страницы должны гораздо лучше отображаться на широких мониторах.
@@ -13,17 +14,16 @@ text: На сайте значительные изменения!
 	
 	-- AlexDaniel 2014-03-18 02:49:59
 	
-languages: 
-diff-major: 
-username: 
+minor: 1
+lastmajor: 1
+blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; * **Новости** <strong class="changes">И</strong> **Вопросы**, отображающиеся на главной страницце</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; * **Новости** <strong class="changes">и</strong> **Вопросы**, отображающиеся на главной страницце</p></div>
-lastmajor: 1
-host: 89-235-239-240.saturn.infonet.ee
-revision: 2
-ip: 89.235.239.240
-flags: 
+ts: 1402681668
+diff-major: 
+username: 
 summary: 
-blocks: 
-minor: 1
+revision: 2
+host: 89-235-239-240.saturn.infonet.ee
+languages: 

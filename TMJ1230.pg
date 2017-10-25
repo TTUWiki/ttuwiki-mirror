@@ -1,16 +1,18 @@
-languages: 
 minor: 
-keep-ts: 1508200369
-ts: 1508200369
+summary: moodle link
 host: 84.52.45.62
-lastmajorsummary: moodle link
-ip: 89.235.235.166
+ts: 1508200369
+revision: 6
+flags: 1
+blocks: [Course:106267 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Uute tehnoloogiaettevõtete loomine ja rahastamine
 	#SUBURL [Course:106267 〔Õppeaine ÕIS-is〕]
 	
 	Moodle:14511 (no password 😊)
 	
-lastmajor: 6
-summary: moodle link
-revision: 6
+languages: 
+ip: 89.235.235.166
+lastmajorsummary: moodle link
 username: AlexDaniel
+lastmajor: 6
+keep-ts: 1508200369

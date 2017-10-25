@@ -1,6 +1,3 @@
-flags: 
-host: 85.253.224.176
-ts: 1469508473
 text: Am I the only one who finds it weird? :)
 	
 	[[File:Screenshot_from_2016-07-25_04-09-01.png]]
@@ -22,8 +19,13 @@ text: Am I the only one who finds it weird? :)
 	
 	
 summary: Moved
-blocks: 
-languages: 
-minor: 1
-revision: 1
+host: 85.253.224.176
 username: AlexDaniel
+minor: 1
+flags: 0101
+blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
+	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
+	
+revision: 1
+languages: 
+ts: 1469508473
