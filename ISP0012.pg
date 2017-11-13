@@ -1,8 +1,5 @@
-summary: 
-flags: 1
-username: AlexDaniel
-minor: 1
-lastmajor: 9
+keep-ts: 1503571699
+ip: 89.235.235.166
 text: #SUBTITLE Tarkvara dünaamika
 	#SUBURL [Course:31250 〔Õppeaine ÕIS-is〕]
 	
@@ -34,11 +31,14 @@ text: #SUBTITLE Tarkvara dünaamika
 	-- AlexDaniel 2017-05-10 18:06:26
 	
 	
-revision: 10
-host: 37.157.107.173
-ip: 89.235.235.166
-keep-ts: 1503571699
-blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
-languages: 
-lastmajorsummary: Mention exam
 ts: 1503571699
+blocks: [Course:31250 〔Õppeaine ÕIS-is〕]
+lastmajorsummary: Mention exam
+summary: 
+minor: 1
+flags: 1
+username: AlexDaniel
+lastmajor: 9
+host: 37.157.107.173
+revision: 10
+languages: 
