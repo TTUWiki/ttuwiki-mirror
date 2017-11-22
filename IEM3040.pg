@@ -1,12 +1,4 @@
-username: 
-minor: 
-summary: Exam: * Labs should be ok * Any materials but not help from peers * 2 theoretical questions * 8 excercises * + short questions
-ip: 89.235.235.166
-lastmajorsummary: Exam: * Labs should be ok * Any materials but not help from peers * 2 theoretical questions * 8 excercises * + short questions
-languages: 
-blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
-revision: 11
-lastmajor: 11
+host: 193.40.250.236
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -35,7 +27,20 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- Anonymous 2017-10-04 16:13:22
 	
 	
-host: 193.40.250.238
-flags: 1
-ts: 1507122820
-keep-ts: 1507122820
+	----
+	
+	http://www.tud.ttu.ee/im/Eero.Haldre/
+	
+	-- AlexDaniel 2017-11-22 09:13:36
+	
+	
+ts: 1511334816
+lastmajor: 12
+summary: http://www.tud.ttu.ee/im/Eero.Haldre/
+minor: 
+languages: 
+revision: 12
+lastmajorsummary: http://www.tud.ttu.ee/im/Eero.Haldre/
+keep-ts: 1511334816
+ip: 89.235.235.166
+username: AlexDaniel
