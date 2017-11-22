@@ -1,12 +1,3 @@
-keep-ts: 1507041656
-summary: 
-blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
-minor: 
-languages: 
-ts: 1507041656
-lastmajor: 7
-lastmajorsummary: 
-host: 193.40.250.238
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
@@ -14,7 +5,16 @@ text: #SUBTITLE Testimise projekteerimine
 	Course slides and materials: https://www.ttu.ee/institutes/department-of-computer-systems/study-11/courses-22/index.php?id=154956&course=IAF0610
 	Labs: http://www.pld.ttu.ee/home/skostin/Testimise%20Projekteerimine'S11/
 	
-flags: 1
+minor: 
+keep-ts: 1507041656
+ts: 1507041656
 username: 
 revision: 7
 ip: 89.235.235.166
+host: 193.40.250.238
+blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
+flags: 1
+lastmajorsummary: 
+summary: 
+lastmajor: 7
+languages: 
