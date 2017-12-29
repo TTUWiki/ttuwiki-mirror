@@ -1,7 +1,14 @@
-lastmajor: 54
-lastmajorsummary: 
-revision: 54
+lastmajor: 55
+ip: 89.235.239.240
+languages: 
 minor: 
+summary: 
+username: AlexDaniel
+revision: 55
+lastmajorsummary: 
+host: 89.235.229.51
+ts: 1514516166
+keep-ts: 1514516166
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -11,8 +18,8 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== 2017 Autumn ⏳
 	| [[TMJ1230]] |Technology Enterprise Creation and Financing ✓? |
 	| [[IEM3040]] |Data Acquisition Means and Methods |
-	| [[IAF0610]] |Design for Test ✓ |
-	| [[IAF0620]] |Verification of Digital Systems |
+	| [[IAF0610]] |Design for Test |
+	| [[IAF0620]] |Verification of Digital Systems ✓ |
 	| [[HOE7250]] |International Intellectual Property Law |
 	
 	== 2017 Spring ✓
@@ -47,10 +54,3 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-ts: 1514516132
-ip: 89.235.239.240
-keep-ts: 1514516132
-summary: 
-username: AlexDaniel
-host: 89.235.229.51
-languages: 
