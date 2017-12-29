@@ -1,4 +1,10 @@
-host: 193.40.250.236
+lastmajorsummary: http://www.tud.ttu.ee/im/Eero.Haldre/
+lastmajor: 12
+keep-ts: 1511334816
+flags: 1
+languages: 
+revision: 12
+username: AlexDaniel
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -35,12 +41,8 @@ text: #SUBTITLE Andmehõivesüsteemid
 	
 	
 ts: 1511334816
-lastmajor: 12
-summary: http://www.tud.ttu.ee/im/Eero.Haldre/
+blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
 minor: 
-languages: 
-revision: 12
-lastmajorsummary: http://www.tud.ttu.ee/im/Eero.Haldre/
-keep-ts: 1511334816
+summary: http://www.tud.ttu.ee/im/Eero.Haldre/
+host: 193.40.250.236
 ip: 89.235.235.166
-username: AlexDaniel
