@@ -1,20 +1,19 @@
-minor: 
-ip: 89.235.235.166
-summary: 
+minor: 1
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
 	
 	Course slides and materials: https://www.ttu.ee/institutes/department-of-computer-systems/study-11/courses-22/index.php?id=154956&course=IAF0610
 	Labs: http://www.pld.ttu.ee/home/skostin/Testimise%20Projekteerimine'S11/
+	More: http://www.tud.ttu.ee/im/Elmet.Orasson/
 	
-keep-ts: 1507041656
-username: 
-host: 193.40.250.238
-revision: 7
-lastmajor: 7
-blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
-flags: 1
-languages: 
-ts: 1507041656
+keep-ts: 1515133301
 lastmajorsummary: 
+ip: 89.235.235.166
+lastmajor: 7
+summary: 
+languages: 
+host: 84.52.49.237
+revision: 8
+username: AlexDaniel
+ts: 1515133301
