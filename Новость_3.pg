@@ -1,6 +1,15 @@
-summary: Дата
-ts: 1408508834
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; -</strong><br />&lt; -- AlexDaniel 2014-08-20 <strong class="changes">07</strong>:26:<strong class="changes">44</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; -- AlexDaniel 2014-08-<strong class="changes">10</strong> 20:26:<strong class="changes">05</strong></p></div>
 revision: 4
+keep-ts: 1408508834
+summary: Дата
+lastmajor: 4
+languages: 
+ts: 1408508834
+username: AlexDaniel
+host: 89.235.223.25
+minor: 
 text: Как и обещал, исходники:
 	https://github.com/TTUWiki/ttuwiki-website
 	
@@ -10,15 +19,6 @@ text: Как и обещал, исходники:
 	-- AlexDaniel 2014-08-10 20:26:05
 	
 	
-diff-minor: <p><strong>Changed:</strong></p>
-	<div class="old"><p>&lt; <strong class="changes">----<br />&lt; -</strong><br />&lt; -- AlexDaniel 2014-08-20 <strong class="changes">07</strong>:26:<strong class="changes">44</strong></p></div><p><strong>to</strong></p>
-	<div class="new"><p>&gt; -- AlexDaniel 2014-08-<strong class="changes">10</strong> 20:26:<strong class="changes">05</strong></p></div>
-languages: 
-keep-ts: 1408508834
-minor: 
-flags: 01
-username: AlexDaniel
-host: 89.235.223.25
-lastmajor: 4
+flags: 
 diff-major: 1
-blocks: <p>DeletedPage</p>&lt;Journal 10 "^Новость_\d+"&gt;
+blocks: 
