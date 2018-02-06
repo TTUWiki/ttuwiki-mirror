@@ -1,11 +1,5 @@
+blocks: [Course:31666 〔Õppeaine ÕIS-is〕]
 lastmajorsummary: sacsad
-languages: 
-username: 
-host: 194.150.65.61
-ts: 1517849423
-minor: 
-revision: 5
-lastmajor: 5
 text: #SUBTITLE Uurimistöö I (Alusõppe uurimistöö)
 	#SUBURL [Course:31666 〔Õppeaine ÕIS-is〕]
 	
@@ -28,6 +22,14 @@ text: #SUBTITLE Uurimistöö I (Alusõppe uurimistöö)
 	-- Anonymous 2018-02-05 18:50:22
 	
 	
-keep-ts: 1517849423
+minor: 
+ts: 1517849423
 summary: sacsad
 ip: 89.235.235.166
+revision: 5
+lastmajor: 5
+host: 194.150.65.61
+flags: 1
+username: 
+languages: 
+keep-ts: 1517849423

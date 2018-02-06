@@ -1,19 +1,11 @@
-blocks: #ENG
-	<p>You can <strong>[[Ask|ask your own question]]</strong>.<br /></p>#EST
-	<p>Siin võite <strong>[[Ask|oma küsimuse esitada]]</strong>.<br /></p>#RUS
-	<p>Вы можете <strong>[[Ask|задать свой вопрос]]</strong>.<br /></p>#LANG_END
-	
-	<p><br /></p>&lt;Journal 10 "^Вопрос_\d+"&gt;
-flags: 0101010101010101
-ts: 1440974346
+lastmajor: 1
 diff-major: 
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Движок <strong class="changes">OddMuse,</strong> который, например, используется на http://www.emacswiki.org/</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Движок <strong class="changes">[[https://oddmuse.org/ Oddmuse]],</strong> который, например, используется на http://www.emacswiki.org/</p></div>
-username: AlexDaniel
-host: 82.131.0.18
-minor: 1
-lastmajor: 1
+flags: 
+summary: ссылка на oddmus
+languages: 
 text: Это ВикиДвижок или это самосборка сайта такая?
 	
 	-- Misha 2014-02-25 15:08 UTC
@@ -27,7 +19,10 @@ text: Это ВикиДвижок или это самосборка сайта 
 	-- AlexDaniel 2014-02-25 16:06 UTC
 	
 	
-languages: 
+username: AlexDaniel
+ts: 1440974346
+host: 82.131.0.18
+blocks: 
+minor: 1
 revision: 2
 keep-ts: 1440974346
-summary: ссылка на oddmus
