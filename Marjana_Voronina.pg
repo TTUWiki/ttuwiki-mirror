@@ -1,14 +1,11 @@
-summary: update
-languages: 
-keep-ts: 1518519131
-minor: 1
-lastmajorsummary: update
-lastmajor: 45
-ts: 1518519131
-host: 89.235.241.113
 username: Marjana Voronina
-revision: 46
 text: ==My study plan
+	
+	=== TODO
+	|= Course |= EAP |
+	|[[ITX8302]]  Magistriseminar II | 3 | ☒ |
+	| Lõputöö | 30 | ☒ |
+	
 	
 	===2017 fall
 	|= Course |= EAP |
@@ -50,3 +47,12 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
+summary: update
+keep-ts: 1518519452
+languages: 
+minor: 
+host: 89.235.241.113
+revision: 47
+ts: 1518519452
+lastmajor: 47
+lastmajorsummary: update
