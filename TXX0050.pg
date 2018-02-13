@@ -1,15 +1,3 @@
-lastmajor: 6
-languages: 
-lastmajorsummary: Rollback to 2015-09-11 01:34:12
-keep-ts: 1517880432
-blocks: </div></div>
-minor: 
-flags: 0
-ts: 1517880432
-summary: Rollback to 2015-09-11 01:34:12
-revision: 6
-ip: 89.235.235.166
-username: AlexDaniel
 text: #SUBTITLE Uurimistöö I (Alusõppe uurimistöö)
 	#SUBURL [Course:31666 〔Õppeaine ÕIS-is〕]
 	
@@ -25,4 +13,16 @@ text: #SUBTITLE Uurimistöö I (Alusõppe uurimistöö)
 	#LANG_END
 	
 	
+ts: 1517880432
+keep-ts: 1517880432
+summary: Rollback to 2015-09-11 01:34:12
+ip: 89.235.235.166
 host: 84.52.55.139
+username: AlexDaniel
+languages: 
+lastmajorsummary: Rollback to 2015-09-11 01:34:12
+revision: 6
+lastmajor: 6
+blocks: [Course:31666 〔Õppeaine ÕIS-is〕]</div></div>
+flags: 10
+minor: 

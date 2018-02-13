@@ -1,13 +1,7 @@
-host: 89.235.245.152
-lastmajorsummary: update
-username: Marjana Voronina
 keep-ts: 1517317930
+lastmajorsummary: update
 lastmajor: 45
-minor: 
-summary: update
-ts: 1517317930
 languages: 
-revision: 45
 text: ==My study plan
 	
 	===2017 fall
@@ -50,3 +44,11 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
+host: 89.235.245.152
+flags: 
+ts: 1517317930
+summary: update
+username: Marjana Voronina
+blocks: 
+minor: 
+revision: 45
