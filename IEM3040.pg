@@ -1,7 +1,10 @@
-blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
-revision: 12
+lastmajor: 12
+ip: 89.235.235.166
+username: AlexDaniel
+host: 193.40.250.236
+summary: http://www.tud.ttu.ee/im/Eero.Haldre/
 ts: 1511334816
-flags: 1
+lastmajorsummary: http://www.tud.ttu.ee/im/Eero.Haldre/
 text: #SUBTITLE Andmehõivesüsteemid
 	#SUBURL [Course:105001 〔Õppeaine ÕIS-is〕]
 	
@@ -37,12 +40,9 @@ text: #SUBTITLE Andmehõivesüsteemid
 	-- AlexDaniel 2017-11-22 09:13:36
 	
 	
-languages: 
-lastmajorsummary: http://www.tud.ttu.ee/im/Eero.Haldre/
-ip: 89.235.235.166
-summary: http://www.tud.ttu.ee/im/Eero.Haldre/
-username: AlexDaniel
-host: 193.40.250.236
-keep-ts: 1511334816
 minor: 
-lastmajor: 12
+languages: 
+revision: 12
+keep-ts: 1511334816
+flags: 1
+blocks: [Course:105001 〔Õppeaine ÕIS-is〕]
