@@ -1,15 +1,7 @@
-keep-ts: 1516454879
-username: AlexDaniel
-ts: 1516454879
-host: 89.235.227.166
-summary: 
-languages: 
-revision: 57
 ip: 89.235.239.240
-blocks: 
-lastmajor: 57
-minor: 
-flags: 
+host: 89.235.245.13
+minor: 1
+ts: 1519107705
 lastmajorsummary: 
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
@@ -17,7 +9,7 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	== Study plan
 	
-	== 2017 Autumn ⏳
+	== 2017 Autumn ✓
 	| [[TMJ1230]] |Technology Enterprise Creation and Financing ✓ |
 	| [[IEM3040]] |Data Acquisition Means and Methods ✓ |
 	| [[IAF0610]] |Design for Testability ✓ |
@@ -56,3 +48,9 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
+revision: 58
+languages: 
+keep-ts: 1519107705
+summary: 
+lastmajor: 57
+username: AlexDaniel
