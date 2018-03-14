@@ -1,8 +1,16 @@
+summary: 
 ip: 89.235.239.240
 host: 89.235.245.13
+lastmajor: 57
 minor: 1
+keep-ts: 1519107705
+languages: 
+blocks: 
 ts: 1519107705
+flags: 
 lastmajorsummary: 
+username: AlexDaniel
+revision: 58
 text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	
 	Email: [[mailto:alex.jakimenko+ttuwiki@gmail.com alex.jakimenko+ttuwiki@gmail.com]]
@@ -48,9 +56,3 @@ text: Studying Computer Systems Engineering ([[IASM02-15]]).
 	== My Notes:
 	* https://www.youtube.com/watch?v=yJDv-zdhzMY
 	
-revision: 58
-languages: 
-keep-ts: 1519107705
-summary: 
-lastmajor: 57
-username: AlexDaniel

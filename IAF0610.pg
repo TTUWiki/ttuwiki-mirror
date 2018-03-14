@@ -1,6 +1,10 @@
+minor: 1
+blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
+languages: 
 summary: 
-flags: 1
 keep-ts: 1515133301
+host: 84.52.49.237
+ip: 89.235.235.166
 text: #SUBTITLE Testimise projekteerimine
 	#SUBURL [Course:100904 〔Õppeaine ÕIS-is〕]
 	
@@ -9,13 +13,9 @@ text: #SUBTITLE Testimise projekteerimine
 	Labs: http://www.pld.ttu.ee/home/skostin/Testimise%20Projekteerimine'S11/
 	More: http://www.tud.ttu.ee/im/Elmet.Orasson/
 	
-ts: 1515133301
-blocks: [Course:100904 〔Õppeaine ÕIS-is〕]
-username: AlexDaniel
-host: 84.52.49.237
-minor: 1
-lastmajorsummary: 
-languages: 
-ip: 89.235.235.166
 lastmajor: 7
+ts: 1515133301
 revision: 8
+flags: 1
+username: AlexDaniel
+lastmajorsummary: 
