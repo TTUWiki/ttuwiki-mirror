@@ -1,13 +1,6 @@
-username: AlexDaniel
-host: 85.253.230.146
-ip: 89.235.235.166
-flags: 1
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-lastmajorsummary: Link to older materials
-keep-ts: 1486826174
-summary: Link to older materials
+lastmajor: 27
+revision: 27
 minor: 
-ts: 1486826174
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -64,7 +57,7 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	* [[IAF0530]] – another course designed by Gert Jervan.
 	----
 	
-	Funny thing: INCOSE is unable to [[http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg make readable graphs]]. Takes a few moments to figure out what is on X axis :)
+	Funny thing: INCOSE is unable to [[https://web.archive.org/web/20170609070216im_/http://www.incose.org/images/default-source/image_about/membership-evolution-since-1991.jpg?sfvrsn=8 make readable graphs]]. Takes a few moments to figure out what is on X axis :)
 	
 	-- AlexDaniel 2016-10-24 22:45:55
 	
@@ -77,6 +70,11 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-revision: 26
-lastmajor: 26
+ts: 1523636910
+host: 89.235.238.87
+keep-ts: 1523636910
+username: AlexDaniel
+ip: 89.235.235.166
+summary: link to wayback machine (original image was changed)
 languages: 
+lastmajorsummary: link to wayback machine (original image was changed)
