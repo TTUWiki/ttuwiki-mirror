@@ -1,6 +1,10 @@
-summary: update
-host: 89.235.241.113
+ts: 1518519452
+blocks: 
+flags: 
 languages: 
+summary: update
+lastmajor: 47
+lastmajorsummary: update
 text: ==My study plan
 	
 	=== TODO
@@ -49,12 +53,8 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-flags: 
-blocks: 
-lastmajorsummary: update
-ts: 1518519452
-username: Marjana Voronina
 revision: 47
 minor: 
+username: Marjana Voronina
+host: 89.235.241.113
 keep-ts: 1518519452
-lastmajor: 47

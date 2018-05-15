@@ -1,4 +1,3 @@
-minor: 1
 text: Same thing here :(
 	
 	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
@@ -17,11 +16,12 @@ text: Same thing here :(
 	-- AlexDaniel 2016-07-26 07:44:44
 	
 	
-blocks: 
 host: 85.253.224.176
 summary: Moved
-username: AlexDaniel
-ts: 1469508413
-flags: 
-revision: 1
 languages: 
+blocks: 
+revision: 1
+ts: 1469508413
+minor: 1
+flags: 
+username: AlexDaniel
