@@ -1,3 +1,13 @@
+summary: Go to this site http://unitedgamersonline.com/ and test new online games!
+host: 95.211.185.11
+blocks: [Course:108378 〔Õppeaine ÕIS-is〕]
+username: Robertutils
+minor: 
+keep-ts: 1526371004
+languages: 
+ts: 1526371004
+ip: 89.235.235.166
+flags: 1
 text: #SUBTITLE Intellektuaalse omandi õigus
 	#SUBURL [Course:108378 〔Õppeaine ÕIS-is〕]
 	
@@ -20,14 +30,6 @@ text: #SUBTITLE Intellektuaalse omandi õigus
 	-- [http://unitedgamersonline.com/ Robertutils] 2018-05-15 10:56:44
 	
 	
-lastmajor: 5
-ts: 1526371004
 revision: 5
-summary: Go to this site http://unitedgamersonline.com/ and test new online games!
-minor: 
-username: Robertutils
-ip: 89.235.235.166
-languages: 
-host: 95.211.185.11
 lastmajorsummary: Go to this site http://unitedgamersonline.com/ and test new online games!
-keep-ts: 1526371004
+lastmajor: 5
