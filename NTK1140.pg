@@ -1,6 +1,10 @@
-flags: 
 summary:  [[File:GPS_fail.xlsx]] 
-minor: 
+lastmajorsummary:  [[File:GPS_fail.xlsx]] 
+blocks: [Course:106860 〔Õppeaine ÕIS-is〕]
+languages: 
+username: 
+lastmajor: 3
+revision: 3
 text: #SUBTITLE Keskkonnahoiu tehnoloogiad
 	#SUBURL [Course:106860 〔Õppeaine ÕIS-is〕]
 	
@@ -25,12 +29,8 @@ text: #SUBTITLE Keskkonnahoiu tehnoloogiad
 	-- Anonymous 2018-03-14 11:19:33
 	
 	
-revision: 3
+flags: 1
 ts: 1521019174
-host: 193.40.13.82
 keep-ts: 1521019174
-lastmajorsummary:  [[File:GPS_fail.xlsx]] 
-languages: 
-lastmajor: 3
-username: 
-blocks: 
+host: 193.40.13.82
+minor: 

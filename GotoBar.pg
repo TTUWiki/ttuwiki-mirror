@@ -1,7 +1,13 @@
-summary: Remove link to outdated page
-username: AlexDaniel
-ip: 89.235.239.240
+blocks: 
 lastmajor: 10
+revision: 10
+minor: 
+languages: 
+flags: 
+username: AlexDaniel
+ts: 1522892807
+lastmajorsummary: Remove link to outdated page
+ip: 89.235.239.240
 text: #LANG_NO_BUTTONS EST
 	[[Home|Pealeht]]
 	[[Useful Stuff|Kasulik info]]
@@ -23,10 +29,6 @@ text: #LANG_NO_BUTTONS EST
 	[[lang:ee EST]]
 	[[lang:ru RUS]]
 	
-languages: 
-host: 89.235.236.40
-lastmajorsummary: Remove link to outdated page
-minor: 
+summary: Remove link to outdated page
 keep-ts: 1522892807
-revision: 10
-ts: 1522892807
+host: 89.235.236.40
