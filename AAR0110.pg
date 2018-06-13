@@ -1,10 +1,13 @@
-keep-ts: 1441924443
-revision: 4
-host: 82.131.7.230
-blocks: [Course:100722 〔Õppeaine ÕIS-is〕]</div></div>
-lastmajor: 2
-username: AlexDaniel
+revision: 5
+ts: 1528895663
+host: 193.40.249.209
+keep-ts: 1528895663
 ip: 89.235.235.166
+minor: 
+lastmajorsummary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
+languages: 
+summary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
+lastmajor: 5
 text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	#SUBURL [Course:100722 〔Õppeaine ÕIS-is〕]
 	
@@ -20,8 +23,12 @@ text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	#LANG_END
 	
 	
-ts: 1441924443
-flags: 10
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-languages: 
-minor: 1
+	----
+	
+	Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png
+	http://www.ester.ee/record=b4618200*est
+	
+	-- Anonymous 2018-06-13 16:14:22
+	
+	
+username: 
