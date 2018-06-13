@@ -1,10 +1,12 @@
-keep-ts: 1528290695
-username: ankorn
-lastmajor: 5
-ip: 89.235.235.166
-languages: 
 host: 193.40.241.27
+username: ankorn
+blocks: 
+minor: 
+keep-ts: 1528290695
+summary:  [[File:Kornitska_Internship_Report.docx]] 
+revision: 5
 ts: 1528290695
+lastmajorsummary:  [[File:Kornitska_Internship_Report.docx]] 
 text: #SUBTITLE Praktika
 	#SUBURL [Course:108602 〔Õppeaine ÕIS-is〕]
 	
@@ -29,7 +31,7 @@ text: #SUBTITLE Praktika
 	-- ankorn 2018-06-06 16:11:35
 	
 	
-revision: 5
-summary:  [[File:Kornitska_Internship_Report.docx]] 
-lastmajorsummary:  [[File:Kornitska_Internship_Report.docx]] 
-minor: 
+lastmajor: 5
+ip: 89.235.235.166
+languages: 
+flags: 

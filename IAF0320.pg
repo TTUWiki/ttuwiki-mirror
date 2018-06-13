@@ -1,4 +1,10 @@
-lastmajorsummary: link to wayback machine (original image was changed)
+username: AlexDaniel
+keep-ts: 1523636910
+minor: 
+ts: 1523636910
+revision: 27
+lastmajor: 27
+languages: 
 text: #SUBTITLE Arvutisüsteemide projekteerimine
 	#SUBURL [Course:106439 〔Õppeaine ÕIS-is〕]
 	
@@ -68,15 +74,9 @@ text: #SUBTITLE Arvutisüsteemide projekteerimine
 	-- AlexDaniel 2016-10-24 23:03:19
 	
 	
-ts: 1523636910
-languages: 
-minor: 
 host: 89.235.238.87
-username: AlexDaniel
-ip: 89.235.235.166
-revision: 27
+blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
 flags: 1
 summary: link to wayback machine (original image was changed)
-lastmajor: 27
-blocks: [Course:106439 〔Õppeaine ÕIS-is〕]
-keep-ts: 1523636910
+ip: 89.235.235.166
+lastmajorsummary: link to wayback machine (original image was changed)
