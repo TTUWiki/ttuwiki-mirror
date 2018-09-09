@@ -1,10 +1,9 @@
-ip: 89.235.235.166
+keep-ts: 1536514266
+lastmajor: 6
+ts: 1536514266
+host: 89.235.229.0
 username: 
-lastmajorsummary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
-languages: 
-minor: 
-blocks: [Course:100722 〔Õppeaine ÕIS-is〕]
-keep-ts: 1528895663
+lastmajorsummary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
 text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	#SUBURL [Course:100722 〔Õppeaine ÕIS-is〕]
 	
@@ -28,9 +27,16 @@ text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	-- Anonymous 2018-06-13 16:14:22
 	
 	
-lastmajor: 5
-summary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
-host: 193.40.249.209
-ts: 1528895663
-revision: 5
-flags: 1
+	----
+	
+	Digitaaltehnika moodle link
+	https://moodle.hitsa.ee/enrol/index.php?id=19492
+	
+	-- Anonymous 2018-09-09 20:31:05
+	
+	
+minor: 
+summary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
+ip: 89.235.235.166
+languages: 
+revision: 6
