@@ -1,13 +1,5 @@
-keep-ts: 1526534682
-languages: 
-flags: 10
-host: 89.235.245.87
 ts: 1526534682
-username: AlexDaniel
-blocks: [Course:108378 〔Õppeaine ÕIS-is〕]</div></div>
-minor: 
-lastmajor: 6
-lastmajorsummary: Rollback to 2015-09-11 01:34:06
+keep-ts: 1526534682
 text: #SUBTITLE Intellektuaalse omandi õigus
 	#SUBURL [Course:108378 〔Õppeaine ÕIS-is〕]
 	
@@ -23,6 +15,14 @@ text: #SUBTITLE Intellektuaalse omandi õigus
 	#LANG_END
 	
 	
+flags: 10
+username: AlexDaniel
 ip: 89.235.235.166
+lastmajorsummary: Rollback to 2015-09-11 01:34:06
+host: 89.235.245.87
+lastmajor: 6
 summary: Rollback to 2015-09-11 01:34:06
+languages: 
+minor: 
+blocks: [Course:108378 〔Õppeaine ÕIS-is〕]</div></div>
 revision: 6

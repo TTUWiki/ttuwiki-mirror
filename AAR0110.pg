@@ -1,13 +1,10 @@
-revision: 5
-ts: 1528895663
-host: 193.40.249.209
-keep-ts: 1528895663
 ip: 89.235.235.166
-minor: 
+username: 
 lastmajorsummary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
 languages: 
-summary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
-lastmajor: 5
+minor: 
+blocks: [Course:100722 〔Õppeaine ÕIS-is〕]
+keep-ts: 1528895663
 text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	#SUBURL [Course:100722 〔Õppeaine ÕIS-is〕]
 	
@@ -31,4 +28,9 @@ text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	-- Anonymous 2018-06-13 16:14:22
 	
 	
-username: 
+lastmajor: 5
+summary: Õpik http://www.tud.ttu.ee/im/Madis.Lehtla/WEB/Sissejuhatus_digitaaltehnikasse/Sissejuhatus_digitaaltehnikasse.png . . .
+host: 193.40.249.209
+ts: 1528895663
+revision: 5
+flags: 1
