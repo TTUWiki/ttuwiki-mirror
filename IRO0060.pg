@@ -1,8 +1,10 @@
-revision: 4
-host: 82.131.7.230
+minor: 
+keep-ts: 1536986898
+summary: Õppematerjal: https://www.ttu.ee/persoon/ivo-muursepp/oppeained-69/iro0060-infosusteemde-elektriseadmed/loengud-4/
+host: 185.158.178.230
+lastmajorsummary: Õppematerjal: https://www.ttu.ee/persoon/ivo-muursepp/oppeained-69/iro0060-infosusteemde-elektriseadmed/loengud-4/
+ts: 1536986898
 languages: 
-minor: 1
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
 text: #SUBTITLE Infosüsteemide elektriseadmed
 	#SUBURL [Course:29842 〔Õppeaine ÕIS-is〕]
 	
@@ -18,10 +20,14 @@ text: #SUBTITLE Infosüsteemide elektriseadmed
 	#LANG_END
 	
 	
-ts: 1441924447
+	----
+	
+	Õppematerjal: https://www.ttu.ee/persoon/ivo-muursepp/oppeained-69/iro0060-infosusteemde-elektriseadmed/loengud-4/
+	
+	-- Anonymous 2018-09-15 07:48:18
+	
+	
+lastmajor: 5
+username: 
+revision: 5
 ip: 89.235.235.166
-lastmajor: 2
-blocks: [Course:29842 〔Õppeaine ÕIS-is〕]</div></div>
-keep-ts: 1441924447
-flags: 10
-username: AlexDaniel
