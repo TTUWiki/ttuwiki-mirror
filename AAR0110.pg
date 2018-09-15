@@ -1,9 +1,5 @@
-keep-ts: 1536514266
+flags: 1
 lastmajor: 6
-ts: 1536514266
-host: 89.235.229.0
-username: 
-lastmajorsummary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
 text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	#SUBURL [Course:100722 〔Õppeaine ÕIS-is〕]
 	
@@ -35,8 +31,14 @@ text: #SUBTITLE Sissejuhatus digitaaltehnikasse
 	-- Anonymous 2018-09-09 20:31:05
 	
 	
-minor: 
-summary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
+keep-ts: 1536514266
 ip: 89.235.235.166
+blocks: [Course:100722 〔Õppeaine ÕIS-is〕]
+host: 89.235.229.0
+lastmajorsummary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
 languages: 
+summary: Digitaaltehnika moodle link https://moodle.hitsa.ee/enrol/index.php?id=19492
+username: 
+ts: 1536514266
+minor: 
 revision: 6
