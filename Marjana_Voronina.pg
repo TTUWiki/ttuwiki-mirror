@@ -1,15 +1,10 @@
-ts: 1518519452
-blocks: 
-flags: 
-languages: 
-summary: update
-lastmajor: 47
-lastmajorsummary: update
+ts: 1558538661
+username: Marjana Voronina
 text: ==My study plan
 	
 	=== TODO
 	|= Course |= EAP |
-	|[[ITX8302]]  Magistriseminar II | 3 | ☒ |
+	|[[ITX8302]]  Magistriseminar II | 3 | ✓ |
 	| Lõputöö | 30 | ☒ |
 	
 	
@@ -53,8 +48,11 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-revision: 47
+languages: 
+lastmajorsummary: update
 minor: 
-username: Marjana Voronina
-host: 89.235.241.113
-keep-ts: 1518519452
+lastmajor: 48
+keep-ts: 1558538661
+host: 84.52.44.192
+summary: update
+revision: 48
