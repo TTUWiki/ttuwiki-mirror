@@ -1,7 +1,13 @@
-lastmajor: 50
+lastmajorsummary: Congratulations! :)
+summary: Congratulations! :)
 minor: 
-summary: I'm done
-lastmajorsummary: I'm done
+lastmajor: 51
+ts: 1562061857
+host: 89.235.224.130
+languages: 
+keep-ts: 1562061857
+revision: 51
+username: AlexDaniel
 text: ==My study plan
 	
 	|= Course |= EAP |
@@ -49,9 +55,10 @@ text: ==My study plan
 	*162967 – Olesja
 	*163596 – Stanislav
 	
-keep-ts: 1559936956
-username: Marjana Voronina
-ts: 1559936956
-languages: 
-host: 89.235.229.20
-revision: 50
+	----
+	
+	Congratulations! :)
+	
+	-- AlexDaniel 2019-07-02 13:04:17
+	
+	
