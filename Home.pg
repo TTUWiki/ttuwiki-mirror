@@ -1,3 +1,11 @@
+host: 89.235.237.87
+minor: 0
+ts: 1584546520
+summary: Rollback to 2016-09-06 18:47:22
+languages: 
+revision: 46
+lastmajorsummary: Rollback to 2016-09-06 18:47:22
+blocks: </div></div>
 text: #ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
 	
@@ -35,20 +43,7 @@ text: #ENG
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-	----
-	
-	The best wоmen fоr sеx in your tоwn AU: https://ecuadortenisclub.com/datingsexygirls195637
-	
-	-- [http://Beаutiful women fоr sеx in уоur town UК: https://darknesstr.com/datingsexygirls950995 Anonymous] 2020-02-16 12:33:11
-	
-	
-keep-ts: 1581849191
 username: 
-host: 80.79.116.138
-languages: 
-summary: The best wоmen fоr sеx in your tоwn AU: https://ecuadortenisclub.com/datingsexygirls195637
-revision: 45
-ts: 1581849191
-lastmajorsummary: The best wоmen fоr sеx in your tоwn AU: https://ecuadortenisclub.com/datingsexygirls195637
-minor: 
-lastmajor: 45
+lastmajor: 46
+keep-ts: 1584546520
+flags: 0
