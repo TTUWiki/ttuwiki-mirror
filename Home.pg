@@ -1,8 +1,10 @@
+username: AlexDaniel
+blocks: </div></div>
+revision: 48
+lastmajor: 48
 languages: 
-ts: 1584560148
 minor: 
-host: 89.235.237.87
-text: Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!
+text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!**
 	
 	#ENG
 	Welcome to the unofficial wiki of Tallinn University of Technology (a website editable by all)!
@@ -41,11 +43,9 @@ text: Unfortunately, this wiki is no longer being updated by anybody. Contributi
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-keep-ts: 1584560148
-username: AlexDaniel
 flags: 0
-lastmajor: 47
-blocks: </div></div>
-summary: No longer being updated :(
 lastmajorsummary: No longer being updated :(
-revision: 47
+summary: No longer being updated :(
+ts: 1584560165
+host: 89.235.237.87
+keep-ts: 1584560165
