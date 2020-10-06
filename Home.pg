@@ -1,9 +1,9 @@
-username: AlexDaniel
-blocks: </div></div>
-revision: 48
-lastmajor: 48
 languages: 
-minor: 
+username: AlexDaniel
+ts: 1584560165
+keep-ts: 1584560165
+revision: 48
+blocks: </div></div>
 text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!**
 	
 	#ENG
@@ -43,9 +43,9 @@ text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Cont
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-flags: 0
-lastmajorsummary: No longer being updated :(
+minor: 
+lastmajor: 48
 summary: No longer being updated :(
-ts: 1584560165
+lastmajorsummary: No longer being updated :(
 host: 89.235.237.87
-keep-ts: 1584560165
+flags: 0
