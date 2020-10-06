@@ -1,9 +1,11 @@
-languages: 
-username: AlexDaniel
-ts: 1584560165
-keep-ts: 1584560165
-revision: 48
-blocks: </div></div>
+lastmajorsummary: You can register the web domain TTU.WIKI ! Visit http://namechomp.tk/?domain=ttu.wiki to register your domain now -- LAST CHANCE before someone else . . .
+keep-ts: 1602002273
+lastmajor: 49
+revision: 49
+username: 
+ts: 1602002273
+minor: 
+summary: You can register the web domain TTU.WIKI ! Visit http://namechomp.tk/?domain=ttu.wiki to register your domain now -- LAST CHANCE before someone else . . .
 text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!**
 	
 	#ENG
@@ -43,9 +45,12 @@ text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Cont
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-minor: 
-lastmajor: 48
-summary: No longer being updated :(
-lastmajorsummary: No longer being updated :(
-host: 89.235.237.87
-flags: 0
+	----
+	
+	You can register the web domain TTU.WIKI ! Visit http://namechomp.tk/?domain=ttu.wiki to register your domain now -- LAST CHANCE before someone else takes it!
+	
+	-- Anonymous 2020-10-06 19:37:53
+	
+	
+languages: 
+host: 64.44.55.204
