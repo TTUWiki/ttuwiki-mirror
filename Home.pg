@@ -1,6 +1,9 @@
-blocks: </div></div>
-summary: Rollback to 2020-03-18 21:36:05
 flags: 0
+lastmajorsummary: Rollback to 2020-03-18 21:36:05
+keep-ts: 1602878501
+languages: 
+revision: 50
+host: 91.129.108.225
 text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!**
 	
 	#ENG
@@ -40,12 +43,9 @@ text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Cont
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-ts: 1602878501
-languages: 
+summary: Rollback to 2020-03-18 21:36:05
 lastmajor: 50
-host: 91.129.108.225
-lastmajorsummary: Rollback to 2020-03-18 21:36:05
-revision: 50
+blocks: </div></div>
+ts: 1602878501
 minor: 0
-keep-ts: 1602878501
 username: 
