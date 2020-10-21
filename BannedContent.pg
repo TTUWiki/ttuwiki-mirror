@@ -1,19 +1,17 @@
-languages: 
+username: 
+host: 84.52.43.88
 lastmajor: 1
+revision: 6
+ts: 1603305167
 ip: 89.235.231.98
-revision: 5
-username: AlexDaniel
-diff-major: 
-host: 89.235.232.183
+keep-ts: 1603305167
+languages: 
+minor: 1
 text: casino
 	payday # 2014-07-11 EAUM12
 	donterra
 	greatnoiseensemble # 2014-10-23 ISS0010
 	unexpectedmedia # 2014-10-24 ISS0010
+	namechomp # 2020-10-21 Home
 	
-diff-minor: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; unexpectedmedia # 2014-10-24 ISS0010</p></div>
-ts: 1414176340
-keep-ts: 1414176340
-minor: 1
-summary: ISS0010
+summary: Home
