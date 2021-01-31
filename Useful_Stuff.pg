@@ -1,12 +1,3 @@
-languages: 
-ts: 1485811171
-lastmajorsummary: Rollback to 2016-10-24 21:45:36
-host: 85.253.230.146
-username: AlexDaniel
-keep-ts: 1485811171
-lastmajor: 70
-minor: 0
-summary: Rollback to 2016-10-24 21:45:36
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -250,4 +241,21 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-revision: 70
+	----
+	
+	Linux mirrors in Estonia might be useful 
+	https://mirror.cspacehostings.com
+	
+	-- mirror 2021-01-31 11:58:02
+	
+	
+minor: 
+host: 84.135.56.60
+ts: 1612087082
+lastmajorsummary: Linux mirrors in Estonia might be useful  https://mirror.cspacehostings.com 
+languages: 
+lastmajor: 71
+summary: Linux mirrors in Estonia might be useful  https://mirror.cspacehostings.com 
+revision: 71
+username: mirror
+keep-ts: 1612087082
