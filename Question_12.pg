@@ -19,11 +19,13 @@ text: Am I the only one who finds it weird? :)
 	
 	
 host: 85.253.224.176
-minor: 1
-revision: 1
 languages: 
-summary: Moved
+revision: 1
+flags: 0101
 username: AlexDaniel
-blocks: 
+summary: Moved
+blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
+	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
+	
+minor: 1
 ts: 1469508473
-flags: 
