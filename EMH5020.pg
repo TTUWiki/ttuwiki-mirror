@@ -1,13 +1,7 @@
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
-lastmajor: 2
-flags: 10
-username: AlexDaniel
-revision: 4
-blocks: [Course:25337 〔Õppeaine ÕIS-is〕]</div></div>
-keep-ts: 1441924445
+summary: 
 ip: 89.235.235.166
-languages: 
-minor: 1
+lastmajor: 5
+blocks: </div></div>
 text: #SUBTITLE Hüdro- ja aeromehaanika
 	#SUBURL [Course:25337 〔Õppeaine ÕIS-is〕]
 	
@@ -17,11 +11,12 @@ text: #SUBTITLE Hüdro- ja aeromehaanika
 	#EST
 	Lehekülg on hetkel tühi, tunneme sinu kasulikest nõuannetest puudust.
 	
-	#RUS
-	Эта страница пуста, здесь не хватает твоих полезных советов.
-	
-	#LANG_END
-	
-	
-host: 82.131.7.230
-ts: 1441924445
+host: 145.14.44.13
+minor: 
+revision: 5
+ts: 1665564890
+keep-ts: 1665564890
+username: 
+languages: 
+lastmajorsummary: 
+flags: 0
