@@ -37,15 +37,15 @@ text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Cont
 	Выберите две похожие программы, например **IABB02-14** и **IAPB02-14**, нажмите **Сравнить**. Красным выделено то, чего не будет во второй, зеленым – то, что в первой отсутствовало. [[http://ttuwiki.ee/?action=pagediff&pattern=%5E%5Cw%5Cw%5Cw%5Cw%5Cd%5Cd-%5Cd%5Cd%24&page1=IABB02-14&page2=IAPB02-14|Пример]].
 	<diff ^\w\w\w\w\d\d-\d\d$>
 	
-username: 
-minor: 0
-flags: 0
-lastmajorsummary: Rollback to 2022-02-26 20:20:50
-languages: 
+revision: 58
 summary: Rollback to 2022-02-26 20:20:50
-lastmajor: 58
 host: 82.131.57.57
+blocks: </div></div>
 keep-ts: 1665360142
 ts: 1665360142
-revision: 58
-blocks: </div></div>
+minor: 0
+flags: 0
+lastmajor: 58
+languages: 
+lastmajorsummary: Rollback to 2022-02-26 20:20:50
+username: 
