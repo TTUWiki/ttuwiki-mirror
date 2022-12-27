@@ -1,7 +1,8 @@
-blocks: <h2>== Most recent questions / Viimased küsimused / Последние вопросы
-	</h2>&lt;Journal 2,10 "^Question_\d+"&gt;
-	
-revision: 1
+username: AlexDaniel
+ts: 1469508413
+blocks: 
+minor: 1
+languages: 
 text: Same thing here :(
 	
 	[[File:Screenshot_from_2016-07-25_04-14-49.png]]
@@ -20,10 +21,7 @@ text: Same thing here :(
 	-- AlexDaniel 2016-07-26 07:44:44
 	
 	
-username: AlexDaniel
-host: 85.253.224.176
+revision: 1
+flags: 
 summary: Moved
-flags: 0101
-ts: 1469508413
-languages: 
-minor: 1
+host: 85.253.224.176
