@@ -1,11 +1,7 @@
-revision: 7
-ts: 1665360130
 lastmajorsummary: Rollback to 2016-11-21 16:09:23
-blocks: [Course:110068 〔Õppeaine ÕIS-is〕]
-languages: 
-username: 
-minor: 0
-summary: Rollback to 2016-11-21 16:09:23
+ts: 1665360130
+revision: 7
+keep-ts: 1665360130
 text: #SUBTITLE Tarkvara arhitektuur ja disain
 	#SUBURL [Course:110068 〔Õppeaine ÕIS-is〕]
 	https://moodle.hitsa.ee/course/view.php?id=14074
@@ -26,7 +22,11 @@ text: #SUBTITLE Tarkvara arhitektuur ja disain
 	-- Artur Gummel 2016-11-21 16:09:23
 	
 	
+minor: 0
+languages: 
+summary: Rollback to 2016-11-21 16:09:23
+username: 
 flags: 1
-lastmajor: 7
 host: 82.131.57.57
-keep-ts: 1665360130
+blocks: [Course:110068 〔Õppeaine ÕIS-is〕]
+lastmajor: 7

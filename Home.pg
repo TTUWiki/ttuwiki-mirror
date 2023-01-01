@@ -1,4 +1,13 @@
 ts: 1672137700
+flags: 
+revision: 60
+languages: 
+lastmajor: 60
+summary: My name’s Eric and I just found your site ttuwiki.org. It’s got a lot going for it, but here’s an idea to make it even MORE effective. Talk . . .
+keep-ts: 1672137700
+username: Eric Jones
+lastmajorsummary: My name’s Eric and I just found your site ttuwiki.org. It’s got a lot going for it, but here’s an idea to make it even MORE effective. Talk . . .
+blocks: 
 text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Contributions are welcome, but the existing data is likely out of date. Sorry!**
 	
 	#ENG
@@ -114,12 +123,5 @@ text: **⚠ Unfortunately, this wiki is no longer being updated by anybody. Cont
 	-- [http://jumboleadmagnet.com Eric Jones] 2022-12-27 12:41:40
 	
 	
-keep-ts: 1672137700
-lastmajorsummary: My name’s Eric and I just found your site ttuwiki.org. It’s got a lot going for it, but here’s an idea to make it even MORE effective. Talk . . .
-host: 196.196.220.169
-languages: 
-summary: My name’s Eric and I just found your site ttuwiki.org. It’s got a lot going for it, but here’s an idea to make it even MORE effective. Talk . . .
-lastmajor: 60
-username: Eric Jones
-revision: 60
 minor: 
+host: 196.196.220.169
