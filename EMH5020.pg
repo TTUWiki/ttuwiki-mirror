@@ -1,7 +1,3 @@
-ip: 89.235.235.166
-keep-ts: 1672574442
-username: 
-languages: 
 text: #SUBTITLE Hüdro- ja aeromehaanika
 	#SUBURL [Course:25337 〔Õppeaine ÕIS-is〕]
 	
@@ -17,12 +13,16 @@ text: #SUBTITLE Hüdro- ja aeromehaanika
 	#LANG_END
 	
 	
+minor: 
 summary: Rollback to 2015-09-11 01:34:05
 lastmajor: 6
-flags: 10
-blocks: [Course:25337 〔Õppeaine ÕIS-is〕]</div></div>
-host: 82.131.59.28
-lastmajorsummary: Rollback to 2015-09-11 01:34:05
-ts: 1672574442
-minor: 
+languages: 
 revision: 6
+ip: 89.235.235.166
+flags: 10
+ts: 1672574442
+lastmajorsummary: Rollback to 2015-09-11 01:34:05
+username: 
+host: 82.131.59.28
+blocks: [Course:25337 〔Õppeaine ÕIS-is〕]</div></div>
+keep-ts: 1672574442
