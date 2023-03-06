@@ -1,6 +1,7 @@
-languages: 
-ts: 1469508473
+username: AlexDaniel
 revision: 1
+flags: 
+blocks: 
 text: Am I the only one who finds it weird? :)
 	
 	[[File:Screenshot_from_2016-07-25_04-09-01.png]]
@@ -21,9 +22,8 @@ text: Am I the only one who finds it weird? :)
 	-- AlexDaniel 2016-07-26 07:38:21
 	
 	
-summary: Moved
-blocks: 
-username: AlexDaniel
-flags: 
-host: 85.253.224.176
 minor: 1
+ts: 1469508473
+summary: Moved
+host: 85.253.224.176
+languages: 
