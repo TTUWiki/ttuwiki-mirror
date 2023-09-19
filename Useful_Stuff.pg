@@ -1,8 +1,9 @@
-ts: 1634902628
-keep-ts: 1634902628
-host: 80.235.8.75
+lastmajorsummary: 
+lastmajor: 75
+minor: 
 languages: 
-minor: 0
+revision: 75
+summary: 
 text: === This wiki / Veebilehest / О сайте:
 	#ENG
 	* [[About]] – about this website
@@ -190,7 +191,7 @@ text: === This wiki / Veebilehest / О сайте:
 	
 	----
 	
-	Материалы с imcaps.me/tut(практически все предметы на бакалавре, плюс в папке other другие предметы) выложены архивом по ссылке http://we.tl/JGgqW32r2U. Страницу imcaps.me/tut я больше не буду содержать, и в скоре удалю оттуда все. Одна только просьба, после того как получите\скачаете фаилы, дайте знать, а также если возникнут любые вопросы, пишите на alexandr1991[at]gmail.com
+	Материалы с imcaps.me/tut(практически все предметы на бакалавре, плюс в папке other другие предметы) выложены архивом по ссылке http://we.tl/JGgqW32r2U. Страницу imcaps.me/tut я больше не буду содержать, и в скоре удалю оттуда все. 
 	
 	-- imCaps 2015-05-31 16:43:46
 	
@@ -246,8 +247,7 @@ text: === This wiki / Veebilehest / О сайте:
 	-- imCaps 2015-11-12 14:59:30
 	
 	
-summary: Rollback to 2017-01-30 23:19:31
-revision: 74
-lastmajor: 74
-lastmajorsummary: Rollback to 2017-01-30 23:19:31
+host: 87.119.186.74
+ts: 1695120815
 username: 
+keep-ts: 1695120815
