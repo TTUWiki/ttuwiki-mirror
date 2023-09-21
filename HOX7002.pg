@@ -1,12 +1,8 @@
-keep-ts: 1441924446
-summary: SUBURL\: (Course\:\d+) → SUBURL [$1 〔Õppeaine ÕIS-is〕]
+ts: 1695306860
+keep-ts: 1695306860
+summary: Thanks for sharing such a nice idea, paragraph is nice, thats why i have  read it entirely
 ip: 89.235.235.166
-lastmajor: 2
-flags: 10
-blocks: [Course:101943 〔Õppeaine ÕIS-is〕]</div></div>
-host: 82.131.7.230
-languages: 
-minor: 1
+host: 196.196.222.122
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -22,6 +18,17 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	#LANG_END
 	
 	
-username: AlexDaniel
-ts: 1441924446
-revision: 4
+	----
+	
+	Thanks for sharing such a nice idea, paragraph is nice, thats why i have 
+	read it entirely
+	
+	-- [https://bettop88.com/xo-888-slot สล็อต xo 888] 2023-09-21 17:34:19
+	
+	
+languages: 
+minor: 
+username: สล็อต xo 888
+revision: 5
+lastmajorsummary: Thanks for sharing such a nice idea, paragraph is nice, thats why i have  read it entirely
+lastmajor: 5
