@@ -1,4 +1,17 @@
+minor: 1
+diff-minor: 
+host: 89.235.245.14
+ip: 66.249.93.234
+blocks: 
+summary: Touch
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
+username: AlexDaniel
+lastmajor: 5
+keep-ts: 1407693325
+languages: 
 flags: 
+revision: 6
 text: Произошла небольшая катастрофа, поэтому в некоторых местах сайт может выглядеть как после взрыва.
 	Все последние данные сохранены, просто их восстановление займет некоторое время.
 	
@@ -18,17 +31,4 @@ text: Произошла небольшая катастрофа, поэтому
 	
 	-- AlexDaniel 2014-08-10 20:27:41
 	
-minor: 1
-keep-ts: 1407693325
 ts: 1407693325
-host: 89.235.245.14
-username: AlexDaniel
-revision: 6
-languages: 
-summary: Touch
-lastmajor: 5
-ip: 66.249.93.234
-diff-major: <p><strong>Added:</strong></p>
-	<div class="new"><p>&gt; ----<br />&gt; Всё давно уже исправлено, если что :)<br />&gt; -- AlexDaniel 2014-08-10 20:27:41</p></div>
-blocks: 
-diff-minor: 
