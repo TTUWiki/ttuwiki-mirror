@@ -1,7 +1,3 @@
-revision: 7
-lastmajor: 7
-ip: 89.235.235.166
-lastmajorsummary: Awesome things here. I'm very satisfied to see your article. Thanks a lot and I'm taking a look forward to contact you. Will you please drop me a . . .
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -42,10 +38,16 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://bettop88.com/joker123 joker123] 2023-09-25 08:54:03
 	
 	
-ts: 1695621243
 host: 196.196.222.46
+ip: 89.235.235.166
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
 username: joker123
-keep-ts: 1695621243
-languages: 
+flags: 1
+lastmajorsummary: Awesome things here. I'm very satisfied to see your article. Thanks a lot and I'm taking a look forward to contact you. Will you please drop me a . . .
 summary: Awesome things here. I'm very satisfied to see your article. Thanks a lot and I'm taking a look forward to contact you. Will you please drop me a . . .
+languages: 
+revision: 7
+keep-ts: 1695621243
+ts: 1695621243
+lastmajor: 7
 minor: 
