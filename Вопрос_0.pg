@@ -1,18 +1,9 @@
-keep-ts: 1440974346
-host: 82.131.0.18
-diff-major: 
-languages: 
-minor: 1
-revision: 2
-flags: 01
-lastmajor: 1
-summary: ссылка на oddmus
-blocks: <p>DeletedPage</p><h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
-	
-ts: 1440974346
 diff-minor: <p><strong>Changed:</strong></p>
 	<div class="old"><p>&lt; Движок <strong class="changes">OddMuse,</strong> который, например, используется на http://www.emacswiki.org/</p></div><p><strong>to</strong></p>
 	<div class="new"><p>&gt; Движок <strong class="changes">[[https://oddmuse.org/ Oddmuse]],</strong> который, например, используется на http://www.emacswiki.org/</p></div>
+lastmajor: 1
+diff-major: 
+host: 82.131.0.18
 username: AlexDaniel
 text: Это ВикиДвижок или это самосборка сайта такая?
 	
@@ -27,3 +18,12 @@ text: Это ВикиДвижок или это самосборка сайта 
 	-- AlexDaniel 2014-02-25 16:06 UTC
 	
 	
+ts: 1440974346
+keep-ts: 1440974346
+flags: 01
+blocks: <p>DeletedPage</p><h2>Последний вопрос</h2>&lt;Journal 1,10 "^Вопрос_\d+"&gt;
+	
+revision: 2
+languages: 
+minor: 1
+summary: ссылка на oddmus
