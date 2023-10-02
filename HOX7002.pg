@@ -1,12 +1,7 @@
-summary: After checking out a few of the articles on your blog, I truly like your technique of blogging. I bookmarked it to my bookmark webpage list and will . . .
-ip: 89.235.235.166
 lastmajorsummary: After checking out a few of the articles on your blog, I truly like your technique of blogging. I bookmarked it to my bookmark webpage list and will . . .
-username: เช่า รถ หาดใหญ่ ไม่มี บัตร เครดิต
 revision: 14
-ts: 1696178965
-keep-ts: 1696178965
-languages: 
-minor: 
+lastmajor: 14
+username: เช่า รถ หาดใหญ่ ไม่มี บัตร เครดิต
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -107,5 +102,12 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://wiki.castaways.com/wiki/User:SimaEdmiston เช่า รถ หาดใหญ่ ไม่มี บัตร เครดิต] 2023-10-01 19:49:25
 	
 	
-lastmajor: 14
+minor: 
+ip: 89.235.235.166
+flags: 1
+summary: After checking out a few of the articles on your blog, I truly like your technique of blogging. I bookmarked it to my bookmark webpage list and will . . .
 host: 196.196.222.162
+keep-ts: 1696178965
+ts: 1696178965
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
+languages: 
