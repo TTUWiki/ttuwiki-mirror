@@ -1,5 +1,10 @@
-ip: 89.235.235.166
+flags: 1
+keep-ts: 1696243672
 ts: 1696243672
+languages: 
+minor: 
+lastmajor: 16
+username: ออกแบบโบรชัวร์
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -116,12 +121,9 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://www.design365days.com/Project/Category/4/%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C ออกแบบโบรชัวร์] 2023-10-02 13:47:52
 	
 	
-languages: 
 summary: Good post! We are linking to this particularly great post on our site. Keep up the good writing.
-minor: 
-lastmajor: 16
-revision: 16
 lastmajorsummary: Good post! We are linking to this particularly great post on our site. Keep up the good writing.
-username: ออกแบบโบรชัวร์
-keep-ts: 1696243672
+ip: 89.235.235.166
+revision: 16
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
 host: 196.196.222.42
