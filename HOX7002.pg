@@ -1,11 +1,13 @@
-revision: 17
-summary: Its such as you learn my thoughts! You appear to know a lot about  this, such as you wrote the book in it or something. I believe that you just . . .
-minor: 
+lastmajor: 18
 host: 196.196.222.122
-flags: 1
-keep-ts: 1696253096
+ip: 89.235.235.166
+minor: 
+revision: 18
 username: เซรั่ม
-lastmajor: 17
+lastmajorsummary: Its such as you learn my thoughts! You appear to know a lot  about this, such as you wrote the book in it or something. I believe that you just can . . .
+ts: 1696253099
+keep-ts: 1696253099
+summary: Its such as you learn my thoughts! You appear to know a lot  about this, such as you wrote the book in it or something. I believe that you just can . . .
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -133,8 +135,16 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://serumth.com/ เซรั่ม] 2023-10-02 16:24:56
 	
 	
-ip: 89.235.235.166
-lastmajorsummary: Its such as you learn my thoughts! You appear to know a lot about  this, such as you wrote the book in it or something. I believe that you just . . .
+	----
+	
+	Its such as you learn my thoughts! You appear to know a lot 
+	about this, such as you wrote the book in it or something.
+	I believe that you just can do with some % to force the message home 
+	a little bit, however instead of that, that is fantastic blog.
+	
+	A great read. I will certainly be back.
+	
+	-- [https://serumth.com/ เซรั่ม] 2023-10-02 16:24:59
+	
+	
 languages: 
-blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
-ts: 1696253096
