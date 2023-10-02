@@ -1,12 +1,11 @@
-ts: 1696253096
-ip: 89.235.235.166
-languages: 
 revision: 17
-keep-ts: 1696253096
-host: 196.196.222.122
-lastmajor: 17
 summary: Its such as you learn my thoughts! You appear to know a lot about  this, such as you wrote the book in it or something. I believe that you just . . .
-lastmajorsummary: Its such as you learn my thoughts! You appear to know a lot about  this, such as you wrote the book in it or something. I believe that you just . . .
+minor: 
+host: 196.196.222.122
+flags: 1
+keep-ts: 1696253096
+username: เซรั่ม
+lastmajor: 17
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -134,5 +133,8 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://serumth.com/ เซรั่ม] 2023-10-02 16:24:56
 	
 	
-minor: 
-username: เซรั่ม
+ip: 89.235.235.166
+lastmajorsummary: Its such as you learn my thoughts! You appear to know a lot about  this, such as you wrote the book in it or something. I believe that you just . . .
+languages: 
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
+ts: 1696253096
