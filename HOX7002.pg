@@ -1,4 +1,4 @@
-revision: 19
+ts: 1696503942
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -145,15 +145,20 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://www.survey43.com/ ขายเสื้อยืด] 2023-10-05 14:05:21
 	
 	
+	----
+	
+	Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
+	
+	-- [https://www.survey43.com/ ขายเสื้อยืด] 2023-10-05 14:05:42
+	
+	
+username: ขายเสื้อยืด
+keep-ts: 1696503942
+lastmajor: 20
 host: 196.196.222.46
-blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
-lastmajor: 19
-ts: 1696503921
-keep-ts: 1696503921
-flags: 1
+lastmajorsummary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
 languages: 
 summary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
-username: ขายเสื้อยืด
-minor: 
 ip: 89.235.235.166
-lastmajorsummary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
+revision: 20
+minor: 
