@@ -1,9 +1,4 @@
-ts: 1696503921
-keep-ts: 1696503921
 revision: 19
-lastmajorsummary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
-ip: 89.235.235.166
-username: ขายเสื้อยืด
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -150,8 +145,15 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://www.survey43.com/ ขายเสื้อยืด] 2023-10-05 14:05:21
 	
 	
-minor: 
 host: 196.196.222.46
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]
+lastmajor: 19
+ts: 1696503921
+keep-ts: 1696503921
+flags: 1
 languages: 
 summary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
-lastmajor: 19
+username: ขายเสื้อยืด
+minor: 
+ip: 89.235.235.166
+lastmajorsummary: Wow, this article is pleasant, my sister is analyzing such things, therefore I am going to tell her.
