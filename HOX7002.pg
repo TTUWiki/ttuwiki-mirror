@@ -1,12 +1,13 @@
-ip: 89.235.235.166
 minor: 
-host: 196.196.222.46
-languages: 
 ts: 1696802348
-revision: 22
 lastmajor: 22
-summary: Hello there! Do you use Twitter? I'd like to follow you if that would be okay. I'm absolutely enjoying your blog and look forward  to new updates.
+username: รับรูดบัตรเครดิต
+flags: 
+lastmajorsummary: Hello there! Do you use Twitter? I'd like to follow you if that would be okay. I'm absolutely enjoying your blog and look forward  to new updates.
 keep-ts: 1696802348
+host: 196.196.222.46
+blocks: 
+revision: 22
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -178,5 +179,6 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	-- [https://www.cashquickonhand.com รับรูดบัตรเครดิต] 2023-10-09 00:59:08
 	
 	
-lastmajorsummary: Hello there! Do you use Twitter? I'd like to follow you if that would be okay. I'm absolutely enjoying your blog and look forward  to new updates.
-username: รับรูดบัตรเครดิต
+languages: 
+summary: Hello there! Do you use Twitter? I'd like to follow you if that would be okay. I'm absolutely enjoying your blog and look forward  to new updates.
+ip: 89.235.235.166
