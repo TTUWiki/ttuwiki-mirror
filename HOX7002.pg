@@ -1,15 +1,9 @@
-lastmajor: 25
-flags: 0
 ip: 89.235.235.166
-host: 62.65.220.40
-languages: 
-revision: 25
-summary: Rollback to 2015-09-11 01:34:06
-lastmajorsummary: Rollback to 2015-09-11 01:34:06
 keep-ts: 1700887492
-ts: 1700887492
+host: 62.65.220.40
+revision: 25
 username: 
-minor: 0
+lastmajorsummary: Rollback to 2015-09-11 01:34:06
 text: #SUBTITLE Õigusteaduse metodoloogia
 	#SUBURL [Course:101943 〔Õppeaine ÕIS-is〕]
 	
@@ -25,4 +19,10 @@ text: #SUBTITLE Õigusteaduse metodoloogia
 	#LANG_END
 	
 	
-blocks: </div></div>
+languages: 
+blocks: [Course:101943 〔Õppeaine ÕIS-is〕]</div></div>
+summary: Rollback to 2015-09-11 01:34:06
+ts: 1700887492
+lastmajor: 25
+flags: 10
+minor: 0
